@@ -82,18 +82,19 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2020.12) DETR for Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2012.06785)
 - (arXiv 2021.01)  Line Segment Detection Using Transformers without Edges, [[Paper]](https://arxiv.org/abs/2101.01909)
 - (arXiv 2021.01) Fast Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2101.07448.pdf)
-- (arXiv 2021.03) SSTN: Self-Supervised Domain Adaptation Thermal
-Object Detection for Autonomous Driving, [[Paper]](https://arxiv.org/abs/2103.03150)
+- (arXiv 2021.03) SSTN: Self-Supervised Domain Adaptation Thermal Object Detection for Autonomous Driving, [[Paper]](https://arxiv.org/abs/2103.03150)
 - (arXiv 2021.03) Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning, [[Paper]](https://arxiv.org/pdf/2103.11731.pdf)
 - (arXiv 2021.03) TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2103.14862)
 -  (arXiv 2021.03) CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification, [[Paper]](https://arxiv.org/abs/2103.14899)
 - (arXiv 2021.03) DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention, [[Paper]](https://arxiv.org/abs/2103.17084)
 - (arXiv 2021.04) Efficient DETR: Improving End-to-End Object Detector with Dense Prior, [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
 - (arXiv 2021.04) Deepfake Detection Scheme Based on Vision Transformer and Distillation, [[Paper]](https://arxiv.org/abs/2104.01353)
+- (arXiv 2021.04) Points as Queries: Weakly Semi-supervised Object Detection by Points, [[Paper]](https://arxiv.org/pdf/2104.07434.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
 - (arXiv 2021.03) Robust Facial Expression Recognition with Convolutional Visual Transformers, [[Paper]](https://arxiv.org/abs/2103.16854)
+- (arXiv 2021.04) TransRPPG: Remote Photoplethysmography Transformer for 3D Mask Face Presentation Attack Detection, [[Paper]](https://arxiv.org/pdf/2104.07419.pdf)
 
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -127,6 +128,7 @@ Object Detection for Autonomous Driving, [[Paper]](https://arxiv.org/abs/2103.03
 - (arXiv 2021.03) U-Net Transformer: Self and Cross Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2103.06104)
 - (arXiv 2021.03) SUNETR: Transformers for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2103.10504)
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
+- (arXiv 2021.04) Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification, [[Paper]](https://arxiv.org/pdf/2104.07235.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -207,6 +209,7 @@ Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/21
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
+- (arXiv 2021.04) Geometry-Free View Synthesis: Transformers and no 3D Priors, [[Paper]](https://arxiv.org/pdf/2104.07652.pdf)
 
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
