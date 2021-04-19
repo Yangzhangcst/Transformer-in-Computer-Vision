@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/04/16
+**Last updated: 2021/04/19
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.
@@ -129,6 +129,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) SUNETR: Transformers for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2103.10504)
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
 - (arXiv 2021.04) Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification, [[Paper]](https://arxiv.org/pdf/2104.07235.pdf)
+- (arXiv 2021.04) Shoulder Implant X-Ray Manufacturer Classification: Exploring with Vision Transformer, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2104/2104.07667.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -188,6 +189,7 @@ Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/21
 - (arXiv 2021.02) Training Vision Transformers for Image Retrieval, [[Paper]](https://arxiv.org/pdf/2102.05644.pdf)
 - (arXiv 2021.03) Instance-level Image Retrieval using Reranking Transformers, [[Paper]](https://arxiv.org/abs/2103.12424), [[Code]](https://arxiv.org/abs/2103.12236)
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
+- (arXiv 2021.04) Self-supervised Video Retrieval Transformer Network, [[Paper]](https://arxiv.org/pdf/2104.07993.pdf)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793)
