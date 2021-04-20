@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/04/19
+**Last updated: 2021/04/20
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.
@@ -239,6 +239,7 @@ Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/21
 - (arXiv 2021.03) An Image is Worth 16x16 Words, What is a Video Worth? [[Paper]](https://arxiv.org/pdf/2103.13915.pdf)
 - (arXiv 2021.03) ViViT: A Video Vision Transformer, [[paper]](https://arxiv.org/abs/2103.15691)
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
+- (arXiv 2021.04) Temporal Query Networks for Fine-grained Video Understanding, [[Paper]](https://arxiv.org/pdf/2104.09496.pdf), [[Project]](https://www.robots.ox.ac.uk/~vgg/research/tqn/)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
@@ -249,7 +250,7 @@ Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/21
 - (arXiv 2021.04) Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/abs/2104.03135)
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
 - (arXiv 2021.04) Cloth Interactive Transformer for Virtual Try-On, [[Paper]](https://arxiv.org/abs/2104.05519), [[Code]](https://arxiv.org/abs/2104.05519)
-
+- (arXiv 2021.04) Multi-Modal Fusion Transformer for End-to-End Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2104.09224.pdf)
 
 ## Contact & Feedback
 
