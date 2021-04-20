@@ -67,6 +67,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
 - (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2104.00845.pdf), [[Code]](https://github.com/lyndonzheng/TFill)
 
+### Crowd Counting
+- (arXiv 2021.04) TransCrowd: Weakly-Supervised Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2104.09116.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
+
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
 - (arXiv 2021.03) Vision Transformers for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2103.13413.pdf), [[Code]](https://github.com/intel-isl/DPT)
@@ -102,7 +105,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Generative Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2103.01209.pdf), [[Code]](https://github.com/dorarad/gansformer)
 - (arXiv 2021.04) VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.06757.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
 
-
 ### HOI
 - (arXiv 2021.03) QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information, [[Paper]](https://arxiv.org/pdf/2103.05399), [[Code]](https://github.com/hitachi-rd-cv/qpic)
 - (arXiv 2021.03) Reformulating HOI Detection as Adaptive Set Prediction, [[Paper]](https://arxiv.org/pdf/2103.05983), [[Code]](https://github.com/yoyomimi/AS-Net)
@@ -112,7 +114,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
 - (arXiv 2021.04) Aggregated Contextual Transformations for High-Resolution Image Inpainting, [[Paper]](https://arxiv.org/abs/2104.01431), [[Code]](https://github.com/researchmm/AOT-GAN-for-Inpainting)
 - (arXiv 2021.04) Decoupled Spatial-Temporal Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2104.06637.pdf), [[Code]] (https://github.com/ruiliu-ai/DSTT)
-
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
@@ -170,6 +171,9 @@ Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/21
 - (arXiv 2021.03) Lifting Transformer for 3D Human Pose Estimation in Video, [[Paper]](https://arxiv.org/abs/2103.14304)
 - (arXiv 2021.03) TFPose: Direct Human Pose Estimation with Transformers, [[Paper]](https://arxiv.org/abs/2103.15320)
 - (arXiv 2021.04) Pose Recognition with Cascade Transformers, [[Paper]](https://arxiv.org/pdf/2104.06976.pdf), [[Code]](https://github.com/mlpc-ucsd/PRTR)
+
+### Pruning
+- (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -240,6 +244,10 @@ Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/21
 - (arXiv 2021.03) ViViT: A Video Vision Transformer, [[paper]](https://arxiv.org/abs/2103.15691)
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 - (arXiv 2021.04) Temporal Query Networks for Fine-grained Video Understanding, [[Paper]](https://arxiv.org/pdf/2104.09496.pdf), [[Project]](https://www.robots.ox.ac.uk/~vgg/research/tqn/)
+- (arXiv 2021.04) Higher Order Recurrent Space-Time Transformer, [[Paper]](https://arxiv.org/pdf/2104.08665.pdf), [[Code]](https://github.com/CorcovadoMing/HORST)
+
+### Visual Grounding
+- (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
