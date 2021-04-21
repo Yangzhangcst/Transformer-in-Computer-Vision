@@ -28,6 +28,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) TubeR: Tube-Transformer for Action Detection, [[Paper]](https://arxiv.org/pdf/2104.00969.pdf)
 - (arXiv 2021.04) Few-Shot Transformation of Common Actions into Time and Space, [[Paper]](https://arxiv.org/pdf/2104.02439.pdf)
 
+### Anomaly Detection
+- (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
+
 ### Assessment
 - Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
 
@@ -76,6 +79,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Transformers Solve the Limited Receptive Field for Monocular Depth Prediction, [[Paper]](https://arxiv.org/pdf/2103.12091.pdf), [[Code]](https://github.com/ygjwd12345/TransDepth)
 
 ### Deepfake Detection
+- (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
 - (arXiv 2021.04) Deepfake Detection Scheme Based on Vision Transformer and Distillation, [[Paper]](https://arxiv.org/abs/2104.01353)
 - (arXiv 2021.04) M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2104.09770.pdf)
 
@@ -87,7 +91,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2020.11) Rethinking Transformer-based Set Prediction for Object Detection, [[Paper]](https://arxiv.org/pdf/2011.10881)
 - (arXiv 2020.12) Toward Transformer-Based Object Detection, [[Paper]](https://arxiv.org/pdf/2012.09958)
 - (arXiv 2020.12) DETR for Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2012.06785)
-- (arXiv 2021.01)  Line Segment Detection Using Transformers without Edges, [[Paper]](https://arxiv.org/abs/2101.01909)
+- (arXiv 2021.01) Line Segment Detection Using Transformers without Edges, [[Paper]](https://arxiv.org/abs/2101.01909)
 - (arXiv 2021.01) Fast Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2101.07448.pdf)
 - (arXiv 2021.02) GEM: Glare or Gloom, I Can Still See You – End-to-End Multimodal Object Detector, [[Paper]](https://arxiv.org/pdf/2102.12319.pdf)
 - (arXiv 2021.03) SSTN: Self-Supervised Domain Adaptation Thermal Object Detection for Autonomous Driving, [[Paper]](https://arxiv.org/abs/2103.03150)
@@ -97,6 +101,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention, [[Paper]](https://arxiv.org/abs/2103.17084)
 - (arXiv 2021.04) Efficient DETR: Improving End-to-End Object Detector with Dense Prior, [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
 - (arXiv 2021.04) Points as Queries: Weakly Semi-supervised Object Detection by Points, [[Paper]](https://arxiv.org/pdf/2104.07434.pdf)
+- (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -162,8 +167,7 @@ Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxi
 - (arXiv 2020.12) Point Transformer, [[Paper]](https://arxiv.org/pdf/2012.09164)
 - (arXiv 2020.12) 3D Object Detection with Pointformer, [[Paper]](https://arxiv.org/pdf/2012.11409)
 - (arXiv 2020.12) PCT: Point Cloud Transformer, [[Paper]](https://arxiv.org/pdf/2012.09688)
-- (arXiv 2021.03)  You Only Group Once: Efficient Point-Cloud Processing with Token
-Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/2103.09975), [[Code]](https://github.com/chenfengxu714/YOGO.git)
+- (arXiv 2021.03)  You Only Group Once: Efficient Point-Cloud Processing with Token Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/2103.09975), [[Code]](https://github.com/chenfengxu714/YOGO.git)
 - (arXiv 2021.04) Group-Free 3D Object Detection via Transformers, [[Paper]](https://arxiv.org/pdf/2104.00678.pdf), [[Code]](https://github.com/zeliu98/Group-Free-3D) 
 
 ### Pose 
@@ -238,7 +242,6 @@ Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/21
 - (arXiv 2021.01) SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation (arXiv 2021.1), [[Paper]](https://arxiv.org/pdf/2101.08833.pdf)
 - (arXiv 2021.02) Video Transformer Network, [[Paper]](https://arxiv.org/pdf/2102.00719.pdf)
 - (arXiv 2021.02) Is Space-Time Attention All You Need for Video Understanding? [[Paper]](https://arxiv.org/pdf/2102.05095.pdf), [[Code]](https://github.com/lucidrains/TimeSformer-pytorch)
-- (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
 - (arXiv.2021.02) A Straightforward Framework For Video Retrieval Using CLIP, [[Paper]](https://arxiv.org/pdf/2102.12443.pdf), [[Code]](https://github.com/Deferf/CLIP_Video_Representation)
 - (arXiv 2021.03) Space-Time Crop & Attend: Improving Cross-modal Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2103.10211.pdf)
 - (arXiv 2021.03) Enhancing Transformer for Video Understanding Using Gated Multi-Level Attention and Temporal Adversarial Training, [[Paper]](https://arxiv.org/pdf/2103.10043.pdf)
