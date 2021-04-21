@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/04/20
+**Last updated: 2021/04/21
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.
@@ -245,6 +245,7 @@ Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/21
 - (arXiv 2021.04) Composable Augmentation Encoding for Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2104.00616.pdf)
 - (arXiv 2021.04) Temporal Query Networks for Fine-grained Video Understanding, [[Paper]](https://arxiv.org/pdf/2104.09496.pdf), [[Project]](https://www.robots.ox.ac.uk/~vgg/research/tqn/)
 - (arXiv 2021.04) Higher Order Recurrent Space-Time Transformer, [[Paper]](https://arxiv.org/pdf/2104.08665.pdf), [[Code]](https://github.com/CorcovadoMing/HORST)
+- (arXiv 2021.04) VideoGPT: Video Generation using VQ-VAE and Transformers, [[Paper]](https://arxiv.org/pdf/2104.10157.pdf), [[Code]](https://wilson1yan.github.io/videogpt/index.html)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
