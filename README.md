@@ -64,7 +64,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference, [[Paper]](https://arxiv.org/abs/2104.01136)
 - (arXiv 2021.04) On the Robustness of Vision Transformers to Adversarial Examples, [[Paper]](https://arxiv.org/abs/2104.02610)
 - (arXiv 2021.04) LocalViT: Bringing Locality to Vision Transformers, [[Paper]](https://arxiv.org/abs/2104.05707), [[Code]](https://github.com/ofsoundof/LocalViT)
-- (arXiv 2021.04)  Co-Scale Conv-Attentional Image Transformers, [[Paper]](https://arxiv.org/abs/2104.06399), [[Code]](https://github.com/mlpc-ucsd/CoaT)
+- (arXiv 2021.04) Co-Scale Conv-Attentional Image Transformers, [[Paper]](https://arxiv.org/abs/2104.06399), [[Code]](https://github.com/mlpc-ucsd/CoaT)
+- (arXiv 2021.04) Token Labeling: Training a 85.5% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet, [[Paper]](https://arxiv.org/pdf/2104.10858.pdf), [[Code]](https://github.com/zihangJiang/TokenLabeling)
+- (arXiv 2021.04) So-ViT: Mind Visual Tokens for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2104.10935.pdf)
+- (arXiv 2021.04) Multiscale Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.11227.pdf), [[Code]](https://github.com/facebookresearch/SlowFast)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -210,6 +213,7 @@ Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxi
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
 - (arXiv 2021.04) An Empirical Study of Training Self-Supervised Visual Transformers, [[Paper]](https://arxiv.org/abs/2104.02057)
 - (arXiv 2021.04) SiT: Self-supervised vIsion Transformer, [[Paper]](https://arxiv.org/abs/2104.03602)], [[Code]](https://github.com/Sara-Ahmed/SiT)
+- (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/abs/2104.11178)], [[Code]](https://github.com/Sara-Ahmed/SiT)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
