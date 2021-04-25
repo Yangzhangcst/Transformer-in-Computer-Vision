@@ -144,6 +144,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) TransMed: Transformers Advance Multi-modal Medical Image Classification, [[Paper]](https://arxiv.org/abs/2103.05940)
 - (arXiv 2021.03) U-Net Transformer: Self and Cross Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2103.06104)
 - (arXiv 2021.03) SUNETR: Transformers for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2103.10504)
+- (arXiv 2021.04) DeepProg: A Multi-modal Transformer-based End-to-end Framework for Predicting Disease Prognosis, [[Paper]](https://arxiv.org/pdf/2104.03642.pdf)
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
 - (arXiv 2021.04) Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification, [[Paper]](https://arxiv.org/pdf/2104.07235.pdf)
 - (arXiv 2021.04) Shoulder Implant X-Ray Manufacturer Classification: Exploring with Vision Transformer, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2104/2104.07667.pdf)
