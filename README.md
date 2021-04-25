@@ -185,6 +185,7 @@ Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxi
 - (arXiv 2021.03) Lifting Transformer for 3D Human Pose Estimation in Video, [[Paper]](https://arxiv.org/abs/2103.14304)
 - (arXiv 2021.03) TFPose: Direct Human Pose Estimation with Transformers, [[Paper]](https://arxiv.org/abs/2103.15320)
 - (arXiv 2021.04) Pose Recognition with Cascade Transformers, [[Paper]](https://arxiv.org/pdf/2104.06976.pdf), [[Code]](https://github.com/mlpc-ucsd/PRTR)
+- (arXiv 2021.04) TokenPose: Learning Keypoint Tokens for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2104.03516.pdf)
 
 ### Pruning
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
