@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/04/25
+**Last updated: 2021/04/26
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.
@@ -112,6 +112,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Robust Facial Expression Recognition with Convolutional Visual Transformers, [[Paper]](https://arxiv.org/abs/2103.16854)
 - (arXiv 2021.04) TransRPPG: Remote Photoplethysmography Transformer for 3D Mask Face Presentation Attack Detection, [[Paper]](https://arxiv.org/pdf/2104.07419.pdf)
 - (arXiv 2021.04) Facial Attribute Transformers for Precise and Robust Makeup Transfer, [[Paper]](https://arxiv.org/pdf/2104.02894.pdf)
+- (arXiv 2021.04) Learning to Cluster Faces via Transformer, [[Paper]](https://arxiv.org/pdf/2104.11502.pdf)
 
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -188,6 +189,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) TFPose: Direct Human Pose Estimation with Transformers, [[Paper]](https://arxiv.org/abs/2103.15320)
 - (arXiv 2021.04) Pose Recognition with Cascade Transformers, [[Paper]](https://arxiv.org/pdf/2104.06976.pdf), [[Code]](https://github.com/mlpc-ucsd/PRTR)
 - (arXiv 2021.04) TokenPose: Learning Keypoint Tokens for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2104.03516.pdf)
+- (arXiv 2021.04) Skeletor: Skeletal Transformers for Robust Body-Pose Estimation, [[Paper]](https://arxiv.org/pdf/2104.11712.pdf)
 
 ### Pruning
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
@@ -263,6 +265,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Temporal Query Networks for Fine-grained Video Understanding, [[Paper]](https://arxiv.org/pdf/2104.09496.pdf), [[Project]](https://www.robots.ox.ac.uk/~vgg/research/tqn/)
 - (arXiv 2021.04) Higher Order Recurrent Space-Time Transformer, [[Paper]](https://arxiv.org/pdf/2104.08665.pdf), [[Code]](https://github.com/CorcovadoMing/HORST)
 - (arXiv 2021.04) VideoGPT: Video Generation using VQ-VAE and Transformers, [[Paper]](https://arxiv.org/pdf/2104.10157.pdf), [[Code]](https://wilson1yan.github.io/videogpt/index.html)
+- (arXiv 2021.04) VidTr: Video Transformer Without Convolutions, [[Paper]](https://arxiv.org/pdf/2104.11746.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
