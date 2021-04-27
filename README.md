@@ -69,6 +69,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Token Labeling: Training a 85.5% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet, [[Paper]](https://arxiv.org/pdf/2104.10858.pdf), [[Code]](https://github.com/zihangJiang/TokenLabeling)
 - (arXiv 2021.04) So-ViT: Mind Visual Tokens for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2104.10935.pdf)
 - (arXiv 2021.04) Multiscale Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.11227.pdf), [[Code]](https://github.com/facebookresearch/SlowFast)
+- (arXiv 2021.04) Visformer: The Vision-friendly Transformer, [[Paper]](https://arxiv.org/pdf/2104.12533.pdf), [[Code]](https://github.com/danczs/Visformer)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -177,8 +178,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2020.12) Point Transformer, [[Paper]](https://arxiv.org/pdf/2012.09164)
 - (arXiv 2020.12) 3D Object Detection with Pointformer, [[Paper]](https://arxiv.org/pdf/2012.11409)
 - (arXiv 2020.12) PCT: Point Cloud Transformer, [[Paper]](https://arxiv.org/pdf/2012.09688)
-- (arXiv 2021.03)  You Only Group Once: Efficient Point-Cloud Processing with Token Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/2103.09975), [[Code]](https://github.com/chenfengxu714/YOGO.git)
+- (arXiv 2021.03) You Only Group Once: Efficient Point-Cloud Processing with Token Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/2103.09975), [[Code]](https://github.com/chenfengxu714/YOGO.git)
 - (arXiv 2021.04) Group-Free 3D Object Detection via Transformers, [[Paper]](https://arxiv.org/pdf/2104.00678.pdf), [[Code]](https://github.com/zeliu98/Group-Free-3D) 
+- (arXiv 2021.04) M3DETR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.00678.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
