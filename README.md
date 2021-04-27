@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/04/26
+**Last updated: 2021/04/27
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.
@@ -70,6 +70,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) So-ViT: Mind Visual Tokens for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2104.10935.pdf)
 - (arXiv 2021.04) Multiscale Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.11227.pdf), [[Code]](https://github.com/facebookresearch/SlowFast)
 - (arXiv 2021.04) Visformer: The Vision-friendly Transformer, [[Paper]](https://arxiv.org/pdf/2104.12533.pdf), [[Code]](https://github.com/danczs/Visformer)
+- (arXiv 2021.04) Improve Vision Transformers Training by Suppressing Over-smoothing, [[Paper]](https://arxiv.org/pdf/2104.12753.pdf), [[Code]](https://github.com/ChengyueGongR/PatchVisionTransformer)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -217,6 +218,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
 - (arXiv 2021.04) Self-supervised Video Retrieval Transformer Network, [[Paper]](https://arxiv.org/pdf/2104.07993.pdf)
 
+### Salient Object Detection
+- (arXiv 2021.04) Visual Saliency Transformer, [[Paper]](https://arxiv.org/pdf/2104.12099.pdf)
+
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793)
 
@@ -271,6 +275,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
+
+### Visual Relationship Detection
+- (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
