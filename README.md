@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/04/27
+**Last updated: 2021/04/28
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.
@@ -162,6 +162,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Multi-task/modal
 - (arXiv 2021.02) Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxiv.org/abs/2102.10772), [[Code]](https://mmf.sh/)
 - (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/pdf/2104.11178.pdf)
+- (arXiv 2021.04) Multi-Modal Fusion Transformer for End-to-End Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2104.09224.pdf)
 
 ### NAS
 - (arXiv.2021.02) Towards Accurate and Compact Architectures via Neural Architecture Transformer, [[Paper]](https://arxiv.org/pdf/2102.10301.pdf)
@@ -182,6 +183,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) You Only Group Once: Efficient Point-Cloud Processing with Token Representation and Relation Inference Module, [[Paper]](https://arxiv.org/abs/2103.09975), [[Code]](https://github.com/chenfengxu714/YOGO.git)
 - (arXiv 2021.04) Group-Free 3D Object Detection via Transformers, [[Paper]](https://arxiv.org/pdf/2104.00678.pdf), [[Code]](https://github.com/zeliu98/Group-Free-3D) 
 - (arXiv 2021.04) M3DETR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.00678.pdf)
+- (arXiv 2021.04) Dual Transformer for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2104.13044.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -289,7 +291,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
 - (arXiv 2021.04) Cloth Interactive Transformer for Virtual Try-On, [[Paper]](https://arxiv.org/abs/2104.05519), [[Code]](https://github.com/Amazingren/CIT)
 - (arXiv 2021.04) Fourier Image Transformer, [[Paper]](https://arxiv.org/pdf/2104.02555.pdf), [[Code]](3https://github.com/juglab/FourierImageTransformer)
-- (arXiv 2021.04) Multi-Modal Fusion Transformer for End-to-End Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2104.09224.pdf)
 
 ## Contact & Feedback
 
