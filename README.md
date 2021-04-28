@@ -116,6 +116,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Facial Attribute Transformers for Precise and Robust Makeup Transfer, [[Paper]](https://arxiv.org/pdf/2104.02894.pdf)
 - (arXiv 2021.04) Learning to Cluster Faces via Transformer, [[Paper]](https://arxiv.org/pdf/2104.11502.pdf)
 
+### Few-shot Learning
+- (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
+
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
 - (arXiv 2021.03) Generative Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2103.01209.pdf), [[Code]](https://github.com/dorarad/gansformer)
@@ -161,8 +164,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Multi-task/modal
 - (arXiv 2021.02) Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxiv.org/abs/2102.10772), [[Code]](https://mmf.sh/)
-- (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/pdf/2104.11178.pdf)
+- (arXiv 2021.04) MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding, [[Paper]](https://arxiv.org/pdf/2104.12763.pdf), [[Code]](https://github.com/ashkamath/mdetr)
 - (arXiv 2021.04) Multi-Modal Fusion Transformer for End-to-End Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2104.09224.pdf)
+- (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/pdf/2104.11178.pdf)
 
 ### NAS
 - (arXiv.2021.02) Towards Accurate and Compact Architectures via Neural Architecture Transformer, [[Paper]](https://arxiv.org/pdf/2102.10301.pdf)
