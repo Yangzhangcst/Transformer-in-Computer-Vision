@@ -30,6 +30,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
+- (arXiv 2021.04) Inpainting Transformer for Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2104.13897.pdf)
+
 
 ### Assessment
 - Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
@@ -71,7 +73,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Multiscale Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.11227.pdf), [[Code]](https://github.com/facebookresearch/SlowFast)
 - (arXiv 2021.04) Visformer: The Vision-friendly Transformer, [[Paper]](https://arxiv.org/pdf/2104.12533.pdf), [[Code]](https://github.com/danczs/Visformer)
 - (arXiv 2021.04) Improve Vision Transformers Training by Suppressing Over-smoothing, [[Paper]](https://arxiv.org/pdf/2104.12753.pdf), [[Code]](https://github.com/ChengyueGongR/PatchVisionTransformer)
-
+- (arXiv 2021.04) Twins: Revisiting the Design of Spatial Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.13840.pdf), [[Code]](https://github.com/Meituan-AutoML/Twins)
+- (arXiv 2021.04) ConTNet: Why not use convolution and transformer at the same time, [[Paper]](https://arxiv.org/pdf/2104.13497.pdf), [[Code]](https://github.com/yanhao-tian/ConTNet)
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
 - (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2104.00845.pdf), [[Code]](https://github.com/lyndonzheng/TFill)
