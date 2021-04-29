@@ -127,7 +127,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### HOI
 - (arXiv 2021.03) QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information, [[Paper]](https://arxiv.org/pdf/2103.05399), [[Code]](https://github.com/hitachi-rd-cv/qpic)
 - (arXiv 2021.03) Reformulating HOI Detection as Adaptive Set Prediction, [[Paper]](https://arxiv.org/pdf/2103.05983), [[Code]](https://github.com/yoyomimi/AS-Net)
-- (arXiv 2021.03) End-to-End Human Object Interaction Detection with HOI Transformer, [[Paper]](https://arxiv.org/pdf/2103.04503), [[Code]](https://github.com/bbepoch/HoiTransformer)
+- (arXiv 2021.03) End-to-End Human Object Interaction Detection with HOI Transformer, [[Paper]](https://arxiv.org/pdf/2103.04503.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
+- (arXiv 2021.04) HOTR: End-to-End Human-Object Interaction Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.13682.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -155,6 +156,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
 - (arXiv 2021.04) Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification, [[Paper]](https://arxiv.org/pdf/2104.07235.pdf)
 - (arXiv 2021.04) Shoulder Implant X-Ray Manufacturer Classification: Exploring with Vision Transformer, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2104/2104.07667.pdf)
+- (arXiv 2021.04) Medical Transformer: Universal Brain Encoder for 3D MRI Analysis, [[Paper]](https://arxiv.org/pdf/2104.13633.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -188,6 +190,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Group-Free 3D Object Detection via Transformers, [[Paper]](https://arxiv.org/pdf/2104.00678.pdf), [[Code]](https://github.com/zeliu98/Group-Free-3D) 
 - (arXiv 2021.04) M3DETR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.00678.pdf)
 - (arXiv 2021.04) Dual Transformer for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2104.13044.pdf)
+- (arXiv 2021.04) Point Cloud Learning with Transformer, [[Paper]](https://arxiv.org/pdf/2104.13636.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
