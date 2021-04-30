@@ -160,6 +160,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification, [[Paper]](https://arxiv.org/pdf/2104.07235.pdf)
 - (arXiv 2021.04) Shoulder Implant X-Ray Manufacturer Classification: Exploring with Vision Transformer, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2104/2104.07667.pdf)
 - (arXiv 2021.04) Medical Transformer: Universal Brain Encoder for 3D MRI Analysis, [[Paper]](https://arxiv.org/pdf/2104.13633.pdf)
+- (arXiv 2021.04) Crossmodal Matching Transformer for Interventional in TEVAR, [[Paper]](https://arxiv.org/pdf/2104.14273.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
