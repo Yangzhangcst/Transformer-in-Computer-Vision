@@ -242,7 +242,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
 - (arXiv 2021.04) An Empirical Study of Training Self-Supervised Visual Transformers, [[Paper]](https://arxiv.org/abs/2104.02057)
 - (arXiv 2021.04) SiT: Self-supervised vIsion Transformer, [[Paper]](https://arxiv.org/abs/2104.03602)], [[Code]](https://github.com/Sara-Ahmed/SiT)
-- (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/abs/2104.11178)], [[Code]](https://github.com/Sara-Ahmed/SiT)
+- (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/abs/2104.11178), [[Code]](https://github.com/Sara-Ahmed/SiT)
+- (arXiv 2021.04) Emerging Properties in Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.14294.pdf), [[Code]](https://github.com/facebookresearch/dino)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
