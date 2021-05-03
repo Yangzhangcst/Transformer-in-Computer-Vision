@@ -238,6 +238,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
 - (arXiv 2021.04) Visual Saliency Transformer, [[Paper]](https://arxiv.org/pdf/2104.12099.pdf)
+- (arXiv 2021.04) CoSformer: Detecting Co-Salient Object with Transformers, [[Paper]](https://arxiv.org/pdf/2104.14729.pdf)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793)
