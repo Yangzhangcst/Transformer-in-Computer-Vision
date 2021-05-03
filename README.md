@@ -32,9 +32,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
 - (arXiv 2021.04) Inpainting Transformer for Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2104.13897.pdf)
 
-
 ### Assessment
-- Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
+- (arXiv 2021.01) Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
+- (arXiv 2021.04) Perceptual Image Quality Assessment with Transformers, [[Paper]](https://arxiv.org/abs/2104.14730), [[Code]](https://github.com/manricheon/IQT)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -75,6 +75,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Improve Vision Transformers Training by Suppressing Over-smoothing, [[Paper]](https://arxiv.org/pdf/2104.12753.pdf), [[Code]](https://github.com/ChengyueGongR/PatchVisionTransformer)
 - (arXiv 2021.04) Twins: Revisiting the Design of Spatial Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.13840.pdf), [[Code]](https://github.com/Meituan-AutoML/Twins)
 - (arXiv 2021.04) ConTNet: Why not use convolution and transformer at the same time, [[Paper]](https://arxiv.org/pdf/2104.13497.pdf), [[Code]](https://github.com/yanhao-tian/ConTNet)
+
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
 - (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2104.00845.pdf), [[Code]](https://github.com/lyndonzheng/TFill)
@@ -110,7 +111,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention, [[Paper]](https://arxiv.org/abs/2103.17084)
 - (arXiv 2021.04) Efficient DETR: Improving End-to-End Object Detector with Dense Prior, [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
 - (arXiv 2021.04) Points as Queries: Weakly Semi-supervised Object Detection by Points, [[Paper]](https://arxiv.org/pdf/2104.07434.pdf)
-- (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
+- (arXiv 2021.04) CAT: Cross-Attention Transformer for One-Shot Object Detection, [[Paper]](https://arxiv.org/pdf/2104.14984.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -162,6 +163,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Medical Transformer: Universal Brain Encoder for 3D MRI Analysis, [[Paper]](https://arxiv.org/pdf/2104.13633.pdf)
 - (arXiv 2021.04) Crossmodal Matching Transformer for Interventional in TEVAR, [[Paper]](https://arxiv.org/pdf/2104.14273.pdf)
 - (arXiv 2021.04) GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathology Image Classification, [[Paper]](https://arxiv.org/pdf/2104.14528.pdf)
+- (arXiv 2021.04) Pyramid Medical Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2104/2104.14702.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -207,6 +209,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Pose Recognition with Cascade Transformers, [[Paper]](https://arxiv.org/pdf/2104.06976.pdf), [[Code]](https://github.com/mlpc-ucsd/PRTR)
 - (arXiv 2021.04) TokenPose: Learning Keypoint Tokens for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2104.03516.pdf)
 - (arXiv 2021.04) Skeletor: Skeletal Transformers for Robust Body-Pose Estimation, [[Paper]](https://arxiv.org/pdf/2104.11712.pdf)
+- (arXiv 2021.04) HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation of Hands and Object in Interaction, [[Paper]](https://arxiv.org/pdf/2104.14639.pdf)
 
 ### Pruning
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
@@ -233,6 +236,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Self-supervised Video Retrieval Transformer Network, [[Paper]](https://arxiv.org/pdf/2104.07993.pdf)
 
 ### Salient Object Detection
+- (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
 - (arXiv 2021.04) Visual Saliency Transformer, [[Paper]](https://arxiv.org/pdf/2104.12099.pdf)
 
 ### Scene
