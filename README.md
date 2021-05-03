@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 **Last updated: 2021/05/02
 
 ##### Update log
-*2021/April* - update all of recent papers of Transformer-in-Vision.
+*2021/April* - update all of recent papers of Transformer-in-Vision.  
 *2021/May* - update all of recent papers of Transformer-in-Vision.
 
 
