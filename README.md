@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/02
+**Last updated: 2021/05/04
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -141,6 +141,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
+- (arXiv 2021.04) ISTR: End-to-End Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.00637.pdf), [[Code]](https://github.com/hujiecpp/ISTR)
 
 ### Layout
 - (CVPR'21) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/abs/2104.02416)
@@ -164,6 +165,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Crossmodal Matching Transformer for Interventional in TEVAR, [[Paper]](https://arxiv.org/pdf/2104.14273.pdf)
 - (arXiv 2021.04) GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathology Image Classification, [[Paper]](https://arxiv.org/pdf/2104.14528.pdf)
 - (arXiv 2021.04) Pyramid Medical Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2104/2104.14702.pdf)
+- (arXiv 2021.05) Anatomy-Guided Parallel Bottleneck Transformer Network for Automated Evaluation of Root Canal Therapy, [[Paper]](https://arxiv.org/abs/2105.00381)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -309,6 +311,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
 - (arXiv 2021.04) Cloth Interactive Transformer for Virtual Try-On, [[Paper]](https://arxiv.org/abs/2104.05519), [[Code]](https://github.com/Amazingren/CIT)
 - (arXiv 2021.04) Fourier Image Transformer, [[Paper]](https://arxiv.org/pdf/2104.02555.pdf), [[Code]](3https://github.com/juglab/FourierImageTransformer)
+- (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
 
 ## Contact & Feedback
 
