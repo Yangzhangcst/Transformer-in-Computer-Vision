@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/06
+**Last updated: 2021/05/07
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -316,6 +316,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Fourier Image Transformer, [[Paper]](https://arxiv.org/pdf/2104.02555.pdf), [[Code]](3https://github.com/juglab/FourierImageTransformer)
 - (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
+- (arXiv 2021.05) Attention for Image Registration (AiR): an unsupervised Transformer approach, [[Paper]](https://arxiv.org/pdf/2105.02282.pdf)
 
 ## Contact & Feedback
 
