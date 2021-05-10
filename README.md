@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/07
+**Last updated: 2021/05/10
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -278,6 +278,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Learning Spatio-Temporal Transformer for Visual Tracking, [[Paper]](https://arxiv.org/abs/2103.17154), [[Code]](https://github.com/researchmm/Stark)
 - (arXiv 2021.04) Multitarget Tracking with Transformers, [[Paper]](https://arxiv.org/pdf/2104.00734.pdf) 
 - (arXiv 2021.04) Spatial-Temporal Graph Transformer for Multiple Object Tracking, [[Paper]](https://arxiv.org/abs/2104.00194)
+- (arXiv 2021.05) MOTR: End-to-End Multiple-Object Tracking with TRansformer, [[Paper]](https://arxiv.org/pdf/2105.03247.pdf), [[Code]](https://github.com/megvii-model/MOTR)
 
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
