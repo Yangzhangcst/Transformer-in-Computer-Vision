@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/10
+**Last updated: 2021/05/11
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -245,7 +245,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) CoSformer: Detecting Co-Salient Object with Transformers, [[Paper]](https://arxiv.org/pdf/2104.14729.pdf)
 
 ### Scene
-- (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793)
+- (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
+- (arXiv 2021.05) SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation, [[Paper]](https://arxiv.org/pdf/2105.04447.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -253,6 +254,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) SiT: Self-supervised vIsion Transformer, [[Paper]](https://arxiv.org/abs/2104.03602)], [[Code]](https://github.com/Sara-Ahmed/SiT)
 - (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/abs/2104.11178), [[Code]](https://github.com/Sara-Ahmed/SiT)
 - (arXiv 2021.04) Emerging Properties in Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.14294.pdf), [[Code]](https://github.com/facebookresearch/dino)
+- (arXiv 2021.05) Self-Supervised Learning with Swin Transformers, [[Paper]](https://arxiv.org/pdf/2105.04553.pdf), [[Code]](https://github.com/SwinTransformer/Transformer-SSL)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -279,6 +281,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Multitarget Tracking with Transformers, [[Paper]](https://arxiv.org/pdf/2104.00734.pdf) 
 - (arXiv 2021.04) Spatial-Temporal Graph Transformer for Multiple Object Tracking, [[Paper]](https://arxiv.org/abs/2104.00194)
 - (arXiv 2021.05) MOTR: End-to-End Multiple-Object Tracking with TRansformer, [[Paper]](https://arxiv.org/pdf/2105.03247.pdf), [[Code]](https://github.com/megvii-model/MOTR)
+- (arXiv 2021.05) TrTr: Visual Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2105.03817.pdf), [[Code]](https://github.com/tongtybj/TrTr)
 
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
@@ -300,6 +303,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
+- (arXiv 2021.05) Visual Grounding with Transformers, [[Paper]](https://arxiv.org/pdf/2105.04281.pdf)
 
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
