@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/12
+**Last updated: 2021/05/13
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -167,6 +167,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) GasHis-Transformer: A Multi-scale Visual Transformer Approach for Gastric Histopathology Image Classification, [[Paper]](https://arxiv.org/pdf/2104.14528.pdf)
 - (arXiv 2021.04) Pyramid Medical Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2104/2104.14702.pdf)
 - (arXiv 2021.05) Anatomy-Guided Parallel Bottleneck Transformer Network for Automated Evaluation of Root Canal Therapy, [[Paper]](https://arxiv.org/abs/2105.00381)
+- (arXiv 2021.05) Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2105.05537.pdf), [[Code]](https://github.com/HuCaoFighting/Swin-Unet)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -259,6 +260,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
 - (arXiv 2021.01) Trans2Seg: Transparent Object Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2101.08461), [[Code]](https://github.com/xieenze/Trans2Seg)
+- (arXiv 2021.05) Segmenter: Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2105.05633.pdf), [[Code]](https://github.com/rstrudel/segmenter)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
