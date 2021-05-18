@@ -172,7 +172,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.04) Pyramid Medical Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2104/2104.14702.pdf)
 - (arXiv 2021.05) Anatomy-Guided Parallel Bottleneck Transformer Network for Automated Evaluation of Root Canal Therapy, [[Paper]](https://arxiv.org/abs/2105.00381)
 - (arXiv 2021.05) Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2105.05537.pdf), [[Code]](https://github.com/HuCaoFighting/Swin-Unet)
-
+- (arXiv 2021.05) Is Image Size Important? A Robustness Comparison of Deep Learning Methods for Multi-scale Cell Image Classification Tasks: from Convolutional Neural Networks to Visual Transformers, [[Paper]](https://arxiv.org/pdf/2105.07402.pdf)
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
 - (arXiv 2021.03) DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer, [[Paper]](https://arxiv.org/pdf/2103.10206.pdf)
