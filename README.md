@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/14
+**Last updated: 2021/05/18
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -75,6 +75,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Improve Vision Transformers Training by Suppressing Over-smoothing, [[Paper]](https://arxiv.org/pdf/2104.12753.pdf), [[Code]](https://github.com/ChengyueGongR/PatchVisionTransformer)
 - (arXiv 2021.04) Twins: Revisiting the Design of Spatial Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.13840.pdf), [[Code]](https://github.com/Meituan-AutoML/Twins)
 - (arXiv 2021.04) ConTNet: Why not use convolution and transformer at the same time, [[Paper]](https://arxiv.org/pdf/2104.13497.pdf), [[Code]](https://github.com/yanhao-tian/ConTNet)
+- (arXiv 2021.05) Rethinking the Design Principles of Robust Vision Transformer, [[Paper]](https://arxiv.org/pdf/2105.07926.pdf), [[Code]](https://github.com/
+vtddggg/Robust-Vision-Transformer)
+- (arXiv 2021.05) Vision Transformers are Robust Learners, [[Paper]](https://arxiv.org/pdf/2105.07581.pdf), [[Code]](https://git.io/J3VO0)
+- (arXiv 2021.05) Rethinking Skip Connection with Layer Normalization in Transformers and ResNets, [[Paper]](https://arxiv.org/pdf/2105.07581.pdf), [[Code]](https://git.io/J3VO0)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -222,6 +226,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
 - (arXiv 2021.03) TransFG: A Transformer Architecture for Fine-grained Recognition, [[Paper]](https://arxiv.org/pdf/2103.07976.pdf)
+- (arXiv 2021.05) Are Convolutional Neural Networks or Transformers more like human vision, [[Paper]](https://arxiv.org/pdf/2103.07976.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -239,7 +244,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Instance-level Image Retrieval using Reranking Transformers, [[Paper]](https://arxiv.org/abs/2103.12424), [[Code]](https://arxiv.org/abs/2103.12236)
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
 - (arXiv 2021.04) Self-supervised Video Retrieval Transformer Network, [[Paper]](https://arxiv.org/pdf/2104.07993.pdf)
-- (arXiv 2021.05) TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval, [[Paper]](https://arxiv.org/pdf/2105.01823.pdf)
+- (arXiv 2021.05) TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval, [[Paper]](https://arxiv.org/pdf/2105.07197.pdf), [[Code]](https://github.com/shikhartuli/cnn_txf_bias)
 
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
