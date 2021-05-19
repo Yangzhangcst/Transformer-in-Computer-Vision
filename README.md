@@ -173,6 +173,8 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) Anatomy-Guided Parallel Bottleneck Transformer Network for Automated Evaluation of Root Canal Therapy, [[Paper]](https://arxiv.org/abs/2105.00381)
 - (arXiv 2021.05) Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2105.05537.pdf), [[Code]](https://github.com/HuCaoFighting/Swin-Unet)
 - (arXiv 2021.05) Is Image Size Important? A Robustness Comparison of Deep Learning Methods for Multi-scale Cell Image Classification Tasks: from Convolutional Neural Networks to Visual Transformers, [[Paper]](https://arxiv.org/pdf/2105.07402.pdf)
+- (arXiv 2021.05) Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2105.08059.pdf)
+
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
 - (arXiv 2021.03) DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer, [[Paper]](https://arxiv.org/pdf/2103.10206.pdf)
@@ -332,6 +334,9 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
 - (arXiv 2021.05) Attention for Image Registration (AiR): an unsupervised Transformer approach, [[Paper]](https://arxiv.org/pdf/2105.02282.pdf)
+- (arXiv 2021.05) Vision Transformer for Fast and Efficient Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08582.pdf)
+- (arXiv 2021.05) IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2105.08647.pdf)
+- (arXiv 2021.05) I2C2W: Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08383.pdf)
 
 ## Contact & Feedback
 
