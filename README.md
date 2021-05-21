@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/20
+**Last updated: 2021/05/21
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -117,6 +117,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.04) Efficient DETR: Improving End-to-End Object Detector with Dense Prior, [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
 - (arXiv 2021.04) Points as Queries: Weakly Semi-supervised Object Detection by Points, [[Paper]](https://arxiv.org/pdf/2104.07434.pdf)
 - (arXiv 2021.04) CAT: Cross-Attention Transformer for One-Shot Object Detection, [[Paper]](https://arxiv.org/pdf/2104.14984.pdf)
+- (arXiv 2021.05) Content-Augmented Feature Pyramid Network with Light Linear Transformers, [[Paper]](https://arxiv.org/pdf/2105.09464.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -175,6 +176,8 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2105.05537.pdf), [[Code]](https://github.com/HuCaoFighting/Swin-Unet)
 - (arXiv 2021.05) Is Image Size Important? A Robustness Comparison of Deep Learning Methods for Multi-scale Cell Image Classification Tasks: from Convolutional Neural Networks to Visual Transformers, [[Paper]](https://arxiv.org/pdf/2105.07402.pdf)
 - (arXiv 2021.05) Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2105.08059.pdf)
+- (arXiv 2021.05) Medical Image Segmentation using Squeeze-and-Expansion Transformers, [[Paper]](https://arxiv.org/pdf/2105.09511.pdf), [[Code]](https://github.com/askerlee/segtran)
+- (arXiv 2021.05) POCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound, [[Paper]](https://arxiv.org/pdf/2105.09913.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -193,6 +196,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv.2021.03) BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search, [[Paper]](https://arxiv.org/abs/2103.12424), [[Code]](https://github.com/changlin31/BossNAS)
 
 ### Navigation
+- (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
 - (arXiv 2021.03) MaAST: Map Attention with Semantic Transformers for Efficient Visual Navigation, [[Paper]](https://arxiv.org/pdf/2103.11374.pdf)
 - (arXiv 2021.04) Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation, [[Paper]](https://arxiv.org/pdf/2104.04167.pdf)
 - (arXiv 2021.05) Episodic Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2105.06453.pdf)
