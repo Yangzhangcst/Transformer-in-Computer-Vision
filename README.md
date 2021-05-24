@@ -80,6 +80,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) Vision Transformers are Robust Learners, [[Paper]](https://arxiv.org/pdf/2105.07581.pdf), [[Code]](https://git.io/J3VO0)
 - (arXiv 2021.05) Rethinking Skip Connection with Layer Normalization in Transformers and ResNets, [[Paper]](https://arxiv.org/pdf/2105.07581.pdf), [[Code]](https://git.io/J3VO0)
 - (arXiv 2021.05) Single-Layer Vision Transformers for More Accurate Early Exits with Less Overhead, [[Paper]](https://arxiv.org/pdf/2105.09121.pdf)
+- (arXiv 2021.05) Intriguing Properties of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2105.10497.pdf), [[Code]](https://git.io/Js15X)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -133,6 +134,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
 - (arXiv 2021.03) Generative Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2103.01209.pdf), [[Code]](https://github.com/dorarad/gansformer)
 - (arXiv 2021.04) VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.06757.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
+- (arXiv 2021.05) Combining Transformer Generators with Convolutional Discriminators, [[Paper]](https://arxiv.org/pdf/2105.10189.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
 
 ### HOI
 - (CVPR'21) HOTR: End-to-End Human-Object Interaction Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.13682.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
