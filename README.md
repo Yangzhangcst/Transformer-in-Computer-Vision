@@ -88,6 +88,7 @@ vtddggg/Robust-Vision-Transformer)
 
 ### Crowd Counting
 - (arXiv 2021.04) TransCrowd: Weakly-Supervised Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2104.09116.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
+- (arXiv 2021.05) Boosting Crowd Counting with Transformers, [[Paper]](https://arxiv.org/pdf/2105.10926.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
@@ -180,6 +181,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) Unsupervised MRI Reconstruction via Zero-Shot Learned Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2105.08059.pdf)
 - (arXiv 2021.05) Medical Image Segmentation using Squeeze-and-Expansion Transformers, [[Paper]](https://arxiv.org/pdf/2105.09511.pdf), [[Code]](https://github.com/askerlee/segtran)
 - (arXiv 2021.05) POCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound, [[Paper]](https://arxiv.org/pdf/2105.09913.pdf)
+- (arXiv 2021.05) COTR: Convolution in Transformer Network for End to End Polyp Detection, [[Paper]](https://arxiv.org/pdf/2105.10925.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -319,6 +321,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.04) VideoGPT: Video Generation using VQ-VAE and Transformers, [[Paper]](https://arxiv.org/pdf/2104.10157.pdf), [[Code]](https://wilson1yan.github.io/videogpt/index.html)
 - (arXiv 2021.04) VidTr: Video Transformer Without Convolutions, [[Paper]](https://arxiv.org/pdf/2104.11746.pdf)
 - (arXiv 2021.05) Local Frequency Domain Transformer Networks for Video Prediction, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2105/2105.04637.pdf)
+- (arXiv 2021.05) End-to-End Video Object Detection with Spatial-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2105.10920.pdf), [[Code]](https://github.com/SJTU-LuHe/TransVOD.)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
