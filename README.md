@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/24
+**Last updated: 2021/05/26
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -27,6 +27,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.02) Relaxed Transformer Decoders for Direct Action Proposal Generation, [[Paper]](https://arxiv.org/pdf/2102.01894.pdf), [[Code]](https://github.com/MCG-NJU/RTD-Action)
 - (arXiv 2021.04) TubeR: Tube-Transformer for Action Detection, [[Paper]](https://arxiv.org/pdf/2104.00969.pdf)
 - (arXiv 2021.04) Few-Shot Transformation of Common Actions into Time and Space, [[Paper]](https://arxiv.org/pdf/2104.02439.pdf)
+- (arXiv 2021.05) Temporal Action Proposal Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.12043.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
