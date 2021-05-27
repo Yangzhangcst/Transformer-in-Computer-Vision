@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/26
+**Last updated: 2021/05/27
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -82,6 +82,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) Rethinking Skip Connection with Layer Normalization in Transformers and ResNets, [[Paper]](https://arxiv.org/pdf/2105.07581.pdf), [[Code]](https://git.io/J3VO0)
 - (arXiv 2021.05) Single-Layer Vision Transformers for More Accurate Early Exits with Less Overhead, [[Paper]](https://arxiv.org/pdf/2105.09121.pdf)
 - (arXiv 2021.05) Intriguing Properties of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2105.10497.pdf), [[Code]](https://git.io/Js15X)
+- (arXiv 2021.05) Aggregating Nested Transformers, [[Paper]](https://arxiv.org/pdf/2105.12723.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
