@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/27
+**Last updated: 2021/05/28
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -349,6 +349,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) Vision Transformer for Fast and Efficient Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08582.pdf)
 - (arXiv 2021.05) IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2105.08647.pdf)
 - (arXiv 2021.05) I2C2W: Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08383.pdf)
+- (arXiv 2021.05) CogView: Mastering Text-to-Image Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2105.13290.pdf)
 
 ## Contact & Feedback
 
