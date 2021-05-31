@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/05/28
+**Last updated: 2021/05/31
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -83,6 +83,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) Single-Layer Vision Transformers for More Accurate Early Exits with Less Overhead, [[Paper]](https://arxiv.org/pdf/2105.09121.pdf)
 - (arXiv 2021.05) Intriguing Properties of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2105.10497.pdf), [[Code]](https://git.io/Js15X)
 - (arXiv 2021.05) Aggregating Nested Transformers, [[Paper]](https://arxiv.org/pdf/2105.12723.pdf)
+- (arXiv 2021.05) ResT: An Efficient Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2105.13677.pdf), [[Code]](https://github.com/wofmanaf/ResT)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -184,6 +185,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) Medical Image Segmentation using Squeeze-and-Expansion Transformers, [[Paper]](https://arxiv.org/pdf/2105.09511.pdf), [[Code]](https://github.com/askerlee/segtran)
 - (arXiv 2021.05) POCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound, [[Paper]](https://arxiv.org/pdf/2105.09913.pdf)
 - (arXiv 2021.05) COTR: Convolution in Transformer Network for End to End Polyp Detection, [[Paper]](https://arxiv.org/pdf/2105.10925.pdf)
+- (arXiv 2021.05) PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer, [[Paper]](https://arxiv.org/pdf/2105.13993.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
