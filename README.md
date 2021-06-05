@@ -89,6 +89,12 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.06) When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations, [[Paper]](https://arxiv.org/pdf/2106.01548.pdf)
 - (arXiv 2021.06) Container: Context Aggregation Network, [[Paper]](https://arxiv.org/pdf/2106.01401.pdf)
 - (arXiv 2021.06) TransMIL: Transformer based Correlated Multiple Instance Learning for Whole Slide Image Classication, [[Paper]](https://arxiv.org/pdf/2106.00908.pdf)
+- (arXiv 2021.06) KVT: k-NN Attention for Boosting Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.00515.pdf)
+- (arXiv 2021.06) MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens, [[Paper]](https://arxiv.org/pdf/2105.15168.pdf), [[Code]](https://github.com/hustvl/MSG-Transformer) 
+- (arXiv 2021.06) Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length, [[Paper]](https://arxiv.org/pdf/2105.15075.pdf)
+- (arXiv 2021.06) Less is More: Pay Less Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2105.14217.pdf)
+- (arXiv 2021.06) FoveaTer: Foveated Transformer for Image Classification, [[Paper]](https://arxiv.org/pdf/2105.14173.pdf)
+- (arXiv 2021.06) An Attention Free Transformer, [[Paper]](https://arxiv.org/pdf/2105.14103.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -136,6 +142,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.04) TransRPPG: Remote Photoplethysmography Transformer for 3D Mask Face Presentation Attack Detection, [[Paper]](https://arxiv.org/pdf/2104.07419.pdf)
 - (arXiv 2021.04) Facial Attribute Transformers for Precise and Robust Makeup Transfer, [[Paper]](https://arxiv.org/pdf/2104.02894.pdf)
 - (arXiv 2021.04) Learning to Cluster Faces via Transformer, [[Paper]](https://arxiv.org/pdf/2104.11502.pdf)
+- (arXiv 2021.06) VidFace: A Full-Transformer Solver for Video Face Hallucination with Unaligned Tiny Snapshots, [[Paper]](https://arxiv.org/pdf/2105.14954.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -145,6 +152,9 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.03) Generative Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2103.01209.pdf), [[Code]](https://github.com/dorarad/gansformer)
 - (arXiv 2021.04) VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.06757.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
 - (arXiv 2021.05) Combining Transformer Generators with Convolutional Discriminators, [[Paper]](https://arxiv.org/pdf/2105.10189.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
+
+### Gaze
+- (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
 
 ### HOI
 - (CVPR'21) HOTR: End-to-End Human-Object Interaction Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.13682.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
@@ -257,7 +267,8 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.03) Spatiotemporal Transformer for Video-based Person Re-identification, [[Paper]](https://arxiv.org/abs/2103.16469)
 - (arXiv 2021.04) AAformer: Auto-Aligned Transformer for Person Re-Identification, [[Paper]](https://arxiv.org/abs/2104.00921)
 - (arXiv 2021.04) A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification, [[Paper]](https://arxiv.org/abs/2104.01745)
-  
+- (arXiv 2021.06) Transformer-Based Deep Image Matching for Generalizable Person Re-identification, [[Paper]](https://arxiv.org/pdf/2105.14432.pdf)
+
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
 - (arXiv 2021.01) Investigating the Vision Transformer Model for Image Retrieval Tasks, [[Paper]](https://arxiv.org/pdf/2101.03771)
@@ -266,6 +277,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
 - (arXiv 2021.04) Self-supervised Video Retrieval Transformer Network, [[Paper]](https://arxiv.org/pdf/2104.07993.pdf)
 - (arXiv 2021.05) TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval, [[Paper]](https://arxiv.org/pdf/2105.07197.pdf), [[Code]](https://github.com/shikhartuli/cnn_txf_bias)
+- (arXiv 2021.06) Towards Efficient Cross-Modal Visual Textual Retrieval using Transformer-Encoder Deep Features, [[Paper]](https://arxiv.org/pdf/2106.00358.pdf)
 
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
@@ -288,6 +300,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
 - (arXiv 2021.01) Trans2Seg: Transparent Object Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2101.08461), [[Code]](https://github.com/xieenze/Trans2Seg)
 - (arXiv 2021.05) Segmenter: Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2105.05633.pdf), [[Code]](https://github.com/rstrudel/segmenter)
+- (arXiv 2021.06) SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.15203.pdf), [[Code]](https://github.com/NVlabs/SegFormer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -312,6 +325,9 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.04) Spatial-Temporal Graph Transformer for Multiple Object Tracking, [[Paper]](https://arxiv.org/abs/2104.00194)
 - (arXiv 2021.05) MOTR: End-to-End Multiple-Object Tracking with TRansformer, [[Paper]](https://arxiv.org/pdf/2105.03247.pdf), [[Code]](https://github.com/megvii-model/MOTR)
 - (arXiv 2021.05) TrTr: Visual Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2105.03817.pdf), [[Code]](https://github.com/tongtybj/TrTr)
+
+### Transfer learning
+- (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
 
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
@@ -361,6 +377,8 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) I2C2W: Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08383.pdf)
 - (arXiv 2021.05) CogView: Mastering Text-to-Image Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2105.13290.pdf)
 - (arXiv 2021.06) A Comparison for Anti-noise Robustness of Deep Learning Classification Methods on a Tiny Object Image Dataset: from Convolutional Neural Network to Visual Transformer and Performer, [[Paper]](https://arxiv.org/pdf/2106.01927.pdf)
+- (arXiv 2021.06) Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, [[Paper]](https://arxiv.org/pdf/2106.00559.pdf)
+- (arXiv 2021.06) StyTr2: Unbiased Image Style Transfer with Transformers, [[Paper]](https://arxiv.org/pdf/2105.14576.pdf)
 
 ## Contact & Feedback
 
