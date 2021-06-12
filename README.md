@@ -31,8 +31,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) Temporal Action Proposal Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.12043.pdf)
 
 ### Active Learning
-- (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/
-Visual-Transformer-for-Task-aware-Active-Learning)
+- (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
