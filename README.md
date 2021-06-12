@@ -30,6 +30,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Few-Shot Transformation of Common Actions into Time and Space, [[Paper]](https://arxiv.org/pdf/2104.02439.pdf)
 - (arXiv 2021.05) Temporal Action Proposal Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.12043.pdf)
 
+### Active Learning
+- (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf)
+
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
 - (arXiv 2021.04) Inpainting Transformer for Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2104.13897.pdf)
@@ -98,6 +101,17 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.06) Glance-and-Gaze Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.02277.pdf), [[Code]](https://github.com/yucornetto/GG-Transformer)
 - (arXiv 2021.06) RegionViT: Regional-to-Local Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.02689.pdf)
 - (arXiv 2021.06) Chasing Sparsity in Vision Transformers: An End-to-End Exploration, [[Paper]](https://arxiv.org/pdf/2106.04533.pdf), [[Code]](https://github.com/VITA-Group/SViTE)
+- (arXiv 2021.06) Scaling Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.04560.pdf)
+- (arXiv 2021.06) CAT: Cross Attention in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.05786.pdf), [[Code]](https://github.com/linhezheng19/CAT)
+- (arXiv 2021.06) On Improving Adversarial Transferability of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.04169.pdf), [[Code]](https://git.io/JZmG3)
+- (arXiv 2021.06) Demystifying Local Vision Transformer: Sparse Connectivity, Weight Sharing, and Dynamic Weight, [[Paper]](https://arxiv.org/pdf/2106.04263.pdf)
+- (arXiv 2021.06) Patch Slimming for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.02852.pdf)
+- (arXiv 2021.06) Transformer in Convolutional Neural Networks, [[Paper]](https://arxiv.org/pdf/2106.03180.pdf), [[Code]](https://github.com/yun-liu/TransCNN)
+- (arXiv 2021.06) ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias, [[Paper]](https://arxiv.org/pdf/2106.03348.pdf), [[Code]](https://github.com/Annbless/ViTAE)
+- (arXiv 2021.06) Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.03650.pdf)
+- (arXiv 2021.06) Refiner: Refining Self-attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.03714.pdf)
+- (arXiv 2021.06) Reveal of Vision Transformers Robustness against Adversarial Attacks, [[Paper]](https://arxiv.org/pdf/2106.03734.pdf)
+- (arXiv 2021.06)Efficient Training of Visual Transformers with Small-Size Datasets, [[Paper]](https://arxiv.org/pdf/2106.03746.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -139,6 +153,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) Content-Augmented Feature Pyramid Network with Light Linear Transformers, [[Paper]](https://arxiv.org/pdf/2105.09464.pdf)
 - (arXiv 2021.06) You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection, [[Paper]](https://arxiv.org/pdf/2106.00666.pdf)
 - (arXiv 2021.06) DETReg: Unsupervised Pretraining with Region Priors for Object Detection, [[Paper]](https://arxiv.org/pdf/2106.04550.pdf),[[Project]](https://www.amirbar.net/detreg/)
+- (arXiv 2021.06) Oriented Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2106.03146.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -208,6 +223,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) POCFormer: A Lightweight Transformer Architecture for Detection of COVID-19 Using Point of Care Ultrasound, [[Paper]](https://arxiv.org/pdf/2105.09913.pdf)
 - (arXiv 2021.05) COTR: Convolution in Transformer Network for End to End Polyp Detection, [[Paper]](https://arxiv.org/pdf/2105.10925.pdf)
 - (arXiv 2021.05) PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer, [[Paper]](https://arxiv.org/pdf/2105.13993.pdf)
+- (arXiv 2021.06) TED-net: Convolution-free T2T Vision Transformerbased Encoder-decoder Dilation network for Low-dose CT Denoising, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2106/2106.04650.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -274,12 +290,17 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.04) AAformer: Auto-Aligned Transformer for Person Re-Identification, [[Paper]](https://arxiv.org/abs/2104.00921)
 - (arXiv 2021.04) A Video Is Worth Three Views: Trigeminal Transformers for Video-based Person Re-identification, [[Paper]](https://arxiv.org/abs/2104.01745)
 - (arXiv 2021.06) Transformer-Based Deep Image Matching for Generalizable Person Re-identification, [[Paper]](https://arxiv.org/pdf/2105.14432.pdf)
+- (arXiv 2021.06) Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2106.04095.pdf)
+- (arXiv 2021.06) Person Re-Identification with a Locally Aware Transformer, [[Paper]](https://arxiv.org/pdf/2106.03720.pdf)
+
+### Restoration
+- (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
 - (arXiv 2021.01) Investigating the Vision Transformer Model for Image Retrieval Tasks, [[Paper]](https://arxiv.org/pdf/2101.03771)
 - (arXiv 2021.02) Training Vision Transformers for Image Retrieval, [[Paper]](https://arxiv.org/pdf/2102.05644.pdf)
-- (arXiv 2021.03) Instance-level Image Retrieval using Reranking Transformers, [[Paper]](https://arxiv.org/abs/2103.12424), [[Code]](https://arxiv.org/abs/2103.12236)
+- (arXiv 2021.03) Instance-level Image Retrieval using Reranking Transformers, [[Paper]](https://arxiv.org/abs/2103.12424)
 - (arXiv 2021.04) Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval, [[Paper]](https://arxiv.org/pdf/2104.00650.pdf)
 - (arXiv 2021.04) Self-supervised Video Retrieval Transformer Network, [[Paper]](https://arxiv.org/pdf/2104.07993.pdf)
 - (arXiv 2021.05) TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval, [[Paper]](https://arxiv.org/pdf/2105.07197.pdf), [[Code]](https://github.com/shikhartuli/cnn_txf_bias)
@@ -301,18 +322,21 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/abs/2104.11178), [[Code]](https://github.com/Sara-Ahmed/SiT)
 - (arXiv 2021.04) Emerging Properties in Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.14294.pdf), [[Code]](https://github.com/facebookresearch/dino)
 - (arXiv 2021.05) Self-Supervised Learning with Swin Transformers, [[Paper]](https://arxiv.org/pdf/2105.04553.pdf), [[Code]](https://github.com/SwinTransformer/Transformer-SSL)
+- (arXiv 2021.06) MST: Masked Self-Supervised Transformer for Visual Representation, [[Paper]](https://arxiv.org/pdf/2106.05656.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
 - (arXiv 2021.01) Trans2Seg: Transparent Object Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2101.08461), [[Code]](https://github.com/xieenze/Trans2Seg)
 - (arXiv 2021.05) Segmenter: Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2105.05633.pdf), [[Code]](https://github.com/rstrudel/segmenter)
 - (arXiv 2021.06) SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.15203.pdf), [[Code]](https://github.com/NVlabs/SegFormer)
+- (arXiv 2021.06) Fully Transformer Networks for Semantic Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.04108.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
 
 ### Super-Resolution
 - (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
+- (arXiv 2021.06) LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation, [[Paper]](https://arxiv.org/pdf/2006.04139)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -358,10 +382,15 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.06) Anticipative Video Transformer, [[Paper]](https://arxiv.org/pdf/2106.02036.pdf), [[Project]](https://facebookresearch.github.io/AVT/)
 - (arXiv 2021.06) TransVOS: Video Object Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2106.00588.pdf)
 - (arXiv 2021.06) Associating Objects with Transformers for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2106.02638.pdf)
+- (arXiv 2021.06) Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers, [[Paper]](https://arxiv.org/pdf/2106.05392.pdf)
+- (arXiv 2021.06) Space-time Mixing Attention for Video Transformer, [[Paper]](https://arxiv.org/pdf/2106.05968.pdf)
+- (arXiv 2021.06) Video Instance Segmentation using Inter-Frame Communication Transformers, [[Paper]](https://arxiv.org/pdf/2106.03299.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
 - (arXiv 2021.05) Visual Grounding with Transformers, [[Paper]](https://arxiv.org/pdf/2105.04281.pdf)
+- (arXiv 2021.06) Referring Transformer: A One-step Approach to Multi-task Visual Grounding, [[Paper]](https://arxiv.org/pdf/2106.03089.pdf)
+
 
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
@@ -388,6 +417,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.06) Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, [[Paper]](https://arxiv.org/pdf/2106.00559.pdf)
 - (arXiv 2021.06) StyTr2: Unbiased Image Style Transfer with Transformers, [[Paper]](https://arxiv.org/pdf/2105.14576.pdf)
 - (arXiv 2021.06) Semantic Correspondence with Transformers, [[Paper]](https://arxiv.org/pdf/2106.02520.pdf)
+
 ## Contact & Feedback
 
 If you have any suggestions about this project, feel free to contact me.
