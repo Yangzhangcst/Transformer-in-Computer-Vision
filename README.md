@@ -80,8 +80,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Improve Vision Transformers Training by Suppressing Over-smoothing, [[Paper]](https://arxiv.org/pdf/2104.12753.pdf), [[Code]](https://github.com/ChengyueGongR/PatchVisionTransformer)
 - (arXiv 2021.04) Twins: Revisiting the Design of Spatial Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.13840.pdf), [[Code]](https://github.com/Meituan-AutoML/Twins)
 - (arXiv 2021.04) ConTNet: Why not use convolution and transformer at the same time, [[Paper]](https://arxiv.org/pdf/2104.13497.pdf), [[Code]](https://github.com/yanhao-tian/ConTNet)
-- (arXiv 2021.05) Rethinking the Design Principles of Robust Vision Transformer, [[Paper]](https://arxiv.org/pdf/2105.07926.pdf), [[Code]](https://github.com/
-vtddggg/Robust-Vision-Transformer)
+- (arXiv 2021.05) Rethinking the Design Principles of Robust Vision Transformer, [[Paper]](https://arxiv.org/pdf/2105.07926.pdf), [[Code]](https://github.com/vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) Vision Transformers are Robust Learners, [[Paper]](https://arxiv.org/pdf/2105.07581.pdf), [[Code]](https://git.io/J3VO0)
 - (arXiv 2021.05) Rethinking Skip Connection with Layer Normalization in Transformers and ResNets, [[Paper]](https://arxiv.org/pdf/2105.07581.pdf), [[Code]](https://git.io/J3VO0)
 - (arXiv 2021.05) Single-Layer Vision Transformers for More Accurate Early Exits with Less Overhead, [[Paper]](https://arxiv.org/pdf/2105.09121.pdf)
