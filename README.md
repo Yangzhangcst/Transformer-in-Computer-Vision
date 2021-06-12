@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/06/05
+**Last updated: 2021/06/12
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -95,6 +95,8 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.06) Less is More: Pay Less Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2105.14217.pdf)
 - (arXiv 2021.06) FoveaTer: Foveated Transformer for Image Classification, [[Paper]](https://arxiv.org/pdf/2105.14173.pdf)
 - (arXiv 2021.06) An Attention Free Transformer, [[Paper]](https://arxiv.org/pdf/2105.14103.pdf)
+- (arXiv 2021.06) Glance-and-Gaze Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.02277.pdf), [[Code]](https://github.com/yucornetto/GG-Transformer)
+- (arXiv 2021.06) RegionViT: Regional-to-Local Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.02689.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -146,6 +148,7 @@ vtddggg/Robust-Vision-Transformer)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
+- (arXiv 2021.04) Few-Shot Segmentation via Cycle-Consistent Transformer, [[Paper]](https://arxiv.org/pdf/2106.02320.pdf)
 
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -312,6 +315,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
 - (arXiv 2021.04) Geometry-Free View Synthesis: Transformers and no 3D Priors, [[Paper]](https://arxiv.org/pdf/2104.07652.pdf)
 - (arXiv 2021.05) High-Resolution Complex Scene Synthesis with Transformers, [[Paper]](https://arxiv.org/pdf/2105.06458.pdf)
+- (arXiv 2021.06) The Image Local Autoregressive Transformer, [[Paper]](https://arxiv.org/pdf/2106.02514.pdf)
 
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
@@ -350,6 +354,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.05) End-to-End Video Object Detection with Spatial-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2105.10920.pdf), [[Code]](https://github.com/SJTU-LuHe/TransVOD)
 - (arXiv 2021.06) Anticipative Video Transformer, [[Paper]](https://arxiv.org/pdf/2106.02036.pdf), [[Project]](https://facebookresearch.github.io/AVT/)
 - (arXiv 2021.06) TransVOS: Video Object Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2106.00588.pdf)
+- (arXiv 2021.06) Associating Objects with Transformers for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2106.02638.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -379,7 +384,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.06) A Comparison for Anti-noise Robustness of Deep Learning Classification Methods on a Tiny Object Image Dataset: from Convolutional Neural Network to Visual Transformer and Performer, [[Paper]](https://arxiv.org/pdf/2106.01927.pdf)
 - (arXiv 2021.06) Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, [[Paper]](https://arxiv.org/pdf/2106.00559.pdf)
 - (arXiv 2021.06) StyTr2: Unbiased Image Style Transfer with Transformers, [[Paper]](https://arxiv.org/pdf/2105.14576.pdf)
-
+- (arXiv 2021.06) Semantic Correspondence with Transformers, [[Paper]](https://arxiv.org/pdf/2106.02520.pdf)
 ## Contact & Feedback
 
 If you have any suggestions about this project, feel free to contact me.
