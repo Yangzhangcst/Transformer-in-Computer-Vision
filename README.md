@@ -97,6 +97,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.06) An Attention Free Transformer, [[Paper]](https://arxiv.org/pdf/2105.14103.pdf)
 - (arXiv 2021.06) Glance-and-Gaze Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.02277.pdf), [[Code]](https://github.com/yucornetto/GG-Transformer)
 - (arXiv 2021.06) RegionViT: Regional-to-Local Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.02689.pdf)
+- (arXiv 2021.06) Chasing Sparsity in Vision Transformers: An End-to-End Exploration, [[Paper]](https://arxiv.org/pdf/2106.04533.pdf), [[Code]](https://github.com/VITA-Group/SViTE)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -137,6 +138,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.04) CAT: Cross-Attention Transformer for One-Shot Object Detection, [[Paper]](https://arxiv.org/pdf/2104.14984.pdf)
 - (arXiv 2021.05) Content-Augmented Feature Pyramid Network with Light Linear Transformers, [[Paper]](https://arxiv.org/pdf/2105.09464.pdf)
 - (arXiv 2021.06) You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection, [[Paper]](https://arxiv.org/pdf/2106.00666.pdf)
+- (arXiv 2021.06) DETReg: Unsupervised Pretraining with Region Priors for Object Detection, [[Paper]](https://arxiv.org/pdf/2106.04550.pdf),[[Project]](https://www.amirbar.net/detreg/)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -145,6 +147,7 @@ vtddggg/Robust-Vision-Transformer)
 - (arXiv 2021.04) Facial Attribute Transformers for Precise and Robust Makeup Transfer, [[Paper]](https://arxiv.org/pdf/2104.02894.pdf)
 - (arXiv 2021.04) Learning to Cluster Faces via Transformer, [[Paper]](https://arxiv.org/pdf/2104.11502.pdf)
 - (arXiv 2021.06) VidFace: A Full-Transformer Solver for Video Face Hallucination with Unaligned Tiny Snapshots, [[Paper]](https://arxiv.org/pdf/2105.14954.pdf)
+- (arXiv 2021.06) MViT: Mask Vision Transformer for Facial Expression Recognition in the wild, [[Paper]](https://arxiv.org/pdf/2106.04520.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
