@@ -48,8 +48,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
-- (CVPR'20)  Feature Pyramid Transformer, [[Paper]](https://arxiv.org/pdf/2007.09451), [[Code]](https://github.com/ZHANGDONG-NJUST/FPT)
-- (ICLR'21)  An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, [[Paper]](https://arxiv.org/pdf/2010.11929), [[Code]](https://github.com/google-research/vision_transformer)
+- (CVPR'20) Feature Pyramid Transformer, [[Paper]](https://arxiv.org/pdf/2007.09451), [[Code]](https://github.com/ZHANGDONG-NJUST/FPT)
+- (ICLR'21) An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, [[Paper]](https://arxiv.org/pdf/2010.11929), [[Code]](https://github.com/google-research/vision_transformer)
 - (arXiv 2020.06) Visual Transformers: Token-based Image Representation and Processing for Computer Vision, [[Paper]](https://arxiv.org/pdf/2006.03677)
 - (arXiv 2020.11) General Multi-label Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14027)
 - (arXiv 2020.12) Training data-efficient image transformers & distillation through attention, [[Paper]](https://arxiv.org/abs/2012.12877), [[Code]](https://github.com/facebookresearch/deit)
@@ -110,7 +110,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Shuffle Transformer: Rethinking Spatial Shuffle for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.03650.pdf)
 - (arXiv 2021.06) Refiner: Refining Self-attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.03714.pdf)
 - (arXiv 2021.06) Reveal of Vision Transformers Robustness against Adversarial Attacks, [[Paper]](https://arxiv.org/pdf/2106.03734.pdf)
-- (arXiv 2021.06)Efficient Training of Visual Transformers with Small-Size Datasets, [[Paper]](https://arxiv.org/pdf/2106.03746.pdf)
+- (arXiv 2021.06) Efficient Training of Visual Transformers with Small-Size Datasets, [[Paper]](https://arxiv.org/pdf/2106.03746.pdf)
+- (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -172,6 +173,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Generative Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2103.01209.pdf), [[Code]](https://github.com/dorarad/gansformer)
 - (arXiv 2021.04) VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.06757.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
 - (arXiv 2021.05) Combining Transformer Generators with Convolutional Discriminators, [[Paper]](https://arxiv.org/pdf/2105.10189.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
+- (arXiv 2021.06) ViT-Inception-GAN for Image Colourising, [[Paper]](https://arxiv.org/pdf/2106.06321.pdf)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
