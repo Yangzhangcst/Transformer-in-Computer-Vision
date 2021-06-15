@@ -112,6 +112,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Reveal of Vision Transformers Robustness against Adversarial Attacks, [[Paper]](https://arxiv.org/pdf/2106.03734.pdf)
 - (arXiv 2021.06) Efficient Training of Visual Transformers with Small-Size Datasets, [[Paper]](https://arxiv.org/pdf/2106.03746.pdf)
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
+- (arXiv 2021.06) Delving Deep into the Generalization of Vision Transformers under Distribution Shifts, [[Paper]](https://arxiv.org/pdf/2106.07617.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -174,6 +175,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.06757.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
 - (arXiv 2021.05) Combining Transformer Generators with Convolutional Discriminators, [[Paper]](https://arxiv.org/pdf/2105.10189.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
 - (arXiv 2021.06) ViT-Inception-GAN for Image Colourising, [[Paper]](https://arxiv.org/pdf/2106.06321.pdf)
+- (arXiv 2021.06) Improved Transformer for High-Resolution GANs, [[Paper]](https://arxiv.org/pdf/2106.07631.pdf)
+- (arXiv 2021.06) Styleformer: Transformer based Generative Adversarial Networks with Style Vector, [[Paper]](https://arxiv.org/pdf/2106.07023.pdf), [[Code]](https://github.com/Jeeseung-Park/Styleformer）
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
@@ -225,6 +228,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) COTR: Convolution in Transformer Network for End to End Polyp Detection, [[Paper]](https://arxiv.org/pdf/2105.10925.pdf)
 - (arXiv 2021.05) PTNet: A High-Resolution Infant MRI Synthesizer Based on Transformer, [[Paper]](https://arxiv.org/pdf/2105.13993.pdf)
 - (arXiv 2021.06) TED-net: Convolution-free T2T Vision Transformerbased Encoder-decoder Dilation network for Low-dose CT Denoising, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2106/2106.04650.pdf)
+- (arXiv 2021.06) A Multi-Branch Hybrid Transformer Network for Corneal Endothelial Cell Segmentation, [[Paper]](https://arxiv.org/pdf/2106.07557.pdf)
+- (arXiv 2021.06) Task Transformer Network for Joint MRI Reconstruction and Super-Resolution, [[Paper]](https://arxiv.org/pdf/2106.06742.pdf), [[Code]](https://github.com/chunmeifeng/T2Net)
+- (arXiv 2021.06) DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.06716.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -239,6 +245,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/pdf/2104.11178.pdf)
 
 ### NAS
+- (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
 - (arXiv.2021.02) Towards Accurate and Compact Architectures via Neural Architecture Transformer, [[Paper]](https://arxiv.org/pdf/2102.10301.pdf)
 - (arXiv.2021.03) BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search, [[Paper]](https://arxiv.org/abs/2103.12424), [[Code]](https://github.com/changlin31/BossNAS)
 
@@ -338,6 +345,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Super-Resolution
 - (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
 - (arXiv 2021.06) LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation, [[Paper]](https://arxiv.org/pdf/2006.04139)
+- (arXiv 2021.06) Video Super-Resolution Transformer, [[Paper]](https://arxiv.org/pdf/2106.06847.pdf), [[Code]](https://github.com/caojiezhang/VSR-Transformer)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
