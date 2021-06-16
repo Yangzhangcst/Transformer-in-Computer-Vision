@@ -113,6 +113,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Efficient Training of Visual Transformers with Small-Size Datasets, [[Paper]](https://arxiv.org/pdf/2106.03746.pdf)
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
 - (arXiv 2021.06) Delving Deep into the Generalization of Vision Transformers under Distribution Shifts, [[Paper]](https://arxiv.org/pdf/2106.07617.pdf)
+- (arXiv 2021.06) BEIT: BERT Pre-Training of Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.08254.pdf), [[Code]](https://aka.ms/beit)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
