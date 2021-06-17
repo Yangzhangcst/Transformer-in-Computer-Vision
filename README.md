@@ -178,7 +178,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) Combining Transformer Generators with Convolutional Discriminators, [[Paper]](https://arxiv.org/pdf/2105.10189.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
 - (arXiv 2021.06) ViT-Inception-GAN for Image Colourising, [[Paper]](https://arxiv.org/pdf/2106.06321.pdf)
 - (arXiv 2021.06) Improved Transformer for High-Resolution GANs, [[Paper]](https://arxiv.org/pdf/2106.07631.pdf)
-- (arXiv 2021.06) Styleformer: Transformer based Generative Adversarial Networks with Style Vector, [[Paper]](https://arxiv.org/pdf/2106.07023.pdf), [[Code]](https://github.com/Jeeseung-Park/Styleformer）
+- (arXiv 2021.06) Styleformer: Transformer based Generative Adversarial Networks with Style Vector, [[Paper]](https://arxiv.org/pdf/2106.07023.pdf), [[Code]](https://github.com/Jeeseung-Park/Styleformer)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
