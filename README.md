@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/06/16
+**Last updated: 2021/06/17
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -165,6 +165,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Learning to Cluster Faces via Transformer, [[Paper]](https://arxiv.org/pdf/2104.11502.pdf)
 - (arXiv 2021.06) VidFace: A Full-Transformer Solver for Video Face Hallucination with Unaligned Tiny Snapshots, [[Paper]](https://arxiv.org/pdf/2105.14954.pdf)
 - (arXiv 2021.06) MViT: Mask Vision Transformer for Facial Expression Recognition in the wild, [[Paper]](https://arxiv.org/pdf/2106.04520.pdf)
+- (arXiv 2021.06) Shuffle Transformer with Feature Alignment for Video Face Parsing, [[Paper]](https://arxiv.org/pdf/2106.08650.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -244,6 +245,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding, [[Paper]](https://arxiv.org/pdf/2104.12763.pdf), [[Code]](https://github.com/ashkamath/mdetr)
 - (arXiv 2021.04) Multi-Modal Fusion Transformer for End-to-End Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2104.09224.pdf)
 - (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/pdf/2104.11178.pdf)
+- (arXiv 2021.06) Scene Transformer: A Unified Multi-task Model for Behavior Prediction and Planning, [[Paper]](https://arxiv.org/pdf/2106.08417.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
