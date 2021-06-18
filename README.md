@@ -378,7 +378,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
 - (ICLR'21) Support-set bottlenecks for video-text representation learning, [[Paper]](https://arxiv.org/pdf/2010.02824.pdf)
-- (arXiv 2021.01) SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation (arXiv 2021.1), [[Paper]](https://arxiv.org/pdf/2101.08833.pdf)
+- (arXiv 2021.01) SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2101.08833.pdf)
 - (arXiv 2021.02) Video Transformer Network, [[Paper]](https://arxiv.org/pdf/2102.00719.pdf)
 - (arXiv 2021.02) Is Space-Time Attention All You Need for Video Understanding? [[Paper]](https://arxiv.org/pdf/2102.05095.pdf), [[Code]](https://github.com/lucidrains/TimeSformer-pytorch)
 - (arXiv.2021.02) A Straightforward Framework For Video Retrieval Using CLIP, [[Paper]](https://arxiv.org/pdf/2102.12443.pdf), [[Code]](https://github.com/Deferf/CLIP_Video_Representation)
