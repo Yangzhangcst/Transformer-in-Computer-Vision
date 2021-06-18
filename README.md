@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/06/17
+**Last updated: 2021/06/18
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -45,6 +45,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
 - (arXiv 2021.01) Dual-Level Collaborative Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.06462.pdf)
 - (arXiv.2021.02) VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining, [[Paper]](https://arxiv.org/pdf/2102.10407.pdf), [[Code]](https://github.com/Vision-CAIR/VisualGPT)
+- (arXiv 2021.06) Semi-Autoregressive Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2106.09436.pdf), [[Code]](https://github.com/YuanEZhou/satic)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -114,6 +115,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
 - (arXiv 2021.06) Delving Deep into the Generalization of Vision Transformers under Distribution Shifts, [[Paper]](https://arxiv.org/pdf/2106.07617.pdf)
 - (arXiv 2021.06) BEIT: BERT Pre-Training of Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.08254.pdf), [[Code]](https://aka.ms/beit)
+- (arXiv 2021.06) XCiT: Cross-Covariance Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.09681.pdf), [[Code]](https://github.com/facebookresearch/xcit)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -294,6 +296,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
+- (arXiv 2021.06) THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers, [[Paper]](https://arxiv.org/pdf/2106.09336.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -397,12 +400,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers, [[Paper]](https://arxiv.org/pdf/2106.05392.pdf)
 - (arXiv 2021.06) Space-time Mixing Attention for Video Transformer, [[Paper]](https://arxiv.org/pdf/2106.05968.pdf)
 - (arXiv 2021.06) Video Instance Segmentation using Inter-Frame Communication Transformers, [[Paper]](https://arxiv.org/pdf/2106.03299.pdf)
+- (arXiv 2021.06) Long-Short Temporal Contrastive Learning of Video Transformers, [[Paper]](https://arxiv.org/pdf/2106.09212.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
 - (arXiv 2021.05) Visual Grounding with Transformers, [[Paper]](https://arxiv.org/pdf/2105.04281.pdf)
 - (arXiv 2021.06) Referring Transformer: A One-step Approach to Multi-task Visual Grounding, [[Paper]](https://arxiv.org/pdf/2106.03089.pdf)
-
 
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
