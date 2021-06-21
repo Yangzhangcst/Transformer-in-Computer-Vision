@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/06/18
+**Last updated: 2021/06/21
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -29,6 +29,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) TubeR: Tube-Transformer for Action Detection, [[Paper]](https://arxiv.org/pdf/2104.00969.pdf)
 - (arXiv 2021.04) Few-Shot Transformation of Common Actions into Time and Space, [[Paper]](https://arxiv.org/pdf/2104.02439.pdf)
 - (arXiv 2021.05) Temporal Action Proposal Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.12043.pdf)
+- (arXiv 2021.06) End-to-end Temporal Action Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2106.10271.pdf), [[Code]](https://github.com/xlliu7/TadTR)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -116,6 +117,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Delving Deep into the Generalization of Vision Transformers under Distribution Shifts, [[Paper]](https://arxiv.org/pdf/2106.07617.pdf)
 - (arXiv 2021.06) BEIT: BERT Pre-Training of Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.08254.pdf), [[Code]](https://aka.ms/beit)
 - (arXiv 2021.06) XCiT: Cross-Covariance Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.09681.pdf), [[Code]](https://github.com/facebookresearch/xcit)
+- (arXiv 2021.06) How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.10270.pdf), [[Code1]](https://github.com/google-research/vision_transformer), [[Code2]](https://github.com/rwightman/pytorch-image-models)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -319,6 +321,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Self-supervised Video Retrieval Transformer Network, [[Paper]](https://arxiv.org/pdf/2104.07993.pdf)
 - (arXiv 2021.05) TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval, [[Paper]](https://arxiv.org/pdf/2105.07197.pdf), [[Code]](https://github.com/shikhartuli/cnn_txf_bias)
 - (arXiv 2021.06) Towards Efficient Cross-Modal Visual Textual Retrieval using Transformer-Encoder Deep Features, [[Paper]](https://arxiv.org/pdf/2106.00358.pdf)
+- (arXiv 2021.06) All You Can Embed: Natural Language based Vehicle Retrieval with Spatio-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2106.10153.pdf), [[Code]](https://github.com/cscribano/AYCE_2021)
 
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
@@ -337,6 +340,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Emerging Properties in Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.14294.pdf), [[Code]](https://github.com/facebookresearch/dino)
 - (arXiv 2021.05) Self-Supervised Learning with Swin Transformers, [[Paper]](https://arxiv.org/pdf/2105.04553.pdf), [[Code]](https://github.com/SwinTransformer/Transformer-SSL)
 - (arXiv 2021.06) MST: Masked Self-Supervised Transformer for Visual Representation, [[Paper]](https://arxiv.org/pdf/2106.05656.pdf)
+- (arXiv 2021.06) Efficient Self-supervised Vision Transformers for Representation Learning, [[Paper]](https://arxiv.org/pdf/2106.09785.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
