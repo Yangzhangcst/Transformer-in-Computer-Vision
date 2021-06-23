@@ -120,6 +120,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) XCiT: Cross-Covariance Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.09681.pdf), [[Code]](https://github.com/facebookresearch/xcit)
 - (arXiv 2021.06) How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.10270.pdf), [[Code1]](https://github.com/google-research/vision_transformer), [[Code2]](https://github.com/rwightman/pytorch-image-models)
 - (arXiv 2021.06) Exploring Vision Transformers for Fine-grained Classification, [[Paper]](https://arxiv.org/pdf/2106.10587.pdf), [[Code]](https://github.com/mv-lab/ViT-FGVC8)
+- (arXiv 2021.06) TokenLearner: What Can 8 Learned Tokens Do for Images and Videos, [[Paper]](https://arxiv.org/pdf/2106.11297.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -162,6 +163,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection, [[Paper]](https://arxiv.org/pdf/2106.00666.pdf)
 - (arXiv 2021.06) DETReg: Unsupervised Pretraining with Region Priors for Object Detection, [[Paper]](https://arxiv.org/pdf/2106.04550.pdf),[[Project]](https://www.amirbar.net/detreg/)
 - (arXiv 2021.06) Oriented Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2106.03146.pdf)
+- (arXiv 2021.06) MODETR: Moving Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11422.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -241,6 +243,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) A Multi-Branch Hybrid Transformer Network for Corneal Endothelial Cell Segmentation, [[Paper]](https://arxiv.org/pdf/2106.07557.pdf)
 - (arXiv 2021.06) Task Transformer Network for Joint MRI Reconstruction and Super-Resolution, [[Paper]](https://arxiv.org/pdf/2106.06742.pdf), [[Code]](https://github.com/chunmeifeng/T2Net)
 - (arXiv 2021.06) DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.06716.pdf)
+- (arXiv 2021.06) More than Encoder: Introducing Transformer Decoder to Upsample, [[Paper]](https://arxiv.org/pdf/2106.10637.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -441,6 +444,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, [[Paper]](https://arxiv.org/pdf/2106.00559.pdf)
 - (arXiv 2021.06) StyTr2: Unbiased Image Style Transfer with Transformers, [[Paper]](https://arxiv.org/pdf/2105.14576.pdf)
 - (arXiv 2021.06) Semantic Correspondence with Transformers, [[Paper]](https://arxiv.org/pdf/2106.02520.pdf)
+- (arXiv 2021.06) DocFormer: End-to-End Transformer for Document Understanding, [[Paper]](https://arxiv.org/pdf/2106.11539.pdf)
 
 ## Contact & Feedback
 
