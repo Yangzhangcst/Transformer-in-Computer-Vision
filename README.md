@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/06/23
+**Last updated: 2021/06/24
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -244,6 +244,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Task Transformer Network for Joint MRI Reconstruction and Super-Resolution, [[Paper]](https://arxiv.org/pdf/2106.06742.pdf), [[Code]](https://github.com/chunmeifeng/T2Net)
 - (arXiv 2021.06) DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.06716.pdf)
 - (arXiv 2021.06) More than Encoder: Introducing Transformer Decoder to Upsample, [[Paper]](https://arxiv.org/pdf/2106.10637.pdf)
+- (arXiv 2021.06) Instance-based Vision Transformer for Subtyping of Papillary Renal Cell Carcinoma in Histopathological Image, [[Paper]](https://arxiv.org/pdf/2106.12265.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -307,6 +308,7 @@ com/InterDigitalInc/Latent-Transformer)
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
 - (arXiv 2021.06) THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers, [[Paper]](https://arxiv.org/pdf/2106.09336.pdf)
+- (arXiv 2021.06) LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2106.12102.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -339,6 +341,7 @@ com/InterDigitalInc/Latent-Transformer)
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
 - (arXiv 2021.05) SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation, [[Paper]](https://arxiv.org/pdf/2105.04447.pdf)
+- (arXiv 2021.06) P2T: Pyramid Pooling Transformer for Scene Understanding, [[Paper]](https://arxiv.org/pdf/2106.12011.pdf), [[Code]](https://github.com/yuhuan-wu/P2T)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -356,6 +359,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.05) Segmenter: Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2105.05633.pdf), [[Code]](https://github.com/rstrudel/segmenter)
 - (arXiv 2021.06) SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.15203.pdf), [[Code]](https://github.com/NVlabs/SegFormer)
 - (arXiv 2021.06) Fully Transformer Networks for Semantic Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.04108.pdf)
+- (arXiv 2021.06) Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images, [[Paper]](https://arxiv.org/pdf/2106.12413.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
