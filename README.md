@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/06/24
+**Last updated: 2021/06/26
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -121,6 +121,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.10270.pdf), [[Code1]](https://github.com/google-research/vision_transformer), [[Code2]](https://github.com/rwightman/pytorch-image-models)
 - (arXiv 2021.06) Exploring Vision Transformers for Fine-grained Classification, [[Paper]](https://arxiv.org/pdf/2106.10587.pdf), [[Code]](https://github.com/mv-lab/ViT-FGVC8)
 - (arXiv 2021.06) TokenLearner: What Can 8 Learned Tokens Do for Images and Videos, [[Paper]](https://arxiv.org/pdf/2106.11297.pdf)
+- (arXiv 2021.06) Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers, [[Paper]](https://arxiv.org/pdf/2106.13122.pdf), [[Code]](https://github.com/katelyn98/CorruptionRobustness)
+- (arXiv 2021.06) VOLO: Vision Outlooker for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2106.13112.pdf), [[Code]](https://github.com/sail-sg/volo)
+- (arXiv 2021.06) IA-RED2: Interpretability-Aware Redundancy Reduction for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.12620.pdf), [[Project]](http://people.csail.mit.edu/bpan/ia-red/.)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -259,6 +262,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.04) VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text, [[Paper]](https://arxiv.org/pdf/2104.11178.pdf)
 - (arXiv 2021.06) Scene Transformer: A Unified Multi-task Model for Behavior Prediction and Planning, [[Paper]](https://arxiv.org/pdf/2106.08417.pdf)
 - (arXiv 2021.06) Spatio-Temporal Multi-Task Learning Transformer for Joint Moving Object Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2106.11401.pdf)
+- (arXiv 2021.06) A Transformer-based Cross-modal Fusion Model with Adversarial Training, [[Paper]](https://arxiv.org/pdf/2106.13033.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -417,6 +421,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Space-time Mixing Attention for Video Transformer, [[Paper]](https://arxiv.org/pdf/2106.05968.pdf)
 - (arXiv 2021.06) Video Instance Segmentation using Inter-Frame Communication Transformers, [[Paper]](https://arxiv.org/pdf/2106.03299.pdf)
 - (arXiv 2021.06) Long-Short Temporal Contrastive Learning of Video Transformers, [[Paper]](https://arxiv.org/pdf/2106.09212.pdf)
+- (arXiv 2021.06) Video Swin Transformer, [[Paper]](https://arxiv.org/pdf/2106.13230.pdf), [[Code]](https://github.com/SwinTransformer/Video-Swin-Transformer)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
