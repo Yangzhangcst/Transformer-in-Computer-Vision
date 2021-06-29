@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/06/26
+**Last updated: 2021/06/29
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -123,7 +123,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) TokenLearner: What Can 8 Learned Tokens Do for Images and Videos, [[Paper]](https://arxiv.org/pdf/2106.11297.pdf)
 - (arXiv 2021.06) Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers, [[Paper]](https://arxiv.org/pdf/2106.13122.pdf), [[Code]](https://github.com/katelyn98/CorruptionRobustness)
 - (arXiv 2021.06) VOLO: Vision Outlooker for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2106.13112.pdf), [[Code]](https://github.com/sail-sg/volo)
-- (arXiv 2021.06) IA-RED2: Interpretability-Aware Redundancy Reduction for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.12620.pdf), [[Project]](http://people.csail.mit.edu/bpan/ia-red/.)
+- (arXiv 2021.06) IA-RED2: Interpretability-Aware Redundancy Reduction for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.12620.pdf), [[Project]](http://people.csail.mit.edu/bpan/ia-red/)
+- (arXiv 2021.06) PVTv2: Improved Baselines with Pyramid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.13797.pdf), [[Code]](https://github.
+com/whai362/PVT)
+- (arXiv 2021.06) Early Convolutions Help Transformers See Better, [[Paper]](https://arxiv.org/pdf/2106.14881.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -248,6 +251,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.06716.pdf)
 - (arXiv 2021.06) More than Encoder: Introducing Transformer Decoder to Upsample, [[Paper]](https://arxiv.org/pdf/2106.10637.pdf)
 - (arXiv 2021.06) Instance-based Vision Transformer for Subtyping of Papillary Renal Cell Carcinoma in Histopathological Image, [[Paper]](https://arxiv.org/pdf/2106.12265.pdf)
+- (arXiv 2021.06) MTrans: Multi-Modal Transformer for Accelerated MR Imaging, [[Paper]](https://arxiv.org/pdf/2106.10637.pdf), [[Code]](https://github.com/chunmeifeng/MTrans)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -268,6 +272,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
 - (arXiv.2021.02) Towards Accurate and Compact Architectures via Neural Architecture Transformer, [[Paper]](https://arxiv.org/pdf/2102.10301.pdf)
 - (arXiv.2021.03) BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search, [[Paper]](https://arxiv.org/abs/2103.12424), [[Code]](https://github.com/changlin31/BossNAS)
+- (arXiv.2021.06) Vision Transformer Architecture Search, [[Paper]](https://arxiv.org/pdf/2106.13700.pdf), [[Code]](https://github.com/xiusu/ViTAS)
 
 ### Navigation
 - (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
