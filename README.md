@@ -127,6 +127,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) PVTv2: Improved Baselines with Pyramid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.13797.pdf), [[Code]](https://github.
 com/whai362/PVT)
 - (arXiv 2021.06) Early Convolutions Help Transformers See Better, [[Paper]](https://arxiv.org/pdf/2106.14881.pdf)
+- (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -251,7 +252,8 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) DS-TransUNet: Dual Swin Transformer U-Net for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.06716.pdf)
 - (arXiv 2021.06) More than Encoder: Introducing Transformer Decoder to Upsample, [[Paper]](https://arxiv.org/pdf/2106.10637.pdf)
 - (arXiv 2021.06) Instance-based Vision Transformer for Subtyping of Papillary Renal Cell Carcinoma in Histopathological Image, [[Paper]](https://arxiv.org/pdf/2106.12265.pdf)
-- (arXiv 2021.06) MTrans: Multi-Modal Transformer for Accelerated MR Imaging, [[Paper]](https://arxiv.org/pdf/2106.10637.pdf), [[Code]](https://github.com/chunmeifeng/MTrans)
+- (arXiv 2021.06) MTrans: Multi-Modal Transformer for Accelerated MR Imaging, [[Paper]](https://arxiv.org/pdf/2106.14248.pdf), [[Code]](https://github.com/chunmeifeng/MTrans)
+- (arXiv 2021.06) Multi-Compound Transformer for Accurate Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.14385.pdf), [[Code]](https://github.com/JiYuanFeng/MCTrans)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -369,6 +371,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.15203.pdf), [[Code]](https://github.com/NVlabs/SegFormer)
 - (arXiv 2021.06) Fully Transformer Networks for Semantic Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.04108.pdf)
 - (arXiv 2021.06) Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images, [[Paper]](https://arxiv.org/pdf/2106.12413.pdf)
+- (arXiv 2021.06) OffRoadTranSeg: Semi-Supervised Segmentation using Transformers on OffRoad environments, [[Paper]](https://arxiv.org/pdf/2106.13963.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -427,6 +430,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Video Instance Segmentation using Inter-Frame Communication Transformers, [[Paper]](https://arxiv.org/pdf/2106.03299.pdf)
 - (arXiv 2021.06) Long-Short Temporal Contrastive Learning of Video Transformers, [[Paper]](https://arxiv.org/pdf/2106.09212.pdf)
 - (arXiv 2021.06) Video Swin Transformer, [[Paper]](https://arxiv.org/pdf/2106.13230.pdf), [[Code]](https://github.com/SwinTransformer/Video-Swin-Transformer)
+- (arXiv 2021.06) Feature Combination Meets Attention: Baidu Soccer Embeddings and Transformer based Temporal Detection, [[Paper]](https://arxiv.org/pdf/2106.14447.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
