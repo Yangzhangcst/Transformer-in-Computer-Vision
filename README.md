@@ -257,6 +257,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Instance-based Vision Transformer for Subtyping of Papillary Renal Cell Carcinoma in Histopathological Image, [[Paper]](https://arxiv.org/pdf/2106.12265.pdf)
 - (arXiv 2021.06) MTrans: Multi-Modal Transformer for Accelerated MR Imaging, [[Paper]](https://arxiv.org/pdf/2106.14248.pdf), [[Code]](https://github.com/chunmeifeng/MTrans)
 - (arXiv 2021.06) Multi-Compound Transformer for Accurate Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.14385.pdf), [[Code]](https://github.com/JiYuanFeng/MCTrans)
+- (arXiv 2021.07) ResViT: Residual vision transformers for multi-modal medical image synthesis, [[Paper]](https://arxiv.org/pdf/2106.16031.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -375,6 +376,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Fully Transformer Networks for Semantic Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.04108.pdf)
 - (arXiv 2021.06) Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images, [[Paper]](https://arxiv.org/pdf/2106.12413.pdf)
 - (arXiv 2021.06) OffRoadTranSeg: Semi-Supervised Segmentation using Transformers on OffRoad environments, [[Paper]](https://arxiv.org/pdf/2106.13963.pdf)
+- (arXiv 2021.07) Looking Outside the Window: Wider-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2106.15754.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
