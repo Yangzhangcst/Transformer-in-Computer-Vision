@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/06/30
+**Last updated: 2021/07/01
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -129,6 +129,8 @@ com/whai362/PVT)
 - (arXiv 2021.06) Early Convolutions Help Transformers See Better, [[Paper]](https://arxiv.org/pdf/2106.14881.pdf)
 - (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
 - (arXiv 2021.06) Multi-Exit Vision Transformer for Dynamic Inference, [[Paper]](https://arxiv.org/pdf/2106.15183.pdf)
+- (arXiv 2021.07) Augmented Shortcuts for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.15941.pdf)
+- (arXiv 2021.07) Improving the Efficiency of Transformers for Resource-Constrained Devices, [[Paper]](https://arxiv.org/pdf/2106.16006.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
