@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/02
+**Last updated: 2021/07/05
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -135,6 +135,7 @@ com/whai362/PVT)
 - (arXiv 2021.07) Improving the Efficiency of Transformers for Resource-Constrained Devices, [[Paper]](https://arxiv.org/pdf/2106.16006.pdf)
 - (arXiv 2021.07) CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows, [[Paper]](https://arxiv.org/pdf/2107.00652.pdf), [[Code]](https://github.com/microsoft/CSWin-Transformer)
 - (arXiv 2021.07) Focal Self-attention for Local-Global Interactions in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.00641.pdf)
+- (arXiv 2021.07) Cross-view Geo-localization with Evolving Transformer, [[Paper]](https://arxiv.org/pdf/2107.00842.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -263,6 +264,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Multi-Compound Transformer for Accurate Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2106.14385.pdf), [[Code]](https://github.com/JiYuanFeng/MCTrans)
 - (arXiv 2021.07) ResViT: Residual vision transformers for multi-modal medical image synthesis, [[Paper]](https://arxiv.org/pdf/2106.16031.pdf)
 - (arXiv 2021.07) E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-based Stereoscopic Depth Perception, [[Paper]](https://arxiv.org/pdf/2107.00229.pdf)
+- (arXiv 2021.07) UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.00781.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -279,6 +281,8 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Spatio-Temporal Multi-Task Learning Transformer for Joint Moving Object Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2106.11401.pdf)
 - (arXiv 2021.06) A Transformer-based Cross-modal Fusion Model with Adversarial Training, [[Paper]](https://arxiv.org/pdf/2106.13033.pdf)
 - (arXiv 2021.07) Attention Bottlenecks for Multimodal Fusion, [[Paper]](https://arxiv.org/pdf/2107.00135.pdf)
+- (arXiv 2021.07) Target-dependent UNITER: A Transformer-Based Multimodal Language Comprehension Model for Domestic Service Robots, [[Paper]](https://arxiv.org/pdf/2107.00811.pdf)
+- (arXiv 2021.07) Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions, [[Paper]](https://arxiv.org/pdf/2107.00789.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -443,6 +447,8 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Long-Short Temporal Contrastive Learning of Video Transformers, [[Paper]](https://arxiv.org/pdf/2106.09212.pdf)
 - (arXiv 2021.06) Video Swin Transformer, [[Paper]](https://arxiv.org/pdf/2106.13230.pdf), [[Code]](https://github.com/SwinTransformer/Video-Swin-Transformer)
 - (arXiv 2021.06) Feature Combination Meets Attention: Baidu Soccer Embeddings and Transformer based Temporal Detection, [[Paper]](https://arxiv.org/pdf/2106.14447.pdf)
+- (arXiv 2021.07) Ultrasound Video Transformers for Cardiac Ejection Fraction Estimation, [[Paper]](https://arxiv.org/pdf/2107.00977.pdf), [[Code]](https://github.com/HReynaud/UVT)
+
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
