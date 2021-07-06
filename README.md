@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/05
+**Last updated: 2021/07/06
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -136,6 +136,8 @@ com/whai362/PVT)
 - (arXiv 2021.07) CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows, [[Paper]](https://arxiv.org/pdf/2107.00652.pdf), [[Code]](https://github.com/microsoft/CSWin-Transformer)
 - (arXiv 2021.07) Focal Self-attention for Local-Global Interactions in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.00641.pdf)
 - (arXiv 2021.07) Cross-view Geo-localization with Evolving Transformer, [[Paper]](https://arxiv.org/pdf/2107.00842.pdf)
+- (arXiv 2021.07) What Makes for Hierarchical Vision Transformer, [[Paper]](https://arxiv.org/pdf/2107.02174.pdf)
+- (arXiv 2021.07) Efficient Vision Transformers via Fine-Grained Manifold Distillation, [[Paper]](https://arxiv.org/pdf/2107.01378.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -265,6 +267,8 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.07) ResViT: Residual vision transformers for multi-modal medical image synthesis, [[Paper]](https://arxiv.org/pdf/2106.16031.pdf)
 - (arXiv 2021.07) E-DSSR: Efficient Dynamic Surgical Scene Reconstruction with Transformer-based Stereoscopic Depth Perception, [[Paper]](https://arxiv.org/pdf/2107.00229.pdf)
 - (arXiv 2021.07) UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.00781.pdf)
+- (arXiv 2021.07) COVID-VIT: Classification of Covid-19 from CT chest images based on vision transformer models, [[Paper]](https://arxiv.org/pdf/2107.01682.pdf)
+- (arXiv 2021.07) RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting, [[Paper]](https://arxiv.org/pdf/2107.01682.pdf), [[Code]](http://www.github.com/farrell236/RATCHET)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -322,6 +326,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.04) TokenPose: Learning Keypoint Tokens for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2104.03516.pdf)
 - (arXiv 2021.04) Skeletor: Skeletal Transformers for Robust Body-Pose Estimation, [[Paper]](https://arxiv.org/pdf/2104.11712.pdf)
 - (arXiv 2021.04) HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation of Hands and Object in Interaction, [[Paper]](https://arxiv.org/pdf/2104.14639.pdf)
+- (arXiv 2021.07) Test-Time Personalization with a Transformer for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2107.02133.pdf)
 
 ### Pruning
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
