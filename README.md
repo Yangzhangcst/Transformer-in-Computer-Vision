@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/06
+**Last updated: 2021/07/07
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -138,6 +138,8 @@ com/whai362/PVT)
 - (arXiv 2021.07) Cross-view Geo-localization with Evolving Transformer, [[Paper]](https://arxiv.org/pdf/2107.00842.pdf)
 - (arXiv 2021.07) What Makes for Hierarchical Vision Transformer, [[Paper]](https://arxiv.org/pdf/2107.02174.pdf)
 - (arXiv 2021.07) Efficient Vision Transformers via Fine-Grained Manifold Distillation, [[Paper]](https://arxiv.org/pdf/2107.01378.pdf)
+- (arXiv 2021.07) Vision Xformers: Efficient Attention for Image Classification, [[Paper]](https://arxiv.org/pdf/2107.02239.pdf)
+- (arXiv 2021.07) Long-Short Transformer: Efficient Transformers for Language and Vision, [[Paper]](https://arxiv.org/pdf/2107.02192.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -156,6 +158,7 @@ com/whai362/PVT)
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
 - (arXiv 2021.04) Deepfake Detection Scheme Based on Vision Transformer and Distillation, [[Paper]](https://arxiv.org/abs/2104.01353)
 - (arXiv 2021.04) M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2104.09770.pdf)
+- (arXiv 2021.07) Combining EfficientNet and Vision Transformers for Video Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2107.02612.pdf)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -269,6 +272,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.07) UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.00781.pdf)
 - (arXiv 2021.07) COVID-VIT: Classification of Covid-19 from CT chest images based on vision transformer models, [[Paper]](https://arxiv.org/pdf/2107.01682.pdf)
 - (arXiv 2021.07) RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting, [[Paper]](https://arxiv.org/pdf/2107.01682.pdf), [[Code]](http://www.github.com/farrell236/RATCHET)
+- (arXiv 2021.07) Automatic size and pose homogenization with spatial transformer network to improve and accelerate pediatric segmentation, [[Paper]](https://arxiv.org/pdf/2107.02655.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -340,6 +344,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
 - (arXiv 2021.06) THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers, [[Paper]](https://arxiv.org/pdf/2106.09336.pdf)
 - (arXiv 2021.06) LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2106.12102.pdf)
+- (arXiv 2021.07) TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, [[Paper]](https://arxiv.org/pdf/2107.02191.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -349,6 +354,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Transformer-Based Deep Image Matching for Generalizable Person Re-identification, [[Paper]](https://arxiv.org/pdf/2105.14432.pdf)
 - (arXiv 2021.06) Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2106.04095.pdf)
 - (arXiv 2021.06) Person Re-Identification with a Locally Aware Transformer, [[Paper]](https://arxiv.org/pdf/2106.03720.pdf)
+- (arXiv 2021.07) Learning Disentangled Representation Implicitly via Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2107.02380.pdf), [[Code]](https://github.com/Anonymous-release-code/DRL-Net)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
