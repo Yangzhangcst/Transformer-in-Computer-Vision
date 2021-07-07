@@ -140,6 +140,7 @@ com/whai362/PVT)
 - (arXiv 2021.07) Efficient Vision Transformers via Fine-Grained Manifold Distillation, [[Paper]](https://arxiv.org/pdf/2107.01378.pdf)
 - (arXiv 2021.07) Vision Xformers: Efficient Attention for Image Classification, [[Paper]](https://arxiv.org/pdf/2107.02239.pdf)
 - (arXiv 2021.07) Long-Short Transformer: Efficient Transformers for Language and Vision, [[Paper]](https://arxiv.org/pdf/2107.02192.pdf)
+- (arXiv 2021.07) Feature Fusion Vision Transformer for Fine-Grained Visual Categorization, [[Paper]](https://arxiv.org/pdf/2107.02341.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
