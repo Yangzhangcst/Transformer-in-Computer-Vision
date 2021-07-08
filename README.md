@@ -127,8 +127,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers, [[Paper]](https://arxiv.org/pdf/2106.13122.pdf), [[Code]](https://github.com/katelyn98/CorruptionRobustness)
 - (arXiv 2021.06) VOLO: Vision Outlooker for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2106.13112.pdf), [[Code]](https://github.com/sail-sg/volo)
 - (arXiv 2021.06) IA-RED2: Interpretability-Aware Redundancy Reduction for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.12620.pdf), [[Project]](http://people.csail.mit.edu/bpan/ia-red/)
-- (arXiv 2021.06) PVTv2: Improved Baselines with Pyramid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.13797.pdf), [[Code]](https://github.
-com/whai362/PVT)
+- (arXiv 2021.06) PVTv2: Improved Baselines with Pyramid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.13797.pdf), [[Code]](https://github.com/whai362/PVT)
 - (arXiv 2021.06) Early Convolutions Help Transformers See Better, [[Paper]](https://arxiv.org/pdf/2106.14881.pdf)
 - (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
 - (arXiv 2021.06) Multi-Exit Vision Transformer for Dynamic Inference, [[Paper]](https://arxiv.org/pdf/2106.15183.pdf)
@@ -196,8 +195,7 @@ com/whai362/PVT)
 - (arXiv 2021.06) VidFace: A Full-Transformer Solver for Video Face Hallucination with Unaligned Tiny Snapshots, [[Paper]](https://arxiv.org/pdf/2105.14954.pdf)
 - (arXiv 2021.06) MViT: Mask Vision Transformer for Facial Expression Recognition in the wild, [[Paper]](https://arxiv.org/pdf/2106.04520.pdf)
 - (arXiv 2021.06) Shuffle Transformer with Feature Alignment for Video Face Parsing, [[Paper]](https://arxiv.org/pdf/2106.08650.pdf)
-- (arXiv 2021.06) A Latent Transformer for Disentangled and Identity-Preserving Face Editing, [[Paper]](https://arxiv.org/pdf/2106.11895.pdf), [[Code]](https://github.
-com/InterDigitalInc/Latent-Transformer)
+- (arXiv 2021.06) A Latent Transformer for Disentangled and Identity-Preserving Face Editing, [[Paper]](https://arxiv.org/pdf/2106.11895.pdf), [[Code]](https://github.com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.07) Learning Vision Transformer with Squeeze and Excitation for Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2107.03107.pdf)
 
 ### Few-shot Learning
