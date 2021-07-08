@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/07
+**Last updated: 2021/07/08
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -33,6 +33,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) OadTR: Online Action Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11149.pdf), [[Code]](https://github.com/wangxiang1230/OadTR)
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 - (arXiv 2021.07) VideoLightFormer: Lightweight Action Recognition using Transformers, [[Paper]](https://arxiv.org/pdf/2107.00451.pdf)
+- (arXiv 2021.07) Long Short-Term Transformer for Online Action Detection, [[Paper]](https://arxiv.org/pdf/2107.03377.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -197,6 +198,7 @@ com/whai362/PVT)
 - (arXiv 2021.06) Shuffle Transformer with Feature Alignment for Video Face Parsing, [[Paper]](https://arxiv.org/pdf/2106.08650.pdf)
 - (arXiv 2021.06) A Latent Transformer for Disentangled and Identity-Preserving Face Editing, [[Paper]](https://arxiv.org/pdf/2106.11895.pdf), [[Code]](https://github.
 com/InterDigitalInc/Latent-Transformer)
+- (arXiv 2021.07) Learning Vision Transformer with Squeeze and Excitation for Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2107.03107.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -220,6 +222,9 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.03) Reformulating HOI Detection as Adaptive Set Prediction, [[Paper]](https://arxiv.org/pdf/2103.05983), [[Code]](https://github.com/yoyomimi/AS-Net)
 - (arXiv 2021.03) End-to-End Human Object Interaction Detection with HOI Transformer, [[Paper]](https://arxiv.org/pdf/2103.04503.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
+
+### Hyperspectral
+- (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -274,6 +279,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.07) COVID-VIT: Classification of Covid-19 from CT chest images based on vision transformer models, [[Paper]](https://arxiv.org/pdf/2107.01682.pdf)
 - (arXiv 2021.07) RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting, [[Paper]](https://arxiv.org/pdf/2107.01682.pdf), [[Code]](http://www.github.com/farrell236/RATCHET)
 - (arXiv 2021.07) Automatic size and pose homogenization with spatial transformer network to improve and accelerate pediatric segmentation, [[Paper]](https://arxiv.org/pdf/2107.02655.pdf)
+- (arXiv 2021.07) Transformer Network for Significant Stenosis Detection in CCTA of Coronary Arteries, [[Paper]](https://arxiv.org/pdf/2107.03035.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -299,6 +305,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv.2021.03) BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search, [[Paper]](https://arxiv.org/abs/2103.12424), [[Code]](https://github.com/changlin31/BossNAS)
 - (arXiv.2021.06) Vision Transformer Architecture Search, [[Paper]](https://arxiv.org/pdf/2106.13700.pdf), [[Code]](https://github.com/xiusu/ViTAS)
 - (arXiv.2021.07) AutoFormer: Searching Transformers for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.00651.pdf), [[Code]](https://github.com/microsoft/AutoML)
+- (arXiv.2021.07) GLiT: Neural Architecture Search for Global and Local Image Transformer, [[Paper]](https://arxiv.org/pdf/2107.02960.pdf)
 
 ### Navigation
 - (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
@@ -400,6 +407,7 @@ com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.06) Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images, [[Paper]](https://arxiv.org/pdf/2106.12413.pdf)
 - (arXiv 2021.06) OffRoadTranSeg: Semi-Supervised Segmentation using Transformers on OffRoad environments, [[Paper]](https://arxiv.org/pdf/2106.13963.pdf)
 - (arXiv 2021.07) Looking Outside the Window: Wider-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2106.15754.pdf)
+- (arXiv 2021.07) Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World, [[Paper]](https://arxiv.org/pdf/2107.03172.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
