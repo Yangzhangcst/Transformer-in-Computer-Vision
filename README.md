@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/08
+**Last updated: 2021/07/11
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -278,6 +278,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) RATCHET: Medical Transformer for Chest X-ray Diagnosis and Reporting, [[Paper]](https://arxiv.org/pdf/2107.01682.pdf), [[Code]](http://www.github.com/farrell236/RATCHET)
 - (arXiv 2021.07) Automatic size and pose homogenization with spatial transformer network to improve and accelerate pediatric segmentation, [[Paper]](https://arxiv.org/pdf/2107.02655.pdf)
 - (arXiv 2021.07) Transformer Network for Significant Stenosis Detection in CCTA of Coronary Arteries, [[Paper]](https://arxiv.org/pdf/2107.03035.pdf)
+- (arXiv 2021.07) EEG-ConvTransformer for Single-Trial EEG based Visual Stimuli Classification, [[Paper]](https://arxiv.org/pdf/2107.03983.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -296,6 +297,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Attention Bottlenecks for Multimodal Fusion, [[Paper]](https://arxiv.org/pdf/2107.00135.pdf)
 - (arXiv 2021.07) Target-dependent UNITER: A Transformer-Based Multimodal Language Comprehension Model for Domestic Service Robots, [[Paper]](https://arxiv.org/pdf/2107.00811.pdf)
 - (arXiv 2021.07) Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions, [[Paper]](https://arxiv.org/pdf/2107.00789.pdf)
+- (arXiv 2021.07) Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2107.03996.pdf), [[Code]](https://RchalYang.github.io/LocoTransformer)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -467,7 +469,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Feature Combination Meets Attention: Baidu Soccer Embeddings and Transformer based Temporal Detection, [[Paper]](https://arxiv.org/pdf/2106.14447.pdf)
 - (arXiv 2021.07) Ultrasound Video Transformers for Cardiac Ejection Fraction Estimation, [[Paper]](https://arxiv.org/pdf/2107.00977.pdf), [[Code]](https://github.com/HReynaud/UVT)
 
-
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
 - (arXiv 2021.05) Visual Grounding with Transformers, [[Paper]](https://arxiv.org/pdf/2105.04281.pdf)
@@ -500,6 +501,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Semantic Correspondence with Transformers, [[Paper]](https://arxiv.org/pdf/2106.02520.pdf)
 - (arXiv 2021.06) DocFormer: End-to-End Transformer for Document Understanding, [[Paper]](https://arxiv.org/pdf/2106.11539.pdf)
 - (arXiv 2021.06) Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue, [[Paper]](https://arxiv.org/pdf/2106.15550.pdf)
+- (arXiv 2021.07) Grid Partitioned Attention: Efficient Transformer Approximation with Inductive Bias for High Resolution Detail Generation, [[Paper]](https://arxiv.org/pdf/2107.03742.pdf),, [[Code]](https://github.com/zalandoresearch/gpa)
 
 ## Contact & Feedback
 
