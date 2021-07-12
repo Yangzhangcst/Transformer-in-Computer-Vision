@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/11
+**Last updated: 2021/07/12
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -210,6 +210,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) ViT-Inception-GAN for Image Colourising, [[Paper]](https://arxiv.org/pdf/2106.06321.pdf)
 - (arXiv 2021.06) Improved Transformer for High-Resolution GANs, [[Paper]](https://arxiv.org/pdf/2106.07631.pdf)
 - (arXiv 2021.06) Styleformer: Transformer based Generative Adversarial Networks with Style Vector, [[Paper]](https://arxiv.org/pdf/2106.07023.pdf), [[Code]](https://github.com/Jeeseung-Park/Styleformer)
+- (arXiv 2021.07) ViTGAN: Training GANs with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.04589.pdf)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
