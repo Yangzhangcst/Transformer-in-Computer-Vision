@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/12
+**Last updated: 2021/07/13
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -141,6 +141,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Vision Xformers: Efficient Attention for Image Classification, [[Paper]](https://arxiv.org/pdf/2107.02239.pdf)
 - (arXiv 2021.07) Long-Short Transformer: Efficient Transformers for Language and Vision, [[Paper]](https://arxiv.org/pdf/2107.02192.pdf)
 - (arXiv 2021.07) Feature Fusion Vision Transformer for Fine-Grained Visual Categorization, [[Paper]](https://arxiv.org/pdf/2107.02341.pdf)
+- (arXiv 2021.07) Local-to-Global Self-Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.04735.pdf), [[Code]](https://github.com/ljpadam/LG-Transformer)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -280,6 +281,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Automatic size and pose homogenization with spatial transformer network to improve and accelerate pediatric segmentation, [[Paper]](https://arxiv.org/pdf/2107.02655.pdf)
 - (arXiv 2021.07) Transformer Network for Significant Stenosis Detection in CCTA of Coronary Arteries, [[Paper]](https://arxiv.org/pdf/2107.03035.pdf)
 - (arXiv 2021.07) EEG-ConvTransformer for Single-Trial EEG based Visual Stimuli Classification, [[Paper]](https://arxiv.org/pdf/2107.03983.pdf)
+- (arXiv 2021.07) Visual Transformer with Statistical Test for COVID-19 Classification, [[Paper]](https://arxiv.org/pdf/2107.05334.pdf)
+- (arXiv 2021.07) TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.05274.pdf)
+- (arXiv 2021.07) Few-Shot Domain Adaptation with Polymorphic Transformers, [[Paper]](https://arxiv.org/pdf/2107.04805.pdf), [[Code]](https://github.com/askerlee/segtran)
+- (arXiv 2021.07) TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.05188.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -364,6 +369,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2106.04095.pdf)
 - (arXiv 2021.06) Person Re-Identification with a Locally Aware Transformer, [[Paper]](https://arxiv.org/pdf/2106.03720.pdf)
 - (arXiv 2021.07) Learning Disentangled Representation Implicitly via Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2107.02380.pdf), [[Code]](https://github.com/Anonymous-release-code/DRL-Net)
+- (arXiv 2021.07) GiT: Graph Interactive Transformer for Vehicle Re-identification, [[Paper]](https://arxiv.org/pdf/2107.05448.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -388,6 +394,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
 - (arXiv 2021.05) SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation, [[Paper]](https://arxiv.org/pdf/2105.04447.pdf)
 - (arXiv 2021.06) P2T: Pyramid Pooling Transformer for Scene Understanding, [[Paper]](https://arxiv.org/pdf/2106.12011.pdf), [[Code]](https://github.com/yuhuan-wu/P2T)
+- (arXiv 2021.07) Scenes and Surroundings: Scene Graph Generation using Relation Transformer, [[Paper]](https://arxiv.org/pdf/2107.05448.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
