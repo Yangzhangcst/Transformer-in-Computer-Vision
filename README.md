@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/13
+**Last updated: 2021/07/14
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -142,6 +142,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Long-Short Transformer: Efficient Transformers for Language and Vision, [[Paper]](https://arxiv.org/pdf/2107.02192.pdf)
 - (arXiv 2021.07) Feature Fusion Vision Transformer for Fine-Grained Visual Categorization, [[Paper]](https://arxiv.org/pdf/2107.02341.pdf)
 - (arXiv 2021.07) Local-to-Global Self-Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.04735.pdf), [[Code]](https://github.com/ljpadam/LG-Transformer)
+- (arXiv 2021.07) Visual Parser: Representing Part-whole Hierarchies with Transformers, [[Paper]](https://arxiv.org/pdf/2107.05790.pdf), [[Code]](https://github.com/kevin-ssy/ViP)
+- (arXiv 2021.07) CMT: Convolutional Neural Networks Meet Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.06263.pdf)
+- (arXiv 2021.07) Combiner: Full Attention Transformer with Sparse Computation Cost, [[Paper]](https://arxiv.org/pdf/2107.05768.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -186,6 +189,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) DETReg: Unsupervised Pretraining with Region Priors for Object Detection, [[Paper]](https://arxiv.org/pdf/2106.04550.pdf),[[Project]](https://www.amirbar.net/detreg/)
 - (arXiv 2021.06) Oriented Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2106.03146.pdf)
 - (arXiv 2021.06) MODETR: Moving Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11422.pdf)
+- (arXiv 2021.07) MODETR: Moving Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2107.05887.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -197,7 +201,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) MViT: Mask Vision Transformer for Facial Expression Recognition in the wild, [[Paper]](https://arxiv.org/pdf/2106.04520.pdf)
 - (arXiv 2021.06) Shuffle Transformer with Feature Alignment for Video Face Parsing, [[Paper]](https://arxiv.org/pdf/2106.08650.pdf)
 - (arXiv 2021.06) A Latent Transformer for Disentangled and Identity-Preserving Face Editing, [[Paper]](https://arxiv.org/pdf/2106.11895.pdf), [[Code]](https://github.com/InterDigitalInc/Latent-Transformer)
-- (arXiv 2021.07) Learning Vision Transformer with Squeeze and Excitation for Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2107.03107.pdf)
+- (arXiv 2021.07) ST-DETR: Spatio-Temporal Object Traces Attention Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.03107.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -370,6 +374,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Person Re-Identification with a Locally Aware Transformer, [[Paper]](https://arxiv.org/pdf/2106.03720.pdf)
 - (arXiv 2021.07) Learning Disentangled Representation Implicitly via Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2107.02380.pdf), [[Code]](https://github.com/Anonymous-release-code/DRL-Net)
 - (arXiv 2021.07) GiT: Graph Interactive Transformer for Vehicle Re-identification, [[Paper]](https://arxiv.org/pdf/2107.05448.pdf)
+- (arXiv 2021.07) HAT: Hierarchical Aggregation Transformers for Person Re-identification, [[Paper]](https://arxiv.org/pdf/2107.05946.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
