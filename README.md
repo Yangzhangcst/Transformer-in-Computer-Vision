@@ -357,6 +357,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
 - (arXiv 2021.03) TransFG: A Transformer Architecture for Fine-grained Recognition, [[Paper]](https://arxiv.org/pdf/2103.07976.pdf)
 - (arXiv 2021.05) Are Convolutional Neural Networks or Transformers more like human vision, [[Paper]](https://arxiv.org/pdf/2103.07976.pdf)
+- (arXiv 2021.07) Transformer with Peak Suppression and Knowledge Guidance for Fine-grained Image Recognition, [[Paper]](https://arxiv.org/pdf/2107.06538.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
