@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/14
+**Last updated: 2021/07/16
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -34,6 +34,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 - (arXiv 2021.07) VideoLightFormer: Lightweight Action Recognition using Transformers, [[Paper]](https://arxiv.org/pdf/2107.00451.pdf)
 - (arXiv 2021.07) Long Short-Term Transformer for Online Action Detection, [[Paper]](https://arxiv.org/pdf/2107.03377.pdf)
+- (arXiv 2021.07) STAR: Sparse Transformer-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.07089.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -289,6 +290,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) TransAttUnet: Multi-level Attention-guided U-Net with Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.05274.pdf)
 - (arXiv 2021.07) Few-Shot Domain Adaptation with Polymorphic Transformers, [[Paper]](https://arxiv.org/pdf/2107.04805.pdf), [[Code]](https://github.com/askerlee/segtran)
 - (arXiv 2021.07) TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.05188.pdf)
+- (arXiv 2021.07) Surgical Instruction Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2107.06964.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
