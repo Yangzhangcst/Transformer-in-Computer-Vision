@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/19
+**Last updated: 2021/07/20
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -192,6 +192,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Oriented Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2106.03146.pdf)
 - (arXiv 2021.06) MODETR: Moving Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11422.pdf)
 - (arXiv 2021.07) MODETR: Moving Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2107.05887.pdf)
+- (arXiv 2021.07) OODformer: Out-Of-Distribution Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.08976.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -292,6 +293,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Few-Shot Domain Adaptation with Polymorphic Transformers, [[Paper]](https://arxiv.org/pdf/2107.04805.pdf), [[Code]](https://github.com/askerlee/segtran)
 - (arXiv 2021.07) TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.05188.pdf)
 - (arXiv 2021.07) Surgical Instruction Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2107.06964.pdf)
+- (arXiv 2021.07) LeViT-UNet: Make Faster Encoders with Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.08623.pdf), [[Code]](https://github.com/apple1986/LeViT_UNet)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -361,12 +363,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) TransFG: A Transformer Architecture for Fine-grained Recognition, [[Paper]](https://arxiv.org/pdf/2103.07976.pdf)
 - (arXiv 2021.05) Are Convolutional Neural Networks or Transformers more like human vision, [[Paper]](https://arxiv.org/pdf/2103.07976.pdf)
 - (arXiv 2021.07) Transformer with Peak Suppression and Knowledge Guidance for Fine-grained Image Recognition, [[Paper]](https://arxiv.org/pdf/2107.06538.pdf)
+- (arXiv 2021.07) RAMS-Trans: Recurrent Attention Multi-scale Transformer for Fine-grained Image Recognition, [[Paper]](https://arxiv.org/pdf/2107.06538.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
 - (arXiv 2021.06) THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers, [[Paper]](https://arxiv.org/pdf/2106.09336.pdf)
 - (arXiv 2021.06) LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2106.12102.pdf)
-- (arXiv 2021.07) TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, [[Paper]](https://arxiv.org/pdf/2107.02191.pdf)
+- (arXiv 2021.07) TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, [[Paper]](https://arxiv.org/pdf/2107.08192.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -518,7 +521,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Semantic Correspondence with Transformers, [[Paper]](https://arxiv.org/pdf/2106.02520.pdf)
 - (arXiv 2021.06) DocFormer: End-to-End Transformer for Document Understanding, [[Paper]](https://arxiv.org/pdf/2106.11539.pdf)
 - (arXiv 2021.06) Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue, [[Paper]](https://arxiv.org/pdf/2106.15550.pdf)
-- (arXiv 2021.07) Grid Partitioned Attention: Efficient Transformer Approximation with Inductive Bias for High Resolution Detail Generation, [[Paper]](https://arxiv.org/pdf/2107.03742.pdf),, [[Code]](https://github.com/zalandoresearch/gpa)
+- (arXiv 2021.07) Grid Partitioned Attention: Efficient Transformer Approximation with Inductive Bias for High Resolution Detail Generation, [[Paper]](https://arxiv.org/pdf/2107.03742.pdf), [[Code]](https://github.com/zalandoresearch/gpa)
+- (arXiv 2021.07) Image Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2107.09011.pdf), [[Code]](https://github.com/Vibashan/Image-FusionTransformer)
 
 ## Contact & Feedback
 
