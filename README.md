@@ -191,7 +191,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) DETReg: Unsupervised Pretraining with Region Priors for Object Detection, [[Paper]](https://arxiv.org/pdf/2106.04550.pdf),[[Project]](https://www.amirbar.net/detreg/)
 - (arXiv 2021.06) Oriented Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2106.03146.pdf)
 - (arXiv 2021.06) MODETR: Moving Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11422.pdf)
-- (arXiv 2021.07) MODETR: Moving Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2107.05887.pdf)
+- (arXiv 2021.07) ST-DETR: Spatio-Temporal Object Traces Attention Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.05887.pdf)
 - (arXiv 2021.07) OODformer: Out-Of-Distribution Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.08976.pdf)
 
 ### Face
