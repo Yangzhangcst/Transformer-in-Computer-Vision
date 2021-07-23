@@ -147,6 +147,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) CMT: Convolutional Neural Networks Meet Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.06263.pdf)
 - (arXiv 2021.07) Combiner: Full Attention Transformer with Sparse Computation Cost, [[Paper]](https://arxiv.org/pdf/2107.05768.pdf)
 - (arXiv 2021.07) A Comparison of Deep Learning Classification Methods on Small-scale Image Data set: from Converlutional Neural Networks to Visual Transformers, [[Paper]](https://arxiv.org/pdf/2107.07699.pdf)
+- (arXiv 2021.07) Query2Label: A Simple Transformer Way to Multi-Label Classification, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
