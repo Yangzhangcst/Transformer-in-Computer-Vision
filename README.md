@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/21
+**Last updated: 2021/07/27
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -148,6 +148,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Combiner: Full Attention Transformer with Sparse Computation Cost, [[Paper]](https://arxiv.org/pdf/2107.05768.pdf)
 - (arXiv 2021.07) A Comparison of Deep Learning Classification Methods on Small-scale Image Data set: from Converlutional Neural Networks to Visual Transformers, [[Paper]](https://arxiv.org/pdf/2107.07699.pdf)
 - (arXiv 2021.07) Query2Label: A Simple Transformer Way to Multi-Label Classification, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
+- (arXiv 2021.07) Contextual Transformer Networks for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.12292.pdf), [[Code]](https://github.com/JDAI-CV/CoTNet)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -408,6 +409,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation, [[Paper]](https://arxiv.org/pdf/2105.04447.pdf)
 - (arXiv 2021.06) P2T: Pyramid Pooling Transformer for Scene Understanding, [[Paper]](https://arxiv.org/pdf/2106.12011.pdf), [[Code]](https://github.com/yuhuan-wu/P2T)
 - (arXiv 2021.07) Scenes and Surroundings: Scene Graph Generation using Relation Transformer, [[Paper]](https://arxiv.org/pdf/2107.05448.pdf)
+- (arXiv 2021.07) Spatial-Temporal Transformer for Dynamic Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2107.12309.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
