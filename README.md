@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/27
+**Last updated: 2021/07/28
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -195,6 +195,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) MODETR: Moving Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2106.11422.pdf)
 - (arXiv 2021.07) ST-DETR: Spatio-Temporal Object Traces Attention Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.05887.pdf)
 - (arXiv 2021.07) OODformer: Out-Of-Distribution Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.08976.pdf)
+- (arXiv 2021.07) Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers, [[Paper]](https://arxiv.org/pdf/2107.12636.pdf),[[Code]](https://github.com/encounter1997/SFA)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -527,6 +528,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue, [[Paper]](https://arxiv.org/pdf/2106.15550.pdf)
 - (arXiv 2021.07) Grid Partitioned Attention: Efficient Transformer Approximation with Inductive Bias for High Resolution Detail Generation, [[Paper]](https://arxiv.org/pdf/2107.03742.pdf), [[Code]](https://github.com/zalandoresearch/gpa)
 - (arXiv 2021.07) Image Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2107.09011.pdf), [[Code]](https://github.com/Vibashan/Image-FusionTransformer)
+- (arXiv 2021.07) PiSLTRc: Position-informed Sign Language Transformer with Content-aware Convolution, [[Paper]](https://arxiv.org/pdf/2107.12600.pdf)
 
 ## Contact & Feedback
 
