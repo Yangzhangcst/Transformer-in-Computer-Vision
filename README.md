@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/28
+**Last updated: 2021/07/29
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -297,6 +297,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) TransClaw U-Net: Claw U-Net with Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.05188.pdf)
 - (arXiv 2021.07) Surgical Instruction Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2107.06964.pdf)
 - (arXiv 2021.07) LeViT-UNet: Make Faster Encoders with Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.08623.pdf), [[Code]](https://github.com/apple1986/LeViT_UNet)
+- (arXiv 2021.07) TEDS-Net: Enforcing Diffeomorphisms in Spatial Transformers to Guarantee Topology Preservation in Segmentations, [[Paper]](https://arxiv.org/pdf/2107.13542.pdf), [[Code]](https://www.github.com/mwyburd/TEDS-Net)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -506,6 +507,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
 - (CVPR'21') Pre-Trained Image Processing Transformer, [[Paper]](https://arxiv.org/abs/2012.00364)
+- (ICCV'21) PlaneTR: Structure-Guided Transformers for 3D Plane Recovery, [[Paper]](https://arxiv.org/pdf/2107.13108.pdf), [[Code]](https://github.com/IceTTTb/PlaneTR3D)
 - (arXiv 2021.01) Learn to Dance with AIST++: Music Conditioned 3D Dance Generation, [[Paper]](https://arxiv.org/abs/2101.08779), [[Code]](https://google.github.io/aichoreographer/)
 - (arXiv 2021.01) VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search, [[Paper]](https://arxiv.org/abs/2101.00265)
 - (arXiv 2021.01) Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry, [[Paper]](https://arxiv.org/abs/2101.02143)
