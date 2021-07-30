@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/29
+**Last updated: 2021/07/30
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -149,6 +149,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) A Comparison of Deep Learning Classification Methods on Small-scale Image Data set: from Converlutional Neural Networks to Visual Transformers, [[Paper]](https://arxiv.org/pdf/2107.07699.pdf)
 - (arXiv 2021.07) Query2Label: A Simple Transformer Way to Multi-Label Classification, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
 - (arXiv 2021.07) Contextual Transformer Networks for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.12292.pdf), [[Code]](https://github.com/JDAI-CV/CoTNet)
+- (arXiv 2021.07) Rethinking and Improving Relative Position Encoding for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2107.14222.pdf), [[Code]](https://github.com/microsoft/AutoML/tree/main/iRPE)
+
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -433,6 +435,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) OffRoadTranSeg: Semi-Supervised Segmentation using Transformers on OffRoad environments, [[Paper]](https://arxiv.org/pdf/2106.13963.pdf)
 - (arXiv 2021.07) Looking Outside the Window: Wider-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2106.15754.pdf)
 - (arXiv 2021.07) Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World, [[Paper]](https://arxiv.org/pdf/2107.03172.pdf)
+- (arXiv 2021.07) A Unified Efficient Pyramid Transformer for Semantic Segmentation , [[Paper]](https://arxiv.org/pdf/2107.14209.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -494,6 +497,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Feature Combination Meets Attention: Baidu Soccer Embeddings and Transformer based Temporal Detection, [[Paper]](https://arxiv.org/pdf/2106.14447.pdf)
 - (arXiv 2021.07) Ultrasound Video Transformers for Cardiac Ejection Fraction Estimation, [[Paper]](https://arxiv.org/pdf/2107.00977.pdf), [[Code]](https://github.com/HReynaud/UVT)
 - (arXiv 2021.07) Generative Video Transformer: Can Objects be the Words, [[Paper]](https://arxiv.org/pdf/2107.09240.pdf)
+- (arXiv 2021.07) Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2107.13720.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -531,6 +535,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Grid Partitioned Attention: Efficient Transformer Approximation with Inductive Bias for High Resolution Detail Generation, [[Paper]](https://arxiv.org/pdf/2107.03742.pdf), [[Code]](https://github.com/zalandoresearch/gpa)
 - (arXiv 2021.07) Image Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2107.09011.pdf), [[Code]](https://github.com/Vibashan/Image-FusionTransformer)
 - (arXiv 2021.07) PiSLTRc: Position-informed Sign Language Transformer with Content-aware Convolution, [[Paper]](https://arxiv.org/pdf/2107.12600.pdf)
+- (arXiv 2021.07) PPT Fusion: Pyramid Patch Transformer for a Case Study in Image Fusion, [[Paper]](https://arxiv.org/pdf/2107.13967.pdf)
 
 ## Contact & Feedback
 
