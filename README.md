@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/07/30
+**Last updated: 2021/08/02
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -150,7 +150,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Query2Label: A Simple Transformer Way to Multi-Label Classification, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
 - (arXiv 2021.07) Contextual Transformer Networks for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.12292.pdf), [[Code]](https://github.com/JDAI-CV/CoTNet)
 - (arXiv 2021.07) Rethinking and Improving Relative Position Encoding for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2107.14222.pdf), [[Code]](https://github.com/microsoft/AutoML/tree/main/iRPE)
-
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -370,6 +369,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) Are Convolutional Neural Networks or Transformers more like human vision, [[Paper]](https://arxiv.org/pdf/2103.07976.pdf)
 - (arXiv 2021.07) Transformer with Peak Suppression and Knowledge Guidance for Fine-grained Image Recognition, [[Paper]](https://arxiv.org/pdf/2107.06538.pdf)
 - (arXiv 2021.07) RAMS-Trans: Recurrent Attention Multi-scale Transformer for Fine-grained Image Recognition, [[Paper]](https://arxiv.org/pdf/2107.06538.pdf)
+- (arXiv 2021.08) DPT: Deformable Patch-based Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.14467.pdf), [[Code]](https://github.com/CASIA-IVA-Lab/DPT)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
