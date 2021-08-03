@@ -545,6 +545,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Image Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2107.09011.pdf), [[Code]](https://github.com/Vibashan/Image-FusionTransformer)
 - (arXiv 2021.07) PiSLTRc: Position-informed Sign Language Transformer with Content-aware Convolution, [[Paper]](https://arxiv.org/pdf/2107.12600.pdf)
 - (arXiv 2021.07) PPT Fusion: Pyramid Patch Transformer for a Case Study in Image Fusion, [[Paper]](https://arxiv.org/pdf/2107.13967.pdf)
+- (arXiv 2021.08) Applications of Artificial Neural Networks in Microorganism Image Analysis: A Comprehensive Review from Conventional Multilayer Perceptron to Popular Convolutional Neural Network and Potential Visual Transformer, [[Paper]](https://arxiv.org/pdf/2108.00358.pdf)
+
 
 ## Contact & Feedback
 
