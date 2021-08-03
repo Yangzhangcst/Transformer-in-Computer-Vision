@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/02
+**Last updated: 2021/08/03
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -150,6 +150,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Query2Label: A Simple Transformer Way to Multi-Label Classification, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
 - (arXiv 2021.07) Contextual Transformer Networks for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.12292.pdf), [[Code]](https://github.com/JDAI-CV/CoTNet)
 - (arXiv 2021.07) Rethinking and Improving Relative Position Encoding for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2107.14222.pdf), [[Code]](https://github.com/microsoft/AutoML/tree/main/iRPE)
+- (arXiv 2021.08) CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention, [[Paper]](https://arxiv.org/pdf/2108.00154.pdf), [[Code]](https://github.com/cheerss/CrossFormer)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -158,6 +159,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Crowd Counting
 - (arXiv 2021.04) TransCrowd: Weakly-Supervised Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2104.09116.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
 - (arXiv 2021.05) Boosting Crowd Counting with Transformers, [[Paper]](https://arxiv.org/pdf/2105.10926.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
+- (arXiv 2021.08) Congested Crowd Instance Localization with Dilated Convolutional Swin Transformer, [[Paper]](https://arxiv.org/pdf/2108.00584.pdf)
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
@@ -233,6 +235,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Reformulating HOI Detection as Adaptive Set Prediction, [[Paper]](https://arxiv.org/pdf/2103.05983), [[Code]](https://github.com/yoyomimi/AS-Net)
 - (arXiv 2021.03) End-to-End Human Object Interaction Detection with HOI Transformer, [[Paper]](https://arxiv.org/pdf/2103.04503.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
+- (arXiv 2021.08) GTNet:Guided Transformer Network for Detecting Human-Object Interactions, [[Paper]](https://arxiv.org/pdf/2108.00596.pdf), [[Code]](https://github.com/ASMIftekhar/GTNet)
+
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -463,6 +467,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Spatial-Temporal Graph Transformer for Multiple Object Tracking, [[Paper]](https://arxiv.org/abs/2104.00194)
 - (arXiv 2021.05) MOTR: End-to-End Multiple-Object Tracking with TRansformer, [[Paper]](https://arxiv.org/pdf/2105.03247.pdf), [[Code]](https://github.com/megvii-model/MOTR)
 - (arXiv 2021.05) TrTr: Visual Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2105.03817.pdf), [[Code]](https://github.com/tongtybj/TrTr)
+- (arXiv 2021.08) HiFT: Hierarchical Feature Transformer for Aerial Tracking, [[Paper]](https://arxiv.org/pdf/2108.00202.pdf), [[Code]](https://github.com/vision4robotics/HiFT)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
@@ -503,10 +508,14 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
 - (arXiv 2021.05) Visual Grounding with Transformers, [[Paper]](https://arxiv.org/pdf/2105.04281.pdf)
 - (arXiv 2021.06) Referring Transformer: A One-step Approach to Multi-task Visual Grounding, [[Paper]](https://arxiv.org/pdf/2106.03089.pdf)
+- (arXiv 2021.08) Word2Pix: Word to Pixel Cross Attention Transformer in Visual Grounding, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
 
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
-- (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
+- (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2108.00045.pdf)
+
+### Zero-Shot Learning
+- (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
