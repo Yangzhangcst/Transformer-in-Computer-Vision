@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/03
+**Last updated: 2021/08/04
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -151,6 +151,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Contextual Transformer Networks for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.12292.pdf), [[Code]](https://github.com/JDAI-CV/CoTNet)
 - (arXiv 2021.07) Rethinking and Improving Relative Position Encoding for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2107.14222.pdf), [[Code]](https://github.com/microsoft/AutoML/tree/main/iRPE)
 - (arXiv 2021.08) CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention, [[Paper]](https://arxiv.org/pdf/2108.00154.pdf), [[Code]](https://github.com/cheerss/CrossFormer)
+- (arXiv 2021.08) Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer, [[Paper]](https://arxiv.org/pdf/2108.01390.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
