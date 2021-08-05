@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/04
+**Last updated: 2021/08/05
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -52,6 +52,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.01) Dual-Level Collaborative Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.06462.pdf)
 - (arXiv.2021.02) VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining, [[Paper]](https://arxiv.org/pdf/2102.10407.pdf), [[Code]](https://github.com/Vision-CAIR/VisualGPT)
 - (arXiv 2021.06) Semi-Autoregressive Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2106.09436.pdf), [[Code]](https://github.com/YuanEZhou/satic)
+- (arXiv 2021.08) Optimizing Latency for Online Video Captioning Using Audio-Visual Transformers, [[Paper]](https://arxiv.org/pdf/2108.02147.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -152,6 +153,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Rethinking and Improving Relative Position Encoding for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2107.14222.pdf), [[Code]](https://github.com/microsoft/AutoML/tree/main/iRPE)
 - (arXiv 2021.08) CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention, [[Paper]](https://arxiv.org/pdf/2108.00154.pdf), [[Code]](https://github.com/cheerss/CrossFormer)
 - (arXiv 2021.08) Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer, [[Paper]](https://arxiv.org/pdf/2108.01390.pdf)
+- (arXiv 2021.08) Vision Transformer with Progressive Sampling, [[Paper]](https://arxiv.org/pdf/2108.01684.pdf), [[Code]](https://github.com/yuexy/PS-ViT)
+- (arXiv 2021.08) Armour: Generalizable Compact Self-Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.01778.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
