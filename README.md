@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/05
+**Last updated: 2021/08/06
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -53,6 +53,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv.2021.02) VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining, [[Paper]](https://arxiv.org/pdf/2102.10407.pdf), [[Code]](https://github.com/Vision-CAIR/VisualGPT)
 - (arXiv 2021.06) Semi-Autoregressive Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2106.09436.pdf), [[Code]](https://github.com/YuanEZhou/satic)
 - (arXiv 2021.08) Optimizing Latency for Online Video Captioning Using Audio-Visual Transformers, [[Paper]](https://arxiv.org/pdf/2108.02147.pdf)
+- (arXiv 2021.08) Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning, [[Paper]](https://arxiv.org/pdf/2108.02366.pdf), [[Code]](https://github.com/Unbear430/DGCN-for-image-captioning)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -203,6 +204,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) ST-DETR: Spatio-Temporal Object Traces Attention Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.05887.pdf)
 - (arXiv 2021.07) OODformer: Out-Of-Distribution Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.08976.pdf)
 - (arXiv 2021.07) Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers, [[Paper]](https://arxiv.org/pdf/2107.12636.pdf),[[Code]](https://github.com/encounter1997/SFA)
+- (arXiv 2021.08) Fast Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2108.02404.pdf),[[Code]](https://github.
+com/gaopengcuhk/SMCA-DETR)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -240,7 +243,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) End-to-End Human Object Interaction Detection with HOI Transformer, [[Paper]](https://arxiv.org/pdf/2103.04503.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
 - (arXiv 2021.08) GTNet:Guided Transformer Network for Detecting Human-Object Interactions, [[Paper]](https://arxiv.org/pdf/2108.00596.pdf), [[Code]](https://github.com/ASMIftekhar/GTNet)
-
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -415,6 +417,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
 - (arXiv 2021.04) Visual Saliency Transformer, [[Paper]](https://arxiv.org/pdf/2104.12099.pdf)
 - (arXiv 2021.04) CoSformer: Detecting Co-Salient Object with Transformers, [[Paper]](https://arxiv.org/pdf/2104.14729.pdf)
+- (arXiv 2021.08) Unifying Global-Local Representations in Salient Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2108.02759.pdf), [[Code]](https://github.com/OliverRensu/GLSTR)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
@@ -443,7 +446,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) OffRoadTranSeg: Semi-Supervised Segmentation using Transformers on OffRoad environments, [[Paper]](https://arxiv.org/pdf/2106.13963.pdf)
 - (arXiv 2021.07) Looking Outside the Window: Wider-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2106.15754.pdf)
 - (arXiv 2021.07) Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World, [[Paper]](https://arxiv.org/pdf/2107.03172.pdf)
-- (arXiv 2021.07) A Unified Efficient Pyramid Transformer for Semantic Segmentation , [[Paper]](https://arxiv.org/pdf/2107.14209.pdf)
+- (arXiv 2021.07) A Unified Efficient Pyramid Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2107.14209.pdf)
+- (arXiv 2021.08) Boosting Few-shot Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2108.02266.pdf), [[Code]](https://github.com/GuoleiSun/TRFS)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -507,12 +511,14 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Ultrasound Video Transformers for Cardiac Ejection Fraction Estimation, [[Paper]](https://arxiv.org/pdf/2107.00977.pdf), [[Code]](https://github.com/HReynaud/UVT)
 - (arXiv 2021.07) Generative Video Transformer: Can Objects be the Words, [[Paper]](https://arxiv.org/pdf/2107.09240.pdf)
 - (arXiv 2021.07) Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2107.13720.pdf)
+- (arXiv 2021.08) Token Shift Transformer for Video Classification, [[Paper]](https://arxiv.org/pdf/2108.02432.pdf), [[Code]](https://github.com/VideoNetworks/TokShift-Transformer)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
 - (arXiv 2021.05) Visual Grounding with Transformers, [[Paper]](https://arxiv.org/pdf/2105.04281.pdf)
 - (arXiv 2021.06) Referring Transformer: A One-step Approach to Multi-task Visual Grounding, [[Paper]](https://arxiv.org/pdf/2106.03089.pdf)
 - (arXiv 2021.08) Word2Pix: Word to Pixel Cross Attention Transformer in Visual Grounding, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
+- (arXiv 2021.08) TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2108.02388.pdf)
 
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
