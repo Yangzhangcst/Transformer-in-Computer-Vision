@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/06
+**Last updated: 2021/08/09
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -328,6 +328,7 @@ com/gaopengcuhk/SMCA-DETR)
 - (arXiv 2021.07) Target-dependent UNITER: A Transformer-Based Multimodal Language Comprehension Model for Domestic Service Robots, [[Paper]](https://arxiv.org/pdf/2107.00811.pdf)
 - (arXiv 2021.07) Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions, [[Paper]](https://arxiv.org/pdf/2107.00789.pdf)
 - (arXiv 2021.07) Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2107.03996.pdf), [[Code]](https://RchalYang.github.io/LocoTransformer)
+- (arXiv 2021.08) StrucTexT: Structured Text Understanding with Multi-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2108.02923.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -448,6 +449,7 @@ com/gaopengcuhk/SMCA-DETR)
 - (arXiv 2021.07) Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World, [[Paper]](https://arxiv.org/pdf/2107.03172.pdf)
 - (arXiv 2021.07) A Unified Efficient Pyramid Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2107.14209.pdf)
 - (arXiv 2021.08) Boosting Few-shot Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2108.02266.pdf), [[Code]](https://github.com/GuoleiSun/TRFS)
+- (arXiv 2021.08) Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer, [[Paper]](https://arxiv.org/pdf/2108.03032.pdf), [[Code]](https://github.com/zhiheLu/CWTfor-FSS)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
