@@ -204,8 +204,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) ST-DETR: Spatio-Temporal Object Traces Attention Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.05887.pdf)
 - (arXiv 2021.07) OODformer: Out-Of-Distribution Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.08976.pdf)
 - (arXiv 2021.07) Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers, [[Paper]](https://arxiv.org/pdf/2107.12636.pdf),[[Code]](https://github.com/encounter1997/SFA)
-- (arXiv 2021.08) Fast Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2108.02404.pdf),[[Code]](https://github.
-com/gaopengcuhk/SMCA-DETR)
+- (arXiv 2021.08) Fast Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2108.02404.pdf),[[Code]](https://github.com/gaopengcuhk/SMCA-DETR)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
