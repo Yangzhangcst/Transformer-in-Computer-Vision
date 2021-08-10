@@ -205,6 +205,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) OODformer: Out-Of-Distribution Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.08976.pdf)
 - (arXiv 2021.07) Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers, [[Paper]](https://arxiv.org/pdf/2107.12636.pdf),[[Code]](https://github.com/encounter1997/SFA)
 - (arXiv 2021.08) Fast Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2108.02404.pdf),[[Code]](https://github.com/gaopengcuhk/SMCA-DETR)
+- (arXiv 2021.08) PSViT: Better Vision Transformer via Token Pooling and Attention Sharing, [[Paper]](https://arxiv.org/pdf/2108.03428.pdf)
+
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -418,6 +420,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Visual Saliency Transformer, [[Paper]](https://arxiv.org/pdf/2104.12099.pdf)
 - (arXiv 2021.04) CoSformer: Detecting Co-Salient Object with Transformers, [[Paper]](https://arxiv.org/pdf/2104.14729.pdf)
 - (arXiv 2021.08) Unifying Global-Local Representations in Salient Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2108.02759.pdf), [[Code]](https://github.com/OliverRensu/GLSTR)
+- (arXiv 2021.08) TriTransNet: RGB-D Salient Object Detection with a Triplet Transformer Embedding Network, [[Paper]](https://arxiv.org/pdf/2108.03990.pdf), [[Code]](https://github.com/liuzywen/TriTransNet)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
@@ -557,7 +560,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) PiSLTRc: Position-informed Sign Language Transformer with Content-aware Convolution, [[Paper]](https://arxiv.org/pdf/2107.12600.pdf)
 - (arXiv 2021.07) PPT Fusion: Pyramid Patch Transformer for a Case Study in Image Fusion, [[Paper]](https://arxiv.org/pdf/2107.13967.pdf)
 - (arXiv 2021.08) Applications of Artificial Neural Networks in Microorganism Image Analysis: A Comprehensive Review from Conventional Multilayer Perceptron to Popular Convolutional Neural Network and Potential Visual Transformer, [[Paper]](https://arxiv.org/pdf/2108.00358.pdf)
-
+- (arXiv 2021.08) Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, [[Paper]](https://arxiv.org/pdf/2108.03798.pdf), [[Code]](https://github.com/Huage001/PaintTransformer)
+- (arXiv 2021.08) The Right to Talk: An Audio-Visual Transformer Approach, [[Paper]](https://arxiv.org/pdf/2108.03256.pdf), [[Code]](https://github.com/uark-cviu/Right2Talk)
 
 ## Contact & Feedback
 
