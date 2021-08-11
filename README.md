@@ -207,7 +207,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Fast Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2108.02404.pdf),[[Code]](https://github.com/gaopengcuhk/SMCA-DETR)
 - (arXiv 2021.08) PSViT: Better Vision Transformer via Token Pooling and Attention Sharing, [[Paper]](https://arxiv.org/pdf/2108.03428.pdf)
 
-
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
 - (arXiv 2021.03) Robust Facial Expression Recognition with Convolutional Visual Transformers, [[Paper]](https://arxiv.org/abs/2103.16854)
@@ -219,6 +218,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Shuffle Transformer with Feature Alignment for Video Face Parsing, [[Paper]](https://arxiv.org/pdf/2106.08650.pdf)
 - (arXiv 2021.06) A Latent Transformer for Disentangled and Identity-Preserving Face Editing, [[Paper]](https://arxiv.org/pdf/2106.11895.pdf), [[Code]](https://github.com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.07) ST-DETR: Spatio-Temporal Object Traces Attention Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.03107.pdf)
+- (arXiv 2021.08) FT-TDR: Frequency-guided Transformer and Top-Down Refinement Network for Blind Face Inpainting, [[Paper]](https://arxiv.org/pdf/2108.04424.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -358,6 +358,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) M3DETR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.00678.pdf)
 - (arXiv 2021.04) Dual Transformer for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2104.13044.pdf)
 - (arXiv 2021.04) Point Cloud Learning with Transformer, [[Paper]](https://arxiv.org/pdf/2104.13636.pdf)
+- (arXiv 2021.08) SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer, [[Paper]](https://arxiv.org/pdf/2108.04444.pdf), [[Code]](https://github.com/AllenXiangX/SnowflakeNet) 
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
