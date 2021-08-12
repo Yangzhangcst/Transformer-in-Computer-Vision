@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/11
+**Last updated: 2021/08/12
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -156,6 +156,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer, [[Paper]](https://arxiv.org/pdf/2108.01390.pdf)
 - (arXiv 2021.08) Vision Transformer with Progressive Sampling, [[Paper]](https://arxiv.org/pdf/2108.01684.pdf), [[Code]](https://github.com/yuexy/PS-ViT)
 - (arXiv 2021.08) Armour: Generalizable Compact Self-Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.01778.pdf)
+- (arXiv 2021.08) ConvNets vs. Transformers: Whose Visual Representations are More Transferable, [[Paper]](https://arxiv.org/pdf/2108.05305.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -176,6 +177,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Deepfake Detection Scheme Based on Vision Transformer and Distillation, [[Paper]](https://arxiv.org/abs/2104.01353)
 - (arXiv 2021.04) M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2104.09770.pdf)
 - (arXiv 2021.07) Combining EfficientNet and Vision Transformers for Video Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2107.02612.pdf)
+- (arXiv 2021.08) Video Transformer for Deepfake Detection with Incremental Learning, [[Paper]](https://arxiv.org/pdf/2108.05307.pdf)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -219,6 +221,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) A Latent Transformer for Disentangled and Identity-Preserving Face Editing, [[Paper]](https://arxiv.org/pdf/2106.11895.pdf), [[Code]](https://github.com/InterDigitalInc/Latent-Transformer)
 - (arXiv 2021.07) ST-DETR: Spatio-Temporal Object Traces Attention Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.03107.pdf)
 - (arXiv 2021.08) FT-TDR: Frequency-guided Transformer and Top-Down Refinement Network for Blind Face Inpainting, [[Paper]](https://arxiv.org/pdf/2108.04424.pdf)
+- (arXiv 2021.08) Learning Fair Face Representation With Progressive Cross Transformer, [[Paper]](https://arxiv.org/pdf/2108.04983.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -517,6 +520,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Generative Video Transformer: Can Objects be the Words, [[Paper]](https://arxiv.org/pdf/2107.09240.pdf)
 - (arXiv 2021.07) Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2107.13720.pdf)
 - (arXiv 2021.08) Token Shift Transformer for Video Classification, [[Paper]](https://arxiv.org/pdf/2108.02432.pdf), [[Code]](https://github.com/VideoNetworks/TokShift-Transformer)
+- (arXiv 2021.08) Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering, [[Paper]](https://arxiv.org/pdf/2108.05158.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -563,6 +567,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Applications of Artificial Neural Networks in Microorganism Image Analysis: A Comprehensive Review from Conventional Multilayer Perceptron to Popular Convolutional Neural Network and Potential Visual Transformer, [[Paper]](https://arxiv.org/pdf/2108.00358.pdf)
 - (arXiv 2021.08) Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, [[Paper]](https://arxiv.org/pdf/2108.03798.pdf), [[Code]](https://github.com/Huage001/PaintTransformer)
 - (arXiv 2021.08) The Right to Talk: An Audio-Visual Transformer Approach, [[Paper]](https://arxiv.org/pdf/2108.03256.pdf), [[Code]](https://github.com/uark-cviu/Right2Talk)
+- (arXiv 2021.08) Embodied BERT: A Transformer Model for Embodied, Language-guided Visual Task Completion, [[Paper]](https://arxiv.org/pdf/2108.04927.pdf), [[Code]](https://github.com/amazon-research/embert)
+- (arXiv 2021.08) A Transformer-based Math Language Model for Handwritten Math Expression Recognition, [[Paper]](https://arxiv.org/pdf/2108.05002.pdf)
 
 ## Contact & Feedback
 
