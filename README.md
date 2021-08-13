@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/12
+**Last updated: 2021/08/13
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -208,6 +208,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Exploring Sequence Feature Alignment for Domain Adaptive Detection Transformers, [[Paper]](https://arxiv.org/pdf/2107.12636.pdf),[[Code]](https://github.com/encounter1997/SFA)
 - (arXiv 2021.08) Fast Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2108.02404.pdf),[[Code]](https://github.com/gaopengcuhk/SMCA-DETR)
 - (arXiv 2021.08) PSViT: Better Vision Transformer via Token Pooling and Attention Sharing, [[Paper]](https://arxiv.org/pdf/2108.03428.pdf)
+- (arXiv 2021.08) Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation), [[Paper]](https://arxiv.org/pdf/2108.05888.pdf),[[Code]](https://github.com/hou-yz/MVDeTr)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -333,6 +334,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Case Relation Transformer: A Crossmodal Language Generation Model for Fetching Instructions, [[Paper]](https://arxiv.org/pdf/2107.00789.pdf)
 - (arXiv 2021.07) Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2107.03996.pdf), [[Code]](https://RchalYang.github.io/LocoTransformer)
 - (arXiv 2021.08) StrucTexT: Structured Text Understanding with Multi-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2108.02923.pdf)
+- (arXiv 2021.08) Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations, [[Paper]](https://arxiv.org/pdf/2108.05887.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -569,6 +571,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) The Right to Talk: An Audio-Visual Transformer Approach, [[Paper]](https://arxiv.org/pdf/2108.03256.pdf), [[Code]](https://github.com/uark-cviu/Right2Talk)
 - (arXiv 2021.08) Embodied BERT: A Transformer Model for Embodied, Language-guided Visual Task Completion, [[Paper]](https://arxiv.org/pdf/2108.04927.pdf), [[Code]](https://github.com/amazon-research/embert)
 - (arXiv 2021.08) A Transformer-based Math Language Model for Handwritten Math Expression Recognition, [[Paper]](https://arxiv.org/pdf/2108.05002.pdf)
+- (arXiv 2021.08) Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
 
 ## Contact & Feedback
 
