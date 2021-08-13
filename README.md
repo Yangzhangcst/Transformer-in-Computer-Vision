@@ -157,6 +157,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Vision Transformer with Progressive Sampling, [[Paper]](https://arxiv.org/pdf/2108.01684.pdf), [[Code]](https://github.com/yuexy/PS-ViT)
 - (arXiv 2021.08) Armour: Generalizable Compact Self-Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.01778.pdf)
 - (arXiv 2021.08) ConvNets vs. Transformers: Whose Visual Representations are More Transferable, [[Paper]](https://arxiv.org/pdf/2108.05305.pdf)
+- (arXiv 2021.08) Mobile-Former: Bridging MobileNet and Transformer, [[Paper]](https://arxiv.org/pdf/2108.05895.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
