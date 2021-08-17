@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/13
+**Last updated: 2021/08/17
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -46,6 +46,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Assessment
 - (arXiv 2021.01) Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
 - (arXiv 2021.04) Perceptual Image Quality Assessment with Transformers, [[Paper]](https://arxiv.org/abs/2104.14730), [[Code]](https://github.com/manricheon/IQT)
+- (arXiv 2021.08) No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency, [[Paper]](https://arxiv.org/pdf/2108.06858.pdf), [[Code]](https://github.com/isalirezag/TReS)
+- (arXiv 2021.08) MUSIQ: Multi-scale Image Quality Transformer, [[Paper]](https://arxiv.org/pdf/2108.05997.pdf), [[Code]](https://github.com/google-research/google-research/tree/master/musiq)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -210,6 +212,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Fast Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2108.02404.pdf),[[Code]](https://github.com/gaopengcuhk/SMCA-DETR)
 - (arXiv 2021.08) PSViT: Better Vision Transformer via Token Pooling and Attention Sharing, [[Paper]](https://arxiv.org/pdf/2108.03428.pdf)
 - (arXiv 2021.08) Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation), [[Paper]](https://arxiv.org/pdf/2108.05888.pdf),[[Code]](https://github.com/hou-yz/MVDeTr)
+- (arXiv 2021.08) Conditional DETR for Fast Training Convergence, [[Paper]](https://arxiv.org/pdf/2108.06152.pdf),[[Code]](https://github.com/Atten4Vis/ConditionalDETR)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -261,6 +264,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
 - (arXiv 2021.04) ISTR: End-to-End Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.00637.pdf), [[Code]](https://github.com/hujiecpp/ISTR)
+- (arXiv 2021.08) SOTR: Segmenting Objects with Transformers, [[Paper]](https://arxiv.org/pdf/2108.06747.pdf), [[Code]](https://github.com/easton-cau/SOTR)
 
 ### Layout
 - (CVPR'21) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/abs/2104.02416)
@@ -315,6 +319,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Surgical Instruction Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2107.06964.pdf)
 - (arXiv 2021.07) LeViT-UNet: Make Faster Encoders with Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.08623.pdf), [[Code]](https://github.com/apple1986/LeViT_UNet)
 - (arXiv 2021.07) TEDS-Net: Enforcing Diffeomorphisms in Spatial Transformers to Guarantee Topology Preservation in Segmentations, [[Paper]](https://arxiv.org/pdf/2107.13542.pdf), [[Code]](https://www.github.com/mwyburd/TEDS-Net)
+- (arXiv 2021.08) Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.06932.pdf), [[Code]](https://github.com/DengPingFan/Polyp-PVT)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -365,6 +370,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Dual Transformer for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2104.13044.pdf)
 - (arXiv 2021.04) Point Cloud Learning with Transformer, [[Paper]](https://arxiv.org/pdf/2104.13636.pdf)
 - (arXiv 2021.08) SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer, [[Paper]](https://arxiv.org/pdf/2108.04444.pdf), [[Code]](https://github.com/AllenXiangX/SnowflakeNet) 
+- (arXiv 2021.08) PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds, [[Paper]](https://arxiv.org/pdf/2108.06455.pdf), [[Code]](https://github.com/shanjiayao/PTT) 
+- (arXiv 2021.08) Point-Voxel Transformer: An Efficient Approach To 3D Deep Learning, [[Paper]](https://arxiv.org/pdf/2108.06076.pdf), [[Code]](https://github.com/2020zhangcheng/PVT) 
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -459,6 +466,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) A Unified Efficient Pyramid Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2107.14209.pdf)
 - (arXiv 2021.08) Boosting Few-shot Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2108.02266.pdf), [[Code]](https://github.com/GuoleiSun/TRFS)
 - (arXiv 2021.08) Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer, [[Paper]](https://arxiv.org/pdf/2108.03032.pdf), [[Code]](https://github.com/zhiheLu/CWTfor-FSS)
+- (arXiv 2021.08)Flying Guide Dog: Walkable Path Discovery for the Visually Impaired Utilizing Drones and Transformer-based Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2108.07007.pdf), [[Code]](https://github.com/EckoTan0804/flying-guide-dog)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -573,6 +581,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Embodied BERT: A Transformer Model for Embodied, Language-guided Visual Task Completion, [[Paper]](https://arxiv.org/pdf/2108.04927.pdf), [[Code]](https://github.com/amazon-research/embert)
 - (arXiv 2021.08) A Transformer-based Math Language Model for Handwritten Math Expression Recognition, [[Paper]](https://arxiv.org/pdf/2108.05002.pdf)
 - (arXiv 2021.08) Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
+- (arXiv 2021.08) TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
 
 ## Contact & Feedback
 
