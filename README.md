@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/17
+**Last updated: 2021/08/18
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -475,6 +475,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
 - (arXiv 2021.06) LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation, [[Paper]](https://arxiv.org/pdf/2006.04139)
 - (arXiv 2021.06) Video Super-Resolution Transformer, [[Paper]](https://arxiv.org/pdf/2106.06847.pdf), [[Code]](https://github.com/caojiezhang/VSR-Transformer)
+- (arXiv 2021.08) Light Field Image Super-Resolution with Transformers, [[Paper]](https://arxiv.org/pdf/2108.07597.pdf), [[Code]](https://github.com/ZhengyuLiang24/LFT)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -582,6 +583,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) A Transformer-based Math Language Model for Handwritten Math Expression Recognition, [[Paper]](https://arxiv.org/pdf/2108.05002.pdf)
 - (arXiv 2021.08) Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
 - (arXiv 2021.08) TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
+- (arXiv 2021.08) Investigating transformers in the decomposition of polygonal shapes as point collections, [[Paper]](https://arxiv.org/pdf/2108.07533.pdf)
 
 ## Contact & Feedback
 
