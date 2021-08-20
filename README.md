@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/19
+**Last updated: 2021/08/20
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -160,6 +160,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Armour: Generalizable Compact Self-Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.01778.pdf)
 - (arXiv 2021.08) ConvNets vs. Transformers: Whose Visual Representations are More Transferable, [[Paper]](https://arxiv.org/pdf/2108.05305.pdf)
 - (arXiv 2021.08) Mobile-Former: Bridging MobileNet and Transformer, [[Paper]](https://arxiv.org/pdf/2108.05895.pdf)
+- (arXiv 2021.08) Do Vision Transformers See Like Convolutional Neural Networks, [[Paper]](https://arxiv.org/pdf/2108.08810.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -372,6 +373,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer, [[Paper]](https://arxiv.org/pdf/2108.04444.pdf), [[Code]](https://github.com/AllenXiangX/SnowflakeNet) 
 - (arXiv 2021.08) PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds, [[Paper]](https://arxiv.org/pdf/2108.06455.pdf), [[Code]](https://github.com/shanjiayao/PTT) 
 - (arXiv 2021.08) Point-Voxel Transformer: An Efficient Approach To 3D Deep Learning, [[Paper]](https://arxiv.org/pdf/2108.06076.pdf), [[Code]](https://github.com/2020zhangcheng/PVT) 
+- (arXiv 2021.08) PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2108.08839.pdf), [[Code]](https://github.com/yuxumin/PoinTr) 
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -534,6 +536,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2107.13720.pdf)
 - (arXiv 2021.08) Token Shift Transformer for Video Classification, [[Paper]](https://arxiv.org/pdf/2108.02432.pdf), [[Code]](https://github.com/VideoNetworks/TokShift-Transformer)
 - (arXiv 2021.08) Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering, [[Paper]](https://arxiv.org/pdf/2108.05158.pdf)
+- (arXiv 2021.08) Video Relation Detection via Tracklet based Visual Transformer, [[Paper]](https://arxiv.org/pdf/2108.08669.pdf), [[Code]](https://github.com/Dawn-LX/VidVRD-tracklets)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
