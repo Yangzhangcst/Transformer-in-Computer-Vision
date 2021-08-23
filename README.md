@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/20
+**Last updated: 2021/08/23
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -321,6 +321,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) LeViT-UNet: Make Faster Encoders with Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2107.08623.pdf), [[Code]](https://github.com/apple1986/LeViT_UNet)
 - (arXiv 2021.07) TEDS-Net: Enforcing Diffeomorphisms in Spatial Transformers to Guarantee Topology Preservation in Segmentations, [[Paper]](https://arxiv.org/pdf/2107.13542.pdf), [[Code]](https://www.github.com/mwyburd/TEDS-Net)
 - (arXiv 2021.08) Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.06932.pdf), [[Code]](https://github.com/DengPingFan/Polyp-PVT)
+- (arXiv 2021.08) Is it Time to Replace CNNs with Transformers for Medical Images, [[Paper]](https://arxiv.org/pdf/2108.09038.pdf), [[Code]](https://github.com/ChrisMats/medical_transformers)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -469,7 +470,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) A Unified Efficient Pyramid Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2107.14209.pdf)
 - (arXiv 2021.08) Boosting Few-shot Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2108.02266.pdf), [[Code]](https://github.com/GuoleiSun/TRFS)
 - (arXiv 2021.08) Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer, [[Paper]](https://arxiv.org/pdf/2108.03032.pdf), [[Code]](https://github.com/zhiheLu/CWTfor-FSS)
-- (arXiv 2021.08)Flying Guide Dog: Walkable Path Discovery for the Visually Impaired Utilizing Drones and Transformer-based Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2108.07007.pdf), [[Code]](https://github.com/EckoTan0804/flying-guide-dog)
+- (arXiv 2021.08) Flying Guide Dog: Walkable Path Discovery for the Visually Impaired Utilizing Drones and Transformer-based Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2108.07007.pdf), [[Code]](https://github.com/EckoTan0804/flying-guide-dog)
+- (arXiv 2021.08) Trans4Trans: Efficient Transformer for Transparent Object and Semantic Scene Segmentation in Real-World Navigation Assistance, [[Paper]](https://arxiv.org/pdf/2108.09174.pdf), [[Code]](https://github.com/jamycheung/Trans4Trans)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -588,6 +590,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
 - (arXiv 2021.08) TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
 - (arXiv 2021.08) Investigating transformers in the decomposition of polygonal shapes as point collections, [[Paper]](https://arxiv.org/pdf/2108.07533.pdf)
+- (arXiv 2021.08) Convolutional Neural Network (CNN) vs Visual Transformer (ViT) for Digital Holography, [[Paper]](https://arxiv.org/pdf/2108.09147.pdf)
 
 ## Contact & Feedback
 
