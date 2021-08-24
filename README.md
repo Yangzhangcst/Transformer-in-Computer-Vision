@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/23
+**Last updated: 2021/08/24
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -214,6 +214,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) PSViT: Better Vision Transformer via Token Pooling and Attention Sharing, [[Paper]](https://arxiv.org/pdf/2108.03428.pdf)
 - (arXiv 2021.08) Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation), [[Paper]](https://arxiv.org/pdf/2108.05888.pdf),[[Code]](https://github.com/hou-yz/MVDeTr)
 - (arXiv 2021.08) Conditional DETR for Fast Training Convergence, [[Paper]](https://arxiv.org/pdf/2108.06152.pdf),[[Code]](https://github.com/Atten4Vis/ConditionalDETR)
+- (arXiv 2021.08) Guiding Query Position and Performing Similar Attention for Transformer-Based Detection Heads, [[Paper]](https://arxiv.org/pdf/2108.09691.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -420,6 +421,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
+- (arXiv 2021.08) SwinIR: Image Restoration Using Swin Transformer, [[Paper]](https://arxiv.org/pdf/2108.10257.pdf), [[Code]](https://github.com/JingyunLiang/SwinIR)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
@@ -539,6 +541,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Token Shift Transformer for Video Classification, [[Paper]](https://arxiv.org/pdf/2108.02432.pdf), [[Code]](https://github.com/VideoNetworks/TokShift-Transformer)
 - (arXiv 2021.08) Mounting Video Metadata on Transformer-based Language Model for Open-ended Video Question Answering, [[Paper]](https://arxiv.org/pdf/2108.05158.pdf)
 - (arXiv 2021.08) Video Relation Detection via Tracklet based Visual Transformer, [[Paper]](https://arxiv.org/pdf/2108.08669.pdf), [[Code]](https://github.com/Dawn-LX/VidVRD-tracklets)
+- (arXiv 2021.08) MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition, [[Paper]](https://arxiv.org/pdf/2108.09322.pdf)
+- (arXiv 2021.08) ZS-SLR: Zero-Shot Sign Language Recognition from RGB-D Videos, [[Paper]](https://arxiv.org/pdf/2108.10059.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -550,6 +554,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2108.00045.pdf)
+- (arXiv 2021.08) Discovering Spatial Relationships by Transformers for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2108.10046.pdf)
 
 ### Zero-Shot Learning
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
@@ -591,6 +596,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
 - (arXiv 2021.08) Investigating transformers in the decomposition of polygonal shapes as point collections, [[Paper]](https://arxiv.org/pdf/2108.07533.pdf)
 - (arXiv 2021.08) Convolutional Neural Network (CNN) vs Visual Transformer (ViT) for Digital Holography, [[Paper]](https://arxiv.org/pdf/2108.09147.pdf)
+- (arXiv 2021.08) Construction material classification on imbalanced datasets for construction monitoring automation using Vision Transformer (ViT) architecture, [[Paper]](https://arxiv.org/pdf/2108.09527.pdf)
+- (arXiv 2021.08) Spatial Transformer Networks for Curriculum Learning, [[Paper]](https://arxiv.org/pdf/2108.09696.pdf)
 
 ## Contact & Feedback
 
