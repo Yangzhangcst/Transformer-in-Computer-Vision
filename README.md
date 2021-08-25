@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/24
+**Last updated: 2021/08/25
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -376,6 +376,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds, [[Paper]](https://arxiv.org/pdf/2108.06455.pdf), [[Code]](https://github.com/shanjiayao/PTT) 
 - (arXiv 2021.08) Point-Voxel Transformer: An Efficient Approach To 3D Deep Learning, [[Paper]](https://arxiv.org/pdf/2108.06076.pdf), [[Code]](https://github.com/2020zhangcheng/PVT) 
 - (arXiv 2021.08) PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2108.08839.pdf), [[Code]](https://github.com/yuxumin/PoinTr) 
+- (arXiv 2021.08) Improving 3D Object Detection with Channel-wise Transformer, [[Paper]](https://arxiv.org/pdf/2108.10723.pdf), [[Code]](https://github.com/hlsheng1/CT3D) 
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
