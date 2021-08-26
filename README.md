@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/25
+**Last updated: 2021/08/26
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -229,6 +229,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) ST-DETR: Spatio-Temporal Object Traces Attention Detection Transformer, [[Paper]](https://arxiv.org/pdf/2107.03107.pdf)
 - (arXiv 2021.08) FT-TDR: Frequency-guided Transformer and Top-Down Refinement Network for Blind Face Inpainting, [[Paper]](https://arxiv.org/pdf/2108.04424.pdf)
 - (arXiv 2021.08) Learning Fair Face Representation With Progressive Cross Transformer, [[Paper]](https://arxiv.org/pdf/2108.04983.pdf)
+- (arXiv 2021.08) TransFER: Learning Relation-aware Facial Expression Representations with Transformers, [[Paper]](https://arxiv.org/pdf/2108.11116.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -484,6 +485,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) LocalTrans: A Multiscale Local Transformer Network for Cross-Resolution Homography Estimation, [[Paper]](https://arxiv.org/pdf/2006.04139)
 - (arXiv 2021.06) Video Super-Resolution Transformer, [[Paper]](https://arxiv.org/pdf/2106.06847.pdf), [[Code]](https://github.com/caojiezhang/VSR-Transformer)
 - (arXiv 2021.08) Light Field Image Super-Resolution with Transformers, [[Paper]](https://arxiv.org/pdf/2108.07597.pdf), [[Code]](https://github.com/ZhengyuLiang24/LFT)
+- (arXiv 2021.08) Efficient Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2108.11084.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
