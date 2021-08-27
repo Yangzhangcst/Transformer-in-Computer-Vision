@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/26
+**Last updated: 2021/08/27
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -35,6 +35,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) VideoLightFormer: Lightweight Action Recognition using Transformers, [[Paper]](https://arxiv.org/pdf/2107.00451.pdf)
 - (arXiv 2021.07) Long Short-Term Transformer for Online Action Detection, [[Paper]](https://arxiv.org/pdf/2107.03377.pdf)
 - (arXiv 2021.07) STAR: Sparse Transformer-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.07089.pdf)
+- (arXiv 2021.08) Shifted Chunk Transformer for Spatio-Temporal Representational Learning, [[Paper]](https://arxiv.org/pdf/2108.11575.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -215,6 +216,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Multiview Detection with Shadow Transformer (and View-Coherent Data Augmentation), [[Paper]](https://arxiv.org/pdf/2108.05888.pdf),[[Code]](https://github.com/hou-yz/MVDeTr)
 - (arXiv 2021.08) Conditional DETR for Fast Training Convergence, [[Paper]](https://arxiv.org/pdf/2108.06152.pdf),[[Code]](https://github.com/Atten4Vis/ConditionalDETR)
 - (arXiv 2021.08) Guiding Query Position and Performing Similar Attention for Transformer-Based Detection Heads, [[Paper]](https://arxiv.org/pdf/2108.09691.pdf)
+- (arXiv 2021.08) TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios, [[Paper]](https://arxiv.org/pdf/2108.11539.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
