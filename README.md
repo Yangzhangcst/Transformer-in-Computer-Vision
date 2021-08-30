@@ -478,6 +478,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer, [[Paper]](https://arxiv.org/pdf/2108.03032.pdf), [[Code]](https://github.com/zhiheLu/CWTfor-FSS)
 - (arXiv 2021.08) Flying Guide Dog: Walkable Path Discovery for the Visually Impaired Utilizing Drones and Transformer-based Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2108.07007.pdf), [[Code]](https://github.com/EckoTan0804/flying-guide-dog)
 - (arXiv 2021.08) Trans4Trans: Efficient Transformer for Transparent Object and Semantic Scene Segmentation in Real-World Navigation Assistance, [[Paper]](https://arxiv.org/pdf/2108.09174.pdf), [[Code]](https://github.com/jamycheung/Trans4Trans)
+- (arXiv 2021.08) Evaluating Transformer based Semantic Segmentation Networks for Pathological Image Segmentation, [[Paper]](https://arxiv.org/pdf/2108.11993.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
