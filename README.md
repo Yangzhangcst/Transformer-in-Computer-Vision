@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/30
+**Last updated: 2021/08/31
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -36,6 +36,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Long Short-Term Transformer for Online Action Detection, [[Paper]](https://arxiv.org/pdf/2107.03377.pdf)
 - (arXiv 2021.07) STAR: Sparse Transformer-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.07089.pdf)
 - (arXiv 2021.08) Shifted Chunk Transformer for Spatio-Temporal Representational Learning, [[Paper]](https://arxiv.org/pdf/2108.11575.pdf)
+- (arXiv 2021.08) GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer, [[Paper]](https://arxiv.org/pdf/2108.12630.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -162,6 +163,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) ConvNets vs. Transformers: Whose Visual Representations are More Transferable, [[Paper]](https://arxiv.org/pdf/2108.05305.pdf)
 - (arXiv 2021.08) Mobile-Former: Bridging MobileNet and Transformer, [[Paper]](https://arxiv.org/pdf/2108.05895.pdf)
 - (arXiv 2021.08) Do Vision Transformers See Like Convolutional Neural Networks, [[Paper]](https://arxiv.org/pdf/2108.08810.pdf)
+- (arXiv 2021.08) Exploring and Improving Mobile Level Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.13015.pdf)
+- (arXiv 2021.08) A Battle of Network Structures: An Empirical Study of CNN, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2108.13002.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
