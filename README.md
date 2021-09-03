@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/08/31
+**Last updated: 2021/09/3
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -358,6 +358,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv.2021.06) Vision Transformer Architecture Search, [[Paper]](https://arxiv.org/pdf/2106.13700.pdf), [[Code]](https://github.com/xiusu/ViTAS)
 - (arXiv.2021.07) AutoFormer: Searching Transformers for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.00651.pdf), [[Code]](https://github.com/microsoft/AutoML)
 - (arXiv.2021.07) GLiT: Neural Architecture Search for Global and Local Image Transformer, [[Paper]](https://arxiv.org/pdf/2107.02960.pdf)
+- (arXiv.2021.09) Searching for Efficient Multi-Stage Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.00642.pdf)
 
 ### Navigation
 - (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
@@ -607,6 +608,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Convolutional Neural Network (CNN) vs Visual Transformer (ViT) for Digital Holography, [[Paper]](https://arxiv.org/pdf/2108.09147.pdf)
 - (arXiv 2021.08) Construction material classification on imbalanced datasets for construction monitoring automation using Vision Transformer (ViT) architecture, [[Paper]](https://arxiv.org/pdf/2108.09527.pdf)
 - (arXiv 2021.08) Spatial Transformer Networks for Curriculum Learning, [[Paper]](https://arxiv.org/pdf/2108.09696.pdf)
+- (arXiv 2021.09) TransforMesh: A Transformer Network for Longitudinal modeling of Anatomical Meshes, [[Paper]](https://arxiv.org/pdf/2109.00532.pdf)
 
 ## Contact & Feedback
 
