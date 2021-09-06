@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/03
+**Last updated: 2021/09/06
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -19,7 +19,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2020.01) Transformers in Vision: A Survey. [[Paper]](https://arxiv.org/pdf/2101.01169.pdf)
 
   
-
 ## Recent Papers
 
 ### Action
@@ -483,6 +482,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Flying Guide Dog: Walkable Path Discovery for the Visually Impaired Utilizing Drones and Transformer-based Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2108.07007.pdf), [[Code]](https://github.com/EckoTan0804/flying-guide-dog)
 - (arXiv 2021.08) Trans4Trans: Efficient Transformer for Transparent Object and Semantic Scene Segmentation in Real-World Navigation Assistance, [[Paper]](https://arxiv.org/pdf/2108.09174.pdf), [[Code]](https://github.com/jamycheung/Trans4Trans)
 - (arXiv 2021.08) Evaluating Transformer based Semantic Segmentation Networks for Pathological Image Segmentation, [[Paper]](https://arxiv.org/pdf/2108.11993.pdf)
+- (arXiv 2021.08) Semantic Segmentation on VSPW Dataset through Aggregation of Transformer Models, [[Paper]](https://arxiv.org/pdf/2109.01316.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
