@@ -620,6 +620,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Spatial Transformer Networks for Curriculum Learning, [[Paper]](https://arxiv.org/pdf/2108.09696.pdf)
 - (arXiv 2021.09) TransforMesh: A Transformer Network for Longitudinal modeling of Anatomical Meshes, [[Paper]](https://arxiv.org/pdf/2109.00532.pdf)
 - (arXiv 2021.09) CTRL-C: Camera calibration TRansformer with Line-Classification, [[Paper]](https://arxiv.org/pdf/2109.02259.pdf), [[Code]](https://github.com/jwlee-vcl/CTRL-C)
+- (arXiv 2021.09) The Animation Transformer: Visual Correspondence via Segment Matching, [[Paper]](https://arxiv.org/pdf/2109.02614.pdf)
 
 ## Contact & Feedback
 
