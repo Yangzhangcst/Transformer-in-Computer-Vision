@@ -574,6 +574,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Discovering Spatial Relationships by Transformers for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2108.10046.pdf)
 
 ### Voxel
+- (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
 - (arXiv 2021.09) Voxel Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.02497.pdf)
 
 ### Zero-Shot Learning
@@ -590,7 +591,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
 - (arXiv 2021.04) Cloth Interactive Transformer for Virtual Try-On, [[Paper]](https://arxiv.org/abs/2104.05519), [[Code]](https://github.com/Amazingren/CIT)
 - (arXiv 2021.04) Fourier Image Transformer, [[Paper]](https://arxiv.org/pdf/2104.02555.pdf), [[Code]](3https://github.com/juglab/FourierImageTransformer)
-- (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
 - (arXiv 2021.05) Attention for Image Registration (AiR): an unsupervised Transformer approach, [[Paper]](https://arxiv.org/pdf/2105.02282.pdf)
 - (arXiv 2021.05) Vision Transformer for Fast and Efficient Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08582.pdf)
