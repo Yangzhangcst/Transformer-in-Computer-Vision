@@ -173,6 +173,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) TransCrowd: Weakly-Supervised Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2104.09116.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
 - (arXiv 2021.05) Boosting Crowd Counting with Transformers, [[Paper]](https://arxiv.org/pdf/2105.10926.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
 - (arXiv 2021.08) Congested Crowd Instance Localization with Dilated Convolutional Swin Transformer, [[Paper]](https://arxiv.org/pdf/2108.00584.pdf)
+- (arXiv 2021.09) Audio-Visual Transformer Based Crowd Counting, [[Paper]](https://arxiv.org/pdf/2109.01926.pdf), [[Code]](https://github.com/rucv/avcc)
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
@@ -493,6 +494,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Video Super-Resolution Transformer, [[Paper]](https://arxiv.org/pdf/2106.06847.pdf), [[Code]](https://github.com/caojiezhang/VSR-Transformer)
 - (arXiv 2021.08) Light Field Image Super-Resolution with Transformers, [[Paper]](https://arxiv.org/pdf/2108.07597.pdf), [[Code]](https://github.com/ZhengyuLiang24/LFT)
 - (arXiv 2021.08) Efficient Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2108.11084.pdf)
+- (arXiv 2021.09) Fusformer: A Transformer-based Fusion Approach for Hyperspectral Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2109.02079.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -513,6 +515,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) MOTR: End-to-End Multiple-Object Tracking with TRansformer, [[Paper]](https://arxiv.org/pdf/2105.03247.pdf), [[Code]](https://github.com/megvii-model/MOTR)
 - (arXiv 2021.05) TrTr: Visual Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2105.03817.pdf), [[Code]](https://github.com/tongtybj/TrTr)
 - (arXiv 2021.08) HiFT: Hierarchical Feature Transformer for Aerial Tracking, [[Paper]](https://arxiv.org/pdf/2108.00202.pdf), [[Code]](https://github.com/vision4robotics/HiFT)
+
+### Texture
+- (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
@@ -566,6 +571,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2108.00045.pdf)
 - (arXiv 2021.08) Discovering Spatial Relationships by Transformers for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2108.10046.pdf)
 
+### Voxel
+- (arXiv 2021.09) Voxel Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.02497.pdf)
+
 ### Zero-Shot Learning
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
 
@@ -609,6 +617,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Construction material classification on imbalanced datasets for construction monitoring automation using Vision Transformer (ViT) architecture, [[Paper]](https://arxiv.org/pdf/2108.09527.pdf)
 - (arXiv 2021.08) Spatial Transformer Networks for Curriculum Learning, [[Paper]](https://arxiv.org/pdf/2108.09696.pdf)
 - (arXiv 2021.09) TransforMesh: A Transformer Network for Longitudinal modeling of Anatomical Meshes, [[Paper]](https://arxiv.org/pdf/2109.00532.pdf)
+- (arXiv 2021.09) CTRL-C: Camera calibration TRansformer with Line-Classification, [[Paper]](https://arxiv.org/pdf/2109.02259.pdf), [[Code]](https://github.com/jwlee-vcl/CTRL-C)
 
 ## Contact & Feedback
 
