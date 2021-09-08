@@ -38,6 +38,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) STAR: Sparse Transformer-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.07089.pdf)
 - (arXiv 2021.08) Shifted Chunk Transformer for Spatio-Temporal Representational Learning, [[Paper]](https://arxiv.org/pdf/2108.11575.pdf)
 - (arXiv 2021.08) GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer, [[Paper]](https://arxiv.org/pdf/2108.12630.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
+- (arXiv 2021.09) GCsT: Graph Convolutional Skeleton Transformer for Action Recognition, [[Paper]](https://arxiv.org/pdf/2109.02860.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -331,6 +332,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) TEDS-Net: Enforcing Diffeomorphisms in Spatial Transformers to Guarantee Topology Preservation in Segmentations, [[Paper]](https://arxiv.org/pdf/2107.13542.pdf), [[Code]](https://www.github.com/mwyburd/TEDS-Net)
 - (arXiv 2021.08) Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.06932.pdf), [[Code]](https://github.com/DengPingFan/Polyp-PVT)
 - (arXiv 2021.08) Is it Time to Replace CNNs with Transformers for Medical Images, [[Paper]](https://arxiv.org/pdf/2108.09038.pdf), [[Code]](https://github.com/ChrisMats/medical_transformers)
+- (arXiv 2021.09) nnFormer: Interleaved Transformer for Volumetric Segmentation, [[Paper]](https://arxiv.org/pdf/2109.03201.pdf), [[Code]](https://github.com/282857341/nnFormer)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -560,6 +562,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Video Relation Detection via Tracklet based Visual Transformer, [[Paper]](https://arxiv.org/pdf/2108.08669.pdf), [[Code]](https://github.com/Dawn-LX/VidVRD-tracklets)
 - (arXiv 2021.08) MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition, [[Paper]](https://arxiv.org/pdf/2108.09322.pdf)
 - (arXiv 2021.08) ZS-SLR: Zero-Shot Sign Language Recognition from RGB-D Videos, [[Paper]](https://arxiv.org/pdf/2108.10059.pdf)
+- (arXiv 2021.09) FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2109.02974.pdf), [[Code]](https://github.com/ruiliu-ai/FuseFormer)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
