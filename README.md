@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/08
+**Last updated: 2021/09/09
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -35,7 +35,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Action Transformer: A Self-Attention Model for Short-Time Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.00606.pdf)
 - (arXiv 2021.07) VideoLightFormer: Lightweight Action Recognition using Transformers, [[Paper]](https://arxiv.org/pdf/2107.00451.pdf)
 - (arXiv 2021.07) Long Short-Term Transformer for Online Action Detection, [[Paper]](https://arxiv.org/pdf/2107.03377.pdf)
-- (arXiv 2021.07) STAR: Sparse Transformer-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.07089.pdf)
+- (arXiv 2021.07) STAR: Sparse Transformer-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2107.07089.pdf), [[Code]](https://github.com/imj2185/STAR)
 - (arXiv 2021.08) Shifted Chunk Transformer for Spatio-Temporal Representational Learning, [[Paper]](https://arxiv.org/pdf/2108.11575.pdf)
 - (arXiv 2021.08) GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer, [[Paper]](https://arxiv.org/pdf/2108.12630.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
 - (arXiv 2021.09) GCsT: Graph Convolutional Skeleton Transformer for Action Recognition, [[Paper]](https://arxiv.org/pdf/2109.02860.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
@@ -167,6 +167,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Do Vision Transformers See Like Convolutional Neural Networks, [[Paper]](https://arxiv.org/pdf/2108.08810.pdf)
 - (arXiv 2021.08) Exploring and Improving Mobile Level Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.13015.pdf)
 - (arXiv 2021.08) A Battle of Network Structures: An Empirical Study of CNN, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2108.13002.pdf)
+- (arXiv 2021.08) Scaled ReLU Matters for Training Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.03810.pdf)
+
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -372,6 +374,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
+- (arXiv 2021.09) Panoptic SegFormer, [[Paper]](https://arxiv.org/pdf/2109.03814.pdf)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
@@ -430,6 +433,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Learning Disentangled Representation Implicitly via Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2107.02380.pdf), [[Code]](https://github.com/Anonymous-release-code/DRL-Net)
 - (arXiv 2021.07) GiT: Graph Interactive Transformer for Vehicle Re-identification, [[Paper]](https://arxiv.org/pdf/2107.05448.pdf)
 - (arXiv 2021.07) HAT: Hierarchical Aggregation Transformers for Person Re-identification, [[Paper]](https://arxiv.org/pdf/2107.05946.pdf)
+- (arXiv 2021.09) Pose-guided Inter- and Intra-part Relational Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2109.03483.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
