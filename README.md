@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/09
+**Last updated: 2021/09/10
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -168,7 +168,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Exploring and Improving Mobile Level Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.13015.pdf)
 - (arXiv 2021.08) A Battle of Network Structures: An Empirical Study of CNN, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2108.13002.pdf)
 - (arXiv 2021.08) Scaled ReLU Matters for Training Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.03810.pdf)
-
+- (arXiv 2021.09) Towards Transferable Adversarial Attacks on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.04176.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -335,6 +335,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers, [[Paper]](https://arxiv.org/pdf/2108.06932.pdf), [[Code]](https://github.com/DengPingFan/Polyp-PVT)
 - (arXiv 2021.08) Is it Time to Replace CNNs with Transformers for Medical Images, [[Paper]](https://arxiv.org/pdf/2108.09038.pdf), [[Code]](https://github.com/ChrisMats/medical_transformers)
 - (arXiv 2021.09) nnFormer: Interleaved Transformer for Volumetric Segmentation, [[Paper]](https://arxiv.org/pdf/2109.03201.pdf), [[Code]](https://github.com/282857341/nnFormer)
+- (arXiv 2021.09) UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer, [[Paper]](https://arxiv.org/pdf/2109.04335.pdf), [[Code]](https://github.com/McGregorWwww/UCTransNet)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -356,6 +357,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2107.03996.pdf), [[Code]](https://RchalYang.github.io/LocoTransformer)
 - (arXiv 2021.08) StrucTexT: Structured Text Understanding with Multi-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2108.02923.pdf)
 - (arXiv 2021.08) Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations, [[Paper]](https://arxiv.org/pdf/2108.05887.pdf)
+- (arXiv 2021.09) TxT: Crossmodal End-to-End Learning with Transformers, [[Paper]](https://arxiv.org/pdf/2109.04422.pdf)
+- (arXiv 2021.09) Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2109.04448.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
