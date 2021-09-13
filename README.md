@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/10
+**Last updated: 2021/09/13
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -359,6 +359,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Billion-Scale Pretraining with Vision Transformers for Multi-Task Visual Representations, [[Paper]](https://arxiv.org/pdf/2108.05887.pdf)
 - (arXiv 2021.09) TxT: Crossmodal End-to-End Learning with Transformers, [[Paper]](https://arxiv.org/pdf/2109.04422.pdf)
 - (arXiv 2021.09) Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2109.04448.pdf)
+- (arXiv 2021.09) Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2109.04735.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
