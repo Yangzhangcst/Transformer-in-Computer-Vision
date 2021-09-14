@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/13
+**Last updated: 2021/09/14
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -60,6 +60,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Semi-Autoregressive Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2106.09436.pdf), [[Code]](https://github.com/YuanEZhou/satic)
 - (arXiv 2021.08) Optimizing Latency for Online Video Captioning Using Audio-Visual Transformers, [[Paper]](https://arxiv.org/pdf/2108.02147.pdf)
 - (arXiv 2021.08) Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning, [[Paper]](https://arxiv.org/pdf/2108.02366.pdf), [[Code]](https://github.com/Unbear430/DGCN-for-image-captioning)
+- (arXiv 2021.09) Bornon: Bengali Image Captioning with Transformer-based Deep learning approach, [[Paper]](https://arxiv.org/pdf/2109.05218.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -360,6 +361,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) TxT: Crossmodal End-to-End Learning with Transformers, [[Paper]](https://arxiv.org/pdf/2109.04422.pdf)
 - (arXiv 2021.09) Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2109.04448.pdf)
 - (arXiv 2021.09) Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2109.04735.pdf)
+- (arXiv 2021.09) On Pursuit of Designing Multi-modal Transformer for Video Grounding, [[Paper]](https://arxiv.org/pdf/2109.06085.pdf), [[Code]](https://sites.google.com/view/mengcao/publication/gtr)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -395,6 +397,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Point-Voxel Transformer: An Efficient Approach To 3D Deep Learning, [[Paper]](https://arxiv.org/pdf/2108.06076.pdf), [[Code]](https://github.com/2020zhangcheng/PVT) 
 - (arXiv 2021.08) PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2108.08839.pdf), [[Code]](https://github.com/yuxumin/PoinTr) 
 - (arXiv 2021.08) Improving 3D Object Detection with Channel-wise Transformer, [[Paper]](https://arxiv.org/pdf/2108.10723.pdf), [[Code]](https://github.com/hlsheng1/CT3D) 
+- (arXiv 2021.09) PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds, [[Paper]](https://arxiv.org/pdf/2109.05566.pdf), [[Code]](https://github.com/OPEN-AIR-SUN/PQ-Transformer) 
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -468,6 +471,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) P2T: Pyramid Pooling Transformer for Scene Understanding, [[Paper]](https://arxiv.org/pdf/2106.12011.pdf), [[Code]](https://github.com/yuhuan-wu/P2T)
 - (arXiv 2021.07) Scenes and Surroundings: Scene Graph Generation using Relation Transformer, [[Paper]](https://arxiv.org/pdf/2107.05448.pdf)
 - (arXiv 2021.07) Spatial-Temporal Transformer for Dynamic Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2107.12309.pdf)
+- (arXiv 2021.09) BGT-Net: Bidirectional GRU Transformer Network for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2109.05346.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -632,6 +636,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) TransforMesh: A Transformer Network for Longitudinal modeling of Anatomical Meshes, [[Paper]](https://arxiv.org/pdf/2109.00532.pdf)
 - (arXiv 2021.09) CTRL-C: Camera calibration TRansformer with Line-Classification, [[Paper]](https://arxiv.org/pdf/2109.02259.pdf), [[Code]](https://github.com/jwlee-vcl/CTRL-C)
 - (arXiv 2021.09) The Animation Transformer: Visual Correspondence via Segment Matching, [[Paper]](https://arxiv.org/pdf/2109.02614.pdf)
+- (arXiv 2021.09) CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2109.06165.pdf)
 
 ## Contact & Feedback
 
