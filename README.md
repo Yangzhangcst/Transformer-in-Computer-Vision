@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/14
+**Last updated: 2021/09/16
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -226,6 +226,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Conditional DETR for Fast Training Convergence, [[Paper]](https://arxiv.org/pdf/2108.06152.pdf),[[Code]](https://github.com/Atten4Vis/ConditionalDETR)
 - (arXiv 2021.08) Guiding Query Position and Performing Similar Attention for Transformer-Based Detection Heads, [[Paper]](https://arxiv.org/pdf/2108.09691.pdf)
 - (arXiv 2021.08) TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios, [[Paper]](https://arxiv.org/pdf/2108.11539.pdf)
+- (arXiv 2021.09) Anchor DETR: Query Design for Transformer-Based Detector, [[Paper]](https://arxiv.org/pdf/2109.07107.pdf),[[Code]](https://github.com/megvii-model/AnchorDETR)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -337,6 +338,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Is it Time to Replace CNNs with Transformers for Medical Images, [[Paper]](https://arxiv.org/pdf/2108.09038.pdf), [[Code]](https://github.com/ChrisMats/medical_transformers)
 - (arXiv 2021.09) nnFormer: Interleaved Transformer for Volumetric Segmentation, [[Paper]](https://arxiv.org/pdf/2109.03201.pdf), [[Code]](https://github.com/282857341/nnFormer)
 - (arXiv 2021.09) UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer, [[Paper]](https://arxiv.org/pdf/2109.04335.pdf), [[Code]](https://github.com/McGregorWwww/UCTransNet)
+- (arXiv 2021.09) UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer, [[Paper]](https://arxiv.org/pdf/2109.07162.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -381,6 +383,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
 - (arXiv 2021.09) Panoptic SegFormer, [[Paper]](https://arxiv.org/pdf/2109.03814.pdf)
+- (arXiv 2021.09) PnP-DETR: Towards Efficient Visual Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2109.07036.pdf),[[Code]](https://github.com/twangnh/pnp-detr)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
