@@ -193,6 +193,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Combining EfficientNet and Vision Transformers for Video Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2107.02612.pdf)
 - (arXiv 2021.08) Video Transformer for Deepfake Detection with Incremental Learning, [[Paper]](https://arxiv.org/pdf/2108.05307.pdf)
 
+### Dehazing
+- (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
+
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
 - (ICLR'21) Deformable DETR: Deformable Transformers for End-to-End Object Detection, [[Paper]](https://arxiv.org/pdf/2010.04159), [[Code]](https://github.com/fundamentalvision/Deformable-DETR)
