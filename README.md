@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/16
+**Last updated: 2021/09/17
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -61,6 +61,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Optimizing Latency for Online Video Captioning Using Audio-Visual Transformers, [[Paper]](https://arxiv.org/pdf/2108.02147.pdf)
 - (arXiv 2021.08) Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning, [[Paper]](https://arxiv.org/pdf/2108.02366.pdf), [[Code]](https://github.com/Unbear430/DGCN-for-image-captioning)
 - (arXiv 2021.09) Bornon: Bengali Image Captioning with Transformer-based Deep learning approach, [[Paper]](https://arxiv.org/pdf/2109.05218.pdf)
+- (arXiv 2021.09) Label-Attention Transformer with Geometrically Coherent Objects for Image Captioning, [[Paper]](https://arxiv.org/pdf/2109.07799.pdf), [[Code]](https://github.com/shikha-gist/Image-Captioning/) 
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -341,7 +342,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Is it Time to Replace CNNs with Transformers for Medical Images, [[Paper]](https://arxiv.org/pdf/2108.09038.pdf), [[Code]](https://github.com/ChrisMats/medical_transformers)
 - (arXiv 2021.09) nnFormer: Interleaved Transformer for Volumetric Segmentation, [[Paper]](https://arxiv.org/pdf/2109.03201.pdf), [[Code]](https://github.com/282857341/nnFormer)
 - (arXiv 2021.09) UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer, [[Paper]](https://arxiv.org/pdf/2109.04335.pdf), [[Code]](https://github.com/McGregorWwww/UCTransNet)
-- (arXiv 2021.09) UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer, [[Paper]](https://arxiv.org/pdf/2109.07162.pdf)
+- (arXiv 2021.09) MISSFormer: An Effective Medical Image Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2109.07162.pdf)
+- (arXiv 2021.09) Eformer: Edge Enhancement based Transformer for Medical Image Denoising, [[Paper]](https://arxiv.org/pdf/2109.08044.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -404,6 +406,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2108.08839.pdf), [[Code]](https://github.com/yuxumin/PoinTr) 
 - (arXiv 2021.08) Improving 3D Object Detection with Channel-wise Transformer, [[Paper]](https://arxiv.org/pdf/2108.10723.pdf), [[Code]](https://github.com/hlsheng1/CT3D) 
 - (arXiv 2021.09) PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds, [[Paper]](https://arxiv.org/pdf/2109.05566.pdf), [[Code]](https://github.com/OPEN-AIR-SUN/PQ-Transformer) 
+- (arXiv 2021.09) An End-to-End Transformer Model for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.08141.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -417,6 +420,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Skeletor: Skeletal Transformers for Robust Body-Pose Estimation, [[Paper]](https://arxiv.org/pdf/2104.11712.pdf)
 - (arXiv 2021.04) HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation of Hands and Object in Interaction, [[Paper]](https://arxiv.org/pdf/2104.14639.pdf)
 - (arXiv 2021.07) Test-Time Personalization with a Transformer for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2107.02133.pdf)
+- (arXiv 2021.09) Pose Transformers (POTR): Human Motion Prediction with Non-Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2109.07531.pdf), [[Code]](https://github.com/idiap/potr) 
 
 ### Pruning
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
@@ -643,6 +647,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) CTRL-C: Camera calibration TRansformer with Line-Classification, [[Paper]](https://arxiv.org/pdf/2109.02259.pdf), [[Code]](https://github.com/jwlee-vcl/CTRL-C)
 - (arXiv 2021.09) The Animation Transformer: Visual Correspondence via Segment Matching, [[Paper]](https://arxiv.org/pdf/2109.02614.pdf)
 - (arXiv 2021.09) CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2109.06165.pdf)
+- (arXiv 2021.09) Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2109.08024.pdf)
 
 ## Contact & Feedback
 
