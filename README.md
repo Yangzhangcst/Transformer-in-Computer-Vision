@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/17
+**Last updated: 2021/09/20
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -246,6 +246,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) FT-TDR: Frequency-guided Transformer and Top-Down Refinement Network for Blind Face Inpainting, [[Paper]](https://arxiv.org/pdf/2108.04424.pdf)
 - (arXiv 2021.08) Learning Fair Face Representation With Progressive Cross Transformer, [[Paper]](https://arxiv.org/pdf/2108.04983.pdf)
 - (arXiv 2021.08) TransFER: Learning Relation-aware Facial Expression Representations with Transformers, [[Paper]](https://arxiv.org/pdf/2108.11116.pdf)
+- (arXiv 2021.09) TANet: A new Paradigm for Global Face Super-resolution via Transformer-CNN Aggregation Network, [[Paper]](https://arxiv.org/pdf/2109.08174.pdf)
+- (arXiv 2021.09) Expression Snippet Transformer for Robust Video-based Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2109.08409.pdf),[[Code]](https://anonymous.4open.science/r/ATSE-C58B)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -344,6 +346,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) UCTransNet: Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer, [[Paper]](https://arxiv.org/pdf/2109.04335.pdf), [[Code]](https://github.com/McGregorWwww/UCTransNet)
 - (arXiv 2021.09) MISSFormer: An Effective Medical Image Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2109.07162.pdf)
 - (arXiv 2021.09) Eformer: Edge Enhancement based Transformer for Medical Image Denoising, [[Paper]](https://arxiv.org/pdf/2109.08044.pdf)
+- (arXiv 2021.09) Transformer-Unet: Raw Image Processing with Unet, [[Paper]](https://arxiv.org/pdf/2109.08417.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -421,6 +424,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation of Hands and Object in Interaction, [[Paper]](https://arxiv.org/pdf/2104.14639.pdf)
 - (arXiv 2021.07) Test-Time Personalization with a Transformer for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2107.02133.pdf)
 - (arXiv 2021.09) Pose Transformers (POTR): Human Motion Prediction with Non-Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2109.07531.pdf), [[Code]](https://github.com/idiap/potr) 
+- (arXiv 2021.09) GraFormer: Graph Convolution Transformer for 3D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2109.08364.pdf), [[Code]](https://github.com/Graformer/GraFormer)
 
 ### Pruning
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
@@ -592,6 +596,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Referring Transformer: A One-step Approach to Multi-task Visual Grounding, [[Paper]](https://arxiv.org/pdf/2106.03089.pdf)
 - (arXiv 2021.08) Word2Pix: Word to Pixel Cross Attention Transformer in Visual Grounding, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
 - (arXiv 2021.08) TransRefer3D: Entity-and-Relation Aware Transformer for Fine-Grained 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2108.02388.pdf)
+- (arXiv 2021.09) Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue Generation, [[Paper]](https://arxiv.org/pdf/2109.08478.pdf)
 
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
