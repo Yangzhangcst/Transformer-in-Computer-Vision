@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/20
+**Last updated: 2021/09/22
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -12,6 +12,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2021/September* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
+- (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training. [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
+
 - (arXiv 2021.03) Multi-modal Motion Prediction with Stacked Transformers. [[Paper]](https://arxiv.org/pdf/2103.11624.pdf), [[Code]](https://github.com/decisionforce/mmTransformer)
 
 - (arXiv 2021.03) Perspectives and Prospects on Transformer Architecture for Cross-Modal Tasks with Language and Vision. [[Paper]](https://arxiv.org/pdf/2103.04037.pdf)
@@ -171,6 +173,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) A Battle of Network Structures: An Empirical Study of CNN, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2108.13002.pdf)
 - (arXiv 2021.08) Scaled ReLU Matters for Training Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.03810.pdf)
 - (arXiv 2021.09) Towards Transferable Adversarial Attacks on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.04176.pdf)
+- (arXiv 2021.09) DS-Net++: Dynamic Weight Slicing for Efficient Inference in CNNs and Transformers, [[Paper]](https://arxiv.org/pdf/2109.10060.pdf), [[Code]](https://github.com/changlin31/DS-Net)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -231,6 +234,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Guiding Query Position and Performing Similar Attention for Transformer-Based Detection Heads, [[Paper]](https://arxiv.org/pdf/2108.09691.pdf)
 - (arXiv 2021.08) TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios, [[Paper]](https://arxiv.org/pdf/2108.11539.pdf)
 - (arXiv 2021.09) Anchor DETR: Query Design for Transformer-Based Detector, [[Paper]](https://arxiv.org/pdf/2109.07107.pdf),[[Code]](https://github.com/megvii-model/AnchorDETR)
+- (arXiv 2021.09) SDTP: Semantic-aware Decoupled Transformer Pyramid for Dense Image Prediction, [[Paper]](https://arxiv.org/pdf/2109.08963.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -248,6 +252,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) TransFER: Learning Relation-aware Facial Expression Representations with Transformers, [[Paper]](https://arxiv.org/pdf/2108.11116.pdf)
 - (arXiv 2021.09) TANet: A new Paradigm for Global Face Super-resolution via Transformer-CNN Aggregation Network, [[Paper]](https://arxiv.org/pdf/2109.08174.pdf)
 - (arXiv 2021.09) Expression Snippet Transformer for Robust Video-based Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2109.08409.pdf),[[Code]](https://anonymous.4open.science/r/ATSE-C58B)
+- (arXiv 2021.09) LOTR: Face Landmark Localization Using Localization Transformer, [[Paper]](https://arxiv.org/pdf/2109.10057.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -372,6 +377,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Vision-and-Language or Vision-for-Language? On Cross-Modal Influence in Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2109.04448.pdf)
 - (arXiv 2021.09) Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2109.04735.pdf)
 - (arXiv 2021.09) On Pursuit of Designing Multi-modal Transformer for Video Grounding, [[Paper]](https://arxiv.org/pdf/2109.06085.pdf), [[Code]](https://sites.google.com/view/mengcao/publication/gtr)
+- (arXiv 2021.09) Dyadformer: A Multi-modal Transformer for Long-Range Modeling of Dyadic Interactions, [[Paper]](https://arxiv.org/pdf/2109.09487.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -387,6 +393,14 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) MaAST: Map Attention with Semantic Transformers for Efficient Visual Navigation, [[Paper]](https://arxiv.org/pdf/2103.11374.pdf)
 - (arXiv 2021.04) Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation, [[Paper]](https://arxiv.org/pdf/2104.04167.pdf)
 - (arXiv 2021.05) Episodic Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2105.06453.pdf)
+
+### OCR
+- (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
+- (arXiv 2021.05) I2C2W: Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08383.pdf)
+- (arXiv 2021.05) Vision Transformer for Fast and Efficient Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08582.pdf)
+- (arXiv 2021.06) DocFormer: End-to-End Transformer for Document Understanding, [[Paper]](https://arxiv.org/pdf/2106.11539.pdf)
+- (arXiv 2021.08) A Transformer-based Math Language Model for Handwritten Math Expression Recognition, [[Paper]](https://arxiv.org/pdf/2108.05002.pdf)
+- (arXiv 2021.09) TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2109.10282.pdf), [[Code]](https://aka.ms/TrOCR)
 
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
@@ -514,6 +528,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Trans4Trans: Efficient Transformer for Transparent Object and Semantic Scene Segmentation in Real-World Navigation Assistance, [[Paper]](https://arxiv.org/pdf/2108.09174.pdf), [[Code]](https://github.com/jamycheung/Trans4Trans)
 - (arXiv 2021.08) Evaluating Transformer based Semantic Segmentation Networks for Pathological Image Segmentation, [[Paper]](https://arxiv.org/pdf/2108.11993.pdf)
 - (arXiv 2021.08) Semantic Segmentation on VSPW Dataset through Aggregation of Transformer Models, [[Paper]](https://arxiv.org/pdf/2109.01316.pdf)
+- (arXiv 2021.09) Efficient Hybrid Transformer: Learning Global-local Context for Urban Sence Segmentation, [[Paper]](https://arxiv.org/pdf/2109.08937.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -618,20 +633,16 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.01) VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search, [[Paper]](https://arxiv.org/abs/2101.00265)
 - (arXiv 2021.01) Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry, [[Paper]](https://arxiv.org/abs/2101.02143)
 - (arXiv 2021.04) Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/abs/2104.03135)
-- (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
 - (arXiv 2021.04) Cloth Interactive Transformer for Virtual Try-On, [[Paper]](https://arxiv.org/abs/2104.05519), [[Code]](https://github.com/Amazingren/CIT)
 - (arXiv 2021.04) Fourier Image Transformer, [[Paper]](https://arxiv.org/pdf/2104.02555.pdf), [[Code]](3https://github.com/juglab/FourierImageTransformer)
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
 - (arXiv 2021.05) Attention for Image Registration (AiR): an unsupervised Transformer approach, [[Paper]](https://arxiv.org/pdf/2105.02282.pdf)
-- (arXiv 2021.05) Vision Transformer for Fast and Efficient Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08582.pdf)
 - (arXiv 2021.05) IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2105.08647.pdf)
-- (arXiv 2021.05) I2C2W: Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08383.pdf)
 - (arXiv 2021.05) CogView: Mastering Text-to-Image Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2105.13290.pdf)
 - (arXiv 2021.06) A Comparison for Anti-noise Robustness of Deep Learning Classification Methods on a Tiny Object Image Dataset: from Convolutional Neural Network to Visual Transformer and Performer, [[Paper]](https://arxiv.org/pdf/2106.01927.pdf)
 - (arXiv 2021.06) Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, [[Paper]](https://arxiv.org/pdf/2106.00559.pdf)
 - (arXiv 2021.06) StyTr2: Unbiased Image Style Transfer with Transformers, [[Paper]](https://arxiv.org/pdf/2105.14576.pdf)
 - (arXiv 2021.06) Semantic Correspondence with Transformers, [[Paper]](https://arxiv.org/pdf/2106.02520.pdf)
-- (arXiv 2021.06) DocFormer: End-to-End Transformer for Document Understanding, [[Paper]](https://arxiv.org/pdf/2106.11539.pdf)
 - (arXiv 2021.06) Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue, [[Paper]](https://arxiv.org/pdf/2106.15550.pdf)
 - (arXiv 2021.07) Grid Partitioned Attention: Efficient Transformer Approximation with Inductive Bias for High Resolution Detail Generation, [[Paper]](https://arxiv.org/pdf/2107.03742.pdf), [[Code]](https://github.com/zalandoresearch/gpa)
 - (arXiv 2021.07) Image Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2107.09011.pdf), [[Code]](https://github.com/Vibashan/Image-FusionTransformer)
@@ -641,7 +652,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, [[Paper]](https://arxiv.org/pdf/2108.03798.pdf), [[Code]](https://github.com/Huage001/PaintTransformer)
 - (arXiv 2021.08) The Right to Talk: An Audio-Visual Transformer Approach, [[Paper]](https://arxiv.org/pdf/2108.03256.pdf), [[Code]](https://github.com/uark-cviu/Right2Talk)
 - (arXiv 2021.08) Embodied BERT: A Transformer Model for Embodied, Language-guided Visual Task Completion, [[Paper]](https://arxiv.org/pdf/2108.04927.pdf), [[Code]](https://github.com/amazon-research/embert)
-- (arXiv 2021.08) A Transformer-based Math Language Model for Handwritten Math Expression Recognition, [[Paper]](https://arxiv.org/pdf/2108.05002.pdf)
 - (arXiv 2021.08) Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
 - (arXiv 2021.08) TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
 - (arXiv 2021.08) Investigating transformers in the decomposition of polygonal shapes as point collections, [[Paper]](https://arxiv.org/pdf/2108.07533.pdf)
