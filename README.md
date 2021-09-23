@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/22
+**Last updated: 2021/09/23
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -174,6 +174,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Scaled ReLU Matters for Training Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.03810.pdf)
 - (arXiv 2021.09) Towards Transferable Adversarial Attacks on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.04176.pdf)
 - (arXiv 2021.09) DS-Net++: Dynamic Weight Slicing for Efficient Inference in CNNs and Transformers, [[Paper]](https://arxiv.org/pdf/2109.10060.pdf), [[Code]](https://github.com/changlin31/DS-Net)
+- (arXiv 2021.09) Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers, [[Paper]](https://arxiv.org/pdf/2109.10686.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -189,6 +190,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
 - (arXiv 2021.03) Vision Transformers for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2103.13413.pdf), [[Code]](https://github.com/intel-isl/DPT)
 - (arXiv 2021.03) Transformers Solve the Limited Receptive Field for Monocular Depth Prediction, [[Paper]](https://arxiv.org/pdf/2103.12091.pdf), [[Code]](https://github.com/ygjwd12345/TransDepth)
+- (arXiv 2021.09) Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2109.10563.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -378,6 +380,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Temporal Pyramid Transformer with Multimodal Interaction for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2109.04735.pdf)
 - (arXiv 2021.09) On Pursuit of Designing Multi-modal Transformer for Video Grounding, [[Paper]](https://arxiv.org/pdf/2109.06085.pdf), [[Code]](https://sites.google.com/view/mengcao/publication/gtr)
 - (arXiv 2021.09) Dyadformer: A Multi-modal Transformer for Long-Range Modeling of Dyadic Interactions, [[Paper]](https://arxiv.org/pdf/2109.09487.pdf)
+- (arXiv 2021.09) KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2109.10504.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -604,6 +607,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) MM-ViT: Multi-Modal Video Transformer for Compressed Video Action Recognition, [[Paper]](https://arxiv.org/pdf/2108.09322.pdf)
 - (arXiv 2021.08) ZS-SLR: Zero-Shot Sign Language Recognition from RGB-D Videos, [[Paper]](https://arxiv.org/pdf/2108.10059.pdf)
 - (arXiv 2021.09) FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2109.02974.pdf), [[Code]](https://github.com/ruiliu-ai/FuseFormer)
+- (arXiv 2021.09) Hierarchical Multimodal Transformer to Summarize Videos, [[Paper]](https://arxiv.org/pdf/2109.10559.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
