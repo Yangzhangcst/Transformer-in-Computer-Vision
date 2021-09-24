@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/23
+**Last updated: 2021/09/24
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -442,6 +442,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Test-Time Personalization with a Transformer for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2107.02133.pdf)
 - (arXiv 2021.09) Pose Transformers (POTR): Human Motion Prediction with Non-Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2109.07531.pdf), [[Code]](https://github.com/idiap/potr) 
 - (arXiv 2021.09) GraFormer: Graph Convolution Transformer for 3D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2109.08364.pdf), [[Code]](https://github.com/Graformer/GraFormer)
+- (arXiv 2021.09) T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression, [[Paper]](https://arxiv.org/pdf/2109.10948.pdf)
 
 ### Pruning
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
@@ -472,6 +473,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) GiT: Graph Interactive Transformer for Vehicle Re-identification, [[Paper]](https://arxiv.org/pdf/2107.05448.pdf)
 - (arXiv 2021.07) HAT: Hierarchical Aggregation Transformers for Person Re-identification, [[Paper]](https://arxiv.org/pdf/2107.05946.pdf)
 - (arXiv 2021.09) Pose-guided Inter- and Intra-part Relational Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2109.03483.pdf)
+- (arXiv 2021.09) OH-Former: Omni-Relational High-Order Transformer for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2109.11159.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
