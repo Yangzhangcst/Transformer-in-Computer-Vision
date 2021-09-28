@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/24
+**Last updated: 2021/09/28
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -254,11 +254,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) TransFER: Learning Relation-aware Facial Expression Representations with Transformers, [[Paper]](https://arxiv.org/pdf/2108.11116.pdf)
 - (arXiv 2021.09) TANet: A new Paradigm for Global Face Super-resolution via Transformer-CNN Aggregation Network, [[Paper]](https://arxiv.org/pdf/2109.08174.pdf)
 - (arXiv 2021.09) Expression Snippet Transformer for Robust Video-based Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2109.08409.pdf),[[Code]](https://anonymous.4open.science/r/ATSE-C58B)
-- (arXiv 2021.09) LOTR: Face Landmark Localization Using Localization Transformer, [[Paper]](https://arxiv.org/pdf/2109.10057.pdf)
+- (arXiv 2021.09) Sparse Spatial Transformers for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2109.10057.pdf),[[Code]](https://github.com/chenhaoxing/SSFormers)
+- (arXiv 2021.09) MFEViT: A Robust Lightweight Transformer-based Network for Multimodal 2D+3D Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2109.13086.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
 - (arXiv 2021.04) Few-Shot Segmentation via Cycle-Consistent Transformer, [[Paper]](https://arxiv.org/pdf/2106.02320.pdf)
+- (arXiv 2021.09) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2109.12932.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
 
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -354,6 +356,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) MISSFormer: An Effective Medical Image Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2109.07162.pdf)
 - (arXiv 2021.09) Eformer: Edge Enhancement based Transformer for Medical Image Denoising, [[Paper]](https://arxiv.org/pdf/2109.08044.pdf)
 - (arXiv 2021.09) Transformer-Unet: Raw Image Processing with Unet, [[Paper]](https://arxiv.org/pdf/2109.08417.pdf)
+- (arXiv 2021.09) BiTr-Unet: a CNN-Transformer Combined Network for MRI Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2109.12271.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -489,6 +492,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval, [[Paper]](https://arxiv.org/pdf/2105.07197.pdf), [[Code]](https://github.com/shikhartuli/cnn_txf_bias)
 - (arXiv 2021.06) Towards Efficient Cross-Modal Visual Textual Retrieval using Transformer-Encoder Deep Features, [[Paper]](https://arxiv.org/pdf/2106.00358.pdf)
 - (arXiv 2021.06) All You Can Embed: Natural Language based Vehicle Retrieval with Spatio-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2106.10153.pdf), [[Code]](https://github.com/cscribano/AYCE_2021)
+- (arXiv 2021.09) Vision Transformer Hashing for Image Retrieval, [[Paper]](https://arxiv.org/pdf/2109.12564.pdf)
 
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
@@ -669,6 +673,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) The Animation Transformer: Visual Correspondence via Segment Matching, [[Paper]](https://arxiv.org/pdf/2109.02614.pdf)
 - (arXiv 2021.09) CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2109.06165.pdf)
 - (arXiv 2021.09) Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2109.08024.pdf)
+- (arXiv 2021.09) PETA: Photo Albums Event Recognition using Transformers Attention, [[Paper]](https://arxiv.org/pdf/2109.12499.pdf), [[Code]](https://github.com/Alibaba-MIIL/PETA)
 
 ## Contact & Feedback
 
