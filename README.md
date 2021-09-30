@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/09/28
+**Last updated: 2021/09/30
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -64,6 +64,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Dual Graph Convolutional Networks with Transformer and Curriculum Learning for Image Captioning, [[Paper]](https://arxiv.org/pdf/2108.02366.pdf), [[Code]](https://github.com/Unbear430/DGCN-for-image-captioning)
 - (arXiv 2021.09) Bornon: Bengali Image Captioning with Transformer-based Deep learning approach, [[Paper]](https://arxiv.org/pdf/2109.05218.pdf)
 - (arXiv 2021.09) Label-Attention Transformer with Geometrically Coherent Objects for Image Captioning, [[Paper]](https://arxiv.org/pdf/2109.07799.pdf), [[Code]](https://github.com/shikha-gist/Image-Captioning/) 
+- (arXiv 2021.09) Geometry-Entangled Visual Semantic Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2109.14137.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -175,6 +176,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Towards Transferable Adversarial Attacks on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.04176.pdf)
 - (arXiv 2021.09) DS-Net++: Dynamic Weight Slicing for Efficient Inference in CNNs and Transformers, [[Paper]](https://arxiv.org/pdf/2109.10060.pdf), [[Code]](https://github.com/changlin31/DS-Net)
 - (arXiv 2021.09) Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers, [[Paper]](https://arxiv.org/pdf/2109.10686.pdf)
+- (arXiv 2021.09) Fine-tuning Vision Transformers for the Prediction of State Variables in Ising Models, [[Paper]](https://arxiv.org/pdf/2109.13925.pdf)
+- (arXiv 2021.09) UFO-ViT: High Performance Linear Vision Transformer without Softmax, [[Paper]](https://arxiv.org/pdf/2109.14382.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -185,6 +188,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) Boosting Crowd Counting with Transformers, [[Paper]](https://arxiv.org/pdf/2105.10926.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
 - (arXiv 2021.08) Congested Crowd Instance Localization with Dilated Convolutional Swin Transformer, [[Paper]](https://arxiv.org/pdf/2108.00584.pdf)
 - (arXiv 2021.09) Audio-Visual Transformer Based Crowd Counting, [[Paper]](https://arxiv.org/pdf/2109.01926.pdf), [[Code]](https://github.com/rucv/avcc)
+- (arXiv 2021.09) CCTrans: Simplifying and Improving Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2109.14483.pdf)
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
@@ -237,6 +241,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios, [[Paper]](https://arxiv.org/pdf/2108.11539.pdf)
 - (arXiv 2021.09) Anchor DETR: Query Design for Transformer-Based Detector, [[Paper]](https://arxiv.org/pdf/2109.07107.pdf),[[Code]](https://github.com/megvii-model/AnchorDETR)
 - (arXiv 2021.09) SDTP: Semantic-aware Decoupled Transformer Pyramid for Dense Image Prediction, [[Paper]](https://arxiv.org/pdf/2109.08963.pdf)
+- (arXiv 2021.09) Infrared Small-Dim Target Detection with Transformer under Complex Backgrounds, [[Paper]](https://arxiv.org/pdf/2109.14379.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -519,6 +524,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) Self-Supervised Learning with Swin Transformers, [[Paper]](https://arxiv.org/pdf/2105.04553.pdf), [[Code]](https://github.com/SwinTransformer/Transformer-SSL)
 - (arXiv 2021.06) MST: Masked Self-Supervised Transformer for Visual Representation, [[Paper]](https://arxiv.org/pdf/2106.05656.pdf)
 - (arXiv 2021.06) Efficient Self-supervised Vision Transformers for Representation Learning, [[Paper]](https://arxiv.org/pdf/2106.09785.pdf)
+- (arXiv 2021.09) Localizing Objects with Self-Supervised Transformers and no Labels, [[Paper]](https://arxiv.org/pdf/2109.14279.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
