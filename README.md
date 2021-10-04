@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/01
+**Last updated: 2021/10/04
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -41,6 +41,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Shifted Chunk Transformer for Spatio-Temporal Representational Learning, [[Paper]](https://arxiv.org/pdf/2108.11575.pdf)
 - (arXiv 2021.08) GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer, [[Paper]](https://arxiv.org/pdf/2108.12630.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
 - (arXiv 2021.09) GCsT: Graph Convolutional Skeleton Transformer for Action Recognition, [[Paper]](https://arxiv.org/pdf/2109.02860.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
+- (arXiv 2021.10) Lightweight Transformer in Federated Setting for Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2110.00244.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -65,6 +66,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Bornon: Bengali Image Captioning with Transformer-based Deep learning approach, [[Paper]](https://arxiv.org/pdf/2109.05218.pdf)
 - (arXiv 2021.09) Label-Attention Transformer with Geometrically Coherent Objects for Image Captioning, [[Paper]](https://arxiv.org/pdf/2109.07799.pdf), [[Code]](https://github.com/shikha-gist/Image-Captioning/) 
 - (arXiv 2021.09) Geometry-Entangled Visual Semantic Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2109.14137.pdf)
+- (arXiv 2021.10) Geometry Attention Transformer with Position-aware LSTMs for Image Captioning, [[Paper]](https://arxiv.org/pdf/2110.00335.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
