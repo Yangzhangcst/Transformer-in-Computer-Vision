@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/05
+**Last updated: 2021/10/06
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -55,6 +55,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Perceptual Image Quality Assessment with Transformers, [[Paper]](https://arxiv.org/abs/2104.14730), [[Code]](https://github.com/manricheon/IQT)
 - (arXiv 2021.08) No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency, [[Paper]](https://arxiv.org/pdf/2108.06858.pdf), [[Code]](https://github.com/isalirezag/TReS)
 - (arXiv 2021.08) MUSIQ: Multi-scale Image Quality Transformer, [[Paper]](https://arxiv.org/pdf/2108.05997.pdf), [[Code]](https://github.com/google-research/google-research/tree/master/musiq)
+- (arXiv 2021.10) VTAMIQ: Transformers for Attention Modulated Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2110.01655.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -180,6 +181,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers, [[Paper]](https://arxiv.org/pdf/2109.10686.pdf)
 - (arXiv 2021.09) Fine-tuning Vision Transformers for the Prediction of State Variables in Ising Models, [[Paper]](https://arxiv.org/pdf/2109.13925.pdf)
 - (arXiv 2021.09) UFO-ViT: High Performance Linear Vision Transformer without Softmax, [[Paper]](https://arxiv.org/pdf/2109.14382.pdf)
+- (arXiv 2021.10) MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer, [[Paper]](https://arxiv.org/pdf/2110.02178.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
