@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/06
+**Last updated: 2021/10/07
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -182,6 +182,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Fine-tuning Vision Transformers for the Prediction of State Variables in Ising Models, [[Paper]](https://arxiv.org/pdf/2109.13925.pdf)
 - (arXiv 2021.09) UFO-ViT: High Performance Linear Vision Transformer without Softmax, [[Paper]](https://arxiv.org/pdf/2109.14382.pdf)
 - (arXiv 2021.10) MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer, [[Paper]](https://arxiv.org/pdf/2110.02178.pdf)
+- (arXiv 2021.10) Adversarial Robustness Comparison of Vision Transformer and MLP-Mixer to CNNs, [[Paper]](https://arxiv.org/pdf/2110.02797.pdf), [[Code]](https://github.com/phibenz/robustness_comparison_vit_mlp-mixer_cnn)
+
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -367,6 +369,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Transformer-Unet: Raw Image Processing with Unet, [[Paper]](https://arxiv.org/pdf/2109.08417.pdf)
 - (arXiv 2021.09) BiTr-Unet: a CNN-Transformer Combined Network for MRI Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2109.12271.pdf)
 - (arXiv 2021.09) GT U-Net: A U-Net Like Group Transformer Network for Tooth Root Segmentation, [[Paper]](https://arxiv.org/pdf/2109.14813.pdf)
+- (arXiv 2021.10) Transformer Assisted Convolutional Network for Cell Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2110.02270.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
