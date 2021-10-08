@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/07
+**Last updated: 2021/10/08
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -370,6 +370,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) BiTr-Unet: a CNN-Transformer Combined Network for MRI Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2109.12271.pdf)
 - (arXiv 2021.09) GT U-Net: A U-Net Like Group Transformer Network for Tooth Root Segmentation, [[Paper]](https://arxiv.org/pdf/2109.14813.pdf)
 - (arXiv 2021.10) Transformer Assisted Convolutional Network for Cell Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2110.02270.pdf)
+- (arXiv 2021.10) A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI images, [[Paper]](https://arxiv.org/pdf/2110.03588.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -570,6 +571,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Geometry-Free View Synthesis: Transformers and no 3D Priors, [[Paper]](https://arxiv.org/pdf/2104.07652.pdf)
 - (arXiv 2021.05) High-Resolution Complex Scene Synthesis with Transformers, [[Paper]](https://arxiv.org/pdf/2105.06458.pdf)
 - (arXiv 2021.06) The Image Local Autoregressive Transformer, [[Paper]](https://arxiv.org/pdf/2106.02514.pdf)
+- (arXiv 2021.10) ATISS: Autoregressive Transformers for Indoor Scene Synthesis, [[Paper]](https://arxiv.org/pdf/2110.03675.pdf), [[Project]](https://nv-tlabs.github.io/ATISS/)
 
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
@@ -690,6 +692,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2109.08024.pdf)
 - (arXiv 2021.09) PETA: Photo Albums Event Recognition using Transformers Attention, [[Paper]](https://arxiv.org/pdf/2109.12499.pdf), [[Code]](https://github.com/Alibaba-MIIL/PETA)
 - (arXiv 2021.10) ProTo: Program-Guided Transformer for Program-Guided Tasks, [[Paper]](https://arxiv.org/pdf/2110.00804.pdf)
+- (arXiv 2021.10) TranSalNet: Visual saliency prediction using transformers, [[Paper]](https://arxiv.org/pdf/2110.03593.pdf)
 
 ## Contact & Feedback
 
