@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/08
+**Last updated: 2021/10/11
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -183,7 +183,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) UFO-ViT: High Performance Linear Vision Transformer without Softmax, [[Paper]](https://arxiv.org/pdf/2109.14382.pdf)
 - (arXiv 2021.10) MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer, [[Paper]](https://arxiv.org/pdf/2110.02178.pdf)
 - (arXiv 2021.10) Adversarial Robustness Comparison of Vision Transformer and MLP-Mixer to CNNs, [[Paper]](https://arxiv.org/pdf/2110.02797.pdf), [[Code]](https://github.com/phibenz/robustness_comparison_vit_mlp-mixer_cnn)
-
+- (arXiv 2021.10) Token Pooling in Visual Transformers, [[Paper]](https://arxiv.org/pdf/2110.03860.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -248,6 +248,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Anchor DETR: Query Design for Transformer-Based Detector, [[Paper]](https://arxiv.org/pdf/2109.07107.pdf),[[Code]](https://github.com/megvii-model/AnchorDETR)
 - (arXiv 2021.09) SDTP: Semantic-aware Decoupled Transformer Pyramid for Dense Image Prediction, [[Paper]](https://arxiv.org/pdf/2109.08963.pdf)
 - (arXiv 2021.09) Infrared Small-Dim Target Detection with Transformer under Complex Backgrounds, [[Paper]](https://arxiv.org/pdf/2109.14379.pdf)
+- (arXiv 2021.10) IViDT: An Efficient and Effective Fully Transformer-based Object Detector, [[Paper]](https://arxiv.org/pdf/2110.03921.pdf),[[Code]](https://github.com/naver-ai/vidt)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -371,6 +372,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) GT U-Net: A U-Net Like Group Transformer Network for Tooth Root Segmentation, [[Paper]](https://arxiv.org/pdf/2109.14813.pdf)
 - (arXiv 2021.10) Transformer Assisted Convolutional Network for Cell Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2110.02270.pdf)
 - (arXiv 2021.10) A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI images, [[Paper]](https://arxiv.org/pdf/2110.03588.pdf)
+- (arXiv 2021.10) Boundary-aware Transformers for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2110.03864.pdf), [[Code]](https://github.com/jcwang123/BA-Transformer)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -407,6 +409,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv.2021.07) AutoFormer: Searching Transformers for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.00651.pdf), [[Code]](https://github.com/microsoft/AutoML)
 - (arXiv.2021.07) GLiT: Neural Architecture Search for Global and Local Image Transformer, [[Paper]](https://arxiv.org/pdf/2107.02960.pdf)
 - (arXiv.2021.09) Searching for Efficient Multi-Stage Vision Transformers, [[Paper]](https://arxiv.org/pdf/2109.00642.pdf)
+- (arXiv.2021.10) UniNet: Unified Architecture Search with Convolution, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2110.04035.pdf)
 
 ### Navigation
 - (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
@@ -426,6 +429,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
 - (arXiv 2021.09) Panoptic SegFormer, [[Paper]](https://arxiv.org/pdf/2109.03814.pdf)
 - (arXiv 2021.09) PnP-DETR: Towards Efficient Visual Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2109.07036.pdf),[[Code]](https://github.com/twangnh/pnp-detr)
+- (arXiv 2021.10) An End-to-End Trainable Video Panoptic Segmentation Method using Transformers, [[Paper]](https://arxiv.org/pdf/2110.04009.pdf)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
