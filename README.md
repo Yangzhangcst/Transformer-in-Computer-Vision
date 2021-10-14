@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/13
+**Last updated: 2021/10/14
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -252,6 +252,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) SDTP: Semantic-aware Decoupled Transformer Pyramid for Dense Image Prediction, [[Paper]](https://arxiv.org/pdf/2109.08963.pdf)
 - (arXiv 2021.09) Infrared Small-Dim Target Detection with Transformer under Complex Backgrounds, [[Paper]](https://arxiv.org/pdf/2109.14379.pdf)
 - (arXiv 2021.10) IViDT: An Efficient and Effective Fully Transformer-based Object Detector, [[Paper]](https://arxiv.org/pdf/2110.03921.pdf),[[Code]](https://github.com/naver-ai/vidt)
+- (arXiv 2021.10) DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries, [[Paper]](https://arxiv.org/pdf/2110.06922.pdf),[[Code]](https://github.com/WangYueFt/detr3d)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -313,6 +314,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Layout
 - (CVPR'21) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/abs/2104.02416)
+- (arXiv 2021.10) The Layout Generation Algorithm of Graphic Design Based on Transformer-CVAE, [[Paper]](https://arxiv.org/abs/2110.06794)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -645,6 +647,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) ZS-SLR: Zero-Shot Sign Language Recognition from RGB-D Videos, [[Paper]](https://arxiv.org/pdf/2108.10059.pdf)
 - (arXiv 2021.09) FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2109.02974.pdf), [[Code]](https://github.com/ruiliu-ai/FuseFormer)
 - (arXiv 2021.09) Hierarchical Multimodal Transformer to Summarize Videos, [[Paper]](https://arxiv.org/pdf/2109.10559.pdf)
+- (arXiv 2021.10) Object-Region Video Transformers, [[Paper]](https://arxiv.org/pdf/2110.06915.pdf), [[Code]](https://roeiherz.github.io/ORViT/)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -708,7 +711,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) ProTo: Program-Guided Transformer for Program-Guided Tasks, [[Paper]](https://arxiv.org/pdf/2110.00804.pdf)
 - (arXiv 2021.10) TranSalNet: Visual saliency prediction using transformers, [[Paper]](https://arxiv.org/pdf/2110.03593.pdf)
 - (arXiv 2021.10) Development and testing of an image transformer for explainable autonomous driving systems, [[Paper]](https://arxiv.org/pdf/2110.05559.pdf)
-
+- (arXiv 2021.10) Leveraging redundancy in attention with Reuse Transformers, [[Paper]](https://arxiv.org/pdf/2110.06821.pdf)
 
 ## Contact & Feedback
 
