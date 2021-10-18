@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/14
+**Last updated: 2021/10/18
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -186,7 +186,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Token Pooling in Visual Transformers, [[Paper]](https://arxiv.org/pdf/2110.03860.pdf)
 - (arXiv 2021.10) NViT: Vision Transformer Compression and Parameter Redistribution, [[Paper]](https://arxiv.org/pdf/2110.04869.pdf)
 - (arXiv 2021.10) Adversarial Token Attacks on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.04337.pdf)
-
+- (arXiv 2021.10) Certified Patch Robustness via Smoothed Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.07719.pdf), [[Code]](https://github.com/MadryLab/smoothed-vit)
+- (arXiv 2021.10) Understanding and Improving Robustness of Vision Transformers through Patch-based Negative Augmentation, [[Paper]](https://arxiv.org/pdf/2110.07858.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -379,6 +380,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) A transformer-based deep learning approach for classifying brain metastases into primary organ sites using clinical whole brain MRI images, [[Paper]](https://arxiv.org/pdf/2110.03588.pdf)
 - (arXiv 2021.10) Boundary-aware Transformers for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2110.03864.pdf), [[Code]](https://github.com/jcwang123/BA-Transformer)
 - (arXiv 2021.10) Vision Transformer based COVID-19 Detection using Chest X-rays, [[Paper]](https://arxiv.org/pdf/2110.04458.pdf)
+- (arXiv 2021.10) Combining CNNs With Transformer for Multimodal 3D MRI Brain Tumor Segmentation With Self-Supervised Pretraining, [[Paper]](https://arxiv.org/pdf/2110.07919.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -712,6 +714,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) TranSalNet: Visual saliency prediction using transformers, [[Paper]](https://arxiv.org/pdf/2110.03593.pdf)
 - (arXiv 2021.10) Development and testing of an image transformer for explainable autonomous driving systems, [[Paper]](https://arxiv.org/pdf/2110.05559.pdf)
 - (arXiv 2021.10) Leveraging redundancy in attention with Reuse Transformers, [[Paper]](https://arxiv.org/pdf/2110.06821.pdf)
+- (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
 
 ## Contact & Feedback
 
