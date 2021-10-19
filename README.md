@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/18
+**Last updated: 2021/10/19
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -42,6 +42,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer, [[Paper]](https://arxiv.org/pdf/2108.12630.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
 - (arXiv 2021.09) GCsT: Graph Convolutional Skeleton Transformer for Action Recognition, [[Paper]](https://arxiv.org/pdf/2109.02860.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
 - (arXiv 2021.10) Lightweight Transformer in Federated Setting for Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2110.00244.pdf)
+- (arXiv 2021.10) ASFormer: Transformer for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2110.08568.pdf), [[Code]](https://github.com/ChinaYi/ASFormer)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -381,6 +382,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Boundary-aware Transformers for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2110.03864.pdf), [[Code]](https://github.com/jcwang123/BA-Transformer)
 - (arXiv 2021.10) Vision Transformer based COVID-19 Detection using Chest X-rays, [[Paper]](https://arxiv.org/pdf/2110.04458.pdf)
 - (arXiv 2021.10) Combining CNNs With Transformer for Multimodal 3D MRI Brain Tumor Segmentation With Self-Supervised Pretraining, [[Paper]](https://arxiv.org/pdf/2110.07919.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
+- (arXiv 2021.10) CAE-Transformer: Transformer-based Model to Predict Invasiveness of Lung Adenocarcinoma Subsolid Nodules from Non-thin Section 3D CT Scans, [[Paper]](https://arxiv.org/pdf/2110.08721.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
+- (arXiv 2021.10) COVID-19 Detection in Chest X-ray Images Using Swin-Transformer and Transformer in Transformer, [[Paper]](https://arxiv.org/pdf/2110.08427.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -494,6 +497,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) THUNDR: Transformer-based 3D HUmaN Reconstruction with Markers, [[Paper]](https://arxiv.org/pdf/2106.09336.pdf)
 - (arXiv 2021.06) LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2106.12102.pdf)
 - (arXiv 2021.07) TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, [[Paper]](https://arxiv.org/pdf/2107.08192.pdf)
+- (arXiv 2021.10) 3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2110.08861.pdf), [[Code]](https://github.com/FomalhautB/3D-RETR)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -508,6 +512,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) HAT: Hierarchical Aggregation Transformers for Person Re-identification, [[Paper]](https://arxiv.org/pdf/2107.05946.pdf)
 - (arXiv 2021.09) Pose-guided Inter- and Intra-part Relational Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2109.03483.pdf)
 - (arXiv 2021.09) OH-Former: Omni-Relational High-Order Transformer for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2109.11159.pdf)
+- (arXiv 2021.10) CMTR: Cross-modality Transformer for Visible-infrared Person Re-identification, [[Paper]](https://arxiv.org/pdf/2110.08994.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -603,6 +608,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) MOTR: End-to-End Multiple-Object Tracking with TRansformer, [[Paper]](https://arxiv.org/pdf/2105.03247.pdf), [[Code]](https://github.com/megvii-model/MOTR)
 - (arXiv 2021.05) TrTr: Visual Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2105.03817.pdf), [[Code]](https://github.com/tongtybj/TrTr)
 - (arXiv 2021.08) HiFT: Hierarchical Feature Transformer for Aerial Tracking, [[Paper]](https://arxiv.org/pdf/2108.00202.pdf), [[Code]](https://github.com/vision4robotics/HiFT)
+- (arXiv 2021.10) Siamese Transformer Pyramid Networks for Real-Time UAV Tracking, [[Paper]](https://arxiv.org/pdf/2110.08822.pdf), [[Code]](https://github.com/RISCNYUAD/SiamTPNTracker)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
