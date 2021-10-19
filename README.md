@@ -478,6 +478,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression, [[Paper]](https://arxiv.org/pdf/2109.10948.pdf)
 - (arXiv 2021.10) 6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-based Instance Representation Learning, [[Paper]](https://arxiv.org/pdf/2110.04792.pdf)
 - (arXiv 2021.10) Adaptively Multi-view and Temporal Fusing Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2110.05092.pdf), [[Code]](https://github.com/lelexx/MTF-Transformer) 
+- (arXiv 2021.10) HRFormer: High-Resolution Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2110.09408.pdf), [[Code]](https://github.com/HRNet/HRFormer) 
 
 ### Pruning
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
