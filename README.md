@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/19
+**Last updated: 2021/10/20
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -189,6 +189,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Adversarial Token Attacks on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.04337.pdf)
 - (arXiv 2021.10) Certified Patch Robustness via Smoothed Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.07719.pdf), [[Code]](https://github.com/MadryLab/smoothed-vit)
 - (arXiv 2021.10) Understanding and Improving Robustness of Vision Transformers through Patch-based Negative Augmentation, [[Paper]](https://arxiv.org/pdf/2110.07858.pdf)
+- (arXiv 2021.10) Bilateral-ViT for Robust Fovea Localization, [[Paper]](https://arxiv.org/pdf/2110.09860.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -289,6 +290,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Improved Transformer for High-Resolution GANs, [[Paper]](https://arxiv.org/pdf/2106.07631.pdf)
 - (arXiv 2021.06) Styleformer: Transformer based Generative Adversarial Networks with Style Vector, [[Paper]](https://arxiv.org/pdf/2106.07023.pdf), [[Code]](https://github.com/Jeeseung-Park/Styleformer)
 - (arXiv 2021.07) ViTGAN: Training GANs with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.04589.pdf)
+- (arXiv 2021.10) Generating Symbolic Reasoning Problems with Transformer GANs, [[Paper]](https://arxiv.org/pdf/2110.10054.pdf)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
@@ -411,6 +413,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) On Pursuit of Designing Multi-modal Transformer for Video Grounding, [[Paper]](https://arxiv.org/pdf/2109.06085.pdf), [[Code]](https://sites.google.com/view/mengcao/publication/gtr)
 - (arXiv 2021.09) Dyadformer: A Multi-modal Transformer for Long-Range Modeling of Dyadic Interactions, [[Paper]](https://arxiv.org/pdf/2109.09487.pdf)
 - (arXiv 2021.09) KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2109.10504.pdf)
+- (arXiv 2021.10) Unifying Multimodal Transformer for Bi-directional Image and Text Generation, [[Paper]](https://arxiv.org/pdf/2110.09753.pdf), [[Code]](https://github.com/researchmm/generate-it)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -460,6 +463,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Improving 3D Object Detection with Channel-wise Transformer, [[Paper]](https://arxiv.org/pdf/2108.10723.pdf), [[Code]](https://github.com/hlsheng1/CT3D) 
 - (arXiv 2021.09) PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds, [[Paper]](https://arxiv.org/pdf/2109.05566.pdf), [[Code]](https://github.com/OPEN-AIR-SUN/PQ-Transformer) 
 - (arXiv 2021.09) An End-to-End Transformer Model for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.08141.pdf)
+- (arXiv 2021.10) Spatial-Temporal Transformer for 3D Point Cloud Sequences, [[Paper]](https://arxiv.org/pdf/2110.09783.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -479,6 +483,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) 6D-ViT: Category-Level 6D Object Pose Estimation via Transformer-based Instance Representation Learning, [[Paper]](https://arxiv.org/pdf/2110.04792.pdf)
 - (arXiv 2021.10) Adaptively Multi-view and Temporal Fusing Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2110.05092.pdf), [[Code]](https://github.com/lelexx/MTF-Transformer) 
 - (arXiv 2021.10) HRFormer: High-Resolution Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2110.09408.pdf), [[Code]](https://github.com/HRNet/HRFormer) 
+- (arXiv 2021.10) TransFusion: Cross-view Fusion with Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2110.09554.pdf), [[Code]](https://github.com/HowieMa/TransFusion-Pose) 
 
 ### Pruning
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
@@ -722,6 +727,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Development and testing of an image transformer for explainable autonomous driving systems, [[Paper]](https://arxiv.org/pdf/2110.05559.pdf)
 - (arXiv 2021.10) Leveraging redundancy in attention with Reuse Transformers, [[Paper]](https://arxiv.org/pdf/2110.06821.pdf)
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
+- (arXiv 2021.10) Accelerating Framework of Transformer by hardware Design and Model Compression Co-Optimization, [[Paper]](https://arxiv.org/pdf/2110.10030.pdf)
 
 ## Contact & Feedback
 
