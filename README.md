@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/20
+**Last updated: 2021/10/21
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -43,6 +43,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) GCsT: Graph Convolutional Skeleton Transformer for Action Recognition, [[Paper]](https://arxiv.org/pdf/2109.02860.pdf), [[Code]](https://github.com/xueyee/GroupFormer)
 - (arXiv 2021.10) Lightweight Transformer in Federated Setting for Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2110.00244.pdf)
 - (arXiv 2021.10) ASFormer: Transformer for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2110.08568.pdf), [[Code]](https://github.com/ChinaYi/ASFormer)
+- (arXiv 2021.10) Few-Shot Temporal Action Localization with Query Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2110.10552.pdf), [[Code]](https://github.com/sauradip/fewshotQAT)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -386,6 +387,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Combining CNNs With Transformer for Multimodal 3D MRI Brain Tumor Segmentation With Self-Supervised Pretraining, [[Paper]](https://arxiv.org/pdf/2110.07919.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
 - (arXiv 2021.10) CAE-Transformer: Transformer-based Model to Predict Invasiveness of Lung Adenocarcinoma Subsolid Nodules from Non-thin Section 3D CT Scans, [[Paper]](https://arxiv.org/pdf/2110.08721.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
 - (arXiv 2021.10) COVID-19 Detection in Chest X-ray Images Using Swin-Transformer and Transformer in Transformer, [[Paper]](https://arxiv.org/pdf/2110.08427.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
+- (arXiv 2021.10) AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2110.10403.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -728,6 +730,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Leveraging redundancy in attention with Reuse Transformers, [[Paper]](https://arxiv.org/pdf/2110.06821.pdf)
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
 - (arXiv 2021.10) Accelerating Framework of Transformer by hardware Design and Model Compression Co-Optimization, [[Paper]](https://arxiv.org/pdf/2110.10030.pdf)
+- (arXiv 2021.10) Vis-TOP: Visual Transformer Overlay Processor, [[Paper]](https://arxiv.org/pdf/2110.10957.pdf)
 
 ## Contact & Feedback
 
