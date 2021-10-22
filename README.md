@@ -10,6 +10,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2021/July* - update all of recent papers of Transformer-in-Vision.  
 *2021/August* - update all of recent papers of Transformer-in-Vision.  
 *2021/September* - update all of recent papers of Transformer-in-Vision.  
+*2021/October* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
 - (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training. [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
@@ -393,7 +394,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
 - (arXiv 2021.03) DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer, [[Paper]](https://arxiv.org/pdf/2103.10206.pdf)
 - (arXiv 2021.03) Multimodal Motion Prediction with Stacked Transformers, [[Paper]](https://arxiv.org/pdf/2103.11624.pdf), [[Code]](https://github.com/decisionforce/mmTransformer)
-- (arXiv 2021.04)  Action-Conditioned 3D Human Motion Synthesis with Transformer VAE, [[Paper]](https://arxiv.org/abs/2104.05670)
+- (arXiv 2021.04) Action-Conditioned 3D Human Motion Synthesis with Transformer VAE, [[Paper]](https://arxiv.org/abs/2104.05670)
+- (arXiv 2021.10) AniFormer: Data-driven 3D Animation with Transformer, [[Paper]](https://arxiv.org/pdf/2110.10533.pdf), [[Code]](https://github.com/mikecheninoulu/AniFormer)
 
 ### Multi-task/modal
 - (arXiv 2021.02) Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxiv.org/abs/2102.10772), [[Code]](https://mmf.sh/)
