@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/21
+**Last updated: 2021/10/25
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -192,6 +192,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Certified Patch Robustness via Smoothed Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.07719.pdf), [[Code]](https://github.com/MadryLab/smoothed-vit)
 - (arXiv 2021.10) Understanding and Improving Robustness of Vision Transformers through Patch-based Negative Augmentation, [[Paper]](https://arxiv.org/pdf/2110.07858.pdf)
 - (arXiv 2021.10) Bilateral-ViT for Robust Fovea Localization, [[Paper]](https://arxiv.org/pdf/2110.09860.pdf)
+- (arXiv 2021.10) SOFT: Softmax-free Transformer with Linear Complexity, [[Paper]](https://arxiv.org/pdf/2110.11945.pdf), [[Code]](https://github.com/fudan-zvg/SOFT)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -419,6 +420,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Dyadformer: A Multi-modal Transformer for Long-Range Modeling of Dyadic Interactions, [[Paper]](https://arxiv.org/pdf/2109.09487.pdf)
 - (arXiv 2021.09) KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2109.10504.pdf)
 - (arXiv 2021.10) Unifying Multimodal Transformer for Bi-directional Image and Text Generation, [[Paper]](https://arxiv.org/pdf/2110.09753.pdf), [[Code]](https://github.com/researchmm/generate-it)
+- (arXiv 2021.10) VLDeformer: Learning Visual-Semantic Embeddings by Vision-Language Transformer Decomposing, [[Paper]](https://arxiv.org/pdf/2110.11338.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
