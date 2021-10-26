@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/25
+**Last updated: 2021/10/26
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -71,6 +71,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Label-Attention Transformer with Geometrically Coherent Objects for Image Captioning, [[Paper]](https://arxiv.org/pdf/2109.07799.pdf), [[Code]](https://github.com/shikha-gist/Image-Captioning/) 
 - (arXiv 2021.09) Geometry-Entangled Visual Semantic Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2109.14137.pdf)
 - (arXiv 2021.10) Geometry Attention Transformer with Position-aware LSTMs for Image Captioning, [[Paper]](https://arxiv.org/pdf/2110.00335.pdf)
+- (arXiv 2021.10) Bangla Image Caption Generation through CNN-Transformer based Encoder-Decoder Network, [[Paper]](https://arxiv.org/pdf/2110.12442.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -259,6 +260,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Infrared Small-Dim Target Detection with Transformer under Complex Backgrounds, [[Paper]](https://arxiv.org/pdf/2109.14379.pdf)
 - (arXiv 2021.10) IViDT: An Efficient and Effective Fully Transformer-based Object Detector, [[Paper]](https://arxiv.org/pdf/2110.03921.pdf),[[Code]](https://github.com/naver-ai/vidt)
 - (arXiv 2021.10) DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries, [[Paper]](https://arxiv.org/pdf/2110.06922.pdf),[[Code]](https://github.com/WangYueFt/detr3d)
+- (arXiv 2021.10) CvT-ASSD: Convolutional vision-Transformer Based Attentive Single Shot MultiBox Detector, [[Paper]](https://arxiv.org/pdf/2110.12364.pdf),[[Code]](https://github.com/albert-jin/CvT-ASSD)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -294,6 +296,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Styleformer: Transformer based Generative Adversarial Networks with Style Vector, [[Paper]](https://arxiv.org/pdf/2106.07023.pdf), [[Code]](https://github.com/Jeeseung-Park/Styleformer)
 - (arXiv 2021.07) ViTGAN: Training GANs with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.04589.pdf)
 - (arXiv 2021.10) Generating Symbolic Reasoning Problems with Transformer GANs, [[Paper]](https://arxiv.org/pdf/2110.10054.pdf)
+- (arXiv 2021.10) STransGAN: An Empirical Study on Transformer in GANs, [[Paper]](https://arxiv.org/pdf/2110.13107.pdf), [[Project]](https://nbei.github.io/stransgan.html)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
@@ -446,6 +449,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) A Transformer-based Math Language Model for Handwritten Math Expression Recognition, [[Paper]](https://arxiv.org/pdf/2108.05002.pdf)
 - (arXiv 2021.09) TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2109.10282.pdf), [[Code]](https://aka.ms/TrOCR)
 - (arXiv 2021.10) Robustness Evaluation of Transformer-based Form Field Extractors via Form Attacks, [[Paper]](https://arxiv.org/pdf/2110.04413.pdf), [[Code]](https://aka.ms/TrOCR)
+- (arXiv 2021.10) DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction, [[Paper]](https://arxiv.org/pdf/2110.12942.pdf)
 
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
@@ -504,6 +508,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) DPT: Deformable Patch-based Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.14467.pdf), [[Code]](https://github.com/CASIA-IVA-Lab/DPT)
 - (arXiv 2021.10) A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition, [[Paper]](https://arxiv.org/pdf/2110.01240.pdf)
 - (arXiv 2021.10) Transformer-based Dual Relation Graph for Multi-label Image Recognition, [[Paper]](https://arxiv.org/pdf/2110.04722.pdf), [[Code]](https://github.com/iCVTEAM/TDRG)
+- (arXiv 2021.10) MVT: Multi-view Vision Transformer for 3D Object Recognition, [[Paper]](https://arxiv.org/pdf/2110.13083.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
