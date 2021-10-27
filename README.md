@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/26
+**Last updated: 2021/10/27
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -45,6 +45,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Lightweight Transformer in Federated Setting for Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2110.00244.pdf)
 - (arXiv 2021.10) ASFormer: Transformer for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2110.08568.pdf), [[Code]](https://github.com/ChinaYi/ASFormer)
 - (arXiv 2021.10) Few-Shot Temporal Action Localization with Query Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2110.10552.pdf), [[Code]](https://github.com/sauradip/fewshotQAT)
+- (arXiv 2021.10) IIP-Transformer: Intra-Inter-Part Transformer for Skeleton-Based Action Recognition, [[Paper]](https://arxiv.org/pdf/2110.13385.pdf), [[Code]](https://github.com/qtwang0035/IIP-Transformer)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -424,6 +425,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2109.10504.pdf)
 - (arXiv 2021.10) Unifying Multimodal Transformer for Bi-directional Image and Text Generation, [[Paper]](https://arxiv.org/pdf/2110.09753.pdf), [[Code]](https://github.com/researchmm/generate-it)
 - (arXiv 2021.10) VLDeformer: Learning Visual-Semantic Embeddings by Vision-Language Transformer Decomposing, [[Paper]](https://arxiv.org/pdf/2110.11338.pdf)
+- (arXiv 2021.10) History Aware Multimodal Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2110.13309.pdf), [[Code]](https://cshizhe.github.io/projects/vln_hamt.html)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
