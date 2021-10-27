@@ -743,6 +743,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
 - (arXiv 2021.10) Accelerating Framework of Transformer by hardware Design and Model Compression Co-Optimization, [[Paper]](https://arxiv.org/pdf/2110.10030.pdf)
 - (arXiv 2021.10) Vis-TOP: Visual Transformer Overlay Processor, [[Paper]](https://arxiv.org/pdf/2110.10957.pdf)
+- (arXiv 2021.10) TNTC: two-stream network with transformer-based complementarity for gait-based emotion recognition, [[Paper]](https://arxiv.org/pdf/2110.13708.pdf)
 
 ## Contact & Feedback
 
