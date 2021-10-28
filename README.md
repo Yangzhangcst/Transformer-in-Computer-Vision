@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/27
+**Last updated: 2021/10/28
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -442,6 +442,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) MaAST: Map Attention with Semantic Transformers for Efficient Visual Navigation, [[Paper]](https://arxiv.org/pdf/2103.11374.pdf)
 - (arXiv 2021.04) Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation, [[Paper]](https://arxiv.org/pdf/2104.04167.pdf)
 - (arXiv 2021.05) Episodic Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2105.06453.pdf)
+- (arXiv 2021.10) SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2110.14143.pdf)
 
 ### OCR
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
@@ -676,6 +677,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2109.02974.pdf), [[Code]](https://github.com/ruiliu-ai/FuseFormer)
 - (arXiv 2021.09) Hierarchical Multimodal Transformer to Summarize Videos, [[Paper]](https://arxiv.org/pdf/2109.10559.pdf)
 - (arXiv 2021.10) Object-Region Video Transformers, [[Paper]](https://arxiv.org/pdf/2110.06915.pdf), [[Code]](https://roeiherz.github.io/ORViT/)
+- (arXiv 2021.10) Can't Fool Me: Adversarially Robust Transformer for Video Understanding, [[Paper]](https://arxiv.org/pdf/2110.13950.pdf), [[Code]](https://roeiherz.github.io/ORViT/)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
