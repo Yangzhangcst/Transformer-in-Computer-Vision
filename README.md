@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/28
+**Last updated: 2021/10/29
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -195,6 +195,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Understanding and Improving Robustness of Vision Transformers through Patch-based Negative Augmentation, [[Paper]](https://arxiv.org/pdf/2110.07858.pdf)
 - (arXiv 2021.10) Bilateral-ViT for Robust Fovea Localization, [[Paper]](https://arxiv.org/pdf/2110.09860.pdf)
 - (arXiv 2021.10) SOFT: Softmax-free Transformer with Linear Complexity, [[Paper]](https://arxiv.org/pdf/2110.11945.pdf), [[Code]](https://github.com/fudan-zvg/SOFT)
+- (arXiv 2021.10) Blending Anti-Aliasing into Vision Transformer, [[Paper]](https://arxiv.org/pdf/2110.15156.pdf), [[Code]](https://github.com/amazon-research/anti-aliasing-transformer)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -395,6 +396,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) CAE-Transformer: Transformer-based Model to Predict Invasiveness of Lung Adenocarcinoma Subsolid Nodules from Non-thin Section 3D CT Scans, [[Paper]](https://arxiv.org/pdf/2110.08721.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
 - (arXiv 2021.10) COVID-19 Detection in Chest X-ray Images Using Swin-Transformer and Transformer in Transformer, [[Paper]](https://arxiv.org/pdf/2110.08427.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
 - (arXiv 2021.10) AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2110.10403.pdf)
+- (arXiv 2021.10) Vision Transformer for Classification of Breast Ultrasound Images, [[Paper]](https://arxiv.org/pdf/2110.14731.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -426,6 +428,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Unifying Multimodal Transformer for Bi-directional Image and Text Generation, [[Paper]](https://arxiv.org/pdf/2110.09753.pdf), [[Code]](https://github.com/researchmm/generate-it)
 - (arXiv 2021.10) VLDeformer: Learning Visual-Semantic Embeddings by Vision-Language Transformer Decomposing, [[Paper]](https://arxiv.org/pdf/2110.11338.pdf)
 - (arXiv 2021.10) History Aware Multimodal Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2110.13309.pdf), [[Code]](https://cshizhe.github.io/projects/vln_hamt.html)
+- (arXiv 2021.10) Detecting Dementia from Speech and Transcripts using Transformers, [[Paper]](https://arxiv.org/pdf/2110.14769.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -630,6 +633,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) TrTr: Visual Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2105.03817.pdf), [[Code]](https://github.com/tongtybj/TrTr)
 - (arXiv 2021.08) HiFT: Hierarchical Feature Transformer for Aerial Tracking, [[Paper]](https://arxiv.org/pdf/2108.00202.pdf), [[Code]](https://github.com/vision4robotics/HiFT)
 - (arXiv 2021.10) Siamese Transformer Pyramid Networks for Real-Time UAV Tracking, [[Paper]](https://arxiv.org/pdf/2110.08822.pdf), [[Code]](https://github.com/RISCNYUAD/SiamTPNTracker)
+- (arXiv 2021.10) 3D Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2110.14921.pdf), [[Code]](https://github.com/3bobo/lttr)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
@@ -637,6 +641,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
 - (arXiv 2021.10) Investigating Transfer Learning Capabilities of Vision Transformers and CNNs by Fine-Tuning a Single Trainable Block, [[Paper]](https://arxiv.org/pdf/2110.05270.pdf)
+- (arXiv 2021.10) Dispensed Transformer Network for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2110.14944.pdf)
 
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
