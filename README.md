@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/10/29
+**Last updated: 2021/11/2
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -263,6 +263,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) IViDT: An Efficient and Effective Fully Transformer-based Object Detector, [[Paper]](https://arxiv.org/pdf/2110.03921.pdf),[[Code]](https://github.com/naver-ai/vidt)
 - (arXiv 2021.10) DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries, [[Paper]](https://arxiv.org/pdf/2110.06922.pdf),[[Code]](https://github.com/WangYueFt/detr3d)
 - (arXiv 2021.10) CvT-ASSD: Convolutional vision-Transformer Based Attentive Single Shot MultiBox Detector, [[Paper]](https://arxiv.org/pdf/2110.12364.pdf),[[Code]](https://github.com/albert-jin/CvT-ASSD)
+- (arXiv 2021.11) Cross-Modality Fusion Transformer for Multispectral Object Detection, [[Paper]](https://arxiv.org/pdf/2111.00273.pdf),[[Code]](https://github.com/DocF/multispectral-object-detection)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -429,6 +430,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) VLDeformer: Learning Visual-Semantic Embeddings by Vision-Language Transformer Decomposing, [[Paper]](https://arxiv.org/pdf/2110.11338.pdf)
 - (arXiv 2021.10) History Aware Multimodal Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2110.13309.pdf), [[Code]](https://cshizhe.github.io/projects/vln_hamt.html)
 - (arXiv 2021.10) Detecting Dementia from Speech and Transcripts using Transformers, [[Paper]](https://arxiv.org/pdf/2110.14769.pdf)
+- (arXiv 2021.11) MEmoBERT: Pre-training Model with Prompt-based Learning for Multimodal Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2111.00865.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -481,6 +483,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) PQ-Transformer: Jointly Parsing 3D Objects and Layouts from Point Clouds, [[Paper]](https://arxiv.org/pdf/2109.05566.pdf), [[Code]](https://github.com/OPEN-AIR-SUN/PQ-Transformer) 
 - (arXiv 2021.09) An End-to-End Transformer Model for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.08141.pdf)
 - (arXiv 2021.10) Spatial-Temporal Transformer for 3D Point Cloud Sequences, [[Paper]](https://arxiv.org/pdf/2110.09783.pdf)
+- (arXiv 2021.10) PatchFormer: A Versatile 3D Transformer Based on Patch Attention, [[Paper]](https://arxiv.org/pdf/2111.00207.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -635,6 +638,11 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Siamese Transformer Pyramid Networks for Real-Time UAV Tracking, [[Paper]](https://arxiv.org/pdf/2110.08822.pdf), [[Code]](https://github.com/RISCNYUAD/SiamTPNTracker)
 - (arXiv 2021.10) 3D Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2110.14921.pdf), [[Code]](https://github.com/3bobo/lttr)
 
+### Traffic
+- (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
+- (arXiv 2021.11) DetectorNet: Transformer-enhanced Spatial Temporal Graph Neural Network for Traffic Prediction, [[Paper]](https://arxiv.org/pdf/2111.00869.pdf)
+
+
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
 
@@ -683,6 +691,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Hierarchical Multimodal Transformer to Summarize Videos, [[Paper]](https://arxiv.org/pdf/2109.10559.pdf)
 - (arXiv 2021.10) Object-Region Video Transformers, [[Paper]](https://arxiv.org/pdf/2110.06915.pdf), [[Code]](https://roeiherz.github.io/ORViT/)
 - (arXiv 2021.10) Can't Fool Me: Adversarially Robust Transformer for Video Understanding, [[Paper]](https://arxiv.org/pdf/2110.13950.pdf), [[Code]](https://roeiherz.github.io/ORViT/)
+- (arXiv 2021.11) Livestock Monitoring with Transformer, [[Paper]](https://arxiv.org/pdf/2111.00801.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -714,7 +723,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/abs/2104.03135)
 - (arXiv 2021.04) Cloth Interactive Transformer for Virtual Try-On, [[Paper]](https://arxiv.org/abs/2104.05519), [[Code]](https://github.com/Amazingren/CIT)
 - (arXiv 2021.04) Fourier Image Transformer, [[Paper]](https://arxiv.org/pdf/2104.02555.pdf), [[Code]](3https://github.com/juglab/FourierImageTransformer)
-- (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
 - (arXiv 2021.05) Attention for Image Registration (AiR): an unsupervised Transformer approach, [[Paper]](https://arxiv.org/pdf/2105.02282.pdf)
 - (arXiv 2021.05) IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2105.08647.pdf)
 - (arXiv 2021.05) CogView: Mastering Text-to-Image Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2105.13290.pdf)
