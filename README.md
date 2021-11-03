@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/2
+**Last updated: 2021/11/3
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -196,6 +196,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Bilateral-ViT for Robust Fovea Localization, [[Paper]](https://arxiv.org/pdf/2110.09860.pdf)
 - (arXiv 2021.10) SOFT: Softmax-free Transformer with Linear Complexity, [[Paper]](https://arxiv.org/pdf/2110.11945.pdf), [[Code]](https://github.com/fudan-zvg/SOFT)
 - (arXiv 2021.10) Blending Anti-Aliasing into Vision Transformer, [[Paper]](https://arxiv.org/pdf/2110.15156.pdf), [[Code]](https://github.com/amazon-research/anti-aliasing-transformer)
+- (arXiv 2021.11) Can Vision Transformers Perform Convolution, [[Paper]](https://arxiv.org/pdf/2111.01353.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -398,6 +399,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) COVID-19 Detection in Chest X-ray Images Using Swin-Transformer and Transformer in Transformer, [[Paper]](https://arxiv.org/pdf/2110.08427.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
 - (arXiv 2021.10) AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2110.10403.pdf)
 - (arXiv 2021.10) Vision Transformer for Classification of Breast Ultrasound Images, [[Paper]](https://arxiv.org/pdf/2110.14731.pdf)
+- (arXiv 2021.11) Federated Split Vision Transformer for COVID-19CXR Diagnosis using Task-Agnostic Training, [[Paper]](https://arxiv.org/pdf/2111.01338.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -603,6 +605,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Evaluating Transformer based Semantic Segmentation Networks for Pathological Image Segmentation, [[Paper]](https://arxiv.org/pdf/2108.11993.pdf)
 - (arXiv 2021.08) Semantic Segmentation on VSPW Dataset through Aggregation of Transformer Models, [[Paper]](https://arxiv.org/pdf/2109.01316.pdf)
 - (arXiv 2021.09) Efficient Hybrid Transformer: Learning Global-local Context for Urban Sence Segmentation, [[Paper]](https://arxiv.org/pdf/2109.08937.pdf)
+- (arXiv 2021.11) HRViT: Multi-Scale High-Resolution Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.01236.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
