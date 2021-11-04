@@ -434,7 +434,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Detecting Dementia from Speech and Transcripts using Transformers, [[Paper]](https://arxiv.org/pdf/2110.14769.pdf)
 - (arXiv 2021.11) MEmoBERT: Pre-training Model with Prompt-based Learning for Multimodal Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2111.00865.pdf)
 - (arXiv 2021.11) VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts, [[Paper]](https://arxiv.org/pdf/2111.02358.pdf), [[Code]](https://github.com/microsoft/unilm/tree/master/vlmo)
-- (arXiv 2021.11) An Empirical Study of Training End-to-End Vision-and-Language Transformers, [[Paper]](https://arxiv.org/pdf/2111.02387.pdf)
+- (arXiv 2021.11) An Empirical Study of Training End-to-End Vision-and-Language Transformers, [[Paper]](https://arxiv.org/pdf/2111.02387.pdf), [[Code]](https://github.com/zdou0830/METER)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
