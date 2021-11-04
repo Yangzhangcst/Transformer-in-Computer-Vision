@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/3
+**Last updated: 2021/11/4
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -433,6 +433,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) History Aware Multimodal Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2110.13309.pdf), [[Code]](https://cshizhe.github.io/projects/vln_hamt.html)
 - (arXiv 2021.10) Detecting Dementia from Speech and Transcripts using Transformers, [[Paper]](https://arxiv.org/pdf/2110.14769.pdf)
 - (arXiv 2021.11) MEmoBERT: Pre-training Model with Prompt-based Learning for Multimodal Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2111.00865.pdf)
+- (arXiv 2021.11) VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts, [[Paper]](https://arxiv.org/pdf/2111.02358.pdf), [[Code]](https://github.com/microsoft/unilm/tree/master/vlmo)
+- (arXiv 2021.11) An Empirical Study of Training End-to-End Vision-and-Language Transformers, [[Paper]](https://arxiv.org/pdf/2111.02387.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
