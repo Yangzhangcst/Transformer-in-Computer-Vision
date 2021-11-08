@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/4
+**Last updated: 2021/11/8
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -400,6 +400,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2110.10403.pdf)
 - (arXiv 2021.10) Vision Transformer for Classification of Breast Ultrasound Images, [[Paper]](https://arxiv.org/pdf/2110.14731.pdf)
 - (arXiv 2021.11) Federated Split Vision Transformer for COVID-19CXR Diagnosis using Task-Agnostic Training, [[Paper]](https://arxiv.org/pdf/2111.01338.pdf)
+- (arXiv 2021.11) Hepatic vessel segmentation based on 3D swin-transformer with inductive biased multi-head self-attention, [[Paper]](https://arxiv.org/pdf/2111.03368.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -626,6 +627,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) High-Resolution Complex Scene Synthesis with Transformers, [[Paper]](https://arxiv.org/pdf/2105.06458.pdf)
 - (arXiv 2021.06) The Image Local Autoregressive Transformer, [[Paper]](https://arxiv.org/pdf/2106.02514.pdf)
 - (arXiv 2021.10) ATISS: Autoregressive Transformers for Indoor Scene Synthesis, [[Paper]](https://arxiv.org/pdf/2110.03675.pdf), [[Project]](https://nv-tlabs.github.io/ATISS/)
+- (arXiv 2021.11) Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/pdf/2111.03481.pdf)
 
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
@@ -646,7 +648,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
 - (arXiv 2021.11) DetectorNet: Transformer-enhanced Spatial Temporal Graph Neural Network for Traffic Prediction, [[Paper]](https://arxiv.org/pdf/2111.00869.pdf)
-
+- (arXiv 2021.11) ProSTformer: Pre-trained Progressive Space-Time Self-attention Model for Traffic Flow Forecasting, [[Paper]](https://arxiv.org/pdf/2111.03459.pdf)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
