@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/8
+**Last updated: 2021/11/10
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -197,6 +197,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) SOFT: Softmax-free Transformer with Linear Complexity, [[Paper]](https://arxiv.org/pdf/2110.11945.pdf), [[Code]](https://github.com/fudan-zvg/SOFT)
 - (arXiv 2021.10) Blending Anti-Aliasing into Vision Transformer, [[Paper]](https://arxiv.org/pdf/2110.15156.pdf), [[Code]](https://github.com/amazon-research/anti-aliasing-transformer)
 - (arXiv 2021.11) Can Vision Transformers Perform Convolution, [[Paper]](https://arxiv.org/pdf/2111.01353.pdf)
+- (arXiv 2021.11) Sliced Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2111.05297.pdf), [[Code]](https://github.com/szq0214/SReT)
+- (arXiv 2021.11) Hybrid BYOL-ViT: Efficient approach to deal with small Datasets, [[Paper]](https://arxiv.org/pdf/2111.04845.pdf), [[Code]](https://github.com/szq0214/SReT)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -401,6 +403,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Vision Transformer for Classification of Breast Ultrasound Images, [[Paper]](https://arxiv.org/pdf/2110.14731.pdf)
 - (arXiv 2021.11) Federated Split Vision Transformer for COVID-19CXR Diagnosis using Task-Agnostic Training, [[Paper]](https://arxiv.org/pdf/2111.01338.pdf)
 - (arXiv 2021.11) Hepatic vessel segmentation based on 3D swin-transformer with inductive biased multi-head self-attention, [[Paper]](https://arxiv.org/pdf/2111.03368.pdf)
+- (arXiv 2021.11) Lymph Node Detection in T2 MRI with Transformers, [[Paper]](https://arxiv.org/pdf/2111.04885.pdf)
+- (arXiv 2021.11) Mixed Transformer U-Net For Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2111.04734.pdf), [[Code]](https://github.com/Dootmaan/MT-UNet)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
