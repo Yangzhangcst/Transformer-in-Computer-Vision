@@ -198,7 +198,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Blending Anti-Aliasing into Vision Transformer, [[Paper]](https://arxiv.org/pdf/2110.15156.pdf), [[Code]](https://github.com/amazon-research/anti-aliasing-transformer)
 - (arXiv 2021.11) Can Vision Transformers Perform Convolution, [[Paper]](https://arxiv.org/pdf/2111.01353.pdf)
 - (arXiv 2021.11) Sliced Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2111.05297.pdf), [[Code]](https://github.com/szq0214/SReT)
-- (arXiv 2021.11) Hybrid BYOL-ViT: Efficient approach to deal with small Datasets, [[Paper]](https://arxiv.org/pdf/2111.04845.pdf), [[Code]](https://github.com/szq0214/SReT)
+- (arXiv 2021.11) Hybrid BYOL-ViT: Efficient approach to deal with small Datasets, [[Paper]](https://arxiv.org/pdf/2111.04845.pdf)
+- (arXiv 2021.11) Are Transformers More Robust Than CNNs, [[Paper]](https://arxiv.org/pdf/2111.05464.pdf), [[Code]](https://github.com/ytongbai/ViTs-vs-CNNs)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -441,6 +442,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts, [[Paper]](https://arxiv.org/pdf/2111.02358.pdf), [[Code]](https://github.com/microsoft/unilm/tree/master/vlmo)
 - (arXiv 2021.11) An Empirical Study of Training End-to-End Vision-and-Language Transformers, [[Paper]](https://arxiv.org/pdf/2111.02387.pdf), [[Code]](https://github.com/zdou0830/METER)
 - (arXiv 2021.11) Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2111.05759.pdf)
+- (arXiv 2021.11) CLIP2TV: An Empirical Study on Transformer-based Methods for Video-Text Retrieval, [[Paper]](https://arxiv.org/pdf/2111.05610.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -704,7 +706,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Object-Region Video Transformers, [[Paper]](https://arxiv.org/pdf/2110.06915.pdf), [[Code]](https://roeiherz.github.io/ORViT/)
 - (arXiv 2021.10) Can't Fool Me: Adversarially Robust Transformer for Video Understanding, [[Paper]](https://arxiv.org/pdf/2110.13950.pdf), [[Code]](https://roeiherz.github.io/ORViT/)
 - (arXiv 2021.11) Livestock Monitoring with Transformer, [[Paper]](https://arxiv.org/pdf/2111.00801.pdf)
-- (arXiv 2021.11) Sparse Adversarial Video Attacks with Spatial Transformations, [[Paper]](https://arxiv.org/pdf/2111.05468.pdf)
+- (arXiv 2021.11) Sparse Adversarial Video Attacks with Spatial Transformations, [[Paper]](https://arxiv.org/pdf/2111.05468.pdf), [[Code]](https://github.com/TrustAI/DeepSAVA)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
