@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/11
+**Last updated: 2021/11/12
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -13,6 +13,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2021/October* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
+- (arXiv 2021.11) A Survey of Visual Transformers. [[Paper]](https://arxiv.org/pdf/2111.06091.pdf)
+
 - (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training. [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
 
 - (arXiv 2021.03) Multi-modal Motion Prediction with Stacked Transformers. [[Paper]](https://arxiv.org/pdf/2103.11624.pdf), [[Code]](https://github.com/decisionforce/mmTransformer)
@@ -443,6 +445,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) An Empirical Study of Training End-to-End Vision-and-Language Transformers, [[Paper]](https://arxiv.org/pdf/2111.02387.pdf), [[Code]](https://github.com/zdou0830/METER)
 - (arXiv 2021.11) Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2111.05759.pdf)
 - (arXiv 2021.11) CLIP2TV: An Empirical Study on Transformer-based Methods for Video-Text Retrieval, [[Paper]](https://arxiv.org/pdf/2111.05610.pdf)
+- (arXiv 2021.11) Graph Relation Transformer: Incorporating pairwise object features into the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2111.06075.pdf), [[Code1]](https://github.com/michaelzyang/graph-relation-m4c), [[Code2]](https://github.com/derikclive/transformers)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
