@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/12
+**Last updated: 2021/11/15
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -205,7 +205,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
-- (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2104.00845.pdf), [[Code]](https://github.com/lyndonzheng/TFill)
+- (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2111.06707.pdf), [[Code]](https://github.com/lyndonzheng/TFill)
+
+### Compression
+- (arXiv 2021.11) Transformer-based Image Compression, [[Paper]](https://arxiv.org/pdf/2104.00845.pdf)
 
 ### Crowd Counting
 - (arXiv 2021.04) TransCrowd: Weakly-Supervised Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2104.09116.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
@@ -777,6 +780,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Accelerating Framework of Transformer by hardware Design and Model Compression Co-Optimization, [[Paper]](https://arxiv.org/pdf/2110.10030.pdf)
 - (arXiv 2021.10) Vis-TOP: Visual Transformer Overlay Processor, [[Paper]](https://arxiv.org/pdf/2110.10957.pdf)
 - (arXiv 2021.10) TNTC: two-stream network with transformer-based complementarity for gait-based emotion recognition, [[Paper]](https://arxiv.org/pdf/2110.13708.pdf)
+- (arXiv 2021.11) The self-supervised channel-spatial attention-based transformer network for automated, accurate prediction of crop nitrogen status from UAV imagery, [[Paper]](https://arxiv.org/pdf/2111.06839.pdf)
 
 ## Contact & Feedback
 
