@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/15
+**Last updated: 2021/11/16
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -202,6 +202,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Sliced Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2111.05297.pdf), [[Code]](https://github.com/szq0214/SReT)
 - (arXiv 2021.11) Hybrid BYOL-ViT: Efficient approach to deal with small Datasets, [[Paper]](https://arxiv.org/pdf/2111.04845.pdf)
 - (arXiv 2021.11) Are Transformers More Robust Than CNNs, [[Paper]](https://arxiv.org/pdf/2111.05464.pdf), [[Code]](https://github.com/ytongbai/ViTs-vs-CNNs)
+- (arXiv 2021.11) iBOT: Image BERT Pre-Training with Online Tokenizer, [[Paper]](https://arxiv.org/pdf/2111.07832.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -292,6 +293,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Expression Snippet Transformer for Robust Video-based Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2109.08409.pdf),[[Code]](https://anonymous.4open.science/r/ATSE-C58B)
 - (arXiv 2021.09) Sparse Spatial Transformers for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2109.10057.pdf),[[Code]](https://github.com/chenhaoxing/SSFormers)
 - (arXiv 2021.09) MFEViT: A Robust Lightweight Transformer-based Network for Multimodal 2D+3D Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2109.13086.pdf)
+- (arXiv 2021.11) FakeTransformer: Exposing Face Forgery From Spatial-Temporal Representation Modeled By Facial Pixel Variations, [[Paper]](https://arxiv.org/pdf/2111.07601.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -324,6 +326,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
 - (arXiv 2021.10) 3D-ANAS v2: Grafting Transformer Module on Automatically Designed ConvNet for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2110.11084.pdf), [[Code]](https://github.com/xmm/3D-ANAS-V2)
+- (arXiv 2021.11) Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.07910.pdf)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -411,6 +414,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Hepatic vessel segmentation based on 3D swin-transformer with inductive biased multi-head self-attention, [[Paper]](https://arxiv.org/pdf/2111.03368.pdf)
 - (arXiv 2021.11) Lymph Node Detection in T2 MRI with Transformers, [[Paper]](https://arxiv.org/pdf/2111.04885.pdf)
 - (arXiv 2021.11) Mixed Transformer U-Net For Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2111.04734.pdf), [[Code]](https://github.com/Dootmaan/MT-UNet)
+- (arXiv 2021.11) Transformer for Polyp Detection, [[Paper]](https://arxiv.org/pdf/2111.07918.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
