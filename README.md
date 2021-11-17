@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/16
+**Last updated: 2021/11/17
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -203,6 +203,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Hybrid BYOL-ViT: Efficient approach to deal with small Datasets, [[Paper]](https://arxiv.org/pdf/2111.04845.pdf)
 - (arXiv 2021.11) Are Transformers More Robust Than CNNs, [[Paper]](https://arxiv.org/pdf/2111.05464.pdf), [[Code]](https://github.com/ytongbai/ViTs-vs-CNNs)
 - (arXiv 2021.11) iBOT: Image BERT Pre-Training with Online Tokenizer, [[Paper]](https://arxiv.org/pdf/2111.07832.pdf)
+- (arXiv 2021.11) Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding, [[Paper]](https://arxiv.org/pdf/2111.08413.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -785,6 +786,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Vis-TOP: Visual Transformer Overlay Processor, [[Paper]](https://arxiv.org/pdf/2110.10957.pdf)
 - (arXiv 2021.10) TNTC: two-stream network with transformer-based complementarity for gait-based emotion recognition, [[Paper]](https://arxiv.org/pdf/2110.13708.pdf)
 - (arXiv 2021.11) The self-supervised channel-spatial attention-based transformer network for automated, accurate prediction of crop nitrogen status from UAV imagery, [[Paper]](https://arxiv.org/pdf/2111.06839.pdf)
+- (arXiv 2021.11) TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance, [[Paper]](https://arxiv.org/pdf/2111.08314.pdf)
+
 
 ## Contact & Feedback
 
