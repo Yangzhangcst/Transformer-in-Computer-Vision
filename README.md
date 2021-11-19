@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/18
+**Last updated: 2021/11/19
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -48,6 +48,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) ASFormer: Transformer for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2110.08568.pdf), [[Code]](https://github.com/ChinaYi/ASFormer)
 - (arXiv 2021.10) Few-Shot Temporal Action Localization with Query Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2110.10552.pdf), [[Code]](https://github.com/sauradip/fewshotQAT)
 - (arXiv 2021.10) IIP-Transformer: Intra-Inter-Part Transformer for Skeleton-Based Action Recognition, [[Paper]](https://arxiv.org/pdf/2110.13385.pdf), [[Code]](https://github.com/qtwang0035/IIP-Transformer)
+- (arXiv 2021.11) Evaluating Transformers for Lightweight Action Recognition, [[Paper]](https://arxiv.org/pdf/2111.09641.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -204,6 +205,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Are Transformers More Robust Than CNNs, [[Paper]](https://arxiv.org/pdf/2111.05464.pdf), [[Code]](https://github.com/ytongbai/ViTs-vs-CNNs)
 - (arXiv 2021.11) iBOT: Image BERT Pre-Training with Online Tokenizer, [[Paper]](https://arxiv.org/pdf/2111.07832.pdf)
 - (arXiv 2021.11) Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding, [[Paper]](https://arxiv.org/pdf/2111.08413.pdf)
+- (arXiv 2021.11) TransMix: Attend to Mix for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.09833.pdf), [[Code]](https://github.com/Beckschen/TransMix)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -540,7 +542,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) DPT: Deformable Patch-based Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.14467.pdf), [[Code]](https://github.com/CASIA-IVA-Lab/DPT)
 - (arXiv 2021.10) A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition, [[Paper]](https://arxiv.org/pdf/2110.01240.pdf)
 - (arXiv 2021.10) Transformer-based Dual Relation Graph for Multi-label Image Recognition, [[Paper]](https://arxiv.org/pdf/2110.04722.pdf), [[Code]](https://github.com/iCVTEAM/TDRG)
-- (arXiv 2021.10) MVT: Multi-view Vision Transformer for 3D Object Recognition, [[Paper]](https://arxiv.org/pdf/2110.13083.pdf)
+- (arXiv 2021.10) MVT: Multi-view Vision Transformer for 3D Object Recognition, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -548,6 +550,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) LegoFormer: Transformers for Block-by-Block Multi-view 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2106.12102.pdf)
 - (arXiv 2021.07) TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, [[Paper]](https://arxiv.org/pdf/2107.08192.pdf)
 - (arXiv 2021.10) 3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2110.08861.pdf), [[Code]](https://github.com/FomalhautB/3D-RETR)
+- (arXiv 2021.11) Reference-based Magnetic Resonance Image Reconstruction Using Texture Transformer, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -567,6 +570,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
 - (arXiv 2021.08) SwinIR: Image Restoration Using Swin Transformer, [[Paper]](https://arxiv.org/pdf/2108.10257.pdf), [[Code]](https://github.com/JingyunLiang/SwinIR)
+- (arXiv 2021.11) Restormer: Efficient Transformer for High-Resolution Image Restoration, [[Paper]](https://arxiv.org/pdf/2111.09881.pdf), [[Code]](https://github.com/swz30/Restormer)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
@@ -628,6 +632,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Semantic Segmentation on VSPW Dataset through Aggregation of Transformer Models, [[Paper]](https://arxiv.org/pdf/2109.01316.pdf)
 - (arXiv 2021.09) Efficient Hybrid Transformer: Learning Global-local Context for Urban Sence Segmentation, [[Paper]](https://arxiv.org/pdf/2109.08937.pdf)
 - (arXiv 2021.11) HRViT: Multi-Scale High-Resolution Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.01236.pdf)
+- (arXiv 2021.11) Dynamically pruning segformer for efficient semantic segmentation, [[Paper]](https://arxiv.org/pdf/2111.09499.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
