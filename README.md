@@ -206,6 +206,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) iBOT: Image BERT Pre-Training with Online Tokenizer, [[Paper]](https://arxiv.org/pdf/2111.07832.pdf)
 - (arXiv 2021.11) Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding, [[Paper]](https://arxiv.org/pdf/2111.08413.pdf)
 - (arXiv 2021.11) TransMix: Attend to Mix for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.09833.pdf), [[Code]](https://github.com/Beckschen/TransMix)
+- (arXiv 2021.11) Swin Transformer V2: Scaling Up Capacity and Resolution, [[Paper]](https://arxiv.org/pdf/2111.09883.pdf), [[Code]](https://github.com/microsoft/Swin-Transformer)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
