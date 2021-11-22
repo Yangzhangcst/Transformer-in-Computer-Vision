@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/19
+**Last updated: 2021/11/22
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -457,6 +457,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2111.05759.pdf)
 - (arXiv 2021.11) CLIP2TV: An Empirical Study on Transformer-based Methods for Video-Text Retrieval, [[Paper]](https://arxiv.org/pdf/2111.05610.pdf)
 - (arXiv 2021.11) Graph Relation Transformer: Incorporating pairwise object features into the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2111.06075.pdf), [[Code1]](https://github.com/michaelzyang/graph-relation-m4c), [[Code2]](https://github.com/derikclive/transformers)
+- (arXiv 2021.11) UFO: A UniFied TransfOrmer for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2111.10023.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -794,7 +795,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) TNTC: two-stream network with transformer-based complementarity for gait-based emotion recognition, [[Paper]](https://arxiv.org/pdf/2110.13708.pdf)
 - (arXiv 2021.11) The self-supervised channel-spatial attention-based transformer network for automated, accurate prediction of crop nitrogen status from UAV imagery, [[Paper]](https://arxiv.org/pdf/2111.06839.pdf)
 - (arXiv 2021.11) TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance, [[Paper]](https://arxiv.org/pdf/2111.08314.pdf)
-
+- (arXiv 2021.11) TRIG: Grounded Situation Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf), [[Code]](https://github.com/jhcho99/gsrtr)
 
 ## Contact & Feedback
 
