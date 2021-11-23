@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/22
+**Last updated: 2021/11/23
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -207,6 +207,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Improved Robustness of Vision Transformer via PreLayerNorm in Patch Embedding, [[Paper]](https://arxiv.org/pdf/2111.08413.pdf)
 - (arXiv 2021.11) TransMix: Attend to Mix for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.09833.pdf), [[Code]](https://github.com/Beckschen/TransMix)
 - (arXiv 2021.11) Swin Transformer V2: Scaling Up Capacity and Resolution, [[Paper]](https://arxiv.org/pdf/2111.09883.pdf), [[Code]](https://github.com/microsoft/Swin-Transformer)
+- (arXiv 2021.11) Are Vision Transformers Robust to Patch Perturbations, [[Paper]](https://arxiv.org/pdf/2111.10659.pdf)
+- (arXiv 2021.11) Discrete Representations Strengthen Vision Transformer Robustness, [[Paper]](https://arxiv.org/pdf/2111.10493.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
