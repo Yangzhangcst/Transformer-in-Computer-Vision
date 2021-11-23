@@ -209,6 +209,11 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Swin Transformer V2: Scaling Up Capacity and Resolution, [[Paper]](https://arxiv.org/pdf/2111.09883.pdf), [[Code]](https://github.com/microsoft/Swin-Transformer)
 - (arXiv 2021.11) Are Vision Transformers Robust to Patch Perturbations, [[Paper]](https://arxiv.org/pdf/2111.10659.pdf)
 - (arXiv 2021.11) Discrete Representations Strengthen Vision Transformer Robustness, [[Paper]](https://arxiv.org/pdf/2111.10493.pdf)
+- (arXiv 2021.11) Zero-Shot Certified Defense against Adversarial Patches with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.10481.pdf)
+- (arXiv 2021.11) MetaFormer is Actually What You Need for Vision, [[Paper]](https://arxiv.org/pdf/2111.11418.pdf), [[Code]](https://github.com/sail-sg/poolformer)
+- (arXiv 2021.11) DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion, [[Paper]](https://arxiv.org/pdf/2111.11326.pdf), [[Code]](https://github.com/arthurdouillard/dytox)
+- (arXiv 2021.11) Mesa: A Memory-saving Training Framework for Transformers, [[Paper]](https://arxiv.org/pdf/2111.11124.pdf), [[Code]](https://github.com/zhuang-group/Mesa)
+- (arXiv 2021.11) Semi-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.11067.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -280,6 +285,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries, [[Paper]](https://arxiv.org/pdf/2110.06922.pdf),[[Code]](https://github.com/WangYueFt/detr3d)
 - (arXiv 2021.10) CvT-ASSD: Convolutional vision-Transformer Based Attentive Single Shot MultiBox Detector, [[Paper]](https://arxiv.org/pdf/2110.12364.pdf),[[Code]](https://github.com/albert-jin/CvT-ASSD)
 - (arXiv 2021.11) Cross-Modality Fusion Transformer for Multispectral Object Detection, [[Paper]](https://arxiv.org/pdf/2111.00273.pdf),[[Code]](https://github.com/DocF/multispectral-object-detection)
+- (arXiv 2021.11) Benchmarking Detection Transfer Learning with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.11429.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -421,6 +427,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Lymph Node Detection in T2 MRI with Transformers, [[Paper]](https://arxiv.org/pdf/2111.04885.pdf)
 - (arXiv 2021.11) Mixed Transformer U-Net For Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2111.04734.pdf), [[Code]](https://github.com/Dootmaan/MT-UNet)
 - (arXiv 2021.11) Transformer for Polyp Detection, [[Paper]](https://arxiv.org/pdf/2111.07918.pdf)
+- (arXiv 2021.11) DuDoTrans: Dual-Domain Transformer Provides More Attention for Sinogram Restoration in Sparse-View CT Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.10790.pdf), [[Code]](https://github.com/DuDoTrans/CODE)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -460,6 +467,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) CLIP2TV: An Empirical Study on Transformer-based Methods for Video-Text Retrieval, [[Paper]](https://arxiv.org/pdf/2111.05610.pdf)
 - (arXiv 2021.11) Graph Relation Transformer: Incorporating pairwise object features into the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2111.06075.pdf), [[Code1]](https://github.com/michaelzyang/graph-relation-m4c), [[Code2]](https://github.com/derikclive/transformers)
 - (arXiv 2021.11) UFO: A UniFied TransfOrmer for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2111.10023.pdf)
+- (arXiv 2021.11) Multi-modal Transformers Excel at Class-agnostic Object Detection, [[Paper]](https://arxiv.org/pdf/2111.11430.pdf), [[Code]](https://git.io/J1HPY)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -513,6 +521,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) An End-to-End Transformer Model for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.08141.pdf)
 - (arXiv 2021.10) Spatial-Temporal Transformer for 3D Point Cloud Sequences, [[Paper]](https://arxiv.org/pdf/2110.09783.pdf)
 - (arXiv 2021.10) PatchFormer: A Versatile 3D Transformer Based on Patch Attention, [[Paper]](https://arxiv.org/pdf/2111.00207.pdf)
+- (arXiv 2021.11) CpT: Convolutional Point Transformer for 3D Point Cloud Processing, [[Paper]](https://arxiv.org/pdf/2111.10866.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
