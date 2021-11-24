@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/23
+**Last updated: 2021/11/24
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -435,6 +435,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Multimodal Motion Prediction with Stacked Transformers, [[Paper]](https://arxiv.org/pdf/2103.11624.pdf), [[Code]](https://github.com/decisionforce/mmTransformer)
 - (arXiv 2021.04) Action-Conditioned 3D Human Motion Synthesis with Transformer VAE, [[Paper]](https://arxiv.org/abs/2104.05670)
 - (arXiv 2021.10) AniFormer: Data-driven 3D Animation with Transformer, [[Paper]](https://arxiv.org/pdf/2110.10533.pdf), [[Code]](https://github.com/mikecheninoulu/AniFormer)
+- (arXiv 2021.11) Multi-Person 3D Motion Prediction with Multi-Range Transformers, [[Paper]](https://arxiv.org/pdf/2111.12073.pdf), [[Code]](https://jiashunwang.github.io/MRT/)
 
 ### Multi-task/modal
 - (arXiv 2021.02) Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxiv.org/abs/2102.10772), [[Code]](https://mmf.sh/)
@@ -468,6 +469,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Graph Relation Transformer: Incorporating pairwise object features into the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2111.06075.pdf), [[Code1]](https://github.com/michaelzyang/graph-relation-m4c), [[Code2]](https://github.com/derikclive/transformers)
 - (arXiv 2021.11) UFO: A UniFied TransfOrmer for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2111.10023.pdf)
 - (arXiv 2021.11) Multi-modal Transformers Excel at Class-agnostic Object Detection, [[Paper]](https://arxiv.org/pdf/2111.11430.pdf), [[Code]](https://git.io/J1HPY)
+- (arXiv 2021.11) Sparse Fusion for Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2111.11992.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -579,6 +581,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Pose-guided Inter- and Intra-part Relational Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2109.03483.pdf)
 - (arXiv 2021.09) OH-Former: Omni-Relational High-Order Transformer for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2109.11159.pdf)
 - (arXiv 2021.10) CMTR: Cross-modality Transformer for Visible-infrared Person Re-identification, [[Paper]](https://arxiv.org/pdf/2110.08994.pdf)
+- (arXiv 2021.11) Self-Supervised Pre-Training for Transformer-Based Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2111.12084.pdf), [[Code]](https://github.com/michuanhaohao/TransReID-SSL)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -737,6 +740,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Can't Fool Me: Adversarially Robust Transformer for Video Understanding, [[Paper]](https://arxiv.org/pdf/2110.13950.pdf), [[Code]](https://roeiherz.github.io/ORViT/)
 - (arXiv 2021.11) Livestock Monitoring with Transformer, [[Paper]](https://arxiv.org/pdf/2111.00801.pdf)
 - (arXiv 2021.11) Sparse Adversarial Video Attacks with Spatial Transformations, [[Paper]](https://arxiv.org/pdf/2111.05468.pdf), [[Code]](https://github.com/TrustAI/DeepSAVA)
+- (arXiv 2021.11) PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer, [[Paper]](https://arxiv.org/pdf/2111.12082.pdf), [[Code]](https://github.com/ZitongYu/PhysFormer)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
