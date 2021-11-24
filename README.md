@@ -214,6 +214,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) DyTox: Transformers for Continual Learning with DYnamic TOken eXpansion, [[Paper]](https://arxiv.org/pdf/2111.11326.pdf), [[Code]](https://github.com/arthurdouillard/dytox)
 - (arXiv 2021.11) Mesa: A Memory-saving Training Framework for Transformers, [[Paper]](https://arxiv.org/pdf/2111.11124.pdf), [[Code]](https://github.com/zhuang-group/Mesa)
 - (arXiv 2021.11) Semi-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.11067.pdf)
+- (arXiv 2021.11) DBIA: Data-free Backdoor Injection Attack against Transformer Networks, [[Paper]](https://arxiv.org/pdf/2111.11870.pdf), [[Code]](https://anonymous.4open.science/r/DBIA-825D)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -741,6 +742,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Livestock Monitoring with Transformer, [[Paper]](https://arxiv.org/pdf/2111.00801.pdf)
 - (arXiv 2021.11) Sparse Adversarial Video Attacks with Spatial Transformations, [[Paper]](https://arxiv.org/pdf/2111.05468.pdf), [[Code]](https://github.com/TrustAI/DeepSAVA)
 - (arXiv 2021.11) PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer, [[Paper]](https://arxiv.org/pdf/2111.12082.pdf), [[Code]](https://github.com/ZitongYu/PhysFormer)
+- (arXiv 2021.11) Efficient Video Transformers with Spatial-Temporal Token Selection, [[Paper]](https://arxiv.org/pdf/2111.11591.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -810,7 +812,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) TNTC: two-stream network with transformer-based complementarity for gait-based emotion recognition, [[Paper]](https://arxiv.org/pdf/2110.13708.pdf)
 - (arXiv 2021.11) The self-supervised channel-spatial attention-based transformer network for automated, accurate prediction of crop nitrogen status from UAV imagery, [[Paper]](https://arxiv.org/pdf/2111.06839.pdf)
 - (arXiv 2021.11) TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance, [[Paper]](https://arxiv.org/pdf/2111.08314.pdf)
-- (arXiv 2021.11) TRIG: Grounded Situation Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf), [[Code]](https://github.com/jhcho99/gsrtr)
+- (arXiv 2021.11) Grounded Situation Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf), [[Code]](https://github.com/jhcho99/gsrtr)
+- (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
+- (arXiv 2021.11) Ice hockey player identification via transformers, [[Paper]](https://arxiv.org/pdf/2111.11535.pdf)
 
 ## Contact & Feedback
 
