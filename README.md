@@ -154,7 +154,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) IA-RED2: Interpretability-Aware Redundancy Reduction for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.12620.pdf), [[Project]](http://people.csail.mit.edu/bpan/ia-red/)
 - (arXiv 2021.06) PVTv2: Improved Baselines with Pyramid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.13797.pdf), [[Code]](https://github.com/whai362/PVT)
 - (arXiv 2021.06) Early Convolutions Help Transformers See Better, [[Paper]](https://arxiv.org/pdf/2106.14881.pdf)
-- (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
 - (arXiv 2021.06) Multi-Exit Vision Transformer for Dynamic Inference, [[Paper]](https://arxiv.org/pdf/2106.15183.pdf)
 - (arXiv 2021.07) Augmented Shortcuts for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.15941.pdf)
 - (arXiv 2021.07) Improving the Efficiency of Transformers for Resource-Constrained Devices, [[Paper]](https://arxiv.org/pdf/2106.16006.pdf)
@@ -215,6 +214,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Mesa: A Memory-saving Training Framework for Transformers, [[Paper]](https://arxiv.org/pdf/2111.11124.pdf), [[Code]](https://github.com/zhuang-group/Mesa)
 - (arXiv 2021.11) Semi-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.11067.pdf)
 - (arXiv 2021.11) DBIA: Data-free Backdoor Injection Attack against Transformer Networks, [[Paper]](https://arxiv.org/pdf/2111.11870.pdf), [[Code]](https://anonymous.4open.science/r/DBIA-825D)
+- (arXiv 2021.11) Self-slimmed Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.12624.pdf)
+- (arXiv 2021.11) PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.12710.pdf), [[Code]](https://github.com/microsoft/PeCo)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -471,6 +472,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) UFO: A UniFied TransfOrmer for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2111.10023.pdf)
 - (arXiv 2021.11) Multi-modal Transformers Excel at Class-agnostic Object Detection, [[Paper]](https://arxiv.org/pdf/2111.11430.pdf), [[Code]](https://git.io/J1HPY)
 - (arXiv 2021.11) Sparse Fusion for Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2111.11992.pdf)
+- (arXiv 2021.11)VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling, [[Paper]](https://arxiv.org/pdf/2111.12681.pdf), [[Code]](https://github.com/tsujuifu/pytorch_violet)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -525,6 +527,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Spatial-Temporal Transformer for 3D Point Cloud Sequences, [[Paper]](https://arxiv.org/pdf/2110.09783.pdf)
 - (arXiv 2021.10) PatchFormer: A Versatile 3D Transformer Based on Patch Attention, [[Paper]](https://arxiv.org/pdf/2111.00207.pdf)
 - (arXiv 2021.11) CpT: Convolutional Point Transformer for 3D Point Cloud Processing, [[Paper]](https://arxiv.org/pdf/2111.10866.pdf)
+- (arXiv 2021.11) PU-Transformer: Point Cloud Upsampling Transformer, [[Paper]](https://arxiv.org/pdf/2111.12242.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -545,12 +548,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Adaptively Multi-view and Temporal Fusing Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2110.05092.pdf), [[Code]](https://github.com/lelexx/MTF-Transformer) 
 - (arXiv 2021.10) HRFormer: High-Resolution Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2110.09408.pdf), [[Code]](https://github.com/HRNet/HRFormer) 
 - (arXiv 2021.10) TransFusion: Cross-view Fusion with Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2110.09554.pdf), [[Code]](https://github.com/HowieMa/TransFusion-Pose) 
+- (arXiv 2021.11) MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2111.12707.pdf), [[Code]](https://github.com/Vegetebird/MHFormer) 
+- (arXiv 2021.11) A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose, [[Paper]](https://arxiv.org/pdf/2111.12696.pdf)
 
-### Pruning
+### Pruning & Quantization
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
-
-### Quantization
-- (arXiv 2021.11) PTQ4ViT: Post-Training Quantization Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf), [[Code]](https://github.com/hahnyuan/PTQ4ViT)
+- (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
+- (arXiv 2021.11) PTQ4ViT: Post-Training Quantization Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.12293.pdf), [[Code]](https://github.com/hahnyuan/PTQ4ViT)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -653,6 +657,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Efficient Hybrid Transformer: Learning Global-local Context for Urban Sence Segmentation, [[Paper]](https://arxiv.org/pdf/2109.08937.pdf)
 - (arXiv 2021.11) HRViT: Multi-Scale High-Resolution Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.01236.pdf)
 - (arXiv 2021.11) Dynamically pruning segformer for efficient semantic segmentation, [[Paper]](https://arxiv.org/pdf/2111.09499.pdf)
+- (arXiv 2021.11) APANet: Adaptive Prototypes Alignment Network for Few-Shot Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2111.12263.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -818,6 +823,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Grounded Situation Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf), [[Code]](https://github.com/jhcho99/gsrtr)
 - (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
 - (arXiv 2021.11) Ice hockey player identification via transformers, [[Paper]](https://arxiv.org/pdf/2111.11535.pdf)
+- (arXiv 2021.11) Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes, [[Paper]](https://arxiv.org/pdf/2111.12701.pdf)
 
 ## Contact & Feedback
 
