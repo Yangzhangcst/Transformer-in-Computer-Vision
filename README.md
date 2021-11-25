@@ -472,7 +472,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) UFO: A UniFied TransfOrmer for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2111.10023.pdf)
 - (arXiv 2021.11) Multi-modal Transformers Excel at Class-agnostic Object Detection, [[Paper]](https://arxiv.org/pdf/2111.11430.pdf), [[Code]](https://git.io/J1HPY)
 - (arXiv 2021.11) Sparse Fusion for Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2111.11992.pdf)
-- (arXiv 2021.11)VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling, [[Paper]](https://arxiv.org/pdf/2111.12681.pdf), [[Code]](https://github.com/tsujuifu/pytorch_violet)
+- (arXiv 2021.11) VIOLET : End-to-End Video-Language Transformers with Masked Visual-token Modeling, [[Paper]](https://arxiv.org/pdf/2111.12681.pdf), [[Code]](https://github.com/tsujuifu/pytorch_violet)
+- (arXiv 2021.11) Cerberus Transformer: Joint Semantic, Affordance and Attribute Parsing, [[Paper]](https://arxiv.org/pdf/2111.12608.pdf), [[Code]](https://github.com/OPEN-AIR-SUN/Cerberus)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -500,6 +501,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2109.10282.pdf), [[Code]](https://aka.ms/TrOCR)
 - (arXiv 2021.10) Robustness Evaluation of Transformer-based Form Field Extractors via Form Attacks, [[Paper]](https://arxiv.org/pdf/2110.04413.pdf), [[Code]](https://aka.ms/TrOCR)
 - (arXiv 2021.10) DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction, [[Paper]](https://arxiv.org/pdf/2110.12942.pdf)
+
+### Octree
+- (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf)
 
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
@@ -824,6 +828,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
 - (arXiv 2021.11) Ice hockey player identification via transformers, [[Paper]](https://arxiv.org/pdf/2111.11535.pdf)
 - (arXiv 2021.11) Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes, [[Paper]](https://arxiv.org/pdf/2111.12701.pdf)
+- (arXiv 2021.11) Attention-based Dual-stream Vision Transformer for Radar Gait Recognition,[[Paper]](https://arxiv.org/pdf/2111.12290.pdf)
 
 ## Contact & Feedback
 
