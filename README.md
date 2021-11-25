@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/24
+**Last updated: 2021/11/25
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -548,6 +548,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Pruning
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
+
+### Quantization
+- (arXiv 2021.11) PTQ4ViT: Post-Training Quantization Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf), [[Code]](https://github.com/hahnyuan/PTQ4ViT)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
