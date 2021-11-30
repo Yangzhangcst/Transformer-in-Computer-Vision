@@ -671,6 +671,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) HRViT: Multi-Scale High-Resolution Vision Transformer, [[Paper]](https://arxiv.org/pdf/2111.01236.pdf)
 - (arXiv 2021.11) Dynamically pruning segformer for efficient semantic segmentation, [[Paper]](https://arxiv.org/pdf/2111.09499.pdf)
 - (arXiv 2021.11) APANet: Adaptive Prototypes Alignment Network for Few-Shot Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2111.12263.pdf)
+- (arXiv 2021.11) Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers, [[Paper]](https://arxiv.org/pdf/2111.13587.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
