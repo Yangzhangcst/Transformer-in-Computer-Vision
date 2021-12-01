@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/11/30
+**Last updated: 2021/12/01
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -221,6 +221,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) SWAT: Spatial Structure Within and Among Tokens, [[Paper]](https://arxiv.org/pdf/2111.13677.pdf)
 - (arXiv 2021.11) NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2111.12994.pdf), [[Code]](https://github.com/NomMer1125/NomMer)
 - (arXiv 2021.11) Global Interaction Modelling in Vision Transformer via Super Tokens, [[Paper]](https://arxiv.org/pdf/2111.13156.pdf)
+- (arXiv 2021.11) ATS: Adaptive Token Sampling For Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.15667.pdf)
+- (arXiv 2021.11) Pyramid Adversarial Training Improves ViT Performance, [[Paper]](https://arxiv.org/pdf/2111.15121.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -440,6 +442,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) DuDoTrans: Dual-Domain Transformer Provides More Attention for Sinogram Restoration in Sparse-View CT Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.10790.pdf), [[Code]](https://github.com/DuDoTrans/CODE)
 - (arXiv 2021.11) A Volumetric Transformer for Accurate 3D Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2111.13300.pdf), [[Code]](https://github.com/himashi92/vt-unet)
 - (arXiv 2021.11) Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2111.14791.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR)
+- (arXiv 2021.11) MIST-net: Multi-domain Integrative Swin Transformer network for Sparse-View CT Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.14831.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -576,7 +579,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
 - (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
 - (arXiv 2021.11) PTQ4ViT: Post-Training Quantization Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.12293.pdf), [[Code]](https://github.com/hahnyuan/PTQ4ViT)
-- (arXiv 2021.11) FQ-ViT: Fully Quantized Vision Transformer without Retraining, [[Paper]](https://arxiv.org/pdf/2111.13824.pdf), [[Code]](https://github.com/linyang-zhh/FQ-ViT)
+- (arXiv 2021.11) FQ-ViT: Fully Quantized Vision Transformer without Retraining, [[Paper]](https://arxiv.org/pdf/2111.15127.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -588,6 +591,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition, [[Paper]](https://arxiv.org/pdf/2110.01240.pdf)
 - (arXiv 2021.10) Transformer-based Dual Relation Graph for Multi-label Image Recognition, [[Paper]](https://arxiv.org/pdf/2110.04722.pdf), [[Code]](https://github.com/iCVTEAM/TDRG)
 - (arXiv 2021.10) MVT: Multi-view Vision Transformer for 3D Object Recognition, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
+- (arXiv 2021.11) AdaViT: Adaptive Vision Transformers for Efficient Image Recognition, [[Paper]](https://arxiv.org/pdf/2111.15668.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
