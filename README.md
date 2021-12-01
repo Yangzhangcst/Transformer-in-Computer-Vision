@@ -600,6 +600,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) TransformerFusion: Monocular RGB Scene Reconstruction using Transformers, [[Paper]](https://arxiv.org/pdf/2107.08192.pdf)
 - (arXiv 2021.10) 3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2110.08861.pdf), [[Code]](https://github.com/FomalhautB/3D-RETR)
 - (arXiv 2021.11) Reference-based Magnetic Resonance Image Reconstruction Using Texture Transformer, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
+- (arXiv 2021.11) HEAT: Holistic Edge Attention Transformer for Structured Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.15143.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -859,6 +860,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Unleashing Transformers: Parallel Token Prediction with Discrete Absorbing Diffusion for Fast High-Resolution Image Generation from Vector-Quantized Codes, [[Paper]](https://arxiv.org/pdf/2111.12701.pdf)
 - (arXiv 2021.11) Attention-based Dual-stream Vision Transformer for Radar Gait Recognition,[[Paper]](https://arxiv.org/pdf/2111.12290.pdf)
 - (arXiv 2021.11) TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions,[[Paper]](https://arxiv.org/pdf/2111.14813.pdf), [[Code]](https://github.com/jeya-maria-jose/TransWeather)
+- (arXiv 2021.11) BuildFormer: Automatic building extraction with vision transformer,[[Paper]](https://arxiv.org/pdf/2111.15637.pdf)
 
 ## Contact & Feedback
 
