@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/01
+**Last updated: 2021/12/02
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -64,6 +64,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency, [[Paper]](https://arxiv.org/pdf/2108.06858.pdf), [[Code]](https://github.com/isalirezag/TReS)
 - (arXiv 2021.08) MUSIQ: Multi-scale Image Quality Transformer, [[Paper]](https://arxiv.org/pdf/2108.05997.pdf), [[Code]](https://github.com/google-research/google-research/tree/master/musiq)
 - (arXiv 2021.10) VTAMIQ: Transformers for Attention Modulated Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2110.01655.pdf)
+- (arXiv 2021.12) Learning Transformer Features for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2112.00485.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -601,6 +602,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) 3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2110.08861.pdf), [[Code]](https://github.com/FomalhautB/3D-RETR)
 - (arXiv 2021.11) Reference-based Magnetic Resonance Image Reconstruction Using Texture Transformer, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
 - (arXiv 2021.11) HEAT: Holistic Edge Attention Transformer for Structured Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.15143.pdf)
+- (arXiv 2021.12) VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion, [[Paper]](https://arxiv.org/pdf/2112.00236.pdf), [[Code]](https://noahstier.github.io/vortx/)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -642,6 +644,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Unifying Global-Local Representations in Salient Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2108.02759.pdf), [[Code]](https://github.com/OliverRensu/GLSTR)
 - (arXiv 2021.08) TriTransNet: RGB-D Salient Object Detection with a Triplet Transformer Embedding Network, [[Paper]](https://arxiv.org/pdf/2108.03990.pdf), [[Code]](https://github.com/liuzywen/TriTransNet)
 - (arXiv 2021.08) Boosting Salient Object Detection with Transformer-based Asymmetric Bilateral U-Net, [[Paper]](https://arxiv.org/pdf/2108.07851.pdf)
+- (arXiv 2021.12) Transformer-based Network for RGB-D Saliency Detection, [[Paper]](https://arxiv.org/pdf/2112.00582.pdf)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
