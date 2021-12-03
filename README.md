@@ -224,6 +224,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Global Interaction Modelling in Vision Transformer via Super Tokens, [[Paper]](https://arxiv.org/pdf/2111.13156.pdf)
 - (arXiv 2021.11) ATS: Adaptive Token Sampling For Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.15667.pdf)
 - (arXiv 2021.11) Pyramid Adversarial Training Improves ViT Performance, [[Paper]](https://arxiv.org/pdf/2111.15121.pdf)
+- (arXiv 2021.12) Improved Multiscale Vision Transformers for Classification and Detection, [[Paper]](https://arxiv.org/pdf/2112.01526.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -524,6 +525,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2109.10282.pdf), [[Code]](https://aka.ms/TrOCR)
 - (arXiv 2021.10) Robustness Evaluation of Transformer-based Form Field Extractors via Form Attacks, [[Paper]](https://arxiv.org/pdf/2110.04413.pdf), [[Code]](https://aka.ms/TrOCR)
 - (arXiv 2021.10) DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction, [[Paper]](https://arxiv.org/pdf/2110.12942.pdf)
+- (arXiv 2021.12) Visual-Semantic Transformer for Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2112.00948.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf)
@@ -531,8 +533,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
 - (arXiv 2021.09) Panoptic SegFormer, [[Paper]](https://arxiv.org/pdf/2109.03814.pdf)
-- (arXiv 2021.09) PnP-DETR: Towards Efficient Visual Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2109.07036.pdf),[[Code]](https://github.com/twangnh/pnp-detr)
+- (arXiv 2021.09) PnP-DETR: Towards Efficient Visual Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2109.07036.pdf), [[Code]](https://github.com/twangnh/pnp-detr)
 - (arXiv 2021.10) An End-to-End Trainable Video Panoptic Segmentation Method using Transformers, [[Paper]](https://arxiv.org/pdf/2110.04009.pdf)
+- (arXiv 2021.12) Masked-attention Mask Transformer for Universal Image Segmentation, [[Paper]](https://arxiv.org/pdf/2112.01527.pdf), [[Code]](https://bowenc0221.github.io/mask2former/)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
@@ -819,6 +822,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Zero-Shot Learning
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
+- (arXiv 2021.12) Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks, [[Paper]](https://arxiv.org/pdf/2112.01522.pdf)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
