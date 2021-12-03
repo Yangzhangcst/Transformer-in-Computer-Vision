@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/02
+**Last updated: 2021/12/03
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -298,6 +298,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Benchmarking Detection Transfer Learning with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.11429.pdf)
 - (arXiv 2021.11) BoxeR: Box-Attention for 2D and 3D Transformers, [[Paper]](https://arxiv.org/pdf/2111.13087.pdf)
 - (arXiv 2021.11) Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity, [[Paper]](https://arxiv.org/pdf/2111.14330.pdf),[[Code]](https://github.com/kakaobrain/sparse-detr)
+- (arXiv 2021.12) OW-DETR: Open-world Detection Transformer, [[Paper]](https://arxiv.org/pdf/2112.01513.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -490,6 +491,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Cerberus Transformer: Joint Semantic, Affordance and Attribute Parsing, [[Paper]](https://arxiv.org/pdf/2111.12608.pdf), [[Code]](https://github.com/OPEN-AIR-SUN/Cerberus)
 - (arXiv 2021.11) PolyViT: Co-training Vision Transformers on Images, Videos and Audio, [[Paper]](https://arxiv.org/pdf/2111.12993.pdf)
 - (arXiv 2021.11) End-to-End Referring Video Object Segmentation with Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2111.14821.pdf), [[Code]](https://github.com/mttr2021/MTTR)
+- (arXiv 2021.12) TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2112.01030.pdf), [[Code]](https://github.com/miccaiif/TransMEF)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -646,6 +648,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) TriTransNet: RGB-D Salient Object Detection with a Triplet Transformer Embedding Network, [[Paper]](https://arxiv.org/pdf/2108.03990.pdf), [[Code]](https://github.com/liuzywen/TriTransNet)
 - (arXiv 2021.08) Boosting Salient Object Detection with Transformer-based Asymmetric Bilateral U-Net, [[Paper]](https://arxiv.org/pdf/2108.07851.pdf)
 - (arXiv 2021.12) Transformer-based Network for RGB-D Saliency Detection, [[Paper]](https://arxiv.org/pdf/2112.00582.pdf)
+- (arXiv 2021.12) MTFNet: Mutual-Transformer Fusion Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2112.01177.pdf)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
@@ -726,6 +729,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) HiFT: Hierarchical Feature Transformer for Aerial Tracking, [[Paper]](https://arxiv.org/pdf/2108.00202.pdf), [[Code]](https://github.com/vision4robotics/HiFT)
 - (arXiv 2021.10) Siamese Transformer Pyramid Networks for Real-Time UAV Tracking, [[Paper]](https://arxiv.org/pdf/2110.08822.pdf), [[Code]](https://github.com/RISCNYUAD/SiamTPNTracker)
 - (arXiv 2021.10) 3D Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2110.14921.pdf), [[Code]](https://github.com/3bobo/lttr)
+- (arXiv 2021.12) SwinTrack: A Simple and Strong Baseline for Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2112.00995.pdf), [[Code]](https://github.com/LitingLin/SwinTrack)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -786,6 +790,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) PhysFormer: Facial Video-based Physiological Measurement with Temporal Difference Transformer, [[Paper]](https://arxiv.org/pdf/2111.12082.pdf), [[Code]](https://github.com/ZitongYu/PhysFormer)
 - (arXiv 2021.11) Efficient Video Transformers with Spatial-Temporal Token Selection, [[Paper]](https://arxiv.org/pdf/2111.11591.pdf)
 - (arXiv 2021.11) Video Frame Interpolation Transformer, [[Paper]](https://arxiv.org/pdf/2111.13817.pdf)
+- (arXiv 2021.12) Self-supervised Video Transformer, [[Paper]](https://arxiv.org/pdf/2112.01514.pdf), [[Code]](https://git.io/J1juJ)
+- (arXiv 2021.12) BEVT: BERT Pretraining of Video Transformers, [[Paper]](https://arxiv.org/pdf/2112.01529.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
