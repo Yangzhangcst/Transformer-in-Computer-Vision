@@ -579,6 +579,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2111.12707.pdf), [[Code]](https://github.com/Vegetebird/MHFormer) 
 - (arXiv 2021.11) A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose, [[Paper]](https://arxiv.org/pdf/2111.12696.pdf)
 
+### Planning
+- (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
+
 ### Pruning & Quantization
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
 - (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
@@ -792,6 +795,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Video Frame Interpolation Transformer, [[Paper]](https://arxiv.org/pdf/2111.13817.pdf)
 - (arXiv 2021.12) Self-supervised Video Transformer, [[Paper]](https://arxiv.org/pdf/2112.01514.pdf), [[Code]](https://git.io/J1juJ)
 - (arXiv 2021.12) BEVT: BERT Pretraining of Video Transformers, [[Paper]](https://arxiv.org/pdf/2112.01529.pdf)
+- (arXiv 2021.12) TBN-ViT: Temporal Bilateral Network with Vision Transformer for Video Scene Parsing, [[Paper]](https://arxiv.org/pdf/2112.01033.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
