@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/03
+**Last updated: 2021/12/06
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -225,6 +225,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) ATS: Adaptive Token Sampling For Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.15667.pdf)
 - (arXiv 2021.11) Pyramid Adversarial Training Improves ViT Performance, [[Paper]](https://arxiv.org/pdf/2111.15121.pdf)
 - (arXiv 2021.12) Improved Multiscale Vision Transformers for Classification and Detection, [[Paper]](https://arxiv.org/pdf/2112.01526.pdf)
+- (arXiv 2021.12) Make A Long Image Short: Adaptive Token Length for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.01686.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -348,6 +349,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) End-to-End Human Object Interaction Detection with HOI Transformer, [[Paper]](https://arxiv.org/pdf/2103.04503.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2105.02170.pdf)
 - (arXiv 2021.08) GTNet:Guided Transformer Network for Detecting Human-Object Interactions, [[Paper]](https://arxiv.org/pdf/2108.00596.pdf), [[Code]](https://github.com/ASMIftekhar/GTNet)
+- (arXiv 2021.12) Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer, [[Paper]](https://arxiv.org/pdf/2112.01838.pdf), [[Code]](https://github.com/fredzzhang/upt)
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -446,6 +448,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) A Volumetric Transformer for Accurate 3D Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2111.13300.pdf), [[Code]](https://github.com/himashi92/vt-unet)
 - (arXiv 2021.11) Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2111.14791.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR)
 - (arXiv 2021.11) MIST-net: Multi-domain Integrative Swin Transformer network for Sparse-View CT Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.14831.pdf)
+- (arXiv 2021.12) MT-TransUNet: Mediating Multi-Task Tokens in Transformers for Skin Lesion Segmentation and Classification, [[Paper]](https://arxiv.org/pdf/2112.01767.pdf), [[Code]](https://github.com/jingyechen/mt-transunet)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -493,6 +496,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) PolyViT: Co-training Vision Transformers on Images, Videos and Audio, [[Paper]](https://arxiv.org/pdf/2111.12993.pdf)
 - (arXiv 2021.11) End-to-End Referring Video Object Segmentation with Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2111.14821.pdf), [[Code]](https://github.com/mttr2021/MTTR)
 - (arXiv 2021.12) TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2112.01030.pdf), [[Code]](https://github.com/miccaiif/TransMEF)
+- (arXiv 2021.12) LMR-CBT: Learning Modality-fused Representations with CB-Transformer for Multimodal Emotion Recognition from Unaligned Multimodal Sequences, [[Paper]](https://arxiv.org/pdf/2112.01697.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -823,6 +827,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Zero-Shot Learning
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
 - (arXiv 2021.12) Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks, [[Paper]](https://arxiv.org/pdf/2112.01522.pdf)
+- (arXiv 2021.12) TransZero: Attribute-guided Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2112.01683.pdf), [[Code]](https://github.com/shiming-chen/transzero)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
