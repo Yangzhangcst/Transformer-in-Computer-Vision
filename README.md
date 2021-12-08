@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/07
+**Last updated: 2021/12/08
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -50,6 +50,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Few-Shot Temporal Action Localization with Query Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2110.10552.pdf), [[Code]](https://github.com/sauradip/fewshotQAT)
 - (arXiv 2021.10) IIP-Transformer: Intra-Inter-Part Transformer for Skeleton-Based Action Recognition, [[Paper]](https://arxiv.org/pdf/2110.13385.pdf), [[Code]](https://github.com/qtwang0035/IIP-Transformer)
 - (arXiv 2021.11) Evaluating Transformers for Lightweight Action Recognition, [[Paper]](https://arxiv.org/pdf/2111.09641.pdf)
+- (arXiv 2021.12) MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection, [[Paper]](https://arxiv.org/pdf/2112.03902.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -227,6 +228,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Improved Multiscale Vision Transformers for Classification and Detection, [[Paper]](https://arxiv.org/pdf/2112.01526.pdf)
 - (arXiv 2021.12) Make A Long Image Short: Adaptive Token Length for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.01686.pdf)
 - (arXiv 2021.12) Dynamic Token Normalization Improves Vision Transformer, [[Paper]](https://arxiv.org/pdf/2112.02624.pdf), [[Code]](https://github.com/wqshao126/DTN)
+- (arXiv 2021.12) Bootstrapping ViTs: Towards Liberating Vision Transformers from Pre-training, [[Paper]](https://arxiv.org/pdf/2112.03552.pdf)
+- (arXiv 2021.12) Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal, [[Paper]](https://arxiv.org/pdf/2112.03492.pdf), [[Code]](https://github.com/shiyuchengtju/par)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -322,6 +325,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Sparse Spatial Transformers for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2109.10057.pdf),[[Code]](https://github.com/chenhaoxing/SSFormers)
 - (arXiv 2021.09) MFEViT: A Robust Lightweight Transformer-based Network for Multimodal 2D+3D Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2109.13086.pdf)
 - (arXiv 2021.11) FakeTransformer: Exposing Face Forgery From Spatial-Temporal Representation Modeled By Facial Pixel Variations, [[Paper]](https://arxiv.org/pdf/2111.07601.pdf)
+- (arXiv 2021.12) SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal, [[Paper]](https://arxiv.org/pdf/2112.03631.pdf),[[Code]](https://gitee.com/sunzhaoyang0304/ssat-msp)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
