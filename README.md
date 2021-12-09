@@ -536,6 +536,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Robustness Evaluation of Transformer-based Form Field Extractors via Form Attacks, [[Paper]](https://arxiv.org/pdf/2110.04413.pdf), [[Code]](https://aka.ms/TrOCR)
 - (arXiv 2021.10) DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction, [[Paper]](https://arxiv.org/pdf/2110.12942.pdf)
 - (arXiv 2021.12) Visual-Semantic Transformer for Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2112.00948.pdf)
+- (arXiv 2021.12) Transformer-Based Approach for Joint Handwriting and Named Entity Recognition in Historical documents, [[Paper]](https://arxiv.org/pdf/2112.04189.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf)
@@ -816,6 +817,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Self-supervised Video Transformer, [[Paper]](https://arxiv.org/pdf/2112.01514.pdf), [[Code]](https://git.io/J1juJ)
 - (arXiv 2021.12) BEVT: BERT Pretraining of Video Transformers, [[Paper]](https://arxiv.org/pdf/2112.01529.pdf)
 - (arXiv 2021.12) TBN-ViT: Temporal Bilateral Network with Vision Transformer for Video Scene Parsing, [[Paper]](https://arxiv.org/pdf/2112.01033.pdf)
+- (arXiv 2021.12) Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval, [[Paper]](https://arxiv.org/pdf/2112.04446.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
