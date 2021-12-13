@@ -80,6 +80,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Geometry Attention Transformer with Position-aware LSTMs for Image Captioning, [[Paper]](https://arxiv.org/pdf/2110.00335.pdf)
 - (arXiv 2021.10) Bangla Image Caption Generation through CNN-Transformer based Encoder-Decoder Network, [[Paper]](https://arxiv.org/pdf/2110.12442.pdf)
 - (arXiv 2021.11) SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning, [[Paper]](https://arxiv.org/pdf/2111.13196.pdf)
+- (arXiv 2021.12) Injecting Semantic Concepts into End-to-End Image Captioning, [[Paper]](https://arxiv.org/pdf/2112.05230.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -230,6 +231,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Dynamic Token Normalization Improves Vision Transformer, [[Paper]](https://arxiv.org/pdf/2112.02624.pdf), [[Code]](https://github.com/wqshao126/DTN)
 - (arXiv 2021.12) Bootstrapping ViTs: Towards Liberating Vision Transformers from Pre-training, [[Paper]](https://arxiv.org/pdf/2112.03552.pdf)
 - (arXiv 2021.12) Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal, [[Paper]](https://arxiv.org/pdf/2112.03492.pdf), [[Code]](https://github.com/shiyuchengtju/par)
+- (arXiv 2021.12) Visual Transformers with Primal Object Queries for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2112.05485.pdf)
+- (arXiv 2021.12) Couplformer:Rethinking Vision Transformer with Coupling Attention Map, [[Paper]](https://arxiv.org/pdf/2112.05425.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -327,6 +330,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) MFEViT: A Robust Lightweight Transformer-based Network for Multimodal 2D+3D Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2109.13086.pdf)
 - (arXiv 2021.11) FakeTransformer: Exposing Face Forgery From Spatial-Temporal Representation Modeled By Facial Pixel Variations, [[Paper]](https://arxiv.org/pdf/2111.07601.pdf)
 - (arXiv 2021.12) SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal, [[Paper]](https://arxiv.org/pdf/2112.03631.pdf),[[Code]](https://gitee.com/sunzhaoyang0304/ssat-msp)
+- (arXiv 2021.12) FaceFormer: Speech-Driven 3D Facial Animation with Transformers, [[Paper]](https://arxiv.org/pdf/2112.05329.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -507,6 +511,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) TransMEF: A Transformer-Based Multi-Exposure Image Fusion Framework using Self-Supervised Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2112.01030.pdf), [[Code]](https://github.com/miccaiif/TransMEF)
 - (arXiv 2021.12) LMR-CBT: Learning Modality-fused Representations with CB-Transformer for Multimodal Emotion Recognition from Unaligned Multimodal Sequences, [[Paper]](https://arxiv.org/pdf/2112.01697.pdf)
 - (arXiv 2021.12) LAVT: Language-Aware Vision Transformer for Referring Image Segmentation, [[Paper]](https://arxiv.org/pdf/2112.02244.pdf),[[Code]](https://github.com/yz93/LAVT-RIS)
+- (arXiv 2021.12) Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2112.05587.pdf)
+- (arXiv 2021.12) VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling, [[Paper]](https://arxiv.org/pdf/2112.05692.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -846,6 +852,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Voxel
 - (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
 - (arXiv 2021.09) Voxel Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.02497.pdf)
+
+### Weakly Supervised Learning
+- (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
 
 ### Zero-Shot Learning
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
