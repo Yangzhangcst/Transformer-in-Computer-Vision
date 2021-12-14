@@ -746,6 +746,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Light Field Image Super-Resolution with Transformers, [[Paper]](https://arxiv.org/pdf/2108.07597.pdf), [[Code]](https://github.com/ZhengyuLiang24/LFT)
 - (arXiv 2021.08) Efficient Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2108.11084.pdf)
 - (arXiv 2021.09) Fusformer: A Transformer-based Fusion Approach for Hyperspectral Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2109.02079.pdf)
+- (arXiv 2021.12) Implicit Transformer Network for Screen Content Image Continuous Super-Resolution, [[Paper]](https://arxiv.org/pdf/2112.06174.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -925,6 +926,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) BuildFormer: Automatic building extraction with vision transformer,[[Paper]](https://arxiv.org/pdf/2111.15637.pdf)
 - (arXiv 2021.12) DoodleFormer: Creative Sketch Drawing with Transformers,[[Paper]](https://arxiv.org/pdf/2112.03258.pdf)
 - (arXiv 2021.12) Transformer based trajectory prediction,[[Paper]](https://arxiv.org/pdf/2112.04350.pdf)
+- (arXiv 2021.12) Deep ViT Features as Dense Visual Descriptors,[[Paper]](https://arxiv.org/pdf/2112.05814.pdf), [[Project]](https://dino-vit-features.github.io)
+- (arXiv 2021.12) Hformer: Hybrid CNN-Transformer for Fringe Order Prediction in Phase Unwrapping of Fringe Projection,[[Paper]](https://arxiv.org/pdf/2112.05814.pdf)
 
 ## Contact & Feedback
 
