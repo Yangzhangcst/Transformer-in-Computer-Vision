@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/10
+**Last updated: 2021/12/14
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -331,11 +331,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) FakeTransformer: Exposing Face Forgery From Spatial-Temporal Representation Modeled By Facial Pixel Variations, [[Paper]](https://arxiv.org/pdf/2111.07601.pdf)
 - (arXiv 2021.12) SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal, [[Paper]](https://arxiv.org/pdf/2112.03631.pdf),[[Code]](https://gitee.com/sunzhaoyang0304/ssat-msp)
 - (arXiv 2021.12) FaceFormer: Speech-Driven 3D Facial Animation with Transformers, [[Paper]](https://arxiv.org/pdf/2112.05329.pdf)
+- (arXiv 2021.12) Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition, [[Paper]](https://arxiv.org/pdf/2112.05851.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
 - (arXiv 2021.04) Few-Shot Segmentation via Cycle-Consistent Transformer, [[Paper]](https://arxiv.org/pdf/2106.02320.pdf)
-- (arXiv 2021.09) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2109.12932.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
+- (arXiv 2021.09) Sparse Spatial Transformers for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2109.12932.pdf)
 
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -366,6 +367,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) 3D-ANAS v2: Grafting Transformer Module on Automatically Designed ConvNet for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2110.11084.pdf), [[Code]](https://github.com/xmm/3D-ANAS-V2)
 - (arXiv 2021.11) Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.07910.pdf)
 - (arXiv 2021.11) Learning A 3D-CNN and Transformer Prior for Hyperspectral Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2111.13923.pdf)
+
+### Incremental Learning
+- (arXiv 2021.12) Improving Vision Transformers for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2112.06103.pdf)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -462,6 +466,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) MT-TransUNet: Mediating Multi-Task Tokens in Transformers for Skin Lesion Segmentation and Classification, [[Paper]](https://arxiv.org/pdf/2112.01767.pdf), [[Code]](https://github.com/jingyechen/mt-transunet)
 - (arXiv 2021.12) 3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2112.04863.pdf), [[Code]](https://github.com/crane-papercode/3DMedPT)
 - (arXiv 2021.12) Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer, [[Paper]](https://arxiv.org/pdf/2112.04894.pdf), [[Code]](https://github.com/HiLab-git/SSL4MIS)
+- (arXiv 2021.12) Pre-training and Fine-tuning Transformers for fMRI Prediction Tasks, [[Paper]](https://arxiv.org/pdf/2112.05761.pdf), [[Code]](https://github.com/GonyRosenman/TFF)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -513,6 +518,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) LAVT: Language-Aware Vision Transformer for Referring Image Segmentation, [[Paper]](https://arxiv.org/pdf/2112.02244.pdf),[[Code]](https://github.com/yz93/LAVT-RIS)
 - (arXiv 2021.12) Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2112.05587.pdf)
 - (arXiv 2021.12) VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling, [[Paper]](https://arxiv.org/pdf/2112.05692.pdf)
+- (arXiv 2021.12) VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks, [[Paper]](https://arxiv.org/pdf/2112.06825.pdf),[[Code]](https://github.com/ylsung/VL_adapter)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -583,6 +589,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling, [[Paper]](https://arxiv.org/pdf/2111.14819.pdf), [[Code]](https://github.com/lulutang0608/Point-BERT) 
 - (arXiv 2021.11) Adaptive Channel Encoding Transformer for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2112.02507.pdf), [[Code]](https://github.com/lulutang0608/Point-BERT) 
 - (arXiv 2021.11) Fast Point Transformer, [[Paper]](https://arxiv.org/pdf/2112.04702.pdf)
+- (arXiv 2021.12) Embracing Single Stride 3D Object Detector with Sparse Transformer, [[Paper]](https://arxiv.org/pdf/2112.06375.pdf), [[Code]](https://github.com/TuSimple/SST) 
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -917,6 +924,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions,[[Paper]](https://arxiv.org/pdf/2111.14813.pdf), [[Code]](https://github.com/jeya-maria-jose/TransWeather)
 - (arXiv 2021.11) BuildFormer: Automatic building extraction with vision transformer,[[Paper]](https://arxiv.org/pdf/2111.15637.pdf)
 - (arXiv 2021.12) DoodleFormer: Creative Sketch Drawing with Transformers,[[Paper]](https://arxiv.org/pdf/2112.03258.pdf)
+- (arXiv 2021.12) Transformer based trajectory prediction,[[Paper]](https://arxiv.org/pdf/2112.04350.pdf)
 
 ## Contact & Feedback
 
