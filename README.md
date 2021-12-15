@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/14
+**Last updated: 2021/12/15
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -51,6 +51,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) IIP-Transformer: Intra-Inter-Part Transformer for Skeleton-Based Action Recognition, [[Paper]](https://arxiv.org/pdf/2110.13385.pdf), [[Code]](https://github.com/qtwang0035/IIP-Transformer)
 - (arXiv 2021.11) Evaluating Transformers for Lightweight Action Recognition, [[Paper]](https://arxiv.org/pdf/2111.09641.pdf)
 - (arXiv 2021.12) MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection, [[Paper]](https://arxiv.org/pdf/2112.03902.pdf)
+- (arXiv 2021.12) Co-training Transformer with Videos and Images Improves Action Recognition, [[Paper]](https://arxiv.org/pdf/2112.07175.pdf)
+- (arXiv 2021.12) Temporal Transformer Networks with Self-Supervision for Action Recognition, [[Paper]](https://arxiv.org/pdf/2112.07338.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -233,6 +235,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal, [[Paper]](https://arxiv.org/pdf/2112.03492.pdf), [[Code]](https://github.com/shiyuchengtju/par)
 - (arXiv 2021.12) Visual Transformers with Primal Object Queries for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2112.05485.pdf)
 - (arXiv 2021.12) Couplformer:Rethinking Vision Transformer with Coupling Attention Map, [[Paper]](https://arxiv.org/pdf/2112.05425.pdf)
+- (arXiv 2021.12) AdaViT: Adaptive Tokens for Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2112.07658.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -519,6 +522,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2112.05587.pdf)
 - (arXiv 2021.12) VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling, [[Paper]](https://arxiv.org/pdf/2112.05692.pdf)
 - (arXiv 2021.12) VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks, [[Paper]](https://arxiv.org/pdf/2112.06825.pdf),[[Code]](https://github.com/ylsung/VL_adapter)
+- (arXiv 2021.12) Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text, [[Paper]](https://arxiv.org/pdf/2112.07074.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -613,6 +617,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2111.12707.pdf), [[Code]](https://github.com/Vegetebird/MHFormer) 
 - (arXiv 2021.11) A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose, [[Paper]](https://arxiv.org/pdf/2111.12696.pdf)
 - (arXiv 2021.12) PE-former: Pose Estimation Transformer, [[Paper]](https://arxiv.org/pdf/2112.04981.pdf), [[Code]](https://github.com/padeler/PE-former) 
+- (arXiv 2021.12) Geometry-Contrastive Transformer for Generalized 3D Pose Transfer, [[Paper]](https://arxiv.org/pdf/2112.07374.pdf), [[Code]](https://github.com/mikecheninoulu/CGT)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
