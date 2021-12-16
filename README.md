@@ -377,12 +377,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
 - (arXiv 2021.04) Aggregated Contextual Transformations for High-Resolution Image Inpainting, [[Paper]](https://arxiv.org/abs/2104.01431), [[Code]](https://github.com/researchmm/AOT-GAN-for-Inpainting)
-- (arXiv 2021.04) Decoupled Spatial-Temporal Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2104.06637.pdf), [[Code]](https://github.com/ruiliu-ai/DSTT)
+- (arXiv 2021.04) Decoupled Spatial-Temporal Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2112.08275.pdf), [[Code]](https://github.com/wjf5203/SeqFormer)
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
 - (arXiv 2021.04) ISTR: End-to-End Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.00637.pdf), [[Code]](https://github.com/hujiecpp/ISTR)
 - (arXiv 2021.08) SOTR: Segmenting Objects with Transformers, [[Paper]](https://arxiv.org/pdf/2108.06747.pdf), [[Code]](https://github.com/easton-cau/SOTR)
+- (arXiv 2021.12) SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2108.06747.pdf), [[Code]](https://github.com/easton-cau/SOTR)
 
 ### Layout
 - (CVPR'21) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/abs/2104.02416)
