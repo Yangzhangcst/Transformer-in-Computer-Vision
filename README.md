@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/15
+**Last updated: 2021/12/16
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -933,6 +933,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Transformer based trajectory prediction,[[Paper]](https://arxiv.org/pdf/2112.04350.pdf)
 - (arXiv 2021.12) Deep ViT Features as Dense Visual Descriptors,[[Paper]](https://arxiv.org/pdf/2112.05814.pdf), [[Project]](https://dino-vit-features.github.io)
 - (arXiv 2021.12) Hformer: Hybrid CNN-Transformer for Fringe Order Prediction in Phase Unwrapping of Fringe Projection,[[Paper]](https://arxiv.org/pdf/2112.05814.pdf)
+- (arXiv 2021.12) 3D Question Answering,[[Paper]](https://arxiv.org/pdf/2112.08359.pdf)
 
 ## Contact & Feedback
 
