@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/16
+**Last updated: 2021/12/17
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -524,6 +524,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) VUT: Versatile UI Transformer for Multi-Modal Multi-Task User Interface Modeling, [[Paper]](https://arxiv.org/pdf/2112.05692.pdf)
 - (arXiv 2021.12) VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks, [[Paper]](https://arxiv.org/pdf/2112.06825.pdf),[[Code]](https://github.com/ylsung/VL_adapter)
 - (arXiv 2021.12) Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text, [[Paper]](https://arxiv.org/pdf/2112.07074.pdf)
+- (arXiv 2021.12) Distilled Dual-Encoder Model for Vision-Language Understanding, [[Paper]](https://arxiv.org/pdf/2112.08723.pdf),[[Code]](https://github.com/kugwzk/Distilled-DualEncoder)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -620,6 +621,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose, [[Paper]](https://arxiv.org/pdf/2111.12696.pdf)
 - (arXiv 2021.12) PE-former: Pose Estimation Transformer, [[Paper]](https://arxiv.org/pdf/2112.04981.pdf), [[Code]](https://github.com/padeler/PE-former) 
 - (arXiv 2021.12) Geometry-Contrastive Transformer for Generalized 3D Pose Transfer, [[Paper]](https://arxiv.org/pdf/2112.07374.pdf), [[Code]](https://github.com/mikecheninoulu/CGT)
+- (arXiv 2021.12) DProST: 6-DoF Object Pose Estimation Using Space Carving and Dynamic Projective Spatial Transformer, [[Paper]](https://arxiv.org/pdf/2112.08775.pdf), [[Code]](https://github.com/mikecheninoulu/CGT)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -875,6 +877,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
 - (arXiv 2021.12) Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks, [[Paper]](https://arxiv.org/pdf/2112.01522.pdf)
 - (arXiv 2021.12) TransZero: Attribute-guided Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2112.01683.pdf), [[Code]](https://github.com/shiming-chen/transzero)
+- (arXiv 2021.12) TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2112.08643.pdf), [[Code]](https://github.com/shiming-chen/TransZero_pp)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
