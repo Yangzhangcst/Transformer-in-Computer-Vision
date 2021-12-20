@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/17
+**Last updated: 2021/12/20
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -243,6 +243,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Compression
 - (arXiv 2021.11) Transformer-based Image Compression, [[Paper]](https://arxiv.org/pdf/2104.00845.pdf)
+- (arXiv 2021.12) Towards End-to-End Image Compression and Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2112.09300.pdf), [[Code]](https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers)
 
 ### Crowd Counting
 - (arXiv 2021.04) TransCrowd: Weakly-Supervised Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2104.09116.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
@@ -597,6 +598,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Adaptive Channel Encoding Transformer for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2112.02507.pdf), [[Code]](https://github.com/lulutang0608/Point-BERT) 
 - (arXiv 2021.11) Fast Point Transformer, [[Paper]](https://arxiv.org/pdf/2112.04702.pdf)
 - (arXiv 2021.12) Embracing Single Stride 3D Object Detector with Sparse Transformer, [[Paper]](https://arxiv.org/pdf/2112.06375.pdf), [[Code]](https://github.com/TuSimple/SST) 
+- (arXiv 2021.12) Full Transformer Framework for Robust Point Cloud Registration with Deep Information Interaction, [[Paper]](https://arxiv.org/pdf/2112.09385.pdf), [[Code]](https://github.com/CGuangyan-BIT/DIT) 
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -622,6 +624,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) PE-former: Pose Estimation Transformer, [[Paper]](https://arxiv.org/pdf/2112.04981.pdf), [[Code]](https://github.com/padeler/PE-former) 
 - (arXiv 2021.12) Geometry-Contrastive Transformer for Generalized 3D Pose Transfer, [[Paper]](https://arxiv.org/pdf/2112.07374.pdf), [[Code]](https://github.com/mikecheninoulu/CGT)
 - (arXiv 2021.12) DProST: 6-DoF Object Pose Estimation Using Space Carving and Dynamic Projective Spatial Transformer, [[Paper]](https://arxiv.org/pdf/2112.08775.pdf), [[Code]](https://github.com/mikecheninoulu/CGT)
+- (arXiv 2021.12) Towards Deep Learning-based 6D Bin Pose Estimation in 3D Scans, [[Paper]](https://arxiv.org/pdf/2112.09598.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -676,6 +679,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) SwinIR: Image Restoration Using Swin Transformer, [[Paper]](https://arxiv.org/pdf/2108.10257.pdf), [[Code]](https://github.com/JingyunLiang/SwinIR)
 - (arXiv 2021.11) Restormer: Efficient Transformer for High-Resolution Image Restoration, [[Paper]](https://arxiv.org/pdf/2111.09881.pdf), [[Code]](https://github.com/swz30/Restormer)
 - (arXiv 2021.12) U2-Former: A Nested U-shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2112.02279.pdf), [[Code]](https://github.com/swz30/Restormer)
+- (arXiv 2021.12) SiamTrans: Zero-Shot Multi-Frame Image Restoration with Pre-Trained Siamese Transformers, [[Paper]](https://arxiv.org/pdf/2112.09426.pdf)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
@@ -783,6 +787,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) SwinTrack: A Simple and Strong Baseline for Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2112.00995.pdf), [[Code]](https://github.com/LitingLin/SwinTrack)
 - (arXiv 2021.12) PTTR: Relational 3D Point Cloud Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2112.02857.pdf), [[Code]](https://github.com/Jasonkks/PTTR)
 - (arXiv 2021.12) Learning Tracking Representations via Dual-Branch Fully Transformer Networks, [[Paper]](https://arxiv.org/pdf/2112.02571.pdf), [[Code]](https://github.com/phiphiphi31/DualTFR)
+- (arXiv 2021.12) Efficient Visual Tracking with Exemplar Transformers, [[Paper]](https://arxiv.org/pdf/2112.09686.pdf), [[Code]](https://github.com/visionml/pytracking)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -939,6 +944,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Deep ViT Features as Dense Visual Descriptors,[[Paper]](https://arxiv.org/pdf/2112.05814.pdf), [[Project]](https://dino-vit-features.github.io)
 - (arXiv 2021.12) Hformer: Hybrid CNN-Transformer for Fringe Order Prediction in Phase Unwrapping of Fringe Projection,[[Paper]](https://arxiv.org/pdf/2112.05814.pdf)
 - (arXiv 2021.12) 3D Question Answering,[[Paper]](https://arxiv.org/pdf/2112.08359.pdf)
+- (arXiv 2021.12) Light Field Neural Rendering,[[Paper]](https://arxiv.org/pdf/2112.09687.pdf), [[Project]](https://light-field-neural-rendering.github.io/)
+- (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers,[[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
 
 ## Contact & Feedback
 
