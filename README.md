@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/20
+**Last updated: 2021/12/21
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -353,6 +353,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) ViTGAN: Training GANs with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.04589.pdf)
 - (arXiv 2021.10) Generating Symbolic Reasoning Problems with Transformer GANs, [[Paper]](https://arxiv.org/pdf/2110.10054.pdf)
 - (arXiv 2021.10) STransGAN: An Empirical Study on Transformer in GANs, [[Paper]](https://arxiv.org/pdf/2110.13107.pdf), [[Project]](https://nbei.github.io/stransgan.html)
+- (arXiv 2021.12) StyleSwin: Transformer-based GAN for High-resolution Image Generation, [[Paper]](https://arxiv.org/pdf/2112.10762.pdf), [[Code]](https://github.com/microsoft/StyleSwin)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
@@ -385,6 +386,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) ISTR: End-to-End Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2105.00637.pdf), [[Code]](https://github.com/hujiecpp/ISTR)
 - (arXiv 2021.08) SOTR: Segmenting Objects with Transformers, [[Paper]](https://arxiv.org/pdf/2108.06747.pdf), [[Code]](https://github.com/easton-cau/SOTR)
 - (arXiv 2021.12) SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2108.06747.pdf), [[Code]](https://github.com/easton-cau/SOTR)
+- (arXiv 2021.12) A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2112.09747.pdf)
 
 ### Layout
 - (CVPR'21) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/abs/2104.02416)
@@ -625,6 +627,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Geometry-Contrastive Transformer for Generalized 3D Pose Transfer, [[Paper]](https://arxiv.org/pdf/2112.07374.pdf), [[Code]](https://github.com/mikecheninoulu/CGT)
 - (arXiv 2021.12) DProST: 6-DoF Object Pose Estimation Using Space Carving and Dynamic Projective Spatial Transformer, [[Paper]](https://arxiv.org/pdf/2112.08775.pdf), [[Code]](https://github.com/mikecheninoulu/CGT)
 - (arXiv 2021.12) Towards Deep Learning-based 6D Bin Pose Estimation in 3D Scans, [[Paper]](https://arxiv.org/pdf/2112.09598.pdf)
+- (arXiv 2021.12) End-to-End Learning of Multi-category 3D Pose and Shape Estimation, [[Paper]](https://arxiv.org/pdf/2112.10196.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -760,6 +763,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Efficient Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2108.11084.pdf)
 - (arXiv 2021.09) Fusformer: A Transformer-based Fusion Approach for Hyperspectral Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2109.02079.pdf)
 - (arXiv 2021.12) Implicit Transformer Network for Screen Content Image Continuous Super-Resolution, [[Paper]](https://arxiv.org/pdf/2112.06174.pdf)
+- (arXiv 2021.12) On Efficient Transformer and Image Pre-training for Low-level Vision, [[Paper]](https://arxiv.org/pdf/2112.10175.pdf), [[Code]](https://github.com/fenglinglwb/EDT)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -802,6 +806,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Investigating Transfer Learning Capabilities of Vision Transformers and CNNs by Fine-Tuning a Single Trainable Block, [[Paper]](https://arxiv.org/pdf/2110.05270.pdf)
 - (arXiv 2021.10) Dispensed Transformer Network for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2110.14944.pdf)
 - (arXiv 2021.11) Exploiting Both Domain-specific and Invariant Knowledge via a Win-win Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2111.12941.pdf)
+- (arXiv 2021.12) Pre-Training Transformers for Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2112.09965.pdf)
 
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
@@ -854,6 +859,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval, [[Paper]](https://arxiv.org/pdf/2112.04446.pdf)
 - (arXiv 2021.12) DualFormer: Local-Global Stratified Transformer for Efficient Video Recognition, [[Paper]](https://arxiv.org/pdf/2112.04674.pdf)
 - (arXiv 2021.12) A Bilingual, OpenWorld Video Text Dataset and End-to-end Video Text Spotter with Transformer, [[Paper]](https://arxiv.org/pdf/2112.04888.pdf), [[Code]](https://github.com/weijiawu/BOVText-Benchmark)
+- (arXiv 2021.12) Mask2Former for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2112.10764.pdf), [[Code]](https://github.com/facebookresearch/Mask2Former)
+- (arXiv 2021.12) LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach, [[Paper]](https://arxiv.org/pdf/2112.10066.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
