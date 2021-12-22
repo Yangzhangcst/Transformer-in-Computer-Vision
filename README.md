@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/21
+**Last updated: 2021/12/22
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -236,6 +236,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Visual Transformers with Primal Object Queries for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2112.05485.pdf)
 - (arXiv 2021.12) Couplformer:Rethinking Vision Transformer with Coupling Attention Map, [[Paper]](https://arxiv.org/pdf/2112.05425.pdf)
 - (arXiv 2021.12) AdaViT: Adaptive Tokens for Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2112.07658.pdf)
+- (arXiv 2021.12) Lite Vision Transformer with Enhanced Self-Attention, [[Paper]](https://arxiv.org/pdf/2112.10809.pdf), [[Code]](https://github.com/Chenglin-Yang/LVT)
+- (arXiv 2021.12) Learned Queries for Efficient Local Attention, [[Paper]](https://arxiv.org/pdf/2112.11435.pdf), [[Code]](https://github.com/moabarar/qna)
+- (arXiv 2021.12) MPViT: Multi-Path Vision Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2112.11010.pdf), [[Code]](https://github.com/youngwanLEE/MPViT)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -387,6 +390,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) SOTR: Segmenting Objects with Transformers, [[Paper]](https://arxiv.org/pdf/2108.06747.pdf), [[Code]](https://github.com/easton-cau/SOTR)
 - (arXiv 2021.12) SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2108.06747.pdf), [[Code]](https://github.com/easton-cau/SOTR)
 - (arXiv 2021.12) A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2112.09747.pdf)
+- (arXiv 2021.12) SOIT: Segmenting Objects with Instance-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2112.11037.pdf), [[Code]](https://github.com/yuxiaodongHRI/SOIT)
 
 ### Layout
 - (CVPR'21) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/abs/2104.02416)
@@ -751,6 +755,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) APANet: Adaptive Prototypes Alignment Network for Few-Shot Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2111.12263.pdf)
 - (arXiv 2021.11) Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers, [[Paper]](https://arxiv.org/pdf/2111.13587.pdf)
 - (arXiv 2021.11) GETAM: Gradient-weighted Element-wise Transformer Attention Map for Weakly-supervised Semantic segmentation, [[Paper]](https://arxiv.org/pdf/2112.02841.pdf)
+- (arXiv 2021.12) iSegFormer: Interactive Image Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2112.11325.pdf), [[Code]](https://github.com/qinliuliuqin/iSegFormer.git)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -952,7 +957,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Hformer: Hybrid CNN-Transformer for Fringe Order Prediction in Phase Unwrapping of Fringe Projection,[[Paper]](https://arxiv.org/pdf/2112.05814.pdf)
 - (arXiv 2021.12) 3D Question Answering,[[Paper]](https://arxiv.org/pdf/2112.08359.pdf)
 - (arXiv 2021.12) Light Field Neural Rendering,[[Paper]](https://arxiv.org/pdf/2112.09687.pdf), [[Project]](https://light-field-neural-rendering.github.io/)
-- (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers,[[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
+- (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
+- (arXiv 2021.12) Nonlinear Transform Source-Channel Coding for Semantic Communications, [[Paper]](https://arxiv.org/pdf/2112.10961.pdf)
 
 ## Contact & Feedback
 
