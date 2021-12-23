@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/22
+**Last updated: 2021/12/23
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -239,6 +239,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Lite Vision Transformer with Enhanced Self-Attention, [[Paper]](https://arxiv.org/pdf/2112.10809.pdf), [[Code]](https://github.com/Chenglin-Yang/LVT)
 - (arXiv 2021.12) Learned Queries for Efficient Local Attention, [[Paper]](https://arxiv.org/pdf/2112.11435.pdf), [[Code]](https://github.com/moabarar/qna)
 - (arXiv 2021.12) MPViT: Multi-Path Vision Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2112.11010.pdf), [[Code]](https://github.com/youngwanLEE/MPViT)
+- (arXiv 2021.12) MIA-Former: Efficient and Robust Vision Transformers via Multi-grained Input-Adaptation, [[Paper]](https://arxiv.org/pdf/2112.11542.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -316,6 +317,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity, [[Paper]](https://arxiv.org/pdf/2111.14330.pdf), [[Code]](https://github.com/kakaobrain/sparse-detr)
 - (arXiv 2021.12) OW-DETR: Open-world Detection Transformer, [[Paper]](https://arxiv.org/pdf/2112.01513.pdf)
 - (arXiv 2021.12) Recurrent Glimpse-based Decoder for Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2112.04632.pdf), [[Code]](https://github.com/zhechen/Deformable-DETR-REGO)
+- (arXiv 2021.12) BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View, [[Paper]](https://arxiv.org/pdf/2112.11790.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -344,6 +346,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
 - (arXiv 2021.04) Few-Shot Segmentation via Cycle-Consistent Transformer, [[Paper]](https://arxiv.org/pdf/2106.02320.pdf)
 - (arXiv 2021.09) Sparse Spatial Transformers for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2109.12932.pdf)
+- (arXiv 2021.12) Cost Aggregation Is All You Need for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2112.11685.pdf), [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
 
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
