@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/23
+**Last updated: 2021/12/24
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -240,6 +240,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Learned Queries for Efficient Local Attention, [[Paper]](https://arxiv.org/pdf/2112.11435.pdf), [[Code]](https://github.com/moabarar/qna)
 - (arXiv 2021.12) MPViT: Multi-Path Vision Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2112.11010.pdf), [[Code]](https://github.com/youngwanLEE/MPViT)
 - (arXiv 2021.12) MIA-Former: Efficient and Robust Vision Transformers via Multi-grained Input-Adaptation, [[Paper]](https://arxiv.org/pdf/2112.11542.pdf)
+- (arXiv 2021.12) ELSA: Enhanced Local Self-Attention for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2112.12786.pdf), [[Code]](https://github.com/damo-cv/ELSA)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -535,6 +536,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks, [[Paper]](https://arxiv.org/pdf/2112.06825.pdf),[[Code]](https://github.com/ylsung/VL_adapter)
 - (arXiv 2021.12) Towards a Unified Foundation Model: Jointly Pre-Training Transformers on Unpaired Images and Text, [[Paper]](https://arxiv.org/pdf/2112.07074.pdf)
 - (arXiv 2021.12) Distilled Dual-Encoder Model for Vision-Language Understanding, [[Paper]](https://arxiv.org/pdf/2112.08723.pdf),[[Code]](https://github.com/kugwzk/Distilled-DualEncoder)
+- (arXiv 2021.12) Multimodal Personality Recognition using Cross-Attention Transformer and Behaviour Encoding, [[Paper]](https://arxiv.org/pdf/2112.12180.pdf)
+- (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
+- (arXiv 2021.12) SLIP: Self-supervision meets Language-Image Pre-training, [[Paper]](https://arxiv.org/pdf/2112.12750.pdf),[[Code]](https://github.com/facebookresearch/SLIP)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -759,6 +763,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers, [[Paper]](https://arxiv.org/pdf/2111.13587.pdf)
 - (arXiv 2021.11) GETAM: Gradient-weighted Element-wise Transformer Attention Map for Weakly-supervised Semantic segmentation, [[Paper]](https://arxiv.org/pdf/2112.02841.pdf)
 - (arXiv 2021.12) iSegFormer: Interactive Image Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2112.11325.pdf), [[Code]](https://github.com/qinliuliuqin/iSegFormer.git)
+- (arXiv 2021.12) SeMask: Semantically Masked Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2112.12782.pdf), [[Code]](https://github.com/Picsart-AI-Research/SeMask-Segmentation)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
