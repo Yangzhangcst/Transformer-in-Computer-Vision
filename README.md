@@ -241,6 +241,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) MPViT: Multi-Path Vision Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2112.11010.pdf), [[Code]](https://github.com/youngwanLEE/MPViT)
 - (arXiv 2021.12) MIA-Former: Efficient and Robust Vision Transformers via Multi-grained Input-Adaptation, [[Paper]](https://arxiv.org/pdf/2112.11542.pdf)
 - (arXiv 2021.12) ELSA: Enhanced Local Self-Attention for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2112.12786.pdf), [[Code]](https://github.com/damo-cv/ELSA)
+- (arXiv 2021.12) SimViT: Exploring a Simple Vision Transformer with sliding windows, [[Paper]](https://arxiv.org/pdf/2112.13085.pdf), [[Code]](https://github.com/ucasligang/SimViT)
+- (arXiv 2021.12) Vision Transformer for Small-Size Datasets, [[Paper]](https://arxiv.org/pdf/2112.13492.pdf)
+- (arXiv 2021.12) ViR: the Vision Reservoir, [[Paper]](https://arxiv.org/pdf/2112.13545.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -319,6 +322,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) OW-DETR: Open-world Detection Transformer, [[Paper]](https://arxiv.org/pdf/2112.01513.pdf)
 - (arXiv 2021.12) Recurrent Glimpse-based Decoder for Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2112.04632.pdf), [[Code]](https://github.com/zhechen/Deformable-DETR-REGO)
 - (arXiv 2021.12) BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View, [[Paper]](https://arxiv.org/pdf/2112.11790.pdf)
+- (arXiv 2021.12) Miti-DETR: Object Detection based on Transformers with Mitigatory Self-Attention Convergence, [[Paper]](https://arxiv.org/pdf/2112.13310.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -482,6 +486,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) 3D Medical Point Transformer: Introducing Convolution to Attention Networks for Medical Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2112.04863.pdf), [[Code]](https://github.com/crane-papercode/3DMedPT)
 - (arXiv 2021.12) Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer, [[Paper]](https://arxiv.org/pdf/2112.04894.pdf), [[Code]](https://github.com/HiLab-git/SSL4MIS)
 - (arXiv 2021.12) Pre-training and Fine-tuning Transformers for fMRI Prediction Tasks, [[Paper]](https://arxiv.org/pdf/2112.05761.pdf), [[Code]](https://github.com/GonyRosenman/TFF)
+- (arXiv 2021.12) MSHT: Multi-stage Hybrid Transformer for the ROSE Image Analysis of Pancreatic Cancer, [[Paper]](https://arxiv.org/pdf/2112.13513.pdf), [[Code]](https://github.com/sagizty/Multi-Stage-Hybrid-Transformer)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -716,6 +721,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Boosting Salient Object Detection with Transformer-based Asymmetric Bilateral U-Net, [[Paper]](https://arxiv.org/pdf/2108.07851.pdf)
 - (arXiv 2021.12) Transformer-based Network for RGB-D Saliency Detection, [[Paper]](https://arxiv.org/pdf/2112.00582.pdf)
 - (arXiv 2021.12) MTFNet: Mutual-Transformer Fusion Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2112.01177.pdf)
+- (arXiv 2021.12) Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction, [[Paper]](https://arxiv.org/pdf/2112.13528.pdf)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
@@ -875,6 +881,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) A Bilingual, OpenWorld Video Text Dataset and End-to-end Video Text Spotter with Transformer, [[Paper]](https://arxiv.org/pdf/2112.04888.pdf), [[Code]](https://github.com/weijiawu/BOVText-Benchmark)
 - (arXiv 2021.12) Mask2Former for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2112.10764.pdf), [[Code]](https://github.com/facebookresearch/Mask2Former)
 - (arXiv 2021.12) LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach, [[Paper]](https://arxiv.org/pdf/2112.10066.pdf)
+- (arXiv 2021.12) Video Joint Modelling Based on Hierarchical Transformer for Co-summarization, [[Paper]](https://arxiv.org/pdf/2112.13478.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
