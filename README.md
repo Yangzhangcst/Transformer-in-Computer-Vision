@@ -244,6 +244,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) SimViT: Exploring a Simple Vision Transformer with sliding windows, [[Paper]](https://arxiv.org/pdf/2112.13085.pdf), [[Code]](https://github.com/ucasligang/SimViT)
 - (arXiv 2021.12) Vision Transformer for Small-Size Datasets, [[Paper]](https://arxiv.org/pdf/2112.13492.pdf)
 - (arXiv 2021.12) ViR: the Vision Reservoir, [[Paper]](https://arxiv.org/pdf/2112.13545.pdf)
+- (arXiv 2021.12) Augmenting Convolutional networks with attention-based aggregation, [[Paper]](https://arxiv.org/pdf/2112.13692.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
