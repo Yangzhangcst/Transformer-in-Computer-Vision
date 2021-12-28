@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/24
+**Last updated: 2021/12/28
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -726,6 +726,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) BGT-Net: Bidirectional GRU Transformer Network for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2109.05346.pdf)
 - (arXiv 2021.11) Compositional Transformers for Scene Generation, [[Paper]](https://arxiv.org/pdf/2111.08960.pdf)
 - (arXiv 2021.11) Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations, [[Paper]](https://arxiv.org/pdf/2111.13152.pdf), [[Project]](https://srt-paper.github.io/)
+- (arXiv 2021.12) SGTR: End-to-end Scene Graph Generation with Transformer, [[Paper]](https://arxiv.org/pdf/2112.12970.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
