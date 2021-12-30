@@ -246,6 +246,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) ViR: the Vision Reservoir, [[Paper]](https://arxiv.org/pdf/2112.13545.pdf)
 - (arXiv 2021.12) Augmenting Convolutional networks with attention-based aggregation, [[Paper]](https://arxiv.org/pdf/2112.13692.pdf)
 - (arXiv 2021.12) Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention, [[Paper]](https://arxiv.org/pdf/2112.14000.pdf), [[Code]](https://github.com/BR-IDL/PaddleViT)
+- (arXiv 2021.12) SPViT: Enabling Faster Vision Transformers via Soft Token Pruning, [[Paper]](https://arxiv.org/pdf/2112.13890.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -546,7 +547,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Multimodal Personality Recognition using Cross-Attention Transformer and Behaviour Encoding, [[Paper]](https://arxiv.org/pdf/2112.12180.pdf)
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
 - (arXiv 2021.12) SLIP: Self-supervision meets Language-Image Pre-training, [[Paper]](https://arxiv.org/pdf/2112.12750.pdf),[[Code]](https://github.com/facebookresearch/SLIP)
-- (arXiv 2021.12) Synchronized Audio-Visual Frames with Fractional Positional Encoding for Transformers in Video-to-Text Translation, [[Paper]](https://arxiv.org/pdf/2112.14088.pdf)
+- (arXiv 2021.12) Synchronized Audio-Visual Frames with Fractional Positional Encoding for Transformers in Video-to-Text Translation, [[Paper]](https://arxiv.org/pdf/2112.14088.pdf),[[Code]](https://github.com/fpe-vtt/ftt-vpe)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -885,6 +886,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Mask2Former for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2112.10764.pdf), [[Code]](https://github.com/facebookresearch/Mask2Former)
 - (arXiv 2021.12) LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach, [[Paper]](https://arxiv.org/pdf/2112.10066.pdf)
 - (arXiv 2021.12) Video Joint Modelling Based on Hierarchical Transformer for Co-summarization, [[Paper]](https://arxiv.org/pdf/2112.13478.pdf)
+- (arXiv 2021.12) Siamese Network with Interactive Transformer for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2112.13983.pdf), [[Code]](https://github.com/LANMNG/SITVOS)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -978,6 +980,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Light Field Neural Rendering,[[Paper]](https://arxiv.org/pdf/2112.09687.pdf), [[Project]](https://light-field-neural-rendering.github.io/)
 - (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
 - (arXiv 2021.12) Nonlinear Transform Source-Channel Coding for Semantic Communications, [[Paper]](https://arxiv.org/pdf/2112.10961.pdf)
+- (arXiv 2021.12) APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.14087.pdf)
 
 ## Contact & Feedback
 
