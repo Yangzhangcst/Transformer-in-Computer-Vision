@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/28
+**Last updated: 2021/12/30
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -176,7 +176,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Visual Parser: Representing Part-whole Hierarchies with Transformers, [[Paper]](https://arxiv.org/pdf/2107.05790.pdf), [[Code]](https://github.com/kevin-ssy/ViP)
 - (arXiv 2021.07) CMT: Convolutional Neural Networks Meet Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.06263.pdf)
 - (arXiv 2021.07) Combiner: Full Attention Transformer with Sparse Computation Cost, [[Paper]](https://arxiv.org/pdf/2107.05768.pdf)
-- (arXiv 2021.07) A Comparison of Deep Learning Classification Methods on Small-scale Image Data set: from Converlutional Neural Networks to Visual Transformers, [[Paper]](https://arxiv.org/pdf/2107.07699.pdf)
+- (arXiv 2021.07) A Comparison of Deep Learning Classification Methods on Small-scale Image Data set: from Convolutional Neural Networks to Visual Transformers, [[Paper]](https://arxiv.org/pdf/2107.07699.pdf)
 - (arXiv 2021.07) Query2Label: A Simple Transformer Way to Multi-Label Classification, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
 - (arXiv 2021.07) Contextual Transformer Networks for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.12292.pdf), [[Code]](https://github.com/JDAI-CV/CoTNet)
 - (arXiv 2021.07) Rethinking and Improving Relative Position Encoding for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2107.14222.pdf), [[Code]](https://github.com/microsoft/AutoML/tree/main/iRPE)
@@ -245,6 +245,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Vision Transformer for Small-Size Datasets, [[Paper]](https://arxiv.org/pdf/2112.13492.pdf)
 - (arXiv 2021.12) ViR: the Vision Reservoir, [[Paper]](https://arxiv.org/pdf/2112.13545.pdf)
 - (arXiv 2021.12) Augmenting Convolutional networks with attention-based aggregation, [[Paper]](https://arxiv.org/pdf/2112.13692.pdf)
+- (arXiv 2021.12) Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention, [[Paper]](https://arxiv.org/pdf/2112.14000.pdf), [[Code]](https://github.com/BR-IDL/PaddleViT)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -545,6 +546,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Multimodal Personality Recognition using Cross-Attention Transformer and Behaviour Encoding, [[Paper]](https://arxiv.org/pdf/2112.12180.pdf)
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
 - (arXiv 2021.12) SLIP: Self-supervision meets Language-Image Pre-training, [[Paper]](https://arxiv.org/pdf/2112.12750.pdf),[[Code]](https://github.com/facebookresearch/SLIP)
+- (arXiv 2021.12) Synchronized Audio-Visual Frames with Fractional Positional Encoding for Transformers in Video-to-Text Translation, [[Paper]](https://arxiv.org/pdf/2112.14088.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
