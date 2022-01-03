@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2021/12/30
+**Last updated: 2022/01/03
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -12,6 +12,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2021/September* - update all of recent papers of Transformer-in-Vision.  
 *2021/October* - update all of recent papers of Transformer-in-Vision.  
 *2021/November* - update all of recent papers of Transformer-in-Vision.  
+*2021/December* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
 - (arXiv 2021.11) A Survey of Visual Transformers. [[Paper]](https://arxiv.org/pdf/2111.06091.pdf)
@@ -262,6 +263,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Congested Crowd Instance Localization with Dilated Convolutional Swin Transformer, [[Paper]](https://arxiv.org/pdf/2108.00584.pdf)
 - (arXiv 2021.09) Audio-Visual Transformer Based Crowd Counting, [[Paper]](https://arxiv.org/pdf/2109.01926.pdf), [[Code]](https://github.com/rucv/avcc)
 - (arXiv 2021.09) CCTrans: Simplifying and Improving Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2109.14483.pdf)
+- (arXiv 2022.01) Scene-Adaptive Attention Network for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2112.15509.pdf)
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
