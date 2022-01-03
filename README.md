@@ -248,6 +248,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Augmenting Convolutional networks with attention-based aggregation, [[Paper]](https://arxiv.org/pdf/2112.13692.pdf)
 - (arXiv 2021.12) Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention, [[Paper]](https://arxiv.org/pdf/2112.14000.pdf), [[Code]](https://github.com/BR-IDL/PaddleViT)
 - (arXiv 2021.12) SPViT: Enabling Faster Vision Transformers via Soft Token Pruning, [[Paper]](https://arxiv.org/pdf/2112.13890.pdf)
+- (arXiv 2021.12) Stochastic Layers in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.15111.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -256,6 +257,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Compression
 - (arXiv 2021.11) Transformer-based Image Compression, [[Paper]](https://arxiv.org/pdf/2104.00845.pdf)
 - (arXiv 2021.12) Towards End-to-End Image Compression and Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2112.09300.pdf), [[Code]](https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers)
+- (arXiv 2021.12) CSformer: Bridging Convolution and Transformer for Compressive Sensing, [[Paper]](https://arxiv.org/pdf/2112.15299.pdf)
 
 ### Crowd Counting
 - (arXiv 2021.04) TransCrowd: Weakly-Supervised Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2104.09116.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
