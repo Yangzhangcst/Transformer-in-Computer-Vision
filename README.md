@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/04
+**Last updated: 2022/01/05
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -250,6 +250,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) SPViT: Enabling Faster Vision Transformers via Soft Token Pruning, [[Paper]](https://arxiv.org/pdf/2112.13890.pdf)
 - (arXiv 2021.12) Stochastic Layers in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.15111.pdf)
 - (arXiv 2022.01) Vision Transformer with Deformable Attention, [[Paper]](https://arxiv.org/pdf/2201.00520.pdf), [[Code]](https://github.com/LeapLabTHU/DAT)
+- (arXiv 2022.01) PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture, [[Paper]](https://arxiv.org/pdf/2201.00978.pdf), [[Code]](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -498,6 +499,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Pre-training and Fine-tuning Transformers for fMRI Prediction Tasks, [[Paper]](https://arxiv.org/pdf/2112.05761.pdf), [[Code]](https://github.com/GonyRosenman/TFF)
 - (arXiv 2021.12) MSHT: Multi-stage Hybrid Transformer for the ROSE Image Analysis of Pancreatic Cancer, [[Paper]](https://arxiv.org/pdf/2112.13513.pdf), [[Code]](https://github.com/sagizty/Multi-Stage-Hybrid-Transformer)
 - (arXiv 2022.01) D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.00462.pdf)
+- (arXiv 2022.01) Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images, [[Paper]](https://arxiv.org/pdf/2201.01266.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -705,6 +707,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) CMTR: Cross-modality Transformer for Visible-infrared Person Re-identification, [[Paper]](https://arxiv.org/pdf/2110.08994.pdf)
 - (arXiv 2021.11) Self-Supervised Pre-Training for Transformer-Based Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2111.12084.pdf), [[Code]](https://github.com/michuanhaohao/TransReID-SSL)
 - (arXiv 2021.12) Pose-guided Feature Disentangling for Occluded Person Re-identification Based on Transformer, [[Paper]](https://arxiv.org/pdf/2112.02466.pdf), [[Code]](https://github.com/WangTaoAs/PFD_Net)
+- (arXiv 2022.01) Short Range Correlation Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2201.01090.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -993,6 +996,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Nonlinear Transform Source-Channel Coding for Semantic Communications, [[Paper]](https://arxiv.org/pdf/2112.10961.pdf)
 - (arXiv 2021.12) APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.14087.pdf)
 - (arXiv 2022.01) Splicing ViT Features for Semantic Appearance Transfer,[[Paper]](https://arxiv.org/pdf/2201.00424.pdf), [[Project]](https://splice-vit.github.io/)
+- (arXiv 2022.01) A Transformer-Based Siamese Network for Change Detection,[[Paper]](https://arxiv.org/pdf/2201.01293.pdf), [[Code]](https://github.com/wgcban/ChangeFormer)
 
 ## Contact & Feedback
 
