@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/05
+**Last updated: 2022/01/06
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -558,6 +558,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
 - (arXiv 2021.12) SLIP: Self-supervision meets Language-Image Pre-training, [[Paper]](https://arxiv.org/pdf/2112.12750.pdf),[[Code]](https://github.com/facebookresearch/SLIP)
 - (arXiv 2021.12) Synchronized Audio-Visual Frames with Fractional Positional Encoding for Transformers in Video-to-Text Translation, [[Paper]](https://arxiv.org/pdf/2112.14088.pdf),[[Code]](https://github.com/fpe-vtt/ftt-vpe)
+- (arXiv 2022.01) Robust Self-Supervised Audio-Visual Speech Recognition, [[Paper]](https://arxiv.org/pdf/2201.01763.pdf),[[Code]](https://github.com/facebookresearch/av_hubert)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -787,6 +788,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) GETAM: Gradient-weighted Element-wise Transformer Attention Map for Weakly-supervised Semantic segmentation, [[Paper]](https://arxiv.org/pdf/2112.02841.pdf)
 - (arXiv 2021.12) iSegFormer: Interactive Image Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2112.11325.pdf), [[Code]](https://github.com/qinliuliuqin/iSegFormer.git)
 - (arXiv 2021.12) SeMask: Semantically Masked Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2112.12782.pdf), [[Code]](https://github.com/Picsart-AI-Research/SeMask-Segmentation)
+- (arXiv 2022.01) Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention, [[Paper]](https://arxiv.org/pdf/2201.01615.pdf), [[Code]](https://github.com/yan-hao-tian/lawin)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
