@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/06
+**Last updated: 2022/01/07
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -84,6 +84,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Bangla Image Caption Generation through CNN-Transformer based Encoder-Decoder Network, [[Paper]](https://arxiv.org/pdf/2110.12442.pdf)
 - (arXiv 2021.11) SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning, [[Paper]](https://arxiv.org/pdf/2111.13196.pdf)
 - (arXiv 2021.12) Injecting Semantic Concepts into End-to-End Image Captioning, [[Paper]](https://arxiv.org/pdf/2112.05230.pdf)
+- (arXiv 2022.01) Compact Bidirectional Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2201.01984.pdf), [[Code]](https://github.com/YuanEZhou/CBTrans) 
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -559,6 +560,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) SLIP: Self-supervision meets Language-Image Pre-training, [[Paper]](https://arxiv.org/pdf/2112.12750.pdf),[[Code]](https://github.com/facebookresearch/SLIP)
 - (arXiv 2021.12) Synchronized Audio-Visual Frames with Fractional Positional Encoding for Transformers in Video-to-Text Translation, [[Paper]](https://arxiv.org/pdf/2112.14088.pdf),[[Code]](https://github.com/fpe-vtt/ftt-vpe)
 - (arXiv 2022.01) Robust Self-Supervised Audio-Visual Speech Recognition, [[Paper]](https://arxiv.org/pdf/2201.01763.pdf),[[Code]](https://github.com/facebookresearch/av_hubert)
+- (arXiv 2022.01) Self-Training Vision Language BERTs with a Unified Conditional Model, [[Paper]](https://arxiv.org/pdf/2201.02010.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -681,6 +683,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Transformer-based Dual Relation Graph for Multi-label Image Recognition, [[Paper]](https://arxiv.org/pdf/2110.04722.pdf), [[Code]](https://github.com/iCVTEAM/TDRG)
 - (arXiv 2021.10) MVT: Multi-view Vision Transformer for 3D Object Recognition, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
 - (arXiv 2021.11) AdaViT: Adaptive Vision Transformers for Efficient Image Recognition, [[Paper]](https://arxiv.org/pdf/2111.15668.pdf)
+- (arXiv 2022.01) TransVPR: Transformer-based place recognition with multi-level attention aggregation, [[Paper]](https://arxiv.org/pdf/2201.02001.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -902,6 +905,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach, [[Paper]](https://arxiv.org/pdf/2112.10066.pdf)
 - (arXiv 2021.12) Video Joint Modelling Based on Hierarchical Transformer for Co-summarization, [[Paper]](https://arxiv.org/pdf/2112.13478.pdf)
 - (arXiv 2021.12) Siamese Network with Interactive Transformer for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2112.13983.pdf), [[Code]](https://github.com/LANMNG/SITVOS)
+- (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
