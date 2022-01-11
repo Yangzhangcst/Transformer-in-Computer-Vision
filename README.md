@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/07
+**Last updated: 2022/01/11
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -54,6 +54,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection, [[Paper]](https://arxiv.org/pdf/2112.03902.pdf)
 - (arXiv 2021.12) Co-training Transformer with Videos and Images Improves Action Recognition, [[Paper]](https://arxiv.org/pdf/2112.07175.pdf)
 - (arXiv 2021.12) Temporal Transformer Networks with Self-Supervision for Action Recognition, [[Paper]](https://arxiv.org/pdf/2112.07338.pdf)
+- (arXiv 2022.01) Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition, [[Paper]](https://arxiv.org/pdf/2201.02849.pdf), [[Code]](https://github.com/heleiqiu/STTFormer)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -252,6 +253,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Stochastic Layers in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.15111.pdf)
 - (arXiv 2022.01) Vision Transformer with Deformable Attention, [[Paper]](https://arxiv.org/pdf/2201.00520.pdf), [[Code]](https://github.com/LeapLabTHU/DAT)
 - (arXiv 2022.01) PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture, [[Paper]](https://arxiv.org/pdf/2201.00978.pdf), [[Code]](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch)
+- (arXiv 2022.01) QuadTree Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2201.02767.pdf), [[Code]](https://github.com/Tangshitao/QuadtreeAttention)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -334,6 +336,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Recurrent Glimpse-based Decoder for Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2112.04632.pdf), [[Code]](https://github.com/zhechen/Deformable-DETR-REGO)
 - (arXiv 2021.12) BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View, [[Paper]](https://arxiv.org/pdf/2112.11790.pdf)
 - (arXiv 2021.12) Miti-DETR: Object Detection based on Transformers with Mitigatory Self-Attention Convergence, [[Paper]](https://arxiv.org/pdf/2112.13310.pdf)
+- (arXiv 2022.01) Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond, [[Paper]](https://arxiv.org/pdf/2201.03176.pdf), [[Code]](https://github.com/hasanirtiza/Pedestron)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -501,6 +504,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) MSHT: Multi-stage Hybrid Transformer for the ROSE Image Analysis of Pancreatic Cancer, [[Paper]](https://arxiv.org/pdf/2112.13513.pdf), [[Code]](https://github.com/sagizty/Multi-Stage-Hybrid-Transformer)
 - (arXiv 2022.01) D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.00462.pdf)
 - (arXiv 2022.01) Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images, [[Paper]](https://arxiv.org/pdf/2201.01266.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR)
+- (arXiv 2022.01) Swin Transformer for Fast MRI, [[Paper]](https://arxiv.org/pdf/2201.01266.pdf), [[Code]](https://github.com/ayanglab/SwinMR)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -1003,6 +1007,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.14087.pdf)
 - (arXiv 2022.01) Splicing ViT Features for Semantic Appearance Transfer,[[Paper]](https://arxiv.org/pdf/2201.00424.pdf), [[Project]](https://splice-vit.github.io/)
 - (arXiv 2022.01) A Transformer-Based Siamese Network for Change Detection,[[Paper]](https://arxiv.org/pdf/2201.01293.pdf), [[Code]](https://github.com/wgcban/ChangeFormer)
+- (arXiv 2022.01) Learning class prototypes from Synthetic InSAR with Vision Transformers,[[Paper]](https://arxiv.org/pdf/2201.03016.pdf)
+- (arXiv 2022.01) Swin transformers make strong contextual encoders for VHR image road extraction,[[Paper]](https://arxiv.org/pdf/2201.03178.pdf)
 
 ## Contact & Feedback
 
