@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/12
+**Last updated: 2022/01/13
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -366,6 +366,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Few-Shot Segmentation via Cycle-Consistent Transformer, [[Paper]](https://arxiv.org/pdf/2106.02320.pdf)
 - (arXiv 2021.09) Sparse Spatial Transformers for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2109.12932.pdf)
 - (arXiv 2021.12) Cost Aggregation Is All You Need for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2112.11685.pdf), [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
+- (arXiv 2022.01) HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2201.04182.pdf)
 
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -912,6 +913,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Video Joint Modelling Based on Hierarchical Transformer for Co-summarization, [[Paper]](https://arxiv.org/pdf/2112.13478.pdf)
 - (arXiv 2021.12) Siamese Network with Interactive Transformer for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2112.13983.pdf), [[Code]](https://github.com/LANMNG/SITVOS)
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
+- (arXiv 2022.01) Multiview Transformers for Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.04288.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
