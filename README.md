@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/13
+**Last updated: 2022/01/14
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -567,6 +567,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Robust Self-Supervised Audio-Visual Speech Recognition, [[Paper]](https://arxiv.org/pdf/2201.01763.pdf),[[Code]](https://github.com/facebookresearch/av_hubert)
 - (arXiv 2022.01) Self-Training Vision Language BERTs with a Unified Conditional Model, [[Paper]](https://arxiv.org/pdf/2201.02010.pdf)
 - (arXiv 2022.01) On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.03965.pdf)
+- (arXiv 2022.01) Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning, [[Paper]](https://arxiv.org/pdf/2201.04676.pdf),[[Code]](https://github.com/Sense-X/UniFormer)
+- (arXiv 2022.01) BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions, [[Paper]](https://arxiv.org/pdf/2201.04850.pdf),[[Code]](https://geyuying.github.io/MCQ.html)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -914,6 +916,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Siamese Network with Interactive Transformer for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2112.13983.pdf), [[Code]](https://github.com/LANMNG/SITVOS)
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
 - (arXiv 2022.01) Multiview Transformers for Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.04288.pdf)
+- (arXiv 2022.01) TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers,[[Paper]](https://arxiv.org/pdf/2201.05047.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -1013,6 +1016,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) A Transformer-Based Siamese Network for Change Detection,[[Paper]](https://arxiv.org/pdf/2201.01293.pdf), [[Code]](https://github.com/wgcban/ChangeFormer)
 - (arXiv 2022.01) Learning class prototypes from Synthetic InSAR with Vision Transformers,[[Paper]](https://arxiv.org/pdf/2201.03016.pdf)
 - (arXiv 2022.01) Swin transformers make strong contextual encoders for VHR image road extraction,[[Paper]](https://arxiv.org/pdf/2201.03178.pdf)
+- (arXiv 2022.01) Technical Report for ICCV 2021 Challenge SSLAD-Track3B: Transformers Are Better Continual Learners,[[Paper]](https://arxiv.org/pdf/2201.04924.pdf)
 
 ## Contact & Feedback
 
