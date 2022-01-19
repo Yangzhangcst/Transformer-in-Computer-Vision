@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/14
+**Last updated: 2022/01/19
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -15,6 +15,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2021/December* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
+- (arXiv 2022.01) Video Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2201.05991.pdf)
+
 - (arXiv 2021.11) A Survey of Visual Transformers. [[Paper]](https://arxiv.org/pdf/2111.06091.pdf)
 
 - (arXiv 2021.09) Survey: Transformer based Video-Language Pre-training. [[Paper]](https://arxiv.org/pdf/2109.09920.pdf)
@@ -55,6 +57,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Co-training Transformer with Videos and Images Improves Action Recognition, [[Paper]](https://arxiv.org/pdf/2112.07175.pdf)
 - (arXiv 2021.12) Temporal Transformer Networks with Self-Supervision for Action Recognition, [[Paper]](https://arxiv.org/pdf/2112.07338.pdf)
 - (arXiv 2022.01) Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition, [[Paper]](https://arxiv.org/pdf/2201.02849.pdf), [[Code]](https://github.com/heleiqiu/STTFormer)
+- (arXiv 2022.01) Transformers in Action:Weakly Supervised Action Segmentation, [[Paper]](https://arxiv.org/pdf/2201.05675.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -360,6 +363,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal, [[Paper]](https://arxiv.org/pdf/2112.03631.pdf),[[Code]](https://gitee.com/sunzhaoyang0304/ssat-msp)
 - (arXiv 2021.12) FaceFormer: Speech-Driven 3D Facial Animation with Transformers, [[Paper]](https://arxiv.org/pdf/2112.05329.pdf)
 - (arXiv 2021.12) Short and Long Range Relation Based Spatio-Temporal Transformer for Micro-Expression Recognition, [[Paper]](https://arxiv.org/pdf/2112.05851.pdf)
+- (arXiv 2022.01) RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs, [[Paper]](https://arxiv.org/pdf/2201.06374.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -506,6 +510,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) D-Former: A U-shaped Dilated Transformer for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.00462.pdf)
 - (arXiv 2022.01) Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images, [[Paper]](https://arxiv.org/pdf/2201.01266.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR)
 - (arXiv 2022.01) Swin Transformer for Fast MRI, [[Paper]](https://arxiv.org/pdf/2201.01266.pdf), [[Code]](https://github.com/ayanglab/SwinMR)
+- (arXiv 2022.01) ViTBIS: Vision Transformer for Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.05920.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -773,6 +778,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Efficient Self-supervised Vision Transformers for Representation Learning, [[Paper]](https://arxiv.org/pdf/2106.09785.pdf)
 - (arXiv 2021.09) Localizing Objects with Self-Supervised Transformers and no Labels, [[Paper]](https://arxiv.org/pdf/2109.14279.pdf)
 - (arXiv 2021.10) Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning, [[Paper]](https://arxiv.org/pdf/2110.05340.pdf), [[Code]](https://github.com/ChongjianGE/CARE)
+- (arXiv 2022.01) RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training, [[Paper]](https://arxiv.org/pdf/2201.06857.pdf), [[Code]](https://github.com/ChongjianGE/CARE)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -848,6 +854,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
 - (arXiv 2021.11) DetectorNet: Transformer-enhanced Spatial Temporal Graph Neural Network for Traffic Prediction, [[Paper]](https://arxiv.org/pdf/2111.00869.pdf)
 - (arXiv 2021.11) ProSTformer: Pre-trained Progressive Space-Time Self-attention Model for Traffic Flow Forecasting, [[Paper]](https://arxiv.org/pdf/2111.03459.pdf)
+- (arXiv 2022.01) SwinUNet3D -- A Hierarchical Architecture for Deep Traffic Prediction using Shifted Window Transformers, [[Paper]](https://arxiv.org/pdf/2201.06390.pdf), [[Code]](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
@@ -858,6 +865,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Dispensed Transformer Network for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2110.14944.pdf)
 - (arXiv 2021.11) Exploiting Both Domain-specific and Invariant Knowledge via a Win-win Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2111.12941.pdf)
 - (arXiv 2021.12) Pre-Training Transformers for Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2112.09965.pdf)
+- (arXiv 2022.01) Domain Adaptation via Bidirectional Cross-Attention Transformer, [[Paper]](https://arxiv.org/pdf/2201.05887.pdf)
 
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
@@ -1017,6 +1025,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Learning class prototypes from Synthetic InSAR with Vision Transformers,[[Paper]](https://arxiv.org/pdf/2201.03016.pdf)
 - (arXiv 2022.01) Swin transformers make strong contextual encoders for VHR image road extraction,[[Paper]](https://arxiv.org/pdf/2201.03178.pdf)
 - (arXiv 2022.01) Technical Report for ICCV 2021 Challenge SSLAD-Track3B: Transformers Are Better Continual Learners,[[Paper]](https://arxiv.org/pdf/2201.04924.pdf)
+- (arXiv 2022.01) Spectral Compressive Imaging Reconstruction Using Convolution and Spectral Contextual Transformer,[[Paper]](https://arxiv.org/pdf/2201.05768.pdf)
+- (arXiv 2022.01) VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer,[[Paper]](https://arxiv.org/pdf/2201.06618.pdf)
+- (arXiv 2022.01) Continual Transformers: Redundancy-Free Attention for Online Inference,[[Paper]](https://arxiv.org/pdf/2201.06268.pdf)
+- (arXiv 2022.01) Disentangled Latent Transformer for Interpretable Monocular Height Estimation,[[Paper]](https://arxiv.org/pdf/2201.06357.pdf), [[Code]](https://github.com/ShadowXZT/DLT-Height-Estimation.pytorch)
 
 ## Contact & Feedback
 
