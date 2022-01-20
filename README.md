@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/19
+**Last updated: 2022/01/20
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -372,6 +372,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Cost Aggregation Is All You Need for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2112.11685.pdf), [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
 - (arXiv 2022.01) HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2201.04182.pdf)
 
+### Fusion
+- (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
+
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
 - (arXiv 2021.03) Generative Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2103.01209.pdf), [[Code]](https://github.com/dorarad/gansformer)
@@ -675,6 +678,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) DProST: 6-DoF Object Pose Estimation Using Space Carving and Dynamic Projective Spatial Transformer, [[Paper]](https://arxiv.org/pdf/2112.08775.pdf), [[Code]](https://github.com/mikecheninoulu/CGT)
 - (arXiv 2021.12) Towards Deep Learning-based 6D Bin Pose Estimation in 3D Scans, [[Paper]](https://arxiv.org/pdf/2112.09598.pdf)
 - (arXiv 2021.12) End-to-End Learning of Multi-category 3D Pose and Shape Estimation, [[Paper]](https://arxiv.org/pdf/2112.10196.pdf)
+- (arXiv 2022.01) Swin-Pose: Swin Transformer Based Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2201.07384.pdf)
+- (arXiv 2022.01) Poseur: Direct Human Pose Regression with Transformers, [[Paper]](https://arxiv.org/pdf/2201.07412.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -684,6 +689,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
 - (arXiv 2021.11) PTQ4ViT: Post-Training Quantization Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.12293.pdf), [[Code]](https://github.com/hahnyuan/PTQ4ViT)
 - (arXiv 2021.11) FQ-ViT: Fully Quantized Vision Transformer without Retraining, [[Paper]](https://arxiv.org/pdf/2111.15127.pdf)
+- (arXiv 2022.01) Q-ViT: Fully Differentiable Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.07703.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -1029,6 +1035,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer,[[Paper]](https://arxiv.org/pdf/2201.06618.pdf)
 - (arXiv 2022.01) Continual Transformers: Redundancy-Free Attention for Online Inference,[[Paper]](https://arxiv.org/pdf/2201.06268.pdf)
 - (arXiv 2022.01) Disentangled Latent Transformer for Interpretable Monocular Height Estimation,[[Paper]](https://arxiv.org/pdf/2201.06357.pdf), [[Code]](https://github.com/ShadowXZT/DLT-Height-Estimation.pytorch)
+- (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation,[[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
 
 ## Contact & Feedback
 
