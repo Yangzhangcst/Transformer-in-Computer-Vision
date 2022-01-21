@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/20
+**Last updated: 2022/01/21
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -257,6 +257,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Vision Transformer with Deformable Attention, [[Paper]](https://arxiv.org/pdf/2201.00520.pdf), [[Code]](https://github.com/LeapLabTHU/DAT)
 - (arXiv 2022.01) PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture, [[Paper]](https://arxiv.org/pdf/2201.00978.pdf), [[Code]](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch)
 - (arXiv 2022.01) QuadTree Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2201.02767.pdf), [[Code]](https://github.com/Tangshitao/QuadtreeAttention)
+- (arXiv 2022.01) TerViT: An Efficient Ternary Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.08050.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -577,6 +578,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.03965.pdf)
 - (arXiv 2022.01) Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning, [[Paper]](https://arxiv.org/pdf/2201.04676.pdf),[[Code]](https://github.com/Sense-X/UniFormer)
 - (arXiv 2022.01) BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions, [[Paper]](https://arxiv.org/pdf/2201.04850.pdf),[[Code]](https://geyuying.github.io/MCQ.html)
+- (arXiv 2022.01) OMNIVORE: A Single Model for Many Visual Modalities, [[Paper]](https://arxiv.org/pdf/2201.08377.pdf),[[Code]](https://facebookresearch.github.io/omnivore/)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -931,6 +933,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
 - (arXiv 2022.01) Multiview Transformers for Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.04288.pdf)
 - (arXiv 2022.01) TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers,[[Paper]](https://arxiv.org/pdf/2201.05047.pdf)
+- (arXiv 2022.01) MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.08383.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
