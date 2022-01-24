@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/21
+**Last updated: 2022/01/24
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -15,6 +15,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2021/December* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
+- (arXiv 2022.01) A Comprehensive Study of Vision Transformers on Dense Prediction Tasks. [[Paper]](https://arxiv.org/pdf/2201.08683.pdf)
+
 - (arXiv 2022.01) Video Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2201.05991.pdf)
 
 - (arXiv 2021.11) A Survey of Visual Transformers. [[Paper]](https://arxiv.org/pdf/2111.06091.pdf)
@@ -515,6 +517,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images, [[Paper]](https://arxiv.org/pdf/2201.01266.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR)
 - (arXiv 2022.01) Swin Transformer for Fast MRI, [[Paper]](https://arxiv.org/pdf/2201.01266.pdf), [[Code]](https://github.com/ayanglab/SwinMR)
 - (arXiv 2022.01) ViTBIS: Vision Transformer for Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.05920.pdf)
+- (arXiv 2022.01) Improving Across-Dataset Brain Tissue Segmentation Using Transformer, [[Paper]](https://arxiv.org/pdf/2201.08741.pdf), [[Code]](https://github.com/raovish6/TABS)
+- (arXiv 2022.01) SegTransVAE: Hybrid CNN -- Transformer with Regularization for medical image segmentation, [[Paper]](https://arxiv.org/pdf/2201.08582.pdf), [[Code]](https://github.com/itruonghai/SegTransVAE)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
