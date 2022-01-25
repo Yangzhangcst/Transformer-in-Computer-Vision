@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/24
+**Last updated: 2022/01/25
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -15,6 +15,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2021/December* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
+- (arXiv 2022.01) Transformers in Medical Imaging: A Survey. [[Paper]](https://arxiv.org/pdf/2201.09873.pdf), [[Awesome]](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)
+
 - (arXiv 2022.01) A Comprehensive Study of Vision Transformers on Dense Prediction Tasks. [[Paper]](https://arxiv.org/pdf/2201.08683.pdf)
 
 - (arXiv 2022.01) Video Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2201.05991.pdf)
@@ -260,6 +262,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) PyramidTNT: Improved Transformer-in-Transformer Baselines with Pyramid Architecture, [[Paper]](https://arxiv.org/pdf/2201.00978.pdf), [[Code]](https://github.com/huawei-noah/CV-Backbones/tree/master/tnt_pytorch)
 - (arXiv 2022.01) QuadTree Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2201.02767.pdf), [[Code]](https://github.com/Tangshitao/QuadtreeAttention)
 - (arXiv 2022.01) TerViT: An Efficient Ternary Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.08050.pdf)
+- (arXiv 2022.01) UniFormer: Unifying Convolution and Self-attention for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2201.09450.pdf), [[Code]](https://github.com/Sense-X/UniFormer)
+- (arXiv 2022.01) Patches Are All You Need?, [[Paper]](https://arxiv.org/pdf/2201.09792.pdf), [[Code]](https://github.com/locuslab/convmixer)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -519,6 +523,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) ViTBIS: Vision Transformer for Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.05920.pdf)
 - (arXiv 2022.01) Improving Across-Dataset Brain Tissue Segmentation Using Transformer, [[Paper]](https://arxiv.org/pdf/2201.08741.pdf), [[Code]](https://github.com/raovish6/TABS)
 - (arXiv 2022.01) SegTransVAE: Hybrid CNN -- Transformer with Regularization for medical image segmentation, [[Paper]](https://arxiv.org/pdf/2201.08582.pdf), [[Code]](https://github.com/itruonghai/SegTransVAE)
+- (arXiv 2022.01) ReconFormer: Accelerated MRI Reconstruction Using Recurrent Transformer, [[Paper]](https://arxiv.org/pdf/2201.09376.pdf), [[Code]](https://github.com/guopengf/ReconFormer)
+- (arXiv 2022.01) Fast MRI Reconstruction: How Powerful Transformers Are?, [[Paper]](https://arxiv.org/pdf/2201.09400.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -583,6 +589,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Uniformer: Unified Transformer for Efficient Spatiotemporal Representation Learning, [[Paper]](https://arxiv.org/pdf/2201.04676.pdf),[[Code]](https://github.com/Sense-X/UniFormer)
 - (arXiv 2022.01) BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions, [[Paper]](https://arxiv.org/pdf/2201.04850.pdf),[[Code]](https://geyuying.github.io/MCQ.html)
 - (arXiv 2022.01) OMNIVORE: A Single Model for Many Visual Modalities, [[Paper]](https://arxiv.org/pdf/2201.08377.pdf),[[Code]](https://facebookresearch.github.io/omnivore/)
+- (arXiv 2022.01) A Pre-trained Audio-Visual Transformer for Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2201.09165.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -819,6 +826,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) SeMask: Semantically Masked Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2112.12782.pdf), [[Code]](https://github.com/Picsart-AI-Research/SeMask-Segmentation)
 - (arXiv 2022.01) Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention, [[Paper]](https://arxiv.org/pdf/2201.01615.pdf), [[Code]](https://github.com/yan-hao-tian/lawin)
 - (arXiv 2022.01) Pyramid Fusion Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2201.04019.pdf)
+- (arXiv 2022.01) Dual-Flattening Transformers through Decomposed Row and Column Queries for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2201.09139.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
