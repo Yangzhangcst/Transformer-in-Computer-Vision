@@ -1051,6 +1051,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Continual Transformers: Redundancy-Free Attention for Online Inference,[[Paper]](https://arxiv.org/pdf/2201.06268.pdf)
 - (arXiv 2022.01) Disentangled Latent Transformer for Interpretable Monocular Height Estimation,[[Paper]](https://arxiv.org/pdf/2201.06357.pdf), [[Code]](https://github.com/ShadowXZT/DLT-Height-Estimation.pytorch)
 - (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation,[[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
+- (arXiv 2022.01) A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization,[[Paper]](https://arxiv.org/pdf/2201.09206.pdf), [[Code]](https://github.com/Dmmm1997/FSRA)
+- (arXiv 2022.01) Transformer-based SAR Image Despeckling,[[Paper]](https://arxiv.org/pdf/2201.09355.pdf), [[Code]](https://github.com/malshaV/sar_transformer)
+
 
 ## Contact & Feedback
 
