@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/25
+**Last updated: 2022/01/26
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -264,6 +264,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) TerViT: An Efficient Ternary Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.08050.pdf)
 - (arXiv 2022.01) UniFormer: Unifying Convolution and Self-attention for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2201.09450.pdf), [[Code]](https://github.com/Sense-X/UniFormer)
 - (arXiv 2022.01) Patches Are All You Need?, [[Paper]](https://arxiv.org/pdf/2201.09792.pdf), [[Code]](https://github.com/locuslab/convmixer)
+- (arXiv 2022.01) Convolutional Xformers for Vision, [[Paper]](https://arxiv.org/pdf/2201.10271.pdf), [[Code]](https://github.com/pranavphoenix/CXV)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -381,6 +382,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
+- (arXiv 2022.01) TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf)
 
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -398,6 +400,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
+
+## Hand Gesture
+- (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
 
 ### HOI
 - (CVPR'21) HOTR: End-to-End Human-Object Interaction Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.13682.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
@@ -590,6 +595,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) BridgeFormer: Bridging Video-text Retrieval with Multiple Choice Questions, [[Paper]](https://arxiv.org/pdf/2201.04850.pdf),[[Code]](https://geyuying.github.io/MCQ.html)
 - (arXiv 2022.01) OMNIVORE: A Single Model for Many Visual Modalities, [[Paper]](https://arxiv.org/pdf/2201.08377.pdf),[[Code]](https://facebookresearch.github.io/omnivore/)
 - (arXiv 2022.01) A Pre-trained Audio-Visual Transformer for Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2201.09165.pdf)
+- (arXiv 2022.01) Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition, [[Paper]](https://arxiv.org/pdf/2201.10439.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -763,6 +769,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Towards Efficient Cross-Modal Visual Textual Retrieval using Transformer-Encoder Deep Features, [[Paper]](https://arxiv.org/pdf/2106.00358.pdf)
 - (arXiv 2021.06) All You Can Embed: Natural Language based Vehicle Retrieval with Spatio-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2106.10153.pdf), [[Code]](https://github.com/cscribano/AYCE_2021)
 - (arXiv 2021.09) Vision Transformer Hashing for Image Retrieval, [[Paper]](https://arxiv.org/pdf/2109.12564.pdf)
+- (arXiv 2022.01) Zero-Shot Sketch Based Image Retrieval using Graph Transformer, [[Paper]](https://arxiv.org/pdf/2201.10185.pdf)
 
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
@@ -830,6 +837,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
+- (arXiv 2022.01) ShapeFormer: Transformer-based Shape Completion via Sparse Representation,  [[Paper]](https://arxiv.org/abs/2201.10326), [[Project]](https://shapeformer.github.io/)
 
 ### Super-Resolution
 - (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
@@ -946,6 +954,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Multiview Transformers for Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.04288.pdf)
 - (arXiv 2022.01) TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers,[[Paper]](https://arxiv.org/pdf/2201.05047.pdf)
 - (arXiv 2022.01) MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.08383.pdf)
+- (arXiv 2022.01) Explore and Match: End-to-End Video Grounding with Transformer,[[Paper]](https://arxiv.org/pdf/2201.10168.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -1053,7 +1062,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation,[[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
 - (arXiv 2022.01) A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization,[[Paper]](https://arxiv.org/pdf/2201.09206.pdf), [[Code]](https://github.com/Dmmm1997/FSRA)
 - (arXiv 2022.01) Transformer-based SAR Image Despeckling,[[Paper]](https://arxiv.org/pdf/2201.09355.pdf), [[Code]](https://github.com/malshaV/sar_transformer)
-
+- (arXiv 2022.01) DocEnTr: An End-to-End Document Image Enhancement Transformer,[[Paper]](https://arxiv.org/pdf/2201.10252.pdf), [[Code]](https://github.com/dali92002/DocEnTR)
+- (arXiv 2022.01) Pre-Trained Language Transformers are Universal Image Classifiers,[[Paper]](https://arxiv.org/pdf/2201.10182.pdf)
 
 ## Contact & Feedback
 
