@@ -265,6 +265,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) UniFormer: Unifying Convolution and Self-attention for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2201.09450.pdf), [[Code]](https://github.com/Sense-X/UniFormer)
 - (arXiv 2022.01) Patches Are All You Need?, [[Paper]](https://arxiv.org/pdf/2201.09792.pdf), [[Code]](https://github.com/locuslab/convmixer)
 - (arXiv 2022.01) Convolutional Xformers for Vision, [[Paper]](https://arxiv.org/pdf/2201.10271.pdf), [[Code]](https://github.com/pranavphoenix/CXV)
+- (arXiv 2022.01) When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2201.10801.pdf), [[Code]](https://github.com/microsoft/SPACH)
+- (arXiv 2022.01) Training Vision Transformers with Only 2040 Images, [[Paper]](https://arxiv.org/pdf/2201.10728.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -529,7 +531,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Improving Across-Dataset Brain Tissue Segmentation Using Transformer, [[Paper]](https://arxiv.org/pdf/2201.08741.pdf), [[Code]](https://github.com/raovish6/TABS)
 - (arXiv 2022.01) SegTransVAE: Hybrid CNN -- Transformer with Regularization for medical image segmentation, [[Paper]](https://arxiv.org/pdf/2201.08582.pdf), [[Code]](https://github.com/itruonghai/SegTransVAE)
 - (arXiv 2022.01) ReconFormer: Accelerated MRI Reconstruction Using Recurrent Transformer, [[Paper]](https://arxiv.org/pdf/2201.09376.pdf), [[Code]](https://github.com/guopengf/ReconFormer)
-- (arXiv 2022.01) Fast MRI Reconstruction: How Powerful Transformers Are?, [[Paper]](https://arxiv.org/pdf/2201.09400.pdf)
+- (arXiv 2022.01) Fast MRI Reconstruction: How Powerful Transformers Are, [[Paper]](https://arxiv.org/pdf/2201.09400.pdf)
+- (arXiv 2022.01) Class-Aware Generative Adversarial Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.10737.pdf)
+- (arXiv 2022.01) RTNet: Relation Transformer Network for Diabetic Retinopathy Multi-lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2201.11037.pdf)
+- (arXiv 2022.01) Joint Liver and Hepatic Lesion Segmentation using a Hybrid CNN with Transformer Layers, [[Paper]](https://arxiv.org/pdf/2201.10981.pdf)
+- (arXiv 2022.01) DSFormer: A Dual-domain Self-supervised Transformer for Accelerated Multi-contrast MRI Reconstruction, [[Paper]](https://arxiv.org/pdf/2201.10981.pdf)
+- (arXiv 2022.01) TransPPG: Two-stream Transformer for Remote Heart Rate Estimate, [[Paper]](https://arxiv.org/pdf/2201.10873.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -1064,6 +1071,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Transformer-based SAR Image Despeckling,[[Paper]](https://arxiv.org/pdf/2201.09355.pdf), [[Code]](https://github.com/malshaV/sar_transformer)
 - (arXiv 2022.01) DocEnTr: An End-to-End Document Image Enhancement Transformer,[[Paper]](https://arxiv.org/pdf/2201.10252.pdf), [[Code]](https://github.com/dali92002/DocEnTR)
 - (arXiv 2022.01) Pre-Trained Language Transformers are Universal Image Classifiers,[[Paper]](https://arxiv.org/pdf/2201.10182.pdf)
+- (arXiv 2022.01) Dual-Tasks Siamese Transformer Framework for Building Damage Assessment,[[Paper]](https://arxiv.org/pdf/2201.10953.pdf)
 
 ## Contact & Feedback
 
