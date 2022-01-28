@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/26
+**Last updated: 2022/01/27
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -603,6 +603,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) OMNIVORE: A Single Model for Many Visual Modalities, [[Paper]](https://arxiv.org/pdf/2201.08377.pdf),[[Code]](https://facebookresearch.github.io/omnivore/)
 - (arXiv 2022.01) A Pre-trained Audio-Visual Transformer for Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2201.09165.pdf)
 - (arXiv 2022.01) Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition, [[Paper]](https://arxiv.org/pdf/2201.10439.pdf)
+- (arXiv 2022.01) Transformer Module Networks for Systematic Generalization in Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -799,6 +800,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Compositional Transformers for Scene Generation, [[Paper]](https://arxiv.org/pdf/2111.08960.pdf)
 - (arXiv 2021.11) Scene Representation Transformer: Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations, [[Paper]](https://arxiv.org/pdf/2111.13152.pdf), [[Project]](https://srt-paper.github.io/)
 - (arXiv 2021.12) SGTR: End-to-end Scene Graph Generation with Transformer, [[Paper]](https://arxiv.org/pdf/2112.12970.pdf)
+- (arXiv 2022.01) RelTR: Relation Transformer for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2201.11460.pdf), [[Code]](https://github.com/yrcong/RelTR)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -1072,6 +1074,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) DocEnTr: An End-to-End Document Image Enhancement Transformer,[[Paper]](https://arxiv.org/pdf/2201.10252.pdf), [[Code]](https://github.com/dali92002/DocEnTR)
 - (arXiv 2022.01) Pre-Trained Language Transformers are Universal Image Classifiers,[[Paper]](https://arxiv.org/pdf/2201.10182.pdf)
 - (arXiv 2022.01) Dual-Tasks Siamese Transformer Framework for Building Damage Assessment,[[Paper]](https://arxiv.org/pdf/2201.10953.pdf)
+- (arXiv 2022.01) DocSegTr: An Instance-Level End-to-End Document Image Segmentation Transformer,[[Paper]](https://arxiv.org/pdf/2201.11438.pdf)
+- (arXiv 2022.01) Generalised Image Outpainting with U-Transformer,[[Paper]](https://arxiv.org/pdf/2201.11403.pdf)
 
 ## Contact & Feedback
 
