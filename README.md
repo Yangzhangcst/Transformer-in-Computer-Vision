@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/27
+**Last updated: 2022/01/30
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -13,6 +13,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2021/October* - update all of recent papers of Transformer-in-Vision.  
 *2021/November* - update all of recent papers of Transformer-in-Vision.  
 *2021/December* - update all of recent papers of Transformer-in-Vision.  
+*2022/January* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
 - (arXiv 2022.01) Transformers in Medical Imaging: A Survey. [[Paper]](https://arxiv.org/pdf/2201.09873.pdf), [[Awesome]](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)
@@ -212,7 +213,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Adversarial Token Attacks on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.04337.pdf)
 - (arXiv 2021.10) Certified Patch Robustness via Smoothed Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.07719.pdf), [[Code]](https://github.com/MadryLab/smoothed-vit)
 - (arXiv 2021.10) Understanding and Improving Robustness of Vision Transformers through Patch-based Negative Augmentation, [[Paper]](https://arxiv.org/pdf/2110.07858.pdf)
-- (arXiv 2021.10) Bilateral-ViT for Robust Fovea Localization, [[Paper]](https://arxiv.org/pdf/2110.09860.pdf)
 - (arXiv 2021.10) SOFT: Softmax-free Transformer with Linear Complexity, [[Paper]](https://arxiv.org/pdf/2110.11945.pdf), [[Code]](https://github.com/fudan-zvg/SOFT)
 - (arXiv 2021.10) Blending Anti-Aliasing into Vision Transformer, [[Paper]](https://arxiv.org/pdf/2110.15156.pdf), [[Code]](https://github.com/amazon-research/anti-aliasing-transformer)
 - (arXiv 2021.11) Can Vision Transformers Perform Convolution, [[Paper]](https://arxiv.org/pdf/2111.01353.pdf)
@@ -508,6 +508,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Combining CNNs With Transformer for Multimodal 3D MRI Brain Tumor Segmentation With Self-Supervised Pretraining, [[Paper]](https://arxiv.org/pdf/2110.07919.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
 - (arXiv 2021.10) CAE-Transformer: Transformer-based Model to Predict Invasiveness of Lung Adenocarcinoma Subsolid Nodules from Non-thin Section 3D CT Scans, [[Paper]](https://arxiv.org/pdf/2110.08721.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
 - (arXiv 2021.10) COVID-19 Detection in Chest X-ray Images Using Swin-Transformer and Transformer in Transformer, [[Paper]](https://arxiv.org/pdf/2110.08427.pdf), [[Code]](https://github.com/ucuapps/BraTS2021_Challenge)
+- (arXiv 2021.10) Bilateral-ViT for Robust Fovea Localization, [[Paper]](https://arxiv.org/pdf/2110.09860.pdf)
 - (arXiv 2021.10) AFTer-UNet: Axial Fusion Transformer UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2110.10403.pdf)
 - (arXiv 2021.10) Vision Transformer for Classification of Breast Ultrasound Images, [[Paper]](https://arxiv.org/pdf/2110.14731.pdf)
 - (arXiv 2021.11) Federated Split Vision Transformer for COVID-19CXR Diagnosis using Task-Agnostic Training, [[Paper]](https://arxiv.org/pdf/2111.01338.pdf)
