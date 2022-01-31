@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/30
+**Last updated: 2022/01/31
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -267,6 +267,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Convolutional Xformers for Vision, [[Paper]](https://arxiv.org/pdf/2201.10271.pdf), [[Code]](https://github.com/pranavphoenix/CXV)
 - (arXiv 2022.01) When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2201.10801.pdf), [[Code]](https://github.com/microsoft/SPACH)
 - (arXiv 2022.01) Training Vision Transformers with Only 2040 Images, [[Paper]](https://arxiv.org/pdf/2201.10728.pdf)
+- (arXiv 2022.01) O-ViT: Orthogonal Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.12133.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -350,6 +351,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) BEVDet: High-Performance Multi-Camera 3D Object Detection in Bird-Eye-View, [[Paper]](https://arxiv.org/pdf/2112.11790.pdf)
 - (arXiv 2021.12) Miti-DETR: Object Detection based on Transformers with Mitigatory Self-Attention Convergence, [[Paper]](https://arxiv.org/pdf/2112.13310.pdf)
 - (arXiv 2022.01) Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond, [[Paper]](https://arxiv.org/pdf/2201.03176.pdf), [[Code]](https://github.com/hasanirtiza/Pedestron)
+- (arXiv 2022.01) DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR, [[Paper]](https://arxiv.org/pdf/2201.12329.pdf), [[Code]](https://github.com/SlongLiu/DAB-DETR)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -965,6 +967,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers,[[Paper]](https://arxiv.org/pdf/2201.05047.pdf)
 - (arXiv 2022.01) MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.08383.pdf)
 - (arXiv 2022.01) Explore and Match: End-to-End Video Grounding with Transformer,[[Paper]](https://arxiv.org/pdf/2201.10168.pdf)
+- (arXiv 2022.01) VRT: A Video Restoration Transformer,[[Paper]](https://arxiv.org/pdf/2201.12288.pdf), [[Code]](https://github.com/JingyunLiang/VRT)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
