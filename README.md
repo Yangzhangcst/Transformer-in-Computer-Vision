@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/01/31
+**Last updated: 2022/02/01
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -268,6 +268,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) When Shift Operation Meets Vision Transformer: An Extremely Simple Alternative to Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2201.10801.pdf), [[Code]](https://github.com/microsoft/SPACH)
 - (arXiv 2022.01) Training Vision Transformers with Only 2040 Images, [[Paper]](https://arxiv.org/pdf/2201.10728.pdf)
 - (arXiv 2022.01) O-ViT: Orthogonal Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.12133.pdf)
+- (arXiv 2022.01) Aggregating Global Features into Local Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.12903.pdf),[[Code]](https://github.com/krushi1992/MOA-transformer)
+- (arXiv 2022.01) BOAT: Bilateral Local Attention Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.13027.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -540,6 +542,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Joint Liver and Hepatic Lesion Segmentation using a Hybrid CNN with Transformer Layers, [[Paper]](https://arxiv.org/pdf/2201.10981.pdf)
 - (arXiv 2022.01) DSFormer: A Dual-domain Self-supervised Transformer for Accelerated Multi-contrast MRI Reconstruction, [[Paper]](https://arxiv.org/pdf/2201.10981.pdf)
 - (arXiv 2022.01) TransPPG: Two-stream Transformer for Remote Heart Rate Estimate, [[Paper]](https://arxiv.org/pdf/2201.10873.pdf)
+- (arXiv 2022.01) TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.12785.pdf), [[Code]](https://github.com/Wenxuan-1119/TransBTS)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
