@@ -449,6 +449,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
+- (arXiv 2022.02) Local Feature Matching with Transformers for low-end devices, [[Paper]](https://arxiv.org/pdf/2202.00770.pdf), [[Code]](https://github.com/Kolkir/Coarse_LoFTR_TRT)
 
 ### Medical
 - (arXiv 2021.02) TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2102.04306), [[Code]](https://github.com/Beckschen/TransUNet)
