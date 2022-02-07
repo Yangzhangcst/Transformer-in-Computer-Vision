@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/03
+**Last updated: 2022/02/07
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -545,6 +545,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) DSFormer: A Dual-domain Self-supervised Transformer for Accelerated Multi-contrast MRI Reconstruction, [[Paper]](https://arxiv.org/pdf/2201.10981.pdf)
 - (arXiv 2022.01) TransPPG: Two-stream Transformer for Remote Heart Rate Estimate, [[Paper]](https://arxiv.org/pdf/2201.10873.pdf)
 - (arXiv 2022.01) TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.12785.pdf), [[Code]](https://github.com/Wenxuan-1119/TransBTS)
+- (arXiv 2022.01) Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2202.01857.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
