@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/07
+**Last updated: 2022/02/08
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -294,6 +294,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) Vision Transformers for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2103.13413.pdf), [[Code]](https://github.com/intel-isl/DPT)
 - (arXiv 2021.03) Transformers Solve the Limited Receptive Field for Monocular Depth Prediction, [[Paper]](https://arxiv.org/pdf/2103.12091.pdf), [[Code]](https://github.com/ygjwd12345/TransDepth)
 - (arXiv 2021.09) Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2109.10563.pdf)
+- (arXiv 2022.02) GLPanoDepth: Global-to-Local Panoramic Depth Estimation, [[Paper]](https://arxiv.org/pdf/2202.02796.pdf)
+- (arXiv 2022.02) Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics, [[Paper]](https://arxiv.org/pdf/2202.03131.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -901,6 +903,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) DetectorNet: Transformer-enhanced Spatial Temporal Graph Neural Network for Traffic Prediction, [[Paper]](https://arxiv.org/pdf/2111.00869.pdf)
 - (arXiv 2021.11) ProSTformer: Pre-trained Progressive Space-Time Self-attention Model for Traffic Flow Forecasting, [[Paper]](https://arxiv.org/pdf/2111.03459.pdf)
 - (arXiv 2022.01) SwinUNet3D -- A Hierarchical Architecture for Deep Traffic Prediction using Shifted Window Transformers, [[Paper]](https://arxiv.org/pdf/2201.06390.pdf), [[Code]](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)
+- (arXiv 2022.02) TransFollower: Long-Sequence Car-Following Trajectory Prediction through Transformer, [[Paper]](https://arxiv.org/pdf/2202.03183.pdf)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
