@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/09
+**Last updated: 2022/02/10
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -771,6 +771,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Self-Supervised Pre-Training for Transformer-Based Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2111.12084.pdf), [[Code]](https://github.com/michuanhaohao/TransReID-SSL)
 - (arXiv 2021.12) Pose-guided Feature Disentangling for Occluded Person Re-identification Based on Transformer, [[Paper]](https://arxiv.org/pdf/2112.02466.pdf), [[Code]](https://github.com/WangTaoAs/PFD_Net)
 - (arXiv 2022.01) Short Range Correlation Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2201.01090.pdf)
+- (arXiv 2022.02) Motion-Aware Transformer For Occluded Person Re-identification, [[Paper]](https://arxiv.org/pdf/2202.04243.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -879,6 +880,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) The Image Local Autoregressive Transformer, [[Paper]](https://arxiv.org/pdf/2106.02514.pdf)
 - (arXiv 2021.10) ATISS: Autoregressive Transformers for Indoor Scene Synthesis, [[Paper]](https://arxiv.org/pdf/2110.03675.pdf), [[Project]](https://nv-tlabs.github.io/ATISS/)
 - (arXiv 2021.11) Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/pdf/2111.03481.pdf)
+- (arXiv 2022.02) MaskGIT: Masked Generative Image Transformer, [[Paper]](https://arxiv.org/pdf/2202.04200.pdf)
 
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
