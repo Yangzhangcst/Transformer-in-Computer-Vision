@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/10
+**Last updated: 2022/02/11
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -1076,23 +1076,25 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
 - (arXiv 2021.12) Nonlinear Transform Source-Channel Coding for Semantic Communications, [[Paper]](https://arxiv.org/pdf/2112.10961.pdf)
 - (arXiv 2021.12) APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.14087.pdf)
-- (arXiv 2022.01) Splicing ViT Features for Semantic Appearance Transfer,[[Paper]](https://arxiv.org/pdf/2201.00424.pdf), [[Project]](https://splice-vit.github.io/)
-- (arXiv 2022.01) A Transformer-Based Siamese Network for Change Detection,[[Paper]](https://arxiv.org/pdf/2201.01293.pdf), [[Code]](https://github.com/wgcban/ChangeFormer)
-- (arXiv 2022.01) Learning class prototypes from Synthetic InSAR with Vision Transformers,[[Paper]](https://arxiv.org/pdf/2201.03016.pdf)
-- (arXiv 2022.01) Swin transformers make strong contextual encoders for VHR image road extraction,[[Paper]](https://arxiv.org/pdf/2201.03178.pdf)
-- (arXiv 2022.01) Technical Report for ICCV 2021 Challenge SSLAD-Track3B: Transformers Are Better Continual Learners,[[Paper]](https://arxiv.org/pdf/2201.04924.pdf)
-- (arXiv 2022.01) Spectral Compressive Imaging Reconstruction Using Convolution and Spectral Contextual Transformer,[[Paper]](https://arxiv.org/pdf/2201.05768.pdf)
-- (arXiv 2022.01) VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer,[[Paper]](https://arxiv.org/pdf/2201.06618.pdf)
-- (arXiv 2022.01) Continual Transformers: Redundancy-Free Attention for Online Inference,[[Paper]](https://arxiv.org/pdf/2201.06268.pdf)
-- (arXiv 2022.01) Disentangled Latent Transformer for Interpretable Monocular Height Estimation,[[Paper]](https://arxiv.org/pdf/2201.06357.pdf), [[Code]](https://github.com/ShadowXZT/DLT-Height-Estimation.pytorch)
-- (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation,[[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
-- (arXiv 2022.01) A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization,[[Paper]](https://arxiv.org/pdf/2201.09206.pdf), [[Code]](https://github.com/Dmmm1997/FSRA)
-- (arXiv 2022.01) Transformer-based SAR Image Despeckling,[[Paper]](https://arxiv.org/pdf/2201.09355.pdf), [[Code]](https://github.com/malshaV/sar_transformer)
-- (arXiv 2022.01) DocEnTr: An End-to-End Document Image Enhancement Transformer,[[Paper]](https://arxiv.org/pdf/2201.10252.pdf), [[Code]](https://github.com/dali92002/DocEnTR)
-- (arXiv 2022.01) Pre-Trained Language Transformers are Universal Image Classifiers,[[Paper]](https://arxiv.org/pdf/2201.10182.pdf)
-- (arXiv 2022.01) Dual-Tasks Siamese Transformer Framework for Building Damage Assessment,[[Paper]](https://arxiv.org/pdf/2201.10953.pdf)
-- (arXiv 2022.01) DocSegTr: An Instance-Level End-to-End Document Image Segmentation Transformer,[[Paper]](https://arxiv.org/pdf/2201.11438.pdf)
-- (arXiv 2022.01) Generalised Image Outpainting with U-Transformer,[[Paper]](https://arxiv.org/pdf/2201.11403.pdf)
+- (arXiv 2022.01) Splicing ViT Features for Semantic Appearance Transfer, [[Paper]](https://arxiv.org/pdf/2201.00424.pdf), [[Project]](https://splice-vit.github.io/)
+- (arXiv 2022.01) A Transformer-Based Siamese Network for Change Detection, [[Paper]](https://arxiv.org/pdf/2201.01293.pdf), [[Code]](https://github.com/wgcban/ChangeFormer)
+- (arXiv 2022.01) Learning class prototypes from Synthetic InSAR with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2201.03016.pdf)
+- (arXiv 2022.01) Swin transformers make strong contextual encoders for VHR image road extraction, [[Paper]](https://arxiv.org/pdf/2201.03178.pdf)
+- (arXiv 2022.01) Technical Report for ICCV 2021 Challenge SSLAD-Track3B: Transformers Are Better Continual Learners, [[Paper]](https://arxiv.org/pdf/2201.04924.pdf)
+- (arXiv 2022.01) Spectral Compressive Imaging Reconstruction Using Convolution and Spectral Contextual Transformer, [[Paper]](https://arxiv.org/pdf/2201.05768.pdf)
+- (arXiv 2022.01) VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.06618.pdf)
+- (arXiv 2022.01) Continual Transformers: Redundancy-Free Attention for Online Inference, [[Paper]](https://arxiv.org/pdf/2201.06268.pdf)
+- (arXiv 2022.01) Disentangled Latent Transformer for Interpretable Monocular Height Estimation, [[Paper]](https://arxiv.org/pdf/2201.06357.pdf), [[Code]](https://github.com/ShadowXZT/DLT-Height-Estimation.pytorch)
+- (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
+- (arXiv 2022.01) A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization, [[Paper]](https://arxiv.org/pdf/2201.09206.pdf), [[Code]](https://github.com/Dmmm1997/FSRA)
+- (arXiv 2022.01) Transformer-based SAR Image Despeckling, [[Paper]](https://arxiv.org/pdf/2201.09355.pdf), [[Code]](https://github.com/malshaV/sar_transformer)
+- (arXiv 2022.01) DocEnTr: An End-to-End Document Image Enhancement Transformer, [[Paper]](https://arxiv.org/pdf/2201.10252.pdf), [[Code]](https://github.com/dali92002/DocEnTR)
+- (arXiv 2022.01) Pre-Trained Language Transformers are Universal Image Classifiers, [[Paper]](https://arxiv.org/pdf/2201.10182.pdf)
+- (arXiv 2022.01) Dual-Tasks Siamese Transformer Framework for Building Damage Assessment, [[Paper]](https://arxiv.org/pdf/2201.10953.pdf)
+- (arXiv 2022.01) DocSegTr: An Instance-Level End-to-End Document Image Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2201.11438.pdf)
+- (arXiv 2022.01) Generalised Image Outpainting with U-Transformer, [[Paper]](https://arxiv.org/pdf/2201.11403.pdf)
+- (arXiv 2022.02) Spherical Transformer, [[Paper]](https://arxiv.org/pdf/2202.04942.pdf)
+- (arXiv 2022.02) Exploiting Spatial Sparsity for Event Cameras with Visual Transformers, [[Paper]](https://arxiv.org/pdf/2202.05054.pdf)
 
 ## Contact & Feedback
 
