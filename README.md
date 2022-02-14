@@ -95,6 +95,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Injecting Semantic Concepts into End-to-End Image Captioning, [[Paper]](https://arxiv.org/pdf/2112.05230.pdf)
 - (arXiv 2022.01) Compact Bidirectional Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2201.01984.pdf), [[Code]](https://github.com/YuanEZhou/CBTrans) 
 - (arXiv 2022.02) ACORT: A Compact Object Relation Transformer for Parameter Efficient Image Captioning, [[Paper]](https://arxiv.org/pdf/2202.05451.pdf), [[Code]](https://github.com/jiahuei/sparse-image-captioning) 
+- (arXiv 2022.02) Deep soccer captioning with transformer: dataset, semantics-related losses, and multi-level evaluation, [[Paper]](https://arxiv.org/pdf/2202.05728.pdf), [[Code]](https://sites.google.com/view/soccercaptioning) 
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
