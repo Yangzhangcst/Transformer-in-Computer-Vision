@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/11
+**Last updated: 2022/02/14
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -94,6 +94,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning, [[Paper]](https://arxiv.org/pdf/2111.13196.pdf)
 - (arXiv 2021.12) Injecting Semantic Concepts into End-to-End Image Captioning, [[Paper]](https://arxiv.org/pdf/2112.05230.pdf)
 - (arXiv 2022.01) Compact Bidirectional Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2201.01984.pdf), [[Code]](https://github.com/YuanEZhou/CBTrans) 
+- (arXiv 2022.02) ACORT: A Compact Object Relation Transformer for Parameter Efficient Image Captioning, [[Paper]](https://arxiv.org/pdf/2202.05451.pdf), [[Code]](https://github.com/jiahuei/sparse-image-captioning) 
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -280,6 +281,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Towards End-to-End Image Compression and Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2112.09300.pdf), [[Code]](https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers)
 - (arXiv 2021.12) CSformer: Bridging Convolution and Transformer for Compressive Sensing, [[Paper]](https://arxiv.org/pdf/2112.15299.pdf)
 - (arXiv 2022.01) Multi-Dimensional Model Compression of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.00043.pdf)
+- (arXiv 2022.02) Entroformer: A Transformer-based Entropy Model for Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2202.05492.pdf), [[Code]]( https://github.com/mx54039q/entroformer)
 
 ### Crowd Counting
 - (arXiv 2021.04) TransCrowd: Weakly-Supervised Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2104.09116.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
@@ -616,6 +618,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition, [[Paper]](https://arxiv.org/pdf/2201.10439.pdf)
 - (arXiv 2022.01) Transformer Module Networks for Systematic Generalization in Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf)
 - (arXiv 2022.02) DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf),[[Code]](https://github.com/j-min/DallEval)
+- (arXiv 2022.02) Towards Weakly-Supervised Text Spotting using a Multi-Task Transformer, [[Paper]](https://arxiv.org/pdf/2202.05508.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
