@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/14
+**Last updated: 2022/02/15
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -272,6 +272,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) O-ViT: Orthogonal Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.12133.pdf)
 - (arXiv 2022.01) Aggregating Global Features into Local Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.12903.pdf),[[Code]](https://github.com/krushi1992/MOA-transformer)
 - (arXiv 2022.01) BOAT: Bilateral Local Attention Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.13027.pdf)
+- (arXiv 2022.02) BViT: Broad Attention based Vision Transformer, [[Paper]](https://arxiv.org/pdf/2202.06268.pdf),[[Code]](https://github.com/DRL-CASIA/Broad_ViT)
+- (arXiv 2022.02) How Do Vision Transformers Work, [[Paper]](https://arxiv.org/pdf/2202.06709.pdf),[[Code]](https://github.com/xxxnell/how-do-vits-work)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -390,6 +392,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Sparse Spatial Transformers for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2109.12932.pdf)
 - (arXiv 2021.12) Cost Aggregation Is All You Need for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2112.11685.pdf), [[Code]](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer)
 - (arXiv 2022.01) HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2201.04182.pdf)
+- (arXiv 2022.02) Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2202.06498.pdf)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -455,6 +458,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
 - (arXiv 2022.02) Local Feature Matching with Transformers for low-end devices, [[Paper]](https://arxiv.org/pdf/2202.00770.pdf), [[Code]](https://github.com/Kolkir/Coarse_LoFTR_TRT)
+- (arXiv 2022.02) CATs++: Boosting Cost Aggregation with Convolutions and Transformers, [[Paper]](https://arxiv.org/pdf/2202.06817.pdf), [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
 
 ### Medical
 - (arXiv 2021.02) TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2102.04306), [[Code]](https://github.com/Beckschen/TransUNet)
@@ -551,6 +555,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) TransPPG: Two-stream Transformer for Remote Heart Rate Estimate, [[Paper]](https://arxiv.org/pdf/2201.10873.pdf)
 - (arXiv 2022.01) TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.12785.pdf), [[Code]](https://github.com/Wenxuan-1119/TransBTS)
 - (arXiv 2022.01) Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2202.01857.pdf)
+- (arXiv 2022.02) Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers, [[Paper]](https://arxiv.org/pdf/2202.06076.pdf), [[Code]](https://github.com/jacenkow/mmbt)
+- (arXiv 2022.02) AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation, [[Paper]](https://arxiv.org/pdf/2202.06431.pdf), [[Code]](https://github.com/jacenkow/mmbt)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -694,6 +700,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Fast Point Transformer, [[Paper]](https://arxiv.org/pdf/2112.04702.pdf)
 - (arXiv 2021.12) Embracing Single Stride 3D Object Detector with Sparse Transformer, [[Paper]](https://arxiv.org/pdf/2112.06375.pdf), [[Code]](https://github.com/TuSimple/SST) 
 - (arXiv 2021.12) Full Transformer Framework for Robust Point Cloud Registration with Deep Information Interaction, [[Paper]](https://arxiv.org/pdf/2112.09385.pdf), [[Code]](https://github.com/CGuangyan-BIT/DIT) 
+- (arXiv 2022.02) Geometric Transformer for Fast and Robust Point Cloud Registration, [[Paper]](https://arxiv.org/pdf/2202.06688.pdf), [[Code]](https://github.com/qinzheng93/GeoTransformer) 
+- (arXiv 2022.02) LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling, [[Paper]](https://arxiv.org/pdf/2202.06263.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -985,6 +993,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.08383.pdf)
 - (arXiv 2022.01) Explore and Match: End-to-End Video Grounding with Transformer,[[Paper]](https://arxiv.org/pdf/2201.10168.pdf)
 - (arXiv 2022.01) VRT: A Video Restoration Transformer,[[Paper]](https://arxiv.org/pdf/2201.12288.pdf), [[Code]](https://github.com/JingyunLiang/VRT)
+- (arXiv 2022.02) Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval,[[Paper]](https://arxiv.org/pdf/2202.06014.pdf), [[Code]](https://git.openi.org.cn/zangxh/PiT.git)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
