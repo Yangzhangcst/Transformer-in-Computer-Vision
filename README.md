@@ -933,6 +933,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Pre-Training Transformers for Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2112.09965.pdf)
 - (arXiv 2022.01) Domain Adaptation via Bidirectional Cross-Attention Transformer, [[Paper]](https://arxiv.org/pdf/2201.05887.pdf)
 
+### Unsupervised learning
+- (arXiv 2022.02) Handcrafted Histological Transformer (H2T): Unsupervised Representation of Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2202.07001.pdf)
+
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
 - (ICLR'21) Support-set bottlenecks for video-text representation learning, [[Paper]](https://arxiv.org/pdf/2010.02824.pdf)
