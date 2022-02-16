@@ -927,6 +927,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
+- (arXiv 2021.08) TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
+- (arXiv 2021.09) CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2109.06165.pdf)
 - (arXiv 2021.10) Investigating Transfer Learning Capabilities of Vision Transformers and CNNs by Fine-Tuning a Single Trainable Block, [[Paper]](https://arxiv.org/pdf/2110.05270.pdf)
 - (arXiv 2021.10) Dispensed Transformer Network for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2110.14944.pdf)
 - (arXiv 2021.11) Exploiting Both Domain-specific and Invariant Knowledge via a Win-win Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2111.12941.pdf)
@@ -1057,7 +1059,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) The Right to Talk: An Audio-Visual Transformer Approach, [[Paper]](https://arxiv.org/pdf/2108.03256.pdf), [[Code]](https://github.com/uark-cviu/Right2Talk)
 - (arXiv 2021.08) Embodied BERT: A Transformer Model for Embodied, Language-guided Visual Task Completion, [[Paper]](https://arxiv.org/pdf/2108.04927.pdf), [[Code]](https://github.com/amazon-research/embert)
 - (arXiv 2021.08) Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
-- (arXiv 2021.08) TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
 - (arXiv 2021.08) Investigating transformers in the decomposition of polygonal shapes as point collections, [[Paper]](https://arxiv.org/pdf/2108.07533.pdf)
 - (arXiv 2021.08) Convolutional Neural Network (CNN) vs Visual Transformer (ViT) for Digital Holography, [[Paper]](https://arxiv.org/pdf/2108.09147.pdf)
 - (arXiv 2021.08) Construction material classification on imbalanced datasets for construction monitoring automation using Vision Transformer (ViT) architecture, [[Paper]](https://arxiv.org/pdf/2108.09527.pdf)
@@ -1065,7 +1066,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) TransforMesh: A Transformer Network for Longitudinal modeling of Anatomical Meshes, [[Paper]](https://arxiv.org/pdf/2109.00532.pdf)
 - (arXiv 2021.09) CTRL-C: Camera calibration TRansformer with Line-Classification, [[Paper]](https://arxiv.org/pdf/2109.02259.pdf), [[Code]](https://github.com/jwlee-vcl/CTRL-C)
 - (arXiv 2021.09) The Animation Transformer: Visual Correspondence via Segment Matching, [[Paper]](https://arxiv.org/pdf/2109.02614.pdf)
-- (arXiv 2021.09) CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2109.06165.pdf)
 - (arXiv 2021.09) Semi-Supervised Wide-Angle Portraits Correction by Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2109.08024.pdf)
 - (arXiv 2021.09) PETA: Photo Albums Event Recognition using Transformers Attention, [[Paper]](https://arxiv.org/pdf/2109.12499.pdf), [[Code]](https://github.com/Alibaba-MIIL/PETA)
 - (arXiv 2021.10) ProTo: Program-Guided Transformer for Program-Guided Tasks, [[Paper]](https://arxiv.org/pdf/2110.00804.pdf)
