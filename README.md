@@ -63,6 +63,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Temporal Transformer Networks with Self-Supervision for Action Recognition, [[Paper]](https://arxiv.org/pdf/2112.07338.pdf)
 - (arXiv 2022.01) Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition, [[Paper]](https://arxiv.org/pdf/2201.02849.pdf), [[Code]](https://github.com/heleiqiu/STTFormer)
 - (arXiv 2022.01) Transformers in Action:Weakly Supervised Action Segmentation, [[Paper]](https://arxiv.org/pdf/2201.05675.pdf)
+- (arXiv 2022.02) ActionFormer: Localizing Moments of Actions with Transformers, [[Paper]](https://arxiv.org/pdf/2202.07925.pdf), [[Code]](https://github.com/happyharrycn/actionformer_release)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1115,6 +1116,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Spherical Transformer, [[Paper]](https://arxiv.org/pdf/2202.04942.pdf)
 - (arXiv 2022.02) Exploiting Spatial Sparsity for Event Cameras with Visual Transformers, [[Paper]](https://arxiv.org/pdf/2202.05054.pdf)
 - (arXiv 2022.02) Spatial Transformer K-Means, [[Paper]](https://arxiv.org/pdf/2202.07829.pdf)
+- (arXiv 2022.02) RNGDet: Road Network Graph Detection by Transformer in Aerial Images, [[Paper]](https://arxiv.org/pdf/2202.07824.pdf)
 
 ## Contact & Feedback
 
