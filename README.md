@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/16
+**Last updated: 2022/02/17
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -274,6 +274,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) BOAT: Bilateral Local Attention Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.13027.pdf)
 - (arXiv 2022.02) BViT: Broad Attention based Vision Transformer, [[Paper]](https://arxiv.org/pdf/2202.06268.pdf),[[Code]](https://github.com/DRL-CASIA/Broad_ViT)
 - (arXiv 2022.02) How Do Vision Transformers Work, [[Paper]](https://arxiv.org/pdf/2202.06709.pdf),[[Code]](https://github.com/xxxnell/how-do-vits-work)
+- (arXiv 2022.02) Not All Patches are What You Need: Expediting Vision Transformers via Token Reorganizations, [[Paper]](https://arxiv.org/pdf/2202.07800.pdf),[[Code]](https://github.com/youweiliang/evit)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -1113,6 +1114,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Generalised Image Outpainting with U-Transformer, [[Paper]](https://arxiv.org/pdf/2201.11403.pdf)
 - (arXiv 2022.02) Spherical Transformer, [[Paper]](https://arxiv.org/pdf/2202.04942.pdf)
 - (arXiv 2022.02) Exploiting Spatial Sparsity for Event Cameras with Visual Transformers, [[Paper]](https://arxiv.org/pdf/2202.05054.pdf)
+- (arXiv 2022.02) Spatial Transformer K-Means, [[Paper]](https://arxiv.org/pdf/2202.07829.pdf)
 
 ## Contact & Feedback
 
