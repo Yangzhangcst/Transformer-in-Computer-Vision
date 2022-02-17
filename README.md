@@ -280,6 +280,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2111.06707.pdf), [[Code]](https://github.com/lyndonzheng/TFill)
 
 ### Compression
+- (arXiv 2021.10) Accelerating Framework of Transformer by hardware Design and Model Compression Co-Optimization, [[Paper]](https://arxiv.org/pdf/2110.10030.pdf)
 - (arXiv 2021.11) Transformer-based Image Compression, [[Paper]](https://arxiv.org/pdf/2104.00845.pdf)
 - (arXiv 2021.12) Towards End-to-End Image Compression and Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2112.09300.pdf), [[Code]](https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers)
 - (arXiv 2021.12) CSformer: Bridging Convolution and Transformer for Compressive Sensing, [[Paper]](https://arxiv.org/pdf/2112.15299.pdf)
@@ -1073,7 +1074,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Development and testing of an image transformer for explainable autonomous driving systems, [[Paper]](https://arxiv.org/pdf/2110.05559.pdf)
 - (arXiv 2021.10) Leveraging redundancy in attention with Reuse Transformers, [[Paper]](https://arxiv.org/pdf/2110.06821.pdf)
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
-- (arXiv 2021.10) Accelerating Framework of Transformer by hardware Design and Model Compression Co-Optimization, [[Paper]](https://arxiv.org/pdf/2110.10030.pdf)
 - (arXiv 2021.10) Vis-TOP: Visual Transformer Overlay Processor, [[Paper]](https://arxiv.org/pdf/2110.10957.pdf)
 - (arXiv 2021.10) TNTC: two-stream network with transformer-based complementarity for gait-based emotion recognition, [[Paper]](https://arxiv.org/pdf/2110.13708.pdf)
 - (arXiv 2021.11) The self-supervised channel-spatial attention-based transformer network for automated, accurate prediction of crop nitrogen status from UAV imagery, [[Paper]](https://arxiv.org/pdf/2111.06839.pdf)
