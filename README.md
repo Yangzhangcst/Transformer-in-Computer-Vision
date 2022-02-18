@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/17
+**Last updated: 2022/02/18
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -561,6 +561,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers, [[Paper]](https://arxiv.org/pdf/2202.06076.pdf), [[Code]](https://github.com/jacenkow/mmbt)
 - (arXiv 2022.02) AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation, [[Paper]](https://arxiv.org/pdf/2202.06431.pdf), [[Code]](https://github.com/jacenkow/mmbt)
 - (arXiv 2022.02) ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification, [[Paper]](https://arxiv.org/pdf/2202.07570.pdf)
+- (arXiv 2022.02) A hybrid 2-stage vision transformer for AI-assisted 5 class pathologic diagnosis of gastric endoscopic biopsies, [[Paper]](https://arxiv.org/pdf/2202.08510.pdf)
+- (arXiv 2022.02) TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2202.08453.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
