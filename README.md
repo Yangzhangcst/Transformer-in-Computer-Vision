@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/18
+**Last updated: 2022/02/21
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -457,6 +457,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) The Layout Generation Algorithm of Graphic Design Based on Transformer-CVAE, [[Paper]](https://arxiv.org/abs/2110.06794)
 - (arXiv 2021.12) BLT: Bidirectional Layout Transformer for Controllable Layout Generation, [[Paper]](https://arxiv.org/abs/2112.05112)
 - (arXiv 2022.02) ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis, [[Paper]](https://arxiv.org/abs/2112.05112)
+
+### Lighting
+- (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
