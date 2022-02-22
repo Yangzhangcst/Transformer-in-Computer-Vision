@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/21
+**Last updated: 2022/02/22
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -276,6 +276,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) BViT: Broad Attention based Vision Transformer, [[Paper]](https://arxiv.org/pdf/2202.06268.pdf),[[Code]](https://github.com/DRL-CASIA/Broad_ViT)
 - (arXiv 2022.02) How Do Vision Transformers Work, [[Paper]](https://arxiv.org/pdf/2202.06709.pdf),[[Code]](https://github.com/xxxnell/how-do-vits-work)
 - (arXiv 2022.02) Not All Patches are What You Need: Expediting Vision Transformers via Token Reorganizations, [[Paper]](https://arxiv.org/pdf/2202.07800.pdf),[[Code]](https://github.com/youweiliang/evit)
+- (arXiv 2022.02) ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond, [[Paper]](https://arxiv.org/pdf/2202.10108.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -712,6 +713,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Full Transformer Framework for Robust Point Cloud Registration with Deep Information Interaction, [[Paper]](https://arxiv.org/pdf/2112.09385.pdf), [[Code]](https://github.com/CGuangyan-BIT/DIT) 
 - (arXiv 2022.02) Geometric Transformer for Fast and Robust Point Cloud Registration, [[Paper]](https://arxiv.org/pdf/2202.06688.pdf), [[Code]](https://github.com/qinzheng93/GeoTransformer) 
 - (arXiv 2022.02) LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling, [[Paper]](https://arxiv.org/pdf/2202.06263.pdf)
+- (arXiv 2022.02) PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-step Point Moving Paths, [[Paper]](https://arxiv.org/pdf/2202.09507.pdf)
+- (arXiv 2022.02) Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer, [[Paper]](https://arxiv.org/pdf/2202.09367.pdf), [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1008,7 +1011,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.08383.pdf)
 - (arXiv 2022.01) Explore and Match: End-to-End Video Grounding with Transformer,[[Paper]](https://arxiv.org/pdf/2201.10168.pdf)
 - (arXiv 2022.01) VRT: A Video Restoration Transformer,[[Paper]](https://arxiv.org/pdf/2201.12288.pdf), [[Code]](https://github.com/JingyunLiang/VRT)
-- (arXiv 2022.02) Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval,[[Paper]](https://arxiv.org/pdf/2202.06014.pdf), [[Code]](https://git.openi.org.cn/zangxh/PiT.git)
+- (arXiv 2022.02) Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval, [[Paper]](https://arxiv.org/pdf/2202.06014.pdf), [[Code]](https://git.openi.org.cn/zangxh/PiT.git)
+- (arXiv 2022.02) Audio Visual Scene-Aware Dialog Generation with Transformer-based Video Representations, [[Paper]](https://arxiv.org/pdf/2202.09979.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -1122,6 +1126,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Exploiting Spatial Sparsity for Event Cameras with Visual Transformers, [[Paper]](https://arxiv.org/pdf/2202.05054.pdf)
 - (arXiv 2022.02) Spatial Transformer K-Means, [[Paper]](https://arxiv.org/pdf/2202.07829.pdf)
 - (arXiv 2022.02) RNGDet: Road Network Graph Detection by Transformer in Aerial Images, [[Paper]](https://arxiv.org/pdf/2202.07824.pdf)
+- (arXiv 2022.02) Image-to-Graph Transformers for Chemical Structure Recognition, [[Paper]](https://arxiv.org/pdf/2202.09580.pdf)
 
 ## Contact & Feedback
 
