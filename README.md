@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/22
+**Last updated: 2022/02/23
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -882,6 +882,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Lawin Transformer: Improving Semantic Segmentation Transformer with Multi-Scale Representations via Large Window Attention, [[Paper]](https://arxiv.org/pdf/2201.01615.pdf), [[Code]](https://github.com/yan-hao-tian/lawin)
 - (arXiv 2022.01) Pyramid Fusion Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2201.04019.pdf)
 - (arXiv 2022.01) Dual-Flattening Transformers through Decomposed Row and Column Queries for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2201.09139.pdf)
+- (arXiv 2022.01) GroupViT: Semantic Segmentation Emerges from Text Supervision, [[Paper]](https://arxiv.org/pdf/2202.11094.pdf), [[Code]](https://jerryxu.net/GroupViT/)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
