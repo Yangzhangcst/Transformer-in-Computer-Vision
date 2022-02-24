@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/23
+**Last updated: 2022/02/24
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -673,6 +673,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Visual-Semantic Transformer for Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2112.00948.pdf)
 - (arXiv 2021.12) Transformer-Based Approach for Joint Handwriting and Named Entity Recognition in Historical documents, [[Paper]](https://arxiv.org/pdf/2112.04189.pdf)
 - (arXiv 2021.12) SPTS: Single-Point Text Spotting, [[Paper]](https://arxiv.org/pdf/2112.07917.pdf)
+- (arXiv 2022.02) Arbitrary Shape Text Detection using Transformers, [[Paper]](https://arxiv.org/pdf/2202.11221.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf)
@@ -853,6 +854,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Localizing Objects with Self-Supervised Transformers and no Labels, [[Paper]](https://arxiv.org/pdf/2109.14279.pdf)
 - (arXiv 2021.10) Revitalizing CNN Attentions via Transformers in Self-Supervised Visual Representation Learning, [[Paper]](https://arxiv.org/pdf/2110.05340.pdf), [[Code]](https://github.com/ChongjianGE/CARE)
 - (arXiv 2022.01) RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training, [[Paper]](https://arxiv.org/pdf/2201.06857.pdf), [[Code]](https://github.com/ChongjianGE/CARE)
+- (arXiv 2022.02) Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut, [[Paper]](https://arxiv.org/pdf/2202.11539.pdf), [[Project]](https://www.m-psi.fr/Papers/TokenCut2022/)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -937,6 +939,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
+- (arXiv 2022.02) Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis, [[Paper]](https://arxiv.org/pdf/2202.11703.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
@@ -1128,6 +1131,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Spatial Transformer K-Means, [[Paper]](https://arxiv.org/pdf/2202.07829.pdf)
 - (arXiv 2022.02) RNGDet: Road Network Graph Detection by Transformer in Aerial Images, [[Paper]](https://arxiv.org/pdf/2202.07824.pdf)
 - (arXiv 2022.02) Image-to-Graph Transformers for Chemical Structure Recognition, [[Paper]](https://arxiv.org/pdf/2202.09580.pdf)
+- (arXiv 2022.02) ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers, [[Paper]](https://arxiv.org/pdf/2202.11423.pdf), [[Code]](https://github.com/KPeng9510/ProFormer)
 
 ## Contact & Feedback
 
