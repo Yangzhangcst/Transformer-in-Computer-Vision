@@ -279,6 +279,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) How Do Vision Transformers Work, [[Paper]](https://arxiv.org/pdf/2202.06709.pdf),[[Code]](https://github.com/xxxnell/how-do-vits-work)
 - (arXiv 2022.02) Not All Patches are What You Need: Expediting Vision Transformers via Token Reorganizations, [[Paper]](https://arxiv.org/pdf/2202.07800.pdf),[[Code]](https://github.com/youweiliang/evit)
 - (arXiv 2022.02) ViTAEv2: Vision Transformer Advanced by Exploring Inductive Bias for Image Recognition and Beyond, [[Paper]](https://arxiv.org/pdf/2202.10108.pdf)
+- (arXiv 2022.02) Learning to Merge Tokens in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2202.12015.pdf)
+- (arXiv 2022.02) Auto-scaling Vision Transformers without Training, [[Paper]](https://arxiv.org/pdf/2202.11921.pdf),[[Code]](https://github.com/VITA-Group/AsViT)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -603,12 +605,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2109.10504.pdf)
 - (arXiv 2021.10) Unifying Multimodal Transformer for Bi-directional Image and Text Generation, [[Paper]](https://arxiv.org/pdf/2110.09753.pdf), [[Code]](https://github.com/researchmm/generate-it)
 - (arXiv 2021.10) VLDeformer: Learning Visual-Semantic Embeddings by Vision-Language Transformer Decomposing, [[Paper]](https://arxiv.org/pdf/2110.11338.pdf)
-- (arXiv 2021.10) History Aware Multimodal Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2110.13309.pdf), [[Code]](https://cshizhe.github.io/projects/vln_hamt.html)
 - (arXiv 2021.10) Detecting Dementia from Speech and Transcripts using Transformers, [[Paper]](https://arxiv.org/pdf/2110.14769.pdf)
 - (arXiv 2021.11) MEmoBERT: Pre-training Model with Prompt-based Learning for Multimodal Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2111.00865.pdf)
 - (arXiv 2021.11) VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts, [[Paper]](https://arxiv.org/pdf/2111.02358.pdf), [[Code]](https://github.com/microsoft/unilm/tree/master/vlmo)
 - (arXiv 2021.11) An Empirical Study of Training End-to-End Vision-and-Language Transformers, [[Paper]](https://arxiv.org/pdf/2111.02387.pdf), [[Code]](https://github.com/zdou0830/METER)
-- (arXiv 2021.11) Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2111.05759.pdf)
 - (arXiv 2021.11) CLIP2TV: An Empirical Study on Transformer-based Methods for Video-Text Retrieval, [[Paper]](https://arxiv.org/pdf/2111.05610.pdf)
 - (arXiv 2021.11) Graph Relation Transformer: Incorporating pairwise object features into the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2111.06075.pdf), [[Code1]](https://github.com/michaelzyang/graph-relation-m4c), [[Code2]](https://github.com/derikclive/transformers)
 - (arXiv 2021.11) UFO: A UniFied TransfOrmer for Vision-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2111.10023.pdf)
@@ -663,7 +663,11 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) MaAST: Map Attention with Semantic Transformers for Efficient Visual Navigation, [[Paper]](https://arxiv.org/pdf/2103.11374.pdf)
 - (arXiv 2021.04) Know What and Know Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation, [[Paper]](https://arxiv.org/pdf/2104.04167.pdf)
 - (arXiv 2021.05) Episodic Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2105.06453.pdf)
+- (arXiv 2021.07) Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World, [[Paper]](https://arxiv.org/pdf/2107.03172.pdf)
 - (arXiv 2021.10) SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2110.14143.pdf)
+- (arXiv 2021.10) History Aware Multimodal Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2110.13309.pdf), [[Code]](https://cshizhe.github.io/projects/vln_hamt.html)
+- (arXiv 2021.11) Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2111.05759.pdf)
+- (arXiv 2022.02) Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2202.11742.pdf), [[Project]](https://cshizhe.github.io/projects/vln_duet.html)
 
 ### OCR
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
@@ -869,7 +873,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Transformer Meets Convolution: A Bilateral Awareness Network for Semantic Segmentation of Very Fine Resolution Urban Scene Images, [[Paper]](https://arxiv.org/pdf/2106.12413.pdf)
 - (arXiv 2021.06) OffRoadTranSeg: Semi-Supervised Segmentation using Transformers on OffRoad environments, [[Paper]](https://arxiv.org/pdf/2106.13963.pdf)
 - (arXiv 2021.07) Looking Outside the Window: Wider-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2106.15754.pdf)
-- (arXiv 2021.07) Trans4Trans: Efficient Transformer for Transparent Object Segmentation to Help Visually Impaired People Navigate in the Real World, [[Paper]](https://arxiv.org/pdf/2107.03172.pdf)
 - (arXiv 2021.07) A Unified Efficient Pyramid Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2107.14209.pdf)
 - (arXiv 2021.08) Boosting Few-shot Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2108.02266.pdf), [[Code]](https://github.com/GuoleiSun/TRFS)
 - (arXiv 2021.08) Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer, [[Paper]](https://arxiv.org/pdf/2108.03032.pdf), [[Code]](https://github.com/zhiheLu/CWTfor-FSS)
