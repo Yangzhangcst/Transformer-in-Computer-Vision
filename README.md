@@ -827,6 +827,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Vision Transformer Hashing for Image Retrieval, [[Paper]](https://arxiv.org/pdf/2109.12564.pdf)
 - (arXiv 2022.01) Zero-Shot Sketch Based Image Retrieval using Graph Transformer, [[Paper]](https://arxiv.org/pdf/2201.10185.pdf)
 
+### Robotic
+- (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
+- (arXiv 2022.02) When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection, [[Paper]](https://arxiv.org/pdf/2202.11911.pdf), [[Code]](https://github.com/WangShaoSUN/grasp-transformer)
+
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
 - (arXiv 2021.04) Visual Saliency Transformer, [[Paper]](https://arxiv.org/pdf/2104.12099.pdf)
@@ -1125,7 +1129,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.06618.pdf)
 - (arXiv 2022.01) Continual Transformers: Redundancy-Free Attention for Online Inference, [[Paper]](https://arxiv.org/pdf/2201.06268.pdf)
 - (arXiv 2022.01) Disentangled Latent Transformer for Interpretable Monocular Height Estimation, [[Paper]](https://arxiv.org/pdf/2201.06357.pdf), [[Code]](https://github.com/ShadowXZT/DLT-Height-Estimation.pytorch)
-- (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
 - (arXiv 2022.01) A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization, [[Paper]](https://arxiv.org/pdf/2201.09206.pdf), [[Code]](https://github.com/Dmmm1997/FSRA)
 - (arXiv 2022.01) Transformer-based SAR Image Despeckling, [[Paper]](https://arxiv.org/pdf/2201.09355.pdf), [[Code]](https://github.com/malshaV/sar_transformer)
 - (arXiv 2022.01) DocEnTr: An End-to-End Document Image Enhancement Transformer, [[Paper]](https://arxiv.org/pdf/2201.10252.pdf), [[Code]](https://github.com/dali92002/DocEnTR)
