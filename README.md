@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/24
+**Last updated: 2022/02/25
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -16,6 +16,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2022/January* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
+- (arXiv 2022.02) Transformers in Medical Image Analysis: A Review. [[Paper]](https://arxiv.org/pdf/2202.12165.pdf)
+
 - (arXiv 2022.01) Transformers in Medical Imaging: A Survey. [[Paper]](https://arxiv.org/pdf/2201.09873.pdf), [[Awesome]](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)
 
 - (arXiv 2022.01) A Comprehensive Study of Vision Transformers on Dense Prediction Tasks. [[Paper]](https://arxiv.org/pdf/2201.08683.pdf)
@@ -567,6 +569,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification, [[Paper]](https://arxiv.org/pdf/2202.07570.pdf)
 - (arXiv 2022.02) A hybrid 2-stage vision transformer for AI-assisted 5 class pathologic diagnosis of gastric endoscopic biopsies, [[Paper]](https://arxiv.org/pdf/2202.08510.pdf)
 - (arXiv 2022.02) TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2202.08453.pdf)
+- (arXiv 2022.02) RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification, [[Paper]](https://arxiv.org/pdf/2202.11781.pdf)
+- (arXiv 2022.02) A Transformer-based Network for Deformable Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2202.12104.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
