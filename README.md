@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/02/25
+**Last updated: 2022/02/28
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -1028,6 +1028,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) VRT: A Video Restoration Transformer,[[Paper]](https://arxiv.org/pdf/2201.12288.pdf), [[Code]](https://github.com/JingyunLiang/VRT)
 - (arXiv 2022.02) Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval, [[Paper]](https://arxiv.org/pdf/2202.06014.pdf), [[Code]](https://git.openi.org.cn/zangxh/PiT.git)
 - (arXiv 2022.02) Audio Visual Scene-Aware Dialog Generation with Transformer-based Video Representations, [[Paper]](https://arxiv.org/pdf/2202.09979.pdf)
+- (arXiv 2022.02) Instantaneous Physiological Estimation using Video Transformers, [[Paper]](https://arxiv.org/pdf/2202.12368.pdf), [[Code]](https://github.com/revanurambareesh/instantaneous_transformer)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
