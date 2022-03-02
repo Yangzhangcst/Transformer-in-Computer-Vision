@@ -66,6 +66,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Spatio-Temporal Tuples Transformer for Skeleton-Based Action Recognition, [[Paper]](https://arxiv.org/pdf/2201.02849.pdf), [[Code]](https://github.com/heleiqiu/STTFormer)
 - (arXiv 2022.01) Transformers in Action:Weakly Supervised Action Segmentation, [[Paper]](https://arxiv.org/pdf/2201.05675.pdf)
 - (arXiv 2022.02) ActionFormer: Localizing Moments of Actions with Transformers, [[Paper]](https://arxiv.org/pdf/2202.07925.pdf), [[Code]](https://github.com/happyharrycn/actionformer_release)
+- (arXiv 2022.03) Multi-View Fusion Transformer for Sensor-Based Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2202.12949.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1039,6 +1040,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Multi-direction and Multi-scale Pyramid in Transformer for Video-based Pedestrian Retrieval, [[Paper]](https://arxiv.org/pdf/2202.06014.pdf), [[Code]](https://git.openi.org.cn/zangxh/PiT.git)
 - (arXiv 2022.02) Audio Visual Scene-Aware Dialog Generation with Transformer-based Video Representations, [[Paper]](https://arxiv.org/pdf/2202.09979.pdf)
 - (arXiv 2022.02) Instantaneous Physiological Estimation using Video Transformers, [[Paper]](https://arxiv.org/pdf/2202.12368.pdf), [[Code]](https://github.com/revanurambareesh/instantaneous_transformer)
+- (arXiv 2022.03) Spatio-temporal Vision Transformer for Super-resolution Microscopy, [[Paper]](https://arxiv.org/pdf/2203.00030.pdf), [[Code]](https://github.com/charlesnchr/vsr-sim)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
