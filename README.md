@@ -322,6 +322,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
 
+### Denoising
+- (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
+- (arXiv 2022.03) Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics, [[Paper]](https://arxiv.org/pdf/2202.14009.pdf), [[Code]](https://github.com/FanChiMao/SUNet)
+
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
 - (ICLR'21) Deformable DETR: Deformable Transformers for End-to-End Object Detection, [[Paper]](https://arxiv.org/pdf/2010.04159), [[Code]](https://github.com/fundamentalvision/Deformable-DETR)
@@ -1130,7 +1134,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Hformer: Hybrid CNN-Transformer for Fringe Order Prediction in Phase Unwrapping of Fringe Projection,[[Paper]](https://arxiv.org/pdf/2112.05814.pdf)
 - (arXiv 2021.12) 3D Question Answering,[[Paper]](https://arxiv.org/pdf/2112.08359.pdf)
 - (arXiv 2021.12) Light Field Neural Rendering,[[Paper]](https://arxiv.org/pdf/2112.09687.pdf), [[Project]](https://light-field-neural-rendering.github.io/)
-- (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
 - (arXiv 2021.12) Nonlinear Transform Source-Channel Coding for Semantic Communications, [[Paper]](https://arxiv.org/pdf/2112.10961.pdf)
 - (arXiv 2021.12) APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.14087.pdf)
 - (arXiv 2022.01) Splicing ViT Features for Semantic Appearance Transfer, [[Paper]](https://arxiv.org/pdf/2201.00424.pdf), [[Project]](https://splice-vit.github.io/)
