@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/05
+**Last updated: 2022/03/07
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -289,6 +289,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions, [[Paper]](https://arxiv.org/pdf/2203.00960.pdf)
 - (arXiv 2022.03) D^2ETR: Decoder-Only DETR with Computationally Efficient Cross-Scale Attention, [[Paper]](https://arxiv.org/pdf/2203.00860.pdf)
 - (arXiv 2022.03) Multi-Tailed Vision Transformer for Efficient Inference, [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
+- (arXiv 2022.03) ViT-P: Rethinking Data-efficient Vision Transformers from Locality, [[Paper]](https://arxiv.org/pdf/2203.02358.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -457,6 +458,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) 3D-ANAS v2: Grafting Transformer Module on Automatically Designed ConvNet for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2110.11084.pdf), [[Code]](https://github.com/xmm/3D-ANAS-V2)
 - (arXiv 2021.11) Mask-guided Spectral-wise Transformer for Efficient Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.07910.pdf)
 - (arXiv 2021.11) Learning A 3D-CNN and Transformer Prior for Hyperspectral Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2111.13923.pdf)
+- (arXiv 2022.03) HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening, [[Paper]](https://arxiv.org/pdf/2203.02503.pdf)
 
 ### Incremental Learning
 - (arXiv 2021.12) Improving Vision Transformers for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2112.06103.pdf)
@@ -795,6 +797,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) PTQ4ViT: Post-Training Quantization Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.12293.pdf), [[Code]](https://github.com/hahnyuan/PTQ4ViT)
 - (arXiv 2021.11) FQ-ViT: Fully Quantized Vision Transformer without Retraining, [[Paper]](https://arxiv.org/pdf/2111.15127.pdf)
 - (arXiv 2022.01) Q-ViT: Fully Differentiable Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.07703.pdf)
+- (arXiv 2022.03) Patch Similarity Aware Data-Free Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.02250.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
