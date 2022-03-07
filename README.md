@@ -484,7 +484,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis, [[Paper]](https://arxiv.org/abs/2112.05112)
 - (arXiv 2022.03) LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network, [[Paper]](https://arxiv.org/abs/2203.01824), [[Code]](https://github.com/zhigangjiang/LGT-Net)
 
-
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
 
@@ -713,6 +712,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Transformer-Based Approach for Joint Handwriting and Named Entity Recognition in Historical documents, [[Paper]](https://arxiv.org/pdf/2112.04189.pdf)
 - (arXiv 2021.12) SPTS: Single-Point Text Spotting, [[Paper]](https://arxiv.org/pdf/2112.07917.pdf)
 - (arXiv 2022.02) Arbitrary Shape Text Detection using Transformers, [[Paper]](https://arxiv.org/pdf/2202.11221.pdf)
+- (arXiv 2022.03) DiT: Self-supervised Pre-training for Document Image Transformer, [[Paper]](https://arxiv.org/pdf/2203.02378.pdf), [[Code]](https://aka.ms/msdit)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf)
