@@ -598,6 +598,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology, [[Paper]](https://arxiv.org/pdf/2203.00585.pdf), [[Code]](https://github.com/Richarizardd/Self-Supervised-ViT-Path)
 - (arXiv 2022.03) A Multi-scale Transformer for Medical Image Segmentation: Architectures, Model Efficiency, and Benchmarks, [[Paper]](https://arxiv.org/pdf/2203.00131.pdf), [[Code]](https://github.com/yhygao/CBIM-Medical-Image-Segmentation)
 - (arXiv 2022.03) Tempera: Spatial Transformer Feature Pyramid Network for Cardiac MRI Segmentation, [[Paper]](https://arxiv.org/pdf/2203.00355.pdf)
+- (arXiv 2022.03) Contextual Attention Network: Transformer Meets U-Net, [[Paper]](https://arxiv.org/pdf/2203.01932.pdf), [[Code]](https://github.com/rezazad68/TMUnet)
+- (arXiv 2022.03) Characterizing Renal Structures with 3D Block Aggregate Transformers, [[Paper]](https://arxiv.org/pdf/2203.02430.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
