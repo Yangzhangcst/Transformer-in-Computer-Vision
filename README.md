@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/07
+**Last updated: 2022/03/08
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -386,6 +386,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond, [[Paper]](https://arxiv.org/pdf/2201.03176.pdf), [[Code]](https://github.com/hasanirtiza/Pedestron)
 - (arXiv 2022.01) DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR, [[Paper]](https://arxiv.org/pdf/2201.12329.pdf), [[Code]](https://github.com/SlongLiu/DAB-DETR)
 - (arXiv 2022.03) DN-DETR: Accelerate DETR Training by Introducing Query DeNoising, [[Paper]](https://arxiv.org/pdf/2203.01305.pdf), [[Code]](https://github.com/FengLi-ust/DN-DETR)
+- (arXiv 2022.03) DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection, [[Paper]](https://arxiv.org/pdf/2203.03605.pdf), [[Code]](https://github.com/IDEACVR/DINO)
+- (arXiv 2022.03) Knowledge Amalgamation for Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.03187.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -811,6 +813,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) MVT: Multi-view Vision Transformer for 3D Object Recognition, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
 - (arXiv 2021.11) AdaViT: Adaptive Vision Transformers for Efficient Image Recognition, [[Paper]](https://arxiv.org/pdf/2111.15668.pdf)
 - (arXiv 2022.01) TransVPR: Transformer-based place recognition with multi-level attention aggregation, [[Paper]](https://arxiv.org/pdf/2201.02001.pdf)
+- (arXiv 2022.03) MetaFormer : A Unified Meta Framework for Fine-Grained Recognition, [[Paper]](https://arxiv.org/pdf/2203.02751.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -932,6 +935,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) GroupViT: Semantic Segmentation Emerges from Text Supervision, [[Paper]](https://arxiv.org/pdf/2202.11094.pdf), [[Code]](https://jerryxu.net/GroupViT/)
 - (arXiv 2022.03) Transformer-based Knowledge Distillation for Efficient Semantic Segmentation of Road-driving Scenes, [[Paper]](https://arxiv.org/pdf/2202.13393.pdf), [[Code]](https://github.com/RuipingL/SKR_PEA)
 - (arXiv 2022.03) Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2203.01452.pdf), [[Code]](https://github.com/jamycheung/Trans4PASS)
+- (arXiv 2022.03) Multi-class Token Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2203.02891.pdf), [[Code]](https://github.com/xulianuwa/MCTformer)
+- (arXiv 2022.03) Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2203.02664.pdf), [[Code]](https://github.com/rulixiang/afa)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
