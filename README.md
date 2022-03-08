@@ -990,10 +990,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) TransFollower: Long-Sequence Car-Following Trajectory Prediction through Transformer, [[Paper]](https://arxiv.org/pdf/2202.03183.pdf)
 - (arXiv 2022.03) LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2203.01880.pdf)
 
-### Texture
-- (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
-- (arXiv 2022.02) Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis, [[Paper]](https://arxiv.org/pdf/2202.11703.pdf)
-
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
 - (arXiv 2021.08) TVT: Transferable Vision Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2108.05988.pdf)
@@ -1004,6 +1000,14 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Pre-Training Transformers for Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2112.09965.pdf)
 - (arXiv 2022.01) Domain Adaptation via Bidirectional Cross-Attention Transformer, [[Paper]](https://arxiv.org/pdf/2201.05887.pdf)
 - (arXiv 2022.03) Towards Unsupervised Domain Adaptation via Domain-Transformer, [[Paper]](https://arxiv.org/pdf/2202.13777.pdf)
+
+### Translation
+- (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
+- (arXiv 2022.03) UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation, [[Paper]](https://arxiv.org/pdf/2203.02557.pdf), [[Code]](https://github.com/LS4GAN/uvcga)
+
+### Texture
+- (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
+- (arXiv 2022.02) Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis, [[Paper]](https://arxiv.org/pdf/2202.11703.pdf)
 
 ### Unsupervised learning
 - (arXiv 2022.02) Handcrafted Histological Transformer (H2T): Unsupervised Representation of Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2202.07001.pdf)
@@ -1145,7 +1149,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) TranSalNet: Visual saliency prediction using transformers, [[Paper]](https://arxiv.org/pdf/2110.03593.pdf)
 - (arXiv 2021.10) Development and testing of an image transformer for explainable autonomous driving systems, [[Paper]](https://arxiv.org/pdf/2110.05559.pdf)
 - (arXiv 2021.10) Leveraging redundancy in attention with Reuse Transformers, [[Paper]](https://arxiv.org/pdf/2110.06821.pdf)
-- (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
 - (arXiv 2021.10) Vis-TOP: Visual Transformer Overlay Processor, [[Paper]](https://arxiv.org/pdf/2110.10957.pdf)
 - (arXiv 2021.10) TNTC: two-stream network with transformer-based complementarity for gait-based emotion recognition, [[Paper]](https://arxiv.org/pdf/2110.13708.pdf)
 - (arXiv 2021.11) The self-supervised channel-spatial attention-based transformer network for automated, accurate prediction of crop nitrogen status from UAV imagery, [[Paper]](https://arxiv.org/pdf/2111.06839.pdf)
