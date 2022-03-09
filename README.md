@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/08
+**Last updated: 2022/03/09
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -937,6 +937,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Bending Reality: Distortion-aware Transformers for Adapting to Panoramic Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2203.01452.pdf), [[Code]](https://github.com/jamycheung/Trans4PASS)
 - (arXiv 2022.03) Multi-class Token Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2203.02891.pdf), [[Code]](https://github.com/xulianuwa/MCTformer)
 - (arXiv 2022.03) Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2203.02664.pdf), [[Code]](https://github.com/rulixiang/afa)
+- (arXiv 2022.03) BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary Camera Rigs, [[Paper]](https://arxiv.org/pdf/2203.04050.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
