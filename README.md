@@ -196,7 +196,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) CMT: Convolutional Neural Networks Meet Vision Transformers, [[Paper]](https://arxiv.org/pdf/2107.06263.pdf)
 - (arXiv 2021.07) Combiner: Full Attention Transformer with Sparse Computation Cost, [[Paper]](https://arxiv.org/pdf/2107.05768.pdf)
 - (arXiv 2021.07) A Comparison of Deep Learning Classification Methods on Small-scale Image Data set: from Convolutional Neural Networks to Visual Transformers, [[Paper]](https://arxiv.org/pdf/2107.07699.pdf)
-- (arXiv 2021.07) Query2Label: A Simple Transformer Way to Multi-Label Classification, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
 - (arXiv 2021.07) Contextual Transformer Networks for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.12292.pdf), [[Code]](https://github.com/JDAI-CV/CoTNet)
 - (arXiv 2021.07) Rethinking and Improving Relative Position Encoding for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2107.14222.pdf), [[Code]](https://github.com/microsoft/AutoML/tree/main/iRPE)
 - (arXiv 2021.08) CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention, [[Paper]](https://arxiv.org/pdf/2108.00154.pdf), [[Code]](https://github.com/cheerss/CrossFormer)
@@ -288,6 +287,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) D^2ETR: Decoder-Only DETR with Computationally Efficient Cross-Scale Attention, [[Paper]](https://arxiv.org/pdf/2203.00860.pdf)
 - (arXiv 2022.03) Multi-Tailed Vision Transformer for Efficient Inference, [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 - (arXiv 2022.03) ViT-P: Rethinking Data-efficient Vision Transformers from Locality, [[Paper]](https://arxiv.org/pdf/2203.02358.pdf)
+- (arXiv 2022.03) Coarse-to-Fine Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.03821.pdf),[[Code]](https://github.com/ChenMnZ/CF-ViT)
+- (arXiv 2022.03) Dynamic Group Transformer: A General Vision Transformer Backbone with Dynamic Group Attention, [[Paper]](https://arxiv.org/pdf/2203.03937.pdf)
+- (arXiv 2022.03) EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.03952.pdf)
+- (arXiv 2022.03) WaveMix: Resource-efficient Token Mixing for Images, [[Paper]](https://arxiv.org/pdf/2203.03689.pdf), [[Code]]( https://github.com/pranavphoenix/WaveMix)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -612,6 +615,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
+- (arXiv 2021.07) Query2Label: A Simple Transformer Way to Multi-Label Classification, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
 - (arXiv 2021.10) Transformer-based Dual Relation Graph for Multi-label Image Recognition, [[Paper]](https://arxiv.org/pdf/2110.04722.pdf), [[Code]](https://github.com/iCVTEAM/TDRG)
 - (arXiv 2020.11) General Multi-label Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14027)
 - (arXiv 2020.11) Graph Attention Transformer Network for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2203.04049.pdf)
@@ -677,6 +681,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Towards Weakly-Supervised Text Spotting using a Multi-Task Transformer, [[Paper]](https://arxiv.org/pdf/2202.05508.pdf)
 - (arXiv 2022.03) DXM-TransFuse U-net: Dual Cross-Modal Transformer Fusion U-net for Automated Nerve Identification, [[Paper]](https://arxiv.org/pdf/2202.13304.pdf)
 - (arXiv 2022.03) LILE: Look In-Depth before Looking Elsewhere -- A Dual Attention Network using Transformers for Cross-Modal Information Retrieval in Histopathology Archives, [[Paper]](https://arxiv.org/pdf/2203.01445.pdf)
+- (arXiv 2022.03) VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer, [[Paper]](https://arxiv.org/pdf/2203.04099.pdf),[[Project]](https://ipcv.github.io/VoViT/)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -704,6 +709,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) History Aware Multimodal Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2110.13309.pdf), [[Code]](https://cshizhe.github.io/projects/vln_hamt.html)
 - (arXiv 2021.11) Multimodal Transformer with Variable-length Memory for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2111.05759.pdf)
 - (arXiv 2022.02) Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2202.11742.pdf), [[Project]](https://cshizhe.github.io/projects/vln_duet.html)
+- (arXiv 2022.03) Monocular Robot Navigation with Self-Supervised Pretrained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.03682.pdf), [[Project]](https://sachamorin.github.io/dino/)
 
 ### OCR
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
