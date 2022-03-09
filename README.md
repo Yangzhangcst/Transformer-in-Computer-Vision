@@ -110,7 +110,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (CVPR'20) Feature Pyramid Transformer, [[Paper]](https://arxiv.org/pdf/2007.09451), [[Code]](https://github.com/ZHANGDONG-NJUST/FPT)
 - (ICLR'21) An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, [[Paper]](https://arxiv.org/pdf/2010.11929), [[Code]](https://github.com/google-research/vision_transformer)
 - (arXiv 2020.06) Visual Transformers: Token-based Image Representation and Processing for Computer Vision, [[Paper]](https://arxiv.org/pdf/2006.03677)
-- (arXiv 2020.11) General Multi-label Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14027)
 - (arXiv 2020.12) Training data-efficient image transformers & distillation through attention, [[Paper]](https://arxiv.org/abs/2012.12877), [[Code]](https://github.com/facebookresearch/deit)
 - (arXiv 2021.01) Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet, [[Paper]](https://arxiv.org/pdf/2101.11986.pdf), [[Code]](https://github.com/yitu-opensource/T2T-ViT)
 - (arXiv 2021.01) Bottleneck Transformers for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2101.11605.pdf) , [[Code]](https://github.com/leaderj1001/BottleneckTransformers)
@@ -170,7 +169,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Refiner: Refining Self-attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2106.03714.pdf)
 - (arXiv 2021.06) Reveal of Vision Transformers Robustness against Adversarial Attacks, [[Paper]](https://arxiv.org/pdf/2106.03734.pdf)
 - (arXiv 2021.06) Efficient Training of Visual Transformers with Small-Size Datasets, [[Paper]](https://arxiv.org/pdf/2106.03746.pdf)
-- (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
 - (arXiv 2021.06) Delving Deep into the Generalization of Vision Transformers under Distribution Shifts, [[Paper]](https://arxiv.org/pdf/2106.07617.pdf)
 - (arXiv 2021.06) BEIT: BERT Pre-Training of Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.08254.pdf), [[Code]](https://aka.ms/beit)
 - (arXiv 2021.06) XCiT: Cross-Covariance Image Transformers, [[Paper]](https://arxiv.org/pdf/2106.09681.pdf), [[Code]](https://github.com/facebookresearch/xcit)
@@ -612,6 +610,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) AniFormer: Data-driven 3D Animation with Transformer, [[Paper]](https://arxiv.org/pdf/2110.10533.pdf), [[Code]](https://github.com/mikecheninoulu/AniFormer)
 - (arXiv 2021.11) Multi-Person 3D Motion Prediction with Multi-Range Transformers, [[Paper]](https://arxiv.org/pdf/2111.12073.pdf), [[Code]](https://jiashunwang.github.io/MRT/)
 
+### Multi-label
+- (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
+- (arXiv 2021.10) Transformer-based Dual Relation Graph for Multi-label Image Recognition, [[Paper]](https://arxiv.org/pdf/2110.04722.pdf), [[Code]](https://github.com/iCVTEAM/TDRG)
+- (arXiv 2020.11) General Multi-label Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14027)
+- (arXiv 2020.11) Graph Attention Transformer Network for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2203.04049.pdf)
+
 ### Multi-task/modal
 - (arXiv 2021.02) Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxiv.org/abs/2102.10772), [[Code]](https://mmf.sh/)
 - (arXiv 2021.04) MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding, [[Paper]](https://arxiv.org/pdf/2104.12763.pdf), [[Code]](https://github.com/ashkamath/mdetr)
@@ -809,7 +813,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) RAMS-Trans: Recurrent Attention Multi-scale Transformer for Fine-grained Image Recognition, [[Paper]](https://arxiv.org/pdf/2107.06538.pdf)
 - (arXiv 2021.08) DPT: Deformable Patch-based Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2107.14467.pdf), [[Code]](https://github.com/CASIA-IVA-Lab/DPT)
 - (arXiv 2021.10) A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition, [[Paper]](https://arxiv.org/pdf/2110.01240.pdf)
-- (arXiv 2021.10) Transformer-based Dual Relation Graph for Multi-label Image Recognition, [[Paper]](https://arxiv.org/pdf/2110.04722.pdf), [[Code]](https://github.com/iCVTEAM/TDRG)
 - (arXiv 2021.10) MVT: Multi-view Vision Transformer for 3D Object Recognition, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
 - (arXiv 2021.11) AdaViT: Adaptive Vision Transformers for Efficient Image Recognition, [[Paper]](https://arxiv.org/pdf/2111.15668.pdf)
 - (arXiv 2022.01) TransVPR: Transformer-based place recognition with multi-level attention aggregation, [[Paper]](https://arxiv.org/pdf/2201.02001.pdf)
