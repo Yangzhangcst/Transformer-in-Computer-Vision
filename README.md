@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/10
+**Last updated: 2022/03/11
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -70,6 +70,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) ActionFormer: Localizing Moments of Actions with Transformers, [[Paper]](https://arxiv.org/pdf/2202.07925.pdf), [[Code]](https://github.com/happyharrycn/actionformer_release)
 - (arXiv 2022.03) Multi-View Fusion Transformer for Sensor-Based Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2202.12949.pdf)
 - (arXiv 2022.03) TransDARC: Transformer-based Driver Activity Recognition with Latent Space Feature Calibration, [[Paper]](https://arxiv.org/pdf/2203.00927.pdf), [[Code]](https://github.com/KPeng9510/TransDARC)
+- (arXiv 2022.03) Zero-Shot Action Recognition with Transformer-based Video Semantic Embedding, [[Paper]](https://arxiv.org/pdf/2203.05156.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -728,6 +729,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) SPTS: Single-Point Text Spotting, [[Paper]](https://arxiv.org/pdf/2112.07917.pdf)
 - (arXiv 2022.02) Arbitrary Shape Text Detection using Transformers, [[Paper]](https://arxiv.org/pdf/2202.11221.pdf)
 - (arXiv 2022.03) DiT: Self-supervised Pre-training for Document Image Transformer, [[Paper]](https://arxiv.org/pdf/2203.02378.pdf), [[Code]](https://aka.ms/msdit)
+- (arXiv 2022.03) TrueType Transformer: Character and Font Style Recognition in Outline Format, [[Paper]](https://arxiv.org/pdf/2203.05338.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf)
