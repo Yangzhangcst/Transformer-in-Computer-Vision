@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/11
+**Last updated: 2022/03/12
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -291,7 +291,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Coarse-to-Fine Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.03821.pdf),[[Code]](https://github.com/ChenMnZ/CF-ViT)
 - (arXiv 2022.03) Dynamic Group Transformer: A General Vision Transformer Backbone with Dynamic Group Attention, [[Paper]](https://arxiv.org/pdf/2203.03937.pdf)
 - (arXiv 2022.03) EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.03952.pdf)
-- (arXiv 2022.03) WaveMix: Resource-efficient Token Mixing for Images, [[Paper]](https://arxiv.org/pdf/2203.03689.pdf), [[Code]]( https://github.com/pranavphoenix/WaveMix)
+- (arXiv 2022.03) WaveMix: Resource-efficient Token Mixing for Images, [[Paper]](https://arxiv.org/pdf/2203.03689.pdf), [[Code]](https://github.com/pranavphoenix/WaveMix)
+- (arXiv 2022.03) Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice, [[Paper]](https://arxiv.org/pdf/2203.05962.pdf), [[Code]](https://github.com/VITA-Group/ViT-Anti-Oversmoothing)
+- (arXiv 2022.03) Visualizing and Understanding Patch Interactions in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.05922.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -608,6 +610,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Contextual Attention Network: Transformer Meets U-Net, [[Paper]](https://arxiv.org/pdf/2203.01932.pdf), [[Code]](https://github.com/rezazad68/TMUnet)
 - (arXiv 2022.03) Characterizing Renal Structures with 3D Block Aggregate Transformers, [[Paper]](https://arxiv.org/pdf/2203.02430.pdf)
 - (arXiv 2022.03) Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification, [[Paper]](https://arxiv.org/pdf/2203.04614.pdf)
+- (arXiv 2022.03) Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework, [[Paper]](https://arxiv.org/pdf/2203.05756.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
