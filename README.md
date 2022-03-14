@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/12
+**Last updated: 2022/03/14
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -14,6 +14,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2021/November* - update all of recent papers of Transformer-in-Vision.  
 *2021/December* - update all of recent papers of Transformer-in-Vision.  
 *2022/January* - update all of recent papers of Transformer-in-Vision.  
+*2022/February* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
 - (arXiv 2022.03) Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work [[Paper]](https://arxiv.org/pdf/2203.01536.pdf)
