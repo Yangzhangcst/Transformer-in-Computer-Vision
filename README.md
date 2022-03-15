@@ -296,6 +296,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice, [[Paper]](https://arxiv.org/pdf/2203.05962.pdf), [[Code]](https://github.com/VITA-Group/ViT-Anti-Oversmoothing)
 - (arXiv 2022.03) Visualizing and Understanding Patch Interactions in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.05922.pdf)
 - (arXiv 2022.03) EIT: Efficiently Lead Inductive Biases to ViT, [[Paper]](https://arxiv.org/pdf/2203.07116.pdf), [[Code]](https://github.com/MrHaiPi/EIT)
+- (arXiv 2022.03) The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy, [[Paper]](https://arxiv.org/pdf/2203.06345.pdf), [[Code]](https://github.com/VITA-Group/Diverse-ViT)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -317,6 +318,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) CCTrans: Simplifying and Improving Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2109.14483.pdf)
 - (arXiv 2022.01) Scene-Adaptive Attention Network for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2112.15509.pdf)
 - (arXiv 2022.03) An End-to-End Transformer Model for Crowd Localization, [[Paper]](https://arxiv.org/pdf/2202.13065.pdf)
+- (arXiv 2022.03) Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting, [[Paper]](https://arxiv.org/pdf/2203.06388.pdf)
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
@@ -616,6 +618,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Characterizing Renal Structures with 3D Block Aggregate Transformers, [[Paper]](https://arxiv.org/pdf/2203.02430.pdf)
 - (arXiv 2022.03) Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification, [[Paper]](https://arxiv.org/pdf/2203.04614.pdf)
 - (arXiv 2022.03) Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework, [[Paper]](https://arxiv.org/pdf/2203.05756.pdf)
+- (arXiv 2022.03) Joint rotational invariance and adversarial training of a dual-stream Transformer yields state of the art Brain-Score for Area V4, [[Paper]](https://arxiv.org/pdf/2203.06649.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -695,6 +698,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) LILE: Look In-Depth before Looking Elsewhere -- A Dual Attention Network using Transformers for Cross-Modal Information Retrieval in Histopathology Archives, [[Paper]](https://arxiv.org/pdf/2203.01445.pdf)
 - (arXiv 2022.03) VoViT: Low Latency Graph-based Audio-Visual Voice Separation Transformer, [[Paper]](https://arxiv.org/pdf/2203.04099.pdf),[[Project]](https://ipcv.github.io/VoViT/)
 - (arXiv 2022.03) MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization, [[Paper]](https://arxiv.org/pdf/2203.07086.pdf),[[Project]](https://ipcv.github.io/VoViT/)
+- (arXiv 2022.03) Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2203.06386.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -783,6 +787,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer, [[Paper]](https://arxiv.org/pdf/2202.09367.pdf), [[Code]](https://github.com/AllenXiangX/SnowflakeNet)
 - (arXiv 2022.03) Spatiotemporal Transformer Attention Network for 3D Voxel Level Joint Segmentation and Motion Prediction in Point Cloud, [[Paper]](https://arxiv.org/pdf/2203.00138.pdf)
 - (arXiv 2022.03) 3DCTN: 3D Convolution-Transformer Network for Point Cloud Classification, [[Paper]](https://arxiv.org/pdf/2203.00828.pdf)
+- (arXiv 2022.03) Masked Autoencoders for Point Cloud Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2203.06604.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1028,6 +1033,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Pre-Training Transformers for Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2112.09965.pdf)
 - (arXiv 2022.01) Domain Adaptation via Bidirectional Cross-Attention Transformer, [[Paper]](https://arxiv.org/pdf/2201.05887.pdf)
 - (arXiv 2022.03) Towards Unsupervised Domain Adaptation via Domain-Transformer, [[Paper]](https://arxiv.org/pdf/2202.13777.pdf)
+- (arXiv 2022.03) DATR: Domain-adaptive transformer for multi-domain landmark detection, [[Paper]](https://arxiv.org/pdf/2203.06433.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
