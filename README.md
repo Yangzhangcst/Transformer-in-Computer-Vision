@@ -397,6 +397,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection, [[Paper]](https://arxiv.org/pdf/2203.03605.pdf), [[Code]](https://github.com/IDEACVR/DINO)
 - (arXiv 2022.03) Knowledge Amalgamation for Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.03187.pdf)
 - (arXiv 2022.03) Accelerating DETR Convergence via Semantic-Aligned Matching, [[Paper]](https://arxiv.org/pdf/2203.06883.pdf), [[Code]](https://github.com/ZhangGongjie/SAM-DETR)
+- (arXiv 2022.03) Progressive End-to-End Object Detection in Crowded Scenes, [[Paper]](https://arxiv.org/pdf/2203.07669.pdf), [[Code]](https://github.com/megvii-model/Iter-E2EDET)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
