@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/16
+**Last updated: 2022/03/17
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -297,6 +297,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Visualizing and Understanding Patch Interactions in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.05922.pdf)
 - (arXiv 2022.03) EIT: Efficiently Lead Inductive Biases to ViT, [[Paper]](https://arxiv.org/pdf/2203.07116.pdf), [[Code]](https://github.com/MrHaiPi/EIT)
 - (arXiv 2022.03) The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy, [[Paper]](https://arxiv.org/pdf/2203.06345.pdf), [[Code]](https://github.com/VITA-Group/Diverse-ViT)
+- (arXiv 2022.03) Towards Practical Certifiable Patch Defense with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.08519.pdf)
+- (arXiv 2022.03) Patch-Fool: Are Vision Transformers Always Robust Against Adversarial Perturbations, [[Paper]](https://arxiv.org/pdf/2203.08392.pdf), [[Code]](https://github.com/RICE-EIC/Patch-Fool)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -308,7 +310,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Towards End-to-End Image Compression and Analysis with Transformers, [[Paper]](https://arxiv.org/pdf/2112.09300.pdf), [[Code]](https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers)
 - (arXiv 2021.12) CSformer: Bridging Convolution and Transformer for Compressive Sensing, [[Paper]](https://arxiv.org/pdf/2112.15299.pdf)
 - (arXiv 2022.01) Multi-Dimensional Model Compression of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.00043.pdf)
-- (arXiv 2022.02) Entroformer: A Transformer-based Entropy Model for Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2202.05492.pdf), [[Code]]( https://github.com/mx54039q/entroformer)
+- (arXiv 2022.02) Entroformer: A Transformer-based Entropy Model for Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2202.05492.pdf), [[Code]](https://github.com/mx54039q/entroformer)
+- (arXiv 2022.03) Unified Visual Transformer Compression, [[Paper]](https://arxiv.org/pdf/2203.08243.pdf), [[Code]](https://github.com/VITA-Group/UVC)
 
 ### Crowd 
 - (arXiv 2021.04) TransCrowd: Weakly-Supervised Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2104.09116.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
@@ -976,6 +979,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) CMX: Cross-Modal Fusion for RGB-X Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2203.04838.pdf), [[Code]](https://github.com/huaaaliu/RGBX_Semantic_Segmentation)
 - (arXiv 2022.03) TransCAM: Transformer Attention-based CAM Refinement for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2203.07239.pdf), [[Code]](https://github.com/liruiwen/TransCAM)
 - (arXiv 2022.03) Smoothing Matters: Momentum Transformer for Domain Adaptive Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2203.07988.pdf), [[Code]](https://github.com/alpc91/TransDA)
+- (arXiv 2022.03) WegFormer: Transformers for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2203.08421.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
