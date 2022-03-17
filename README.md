@@ -402,6 +402,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Accelerating DETR Convergence via Semantic-Aligned Matching, [[Paper]](https://arxiv.org/pdf/2203.06883.pdf), [[Code]](https://github.com/ZhangGongjie/SAM-DETR)
 - (arXiv 2022.03) Progressive End-to-End Object Detection in Crowded Scenes, [[Paper]](https://arxiv.org/pdf/2203.07669.pdf), [[Code]](https://github.com/megvii-model/Iter-E2EDET)
 
+### Edge
+- (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
+
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
 - (arXiv 2021.03) Robust Facial Expression Recognition with Convolutional Visual Transformers, [[Paper]](https://arxiv.org/abs/2103.16854)
@@ -753,7 +756,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) TrueType Transformer: Character and Font Style Recognition in Outline Format, [[Paper]](https://arxiv.org/pdf/2203.05338.pdf)
 
 ### Octree
-- (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf)
+- (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
+
+### Open Set Recognition
+- (arXiv 2022.03) Open Set Recognition using Vision Transformer with an Additional Detection Head, [[Paper]](https://arxiv.org/pdf/2203.08441.pdf)
 
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
