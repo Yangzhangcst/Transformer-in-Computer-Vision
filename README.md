@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/17
+**Last updated: 2022/03/18
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -299,6 +299,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) The Principle of Diversity: Training Stronger Vision Transformers Calls for Reducing All Levels of Redundancy, [[Paper]](https://arxiv.org/pdf/2203.06345.pdf), [[Code]](https://github.com/VITA-Group/Diverse-ViT)
 - (arXiv 2022.03) Towards Practical Certifiable Patch Defense with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.08519.pdf)
 - (arXiv 2022.03) Patch-Fool: Are Vision Transformers Always Robust Against Adversarial Perturbations, [[Paper]](https://arxiv.org/pdf/2203.08392.pdf), [[Code]](https://github.com/RICE-EIC/Patch-Fool)
+- (arXiv 2022.03) Are Vision Transformers Robust to Spurious Correlations?, [[Paper]](https://arxiv.org/pdf/2203.09125.pdf), [[Code]](https://github.com/deeplearning-wisc/vit-spurious-robustness)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -331,6 +332,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) GLPanoDepth: Global-to-Local Panoramic Depth Estimation, [[Paper]](https://arxiv.org/pdf/2202.02796.pdf)
 - (arXiv 2022.02) Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics, [[Paper]](https://arxiv.org/pdf/2202.03131.pdf)
 - (arXiv 2022.03) OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion, [[Paper]](https://arxiv.org/pdf/2203.00838.pdf)
+- (arXiv 2022.03) PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation, [[Paper]](https://arxiv.org/pdf/2203.09283.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -401,6 +403,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Knowledge Amalgamation for Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.03187.pdf)
 - (arXiv 2022.03) Accelerating DETR Convergence via Semantic-Aligned Matching, [[Paper]](https://arxiv.org/pdf/2203.06883.pdf), [[Code]](https://github.com/ZhangGongjie/SAM-DETR)
 - (arXiv 2022.03) Progressive End-to-End Object Detection in Crowded Scenes, [[Paper]](https://arxiv.org/pdf/2203.07669.pdf), [[Code]](https://github.com/megvii-model/Iter-E2EDET)
+- (arXiv 2022.03) Towards Data-Efficient Detection Transformers, [[Paper]](https://arxiv.org/pdf/2203.09507.pdf), [[Code]](https://github.com/encounter1997/DE-DETRs)
+- (arXiv 2022.03) Semantic-aligned Fusion Transformer for One-shot Object Detection, [[Paper]](https://arxiv.org/pdf/2203.09093.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -439,6 +443,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) HyperTransformer: Model Generation for Supervised and Semi-Supervised Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2201.04182.pdf)
 - (arXiv 2022.02) Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2202.06498.pdf)
 - (arXiv 2022.03) Self-Promoted Supervision for Few-Shot Transformer, [[Paper]](https://arxiv.org/pdf/2203.07057.pdf), [[Code]](https://github.com/DongSky/few-shot-vit)
+- (arXiv 2022.03) Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2203.09064.pdf), [[Code]](https://github.com/StomachCold/HCTransformers)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -628,6 +633,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework, [[Paper]](https://arxiv.org/pdf/2203.05756.pdf)
 - (arXiv 2022.03) Joint rotational invariance and adversarial training of a dual-stream Transformer yields state of the art Brain-Score for Area V4, [[Paper]](https://arxiv.org/pdf/2203.06649.pdf)
 - (arXiv 2022.03) SATr: Slice Attention with Transformer for Universal Lesion Detection, [[Paper]](https://arxiv.org/pdf/2203.07373.pdf)
+- (arXiv 2022.03) Simulation-Driven Training of Vision Transformers Enabling Metal Segmentation in X-Ray Images, [[Paper]](https://arxiv.org/pdf/2203.09207.pdf)
 
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
@@ -710,6 +716,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) MDMMT-2: Multidomain Multimodal Transformer for Video Retrieval, One More Step Towards Generalization, [[Paper]](https://arxiv.org/pdf/2203.07086.pdf),[[Project]](https://ipcv.github.io/VoViT/)
 - (arXiv 2022.03) Enabling Multimodal Generation on CLIP via Vision-Language Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2203.06386.pdf)
 - (arXiv 2022.03) Inverted Pyramid Multi-task Transformer for Dense Scene Understanding, [[Paper]](https://arxiv.org/pdf/2203.07997.pdf)
+- (arXiv 2022.03) UNIMO-2: End-to-End Unified Vision-Language Grounded Learning, [[Paper]](https://arxiv.org/pdf/2203.09067.pdf),[[Project]](https://unimo-ptm.github.io/)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -990,6 +997,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
 - (arXiv 2022.01) ShapeFormer: Transformer-based Shape Completion via Sparse Representation,  [[Paper]](https://arxiv.org/abs/2201.10326), [[Project]](https://shapeformer.github.io/)
+- (arXiv 2022.03) AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation, [[Paper]](https://arxiv.org/pdf/2203.09516.pdf), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
 
 ### Super-Resolution
 - (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
@@ -1245,6 +1253,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning, [[Paper]](https://arxiv.org/pdf/2203.01522.pdf)
 - (arXiv 2022.03) Ensembles of Vision Transformers as a New Paradigm for Automated Classification in Ecology, [[Paper]](https://arxiv.org/pdf/2203.01726.pdf)
 - (arXiv 2022.03) A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2203.04708.pdf), [[Code]](https://github.com/suyukun666/UFO)
+- (arXiv 2022.03) PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer, [[Paper]](https://arxiv.org/pdf/2203.09293.pdf)
+- (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
 
 ## Contact & Feedback
 
