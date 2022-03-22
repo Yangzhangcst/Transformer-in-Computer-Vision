@@ -438,6 +438,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) RestoreFormer: High-Quality Blind Face Restoration From Undegraded Key-Value Pairs, [[Paper]](https://arxiv.org/pdf/2201.06374.pdf)
 - (arXiv 2022.03) Protecting Celebrities with Identity Consistency Transformer, [[Paper]](https://arxiv.org/pdf/2203.01318.pdf)
 - (arXiv 2022.03) Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning, [[Paper]](https://arxiv.org/pdf/2203.06541.pdf),[[Code]](https://github.com/Jiahao-UTS/SLPT-master)
+- (arXiv 2022.03) HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network, [[Paper]](https://arxiv.org/pdf/2203.10699.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -470,6 +471,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
+- (arXiv 2022.03) End-to-End Human-Gaze-Target Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.10433.pdf)
 
 ## Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
