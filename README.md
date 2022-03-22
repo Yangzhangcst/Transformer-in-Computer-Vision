@@ -648,6 +648,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Simulation-Driven Training of Vision Transformers Enabling Metal Segmentation in X-Ray Images, [[Paper]](https://arxiv.org/pdf/2203.09207.pdf)
 - (arXiv 2022.03) TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2203.10726.pdf)
 
+### Metric learning
+- (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
+
 ### Motion
 - (arXiv 2021.03) Single-Shot Motion Completion with Transformer, [[Paper]](https://arxiv.org/pdf/2103.00776.pdf), [[Code]](https://github.com/FuxiCV/SSMCT)
 - (arXiv 2021.03) DanceNet3D: Music Based Dance Generation with Parametric Motion Transformer, [[Paper]](https://arxiv.org/pdf/2103.10206.pdf)
@@ -761,7 +764,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Monocular Robot Navigation with Self-Supervised Pretrained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.03682.pdf), [[Project]](https://sachamorin.github.io/dino/)
 
 ### Neural Rendering
-- (arXiv 2022.03) ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.10157.pdf)
+- (arXiv 2022.03) ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.10157.pdf), [[Code]](https://github.com/jkulhanek/viewformer)
 
 ### OCR
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
@@ -831,6 +834,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) CodedVTR: Codebook-based Sparse Voxel Transformer with Geometric Guidance, [[Paper]](https://arxiv.org/pdf/2203.09887.pdf)
 - (arXiv 2022.03) Masked Discrimination for Self-Supervised Learning on Point Clouds, [[Paper]](https://arxiv.org/pdf/2203.11183.pdf), [[Code]](https://github.com/haotian-liu/MaskPoint)
 - (arXiv 2022.03) Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds, [[Paper]](https://arxiv.org/pdf/2203.10314.pdf), [[Code]](https://github.com/skyhehe123/VoxSeT)
+- (arXiv 2022.03) V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.10638.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
