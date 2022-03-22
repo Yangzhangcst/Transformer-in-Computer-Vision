@@ -304,6 +304,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Patch-Fool: Are Vision Transformers Always Robust Against Adversarial Perturbations, [[Paper]](https://arxiv.org/pdf/2203.08392.pdf), [[Code]](https://github.com/RICE-EIC/Patch-Fool)
 - (arXiv 2022.03) Are Vision Transformers Robust to Spurious Correlations, [[Paper]](https://arxiv.org/pdf/2203.09125.pdf), [[Code]](https://github.com/deeplearning-wisc/vit-spurious-robustness)
 - (arXiv 2022.03) Three things everyone should know about Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.09125.pdf)
+- (arXiv 2022.03) ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.10790.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -409,6 +410,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Progressive End-to-End Object Detection in Crowded Scenes, [[Paper]](https://arxiv.org/pdf/2203.07669.pdf), [[Code]](https://github.com/megvii-model/Iter-E2EDET)
 - (arXiv 2022.03) Towards Data-Efficient Detection Transformers, [[Paper]](https://arxiv.org/pdf/2203.09507.pdf), [[Code]](https://github.com/encounter1997/DE-DETRs)
 - (arXiv 2022.03) Semantic-aligned Fusion Transformer for One-shot Object Detection, [[Paper]](https://arxiv.org/pdf/2203.09093.pdf)
+- (arXiv 2022.03) MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2203.10981.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
