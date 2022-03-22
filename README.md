@@ -777,6 +777,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) DiT: Self-supervised Pre-training for Document Image Transformer, [[Paper]](https://arxiv.org/pdf/2203.02378.pdf), [[Code]](https://aka.ms/msdit)
 - (arXiv 2022.03) TrueType Transformer: Character and Font Style Recognition in Outline Format, [[Paper]](https://arxiv.org/pdf/2203.05338.pdf)
 - (arXiv 2022.03) SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition, [[Paper]](https://arxiv.org/pdf/2203.10209.pdf), [[Code]](https://github.com/mxin262/SwinTextSpotter)
+- (arXiv 2022.03) Transformer-based HTR for Historical Documents, [[Paper]](https://arxiv.org/pdf/2203.11008.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
@@ -1031,6 +1032,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) On Efficient Transformer and Image Pre-training for Low-level Vision, [[Paper]](https://arxiv.org/pdf/2112.10175.pdf), [[Code]](https://github.com/fenglinglwb/EDT)
 - (arXiv 2022.01) Detail-Preserving Transformer for Light Field Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2201.00346.pdf), [[Code]](https://github.com/BITszwang/DPT)
 - (arXiv 2022.03) Rich CNN-Transformer Feature Aggregation Networks for Super-Resolution, [[Paper]](https://arxiv.org/pdf/2203.07682.pdf)
+- (arXiv 2022.03) HIPA: Hierarchical Patch Transformer for Single Image Super Resolution, [[Paper]](https://arxiv.org/pdf/2203.10247.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
