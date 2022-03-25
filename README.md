@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/24
+**Last updated: 2022/03/25
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -17,7 +17,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2022/February* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
-- (arXiv 2022.03) Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work [[Paper]](https://arxiv.org/pdf/2203.01536.pdf)
+- (arXiv 2022.03) Transformers Meet Visual Learning Understanding: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2203.12944.pdf)
+
+- (arXiv 2022.03) Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work. [[Paper]](https://arxiv.org/pdf/2203.01536.pdf)
 
 - (arXiv 2022.02) Transformers in Medical Image Analysis: A Review. [[Paper]](https://arxiv.org/pdf/2202.12165.pdf)
 
@@ -308,6 +310,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) ScalableViT: Rethinking the Context-oriented Generalization of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.10790.pdf)
 - (arXiv 2022.03) GradViT: Gradient Inversion of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.11894.pdf), [[Code]](https://gradvit.github.io/)
 - (arXiv 2022.03) Learning Patch-to-Cluster Attention in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.11987.pdf)
+- (arXiv 2022.03) Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization, [[Paper]](https://arxiv.org/pdf/2203.13167.pdf)
+- (arXiv 2022.03) Beyond Fixation: Dynamic Window Visual Transformer, [[Paper]](https://arxiv.org/pdf/2203.12856.pdf), [[Code]](https://github.com/pzhren/DW-ViT)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -523,6 +527,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2108.06747.pdf), [[Code]](https://github.com/easton-cau/SOTR)
 - (arXiv 2021.12) A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2112.09747.pdf)
 - (arXiv 2021.12) SOIT: Segmenting Objects with Instance-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2112.11037.pdf), [[Code]](https://github.com/yuxiaodongHRI/SOIT)
+- (arXiv 2022.03) Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer, [[Paper]](https://arxiv.org/pdf/2203.13253.pdf), [[Code]](https://github.com/OmkarThawakar/MSSTS-VIS)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -1088,6 +1093,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Efficient Visual Tracking with Exemplar Transformers, [[Paper]](https://arxiv.org/pdf/2112.09686.pdf), [[Code]](https://github.com/visionml/pytracking)
 - (arXiv 2022.03) Transforming Model Prediction for Tracking, [[Paper]](https://arxiv.org/pdf/2203.11192.pdf), [[Code]](https://github.com/visionml/pytracking)
 - (arXiv 2022.03) MixFormer: End-to-End Tracking with Iterative Mixed Attention, [[Paper]](https://arxiv.org/pdf/2203.11082.pdf), [[Code]](https://github.com/MCG-NJU/MixFormer)
+- (arXiv 2022.03) Global Tracking Transformers, [[Paper]](https://arxiv.org/pdf/2203.13250.pdf), [[Code]](https://github.com/xingyizhou/GTR)
+- (arXiv 2022.03) Keypoints Tracking via Transformer Networks, [[Paper]](https://arxiv.org/pdf/2203.12848.pdf), [[Code]](https://github.com/LexaNagiBator228/Keypoints-Tracking-via-Transformer-Networks/)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -1190,6 +1197,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) ViTransPAD: Video Transformer using convolution and self-attention for Face Presentation Attack Detection, [[Paper]](https://arxiv.org/pdf/2203.01562.pdf)
 - (arXiv 2022.03) End-to-End Video Text Spotting with Transformer, [[Paper]](https://arxiv.org/pdf/2203.10539.pdf), [[Code]](https://github.com/weijiawu/TransDETR)
 - (arXiv 2022.03) Associating Objects with Scalable Transformers for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2203.11442.pdf), [[Code]](https://github.com/z-x-yang/AOT)
+- (arXiv 2022.03) Self-supervised Video-centralised Transformer for Video Face Clustering, [[Paper]](https://arxiv.org/pdf/2203.13166.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
