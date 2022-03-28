@@ -364,6 +364,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Denoising
 - (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
 - (arXiv 2022.03) Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics, [[Paper]](https://arxiv.org/pdf/2202.14009.pdf), [[Code]](https://github.com/FanChiMao/SUNet)
+- (arXiv 2022.03) Practical Blind Denoising via Swin-Conv-UNet and Data Synthesis, [[Paper]](https://arxiv.org/pdf/2203.13278.pdf), [[Code]](https://github.com/cszn/SCUNet)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -927,6 +928,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Reference-based Magnetic Resonance Image Reconstruction Using Texture Transformer, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
 - (arXiv 2021.11) HEAT: Holistic Edge Attention Transformer for Structured Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.15143.pdf)
 - (arXiv 2021.12) VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion, [[Paper]](https://arxiv.org/pdf/2112.00236.pdf), [[Code]](https://noahstier.github.io/vortx/)
+- (arXiv 2022.03) RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers, [[Paper]](https://arxiv.org/pdf/2203.13296.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
