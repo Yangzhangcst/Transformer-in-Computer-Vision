@@ -316,6 +316,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness, [[Paper]](https://arxiv.org/pdf/2203.13639.pdf)
 - (arXiv 2022.03) Automated Progressive Learning for Efficient Training of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.14509.pdf), [[Code]](https://github.com/dvlab-research/Stratified-Transformer)
 - (arXiv 2022.03) Beyond Masking: Demystifying Token-Based Pre-Training for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.14313.pdf), [[Code]](https://github.com/sunsmarterjie/beyond_masking)
+- (arXiv 2022.03) CaCo: Both Positive and Negative Samples are Directly Learnable via Cooperative-adversarial Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2203.14370.pdf), [[Code]](https://github.com/maple-research-lab/caco)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -678,6 +679,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) TransFusion: Multi-view Divergent Fusion for Medical Image Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2203.10726.pdf)
 - (arXiv 2022.03) Adaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction, [[Paper]](https://arxiv.org/pdf/2203.12476.pdf)
 - (arXiv 2022.03) Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection, [[Paper]](https://arxiv.org/pdf/2203.12121.pdf)
+- (arXiv 2022.03) Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution, [[Paper]](https://arxiv.org/pdf/2203.13963.pdf), [[Code]](https://github.com/XAIMI-Lab/McMRSR)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1062,6 +1064,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) WegFormer: Transformers for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2203.08421.pdf)
 - (arXiv 2022.03) StructToken : Rethinking Semantic Segmentation with Structural Prior, [[Paper]](https://arxiv.org/pdf/2203.12612.pdf)
 - (arXiv 2022.03) Feature Selective Transformer for Semantic Image Segmentation, [[Paper]](https://arxiv.org/pdf/2203.14124.pdf)
+- (arXiv 2022.03) Semantic Segmentation by Early Region Proxy, [[Paper]](https://arxiv.org/pdf/2203.14043.pdf), [[Code]](https://github.com/YiF-Zhang/RegionProxy)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
