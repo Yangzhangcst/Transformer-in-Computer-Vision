@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/29
+**Last updated: 2022/03/30
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -113,6 +113,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) ACORT: A Compact Object Relation Transformer for Parameter Efficient Image Captioning, [[Paper]](https://arxiv.org/pdf/2202.05451.pdf), [[Code]](https://github.com/jiahuei/sparse-image-captioning) 
 - (arXiv 2022.02) Deep soccer captioning with transformer: dataset, semantics-related losses, and multi-level evaluation, [[Paper]](https://arxiv.org/pdf/2202.05728.pdf), [[Code]](https://sites.google.com/view/soccercaptioning) 
 - (arXiv 2022.03) X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning, [[Paper]](https://arxiv.org/pdf/2203.00843.pdf)
+- (arXiv 2022.03) End-to-End Transformer Based Model for Image Captioning, [[Paper]](https://arxiv.org/pdf/2203.15350.pdf)
+- (arXiv 2022.03) Quantifying Societal Bias Amplification in Image Captioning, [[Paper]](https://arxiv.org/pdf/2203.15395.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -317,6 +319,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Automated Progressive Learning for Efficient Training of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.14509.pdf), [[Code]](https://github.com/dvlab-research/Stratified-Transformer)
 - (arXiv 2022.03) Beyond Masking: Demystifying Token-Based Pre-Training for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.14313.pdf), [[Code]](https://github.com/sunsmarterjie/beyond_masking)
 - (arXiv 2022.03) CaCo: Both Positive and Negative Samples are Directly Learnable via Cooperative-adversarial Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2203.14370.pdf), [[Code]](https://github.com/maple-research-lab/caco)
+- (arXiv 2022.03) SepViT: Separable Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.15380.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -532,6 +535,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Aggregated Contextual Transformations for High-Resolution Image Inpainting, [[Paper]](https://arxiv.org/abs/2104.01431), [[Code]](https://github.com/researchmm/AOT-GAN-for-Inpainting)
 - (arXiv 2021.04) Decoupled Spatial-Temporal Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2112.08275.pdf), [[Code]](https://github.com/wjf5203/SeqFormer)
 - (arXiv 2022.03) Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding, [[Paper]](https://arxiv.org/pdf/2203.00867.pdf), [[Code]](https://github.com/DQiaole/ZITS_inpainting)
+- (arXiv 2022.03) MAT: Mask-Aware Transformer for Large Hole Image Inpainting, [[Paper]](https://arxiv.org/pdf/2203.15270.pdf), [[Code]](https://github.com/fenglinglwb/MAT)
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
@@ -561,6 +565,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Local Feature Matching with Transformers for low-end devices, [[Paper]](https://arxiv.org/pdf/2202.00770.pdf), [[Code]](https://github.com/Kolkir/Coarse_LoFTR_TRT)
 - (arXiv 2022.02) CATs++: Boosting Cost Aggregation with Convolutions and Transformers, [[Paper]](https://arxiv.org/pdf/2202.06817.pdf), [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
 - (arXiv 2022.03) MatchFormer: Interleaving Attention in Transformers for Feature Matching, [[Paper]](https://arxiv.org/pdf/2203.09645.pdf), [[Code]](https://github.com/jamycheung/MatchFormer)
+
+### Matting
+- (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
 
 ### Medical
 - (arXiv 2021.02) TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2102.04306), [[Code]](https://github.com/Beckschen/TransUNet)
@@ -680,6 +687,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Adaptively Re-weighting Multi-Loss Untrained Transformer for Sparse-View Cone-Beam CT Reconstruction, [[Paper]](https://arxiv.org/pdf/2203.12476.pdf)
 - (arXiv 2022.03) Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection, [[Paper]](https://arxiv.org/pdf/2203.12121.pdf)
 - (arXiv 2022.03) Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution, [[Paper]](https://arxiv.org/pdf/2203.13963.pdf), [[Code]](https://github.com/XAIMI-Lab/McMRSR)
+- (arXiv 2022.03) Cross-Modality High-Frequency Transformer for MR Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2203.15314.pdf)
+- (arXiv 2022.03) Affine Medical Image Registration with Coarse-to-Fine Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.15216.pdf), [[Code]](https://github.com/cwmok/C2FViT)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -692,6 +701,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) AniFormer: Data-driven 3D Animation with Transformer, [[Paper]](https://arxiv.org/pdf/2110.10533.pdf), [[Code]](https://github.com/mikecheninoulu/AniFormer)
 - (arXiv 2021.11) Multi-Person 3D Motion Prediction with Multi-Range Transformers, [[Paper]](https://arxiv.org/pdf/2111.12073.pdf), [[Code]](https://jiashunwang.github.io/MRT/)
 - (arXiv 2022.03) ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation, [[Paper]](https://arxiv.org/pdf/2203.07706.pdf)
+- (arXiv 2022.03) Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs, [[Paper]](https://arxiv.org/pdf/2203.15720.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -1259,6 +1269,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks, [[Paper]](https://arxiv.org/pdf/2112.01522.pdf)
 - (arXiv 2021.12) TransZero: Attribute-guided Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2112.01683.pdf), [[Code]](https://github.com/shiming-chen/transzero)
 - (arXiv 2021.12) TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2112.08643.pdf), [[Code]](https://github.com/shiming-chen/TransZero_pp)
+- (arXiv 2022.03) Hybrid Routing Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2203.15310.pdf)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
