@@ -1140,6 +1140,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) High-Performance Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2203.13533.pdf), [[Code]](https://github.com/chenxin-dlut/TransT-M)
 - (arXiv 2022.03) Efficient Visual Tracking via Hierarchical Cross-Attention Transformer, [[Paper]](https://arxiv.org/pdf/2203.13537.pdf), [[Code]](https://github.com/chenxin-dlut/HCAT)
 - (arXiv 2022.03) Unified Transformer Tracker for Object Tracking, [[Paper]](https://arxiv.org/pdf/2203.15175.pdf), [[Code]](https://github.com/Flowerfan/Trackron)
+- (arXiv 2022.03) Global Tracking via Ensemble of Local Trackers, [[Paper]](https://arxiv.org/pdf/2203.16092.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -1243,6 +1244,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) End-to-End Video Text Spotting with Transformer, [[Paper]](https://arxiv.org/pdf/2203.10539.pdf), [[Code]](https://github.com/weijiawu/TransDETR)
 - (arXiv 2022.03) Associating Objects with Scalable Transformers for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2203.11442.pdf), [[Code]](https://github.com/z-x-yang/AOT)
 - (arXiv 2022.03) Self-supervised Video-centralised Transformer for Video Face Clustering, [[Paper]](https://arxiv.org/pdf/2203.13166.pdf)
+- (arXiv 2022.03) VPTR: Efficient Transformers for Video Prediction, [[Paper]](https://arxiv.org/pdf/2203.15836.pdf), [[Code]](https://github.com/XiYe20/VPTR)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -1374,6 +1376,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) CNNs and Transformers Perceive Hybrid Images Similar to Humans, [[Paper]](https://arxiv.org/pdf/2203.11678.pdf), [[Code]](https://github.com/aliborji/hybrid_images.git)
 - (arXiv 2022.03) Disentangling Patterns and Transformations from One Sequence of Images with Shape-invariant Lie Group Transformer, [[Paper]](https://arxiv.org/pdf/2203.11210.pdf)
 - (arXiv 2022.03) ViT-FOD: A Vision Transformer based Fine-grained Object Discriminator, [[Paper]](https://arxiv.org/pdf/2203.12816.pdf)
+- (arXiv 2022.03) Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis, [[Paper]](https://arxiv.org/pdf/2203.16414.pdf)
 
 ## Contact & Feedback
 
