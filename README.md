@@ -440,6 +440,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2203.13310.pdf), [[Code]](https://github.com/ZrrSkywalker/MonoDETR.git)
 - (arXiv 2022.03) Few-Shot Object Detection with Fully Cross-Transformer, [[Paper]](https://arxiv.org/pdf/2203.15021.pdf)
 - (arXiv 2022.03) Exploring Plain Vision Transformer Backbones for Object Detection, [[Paper]](https://arxiv.org/pdf/2203.16527.pdf)
+- (arXiv 2022.03) Omni-DETR: Omni-Supervised Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.16089.pdf), [[Code]](https://github.com/amazon-research/omni-detr)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -709,6 +710,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Multi-Person 3D Motion Prediction with Multi-Range Transformers, [[Paper]](https://arxiv.org/pdf/2111.12073.pdf), [[Code]](https://jiashunwang.github.io/MRT/)
 - (arXiv 2022.03) ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation, [[Paper]](https://arxiv.org/pdf/2203.07706.pdf)
 - (arXiv 2022.03) Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs, [[Paper]](https://arxiv.org/pdf/2203.15720.pdf)
+- (arXiv 2022.03) Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation, [[Paper]](https://arxiv.org/pdf/2203.16202.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -1167,6 +1169,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
 - (arXiv 2022.03) UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation, [[Paper]](https://arxiv.org/pdf/2203.02557.pdf), [[Code]](https://github.com/LS4GAN/uvcga)
+- (arXiv 2022.03) InstaFormer: Instance-Aware Image-to-Image Translation with Transformer, [[Paper]](https://arxiv.org/pdf/2203.16248.pdf)
+- (arXiv 2022.03) ITTR: Unpaired Image-to-Image Translation with Transformers, [[Paper]](https://arxiv.org/pdf/2203.16015.pdf)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
