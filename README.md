@@ -97,6 +97,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Learning Transformer Features for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2112.00485.pdf)
 - (arXiv 2022.03) Visual Mechanisms Inspired Efficient Transformers for Image and Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2203.14557.pdf)
 
+### Bird's-Eye-View
+- (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
+
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
 - (arXiv 2021.01) Dual-Level Collaborative Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.06462.pdf)
@@ -532,6 +535,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening, [[Paper]](https://arxiv.org/pdf/2203.02503.pdf)
 - (arXiv 2022.03) Multiscale Convolutional Transformer with Center Mask Pretraining for Hyperspectral Image Classificationtion, [[Paper]](https://arxiv.org/pdf/2203.04771.pdf)
 - (arXiv 2022.03) Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2203.04845.pdf)
+- (arXiv 2022.03) Deep Hyperspectral Unmixing using Transformer Network, [[Paper]](https://arxiv.org/pdf/2203.17076.pdf), [[Code]](https://github.com/preetam22n/DeepTrans-HSU)
 
 ### Incremental Learning
 - (arXiv 2021.12) Improving Vision Transformers for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2112.06103.pdf)
@@ -787,6 +791,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection, [[Paper]](https://arxiv.org/pdf/2203.12745.pdf),[[Project]](https://github.com/TencentARC/UMT)
 - (arXiv 2022.03) Multi-modal Multi-label Facial Action Unit Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.13301.pdf),[[Project]](https://github.com/TencentARC/UMT)
 - (arXiv 2022.03) Multimodal Fusion Transformer for Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2203.16952.pdf)
+- (arXiv 2022.03) VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2203.17247.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
