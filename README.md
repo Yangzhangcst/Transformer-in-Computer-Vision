@@ -1095,6 +1095,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) StructToken : Rethinking Semantic Segmentation with Structural Prior, [[Paper]](https://arxiv.org/pdf/2203.12612.pdf)
 - (arXiv 2022.03) Feature Selective Transformer for Semantic Image Segmentation, [[Paper]](https://arxiv.org/pdf/2203.14124.pdf)
 - (arXiv 2022.03) Semantic Segmentation by Early Region Proxy, [[Paper]](https://arxiv.org/pdf/2203.14043.pdf), [[Code]](https://github.com/YiF-Zhang/RegionProxy)
+- (arXiv 2022.03) ReSTR: Convolution-free Referring Image Segmentation Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.16768.pdf), [[Code]](http://cvlab.postech.ac.kr/research/restr/)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
