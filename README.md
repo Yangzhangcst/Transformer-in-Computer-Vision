@@ -853,6 +853,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
+- (arXiv 2022.03) CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16896.pdf), [[Code]](https://github.com/askerlee/craft)
 
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
@@ -1150,6 +1151,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Efficient Visual Tracking via Hierarchical Cross-Attention Transformer, [[Paper]](https://arxiv.org/pdf/2203.13537.pdf), [[Code]](https://github.com/chenxin-dlut/HCAT)
 - (arXiv 2022.03) Unified Transformer Tracker for Object Tracking, [[Paper]](https://arxiv.org/pdf/2203.15175.pdf), [[Code]](https://github.com/Flowerfan/Trackron)
 - (arXiv 2022.03) Global Tracking via Ensemble of Local Trackers, [[Paper]](https://arxiv.org/pdf/2203.16092.pdf)
+- (arXiv 2022.03) MeMOT: Multi-Object Tracking with Memory, [[Paper]](https://arxiv.org/pdf/2203.16761.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
