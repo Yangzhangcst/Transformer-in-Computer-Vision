@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/03/31
+**Last updated: 2022/04/01
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -475,6 +475,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Transformer-based Multimodal Information Fusion for Facial Expression Analysis, [[Paper]](https://arxiv.org/pdf/2203.12367.pdf)
 - (arXiv 2022.03) Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing, [[Paper]](https://arxiv.org/pdf/2203.12175.pdf)
 - (arXiv 2022.03) Facial Expression Recognition with Swin Transformer, [[Paper]](https://arxiv.org/pdf/2203.13472.pdf)
+- (arXiv 2022.03) TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing, [[Paper]](https://arxiv.org/pdf/2203.17266.pdf),[[Code]](https://github.com/BillyXYB/TransEditor)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -785,6 +786,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Multi-Modal Learning for AU Detection Based on Multi-Head Fused Transformers, [[Paper]](https://arxiv.org/pdf/2203.11441.pdf)
 - (arXiv 2022.03) UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection, [[Paper]](https://arxiv.org/pdf/2203.12745.pdf),[[Project]](https://github.com/TencentARC/UMT)
 - (arXiv 2022.03) Multi-modal Multi-label Facial Action Unit Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.13301.pdf),[[Project]](https://github.com/TencentARC/UMT)
+- (arXiv 2022.03) Multimodal Fusion Transformer for Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2203.16952.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1249,6 +1251,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Associating Objects with Scalable Transformers for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2203.11442.pdf), [[Code]](https://github.com/z-x-yang/AOT)
 - (arXiv 2022.03) Self-supervised Video-centralised Transformer for Video Face Clustering, [[Paper]](https://arxiv.org/pdf/2203.13166.pdf)
 - (arXiv 2022.03) VPTR: Efficient Transformers for Video Prediction, [[Paper]](https://arxiv.org/pdf/2203.15836.pdf), [[Code]](https://github.com/XiYe20/VPTR)
+- (arXiv 2022.03) Deformable Video Transformer, [[Paper]](https://arxiv.org/pdf/2203.16795.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
