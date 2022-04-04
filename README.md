@@ -345,6 +345,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Vision Transformer Compression with Structured Pruning and Low Rank Approximation, [[Paper]](https://arxiv.org/pdf/2203.13444.pdf)
 
 ### Cross-view
+- (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
 - (arXiv 2022.04) TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization, [[Paper]](https://arxiv.org/pdf/2204.00097.pdf), [[Code]](https://github.com/Jeff-Zilence/TransGeo2022)
 
 ### Crowd 
@@ -1390,7 +1391,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Ensembles of Vision Transformers as a New Paradigm for Automated Classification in Ecology, [[Paper]](https://arxiv.org/pdf/2203.01726.pdf)
 - (arXiv 2022.03) A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2203.04708.pdf), [[Code]](https://github.com/suyukun666/UFO)
 - (arXiv 2022.03) PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer, [[Paper]](https://arxiv.org/pdf/2203.09293.pdf)
-- (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
 - (arXiv 2022.03) Cascade Transformers for End-to-End Person Search, [[Paper]](https://arxiv.org/pdf/2203.09642.pdf), [[Code]](https://github.com/Kitware/COAT)
 - (arXiv 2022.03) SepTr: Separable Transformer for Audio Spectrogram Processing, [[Paper]](https://arxiv.org/pdf/2203.09581.pdf), [[Code]](https://github.com/ristea/septr)
 - (arXiv 2022.03) CNNs and Transformers Perceive Hybrid Images Similar to Humans, [[Paper]](https://arxiv.org/pdf/2203.11678.pdf), [[Code]](https://github.com/aliborji/hybrid_images.git)
