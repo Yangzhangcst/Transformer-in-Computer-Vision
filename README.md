@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/01
+**Last updated: 2022/04/04
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -79,6 +79,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) LocATe: End-to-end Localization of Actions in 3D with Transformers, [[Paper]](https://arxiv.org/pdf/2203.10719.pdf)
 - (arXiv 2022.03) DirecFormer: A Directed Attention in Transformer Approach to Robust Action Recognition, [[Paper]](https://arxiv.org/pdf/2203.10233.pdf), [[Code]](https://github.com/uark-cviu/DirecFormer)
 - (arXiv 2022.03) Multi-label Transformer for Action Unit Detection, [[Paper]](https://arxiv.org/pdf/2203.12531.pdf)
+- (arXiv 2022.04) Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition, [[Paper]](https://arxiv.org/pdf/2204.00452.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -343,6 +344,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Transformer Compressed Sensing via Global Image Tokens, [[Paper]](https://arxiv.org/pdf/2203.12861.pdf), [[supplementary ]](https://github.com/uqmarlonbran/TCS)
 - (arXiv 2022.03) Vision Transformer Compression with Structured Pruning and Low Rank Approximation, [[Paper]](https://arxiv.org/pdf/2203.13444.pdf)
 
+### Cross-view
+- (arXiv 2022.04) TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization, [[Paper]](https://arxiv.org/pdf/2204.00097.pdf), [[Code]](https://github.com/Jeff-Zilence/TransGeo2022)
+
 ### Crowd 
 - (arXiv 2021.04) TransCrowd: Weakly-Supervised Crowd Counting with Transformer, [[Paper]](https://arxiv.org/pdf/2104.09116.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
 - (arXiv 2021.05) Boosting Crowd Counting with Transformers, [[Paper]](https://arxiv.org/pdf/2105.10926.pdf), [[Code]](https://github.com/dk-liang/TransCrowd)
@@ -444,6 +448,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Few-Shot Object Detection with Fully Cross-Transformer, [[Paper]](https://arxiv.org/pdf/2203.15021.pdf)
 - (arXiv 2022.03) Exploring Plain Vision Transformer Backbones for Object Detection, [[Paper]](https://arxiv.org/pdf/2203.16527.pdf)
 - (arXiv 2022.03) Omni-DETR: Omni-Supervised Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.16089.pdf), [[Code]](https://github.com/amazon-research/omni-detr)
+- (arXiv 2022.04) CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2204.00325.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
