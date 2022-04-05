@@ -81,6 +81,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Multi-label Transformer for Action Unit Detection, [[Paper]](https://arxiv.org/pdf/2203.12531.pdf)
 - (arXiv 2022.04) Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition, [[Paper]](https://arxiv.org/pdf/2204.00452.pdf)
 - (arXiv 2022.04) TALLFormer: Temporal Action Localization with Long-memory Transformer, [[Paper]](https://arxiv.org/pdf/2204.01680.pdf), [[Code]](https://github.com/klauscc/TALLFormer)
+- (arXiv 2022.04) TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting, [[Paper]](https://arxiv.org/pdf/2204.01018 .pdf), [[Code]](https://github.com/SvipRepetitionCounting/TransRAC)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -373,6 +374,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) PanoFormer: Panorama Transformer for Indoor 360° Depth Estimation, [[Paper]](https://arxiv.org/pdf/2203.09283.pdf)
 - (arXiv 2022.03) DepthGAN: GAN-based Depth Generation of Indoor Scenes from Semantic Layouts, [[Paper]](https://arxiv.org/pdf/2203.11453.pdf)
 - (arXiv 2022.03) DepthFormer: Exploiting Long-Range Correlation and Local Information for Accurate Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2203.14211.pdf), [[Code]](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
+- (arXiv 2022.04) BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2204.00987.pdf), [[Code]](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -536,6 +538,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer, [[Paper]](https://arxiv.org/pdf/2112.01838.pdf), [[Code]](https://github.com/fredzzhang/upt)
 - (arXiv 2022.03) Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows, [[Paper]](https://arxiv.org/pdf/2203.10537.pdf)
 - (arXiv 2022.03) MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2203.14709.pdf)
+- (arXiv 2022.04) What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions, [[Paper]](https://arxiv.org/pdf/2204.00746.pdf)
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -712,6 +715,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Cross-Modality High-Frequency Transformer for MR Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2203.15314.pdf)
 - (arXiv 2022.03) Affine Medical Image Registration with Coarse-to-Fine Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.15216.pdf), [[Code]](https://github.com/cwmok/C2FViT)
 - (arXiv 2022.03) CAT-Net: A Cross-Slice Attention Transformer Model for Prostate Zonal Segmentation in MRI, [[Paper]](https://arxiv.org/pdf/2203.15163.pdf)
+- (arXiv 2022.04) UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2204.00631.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
