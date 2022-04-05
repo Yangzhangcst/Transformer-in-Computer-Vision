@@ -80,6 +80,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) DirecFormer: A Directed Attention in Transformer Approach to Robust Action Recognition, [[Paper]](https://arxiv.org/pdf/2203.10233.pdf), [[Code]](https://github.com/uark-cviu/DirecFormer)
 - (arXiv 2022.03) Multi-label Transformer for Action Unit Detection, [[Paper]](https://arxiv.org/pdf/2203.12531.pdf)
 - (arXiv 2022.04) Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition, [[Paper]](https://arxiv.org/pdf/2204.00452.pdf)
+- (arXiv 2022.04) TALLFormer: Temporal Action Localization with Long-memory Transformer, [[Paper]](https://arxiv.org/pdf/2204.01680.pdf), [[Code]](https://github.com/klauscc/TALLFormer)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -302,6 +303,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Auto-scaling Vision Transformers without Training, [[Paper]](https://arxiv.org/pdf/2202.11921.pdf),[[Code]](https://github.com/VITA-Group/AsViT)
 - (arXiv 2022.03) Aggregated Pyramid Vision Transformer: Split-transform-merge Strategy for Image Recognition without Convolutions, [[Paper]](https://arxiv.org/pdf/2203.00960.pdf)
 - (arXiv 2022.03) D^2ETR: Decoder-Only DETR with Computationally Efficient Cross-Scale Attention, [[Paper]](https://arxiv.org/pdf/2203.00860.pdf)
+- (arXiv 2022.03) BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning, [[Paper]](https://arxiv.org/pdf/2203.01522.pdf)
 - (arXiv 2022.03) Multi-Tailed Vision Transformer for Efficient Inference, [[Paper]](https://arxiv.org/pdf/2203.01587.pdf)
 - (arXiv 2022.03) ViT-P: Rethinking Data-efficient Vision Transformers from Locality, [[Paper]](https://arxiv.org/pdf/2203.02358.pdf)
 - (arXiv 2022.03) Coarse-to-Fine Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.03821.pdf),[[Code]](https://github.com/ChenMnZ/CF-ViT)
@@ -329,6 +331,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Fine-tuning Image Transformers using Learnable Memory, [[Paper]](https://arxiv.org/pdf/2203.15243.pdf)
 - (arXiv 2022.03) Parameter-efficient Fine-tuning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.16329.pdf)
 - (arXiv 2022.03) MaxViT: Multi-Axis Vision Transformer, [[Paper]](https://arxiv.org/pdf/2204.0169.pdf)
+- (arXiv 2022.04) BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning, [[Paper]](https://arxiv.org/pdf/2204.01254.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -723,6 +726,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) ActFormer: A GAN Transformer Framework towards General Action-Conditioned 3D Human Motion Generation, [[Paper]](https://arxiv.org/pdf/2203.07706.pdf)
 - (arXiv 2022.03) Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs, [[Paper]](https://arxiv.org/pdf/2203.15720.pdf)
 - (arXiv 2022.03) Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation, [[Paper]](https://arxiv.org/pdf/2203.16202.pdf)
+- (arXiv 2022.04) HiT-DVAE: Human Motion Generation via Hierarchical Transformer Dynamical VAE, [[Paper]](https://arxiv.org/pdf/2204.01565.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -1388,7 +1392,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Image-to-Graph Transformers for Chemical Structure Recognition, [[Paper]](https://arxiv.org/pdf/2202.09580.pdf)
 - (arXiv 2022.02) ProFormer: Learning Data-efficient Representations of Body Movement with Prototype-based Feature Augmentation and Visual Transformers, [[Paper]](https://arxiv.org/pdf/2202.11423.pdf), [[Code]](https://github.com/KPeng9510/ProFormer)
 - (arXiv 2022.03) TableFormer: Table Structure Understanding with Transformers, [[Paper]](https://arxiv.org/pdf/2203.01017.pdf)
-- (arXiv 2022.03) BatchFormer: Learning to Explore Sample Relationships for Robust Representation Learning, [[Paper]](https://arxiv.org/pdf/2203.01522.pdf)
 - (arXiv 2022.03) Ensembles of Vision Transformers as a New Paradigm for Automated Classification in Ecology, [[Paper]](https://arxiv.org/pdf/2203.01726.pdf)
 - (arXiv 2022.03) A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2203.04708.pdf), [[Code]](https://github.com/suyukun666/UFO)
 - (arXiv 2022.03) PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer, [[Paper]](https://arxiv.org/pdf/2203.09293.pdf)
