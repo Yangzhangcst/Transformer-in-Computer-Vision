@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/04
+**Last updated: 2022/04/05
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -328,6 +328,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) SepViT: Separable Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.15380.pdf)
 - (arXiv 2022.03) Fine-tuning Image Transformers using Learnable Memory, [[Paper]](https://arxiv.org/pdf/2203.15243.pdf)
 - (arXiv 2022.03) Parameter-efficient Fine-tuning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.16329.pdf)
+- (arXiv 2022.03) MaxViT: Multi-Axis Vision Transformer, [[Paper]](https://arxiv.org/pdf/2204.0169.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
