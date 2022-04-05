@@ -333,6 +333,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Parameter-efficient Fine-tuning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.16329.pdf)
 - (arXiv 2022.03) MaxViT: Multi-Axis Vision Transformer, [[Paper]](https://arxiv.org/pdf/2204.0169.pdf)
 - (arXiv 2022.04) BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning, [[Paper]](https://arxiv.org/pdf/2204.01254.pdf)
+- (arXiv 2022.04) Improving Vision Transformers by Revisiting High-frequency Components, [[Paper]](https://arxiv.org/pdf/2204.00993.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
