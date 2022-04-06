@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/05
+**Last updated: 2022/04/06
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -81,7 +81,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Multi-label Transformer for Action Unit Detection, [[Paper]](https://arxiv.org/pdf/2203.12531.pdf)
 - (arXiv 2022.04) Vision Transformer with Cross-attention by Temporal Shift for Efficient Action Recognition, [[Paper]](https://arxiv.org/pdf/2204.00452.pdf)
 - (arXiv 2022.04) TALLFormer: Temporal Action Localization with Long-memory Transformer, [[Paper]](https://arxiv.org/pdf/2204.01680.pdf), [[Code]](https://github.com/klauscc/TALLFormer)
-- (arXiv 2022.04) TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting, [[Paper]](https://arxiv.org/pdf/2204.01018 .pdf), [[Code]](https://github.com/SvipRepetitionCounting/TransRAC)
+- (arXiv 2022.04) TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting, [[Paper]](https://arxiv.org/pdf/2204.01018.pdf), [[Code]](https://github.com/SvipRepetitionCounting/TransRAC)
+- (arXiv 2022.04) Detector-Free Weakly Supervised Group Activity Recognition, [[Paper]](https://arxiv.org/pdf/2204.02139.pdf), [[Code]](https://cvlab.postech.ac.kr/research/DFWSGAR/)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -492,6 +493,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing, [[Paper]](https://arxiv.org/pdf/2203.12175.pdf)
 - (arXiv 2022.03) Facial Expression Recognition with Swin Transformer, [[Paper]](https://arxiv.org/pdf/2203.13472.pdf)
 - (arXiv 2022.03) TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing, [[Paper]](https://arxiv.org/pdf/2203.17266.pdf),[[Code]](https://github.com/BillyXYB/TransEditor)
+- (arXiv 2022.04) Vision Transformer Equipped with Neural Resizer on Facial Expression Recognition Task, [[Paper]](https://arxiv.org/pdf/2204.02181.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -717,6 +719,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Affine Medical Image Registration with Coarse-to-Fine Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.15216.pdf), [[Code]](https://github.com/cwmok/C2FViT)
 - (arXiv 2022.03) CAT-Net: A Cross-Slice Attention Transformer Model for Prostate Zonal Segmentation in MRI, [[Paper]](https://arxiv.org/pdf/2203.15163.pdf)
 - (arXiv 2022.04) UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2204.00631.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions)
+- (arXiv 2022.04) Data and Physics Driven Learning Models for Fast MRI -- Fundamentals and Methodologies from CNN, GAN to Attention and Transformers, [[Paper]](https://arxiv.org/pdf/2204.01706.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -861,6 +864,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) TrueType Transformer: Character and Font Style Recognition in Outline Format, [[Paper]](https://arxiv.org/pdf/2203.05338.pdf)
 - (arXiv 2022.03) SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition, [[Paper]](https://arxiv.org/pdf/2203.10209.pdf), [[Code]](https://github.com/mxin262/SwinTextSpotter)
 - (arXiv 2022.03) Transformer-based HTR for Historical Documents, [[Paper]](https://arxiv.org/pdf/2203.11008.pdf)
+- (arXiv 2022.04) Text Spotting Transformers, [[Paper]](https://arxiv.org/pdf/2204.01918.pdf), [[Code]](https://github.com/mlpc-ucsd/TESTR)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
@@ -1288,6 +1292,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Multimodal Incremental Transformer with Visual Grounding for Visual Dialogue Generation, [[Paper]](https://arxiv.org/pdf/2109.08478.pdf)
 - (arXiv 2022.02) ViNTER: Image Narrative Generation with Emotion-Arc-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2202.07305.pdf)
 - (arXiv 2022.03) TubeDETR: Spatio-Temporal Video Grounding with Transformers, [[Paper]](https://arxiv.org/pdf/2203.16434.pdf), [[Code]](https://antoyang.github.io/tubedetr.html)
+- (arXiv 2022.04) Multi-View Transformer for 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2204.02174.pdf), [[Code]](https://github.com/sega-hsj/MVT-3DVG)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
