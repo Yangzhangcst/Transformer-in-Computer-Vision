@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/06
+**Last updated: 2022/04/07
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -335,6 +335,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) MaxViT: Multi-Axis Vision Transformer, [[Paper]](https://arxiv.org/pdf/2204.0169.pdf)
 - (arXiv 2022.04) BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning, [[Paper]](https://arxiv.org/pdf/2204.01254.pdf)
 - (arXiv 2022.04) Improving Vision Transformers by Revisiting High-frequency Components, [[Paper]](https://arxiv.org/pdf/2204.00993.pdf)
+- (arXiv 2022.04) MixFormer: Mixing Features across Windows and Dimensions, [[Paper]](https://arxiv.org/pdf/2204.02557.pdf), [[Code]](https://github.com/PaddlePaddle/PaddleClas)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -458,6 +459,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Exploring Plain Vision Transformer Backbones for Object Detection, [[Paper]](https://arxiv.org/pdf/2203.16527.pdf)
 - (arXiv 2022.03) Omni-DETR: Omni-Supervised Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.16089.pdf), [[Code]](https://github.com/amazon-research/omni-detr)
 - (arXiv 2022.04) CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2204.00325.pdf)
+- (arXiv 2022.04) Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection, [[Paper]](https://arxiv.org/pdf/2204.02964.pdf), [[Code]](https://github.com/hustvl/MIMDet)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -720,6 +722,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) CAT-Net: A Cross-Slice Attention Transformer Model for Prostate Zonal Segmentation in MRI, [[Paper]](https://arxiv.org/pdf/2203.15163.pdf)
 - (arXiv 2022.04) UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2204.00631.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions)
 - (arXiv 2022.04) Data and Physics Driven Learning Models for Fast MRI -- Fundamentals and Methodologies from CNN, GAN to Attention and Transformers, [[Paper]](https://arxiv.org/pdf/2204.01706.pdf)
+- (arXiv 2022.04) CCAT-NET: A Novel Transformer Based Semi-supervised Framework for Covid-19 Lung Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2204.02839.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1075,6 +1078,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) RePre: Improving Self-Supervised Vision Transformer with Reconstructive Pre-training, [[Paper]](https://arxiv.org/pdf/2201.06857.pdf), [[Code]](https://github.com/ChongjianGE/CARE)
 - (arXiv 2022.02) Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut, [[Paper]](https://arxiv.org/pdf/2202.11539.pdf), [[Project]](https://www.m-psi.fr/Papers/TokenCut2022/)
 - (arXiv 2022.03) Mugs: A Multi-Granular Self-Supervised Learning Framework, [[Paper]](https://arxiv.org/pdf/2203.14415.pdf), [[Code]](https://github.com/sail-sg/mugs)
+- (arXiv 2022.04) A Transformer-Based Contrastive Learning Approach for Few-Shot Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2204.02803.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
