@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/07
+**Last updated: 2022/04/08
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -336,6 +336,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) BatchFormerV2: Exploring Sample Relationships for Dense Representation Learning, [[Paper]](https://arxiv.org/pdf/2204.01254.pdf)
 - (arXiv 2022.04) Improving Vision Transformers by Revisiting High-frequency Components, [[Paper]](https://arxiv.org/pdf/2204.00993.pdf)
 - (arXiv 2022.04) MixFormer: Mixing Features across Windows and Dimensions, [[Paper]](https://arxiv.org/pdf/2204.02557.pdf), [[Code]](https://github.com/PaddlePaddle/PaddleClas)
+- (arXiv 2022.04) DaViT: Dual Attention Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.03645.pdf), [[Code]](https://github.com/dingmyu/davit)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -378,6 +379,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) DepthGAN: GAN-based Depth Generation of Indoor Scenes from Semantic Layouts, [[Paper]](https://arxiv.org/pdf/2203.11453.pdf)
 - (arXiv 2022.03) DepthFormer: Exploiting Long-Range Correlation and Local Information for Accurate Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2203.14211.pdf), [[Code]](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
 - (arXiv 2022.04) BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2204.00987.pdf), [[Code]](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
+- (arXiv 2022.04) SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation, [[Paper]](https://arxiv.org/pdf/2204.03636.pdf), [[Project]](https://surrounddepth.ivg-research.xyz/)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -544,6 +546,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows, [[Paper]](https://arxiv.org/pdf/2203.10537.pdf)
 - (arXiv 2022.03) MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2203.14709.pdf)
 - (arXiv 2022.04) What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions, [[Paper]](https://arxiv.org/pdf/2204.00746.pdf)
+- (arXiv 2022.04) End-to-End Zero-Shot HOI Detection via Vision and Language Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2204.03541.pdf), [[Code]](https://github.com/mrwu-mac/EoID)
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -723,6 +726,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2204.00631.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions)
 - (arXiv 2022.04) Data and Physics Driven Learning Models for Fast MRI -- Fundamentals and Methodologies from CNN, GAN to Attention and Transformers, [[Paper]](https://arxiv.org/pdf/2204.01706.pdf)
 - (arXiv 2022.04) CCAT-NET: A Novel Transformer Based Semi-supervised Framework for Covid-19 Lung Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2204.02839.pdf)
+- (arXiv 2022.04) Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces, [[Paper]](https://arxiv.org/pdf/2204.03408.pdf), [[Code]](https://github.com/metrics-lab/surface-vision-transformers)
+- (arXiv 2022.04) Low-Dose CT Denoising via Sinogram Inner-Structure Transformer, [[Paper]](https://arxiv.org/pdf/2204.03163.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -815,6 +820,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Multimodal Fusion Transformer for Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2203.16952.pdf)
 - (arXiv 2022.03) VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2203.17247.pdf)
 - (arXiv 2022.04) MultiMAE: Multi-modal Multi-task Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2204.01678.pdf),[[Project]](https://multimae.epfl.ch/)
+- (arXiv 2022.04) Multi-Task Distributed Learning using Vision Transformer with Random Patch Permutation, [[Paper]](https://arxiv.org/pdf/2204.03500.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1012,6 +1018,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Pose-guided Feature Disentangling for Occluded Person Re-identification Based on Transformer, [[Paper]](https://arxiv.org/pdf/2112.02466.pdf), [[Code]](https://github.com/WangTaoAs/PFD_Net)
 - (arXiv 2022.01) Short Range Correlation Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2201.01090.pdf)
 - (arXiv 2022.02) Motion-Aware Transformer For Occluded Person Re-identification, [[Paper]](https://arxiv.org/pdf/2202.04243.pdf)
+- (arXiv 2022.04) PSTR: End-to-End One-Step Person Search With Transformers, [[Paper]](https://arxiv.org/pdf/2204.03340.pdf), [[Code]](https://github.com/JialeCao001/PSTR)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -1286,6 +1293,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Self-supervised Video-centralised Transformer for Video Face Clustering, [[Paper]](https://arxiv.org/pdf/2203.13166.pdf)
 - (arXiv 2022.03) VPTR: Efficient Transformers for Video Prediction, [[Paper]](https://arxiv.org/pdf/2203.15836.pdf), [[Code]](https://github.com/XiYe20/VPTR)
 - (arXiv 2022.03) Deformable Video Transformer, [[Paper]](https://arxiv.org/pdf/2203.16795.pdf)
+- (arXiv 2022.04) Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer, [[Paper]](https://arxiv.org/pdf/2204.03638.pdf), [[Code]](https://songweige.github.io/projects/tats/index.html)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -1417,6 +1425,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Disentangling Patterns and Transformations from One Sequence of Images with Shape-invariant Lie Group Transformer, [[Paper]](https://arxiv.org/pdf/2203.11210.pdf)
 - (arXiv 2022.03) ViT-FOD: A Vision Transformer based Fine-grained Object Discriminator, [[Paper]](https://arxiv.org/pdf/2203.12816.pdf)
 - (arXiv 2022.03) Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis, [[Paper]](https://arxiv.org/pdf/2203.16414.pdf)
+- (arXiv 2022.04) Event Transformer. A sparse-aware solution for efficient event data processing, [[Paper]](https://arxiv.org/pdf/2204.03355.pdf)
 
 ## Contact & Feedback
 
