@@ -387,10 +387,11 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2104.09770.pdf)
 - (arXiv 2021.07) Combining EfficientNet and Vision Transformers for Video Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2107.02612.pdf)
 - (arXiv 2021.08) Video Transformer for Deepfake Detection with Incremental Learning, [[Paper]](https://arxiv.org/pdf/2108.05307.pdf)
-- (arXiv 2022.03) Self-supervised Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2203.01265.pdf)
+- (arXiv 2022.03) Self-supervised Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2203.01265.pdf), [[Code]](https://github.com/IDKiro/DehazeFormer)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
+- (arXiv 2022.04) Vision Transformers for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2204.03883.pdf)
 
 ### Denoising
 - (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
@@ -528,6 +529,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) StyleSwin: Transformer-based GAN for High-resolution Image Generation, [[Paper]](https://arxiv.org/pdf/2112.10762.pdf), [[Code]](https://github.com/microsoft/StyleSwin)
 - (arXiv 2022.01) RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark, [[Paper]](https://arxiv.org/pdf/2201.00466.pdf)
 - (arXiv 2022.03) Style Transformer for Image Inversion and Editing, [[Paper]](https://arxiv.org/pdf/2203.07932.pdf), [[Code]](https://github.com/sapphire497/style-transformer)
+
+### Gait
+- (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
@@ -822,6 +826,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2203.17247.pdf)
 - (arXiv 2022.04) MultiMAE: Multi-modal Multi-task Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2204.01678.pdf),[[Project]](https://multimae.epfl.ch/)
 - (arXiv 2022.04) Multi-Task Distributed Learning using Vision Transformer with Random Patch Permutation, [[Paper]](https://arxiv.org/pdf/2204.03500.pdf)
+- (arXiv 2022.04) MHMS: Multimodal Hierarchical Multimedia Summarization, [[Paper]](https://arxiv.org/pdf/2204.03734.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1427,6 +1432,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) ViT-FOD: A Vision Transformer based Fine-grained Object Discriminator, [[Paper]](https://arxiv.org/pdf/2203.12816.pdf)
 - (arXiv 2022.03) Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis, [[Paper]](https://arxiv.org/pdf/2203.16414.pdf)
 - (arXiv 2022.04) Event Transformer. A sparse-aware solution for efficient event data processing, [[Paper]](https://arxiv.org/pdf/2204.03355.pdf)
+- (arXiv 2022.04) Underwater Image Enhancement Using Pre-trained Transformer, [[Paper]](https://arxiv.org/pdf/2204.04199.pdf)
 
 ## Contact & Feedback
 
