@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/08
+**Last updated: 2022/04/11
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -498,6 +498,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Facial Expression Recognition with Swin Transformer, [[Paper]](https://arxiv.org/pdf/2203.13472.pdf)
 - (arXiv 2022.03) TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing, [[Paper]](https://arxiv.org/pdf/2203.17266.pdf),[[Code]](https://github.com/BillyXYB/TransEditor)
 - (arXiv 2022.04) Vision Transformer Equipped with Neural Resizer on Facial Expression Recognition Task, [[Paper]](https://arxiv.org/pdf/2204.02181.pdf)
+- (arXiv 2022.04) POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2204.04083.pdf),[[Code]](https://github.com/zczcwh/POSTER)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
