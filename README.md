@@ -337,6 +337,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Improving Vision Transformers by Revisiting High-frequency Components, [[Paper]](https://arxiv.org/pdf/2204.00993.pdf)
 - (arXiv 2022.04) MixFormer: Mixing Features across Windows and Dimensions, [[Paper]](https://arxiv.org/pdf/2204.02557.pdf), [[Code]](https://github.com/PaddlePaddle/PaddleClas)
 - (arXiv 2022.04) DaViT: Dual Attention Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.03645.pdf), [[Code]](https://github.com/dingmyu/davit)
+- (arXiv 2022.04) Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels, [[Paper]](https://arxiv.org/pdf/2204.04905.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -1439,6 +1440,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Surface Vision Transformers: Attention-Based Modelling applied to Cortical Analysis, [[Paper]](https://arxiv.org/pdf/2203.16414.pdf)
 - (arXiv 2022.04) Event Transformer. A sparse-aware solution for efficient event data processing, [[Paper]](https://arxiv.org/pdf/2204.03355.pdf)
 - (arXiv 2022.04) Underwater Image Enhancement Using Pre-trained Transformer, [[Paper]](https://arxiv.org/pdf/2204.04199.pdf)
+- (arXiv 2022.04) OutfitTransformer: Learning Outfit Representations for Fashion Recommendation, [[Paper]](https://arxiv.org/pdf/2204.04812.pdf)
+- (arXiv 2022.04) Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition, [[Paper]](https://arxiv.org/pdf/2204.04654.pdf)
+- (arXiv 2022.04) Event Transformer, [[Paper]](https://arxiv.org/pdf/2204.05172.pdf)
+- (arXiv 2022.04) Stripformer: Strip Transformer for Fast Image Deblurring, [[Paper]](https://arxiv.org/pdf/2204.04627.pdf)
 
 ## Contact & Feedback
 
