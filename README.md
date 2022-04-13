@@ -1141,6 +1141,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Semantic Segmentation by Early Region Proxy, [[Paper]](https://arxiv.org/pdf/2203.14043.pdf), [[Code]](https://github.com/YiF-Zhang/RegionProxy)
 - (arXiv 2022.03) ReSTR: Convolution-free Referring Image Segmentation Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.16768.pdf), [[Code]](http://cvlab.postech.ac.kr/research/restr/)
 - (arXiv 2022.03) Dynamic Focus-aware Positional Queries for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2204.01244.pdf), [[Code]](https://github.com/zip-group/FASeg)
+- (arXiv 2022.03) TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2204.05525.pdf), [[Code]](https://github.com/hustvl/TopFormer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
