@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/12
+**Last updated: 2022/04/13
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -831,6 +831,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Multi-Task Distributed Learning using Vision Transformer with Random Patch Permutation, [[Paper]](https://arxiv.org/pdf/2204.03500.pdf)
 - (arXiv 2022.04) MHMS: Multimodal Hierarchical Multimedia Summarization, [[Paper]](https://arxiv.org/pdf/2204.03734.pdf)
 - (arXiv 2022.04) Multimodal Transformer for Nursing Activity Recognition, [[Paper]](https://arxiv.org/pdf/2204.04564.pdf)
+- (arXiv 2022.04) Are Multimodal Transformers Robust to Missing Modality?, [[Paper]](https://arxiv.org/pdf/2204.05454.pdf)
+- (arXiv 2022.04) X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks, [[Paper]](https://arxiv.org/pdf/2204.05626.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -943,6 +945,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.10638.pdf)
 - (arXiv 2022.03) REGTR: End-to-end Point Cloud Correspondences with Transformers, [[Paper]](https://arxiv.org/pdf/2203.14517.pdf), [[Code]](https://github.com/yewzijian/RegTR)
 - (arXiv 2022.03) Stratified Transformer for 3D Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2203.14508.pdf), [[Code]](https://github.com/dvlab-research/Stratified-Transformer)
+- (arXiv 2022.04) HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud, [[Paper]](https://arxiv.org/pdf/2204.05481.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1098,6 +1101,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Mugs: A Multi-Granular Self-Supervised Learning Framework, [[Paper]](https://arxiv.org/pdf/2203.14415.pdf), [[Code]](https://github.com/sail-sg/mugs)
 - (arXiv 2022.04) A Transformer-Based Contrastive Learning Approach for Few-Shot Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2204.02803.pdf)
 - (arXiv 2022.04) DILEMMA: Self-Supervised Shape and Texture Learning with Transformers, [[Paper]](https://arxiv.org/pdf/2204.04788.pdf)
+- (arXiv 2022.04) Self-supervised Vision Transformers for Joint SAR-optical Representation Learning, [[Paper]](https://arxiv.org/pdf/2204.05381.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
