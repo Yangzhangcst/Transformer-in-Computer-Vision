@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/13
+**Last updated: 2022/04/15
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -338,6 +338,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) MixFormer: Mixing Features across Windows and Dimensions, [[Paper]](https://arxiv.org/pdf/2204.02557.pdf), [[Code]](https://github.com/PaddlePaddle/PaddleClas)
 - (arXiv 2022.04) DaViT: Dual Attention Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.03645.pdf), [[Code]](https://github.com/dingmyu/davit)
 - (arXiv 2022.04) Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels, [[Paper]](https://arxiv.org/pdf/2204.04905.pdf)
+- (arXiv 2022.04) MiniViT: Compressing Vision Transformers with Weight Multiplexing, [[Paper]](https://arxiv.org/pdf/2204.07154.pdf)
+- (arXiv 2022.04) DeiT III: Revenge of the ViT, [[Paper]](https://arxiv.org/pdf/2204.07118.pdf)
+- (arXiv 2022.04) Neighborhood Attention Transformer, [[Paper]](https://arxiv.org/pdf/2204.07143.pdf), [[Code]](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -351,7 +354,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Multi-Dimensional Model Compression of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.00043.pdf)
 - (arXiv 2022.02) Entroformer: A Transformer-based Entropy Model for Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2202.05492.pdf), [[Code]](https://github.com/mx54039q/entroformer)
 - (arXiv 2022.03) Unified Visual Transformer Compression, [[Paper]](https://arxiv.org/pdf/2203.08243.pdf), [[Code]](https://github.com/VITA-Group/UVC)
-- (arXiv 2022.03) Transformer Compressed Sensing via Global Image Tokens, [[Paper]](https://arxiv.org/pdf/2203.12861.pdf), [[supplementary ]](https://github.com/uqmarlonbran/TCS)
+- (arXiv 2022.03) Transformer Compressed Sensing via Global Image Tokens, [[Paper]](https://arxiv.org/pdf/2203.12861.pdf), [[supplementary]](https://github.com/uqmarlonbran/TCS)
 - (arXiv 2022.03) Vision Transformer Compression with Structured Pruning and Low Rank Approximation, [[Paper]](https://arxiv.org/pdf/2203.13444.pdf)
 
 ### Cross-view
@@ -736,6 +739,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) CCAT-NET: A Novel Transformer Based Semi-supervised Framework for Covid-19 Lung Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2204.02839.pdf)
 - (arXiv 2022.04) Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces, [[Paper]](https://arxiv.org/pdf/2204.03408.pdf), [[Code]](https://github.com/metrics-lab/surface-vision-transformers)
 - (arXiv 2022.04) Low-Dose CT Denoising via Sinogram Inner-Structure Transformer, [[Paper]](https://arxiv.org/pdf/2204.03163.pdf)
+- (arXiv 2022.04) 3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume, [[Paper]](https://arxiv.org/pdf/2204.06779.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1449,6 +1453,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition, [[Paper]](https://arxiv.org/pdf/2204.04654.pdf)
 - (arXiv 2022.04) Event Transformer, [[Paper]](https://arxiv.org/pdf/2204.05172.pdf)
 - (arXiv 2022.04) Stripformer: Strip Transformer for Fast Image Deblurring, [[Paper]](https://arxiv.org/pdf/2204.04627.pdf)
+- (arXiv 2022.04) Residual Swin Transformer Channel Attention Network for Image Demosaicing, [[Paper]](https://arxiv.org/pdf/2204.07098.pdf)
 
 ## Contact & Feedback
 
