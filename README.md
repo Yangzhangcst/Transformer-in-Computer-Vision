@@ -1349,6 +1349,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Weakly Supervised Learning
 - (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
 - (arXiv 2022.01) CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2201.00475)
+- (arXiv 2022.04) ViTOL: Vision Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2204.06772), [[Code]](https://github.com/Saurav-31/ViTOL)
 
 ### Zero-Shot Learning
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
