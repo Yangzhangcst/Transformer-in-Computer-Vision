@@ -126,6 +126,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning, [[Paper]](https://arxiv.org/pdf/2203.00843.pdf)
 - (arXiv 2022.03) End-to-End Transformer Based Model for Image Captioning, [[Paper]](https://arxiv.org/pdf/2203.15350.pdf)
 - (arXiv 2022.03) Quantifying Societal Bias Amplification in Image Captioning, [[Paper]](https://arxiv.org/pdf/2203.15395.pdf)
+- (arXiv 2022.04) Image Captioning In the Transformer Age, [[Paper]](https://arxiv.org/pdf/2204.07374.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -343,6 +344,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) MiniViT: Compressing Vision Transformers with Weight Multiplexing, [[Paper]](https://arxiv.org/pdf/2204.07154.pdf)
 - (arXiv 2022.04) DeiT III: Revenge of the ViT, [[Paper]](https://arxiv.org/pdf/2204.07118.pdf)
 - (arXiv 2022.04) Neighborhood Attention Transformer, [[Paper]](https://arxiv.org/pdf/2204.07143.pdf), [[Code]](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)
+- (arXiv 2022.04) ResT V2: Simpler, Faster and Stronger, [[Paper]](https://arxiv.org/pdf/2204.07366.pdf), [[Code]](https://github.com/wofmanaf/ResT)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -843,6 +845,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
 - (arXiv 2021.12) Multi-View Stereo with Transformer, [[Paper]](https://arxiv.org/pdf/2112.00336.pdf)
+- (arXiv 2022.04) MVSTER: Epipolar Transformer for Efficient Multi-View Stereo, [[Paper]](https://arxiv.org/pdf/2204.07346.pdf), [[Code]](https://github.com/JeffWang987)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
