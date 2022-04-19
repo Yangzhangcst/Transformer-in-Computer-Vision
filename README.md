@@ -345,6 +345,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) DeiT III: Revenge of the ViT, [[Paper]](https://arxiv.org/pdf/2204.07118.pdf)
 - (arXiv 2022.04) Neighborhood Attention Transformer, [[Paper]](https://arxiv.org/pdf/2204.07143.pdf), [[Code]](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)
 - (arXiv 2022.04) ResT V2: Simpler, Faster and Stronger, [[Paper]](https://arxiv.org/pdf/2204.07366.pdf), [[Code]](https://github.com/wofmanaf/ResT)
+- (arXiv 2022.04) VSA: Learning Varied-Size Window Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.08446.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTAE-VSA)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -377,6 +378,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting, [[Paper]](https://arxiv.org/pdf/2203.06388.pdf)
 
 ### Deblurring
+- (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
+- (arXiv 2022.04) Stripformer: Strip Transformer for Fast Image Deblurring, [[Paper]](https://arxiv.org/pdf/2204.04627.pdf)
 - (arXiv 2022.04) VDTR: Video Deblurring with Transformer, [[Paper]](https://arxiv.org/pdf/2204.08023.pdf), [[Code]](https://github.com/ljzycmd/VDTR)
 
 ### Depth
@@ -476,6 +479,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Omni-DETR: Omni-Supervised Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.16089.pdf), [[Code]](https://github.com/amazon-research/omni-detr)
 - (arXiv 2022.04) CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2204.00325.pdf)
 - (arXiv 2022.04) Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection, [[Paper]](https://arxiv.org/pdf/2204.02964.pdf), [[Code]](https://github.com/hustvl/MIMDet)
+- (arXiv 2022.04) An Extendable, Efficient and Effective Transformer-based Object Detector, [[Paper]](https://arxiv.org/pdf/2204.07962.pdf), [[Code]](https://github.com/naver-ai/vidt)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -577,6 +581,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Multiscale Convolutional Transformer with Center Mask Pretraining for Hyperspectral Image Classificationtion, [[Paper]](https://arxiv.org/pdf/2203.04771.pdf)
 - (arXiv 2022.03) Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2203.04845.pdf)
 - (arXiv 2022.03) Deep Hyperspectral Unmixing using Transformer Network, [[Paper]](https://arxiv.org/pdf/2203.17076.pdf), [[Code]](https://github.com/preetam22n/DeepTrans-HSU)
+- (arXiv 2022.04) MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction, [[Paper]](https://arxiv.org/pdf/2204.07908.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
 
 ### Incremental Learning
 - (arXiv 2021.12) Improving Vision Transformers for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2112.06103.pdf)
@@ -598,6 +603,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) A Simple Single-Scale Vision Transformer for Object Localization and Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2112.09747.pdf)
 - (arXiv 2021.12) SOIT: Segmenting Objects with Instance-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2112.11037.pdf), [[Code]](https://github.com/yuxiaodongHRI/SOIT)
 - (arXiv 2022.03) Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer, [[Paper]](https://arxiv.org/pdf/2203.13253.pdf), [[Code]](https://github.com/OmkarThawakar/MSSTS-VIS)
+- (arXiv 2022.04) Temporally Efficient Vision Transformer for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2204.08412.pdf), [[Code]](https://github.com/hustvl/TeViT)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -749,6 +755,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Surface Vision Transformers: Flexible Attention-Based Modelling of Biomedical Surfaces, [[Paper]](https://arxiv.org/pdf/2204.03408.pdf), [[Code]](https://github.com/metrics-lab/surface-vision-transformers)
 - (arXiv 2022.04) Low-Dose CT Denoising via Sinogram Inner-Structure Transformer, [[Paper]](https://arxiv.org/pdf/2204.03163.pdf)
 - (arXiv 2022.04) 3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume, [[Paper]](https://arxiv.org/pdf/2204.06779.pdf)
+- (arXiv 2022.04) Continual Hippocampus Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2204.08043.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -846,6 +853,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Multimodal Transformer for Nursing Activity Recognition, [[Paper]](https://arxiv.org/pdf/2204.04564.pdf)
 - (arXiv 2022.04) Are Multimodal Transformers Robust to Missing Modality?, [[Paper]](https://arxiv.org/pdf/2204.05454.pdf)
 - (arXiv 2022.04) X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks, [[Paper]](https://arxiv.org/pdf/2204.05626.pdf)
+- (arXiv 2022.04) Towards Lightweight Transformer via Group-wise Transformation for Vision-and-Language Tasks, [[Paper]](https://arxiv.org/pdf/2204.07780.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1311,7 +1319,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) LocFormer: Enabling Transformers to Perform Temporal Moment Localization on Long Untrimmed Videos With a Feature Sampling Approach, [[Paper]](https://arxiv.org/pdf/2112.10066.pdf)
 - (arXiv 2021.12) Video Joint Modelling Based on Hierarchical Transformer for Co-summarization, [[Paper]](https://arxiv.org/pdf/2112.13478.pdf)
 - (arXiv 2021.12) Siamese Network with Interactive Transformer for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2112.13983.pdf), [[Code]](https://github.com/LANMNG/SITVOS)
-- (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
 - (arXiv 2022.01) Multiview Transformers for Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.04288.pdf)
 - (arXiv 2022.01) TransVOD: End-to-end Video Object Detection with Spatial-Temporal Transformers,[[Paper]](https://arxiv.org/pdf/2201.05047.pdf)
 - (arXiv 2022.01) MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition,[[Paper]](https://arxiv.org/pdf/2201.08383.pdf)
@@ -1465,7 +1472,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) OutfitTransformer: Learning Outfit Representations for Fashion Recommendation, [[Paper]](https://arxiv.org/pdf/2204.04812.pdf)
 - (arXiv 2022.04) Fashionformer: A simple, Effective and Unified Baseline for Human Fashion Segmentation and Recognition, [[Paper]](https://arxiv.org/pdf/2204.04654.pdf)
 - (arXiv 2022.04) Event Transformer, [[Paper]](https://arxiv.org/pdf/2204.05172.pdf)
-- (arXiv 2022.04) Stripformer: Strip Transformer for Fast Image Deblurring, [[Paper]](https://arxiv.org/pdf/2204.04627.pdf)
 - (arXiv 2022.04) Residual Swin Transformer Channel Attention Network for Image Demosaicing, [[Paper]](https://arxiv.org/pdf/2204.07098.pdf)
 
 ## Contact & Feedback
