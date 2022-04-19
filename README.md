@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/18
+**Last updated: 2022/04/19
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -360,6 +360,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Unified Visual Transformer Compression, [[Paper]](https://arxiv.org/pdf/2203.08243.pdf), [[Code]](https://github.com/VITA-Group/UVC)
 - (arXiv 2022.03) Transformer Compressed Sensing via Global Image Tokens, [[Paper]](https://arxiv.org/pdf/2203.12861.pdf), [[supplementary]](https://github.com/uqmarlonbran/TCS)
 - (arXiv 2022.03) Vision Transformer Compression with Structured Pruning and Low Rank Approximation, [[Paper]](https://arxiv.org/pdf/2203.13444.pdf)
+- (arXiv 2022.04) Searching Intrinsic Dimensions of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.07722.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -375,8 +376,11 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) An End-to-End Transformer Model for Crowd Localization, [[Paper]](https://arxiv.org/pdf/2202.13065.pdf)
 - (arXiv 2022.03) Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting, [[Paper]](https://arxiv.org/pdf/2203.06388.pdf)
 
+### Deblurring
+- (arXiv 2022.04) VDTR: Video Deblurring with Transformer, [[Paper]](https://arxiv.org/pdf/2204.08023.pdf), [[Code]](https://github.com/ljzycmd/VDTR)
+
 ### Depth
-- (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
+- (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
 - (arXiv 2021.03) Vision Transformers for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2103.13413.pdf), [[Code]](https://github.com/intel-isl/DPT)
 - (arXiv 2021.03) Transformers Solve the Limited Receptive Field for Monocular Depth Prediction, [[Paper]](https://arxiv.org/pdf/2103.12091.pdf), [[Code]](https://github.com/ygjwd12345/TransDepth)
 - (arXiv 2021.09) Improving 360 Monocular Depth Estimation via Non-local Dense Prediction Transformer and Joint Supervised and Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2109.10563.pdf)
@@ -388,6 +392,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) DepthFormer: Exploiting Long-Range Correlation and Local Information for Accurate Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2203.14211.pdf), [[Code]](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
 - (arXiv 2022.04) BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2204.00987.pdf), [[Code]](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
 - (arXiv 2022.04) SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation, [[Paper]](https://arxiv.org/pdf/2204.03636.pdf), [[Project]](https://surrounddepth.ivg-research.xyz/)
+- (arXiv 2022.04) Multi-Frame Self-Supervised Depth with Transformers, [[Paper]](https://arxiv.org/pdf/2204.07616.pdf), [[Project]](https://sites.google.com/tri.global/depthformer)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -1175,6 +1180,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) HIPA: Hierarchical Patch Transformer for Single Image Super Resolution, [[Paper]](https://arxiv.org/pdf/2203.10247.pdf)
 - (arXiv 2022.03) RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2203.14186.pdf), [[Code]](https://github.com/llmpass/RSTT)
 - (arXiv 2022.04) Learning Trajectory-Aware Transformer for Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.04216.pdf), [[Code]](https://github.com/researchmm/TTVSR)
+- (arXiv 2022.04) BSRT: Improving Burst Super-Resolution with Swin Transformer and Flow-Guided Deformable Alignment, [[Paper]](https://arxiv.org/pdf/2204.08332.pdf), [[Code]](https://github.com/Algolzw/BSRT)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -1235,6 +1241,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Towards Unsupervised Domain Adaptation via Domain-Transformer, [[Paper]](https://arxiv.org/pdf/2202.13777.pdf)
 - (arXiv 2022.03) DATR: Domain-adaptive transformer for multi-domain landmark detection, [[Paper]](https://arxiv.org/pdf/2203.06433.pdf)
 - (arXiv 2022.03) simCrossTrans: A Simple Cross-Modality Transfer Learning for Object Detection with ConvNets or Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.10456.pdf), [[Code]](https://github.com/liketheflower/simCrossTrans)
+- (arXiv 2022.04) Safe Self-Refinement for Transformer-based Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2204.07683.pdf), [[Code]](https://github.com/tsun/SSRT)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
