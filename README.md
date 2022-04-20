@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/19
+**Last updated: 2022/04/20
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -604,6 +604,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) SOIT: Segmenting Objects with Instance-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2112.11037.pdf), [[Code]](https://github.com/yuxiaodongHRI/SOIT)
 - (arXiv 2022.03) Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer, [[Paper]](https://arxiv.org/pdf/2203.13253.pdf), [[Code]](https://github.com/OmkarThawakar/MSSTS-VIS)
 - (arXiv 2022.04) Temporally Efficient Vision Transformer for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2204.08412.pdf), [[Code]](https://github.com/hustvl/TeViT)
+- (arXiv 2022.04) Less than Few: Self-Shot Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2204.08874.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -854,6 +855,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Are Multimodal Transformers Robust to Missing Modality?, [[Paper]](https://arxiv.org/pdf/2204.05454.pdf)
 - (arXiv 2022.04) X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks, [[Paper]](https://arxiv.org/pdf/2204.05626.pdf)
 - (arXiv 2022.04) Towards Lightweight Transformer via Group-wise Transformation for Vision-and-Language Tasks, [[Paper]](https://arxiv.org/pdf/2204.07780.pdf)
+- (arXiv 2022.04) Multimodal Token Fusion for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.08721.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1189,6 +1191,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) RSTT: Real-time Spatial Temporal Transformer for Space-Time Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2203.14186.pdf), [[Code]](https://github.com/llmpass/RSTT)
 - (arXiv 2022.04) Learning Trajectory-Aware Transformer for Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.04216.pdf), [[Code]](https://github.com/researchmm/TTVSR)
 - (arXiv 2022.04) BSRT: Improving Burst Super-Resolution with Swin Transformer and Flow-Guided Deformable Alignment, [[Paper]](https://arxiv.org/pdf/2204.08332.pdf), [[Code]](https://github.com/Algolzw/BSRT)
+- (arXiv 2022.04) Self-Calibrated Efficient Transformer for Lightweight Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.08913.pdf), [[Code]](https://github.com/AlexZou14/SCET)
+- (arXiv 2022.04) CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.08696.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
