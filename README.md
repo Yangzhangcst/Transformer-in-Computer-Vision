@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/20
+**Last updated: 2022/04/21
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -571,6 +571,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) End-to-End Zero-Shot HOI Detection via Vision and Language Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2204.03541.pdf), [[Code]](https://github.com/mrwu-mac/EoID)
 - (arXiv 2022.04) Category-Aware Transformer Network for Better Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2204.04911.pdf)
 - (arXiv 2022.04) Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2204.04836.pdf), [[Code]](https://github.com/mlvlab/CPChoi)
+Human-Object Interaction Detection via Disentangled Transformer
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
