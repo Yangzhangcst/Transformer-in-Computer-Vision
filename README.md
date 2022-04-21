@@ -571,7 +571,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) End-to-End Zero-Shot HOI Detection via Vision and Language Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2204.03541.pdf), [[Code]](https://github.com/mrwu-mac/EoID)
 - (arXiv 2022.04) Category-Aware Transformer Network for Better Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2204.04911.pdf)
 - (arXiv 2022.04) Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2204.04836.pdf), [[Code]](https://github.com/mlvlab/CPChoi)
-Human-Object Interaction Detection via Disentangled Transformer
+- (arXiv 2022.04) Human-Object Interaction Detection via Disentangled Transformer, [[Paper]](https://arxiv.org/pdf/2204.09290.pdf)
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -1058,6 +1058,7 @@ Human-Object Interaction Detection via Disentangled Transformer
 - (arXiv 2022.01) Short Range Correlation Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2201.01090.pdf)
 - (arXiv 2022.02) Motion-Aware Transformer For Occluded Person Re-identification, [[Paper]](https://arxiv.org/pdf/2202.04243.pdf)
 - (arXiv 2022.04) PSTR: End-to-End One-Step Person Search With Transformers, [[Paper]](https://arxiv.org/pdf/2204.03340.pdf), [[Code]](https://github.com/JialeCao001/PSTR)
+- (arXiv 2022.04) NFormer: Robust Person Re-identification with Neighbor Transformer, [[Paper]](https://arxiv.org/pdf/2204.09331.pdf), [[Code]](https://github.com/haochenheheda/NFormer)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
