@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/21
+**Last updated: 2022/04/22
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -102,6 +102,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) VTAMIQ: Transformers for Attention Modulated Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2110.01655.pdf)
 - (arXiv 2021.12) Learning Transformer Features for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2112.00485.pdf)
 - (arXiv 2022.03) Visual Mechanisms Inspired Efficient Transformers for Image and Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2203.14557.pdf)
+- (arXiv 2022.04) Multi-Scale Features and Parallel Transformers Based Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2204.09779.pdf), [[Code]](https://github.com/KomalPal9610/IQA)
 
 ### Bird's-Eye-View
 - (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
@@ -480,6 +481,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2204.00325.pdf)
 - (arXiv 2022.04) Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection, [[Paper]](https://arxiv.org/pdf/2204.02964.pdf), [[Code]](https://github.com/hustvl/MIMDet)
 - (arXiv 2022.04) An Extendable, Efficient and Effective Transformer-based Object Detector, [[Paper]](https://arxiv.org/pdf/2204.07962.pdf), [[Code]](https://github.com/naver-ai/vidt)
+- (arXiv 2022.04) Learning Future Object Prediction with a Spatiotemporal Detection Transformer, [[Paper]](https://arxiv.org/pdf/2204.10321.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -857,6 +859,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) X-DETR: A Versatile Architecture for Instance-wise Vision-Language Tasks, [[Paper]](https://arxiv.org/pdf/2204.05626.pdf)
 - (arXiv 2022.04) Towards Lightweight Transformer via Group-wise Transformation for Vision-and-Language Tasks, [[Paper]](https://arxiv.org/pdf/2204.07780.pdf)
 - (arXiv 2022.04) Multimodal Token Fusion for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.08721.pdf)
+- (arXiv 2022.04) Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval, [[Paper]](https://arxiv.org/pdf/2204.09730.pdf), [[Code]](https://github.com/mshukor/TFood)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1002,6 +1005,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Poseur: Direct Human Pose Regression with Transformers, [[Paper]](https://arxiv.org/pdf/2201.07412.pdf)
 - (arXiv 2022.02) HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders, [[Paper]](https://arxiv.org/pdf/2202.03548.pdf)
 - (arXiv 2022.03) CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2203.13387.pdf)
+- (arXiv 2022.04) BTranspose: Bottleneck Transformers for Human Pose Estimation with Self-Supervised Pre-Training, [[Paper]](https://arxiv.org/pdf/2204.10209.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -1195,6 +1199,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) BSRT: Improving Burst Super-Resolution with Swin Transformer and Flow-Guided Deformable Alignment, [[Paper]](https://arxiv.org/pdf/2204.08332.pdf), [[Code]](https://github.com/Algolzw/BSRT)
 - (arXiv 2022.04) Self-Calibrated Efficient Transformer for Lightweight Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.08913.pdf), [[Code]](https://github.com/AlexZou14/SCET)
 - (arXiv 2022.04) CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.08696.pdf)
+- (arXiv 2022.04) A New Dataset and Transformer for Stereoscopic Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.10039.pdf), [[Code]](https://github.com/H-deep/Trans-SVSR/)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
