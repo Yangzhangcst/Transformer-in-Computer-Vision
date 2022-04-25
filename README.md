@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/22
+**Last updated: 2022/04/25
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -482,6 +482,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection, [[Paper]](https://arxiv.org/pdf/2204.02964.pdf), [[Code]](https://github.com/hustvl/MIMDet)
 - (arXiv 2022.04) An Extendable, Efficient and Effective Transformer-based Object Detector, [[Paper]](https://arxiv.org/pdf/2204.07962.pdf), [[Code]](https://github.com/naver-ai/vidt)
 - (arXiv 2022.04) Learning Future Object Prediction with a Spatiotemporal Detection Transformer, [[Paper]](https://arxiv.org/pdf/2204.10321.pdf)
+- (arXiv 2022.04) DFAM-DETR: Deformable feature based attention mechanism DETR on slender object detection, [[Paper]](https://arxiv.org/pdf/2204.10667.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -860,6 +861,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Towards Lightweight Transformer via Group-wise Transformation for Vision-and-Language Tasks, [[Paper]](https://arxiv.org/pdf/2204.07780.pdf)
 - (arXiv 2022.04) Multimodal Token Fusion for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.08721.pdf)
 - (arXiv 2022.04) Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval, [[Paper]](https://arxiv.org/pdf/2204.09730.pdf), [[Code]](https://github.com/mshukor/TFood)
+- (arXiv 2022.04) ParkPredict+: Multimodal Intent and Motion Prediction for Vehicles in Parking Lots with CNN and Transformer, [[Paper]](https://arxiv.org/pdf/2204.10777.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -974,6 +976,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) REGTR: End-to-end Point Cloud Correspondences with Transformers, [[Paper]](https://arxiv.org/pdf/2203.14517.pdf), [[Code]](https://github.com/yewzijian/RegTR)
 - (arXiv 2022.03) Stratified Transformer for 3D Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2203.14508.pdf), [[Code]](https://github.com/dvlab-research/Stratified-Transformer)
 - (arXiv 2022.04) HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud, [[Paper]](https://arxiv.org/pdf/2204.05481.pdf)
+- (arXiv 2022.04) Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds, [[Paper]](https://arxiv.org/pdf/2204.10688.pdf), [[Code]](https://spacap3d.github.io/)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1031,6 +1034,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) AdaViT: Adaptive Vision Transformers for Efficient Image Recognition, [[Paper]](https://arxiv.org/pdf/2111.15668.pdf)
 - (arXiv 2022.01) TransVPR: Transformer-based place recognition with multi-level attention aggregation, [[Paper]](https://arxiv.org/pdf/2201.02001.pdf)
 - (arXiv 2022.03) MetaFormer : A Unified Meta Framework for Fine-Grained Recognition, [[Paper]](https://arxiv.org/pdf/2203.02751.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
+- (arXiv 2022.04) Diverse Instance Discovery: Vision-Transformer for Instance-Aware Multi-Label Image Recognition, [[Paper]](https://arxiv.org/pdf/2204.10731.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -1363,6 +1367,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.03965.pdf)
 - (arXiv 2022.01) Transformer Module Networks for Systematic Generalization in Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf)
 - (arXiv 2022.01) Towards Efficient and Elastic Visual Question Answering with Doubly Slimmable Transformer, [[Paper]](https://arxiv.org/pdf/2203.12814.pdf)
+- (arXiv 2022.04) Hypergraph Transformer: Weakly-supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2204.10448.pdf), [[Code]](https://github.com/yujungheo/kbvqa-public)
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
