@@ -347,6 +347,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Neighborhood Attention Transformer, [[Paper]](https://arxiv.org/pdf/2204.07143.pdf), [[Code]](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)
 - (arXiv 2022.04) ResT V2: Simpler, Faster and Stronger, [[Paper]](https://arxiv.org/pdf/2204.07366.pdf), [[Code]](https://github.com/wofmanaf/ResT)
 - (arXiv 2022.04) VSA: Learning Varied-Size Window Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.08446.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTAE-VSA)
+- (arXiv 2022.04) OCFormer: One-Class Transformer Network for Image Classification, [[Paper]](https://arxiv.org/pdf/2204.11449.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -483,6 +484,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) An Extendable, Efficient and Effective Transformer-based Object Detector, [[Paper]](https://arxiv.org/pdf/2204.07962.pdf), [[Code]](https://github.com/naver-ai/vidt)
 - (arXiv 2022.04) Learning Future Object Prediction with a Spatiotemporal Detection Transformer, [[Paper]](https://arxiv.org/pdf/2204.10321.pdf)
 - (arXiv 2022.04) DFAM-DETR: Deformable feature based attention mechanism DETR on slender object detection, [[Paper]](https://arxiv.org/pdf/2204.10667.pdf)
+- (arXiv 2022.04) Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2204.11582.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -534,6 +536,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
 - (arXiv 2022.01) TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf)
+- (arXiv 2022.04) SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf), [[Code]](https://github.com/Zhishe-Wang/SwinFuse)
 
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -1180,6 +1183,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) ReSTR: Convolution-free Referring Image Segmentation Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.16768.pdf), [[Code]](http://cvlab.postech.ac.kr/research/restr/)
 - (arXiv 2022.03) Dynamic Focus-aware Positional Queries for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2204.01244.pdf), [[Code]](https://github.com/zip-group/FASeg)
 - (arXiv 2022.03) TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2204.05525.pdf), [[Code]](https://github.com/hustvl/TopFormer)
+- (arXiv 2022.04) Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers, [[Paper]](https://github.com/twke18/HSG)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -1490,6 +1494,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Event Transformer, [[Paper]](https://arxiv.org/pdf/2204.05172.pdf)
 - (arXiv 2022.04) Residual Swin Transformer Channel Attention Network for Image Demosaicing, [[Paper]](https://arxiv.org/pdf/2204.07098.pdf)
 - (arXiv 2022.04) Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer, [[Paper]](https://arxiv.org/pdf/2204.08680.pdf)
+- (arXiv 2022.04) RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf)
+- (arXiv 2022.04) DRT: A Lightweight Single Image Deraining Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.11385.pdf)
+- (arXiv 2022.04) VISTA: Vision Transformer enhanced by U-Net and Image Colorfulness Frame Filtration for Automatic Retail Checkout, [[Paper]](https://arxiv.org/pdf/2204.11024.pdf), [[Code]](https://github.com/istiakshihab/automated-retail-checkout-aicity22)
 
 ## Contact & Feedback
 
