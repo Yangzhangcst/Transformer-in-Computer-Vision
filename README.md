@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/26
+**Last updated: 2022/04/27
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -348,6 +348,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) ResT V2: Simpler, Faster and Stronger, [[Paper]](https://arxiv.org/pdf/2204.07366.pdf), [[Code]](https://github.com/wofmanaf/ResT)
 - (arXiv 2022.04) VSA: Learning Varied-Size Window Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.08446.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTAE-VSA)
 - (arXiv 2022.04) OCFormer: One-Class Transformer Network for Image Classification, [[Paper]](https://arxiv.org/pdf/2204.11449.pdf)
+- (arXiv 2022.04) Adaptive Split-Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2204.11449.pdf), [[Code]](https://github.com/szx503045266/ASF-former)
+- (arXiv 2022.04) Understanding The Robustness in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12451.pdf), [[Code]](https://github.com/NVlabs/FAN)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -764,6 +766,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Low-Dose CT Denoising via Sinogram Inner-Structure Transformer, [[Paper]](https://arxiv.org/pdf/2204.03163.pdf)
 - (arXiv 2022.04) 3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume, [[Paper]](https://arxiv.org/pdf/2204.06779.pdf)
 - (arXiv 2022.04) Continual Hippocampus Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2204.08043.pdf)
+- (arXiv 2022.04) TranSiam: Fusing Multimodal Visual Features Using Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2204.12185.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1012,6 +1015,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) HeadPosr: End-to-end Trainable Head Pose Estimation using Transformer Encoders, [[Paper]](https://arxiv.org/pdf/2202.03548.pdf)
 - (arXiv 2022.03) CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2203.13387.pdf)
 - (arXiv 2022.04) BTranspose: Bottleneck Transformers for Human Pose Estimation with Self-Supervised Pre-Training, [[Paper]](https://arxiv.org/pdf/2204.10209.pdf)
+- (arXiv 2022.04) ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2204.12484.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTPose)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -1497,6 +1501,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf)
 - (arXiv 2022.04) DRT: A Lightweight Single Image Deraining Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.11385.pdf)
 - (arXiv 2022.04) VISTA: Vision Transformer enhanced by U-Net and Image Colorfulness Frame Filtration for Automatic Retail Checkout, [[Paper]](https://arxiv.org/pdf/2204.11024.pdf), [[Code]](https://github.com/istiakshihab/automated-retail-checkout-aicity22)
+- (arXiv 2022.04) ClothFormer:Taming Video Virtual Try-on in All Module, [[Paper]](https://arxiv.org/pdf/2204.12151.pdf), [[Code]](https://cloth-former.github.io/)
+- (arXiv 2022.04) Deeper Insights into ViTs Robustness towards Common Corruptions, [[Paper]](https://arxiv.org/pdf/2204.12143.pdf)
 
 ## Contact & Feedback
 
