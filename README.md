@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/27
+**Last updated: 2022/04/28
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -534,6 +534,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2202.06498.pdf)
 - (arXiv 2022.03) Self-Promoted Supervision for Few-Shot Transformer, [[Paper]](https://arxiv.org/pdf/2203.07057.pdf), [[Code]](https://github.com/DongSky/few-shot-vit)
 - (arXiv 2022.03) Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2203.09064.pdf), [[Code]](https://github.com/StomachCold/HCTransformers)
+- (arXiv 2022.04) CATrans: Context and Affinity Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2204.12817.pdf), [[Code]](https://github.com/StomachCold/HCTransformers)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -614,6 +615,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer, [[Paper]](https://arxiv.org/pdf/2203.13253.pdf), [[Code]](https://github.com/OmkarThawakar/MSSTS-VIS)
 - (arXiv 2022.04) Temporally Efficient Vision Transformer for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2204.08412.pdf), [[Code]](https://github.com/hustvl/TeViT)
 - (arXiv 2022.04) Less than Few: Self-Shot Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2204.08874.pdf)
+
+### Knowledge Distillation
+- (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
