@@ -534,7 +534,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Task-Adaptive Feature Transformer with Semantic Enrichment for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2202.06498.pdf)
 - (arXiv 2022.03) Self-Promoted Supervision for Few-Shot Transformer, [[Paper]](https://arxiv.org/pdf/2203.07057.pdf), [[Code]](https://github.com/DongSky/few-shot-vit)
 - (arXiv 2022.03) Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2203.09064.pdf), [[Code]](https://github.com/StomachCold/HCTransformers)
-- (arXiv 2022.04) CATrans: Context and Affinity Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2204.12817.pdf), [[Code]](https://github.com/StomachCold/HCTransformers)
+- (arXiv 2022.04) CATrans: Context and Affinity Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2204.12817.pdf)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -1507,6 +1507,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) VISTA: Vision Transformer enhanced by U-Net and Image Colorfulness Frame Filtration for Automatic Retail Checkout, [[Paper]](https://arxiv.org/pdf/2204.11024.pdf), [[Code]](https://github.com/istiakshihab/automated-retail-checkout-aicity22)
 - (arXiv 2022.04) ClothFormer:Taming Video Virtual Try-on in All Module, [[Paper]](https://arxiv.org/pdf/2204.12151.pdf), [[Code]](https://cloth-former.github.io/)
 - (arXiv 2022.04) Deeper Insights into ViTs Robustness towards Common Corruptions, [[Paper]](https://arxiv.org/pdf/2204.12143.pdf)
+- (arXiv 2022.04) Self-Driving Car Steering Angle Prediction: Let Transformer Be a Car Again, [[Paper]](https://arxiv.org/pdf/2204.12748.pdf)
 
 ## Contact & Feedback
 
