@@ -651,7 +651,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) U-Net Transformer: Self and Cross Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2103.06104)
 - (arXiv 2021.03) SUNETR: Transformers for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2103.10504)
 - (arXiv 2021.04) DeepProg: A Multi-modal Transformer-based End-to-end Framework for Predicting Disease Prognosis, [[Paper]](https://arxiv.org/pdf/2104.03642.pdf)
-- (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
 - (arXiv 2021.04) Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification, [[Paper]](https://arxiv.org/pdf/2104.07235.pdf)
 - (arXiv 2021.04) Shoulder Implant X-Ray Manufacturer Classification: Exploring with Vision Transformer, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2104/2104.07667.pdf)
 - (arXiv 2021.04) Medical Transformer: Universal Brain Encoder for 3D MRI Analysis, [[Paper]](https://arxiv.org/pdf/2104.13633.pdf)
@@ -743,7 +742,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) A hybrid 2-stage vision transformer for AI-assisted 5 class pathologic diagnosis of gastric endoscopic biopsies, [[Paper]](https://arxiv.org/pdf/2202.08510.pdf)
 - (arXiv 2022.02) TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2202.08453.pdf)
 - (arXiv 2022.02) RadioTransformer: A Cascaded Global-Focal Transformer for Visual Attention-guided Disease Classification, [[Paper]](https://arxiv.org/pdf/2202.11781.pdf)
-- (arXiv 2022.02) A Transformer-based Network for Deformable Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2202.12104.pdf)
 - (arXiv 2022.03) Using Multi-scale SwinTransformer-HTC with Data augmentation in CoNIC Challenge, [[Paper]](https://arxiv.org/pdf/2202.13588.pdf)
 - (arXiv 2022.03) CTformer: Convolution-free Token2Token Dilated Vision Transformer for Low-dose CT Denoising, [[Paper]](https://arxiv.org/pdf/2202.13517.pdf), [[Code]](https://github.com/wdayang/CTformer)
 - (arXiv 2022.03) Self-Supervised Vision Transformers Learn Visual Concepts in Histopathology, [[Paper]](https://arxiv.org/pdf/2203.00585.pdf), [[Code]](https://github.com/Richarizardd/Self-Supervised-ViT-Path)
@@ -761,7 +759,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Contrastive Transformer-based Multiple Instance Learning for Weakly Supervised Polyp Frame Detection, [[Paper]](https://arxiv.org/pdf/2203.12121.pdf)
 - (arXiv 2022.03) Transformer-empowered Multi-scale Contextual Matching and Aggregation for Multi-contrast MRI Super-resolution, [[Paper]](https://arxiv.org/pdf/2203.13963.pdf), [[Code]](https://github.com/XAIMI-Lab/McMRSR)
 - (arXiv 2022.03) Cross-Modality High-Frequency Transformer for MR Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2203.15314.pdf)
-- (arXiv 2022.03) Affine Medical Image Registration with Coarse-to-Fine Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.15216.pdf), [[Code]](https://github.com/cwmok/C2FViT)
 - (arXiv 2022.03) CAT-Net: A Cross-Slice Attention Transformer Model for Prostate Zonal Segmentation in MRI, [[Paper]](https://arxiv.org/pdf/2203.15163.pdf)
 - (arXiv 2022.04) UNetFormer: A Unified Vision Transformer Model and Pre-Training Framework for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2204.00631.pdf), [[Code]](https://github.com/Project-MONAI/research-contributions)
 - (arXiv 2022.04) Data and Physics Driven Learning Models for Fast MRI -- Fundamentals and Methodologies from CNN, GAN to Attention and Transformers, [[Paper]](https://arxiv.org/pdf/2204.01706.pdf)
@@ -1058,6 +1055,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion, [[Paper]](https://arxiv.org/pdf/2112.00236.pdf), [[Code]](https://noahstier.github.io/vortx/)
 - (arXiv 2022.03) RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers, [[Paper]](https://arxiv.org/pdf/2203.13296.pdf)
 
+### Registration
+- (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
+- (arXiv 2022.02) A Transformer-based Network for Deformable Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2202.12104.pdf)
+- (arXiv 2022.03) Affine Medical Image Registration with Coarse-to-Fine Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.15216.pdf), [[Code]](https://github.com/cwmok/C2FViT)
+- (arXiv 2022.04) Symmetric Transformer-based Network for Unsupervised Image Registration, [[Paper]](https://arxiv.org/pdf/2204.13575.pdf), [[Code]](https://github.com/MingR-Ma/SymTrans)
+
+
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
 - (arXiv 2021.03) Spatiotemporal Transformer for Video-based Person Re-identification, [[Paper]](https://arxiv.org/abs/2103.16469)
@@ -1216,6 +1220,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Self-Calibrated Efficient Transformer for Lightweight Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.08913.pdf), [[Code]](https://github.com/AlexZou14/SCET)
 - (arXiv 2022.04) CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.08696.pdf)
 - (arXiv 2022.04) A New Dataset and Transformer for Stereoscopic Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.10039.pdf), [[Code]](https://github.com/H-deep/Trans-SVSR/)
+- (arXiv 2022.04) Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.13286.pdf), [[Code]](https://github.com/IVIPLab/LBNet)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
