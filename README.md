@@ -771,6 +771,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Continual Hippocampus Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2204.08043.pdf)
 - (arXiv 2022.04) TranSiam: Fusing Multimodal Visual Features Using Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2204.12185.pdf)
 - (arXiv 2022.05) Noise-reducing attention cross fusion learning transformer for histological image classification of osteosarcoma, [[Paper]](https://arxiv.org/pdf/2204.13838.pdf)
+- (arXiv 2022.05) One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation, [[Paper]](https://arxiv.org/pdf/2204.13738.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -848,7 +849,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) OMNIVORE: A Single Model for Many Visual Modalities, [[Paper]](https://arxiv.org/pdf/2201.08377.pdf),[[Code]](https://facebookresearch.github.io/omnivore/)
 - (arXiv 2022.01) A Pre-trained Audio-Visual Transformer for Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2201.09165.pdf)
 - (arXiv 2022.01) Transformer-Based Video Front-Ends for Audio-Visual Speech Recognition, [[Paper]](https://arxiv.org/pdf/2201.10439.pdf)
-- (arXiv 2022.02) DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf),[[Code]](https://github.com/j-min/DallEval)
 - (arXiv 2022.02) Towards Weakly-Supervised Text Spotting using a Multi-Task Transformer, [[Paper]](https://arxiv.org/pdf/2202.05508.pdf)
 - (arXiv 2022.03) DXM-TransFuse U-net: Dual Cross-Modal Transformer Fusion U-net for Automated Nerve Identification, [[Paper]](https://arxiv.org/pdf/2202.13304.pdf)
 - (arXiv 2022.03) LILE: Look In-Depth before Looking Elsewhere -- A Dual Attention Network using Transformers for Cross-Modal Information Retrieval in Histopathology Archives, [[Paper]](https://arxiv.org/pdf/2203.01445.pdf)
@@ -1234,6 +1234,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/pdf/2111.03481.pdf)
 - (arXiv 2022.02) MaskGIT: Masked Generative Image Transformer, [[Paper]](https://arxiv.org/pdf/2202.04200.pdf)
 
+### Text-to-Image
+- (arXiv 2021.01) VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search, [[Paper]](https://arxiv.org/abs/2101.00265)
+- (arXiv 2021.05) CogView: Mastering Text-to-Image Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2105.13290.pdf)
+- (arXiv 2022.02) DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf),[[Code]](https://github.com/j-min/DallEval)
+- (arXiv 2022.05) CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers, [[Paper]](https://arxiv.org/pdf/2204.14217.pdf),[[Code]](https://github.com/THUDM/CogView2)
+
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
 - (CVPR'21) Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2103.15436), [[Code]](https://github.com/chenxin-dlut/TransT)
@@ -1419,13 +1425,11 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (CVPR'21') Pre-Trained Image Processing Transformer, [[Paper]](https://arxiv.org/abs/2012.00364)
 - (ICCV'21) PlaneTR: Structure-Guided Transformers for 3D Plane Recovery, [[Paper]](https://arxiv.org/pdf/2107.13108.pdf), [[Code]](https://github.com/IceTTTb/PlaneTR3D)
 - (arXiv 2021.01) Learn to Dance with AIST++: Music Conditioned 3D Dance Generation, [[Paper]](https://arxiv.org/abs/2101.08779), [[Code]](https://google.github.io/aichoreographer/)
-- (arXiv 2021.01) VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search, [[Paper]](https://arxiv.org/abs/2101.00265)
 - (arXiv 2021.01) Transformer Guided Geometry Model for Flow-Based Unsupervised Visual Odometry, [[Paper]](https://arxiv.org/abs/2101.02143)
 - (arXiv 2021.04) Cloth Interactive Transformer for Virtual Try-On, [[Paper]](https://arxiv.org/abs/2104.05519), [[Code]](https://github.com/Amazingren/CIT)
 - (arXiv 2021.04) Fourier Image Transformer, [[Paper]](https://arxiv.org/pdf/2104.02555.pdf), [[Code]](3https://github.com/juglab/FourierImageTransformer)
 - (arXiv 2021.05) Attention for Image Registration (AiR): an unsupervised Transformer approach, [[Paper]](https://arxiv.org/pdf/2105.02282.pdf)
 - (arXiv 2021.05) IntFormer: Predicting pedestrian intention with the aid of the Transformer architecture, [[Paper]](https://arxiv.org/pdf/2105.08647.pdf)
-- (arXiv 2021.05) CogView: Mastering Text-to-Image Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2105.13290.pdf)
 - (arXiv 2021.06) A Comparison for Anti-noise Robustness of Deep Learning Classification Methods on a Tiny Object Image Dataset: from Convolutional Neural Network to Visual Transformer and Performer, [[Paper]](https://arxiv.org/pdf/2106.01927.pdf)
 - (arXiv 2021.06) Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, [[Paper]](https://arxiv.org/pdf/2106.00559.pdf)
 - (arXiv 2021.06) StyTr2: Unbiased Image Style Transfer with Transformers, [[Paper]](https://arxiv.org/pdf/2105.14576.pdf)
@@ -1517,6 +1521,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) ClothFormer:Taming Video Virtual Try-on in All Module, [[Paper]](https://arxiv.org/pdf/2204.12151.pdf), [[Code]](https://cloth-former.github.io/)
 - (arXiv 2022.04) Deeper Insights into ViTs Robustness towards Common Corruptions, [[Paper]](https://arxiv.org/pdf/2204.12143.pdf)
 - (arXiv 2022.04) Self-Driving Car Steering Angle Prediction: Let Transformer Be a Car Again, [[Paper]](https://arxiv.org/pdf/2204.12748.pdf)
+- (arXiv 2022.05) Where in the World is this Image? Transformer-based Geo-localization in the Wild, [[Paper]](https://arxiv.org/pdf/2204.13861.pdf)
+
 
 ## Contact & Feedback
 
