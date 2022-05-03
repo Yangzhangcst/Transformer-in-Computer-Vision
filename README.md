@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/04/29
+**Last updated: 2022/05/03
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -400,6 +400,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2204.00987.pdf), [[Code]](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
 - (arXiv 2022.04) SurroundDepth: Entangling Surrounding Views for Self-Supervised Multi-Camera Depth Estimation, [[Paper]](https://arxiv.org/pdf/2204.03636.pdf), [[Project]](https://surrounddepth.ivg-research.xyz/)
 - (arXiv 2022.04) Multi-Frame Self-Supervised Depth with Transformers, [[Paper]](https://arxiv.org/pdf/2204.07616.pdf), [[Project]](https://sites.google.com/tri.global/depthformer)
+- (arXiv 2022.05) SideRT: A Real-time Pure Transformer Architecture for Single Image Depth Estimation, [[Paper]](https://arxiv.org/pdf/2204.13892.pdf)
+- (arXiv 2022.05) Depth Estimation with Simplified Transformer, [[Paper]](https://arxiv.org/pdf/2204.13791.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -768,6 +770,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) 3D Shuffle-Mixer: An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume, [[Paper]](https://arxiv.org/pdf/2204.06779.pdf)
 - (arXiv 2022.04) Continual Hippocampus Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2204.08043.pdf)
 - (arXiv 2022.04) TranSiam: Fusing Multimodal Visual Features Using Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2204.12185.pdf)
+- (arXiv 2022.05) Noise-reducing attention cross fusion learning transformer for histological image classification of osteosarcoma, [[Paper]](https://arxiv.org/pdf/2204.13838.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1282,6 +1285,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) DATR: Domain-adaptive transformer for multi-domain landmark detection, [[Paper]](https://arxiv.org/pdf/2203.06433.pdf)
 - (arXiv 2022.03) simCrossTrans: A Simple Cross-Modality Transfer Learning for Object Detection with ConvNets or Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.10456.pdf), [[Code]](https://github.com/liketheflower/simCrossTrans)
 - (arXiv 2022.04) Safe Self-Refinement for Transformer-based Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2204.07683.pdf), [[Code]](https://github.com/tsun/SSRT)
+- (arXiv 2022.05) Improving Transferability for Domain Adaptive Detection Transformers, [[Paper]](https://arxiv.org/pdf/2204.14195.pdf), [[Code]](https://github.com/tsun/SSRT)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
