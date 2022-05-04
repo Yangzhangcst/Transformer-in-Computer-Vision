@@ -85,6 +85,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) TALLFormer: Temporal Action Localization with Long-memory Transformer, [[Paper]](https://arxiv.org/pdf/2204.01680.pdf), [[Code]](https://github.com/klauscc/TALLFormer)
 - (arXiv 2022.04) TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting, [[Paper]](https://arxiv.org/pdf/2204.01018.pdf), [[Code]](https://github.com/SvipRepetitionCounting/TransRAC)
 - (arXiv 2022.04) Detector-Free Weakly Supervised Group Activity Recognition, [[Paper]](https://arxiv.org/pdf/2204.02139.pdf), [[Code]](https://cvlab.postech.ac.kr/research/DFWSGAR/)
+- (arXiv 2022.05) Cross-modal Representation Learning for Zero-shot Action Recognition [[Paper]](https://arxiv.org/pdf/2205.01657.pdf), [[Code]](https://github.com/microsoft/ResT)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
