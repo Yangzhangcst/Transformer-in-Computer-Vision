@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/03
+**Last updated: 2022/05/04
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -350,6 +350,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) OCFormer: One-Class Transformer Network for Image Classification, [[Paper]](https://arxiv.org/pdf/2204.11449.pdf)
 - (arXiv 2022.04) Adaptive Split-Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2204.11449.pdf), [[Code]](https://github.com/szx503045266/ASF-former)
 - (arXiv 2022.04) Understanding The Robustness in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12451.pdf), [[Code]](https://github.com/NVlabs/FAN)
+- (arXiv 2022.05) Better plain ViT baselines for ImageNet-1k, [[Paper]](https://arxiv.org/pdf/2205.01580.pdf), [[Code]](https://github.com/google-research/big_vision)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -1302,6 +1303,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) simCrossTrans: A Simple Cross-Modality Transfer Learning for Object Detection with ConvNets or Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.10456.pdf), [[Code]](https://github.com/liketheflower/simCrossTrans)
 - (arXiv 2022.04) Safe Self-Refinement for Transformer-based Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2204.07683.pdf), [[Code]](https://github.com/tsun/SSRT)
 - (arXiv 2022.05) Improving Transferability for Domain Adaptive Detection Transformers, [[Paper]](https://arxiv.org/pdf/2204.14195.pdf), [[Code]](https://github.com/tsun/SSRT)
+- (arXiv 2022.05) Cross-Domain Object Detection with Mean-Teacher Transformer, [[Paper]](https://arxiv.org/pdf/2205.01643.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
