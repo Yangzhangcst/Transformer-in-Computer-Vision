@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/04
+**Last updated: 2022/05/05
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -1531,7 +1531,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Deeper Insights into ViTs Robustness towards Common Corruptions, [[Paper]](https://arxiv.org/pdf/2204.12143.pdf)
 - (arXiv 2022.04) Self-Driving Car Steering Angle Prediction: Let Transformer Be a Car Again, [[Paper]](https://arxiv.org/pdf/2204.12748.pdf)
 - (arXiv 2022.05) Where in the World is this Image? Transformer-based Geo-localization in the Wild, [[Paper]](https://arxiv.org/pdf/2204.13861.pdf)
-
+- (arXiv 2022.05) Synthesized Speech Detection Using Convolutional Transformer-Based Spectrogram Analysis, [[Paper]](https://arxiv.org/pdf/2205.01800.pdf)
 
 ## Contact & Feedback
 
