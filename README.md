@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/05
+**Last updated: 2022/05/06
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -1031,6 +1031,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) CrossFormer: Cross Spatio-Temporal Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2203.13387.pdf)
 - (arXiv 2022.04) BTranspose: Bottleneck Transformers for Human Pose Estimation with Self-Supervised Pre-Training, [[Paper]](https://arxiv.org/pdf/2204.10209.pdf)
 - (arXiv 2022.04) ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2204.12484.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTPose)
+- (arXiv 2022.05) YOLOPose: Transformer-based Multi-Object 6D Pose Estimation using Keypoint Regression, [[Paper]](https://arxiv.org/pdf/2205.02536.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -1210,7 +1211,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) ReSTR: Convolution-free Referring Image Segmentation Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.16768.pdf), [[Code]](http://cvlab.postech.ac.kr/research/restr/)
 - (arXiv 2022.03) Dynamic Focus-aware Positional Queries for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2204.01244.pdf), [[Code]](https://github.com/zip-group/FASeg)
 - (arXiv 2022.03) TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2204.05525.pdf), [[Code]](https://github.com/hustvl/TopFormer)
-- (arXiv 2022.04) Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers, [[Paper]](https://github.com/twke18/HSG)
+- (arXiv 2022.04) Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers, [[Paper]](https://arxiv.org/pdf/2204.11432.pdf), [[Code]](https://github.com/twke18/HSG)
+- (arXiv 2022.05) Cross-view Transformers for real-time Map-view Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2205.02833.pdf), [[Code]](https://github.com/bradyz/cross_view_transformers)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
