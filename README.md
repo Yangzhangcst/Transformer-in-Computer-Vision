@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/06
+**Last updated: 2022/05/09
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -129,6 +129,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) End-to-End Transformer Based Model for Image Captioning, [[Paper]](https://arxiv.org/pdf/2203.15350.pdf)
 - (arXiv 2022.03) Quantifying Societal Bias Amplification in Image Captioning, [[Paper]](https://arxiv.org/pdf/2203.15395.pdf)
 - (arXiv 2022.04) Image Captioning In the Transformer Age, [[Paper]](https://arxiv.org/pdf/2204.07374.pdf)
+- (arXiv 2022.05) Dual-Level Decoupled Transformer for Video Captioning, [[Paper]](https://arxiv.org/pdf/2205.03039.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -783,6 +784,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Noise-reducing attention cross fusion learning transformer for histological image classification of osteosarcoma, [[Paper]](https://arxiv.org/pdf/2204.13838.pdf)
 - (arXiv 2022.05) One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation, [[Paper]](https://arxiv.org/pdf/2204.13738.pdf)
 - (arXiv 2022.05) Unsupervised Contrastive Learning based Transformer for Lung Nodule Detection, [[Paper]](https://arxiv.org/pdf/2205.00122.pdf)
+- (arXiv 2022.05) Understanding Transfer Learning for Chest Radiograph Clinical Report Generation with Modified Transformer Architectures, [[Paper]](https://arxiv.org/pdf/2205.02841.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
