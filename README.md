@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/09
+**Last updated: 2022/05/10
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -104,6 +104,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Learning Transformer Features for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2112.00485.pdf)
 - (arXiv 2022.03) Visual Mechanisms Inspired Efficient Transformers for Image and Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2203.14557.pdf)
 - (arXiv 2022.04) Multi-Scale Features and Parallel Transformers Based Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2204.09779.pdf), [[Code]](https://github.com/KomalPal9610/IQA)
+- (arXiv 2022.05) SwinIQA: Learned Swin Distance for Compressed Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2205.04264.pdf)
 
 ### Bird's-Eye-View
 - (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
@@ -493,6 +494,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Learning Future Object Prediction with a Spatiotemporal Detection Transformer, [[Paper]](https://arxiv.org/pdf/2204.10321.pdf)
 - (arXiv 2022.04) DFAM-DETR: Deformable feature based attention mechanism DETR on slender object detection, [[Paper]](https://arxiv.org/pdf/2204.10667.pdf)
 - (arXiv 2022.04) Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2204.11582.pdf)
+- (arXiv 2022.05) Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning, [[Paper]](https://arxiv.org/pdf/2205.04042.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -785,6 +787,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) One Model to Synthesize Them All: Multi-contrast Multi-scale Transformer for Missing Data Imputation, [[Paper]](https://arxiv.org/pdf/2204.13738.pdf)
 - (arXiv 2022.05) Unsupervised Contrastive Learning based Transformer for Lung Nodule Detection, [[Paper]](https://arxiv.org/pdf/2205.00122.pdf)
 - (arXiv 2022.05) Understanding Transfer Learning for Chest Radiograph Clinical Report Generation with Modified Transformer Architectures, [[Paper]](https://arxiv.org/pdf/2205.02841.pdf)
+- (arXiv 2022.05) Masked Co-attentional Transformer reconstructs 100x ultra-fast/low-dose whole-body PET from longitudinal images and anatomically guided MRI, [[Paper]](https://arxiv.org/pdf/2205.04044.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1240,6 +1243,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.08696.pdf)
 - (arXiv 2022.04) A New Dataset and Transformer for Stereoscopic Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2204.10039.pdf), [[Code]](https://github.com/H-deep/Trans-SVSR/)
 - (arXiv 2022.04) Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.13286.pdf), [[Code]](https://github.com/IVIPLab/LBNet)
+- (arXiv 2022.05) Activating More Pixels in Image Super-Resolution Transformer, [[Paper]](https://arxiv.org/pdf/2205.04437.pdf), [[Code]](https://github.com/chxy95/HAT)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -1284,6 +1288,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Unified Transformer Tracker for Object Tracking, [[Paper]](https://arxiv.org/pdf/2203.15175.pdf), [[Code]](https://github.com/Flowerfan/Trackron)
 - (arXiv 2022.03) Global Tracking via Ensemble of Local Trackers, [[Paper]](https://arxiv.org/pdf/2203.16092.pdf)
 - (arXiv 2022.03) MeMOT: Multi-Object Tracking with Memory, [[Paper]](https://arxiv.org/pdf/2203.16761.pdf)
+- (arXiv 2022.05) SparseTT: Visual Tracking with Sparse Transformers, [[Paper]](https://arxiv.org/pdf/2205.03776.pdf), [[Code]](https://github.com/fzh0917/SparseTT)
+- (arXiv 2022.05) Transformer Tracking with Cyclic Shifting Window Attention, [[Paper]](https://arxiv.org/pdf/2205.03806.pdf), [[Code]](https://github.com/SkyeSong38/CSWinTT)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
