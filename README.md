@@ -354,6 +354,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Adaptive Split-Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2204.11449.pdf), [[Code]](https://github.com/szx503045266/ASF-former)
 - (arXiv 2022.04) Understanding The Robustness in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12451.pdf), [[Code]](https://github.com/NVlabs/FAN)
 - (arXiv 2022.05) Better plain ViT baselines for ImageNet-1k, [[Paper]](https://arxiv.org/pdf/2205.01580.pdf), [[Code]](https://github.com/google-research/big_vision)
+- (arXiv 2022.05) EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.03436.pdf), [[Code]](https://github.com/google-research/big_vision)
+- (arXiv 2022.05) ConvMAE: Masked Convolution Meets Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2205.03892.pdf), [[Code]](https://github.com/Alpha-VL/ConvMAE)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
