@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/10
+**Last updated: 2022/05/11
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -541,6 +541,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing, [[Paper]](https://arxiv.org/pdf/2203.17266.pdf),[[Code]](https://github.com/BillyXYB/TransEditor)
 - (arXiv 2022.04) Vision Transformer Equipped with Neural Resizer on Facial Expression Recognition Task, [[Paper]](https://arxiv.org/pdf/2204.02181.pdf)
 - (arXiv 2022.04) POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2204.04083.pdf),[[Code]](https://github.com/zczcwh/POSTER)
+- (arXiv 2022.05) Spatio-Temporal Transformer for Dynamic Facial Expression Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2205.04749.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -621,6 +622,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) Decoupled Spatial-Temporal Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2112.08275.pdf), [[Code]](https://github.com/wjf5203/SeqFormer)
 - (arXiv 2022.03) Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding, [[Paper]](https://arxiv.org/pdf/2203.00867.pdf), [[Code]](https://github.com/DQiaole/ZITS_inpainting)
 - (arXiv 2022.03) MAT: Mask-Aware Transformer for Large Hole Image Inpainting, [[Paper]](https://arxiv.org/pdf/2203.15270.pdf), [[Code]](https://github.com/fenglinglwb/MAT)
+- (arXiv 2022.05) Reduce Information Loss in Transformers for Pluralistic Image Inpainting, [[Paper]](https://arxiv.org/pdf/2205.05076.pdf)
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
@@ -890,6 +892,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Multimodal Token Fusion for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.08721.pdf)
 - (arXiv 2022.04) Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval, [[Paper]](https://arxiv.org/pdf/2204.09730.pdf), [[Code]](https://github.com/mshukor/TFood)
 - (arXiv 2022.04) ParkPredict+: Multimodal Intent and Motion Prediction for Vehicles in Parking Lots with CNN and Transformer, [[Paper]](https://arxiv.org/pdf/2204.10777.pdf)
+- (arXiv 2022.05) Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training, [[Paper]](https://arxiv.org/pdf/2205.04948.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
