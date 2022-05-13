@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/11
+**Last updated: 2022/05/13
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -497,6 +497,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) DFAM-DETR: Deformable feature based attention mechanism DETR on slender object detection, [[Paper]](https://arxiv.org/pdf/2204.10667.pdf)
 - (arXiv 2022.04) Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2204.11582.pdf)
 - (arXiv 2022.05) Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning, [[Paper]](https://arxiv.org/pdf/2205.04042.pdf)
+- (arXiv 2022.05) An Empirical Study of Self-supervised Learning Approaches for Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2205.05543.pdf), [[Code1]](https://github.com/gokulkarthik/detr), [[Code2]](https://github.com/gokulkarthik/Deformable-DETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -947,6 +948,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition, [[Paper]](https://arxiv.org/pdf/2203.10209.pdf), [[Code]](https://github.com/mxin262/SwinTextSpotter)
 - (arXiv 2022.03) Transformer-based HTR for Historical Documents, [[Paper]](https://arxiv.org/pdf/2203.11008.pdf)
 - (arXiv 2022.04) Text Spotting Transformers, [[Paper]](https://arxiv.org/pdf/2204.01918.pdf), [[Code]](https://github.com/mlpc-ucsd/TESTR)
+- (arXiv 2022.05) Arbitrary Shape Text Detection via Boundary Transformer, [[Paper]](https://arxiv.org/pdf/2205.05320.pdf), [[Code]](https://github.com/GXYM/TextBPN-Puls-Plus)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
@@ -1042,6 +1044,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) BTranspose: Bottleneck Transformers for Human Pose Estimation with Self-Supervised Pre-Training, [[Paper]](https://arxiv.org/pdf/2204.10209.pdf)
 - (arXiv 2022.04) ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2204.12484.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTPose)
 - (arXiv 2022.05) YOLOPose: Transformer-based Multi-Object 6D Pose Estimation using Keypoint Regression, [[Paper]](https://arxiv.org/pdf/2205.02536.pdf)
+- (arXiv 2022.05) AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation, [[Paper]](https://arxiv.org/pdf/2205.05277.pdf), [[Code]](https://github.com/SZAR-LAB/AggPose)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
