@@ -85,7 +85,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) TALLFormer: Temporal Action Localization with Long-memory Transformer, [[Paper]](https://arxiv.org/pdf/2204.01680.pdf), [[Code]](https://github.com/klauscc/TALLFormer)
 - (arXiv 2022.04) TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting, [[Paper]](https://arxiv.org/pdf/2204.01018.pdf), [[Code]](https://github.com/SvipRepetitionCounting/TransRAC)
 - (arXiv 2022.04) Detector-Free Weakly Supervised Group Activity Recognition, [[Paper]](https://arxiv.org/pdf/2204.02139.pdf), [[Code]](https://cvlab.postech.ac.kr/research/DFWSGAR/)
-- (arXiv 2022.05) Cross-modal Representation Learning for Zero-shot Action Recognition [[Paper]](https://arxiv.org/pdf/2205.01657.pdf), [[Code]](https://github.com/microsoft/ResT)
+- (arXiv 2022.05) Cross-modal Representation Learning for Zero-shot Action Recognition, [[Paper]](https://arxiv.org/pdf/2205.01657.pdf), [[Code]](https://github.com/microsoft/ResT)
+- (arXiv 2022.05) Entity-aware and Motion-aware Transformers for Language-driven Action Localization in Videos, [[Paper]](https://arxiv.org/pdf/2205.05854.pdf), [[Code]](https://github.com/shuoyang129/EAMAT)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -498,6 +499,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2204.11582.pdf)
 - (arXiv 2022.05) Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning, [[Paper]](https://arxiv.org/pdf/2205.04042.pdf)
 - (arXiv 2022.05) An Empirical Study of Self-supervised Learning Approaches for Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2205.05543.pdf), [[Code1]](https://github.com/gokulkarthik/detr), [[Code2]](https://github.com/gokulkarthik/Deformable-DETR)
+- (arXiv 2022.05) Simple Open-Vocabulary Object Detection with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.06230.pdf), [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
