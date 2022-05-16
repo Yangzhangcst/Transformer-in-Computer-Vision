@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/13
+**Last updated: 2022/05/16
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -795,6 +795,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Unsupervised Contrastive Learning based Transformer for Lung Nodule Detection, [[Paper]](https://arxiv.org/pdf/2205.00122.pdf)
 - (arXiv 2022.05) Understanding Transfer Learning for Chest Radiograph Clinical Report Generation with Modified Transformer Architectures, [[Paper]](https://arxiv.org/pdf/2205.02841.pdf)
 - (arXiv 2022.05) Masked Co-attentional Transformer reconstructs 100x ultra-fast/low-dose whole-body PET from longitudinal images and anatomically guided MRI, [[Paper]](https://arxiv.org/pdf/2205.04044.pdf)
+- (arXiv 2022.05) Local Attention Graph-based Transformer for Multi-target Genetic Alteration Prediction, [[Paper]](https://arxiv.org/pdf/2205.06672.pdf)
+- (arXiv 2022.05) A microstructure estimation Transformer inspired by sparse representation for diffusion MRI, [[Paper]](https://arxiv.org/pdf/2205.06450.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
