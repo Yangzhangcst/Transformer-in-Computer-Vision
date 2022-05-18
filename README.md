@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/17
+**Last updated: 2022/05/18
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -17,6 +17,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 *2022/February* - update all of recent papers of Transformer-in-Vision.  
 *2022/March* - update all of recent papers of Transformer-in-Vision.  
 *2022/April* - update all of recent papers of Transformer-in-Vision.  
+*2022/May* - update all of recent papers of Transformer-in-Vision.  
 
 ## Survey: 
 
@@ -360,6 +361,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Better plain ViT baselines for ImageNet-1k, [[Paper]](https://arxiv.org/pdf/2205.01580.pdf), [[Code]](https://github.com/google-research/big_vision)
 - (arXiv 2022.05) EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.03436.pdf), [[Code]](https://github.com/google-research/big_vision)
 - (arXiv 2022.05) ConvMAE: Masked Convolution Meets Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2205.03892.pdf), [[Code]](https://github.com/Alpha-VL/ConvMAE)
+- (arXiv 2022.05) Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.08078.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -504,6 +506,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Incremental-DETR: Incremental Few-Shot Object Detection via Self-Supervised Learning, [[Paper]](https://arxiv.org/pdf/2205.04042.pdf)
 - (arXiv 2022.05) An Empirical Study of Self-supervised Learning Approaches for Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2205.05543.pdf), [[Code1]](https://github.com/gokulkarthik/detr), [[Code2]](https://github.com/gokulkarthik/Deformable-DETR)
 - (arXiv 2022.05) Simple Open-Vocabulary Object Detection with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.06230.pdf), [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)
+- (arXiv 2022.05) Vision Transformer Adapter for Dense Predictions, [[Paper]](https://arxiv.org/pdf/2205.08534.pdf), [[Code]](https://github.com/czczup/ViT-Adapter)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -802,6 +805,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Local Attention Graph-based Transformer for Multi-target Genetic Alteration Prediction, [[Paper]](https://arxiv.org/pdf/2205.06672.pdf)
 - (arXiv 2022.05) A microstructure estimation Transformer inspired by sparse representation for diffusion MRI, [[Paper]](https://arxiv.org/pdf/2205.06450.pdf)
 - (arXiv 2022.05) An Effective Transformer-based Solution for RSNA Intracranial Hemorrhage Detection Competition, [[Paper]](https://arxiv.org/pdf/2205.07556.pdf),[[Code]](https://aistudio.baidu.com/aistudio/projectdetail/3995861)
+- (arXiv 2022.05) HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images, [[Paper]](https://arxiv.org/pdf/2205.08390.pdf)
+- (arXiv 2022.05) ColonFormer: An Efficient Transformer based Method for Colon Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2205.08473.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -903,6 +908,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval, [[Paper]](https://arxiv.org/pdf/2204.09730.pdf), [[Code]](https://github.com/mshukor/TFood)
 - (arXiv 2022.04) ParkPredict+: Multimodal Intent and Motion Prediction for Vehicles in Parking Lots with CNN and Transformer, [[Paper]](https://arxiv.org/pdf/2204.10777.pdf)
 - (arXiv 2022.05) Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training, [[Paper]](https://arxiv.org/pdf/2205.04948.pdf)
+- (arXiv 2022.05) MulT: An End-to-End Multitask Learning Transformer, [[Paper]](https://arxiv.org/pdf/2205.08303.pdf)), [[Project]](https://ivrl.github.io/MulT/)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -958,6 +964,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Transformer-based HTR for Historical Documents, [[Paper]](https://arxiv.org/pdf/2203.11008.pdf)
 - (arXiv 2022.04) Text Spotting Transformers, [[Paper]](https://arxiv.org/pdf/2204.01918.pdf), [[Code]](https://github.com/mlpc-ucsd/TESTR)
 - (arXiv 2022.05) Arbitrary Shape Text Detection via Boundary Transformer, [[Paper]](https://arxiv.org/pdf/2205.05320.pdf), [[Code]](https://github.com/GXYM/TextBPN-Puls-Plus)
+- (arXiv 2022.05) MATrIX - Modality-Aware Transformer for Information eXtraction, [[Paper]](https://arxiv.org/pdf/2205.08094.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
