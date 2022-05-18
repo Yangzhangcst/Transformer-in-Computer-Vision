@@ -977,6 +977,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Masked-attention Mask Transformer for Universal Image Segmentation, [[Paper]](https://arxiv.org/pdf/2112.01527.pdf), [[Code]](https://bowenc0221.github.io/mask2former/)
 - (arXiv 2021.12) PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2112.02582.pdf), [[Code]](https://github.com/HarborYuan/PolyphonicFormer)
 - (arXiv 2022.04) Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation, [[Paper]](https://arxiv.org/pdf/2204.04655.pdf), [[Code]](https://github.com/lxtGH/Panoptic-PartFormer)
+- (arXiv 2022.05) CONSENT: Context Sensitive Transformer for Bold Words Classification, [[Paper]](https://arxiv.org/pdf/2205.07683.pdf)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
