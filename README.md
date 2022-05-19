@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/18
+**Last updated: 2022/05/19
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -91,6 +91,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Detector-Free Weakly Supervised Group Activity Recognition, [[Paper]](https://arxiv.org/pdf/2204.02139.pdf), [[Code]](https://cvlab.postech.ac.kr/research/DFWSGAR/)
 - (arXiv 2022.05) Cross-modal Representation Learning for Zero-shot Action Recognition, [[Paper]](https://arxiv.org/pdf/2205.01657.pdf), [[Code]](https://github.com/microsoft/ResT)
 - (arXiv 2022.05) Entity-aware and Motion-aware Transformers for Language-driven Action Localization in Videos, [[Paper]](https://arxiv.org/pdf/2205.05854.pdf), [[Code]](https://github.com/shuoyang129/EAMAT)
+- (arXiv 2022.05) Cross-subject Action Unit Detection with Meta Learning and Transformer-based Relation Modeling, [[Paper]](https://arxiv.org/pdf/2205.08787.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -807,6 +808,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) An Effective Transformer-based Solution for RSNA Intracranial Hemorrhage Detection Competition, [[Paper]](https://arxiv.org/pdf/2205.07556.pdf),[[Code]](https://aistudio.baidu.com/aistudio/projectdetail/3995861)
 - (arXiv 2022.05) HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images, [[Paper]](https://arxiv.org/pdf/2205.08390.pdf)
 - (arXiv 2022.05) ColonFormer: An Efficient Transformer based Method for Colon Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2205.08473.pdf)
+- (arXiv 2022.05) Transformer based multiple instance learning for weakly supervised histopathology image segmentation, [[Paper]](https://arxiv.org/pdf/2205.08878.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
