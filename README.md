@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/19
+**Last updated: 2022/05/20
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -508,6 +508,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) An Empirical Study of Self-supervised Learning Approaches for Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2205.05543.pdf), [[Code1]](https://github.com/gokulkarthik/detr), [[Code2]](https://github.com/gokulkarthik/Deformable-DETR)
 - (arXiv 2022.05) Simple Open-Vocabulary Object Detection with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.06230.pdf), [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)
 - (arXiv 2022.05) Vision Transformer Adapter for Dense Predictions, [[Paper]](https://arxiv.org/pdf/2205.08534.pdf), [[Code]](https://github.com/czczup/ViT-Adapter)
+- (arXiv 2022.05) Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection, [[Paper]](https://arxiv.org/pdf/2205.09613.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
