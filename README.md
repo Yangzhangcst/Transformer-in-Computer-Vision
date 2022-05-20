@@ -812,6 +812,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) HoVer-Trans: Anatomy-aware HoVer-Transformer for ROI-free Breast Cancer Diagnosis in Ultrasound Images, [[Paper]](https://arxiv.org/pdf/2205.08390.pdf)
 - (arXiv 2022.05) ColonFormer: An Efficient Transformer based Method for Colon Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2205.08473.pdf)
 - (arXiv 2022.05) Transformer based multiple instance learning for weakly supervised histopathology image segmentation, [[Paper]](https://arxiv.org/pdf/2205.08878.pdf)
+- (arXiv 2022.05) A graph-transformer for whole slide image classification, [[Paper]](https://arxiv.org/pdf/2205.09671.pdf)
+- (arXiv 2022.05) BabyNet: Residual Transformer Module for Birth Weight Prediction on Fetal Ultrasound Video, [[Paper]](https://arxiv.org/pdf/2205.09382.pdf),[[Code]](https://github.com/SanoScience/BabyNet)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -914,6 +916,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) ParkPredict+: Multimodal Intent and Motion Prediction for Vehicles in Parking Lots with CNN and Transformer, [[Paper]](https://arxiv.org/pdf/2204.10777.pdf)
 - (arXiv 2022.05) Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training, [[Paper]](https://arxiv.org/pdf/2205.04948.pdf)
 - (arXiv 2022.05) MulT: An End-to-End Multitask Learning Transformer, [[Paper]](https://arxiv.org/pdf/2205.08303.pdf)), [[Project]](https://ivrl.github.io/MulT/)
+- (arXiv 2022.05) Training Vision-Language Transformers from Captions Alone, [[Paper]](https://arxiv.org/pdf/2205.09256.pdf), [[Code]](https://github.com/guilk/VLC)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1033,6 +1036,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud, [[Paper]](https://arxiv.org/pdf/2204.05481.pdf)
 - (arXiv 2022.04) Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds, [[Paper]](https://arxiv.org/pdf/2204.10688.pdf), [[Code]](https://spacap3d.github.io/)
 - (arXiv 2022.04) Panoptic-PHNet: Towards Real-Time and High-Precision LiDAR Panoptic Segmentation via Clustering Pseudo Heatmap, [[Paper]](https://arxiv.org/pdf/2205.07002.pdf)
+- (arXiv 2022.04) VNT-Net: Rotational Invariant Vector Neuron Transformers, [[Paper]](https://arxiv.org/pdf/2205.09690.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
