@@ -92,6 +92,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Cross-modal Representation Learning for Zero-shot Action Recognition, [[Paper]](https://arxiv.org/pdf/2205.01657.pdf), [[Code]](https://github.com/microsoft/ResT)
 - (arXiv 2022.05) Entity-aware and Motion-aware Transformers for Language-driven Action Localization in Videos, [[Paper]](https://arxiv.org/pdf/2205.05854.pdf), [[Code]](https://github.com/shuoyang129/EAMAT)
 - (arXiv 2022.05) Cross-subject Action Unit Detection with Meta Learning and Transformer-based Relation Modeling, [[Paper]](https://arxiv.org/pdf/2205.08787.pdf)
+- (arXiv 2022.05) Cross-Enhancement Transformer for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2205.09445.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -363,6 +364,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.03436.pdf), [[Code]](https://github.com/google-research/big_vision)
 - (arXiv 2022.05) ConvMAE: Masked Convolution Meets Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2205.03892.pdf), [[Code]](https://github.com/Alpha-VL/ConvMAE)
 - (arXiv 2022.05) Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.08078.pdf)
+- (arXiv 2022.05) TRT-ViT: TensorRT-oriented Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.09579.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
