@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/23
+**Last updated: 2022/05/24
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -368,6 +368,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) TRT-ViT: TensorRT-oriented Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.09579.pdf)
 - (arXiv 2022.05) Super Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.11397.pdf), [[Code]](https://github.com/lmbxmu/SuperViT)
 - (arXiv 2022.05) Deeper vs Wider: A Revisit of Transformer Configuration, [[Paper]](https://arxiv.org/pdf/2205.10505.pdf)
+- (arXiv 2022.05) Vision Transformers in 2022: An Update on Tiny ImageNet, [[Paper]](https://arxiv.org/pdf/2205.10660.pdf), [[Code]](htthttps://github.com/ehuynh1106/TinyImageNet-Transformers)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -421,6 +422,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Multi-Frame Self-Supervised Depth with Transformers, [[Paper]](https://arxiv.org/pdf/2204.07616.pdf), [[Project]](https://sites.google.com/tri.global/depthformer)
 - (arXiv 2022.05) SideRT: A Real-time Pure Transformer Architecture for Single Image Depth Estimation, [[Paper]](https://arxiv.org/pdf/2204.13892.pdf)
 - (arXiv 2022.05) Depth Estimation with Simplified Transformer, [[Paper]](https://arxiv.org/pdf/2204.13791.pdf)
+- (arXiv 2022.05) MonoFormer: Towards Generalization of self-supervised monocular depth estimation with Transformers, [[Paper]](https://arxiv.org/pdf/2205.11083.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -515,6 +517,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Simple Open-Vocabulary Object Detection with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.06230.pdf), [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)
 - (arXiv 2022.05) Vision Transformer Adapter for Dense Predictions, [[Paper]](https://arxiv.org/pdf/2205.08534.pdf), [[Code]](https://github.com/czczup/ViT-Adapter)
 - (arXiv 2022.05) Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection, [[Paper]](https://arxiv.org/pdf/2205.09613.pdf)
+- (arXiv 2022.05) Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer, [[Paper]](https://arxiv.org/pdf/2205.10579.pdf),[[Code]](https://github.com/liuzywen/COD)
+- (arXiv 2022.05) Transformer-based out-of-distribution detection for clinically safe segmentation, [[Paper]](https://arxiv.org/pdf/2205.10650.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -656,6 +660,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
+- (arXiv 2022.05) Knowledge Distillation via the Target-aware Transformer, [[Paper]](https://arxiv.org/pdf/2205.10793.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
