@@ -366,6 +366,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) ConvMAE: Masked Convolution Meets Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2205.03892.pdf), [[Code]](https://github.com/Alpha-VL/ConvMAE)
 - (arXiv 2022.05) Unraveling Attention via Convex Duality: Analysis and Interpretations of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.08078.pdf)
 - (arXiv 2022.05) TRT-ViT: TensorRT-oriented Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.09579.pdf)
+- (arXiv 2022.05) Super Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.11397.pdf), [[Code]](https://github.com/lmbxmu/SuperViT)
+- (arXiv 2022.05) Deeper vs Wider: A Revisit of Transformer Configuration, [[Paper]](https://arxiv.org/pdf/2205.10505.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -817,6 +819,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Transformer based multiple instance learning for weakly supervised histopathology image segmentation, [[Paper]](https://arxiv.org/pdf/2205.08878.pdf)
 - (arXiv 2022.05) A graph-transformer for whole slide image classification, [[Paper]](https://arxiv.org/pdf/2205.09671.pdf)
 - (arXiv 2022.05) BabyNet: Residual Transformer Module for Birth Weight Prediction on Fetal Ultrasound Video, [[Paper]](https://arxiv.org/pdf/2205.09382.pdf),[[Code]](https://github.com/SanoScience/BabyNet)
+- (arXiv 2022.05) Transformer based Generative Adversarial Network for Liver Segmentation, [[Paper]](https://arxiv.org/pdf/2205.10663.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1177,6 +1180,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) DFTR: Depth-supervised Hierarchical Feature Fusion Transformer for Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2112.13528.pdf)
 - (arXiv 2022.03) GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2203.10785.pdf)
 - (arXiv 2022.03) Unsupervised Salient Object Detection with Spectral Cluster Voting, [[Paper]](https://arxiv.org/pdf/2203.12614.pdf), [[Code]](https://github.com/NoelShin/selfmask)
+- (arXiv 2022.05) SelfReformer: Self-Refined Network with Transformer for Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2205.11283.pdf)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
