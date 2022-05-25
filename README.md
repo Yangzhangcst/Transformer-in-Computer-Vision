@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/24
+**Last updated: 2022/05/25
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -369,6 +369,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Super Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.11397.pdf), [[Code]](https://github.com/lmbxmu/SuperViT)
 - (arXiv 2022.05) Deeper vs Wider: A Revisit of Transformer Configuration, [[Paper]](https://arxiv.org/pdf/2205.10505.pdf)
 - (arXiv 2022.05) Vision Transformers in 2022: An Update on Tiny ImageNet, [[Paper]](https://arxiv.org/pdf/2205.10660.pdf), [[Code]](htthttps://github.com/ehuynh1106/TinyImageNet-Transformers)
+- (arXiv 2022.05) Privacy-Preserving Image Classification Using Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.12041.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -681,6 +682,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Local Feature Matching with Transformers for low-end devices, [[Paper]](https://arxiv.org/pdf/2202.00770.pdf), [[Code]](https://github.com/Kolkir/Coarse_LoFTR_TRT)
 - (arXiv 2022.02) CATs++: Boosting Cost Aggregation with Convolutions and Transformers, [[Paper]](https://arxiv.org/pdf/2202.06817.pdf), [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
 - (arXiv 2022.03) MatchFormer: Interleaving Attention in Transformers for Feature Matching, [[Paper]](https://arxiv.org/pdf/2203.09645.pdf), [[Code]](https://github.com/jamycheung/MatchFormer)
+- (arXiv 2022.05) TransforMatcher: Match-to-Match Attention for Semantic Correspondence, [[Paper]](https://arxiv.org/pdf/2205.11634.pdf), [[Code]](http://cvlab.postech.ac.kr/research/TransforMatcher)
 
 ### Matting
 - (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
@@ -1048,6 +1050,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds, [[Paper]](https://arxiv.org/pdf/2204.10688.pdf), [[Code]](https://spacap3d.github.io/)
 - (arXiv 2022.04) Panoptic-PHNet: Towards Real-Time and High-Precision LiDAR Panoptic Segmentation via Clustering Pseudo Heatmap, [[Paper]](https://arxiv.org/pdf/2205.07002.pdf)
 - (arXiv 2022.04) VNT-Net: Rotational Invariant Vector Neuron Transformers, [[Paper]](https://arxiv.org/pdf/2205.09690.pdf)
+- (arXiv 2022.05) Towards Model Generalization for Monocular 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2205.11664.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1199,6 +1202,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) SGTR: End-to-end Scene Graph Generation with Transformer, [[Paper]](https://arxiv.org/pdf/2112.12970.pdf)
 - (arXiv 2022.01) RelTR: Relation Transformer for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2201.11460.pdf), [[Code]](https://github.com/yrcong/RelTR)
 - (arXiv 2022.03) Relationformer: A Unified Framework for Image-to-Graph Generation, [[Paper]](https://arxiv.org/pdf/2203.10202.pdf)
+- (arXiv 2022.05) ASSET: Autoregressive Semantic Scene Editing with Transformers at High Resolutions, [[Paper]](https://arxiv.org/pdf/2205.12231.pdf), [[Code]](https://github.com/DifanLiu/ASSET)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
