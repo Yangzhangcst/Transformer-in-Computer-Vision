@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/25
+**Last updated: 2022/05/26
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -368,12 +368,15 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) TRT-ViT: TensorRT-oriented Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.09579.pdf)
 - (arXiv 2022.05) Super Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.11397.pdf), [[Code]](https://github.com/lmbxmu/SuperViT)
 - (arXiv 2022.05) Deeper vs Wider: A Revisit of Transformer Configuration, [[Paper]](https://arxiv.org/pdf/2205.10505.pdf)
-- (arXiv 2022.05) Vision Transformers in 2022: An Update on Tiny ImageNet, [[Paper]](https://arxiv.org/pdf/2205.10660.pdf), [[Code]](htthttps://github.com/ehuynh1106/TinyImageNet-Transformers)
+- (arXiv 2022.05) Vision Transformers in 2022: An Update on Tiny ImageNet, [[Paper]](https://arxiv.org/pdf/2205.10660.pdf), [[Code]](https://github.com/ehuynh1106/TinyImageNet-Transformers)
 - (arXiv 2022.05) Privacy-Preserving Image Classification Using Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.12041.pdf)
+- (arXiv 2022.05) Inception Transformer, [[Paper]](https://arxiv.org/pdf/2205.12956.pdf), [[Code]](https://github.com/sail-sg/iFormer)
+- (arXiv 2022.05) MoCoViT: Mobile Convolutional Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.12635.pdf), [[Code]](https://github.com/sail-sg/iFormer)
+- (arXiv 2022.05) Breaking the Chain of Gradient Leakage in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.12551.pdf), [[Code]](https://github.com/sail-sg/iFormer)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
-- (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2111.06707.pdf), [[Code]](https://github.com/lyndonzheng/TFill)
+- (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2111.06707.pdf), [[Code]](https://github.com/yhlleo/MJP)
 
 ### Compression
 - (arXiv 2021.10) Accelerating Framework of Transformer by hardware Design and Model Compression Co-Optimization, [[Paper]](https://arxiv.org/pdf/2110.10030.pdf)
@@ -520,6 +523,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Integral Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection, [[Paper]](https://arxiv.org/pdf/2205.09613.pdf)
 - (arXiv 2022.05) Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer, [[Paper]](https://arxiv.org/pdf/2205.10579.pdf),[[Code]](https://github.com/liuzywen/COD)
 - (arXiv 2022.05) Transformer-based out-of-distribution detection for clinically safe segmentation, [[Paper]](https://arxiv.org/pdf/2205.10650.pdf)
+- (arXiv 2022.05) AO2-DETR: Arbitrary-Oriented Object Detection Transformer, [[Paper]](https://arxiv.org/pdf/2205.12785.pdf),[[Code]](https://github.com/Ixiaohuihuihui)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -604,6 +608,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
 - (arXiv 2022.03) End-to-End Human-Gaze-Target Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.10433.pdf)
+- (arXiv 2022.05) Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning, [[Paper]](https://arxiv.org/pdf/2205.12466.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -827,6 +832,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) A graph-transformer for whole slide image classification, [[Paper]](https://arxiv.org/pdf/2205.09671.pdf)
 - (arXiv 2022.05) BabyNet: Residual Transformer Module for Birth Weight Prediction on Fetal Ultrasound Video, [[Paper]](https://arxiv.org/pdf/2205.09382.pdf),[[Code]](https://github.com/SanoScience/BabyNet)
 - (arXiv 2022.05) Transformer based Generative Adversarial Network for Liver Segmentation, [[Paper]](https://arxiv.org/pdf/2205.10663.pdf)
+- (arXiv 2022.05) A Comparative Study of Gastric Histopathology Sub-size Image Classification: from Linear Regression to Visual Transformer, [[Paper]](https://arxiv.org/pdf/2205.12843.pdf),[[Code]](https://github.com/SanoScience/BabyNet)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1086,6 +1092,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2204.12484.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTPose)
 - (arXiv 2022.05) YOLOPose: Transformer-based Multi-Object 6D Pose Estimation using Keypoint Regression, [[Paper]](https://arxiv.org/pdf/2205.02536.pdf)
 - (arXiv 2022.05) AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation, [[Paper]](https://arxiv.org/pdf/2205.05277.pdf), [[Code]](https://github.com/SZAR-LAB/AggPose)
+- (arXiv 2022.05) VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2205.12602.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
