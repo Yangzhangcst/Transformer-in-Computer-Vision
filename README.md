@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/26
+**Last updated: 2022/05/27
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -93,6 +93,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Entity-aware and Motion-aware Transformers for Language-driven Action Localization in Videos, [[Paper]](https://arxiv.org/pdf/2205.05854.pdf), [[Code]](https://github.com/shuoyang129/EAMAT)
 - (arXiv 2022.05) Cross-subject Action Unit Detection with Meta Learning and Transformer-based Relation Modeling, [[Paper]](https://arxiv.org/pdf/2205.08787.pdf)
 - (arXiv 2022.05) Cross-Enhancement Transformer for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2205.09445.pdf)
+- (arXiv 2022.05) Efficient U-Transformer with Boundary-Aware Loss for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2205.13425.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -373,6 +374,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Inception Transformer, [[Paper]](https://arxiv.org/pdf/2205.12956.pdf), [[Code]](https://github.com/sail-sg/iFormer)
 - (arXiv 2022.05) MoCoViT: Mobile Convolutional Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.12635.pdf), [[Code]](https://github.com/sail-sg/iFormer)
 - (arXiv 2022.05) Breaking the Chain of Gradient Leakage in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.12551.pdf), [[Code]](https://github.com/sail-sg/iFormer)
+- (arXiv 2022.05) Hierarchical Vision Transformer for Masked Image Modeling, [[Paper]](https://arxiv.org/pdf/2205.13515.pdf), [[Code]](https://github.com/LayneH/GreenMIM)
+- (arXiv 2022.05) Fast Vision Transformers with HiLo Attention, [[Paper]](https://arxiv.org/pdf/2205.13213.pdf), [[Code]](https://github.com/zip-group/LITv2)
+- (arXiv 2022.05) AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition, [[Paper]](https://arxiv.org/pdf/2205.13535.pdf), [[Code]](http://www.shoufachen.com/adaptformer-page)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -1603,6 +1607,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Self-Driving Car Steering Angle Prediction: Let Transformer Be a Car Again, [[Paper]](https://arxiv.org/pdf/2204.12748.pdf)
 - (arXiv 2022.05) Where in the World is this Image? Transformer-based Geo-localization in the Wild, [[Paper]](https://arxiv.org/pdf/2204.13861.pdf)
 - (arXiv 2022.05) Synthesized Speech Detection Using Convolutional Transformer-Based Spectrogram Analysis, [[Paper]](https://arxiv.org/pdf/2205.01800.pdf)
+- (arXiv 2022.05) SwinVRNN: A Data-Driven Ensemble Forecasting Model via Learned Distribution Perturbation, [[Paper]](https://arxiv.org/pdf/2205.13158.pdf)
 
 ## Contact & Feedback
 
