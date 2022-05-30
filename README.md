@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/27
+**Last updated: 2022/05/30
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -94,6 +94,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Cross-subject Action Unit Detection with Meta Learning and Transformer-based Relation Modeling, [[Paper]](https://arxiv.org/pdf/2205.08787.pdf)
 - (arXiv 2022.05) Cross-Enhancement Transformer for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2205.09445.pdf)
 - (arXiv 2022.05) Efficient U-Transformer with Boundary-Aware Loss for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2205.13425.pdf)
+- (arXiv 2022.05) Future Transformer for Long-term Action Anticipation, [[Paper]](https://arxiv.org/pdf/2205.14022.pdf), [[Code]](http://cvlab.postech.ac.kr/research/FUTR)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2106.03801.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -377,6 +378,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Hierarchical Vision Transformer for Masked Image Modeling, [[Paper]](https://arxiv.org/pdf/2205.13515.pdf), [[Code]](https://github.com/LayneH/GreenMIM)
 - (arXiv 2022.05) Fast Vision Transformers with HiLo Attention, [[Paper]](https://arxiv.org/pdf/2205.13213.pdf), [[Code]](https://github.com/zip-group/LITv2)
 - (arXiv 2022.05) AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition, [[Paper]](https://arxiv.org/pdf/2205.13535.pdf), [[Code]](http://www.shoufachen.com/adaptformer-page)
+- (arXiv 2022.05) X-ViT: High Performance Linear Vision Transformer without Softmax, [[Paper]](https://arxiv.org/pdf/2205.13805.pdf)
+- (arXiv 2022.05) Architecture-Agnostic Masked Image Modeling – From ViT back to CNN, [[Paper]](https://arxiv.org/pdf/2205.13805.pdf), [[Code]](http://www.shoufachen.com/adaptformer-page)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -671,6 +674,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
 - (arXiv 2022.05) Knowledge Distillation via the Target-aware Transformer, [[Paper]](https://arxiv.org/pdf/2205.10793.pdf)
+- (arXiv 2022.05) Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation, [[Paper]](https://arxiv.org/pdf/2205.14141.pdf), [[Code]](https://github.com/SwinTransformer/Feature-Distillation)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -940,6 +944,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Transformer-based Cross-Modal Recipe Embeddings with Large Batch Training, [[Paper]](https://arxiv.org/pdf/2205.04948.pdf)
 - (arXiv 2022.05) MulT: An End-to-End Multitask Learning Transformer, [[Paper]](https://arxiv.org/pdf/2205.08303.pdf)), [[Project]](https://ivrl.github.io/MulT/)
 - (arXiv 2022.05) Training Vision-Language Transformers from Captions Alone, [[Paper]](https://arxiv.org/pdf/2205.09256.pdf), [[Code]](https://github.com/guilk/VLC)
+- (arXiv 2022.05) GIT: A Generative Image-to-text Transformer for Vision and Language, [[Paper]](https://arxiv.org/pdf/2205.14100.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
