@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/30
+**Last updated: 2022/05/31
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -1066,6 +1066,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Panoptic-PHNet: Towards Real-Time and High-Precision LiDAR Panoptic Segmentation via Clustering Pseudo Heatmap, [[Paper]](https://arxiv.org/pdf/2205.07002.pdf)
 - (arXiv 2022.04) VNT-Net: Rotational Invariant Vector Neuron Transformers, [[Paper]](https://arxiv.org/pdf/2205.09690.pdf)
 - (arXiv 2022.05) Towards Model Generalization for Monocular 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2205.11664.pdf)
+- (arXiv 2022.05) CompleteDT: Point Cloud Completion with Dense Augment Inference Transformers, [[Paper]](https://arxiv.org/pdf/2205.14999.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1239,6 +1240,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Self-supervised Vision Transformers for Joint SAR-optical Representation Learning, [[Paper]](https://arxiv.org/pdf/2204.05381.pdf)
 - (arXiv 2022.05) UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog, [[Paper]](https://arxiv.org/pdf/2205.00423.pdf)
 - (arXiv 2022.05) Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality, [[Paper]](https://arxiv.org/pdf/2205.10063.pdf), [[Code]](https://github.com/implus/UM-MAE)
+- (arXiv 2022.05) Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks, [[Paper]](https://arxiv.org/pdf/2205.15173.pdf), [[Code]](https://github.com/implus/UM-MAE)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
