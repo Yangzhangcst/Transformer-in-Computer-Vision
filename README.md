@@ -141,6 +141,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Quantifying Societal Bias Amplification in Image Captioning, [[Paper]](https://arxiv.org/pdf/2203.15395.pdf)
 - (arXiv 2022.04) Image Captioning In the Transformer Age, [[Paper]](https://arxiv.org/pdf/2204.07374.pdf)
 - (arXiv 2022.05) Dual-Level Decoupled Transformer for Video Captioning, [[Paper]](https://arxiv.org/pdf/2205.03039.pdf)
+- (arXiv 2022.05) Variational Transformer: A Framework Beyond the Trade-off between Accuracy and Diversity for Image Captioning, [[Paper]](https://arxiv.org/pdf/2205.14458.pdf), [[Code]](https://github.com/kaelsunkiller/VaT)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -380,6 +381,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition, [[Paper]](https://arxiv.org/pdf/2205.13535.pdf), [[Code]](http://www.shoufachen.com/adaptformer-page)
 - (arXiv 2022.05) X-ViT: High Performance Linear Vision Transformer without Softmax, [[Paper]](https://arxiv.org/pdf/2205.13805.pdf)
 - (arXiv 2022.05) Architecture-Agnostic Masked Image Modeling – From ViT back to CNN, [[Paper]](https://arxiv.org/pdf/2205.13805.pdf), [[Code]](http://www.shoufachen.com/adaptformer-page)
+- (arXiv 2022.05) HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling, [[Paper]](https://arxiv.org/pdf/2205.14949.pdf)
+- (arXiv 2022.05) EfficientViT: Enhanced Linear Attention for High-Resolution Low-Computation Visual Recognition, [[Paper]](https://arxiv.org/pdf/2205.14756.pdf), [[Code]](https://tinyml.mit.edu/)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -645,7 +648,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Multiscale Convolutional Transformer with Center Mask Pretraining for Hyperspectral Image Classificationtion, [[Paper]](https://arxiv.org/pdf/2203.04771.pdf)
 - (arXiv 2022.03) Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2203.04845.pdf)
 - (arXiv 2022.03) Deep Hyperspectral Unmixing using Transformer Network, [[Paper]](https://arxiv.org/pdf/2203.17076.pdf), [[Code]](https://github.com/preetam22n/DeepTrans-HSU)
-- (arXiv 2022.04) MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction, [[Paper]](https://arxiv.org/pdf/2204.07908.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
+- (arXiv 2022.04) MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction, [[Paper]](https://arxiv.org/pdf/2204.07908.pdf), [[Code]](https://github.com/cuiziteng/IlluminationAdaptive-Transformer)
+
+### Illumination
+- (arXiv 2022.05) Illumination Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
 
 ### Incremental Learning
 - (arXiv 2021.12) Improving Vision Transformers for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2112.06103.pdf)
@@ -841,6 +847,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) BabyNet: Residual Transformer Module for Birth Weight Prediction on Fetal Ultrasound Video, [[Paper]](https://arxiv.org/pdf/2205.09382.pdf),[[Code]](https://github.com/SanoScience/BabyNet)
 - (arXiv 2022.05) Transformer based Generative Adversarial Network for Liver Segmentation, [[Paper]](https://arxiv.org/pdf/2205.10663.pdf)
 - (arXiv 2022.05) A Comparative Study of Gastric Histopathology Sub-size Image Classification: from Linear Regression to Visual Transformer, [[Paper]](https://arxiv.org/pdf/2205.12843.pdf),[[Code]](https://github.com/SanoScience/BabyNet)
+- (arXiv 2022.05) Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.15290.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -945,11 +952,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) MulT: An End-to-End Multitask Learning Transformer, [[Paper]](https://arxiv.org/pdf/2205.08303.pdf)), [[Project]](https://ivrl.github.io/MulT/)
 - (arXiv 2022.05) Training Vision-Language Transformers from Captions Alone, [[Paper]](https://arxiv.org/pdf/2205.09256.pdf), [[Code]](https://github.com/guilk/VLC)
 - (arXiv 2022.05) GIT: A Generative Image-to-text Transformer for Vision and Language, [[Paper]](https://arxiv.org/pdf/2205.14100.pdf)
+- (arXiv 2022.05) Multi-Task Learning with Multi-query Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2205.14354.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
 - (arXiv 2021.12) Multi-View Stereo with Transformer, [[Paper]](https://arxiv.org/pdf/2112.00336.pdf)
 - (arXiv 2022.04) MVSTER: Epipolar Transformer for Efficient Multi-View Stereo, [[Paper]](https://arxiv.org/pdf/2204.07346.pdf), [[Code]](https://github.com/JeffWang987)
+- (arXiv 2022.05) WT-MVSNet: Window-based Transformers for Multi-view Stereo, [[Paper]](https://arxiv.org/pdf/2205.14319.pdf), [[Code]](https://github.com/JeffWang987)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -1140,6 +1149,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) HEAT: Holistic Edge Attention Transformer for Structured Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.15143.pdf)
 - (arXiv 2021.12) VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion, [[Paper]](https://arxiv.org/pdf/2112.00236.pdf), [[Code]](https://noahstier.github.io/vortx/)
 - (arXiv 2022.03) RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers, [[Paper]](https://arxiv.org/pdf/2203.13296.pdf)
+- (arXiv 2022.05) 3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2205.14575.pdf)
 
 ### Registration
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
@@ -1241,6 +1251,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog, [[Paper]](https://arxiv.org/pdf/2205.00423.pdf)
 - (arXiv 2022.05) Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality, [[Paper]](https://arxiv.org/pdf/2205.10063.pdf), [[Code]](https://github.com/implus/UM-MAE)
 - (arXiv 2022.05) Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks, [[Paper]](https://arxiv.org/pdf/2205.15173.pdf), [[Code]](https://github.com/implus/UM-MAE)
+- (arXiv 2022.05) A Closer Look at Self-supervised Lightweight Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.14443.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
