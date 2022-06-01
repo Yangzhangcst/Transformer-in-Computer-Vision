@@ -1371,6 +1371,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) MeMOT: Multi-Object Tracking with Memory, [[Paper]](https://arxiv.org/pdf/2203.16761.pdf)
 - (arXiv 2022.05) SparseTT: Visual Tracking with Sparse Transformers, [[Paper]](https://arxiv.org/pdf/2205.03776.pdf), [[Code]](https://github.com/fzh0917/SparseTT)
 - (arXiv 2022.05) Transformer Tracking with Cyclic Shifting Window Attention, [[Paper]](https://arxiv.org/pdf/2205.03806.pdf), [[Code]](https://github.com/SkyeSong38/CSWinTT)
+- (arXiv 2022.05) Transformers for Multi-Object Tracking on Point Clouds, [[Paper]](https://arxiv.org/pdf/2205.15730.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
