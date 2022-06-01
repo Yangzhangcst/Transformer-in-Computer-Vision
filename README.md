@@ -592,6 +592,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2203.09064.pdf), [[Code]](https://github.com/StomachCold/HCTransformers)
 - (arXiv 2022.04) CATrans: Context and Affinity Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2204.12817.pdf)
 - (arXiv 2022.05) Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2205.09995.pdf)
+- (arXiv 2022.05) Few-Shot Diffusion Models, [[Paper]](https://arxiv.org/pdf/2205.15463.pdf)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -1077,6 +1078,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) VNT-Net: Rotational Invariant Vector Neuron Transformers, [[Paper]](https://arxiv.org/pdf/2205.09690.pdf)
 - (arXiv 2022.05) Towards Model Generalization for Monocular 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2205.11664.pdf)
 - (arXiv 2022.05) CompleteDT: Point Cloud Completion with Dense Augment Inference Transformers, [[Paper]](https://arxiv.org/pdf/2205.14999.pdf)
+- (arXiv 2022.05) TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2205.15997.pdf), [[Code]](https://github.com/autonomousvision/transfuser)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1337,11 +1339,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/pdf/2111.03481.pdf)
 - (arXiv 2022.02) MaskGIT: Masked Generative Image Transformer, [[Paper]](https://arxiv.org/pdf/2202.04200.pdf)
 
-### Text-to-Image
+### Text-to-Image/Video
 - (arXiv 2021.01) VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search, [[Paper]](https://arxiv.org/abs/2101.00265)
 - (arXiv 2021.05) CogView: Mastering Text-to-Image Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2105.13290.pdf)
 - (arXiv 2022.02) DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf),[[Code]](https://github.com/j-min/DallEval)
 - (arXiv 2022.05) CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers, [[Paper]](https://arxiv.org/pdf/2204.14217.pdf),[[Code]](https://github.com/THUDM/CogView2)
+- (arXiv 2022.05) CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2205.15868.pdf),[[Code]](https://github.com/THUDM/CogVideo)
 
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
@@ -1631,6 +1634,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Where in the World is this Image? Transformer-based Geo-localization in the Wild, [[Paper]](https://arxiv.org/pdf/2204.13861.pdf)
 - (arXiv 2022.05) Synthesized Speech Detection Using Convolutional Transformer-Based Spectrogram Analysis, [[Paper]](https://arxiv.org/pdf/2205.01800.pdf)
 - (arXiv 2022.05) SwinVRNN: A Data-Driven Ensemble Forecasting Model via Learned Distribution Perturbation, [[Paper]](https://arxiv.org/pdf/2205.13158.pdf)
+- (arXiv 2022.05) SymFormer: End-to-end symbolic regression using transformer-based architecture, [[Paper]](https://arxiv.org/pdf/2205.15764.pdf)
+- (arXiv 2022.05) Surface Analysis with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.15836.pdf)
 
 ## Contact & Feedback
 
