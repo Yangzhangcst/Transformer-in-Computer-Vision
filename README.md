@@ -118,6 +118,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Bird's-Eye-View
 - (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
+- (arXiv 2022.05) ViT-BEVSeg: A Hierarchical Transformer Network for Monocular Birds-Eye-View Segmentation, [[Paper]](https://arxiv.org/pdf/2205.15667.pdf), [[Code]](https://github.com/robotvisionmu/ViT-BEVSeg)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
