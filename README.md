@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/05/31
+**Last updated: 2022/06/01
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -1150,6 +1150,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion, [[Paper]](https://arxiv.org/pdf/2112.00236.pdf), [[Code]](https://noahstier.github.io/vortx/)
 - (arXiv 2022.03) RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers, [[Paper]](https://arxiv.org/pdf/2203.13296.pdf)
 - (arXiv 2022.05) 3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2205.14575.pdf)
+- (arXiv 2022.05) HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER, [[Paper]](https://arxiv.org/pdf/2205.15448.pdf)
 
 ### Registration
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
@@ -1372,6 +1373,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) SparseTT: Visual Tracking with Sparse Transformers, [[Paper]](https://arxiv.org/pdf/2205.03776.pdf), [[Code]](https://github.com/fzh0917/SparseTT)
 - (arXiv 2022.05) Transformer Tracking with Cyclic Shifting Window Attention, [[Paper]](https://arxiv.org/pdf/2205.03806.pdf), [[Code]](https://github.com/SkyeSong38/CSWinTT)
 - (arXiv 2022.05) Transformers for Multi-Object Tracking on Point Clouds, [[Paper]](https://arxiv.org/pdf/2205.15730.pdf)
+- (arXiv 2022.05) Joint Spatial-Temporal and Appearance Modeling with Transformer for Multiple Object Tracking, [[Paper]](https://arxiv.org/pdf/2205.15495.pdf), [[Code]](https://github.com/icicle4/TranSTAM)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -1484,6 +1486,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Deformable Video Transformer, [[Paper]](https://arxiv.org/pdf/2203.16795.pdf)
 - (arXiv 2022.04) Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer, [[Paper]](https://arxiv.org/pdf/2204.03638.pdf), [[Code]](https://songweige.github.io/projects/tats/index.html)
 - (arXiv 2022.05) Video Frame Interpolation with Transformer, [[Paper]](https://arxiv.org/pdf/2205.07230.pdf), [[Code]](https://github.com/dvlab-research/VFIformer)
+- (arXiv 2022.05) TubeFormer-DeepLab: Video Mask Transformer, [[Paper]](https://arxiv.org/pdf/2205.15361.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
