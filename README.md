@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/01
+**Last updated: 2022/06/02
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -850,6 +850,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Transformer based Generative Adversarial Network for Liver Segmentation, [[Paper]](https://arxiv.org/pdf/2205.10663.pdf)
 - (arXiv 2022.05) A Comparative Study of Gastric Histopathology Sub-size Image Classification: from Linear Regression to Visual Transformer, [[Paper]](https://arxiv.org/pdf/2205.12843.pdf),[[Code]](https://github.com/SanoScience/BabyNet)
 - (arXiv 2022.05) Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.15290.pdf)
+- (arXiv 2022.06) The Fully Convolutional Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2206.00566.pdf),[[Code]](https://github.com/Thanos-DB/FullyConvolutionalTransformer)
+- (arXiv 2022.06) CellCentroidFormer: Combining Self-attention and Convolution for Cell Detection, [[Paper]](https://arxiv.org/pdf/2206.00338.pdf),[[Code]](https://github.com/roydenwa/cell-centroid-former)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1115,6 +1117,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) YOLOPose: Transformer-based Multi-Object 6D Pose Estimation using Keypoint Regression, [[Paper]](https://arxiv.org/pdf/2205.02536.pdf)
 - (arXiv 2022.05) AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation, [[Paper]](https://arxiv.org/pdf/2205.05277.pdf), [[Code]](https://github.com/SZAR-LAB/AggPose)
 - (arXiv 2022.05) VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2205.12602.pdf)
+- (arXiv 2022.05) Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation, [[Paper]](https://arxiv.org/pdf/2206.00171.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -1154,6 +1157,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers, [[Paper]](https://arxiv.org/pdf/2203.13296.pdf)
 - (arXiv 2022.05) 3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2205.14575.pdf)
 - (arXiv 2022.05) HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER, [[Paper]](https://arxiv.org/pdf/2205.15448.pdf)
+- (arXiv 2022.06) Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades, [[Paper]](https://arxiv.org/pdf/2206.00645.pdf)
 
 ### Registration
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
@@ -1404,6 +1408,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Safe Self-Refinement for Transformer-based Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2204.07683.pdf), [[Code]](https://github.com/tsun/SSRT)
 - (arXiv 2022.05) Improving Transferability for Domain Adaptive Detection Transformers, [[Paper]](https://arxiv.org/pdf/2204.14195.pdf), [[Code]](https://github.com/tsun/SSRT)
 - (arXiv 2022.05) Cross-Domain Object Detection with Mean-Teacher Transformer, [[Paper]](https://arxiv.org/pdf/2205.01643.pdf)
+- (arXiv 2022.06) Cross-domain Detection Transformer based on Spatial-aware and Semantic-aware Token Alignment, [[Paper]](https://arxiv.org/pdf/2206.00222.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
@@ -1521,6 +1526,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Voxel
 - (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
 - (arXiv 2021.09) Voxel Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.02497.pdf)
+- (arXiv 2022.06) Unifying Voxel-based Representation with Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2206.00630.pdf), [[Code]](https://github.com/dvlab-research/UVTR)
 
 ### Weakly Supervised Learning
 - (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
