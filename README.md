@@ -1260,6 +1260,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Uniform Masking: Enabling MAE Pre-training for Pyramid-based Vision Transformers with Locality, [[Paper]](https://arxiv.org/pdf/2205.10063.pdf), [[Code]](https://github.com/implus/UM-MAE)
 - (arXiv 2022.05) Self-Supervised Pre-training of Vision Transformers for Dense Prediction Tasks, [[Paper]](https://arxiv.org/pdf/2205.15173.pdf), [[Code]](https://github.com/implus/UM-MAE)
 - (arXiv 2022.05) A Closer Look at Self-supervised Lightweight Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.14443.pdf)
+- (arXiv 2022.06) Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.00481.pdf), [[Code]](https://github.com/guglielmocamporese/relvit)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
