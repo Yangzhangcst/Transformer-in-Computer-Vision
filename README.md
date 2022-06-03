@@ -540,6 +540,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
+- (arXiv 2022.06) XBound-Former: Toward Cross-scale Boundary Modeling in Transformers, [[Paper]](https://arxiv.org/pdf/2206.00806.pdf), [[Code]](https://github.com/jcwang123/xboundformer)
 
 ### Enhancement
 - (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
@@ -856,6 +857,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) CellCentroidFormer: Combining Self-attention and Convolution for Cell Detection, [[Paper]](https://arxiv.org/pdf/2206.00338.pdf),[[Code]](https://github.com/roydenwa/cell-centroid-former)
 - (arXiv 2022.06) Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives, [[Paper]](https://arxiv.org/pdf/2206.01136.pdf)
 - (arXiv 2022.06) CVM-Cervix: A Hybrid Cervical Pap-Smear Image Classification Framework Using CNN, Visual Transformer and Multilayer Perceptron, [[Paper]](https://arxiv.org/pdf/2206.00971.pdf)
+- (arXiv 2022.06) MISSU: 3D Medical Image Segmentation via Self-distilling TransUNet, [[Paper]](https://arxiv.org/pdf/2206.00902.pdf),[[Code]](https://github.com/wangn123/MISSU.git)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
