@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/02
+**Last updated: 2022/06/03
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -384,6 +384,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Architecture-Agnostic Masked Image Modeling – From ViT back to CNN, [[Paper]](https://arxiv.org/pdf/2205.13805.pdf), [[Code]](http://www.shoufachen.com/adaptformer-page)
 - (arXiv 2022.05) HiViT: Hierarchical Vision Transformer Meets Masked Image Modeling, [[Paper]](https://arxiv.org/pdf/2205.14949.pdf)
 - (arXiv 2022.05) EfficientViT: Enhanced Linear Attention for High-Resolution Low-Computation Visual Recognition, [[Paper]](https://arxiv.org/pdf/2205.14756.pdf), [[Code]](https://tinyml.mit.edu/)
+- (arXiv 2022.06) EfficientFormer: Vision Transformers at MobileNet Speed, [[Paper]](https://arxiv.org/pdf/2206.01191.pdf), [[Code]](https://github.com/snap-research/EfficientFormer)
+- (arXiv 2022.06) Optimizing Relevance Maps of Vision Transformers Improves Robustness, [[Paper]](https://arxiv.org/pdf/2206.01161.pdf), [[Code]](https://github.com/hila-chefer/RobustViT)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -852,6 +854,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Zero-Shot and Few-Shot Learning for Lung Cancer Multi-Label Classification using Vision Transformer, [[Paper]](https://arxiv.org/pdf/2205.15290.pdf)
 - (arXiv 2022.06) The Fully Convolutional Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2206.00566.pdf),[[Code]](https://github.com/Thanos-DB/FullyConvolutionalTransformer)
 - (arXiv 2022.06) CellCentroidFormer: Combining Self-attention and Convolution for Cell Detection, [[Paper]](https://arxiv.org/pdf/2206.00338.pdf),[[Code]](https://github.com/roydenwa/cell-centroid-former)
+- (arXiv 2022.06) Transforming medical imaging with Transformers? A comparative review of key properties, current progresses, and future perspectives, [[Paper]](https://arxiv.org/pdf/2206.01136.pdf)
+- (arXiv 2022.06) CVM-Cervix: A Hybrid Cervical Pap-Smear Image Classification Framework Using CNN, Visual Transformer and Multilayer Perceptron, [[Paper]](https://arxiv.org/pdf/2206.00971.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -957,6 +961,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Training Vision-Language Transformers from Captions Alone, [[Paper]](https://arxiv.org/pdf/2205.09256.pdf), [[Code]](https://github.com/guilk/VLC)
 - (arXiv 2022.05) GIT: A Generative Image-to-text Transformer for Vision and Language, [[Paper]](https://arxiv.org/pdf/2205.14100.pdf)
 - (arXiv 2022.05) Multi-Task Learning with Multi-query Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2205.14354.pdf)
+- (arXiv 2022.06) VL-BEIT: Generative Vision-Language Pretraining, [[Paper]](https://arxiv.org/pdf/2206.01127.pdf), [[Code]](https://github.com/microsoft/unilm)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
