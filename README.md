@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/03
+**Last updated: 2022/06/06
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -103,6 +103,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
 - (arXiv 2021.04) Inpainting Transformer for Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2104.13897.pdf)
 - (arXiv 2022.03) AnoViT: Unsupervised Anomaly Detection and Localization with Vision Transformer-based Encoder-Decoder, [[Paper]](https://arxiv.org/pdf/2203.10808.pdf)
+- (arXiv 2022.06) Anomaly detection in surveillance videos using transformer based attention model, [[Paper]](https://arxiv.org/pdf/2206.01524.pdf), [[Code]](https://github.com/kapildeshpande/Anomaly-Detection-in-Surveillance-Videos)
 
 ### Assessment
 - (arXiv 2021.01) Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
@@ -619,6 +620,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Gait
 - (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
+- (arXiv 2022.06) Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition, [[Paper]](https://arxiv.org/pdf/2206.01441.pdf)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
