@@ -869,6 +869,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Patcher: Patch Transformers with Mixture of Experts for Precise Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2206.01741.pdf)
 - (arXiv 2022.06) Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation, [[Paper]](https://arxiv.org/pdf/2206.01988.pdf)
 - (arXiv 2022.06) Siamese Encoder-based Spatial-Temporal Mixer for Growth Trend Prediction of Lung Nodules on CT Scans, [[Paper]](https://arxiv.org/pdf/2206.03049.pdf),[[Code]](https://github.com/liaw05/STMixer)
+- (arXiv 2022.06) Transformer-based Personalized Attention Mechanism (PersAM) for Medical Images with Clinical Records, [[Paper]](https://arxiv.org/pdf/2206.03003.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
