@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/07
+**Last updated: 2022/06/08
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -541,10 +541,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Transformer-based out-of-distribution detection for clinically safe segmentation, [[Paper]](https://arxiv.org/pdf/2205.10650.pdf)
 - (arXiv 2022.05) AO2-DETR: Arbitrary-Oriented Object Detection Transformer, [[Paper]](https://arxiv.org/pdf/2205.12785.pdf),[[Code]](https://github.com/Ixiaohuihuihui)
 - (arXiv 2022.06) Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2206.02777.pdf),[[Code]](https://github.com/IDEACVR/MaskDINO)
+- (arXiv 2022.06) DETR++: Taming Your Multi-Scale Detection Transformer, [[Paper]](https://arxiv.org/pdf/2206.02977.pdf),[[Code]](https://github.com/IDEACVR/MaskDINO)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
 - (arXiv 2022.06) XBound-Former: Toward Cross-scale Boundary Modeling in Transformers, [[Paper]](https://arxiv.org/pdf/2206.00806.pdf), [[Code]](https://github.com/jcwang123/xboundformer)
+- (arXiv 2022.06) Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.02985.pdf)
 
 ### Enhancement
 - (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
@@ -866,6 +868,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) mmFormer: Multimodal Medical Transformer for Incomplete Multimodal Learning of Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2206.02425.pdf),[[Code]](https://github.com/YaoZhang93/mmFormer)
 - (arXiv 2022.06) Patcher: Patch Transformers with Mixture of Experts for Precise Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2206.01741.pdf)
 - (arXiv 2022.06) Cross-modal Clinical Graph Transformer for Ophthalmic Report Generation, [[Paper]](https://arxiv.org/pdf/2206.01988.pdf)
+- (arXiv 2022.06) Siamese Encoder-based Spatial-Temporal Mixer for Growth Trend Prediction of Lung Nodules on CT Scans, [[Paper]](https://arxiv.org/pdf/2206.03049.pdf),[[Code]](https://github.com/liaw05/STMixer)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1096,6 +1099,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Towards Model Generalization for Monocular 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2205.11664.pdf)
 - (arXiv 2022.05) CompleteDT: Point Cloud Completion with Dense Augment Inference Transformers, [[Paper]](https://arxiv.org/pdf/2205.14999.pdf)
 - (arXiv 2022.05) TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2205.15997.pdf), [[Code]](https://github.com/autonomousvision/transfuser)
+- (arXiv 2022.06) SpikiLi: A Spiking Simulation of LiDAR based Real-time Object Detection for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2206.02876.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1239,6 +1243,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2203.10785.pdf)
 - (arXiv 2022.03) Unsupervised Salient Object Detection with Spectral Cluster Voting, [[Paper]](https://arxiv.org/pdf/2203.12614.pdf), [[Code]](https://github.com/NoelShin/selfmask)
 - (arXiv 2022.05) SelfReformer: Self-Refined Network with Transformer for Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2205.11283.pdf)
+- (arXiv 2022.06) Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2206.03105.pdf)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
