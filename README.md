@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/08
+**Last updated: 2022/06/09
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -1520,6 +1520,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Video Frame Interpolation with Transformer, [[Paper]](https://arxiv.org/pdf/2205.07230.pdf), [[Code]](https://github.com/dvlab-research/VFIformer)
 - (arXiv 2022.05) TubeFormer-DeepLab: Video Mask Transformer, [[Paper]](https://arxiv.org/pdf/2205.15361.pdf)
 - (arXiv 2022.06) Recurrent Video Restoration Transformer with Guided Deformable Attention, [[Paper]](https://arxiv.org/pdf/2206.02146.pdf), [[Code]](https://github.com/JingyunLiang/RVRT)
+- (arXiv 2022.06) Patch-based Object-centric Transformers for Efficient Video Generation, [[Paper]](https://arxiv.org/pdf/2206.04003.pdf), [[Code]](https://sites.google.com/view/povt-public)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
