@@ -981,6 +981,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) GIT: A Generative Image-to-text Transformer for Vision and Language, [[Paper]](https://arxiv.org/pdf/2205.14100.pdf)
 - (arXiv 2022.05) Multi-Task Learning with Multi-query Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2205.14354.pdf)
 - (arXiv 2022.06) VL-BEIT: Generative Vision-Language Pretraining, [[Paper]](https://arxiv.org/pdf/2206.01127.pdf), [[Code]](https://github.com/microsoft/unilm)
+- (arXiv 2022.06) AntPivot: Livestream Highlight Detection via Hierarchical Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2206.04888.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
