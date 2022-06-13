@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/10
+**Last updated: 2022/06/13
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -1292,6 +1292,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) A Closer Look at Self-supervised Lightweight Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.14443.pdf)
 - (arXiv 2022.06) Where are my Neighbors? Exploiting Patches Relations in Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.00481.pdf), [[Code]](https://github.com/guglielmocamporese/relvit)
 - (arXiv 2022.06) Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning, [[Paper]](https://arxiv.org/pdf/2206.02647.pdf), [[Code]](https://github.com/mahmoodlab/HIPT)
+- (arXiv 2022.06) Exploring Feature Self-relation for Self-supervised Transformer, [[Paper]](https://arxiv.org/pdf/2206.05184.pdf)
+- (arXiv 2022.06) Position Labels for Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.04981.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
