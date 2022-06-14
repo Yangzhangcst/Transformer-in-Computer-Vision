@@ -1689,6 +1689,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Surface Analysis with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2205.15836.pdf)
 - (arXiv 2022.06) Draft-and-Revise: Effective Image Generation with Contextual RQ-Transformer, [[Paper]](https://arxiv.org/pdf/2206.04452.pdf)
 - (arXiv 2022.06) Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2206.05712.pdf), [[Code]](https://github.com/Jacobieee/ST-MR)
+- (arXiv 2022.06) Learning to Estimate Shapley Values with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.05282.pdf)
 
 ## Contact & Feedback
 
