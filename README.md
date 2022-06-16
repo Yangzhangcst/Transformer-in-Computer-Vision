@@ -396,6 +396,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Separable Self-attention for Mobile Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.02680.pdf), [[Code]](https://github.com/apple/ml-cvnets)
 - (arXiv 2022.06) Spatial Entropy Regularization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.04636.pdf)
 - (arXiv 2022.06) Peripheral Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.06801.pdf), [[Code]](http://cvlab.postech.ac.kr/research/PerViT/)
+- (arXiv 2022.06) SP-ViT: Learning 2D Spatial Priors for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.07662.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -413,6 +414,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Vision Transformer Compression with Structured Pruning and Low Rank Approximation, [[Paper]](https://arxiv.org/pdf/2203.13444.pdf)
 - (arXiv 2022.04) Searching Intrinsic Dimensions of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.07722.pdf)
 - (arXiv 2022.04) Degradation-Aware Unfolding Half-Shuffle Transformer for Spectral Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2205.10102.pdf)
+- (arXiv 2022.06) VCT: A Video Compression Transformer, [[Paper]](https://arxiv.org/pdf/2206.07307.pdf), [[Code]](https://github.com/google-research/google-research/tree/master/vct)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -451,6 +453,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Depth Estimation with Simplified Transformer, [[Paper]](https://arxiv.org/pdf/2204.13791.pdf)
 - (arXiv 2022.05) MonoFormer: Towards Generalization of self-supervised monocular depth estimation with Transformers, [[Paper]](https://arxiv.org/pdf/2205.11083.pdf)
 - (arXiv 2022.06) SparseFormer: Attention-based Depth Completion Network, [[Paper]](https://arxiv.org/pdf/2206.04557.pdf)
+- (arXiv 2022.06) Forecasting of depth and ego-motion with transformers and self-supervision, [[Paper]](https://arxiv.org/pdf/2206.07435.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -888,6 +891,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Transformer Lesion Tracker, [[Paper]](https://arxiv.org/pdf/2206.06252.pdf),[[Code]](https://github.com/TangWen920812/TLT)
 - (arXiv 2022.06) SeATrans: Learning Segmentation-Assisted diagnosis model via Transforme, [[Paper]](https://arxiv.org/pdf/2206.05763.pdf)
 - (arXiv 2022.06) K-Space Transformer for Fast MRIReconstruction with Implicit Representation, [[Paper]](https://arxiv.org/pdf/2206.06947.pdf),[[Code]](https://zhaoziheng.github.io/Website/K-Space-Transformer)
+- (arXiv 2022.06) XMorpher: Full Transformer for Deformable Medical Image Registration via Cross Attention, [[Paper]](https://arxiv.org/pdf/2206.07349.pdf),[[Code]](https://github.com/Solemoon/XMorpher)
+- (arXiv 2022.06) A Projection-Based K-space Transformer Network for Undersampled Radial MRI Reconstruction with Limited Training Subjects, [[Paper]](https://arxiv.org/pdf/2206.07219.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -995,6 +1000,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Multi-Task Learning with Multi-query Transformer for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2205.14354.pdf)
 - (arXiv 2022.06) VL-BEIT: Generative Vision-Language Pretraining, [[Paper]](https://arxiv.org/pdf/2206.01127.pdf), [[Code]](https://github.com/microsoft/unilm)
 - (arXiv 2022.06) AntPivot: Livestream Highlight Detection via Hierarchical Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2206.04888.pdf)
+- (arXiv 2022.06) A Unified Sequence Interface for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2206.07669.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
