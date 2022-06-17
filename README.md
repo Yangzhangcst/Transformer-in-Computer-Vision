@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/16
+**Last updated: 2022/06/17
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -1001,6 +1001,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) VL-BEIT: Generative Vision-Language Pretraining, [[Paper]](https://arxiv.org/pdf/2206.01127.pdf), [[Code]](https://github.com/microsoft/unilm)
 - (arXiv 2022.06) AntPivot: Livestream Highlight Detection via Hierarchical Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2206.04888.pdf)
 - (arXiv 2022.06) A Unified Sequence Interface for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2206.07669.pdf)
+- (arXiv 2022.06) Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos, [[Paper]](https://arxiv.org/pdf/2206.07981.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1316,6 +1317,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning, [[Paper]](https://arxiv.org/pdf/2206.02647.pdf), [[Code]](https://github.com/mahmoodlab/HIPT)
 - (arXiv 2022.06) Exploring Feature Self-relation for Self-supervised Transformer, [[Paper]](https://arxiv.org/pdf/2206.05184.pdf)
 - (arXiv 2022.06) Position Labels for Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.04981.pdf)
+- (arXiv 2022.06) Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency, [[Paper]](https://arxiv.org/pdf/2206.08222.pdf), [[Code]](https://github.com/virajprabhu/PACMAC)
+- (arXiv 2022.06) Patch-level Representation Learning for Self-supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.07990.pdf), [[Code]](https://github.com/alinlab/SelfPatch)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
