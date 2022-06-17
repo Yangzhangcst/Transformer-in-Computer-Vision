@@ -665,6 +665,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2204.04836.pdf), [[Code]](https://github.com/mlvlab/CPChoi)
 - (arXiv 2022.04) Human-Object Interaction Detection via Disentangled Transformer, [[Paper]](https://arxiv.org/pdf/2204.09290.pdf)
 - (arXiv 2022.06) Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2206.06291.pdf), [[Code]](https://github.com/zyong812/STIP)
+- (arXiv 2022.04) RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf) [[Code]](https://github.com/NVlabs/RelViT)
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -1575,9 +1576,11 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Transformer Module Networks for Systematic Generalization in Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf)
 - (arXiv 2022.01) Towards Efficient and Elastic Visual Question Answering with Doubly Slimmable Transformer, [[Paper]](https://arxiv.org/pdf/2203.12814.pdf)
 - (arXiv 2022.04) Hypergraph Transformer: Weakly-supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2204.10448.pdf), [[Code]](https://github.com/yujungheo/kbvqa-public)
+- (arXiv 2022.04) RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf) [[Code]](https://github.com/NVlabs/RelViT)
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
+- (arXiv 2022.04) RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf) [[Code]](https://github.com/NVlabs/RelViT)
 
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
@@ -1693,7 +1696,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Event Transformer, [[Paper]](https://arxiv.org/pdf/2204.05172.pdf)
 - (arXiv 2022.04) Residual Swin Transformer Channel Attention Network for Image Demosaicing, [[Paper]](https://arxiv.org/pdf/2204.07098.pdf)
 - (arXiv 2022.04) Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer, [[Paper]](https://arxiv.org/pdf/2204.08680.pdf)
-- (arXiv 2022.04) RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf)
+- (arXiv 2022.04) RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf) [[Code]](https://github.com/NVlabs/RelViT)
 - (arXiv 2022.04) DRT: A Lightweight Single Image Deraining Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.11385.pdf)
 - (arXiv 2022.04) ClothFormer:Taming Video Virtual Try-on in All Module, [[Paper]](https://arxiv.org/pdf/2204.12151.pdf), [[Code]](https://cloth-former.github.io/)
 - (arXiv 2022.04) Deeper Insights into ViTs Robustness towards Common Corruptions, [[Paper]](https://arxiv.org/pdf/2204.12143.pdf)
