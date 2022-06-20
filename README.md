@@ -1046,6 +1046,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Neural Rendering
 - (arXiv 2022.03) ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.10157.pdf), [[Code]](https://github.com/jkulhanek/viewformer)
 - (arXiv 2022.06) Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer, [[Paper]](https://arxiv.org/pdf/2206.05375.pdf)
+- (arXiv 2022.06) IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering inIndoor Scenes, [[Paper]](https://arxiv.org/pdf/2206.08423.pdf), [[Code]](https://github.com/ViLab-UCSD/IRISformer)
 
 ### OCR
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
