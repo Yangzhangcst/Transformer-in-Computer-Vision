@@ -907,6 +907,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Rectify ViT Shortcut Learning by Visual Saliency, [[Paper]](https://arxiv.org/pdf/2206.08567.pdf)
 - (arXiv 2022.06) Neural Transformers for Intraductal Papillary Mucosal Neoplasms (IPMN) Classification in MRI images, [[Paper]](https://arxiv.org/pdf/2206.10531.pdf)
 - (arXiv 2022.06) Toward Unpaired Multi-modal Medical Image Segmentation via Learning Structured Semantic Consistency, [[Paper]](https://arxiv.org/pdf/2206.10571.pdf),[[Code]](https://github.com/YangJie18/LSSC)
+- (arXiv 2022.06) TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2206.08985.pdf),[[Code]](https://github.com/nikhilroxtomar/TransResUNet)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1101,6 +1102,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2112.02582.pdf), [[Code]](https://github.com/HarborYuan/PolyphonicFormer)
 - (arXiv 2022.04) Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation, [[Paper]](https://arxiv.org/pdf/2204.04655.pdf), [[Code]](https://github.com/lxtGH/Panoptic-PartFormer)
 - (arXiv 2022.05) CONSENT: Context Sensitive Transformer for Bold Words Classification, [[Paper]](https://arxiv.org/pdf/2205.07683.pdf)
+- (arXiv 2022.05) CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2206.08948.pdf)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
