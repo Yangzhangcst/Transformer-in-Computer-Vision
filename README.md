@@ -1385,6 +1385,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Cross-view Transformers for real-time Map-view Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2205.02833.pdf), [[Code]](https://github.com/bradyz/cross_view_transformers)
 - (arXiv 2022.05) Transformer Scale Gate for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2205.07056.pdf)
 - (arXiv 2022.06) Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2206.06363.pdf), [[Code]](https://github.com/wvangansbeke/MaskDistill)
+- (arXiv 2022.06) Semantic Labeling of High Resolution Images Using EfficientUNets and Transformers, [[Paper]](https://arxiv.org/pdf/2206.09731.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -1596,16 +1597,18 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Transformer Module Networks for Systematic Generalization in Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf)
 - (arXiv 2022.01) Towards Efficient and Elastic Visual Question Answering with Doubly Slimmable Transformer, [[Paper]](https://arxiv.org/pdf/2203.12814.pdf)
 - (arXiv 2022.04) Hypergraph Transformer: Weakly-supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2204.10448.pdf), [[Code]](https://github.com/yujungheo/kbvqa-public)
-- (arXiv 2022.06) DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2206.09853.pdf), [[Code]](https://github.com/yujungheo/kbvqa-public)
+- (arXiv 2022.06) DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2206.09265.pdf), [[Code]](https://github.com/yujungheo/kbvqa-public)
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
 - (arXiv 2022.04) RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf), [[Code]](https://github.com/NVlabs/RelViT)
+- (arXiv 2022.06) SAViR-T: Spatially Attentive Visual Reasoning with Transformers, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf)
 
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2108.00045.pdf)
 - (arXiv 2021.08) Discovering Spatial Relationships by Transformers for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2108.10046.pdf)
+- (arXiv 2022.06) VReBERT: A Simple and Flexible Transformer for Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2206.09111.pdf)
 
 ### Voxel
 - (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
