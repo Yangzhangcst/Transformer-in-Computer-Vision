@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/23
+**Last updated: 2022/06/24
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -912,6 +912,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Toward Unpaired Multi-modal Medical Image Segmentation via Learning Structured Semantic Consistency, [[Paper]](https://arxiv.org/pdf/2206.10571.pdf),[[Code]](https://github.com/YangJie18/LSSC)
 - (arXiv 2022.06) TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2206.08985.pdf),[[Code]](https://github.com/nikhilroxtomar/TransResUNet)
 - (arXiv 2022.06) SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI, [[Paper]](https://arxiv.org/pdf/2206.10802.pdf),[[Code]](https://github.com/daviddmc/SVoRT)
+- (arXiv 2022.06) ICOS Protein Expression Segmentation: Can Transformer Networks Give Better Results, [[Paper]](https://arxiv.org/pdf/2206.11520.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1585,6 +1586,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Recurrent Video Restoration Transformer with Guided Deformable Attention, [[Paper]](https://arxiv.org/pdf/2206.02146.pdf), [[Code]](https://github.com/JingyunLiang/RVRT)
 - (arXiv 2022.06) Patch-based Object-centric Transformers for Efficient Video Generation, [[Paper]](https://arxiv.org/pdf/2206.04003.pdf), [[Code]](https://sites.google.com/view/povt-public)
 - (arXiv 2022.06) Transformer-based Self-Supervised Fish Segmentation in Underwater Videos, [[Paper]](https://arxiv.org/pdf/2206.05390.pdf)
+- (arXiv 2022.06) MaskViT: Masked Visual Pre-Training for Video Prediction, [[Paper]](https://arxiv.org/pdf/2206.11894.pdf), [[Code]](https://maskedvit.github.io/)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
