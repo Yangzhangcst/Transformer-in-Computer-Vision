@@ -576,6 +576,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
 - (arXiv 2022.06) XBound-Former: Toward Cross-scale Boundary Modeling in Transformers, [[Paper]](https://arxiv.org/pdf/2206.00806.pdf), [[Code]](https://github.com/jcwang123/xboundformer)
 - (arXiv 2022.06) Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.02985.pdf)
+- (arXiv 2022.06) SC-Transformer++: Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.12634.pdf)
 
 ### Enhancement
 - (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
@@ -632,6 +633,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) CATrans: Context and Affinity Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2204.12817.pdf)
 - (arXiv 2022.05) Mask-guided Vision Transformer (MG-ViT) for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2205.09995.pdf)
 - (arXiv 2022.05) Few-Shot Diffusion Models, [[Paper]](https://arxiv.org/pdf/2205.15463.pdf)
+- (arXiv 2022.06) Prompting Decision Transformer for Few-Shot Policy Generalization, [[Paper]](https://arxiv.org/pdf/2206.13499.pdf), [[Code]](https://mxu34.github.io/PromptDT/)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -652,7 +654,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) StyleSwin: Transformer-based GAN for High-resolution Image Generation, [[Paper]](https://arxiv.org/pdf/2112.10762.pdf), [[Code]](https://github.com/microsoft/StyleSwin)
 - (arXiv 2022.01) RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark, [[Paper]](https://arxiv.org/pdf/2201.00466.pdf)
 - (arXiv 2022.03) Style Transformer for Image Inversion and Editing, [[Paper]](https://arxiv.org/pdf/2203.07932.pdf), [[Code]](https://github.com/sapphire497/style-transformer)
-- (arXiv 2022.06) cycle text2face: cycle text-to-face gan via transformers, [[Paper]](https://arxiv.org/pdf/2206.04503.pdf)
+- (arXiv 2022.06) Cycle text2face: cycle text-to-face gan via transformers, [[Paper]](https://arxiv.org/pdf/2206.04503.pdf)
+- (arXiv 2022.06) Cross-Modal Transformer GAN: A Brain Structure-Function Deep Fusing Framework for Alzheimer's Disease, [[Paper]](https://arxiv.org/pdf/2206.13393.pdf)
 
 ### Gait
 - (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
@@ -918,6 +921,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI, [[Paper]](https://arxiv.org/pdf/2206.10802.pdf),[[Code]](https://github.com/daviddmc/SVoRT)
 - (arXiv 2022.06) ICOS Protein Expression Segmentation: Can Transformer Networks Give Better Results, [[Paper]](https://arxiv.org/pdf/2206.11520.pdf)
 - (arXiv 2022.06) Kernel Attention Transformer (KAT) for Histopathology Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2206.13156.pdf),[[Code]](https://github.com/zhengyushan/kat)
+- (arXiv 2022.06) Context-Aware Transformers For Spinal Cancer Detection and Radiological Grading, [[Paper]](https://arxiv.org/pdf/2206.13173.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1029,6 +1033,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Multi-scale Cooperative Multimodal Transformers for Multimodal Sentiment Analysis in Videos, [[Paper]](https://arxiv.org/pdf/2206.07981.pdf)
 - (arXiv 2022.06) Unified-IO: A Unified Model for Vision, Language, and Multi-Modal Tasks, [[Paper]](https://arxiv.org/pdf/2206.08916.pdf)
 - (arXiv 2022.06) M&M Mix: A Multimodal Multiview Transformer Ensemble, [[Paper]](https://arxiv.org/pdf/2206.09852.pdf)
+- (arXiv 2022.06) RoME: Role-aware Mixture-of-Expert Transformer for Text-to-Video Retrieval, [[Paper]](https://arxiv.org/pdf/2206.12845.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
