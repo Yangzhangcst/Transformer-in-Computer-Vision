@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/27
+**Last updated: 2022/06/28
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -409,6 +409,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Global Context Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.09959.pdf), [[Code]](https://github.com/NVlabs/GCViT)
 - (arXiv 2022.06) EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm, [[Paper]](https://arxiv.org/pdf/2206.09325.pdf), [[Code]](https://https://github.com/zhangzjn/EATFormer)
 - (arXiv 2022.06) A Unified and Biologically-Plausible Relational Graph Representation of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.11073.pdf)
+
+### Clustering
+- (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -844,7 +847,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) TransBTSV2: Wider Instead of Deeper Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2201.12785.pdf), [[Code]](https://github.com/Wenxuan-1119/TransBTS)
 - (arXiv 2022.01) Brain Cancer Survival Prediction on Treatment-na ive MRI using Deep Anchor Attention Learning with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2202.01857.pdf)
 - (arXiv 2022.02) Indication as Prior Knowledge for Multimodal Disease Classification in Chest Radiographs with Transformers, [[Paper]](https://arxiv.org/pdf/2202.06076.pdf), [[Code]](https://github.com/jacenkow/mmbt)
-- (arXiv 2022.02) AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation, [[Paper]](https://arxiv.org/pdf/2202.06431.pdf), [[Code]](https://github.com/jacenkow/mmbt)
+- (arXiv 2022.02) AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation, [[Paper]](https://arxiv.org/pdf/2202.06431.pdf)
 - (arXiv 2022.02) ScoreNet: Learning Non-Uniform Attention and Augmentation for Transformer-Based Histopathological Image Classification, [[Paper]](https://arxiv.org/pdf/2202.07570.pdf)
 - (arXiv 2022.02) A hybrid 2-stage vision transformer for AI-assisted 5 class pathologic diagnosis of gastric endoscopic biopsies, [[Paper]](https://arxiv.org/pdf/2202.08510.pdf)
 - (arXiv 2022.02) TraSeTR: Track-to-Segment Transformer with Contrastive Query for Instance-level Instrument Segmentation in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2202.08453.pdf)
@@ -914,6 +917,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) TransResU-Net: Transformer based ResU-Net for Real-Time Colonoscopy Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2206.08985.pdf),[[Code]](https://github.com/nikhilroxtomar/TransResUNet)
 - (arXiv 2022.06) SVoRT: Iterative Transformer for Slice-to-Volume Registration in Fetal Brain MRI, [[Paper]](https://arxiv.org/pdf/2206.10802.pdf),[[Code]](https://github.com/daviddmc/SVoRT)
 - (arXiv 2022.06) ICOS Protein Expression Segmentation: Can Transformer Networks Give Better Results, [[Paper]](https://arxiv.org/pdf/2206.11520.pdf)
+- (arXiv 2022.06) Kernel Attention Transformer (KAT) for Histopathology Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2206.13156.pdf),[[Code]](https://github.com/zhengyushan/kat)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1158,6 +1162,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2205.15997.pdf), [[Code]](https://github.com/autonomousvision/transfuser)
 - (arXiv 2022.06) SpikiLi: A Spiking Simulation of LiDAR based Real-time Object Detection for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2206.02876.pdf)
 - (arXiv 2022.06) VN-Transformer: Rotation-Equivariant Attention for Vector Neurons, [[Paper]](https://arxiv.org/pdf/2206.04176.pdf)
+- (arXiv 2022.06) PST: Plant Segmentation Transformer Enhanced Phenotyping of MLS Oilseed Rape Point Cloud, [[Paper]](https://arxiv.org/pdf/2206.13082.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1399,6 +1404,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
 - (arXiv 2022.01) ShapeFormer: Transformer-based Shape Completion via Sparse Representation,  [[Paper]](https://arxiv.org/abs/2201.10326), [[Project]](https://shapeformer.github.io/)
 - (arXiv 2022.03) AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation, [[Paper]](https://arxiv.org/pdf/2203.09516.pdf), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
+
+### SLAM
+- (arXiv 2022.06) AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation,  [[Paper]](https://arxiv.org/abs/2206.12946)
 
 ### Super-Resolution
 - (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
