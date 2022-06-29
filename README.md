@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/28
+**Last updated: 2022/06/29
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -409,6 +409,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Global Context Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.09959.pdf), [[Code]](https://github.com/NVlabs/GCViT)
 - (arXiv 2022.06) EATFormer: Improving Vision Transformer Inspired by Evolutionary Algorithm, [[Paper]](https://arxiv.org/pdf/2206.09325.pdf), [[Code]](https://https://github.com/zhangzjn/EATFormer)
 - (arXiv 2022.06) A Unified and Biologically-Plausible Relational Graph Representation of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.11073.pdf)
+- (arXiv 2022.06) Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment, [[Paper]](https://arxiv.org/pdf/2206.13951.pdf), [[Code]](https://github.com/kojima-takeshi188/CFA)
+- (arXiv 2022.06) Continual Learning with Transformers for Image Classification, [[Paper]](https://arxiv.org/pdf/2206.14085.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -478,6 +480,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Combining EfficientNet and Vision Transformers for Video Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2107.02612.pdf)
 - (arXiv 2021.08) Video Transformer for Deepfake Detection with Incremental Learning, [[Paper]](https://arxiv.org/pdf/2108.05307.pdf)
 - (arXiv 2022.03) Self-supervised Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2203.01265.pdf), [[Code]](https://github.com/IDKiro/DehazeFormer)
+- (arXiv 2022.06) Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection, [[Paper]](https://arxiv.org/pdf/2206.13829.pdf)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
