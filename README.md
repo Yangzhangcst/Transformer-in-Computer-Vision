@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/29
+**Last updated: 2022/06/30
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -925,6 +925,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) ICOS Protein Expression Segmentation: Can Transformer Networks Give Better Results, [[Paper]](https://arxiv.org/pdf/2206.11520.pdf)
 - (arXiv 2022.06) Kernel Attention Transformer (KAT) for Histopathology Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2206.13156.pdf),[[Code]](https://github.com/zhengyushan/kat)
 - (arXiv 2022.06) Context-Aware Transformers For Spinal Cancer Detection and Radiological Grading, [[Paper]](https://arxiv.org/pdf/2206.13173.pdf)
+- (arXiv 2022.06) The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning, [[Paper]](https://arxiv.org/pdf/2206.14413.pdf),[[Code]](https://github.com/xianlin7/APFormer)
+- (arXiv 2022.06) C2FTrans: Coarse-to-Fine Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2206.14409.pdf),[[Code]](https://github.com/xianlin7/C2FTrans)
+- (arXiv 2022.06) LViT: Language meets Vision Transformer in Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2206.14718.pdf),[[Code]](https://github.com/HUANGLIZI/LViT)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
