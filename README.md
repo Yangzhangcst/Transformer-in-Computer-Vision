@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/06/30
+**Last updated: 2022/07/01
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -97,6 +97,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Efficient U-Transformer with Boundary-Aware Loss for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2205.13425.pdf)
 - (arXiv 2022.05) Future Transformer for Long-term Action Anticipation, [[Paper]](https://arxiv.org/pdf/2205.14022.pdf), [[Code]](http://cvlab.postech.ac.kr/research/FUTR)
 - (arXiv 2022.06) One-stage Action Detection Transformer, [[Paper]](https://arxiv.org/pdf/2206.10080.pdf)
+- (arXiv 2022.06) Spatial Transformer Network with Transfer Learning for Small-scale Fine-grained Skeleton-based Tai Chi Action Recognition, [[Paper]](https://arxiv.org/pdf/2206.15002.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -130,6 +131,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) ViT-BEVSeg: A Hierarchical Transformer Network for Monocular Birds-Eye-View Segmentation, [[Paper]](https://arxiv.org/pdf/2205.15667.pdf), [[Code]](https://github.com/robotvisionmu/ViT-BEVSeg)
 - (arXiv 2022.06) PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images, [[Paper]](https://arxiv.org/pdf/2206.01256.pdf)
 - (arXiv 2022.06) Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer, [[Paper]](https://arxiv.org/pdf/2206.04584.pdf), [[Code]](https://github.com/hustvl/GKT)
+- (arXiv 2022.06) PolarFormer: Multi-camera 3D Object Detection with Polar Transformer, [[Paper]](https://arxiv.org/pdf/2206.15398.pdf), [[Code]](https://github.com/fudan-zvg/PolarFormer)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -928,6 +930,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) The Lighter The Better: Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning, [[Paper]](https://arxiv.org/pdf/2206.14413.pdf),[[Code]](https://github.com/xianlin7/APFormer)
 - (arXiv 2022.06) C2FTrans: Coarse-to-Fine Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2206.14409.pdf),[[Code]](https://github.com/xianlin7/C2FTrans)
 - (arXiv 2022.06) LViT: Language meets Vision Transformer in Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2206.14718.pdf),[[Code]](https://github.com/HUANGLIZI/LViT)
+- (arXiv 2022.06) PVT-COV19D: Pyramid Vision Transformer for COVID-19 Diagnosis, [[Paper]](https://arxiv.org/pdf/2206.15069.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
