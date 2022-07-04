@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/01
+**Last updated: 2022/07/04
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -413,6 +413,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) A Unified and Biologically-Plausible Relational Graph Representation of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.11073.pdf)
 - (arXiv 2022.06) Robustifying Vision Transformer without Retraining from Scratch by Test-Time Class-Conditional Feature Alignment, [[Paper]](https://arxiv.org/pdf/2206.13951.pdf), [[Code]](https://github.com/kojima-takeshi188/CFA)
 - (arXiv 2022.06) Continual Learning with Transformers for Image Classification, [[Paper]](https://arxiv.org/pdf/2206.14085.pdf)
+- (arXiv 2022.07) Visual Transformer Meets CutMix for Improved Accuracy, Communication Efficiency, and Data Privacy in Split Learning, [[Paper]](https://arxiv.org/pdf/2207.00234.pdf)
+- (arXiv 2022.07) Rethinking Query-Key Pairwise Interactions in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.00188.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -665,6 +667,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Gait
 - (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
 - (arXiv 2022.06) Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition, [[Paper]](https://arxiv.org/pdf/2206.01441.pdf)
+- (arXiv 2022.06) GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation, [[Paper]](https://arxiv.org/pdf/2207.00106.pdf), [[Code]](https://github.com/markendo/GaitForeMer)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
@@ -931,6 +934,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) C2FTrans: Coarse-to-Fine Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2206.14409.pdf),[[Code]](https://github.com/xianlin7/C2FTrans)
 - (arXiv 2022.06) LViT: Language meets Vision Transformer in Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2206.14718.pdf),[[Code]](https://github.com/HUANGLIZI/LViT)
 - (arXiv 2022.06) PVT-COV19D: Pyramid Vision Transformer for COVID-19 Diagnosis, [[Paper]](https://arxiv.org/pdf/2206.15069.pdf)
+- (arXiv 2022.07) Rethinking Surgical Captioning: End-to-End Window-Based MLP Transformer Using Patches, [[Paper]](https://arxiv.org/pdf/2207.00113.pdf),[[Code]](https://github.com/XuMengyaAmy/SwinMLP_TranCAP)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -946,6 +950,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Transformer Inertial Poser: Attention-based Real-time Human Motion Reconstruction from Sparse IMUs, [[Paper]](https://arxiv.org/pdf/2203.15720.pdf)
 - (arXiv 2022.03) Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation, [[Paper]](https://arxiv.org/pdf/2203.16202.pdf)
 - (arXiv 2022.04) HiT-DVAE: Human Motion Generation via Hierarchical Transformer Dynamical VAE, [[Paper]](https://arxiv.org/pdf/2204.01565.pdf)
+- (arXiv 2022.07) TENET: Transformer Encoding Network for Effective Temporal Flow on Motion Prediction, [[Paper]](https://arxiv.org/pdf/2207.00170.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
