@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/05
+**Last updated: 2022/07/06
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -132,6 +132,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images, [[Paper]](https://arxiv.org/pdf/2206.01256.pdf)
 - (arXiv 2022.06) Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer, [[Paper]](https://arxiv.org/pdf/2206.04584.pdf), [[Code]](https://github.com/hustvl/GKT)
 - (arXiv 2022.06) PolarFormer: Multi-camera 3D Object Detection with Polar Transformer, [[Paper]](https://arxiv.org/pdf/2206.15398.pdf), [[Code]](https://github.com/fudan-zvg/PolarFormer)
+- (arXiv 2022.07) CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers, [[Paper]](https://arxiv.org/pdf/2207.02202.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -940,6 +941,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Efficient Lung Cancer Image Classification and Segmentation Algorithm Based on Improved Swin Transformer, [[Paper]](https://arxiv.org/pdf/2207.01527.pdf)
 - (arXiv 2022.07) Spatiotemporal Feature Learning Based on Two-Step LSTM and Transformer for CT Scans, [[Paper]](https://arxiv.org/pdf/2207.01579.pdf)
 - (arXiv 2022.07) Adaptive GLCM sampling for transformer-based COVID-19 detection on CT, [[Paper]](https://arxiv.org/pdf/2207.01520.pdf)
+- (arXiv 2022.07) CNN-based Local Vision Transformer for COVID-19 Diagnosis, [[Paper]](https://arxiv.org/pdf/2207.02027.pdf)
+- (arXiv 2022.07) Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images, [[Paper]](https://arxiv.org/pdf/2207.02059.pdf),[[Code]](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation.git)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1426,6 +1429,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Transformer Scale Gate for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2205.07056.pdf)
 - (arXiv 2022.06) Discovering Object Masks with Transformers for Unsupervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2206.06363.pdf), [[Code]](https://github.com/wvangansbeke/MaskDistill)
 - (arXiv 2022.06) Semantic Labeling of High Resolution Images Using EfficientUNets and Transformers, [[Paper]](https://arxiv.org/pdf/2206.09731.pdf)
+- (arXiv 2022.07) Improving Semantic Segmentation in Transformers using Hierarchical Inter-Level Attention, [[Paper]](https://arxiv.org/pdf/2207.02126.pdf), [[Code]](https://www.cs.toronto.edu/~garyleung/hila/)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -1781,6 +1785,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) CtrlFormer: Learning Transferable State Representation for Visual Control via Transformer, [[Paper]](https://arxiv.org/pdf/2206.08883.pdf)
 - (arXiv 2022.06) SpA-Former:Transformer image shadow detection and removal via spatial attention, [[Paper]](https://arxiv.org/pdf/2206.10910.pdf)
 - (arXiv 2022.06) CRFormer: A Cross-Region Transformer for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2207.01600.pdf)
+- (arXiv 2022.07) Interaction Transformer for Human Reaction Generation, [[Paper]](https://arxiv.org/pdf/2207.01685.pdf)
 
 ## Contact & Feedback
 
