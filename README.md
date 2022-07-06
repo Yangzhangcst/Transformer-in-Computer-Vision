@@ -943,6 +943,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Adaptive GLCM sampling for transformer-based COVID-19 detection on CT, [[Paper]](https://arxiv.org/pdf/2207.01520.pdf)
 - (arXiv 2022.07) CNN-based Local Vision Transformer for COVID-19 Diagnosis, [[Paper]](https://arxiv.org/pdf/2207.02027.pdf)
 - (arXiv 2022.07) Transformer based Models for Unsupervised Anomaly Segmentation in Brain MR Images, [[Paper]](https://arxiv.org/pdf/2207.02059.pdf),[[Code]](https://github.com/ahmedgh970/Transformers_Unsupervised_Anomaly_Segmentation.git)
+- (arXiv 2022.07) CASHformer: Cognition Aware SHape Transformer for Longitudinal Analysis, [[Paper]](https://arxiv.org/pdf/2207.02091.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1057,6 +1058,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) M&M Mix: A Multimodal Multiview Transformer Ensemble, [[Paper]](https://arxiv.org/pdf/2206.09852.pdf)
 - (arXiv 2022.06) RoME: Role-aware Mixture-of-Expert Transformer for Text-to-Video Retrieval, [[Paper]](https://arxiv.org/pdf/2206.12845.pdf)
 - (arXiv 2022.07) You Only Need One Detector: Unified Object Detector for Different Modalities based on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.01071.pdf), [[Code]](https://github.com/liketheflower/YONOD.git)
+- (arXiv 2022.07) Open-Vocabulary Multi-Label Classification via Multi-modal Knowledge Transfer, [[Paper]](https://arxiv.org/pdf/2207.01887.pdf), [[Code]](https://github.com/seanhe97/MKT)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1320,6 +1322,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Robotic
 - (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
 - (arXiv 2022.02) When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection, [[Paper]](https://arxiv.org/pdf/2202.11911.pdf), [[Code]](https://github.com/WangShaoSUN/grasp-transformer)
+- (arXiv 2022.07) 3D Part Assembly Generation with Instance Encoded Transformer, [[Paper]](https://arxiv.org/pdf/2207.01779.pdf)
 
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
@@ -1786,6 +1789,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) SpA-Former:Transformer image shadow detection and removal via spatial attention, [[Paper]](https://arxiv.org/pdf/2206.10910.pdf)
 - (arXiv 2022.06) CRFormer: A Cross-Region Transformer for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2207.01600.pdf)
 - (arXiv 2022.07) Interaction Transformer for Human Reaction Generation, [[Paper]](https://arxiv.org/pdf/2207.01685.pdf)
+- (arXiv 2022.07) FishFormer: Annulus Slicing-based Transformer for Fisheye Rectification with Efficacy Domain Exploration, [[Paper]](https://arxiv.org/pdf/2207.01925.pdf)
 
 ## Contact & Feedback
 
