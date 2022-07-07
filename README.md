@@ -649,6 +649,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
 - (arXiv 2022.01) TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf)
 - (arXiv 2022.04) SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf), [[Code]](https://github.com/Zhishe-Wang/SwinFuse)
+- (arXiv 2022.07) Array Camera Image Fusion using Physics-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2207.02250.pdf)
 
 ### GAN
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
