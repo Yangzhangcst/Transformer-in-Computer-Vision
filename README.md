@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/07
+**Last updated: 2022/07/08
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -417,6 +417,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Visual Transformer Meets CutMix for Improved Accuracy, Communication Efficiency, and Data Privacy in Split Learning, [[Paper]](https://arxiv.org/pdf/2207.00234.pdf)
 - (arXiv 2022.07) Rethinking Query-Key Pairwise Interactions in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.00188.pdf)
 - (arXiv 2022.07) Dynamic Spatial Sparsification for Efficient Vision Transformers and Convolutional Neural Networks, [[Paper]](https://arxiv.org/pdf/2207.01580.pdf), [[Code]](https://github.com/raoyongming/DynamicViT)
+- (arXiv 2022.07) Softmax-free Linear Transformers, [[Paper]](https://arxiv.org/pdf/2207.03341.pdf), [[Code]](https://github.com/fudan-zvg/SOFT)
+- (arXiv 2022.07) MaiT: Leverage Attention Masks for More Efficient Image Transformers, [[Paper]](https://arxiv.org/pdf/2207.03006.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -950,6 +952,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Multi-Label Retinal Disease Classification using Transformers, [[Paper]](https://arxiv.org/pdf/2207.02335.pdf),[[Code]](https://github.com/manuel-rdz/C-Tran),[[Dataset]](https://bit.ly/3utt9ZD)
 - (arXiv 2022.07) TractoFormer: A Novel Fiber-level Whole Brain Tractography Analysis Framework Using Spectral Embedding and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.02327.pdf)
 - (arXiv 2022.07) Learning Apparent Diffusion Coefficient Maps from Undersampled Radial k-Space Diffusion-Weighted MRI in Mice using a Deep CNN-Transformer Model in Conjunction with a Monoexponential Model, [[Paper]](https://arxiv.org/pdf/2207.02399.pdf)
+- (arXiv 2022.07) TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.03450.pdf),[[Code]](https://github.com/HUANGLIZI/TFCNs)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1638,6 +1641,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Transformer-based Self-Supervised Fish Segmentation in Underwater Videos, [[Paper]](https://arxiv.org/pdf/2206.05390.pdf)
 - (arXiv 2022.06) MaskViT: Masked Visual Pre-Training for Video Prediction, [[Paper]](https://arxiv.org/pdf/2206.11894.pdf), [[Code]](https://maskedvit.github.io/)
 - (arXiv 2022.07) STVGFormer: Spatio-Temporal Video Grounding with Static-Dynamic Cross-Modal Understanding, [[Paper]](https://arxiv.org/pdf/2207.02756.pdf)
+- (arXiv 2022.07) Dual-Stream Transformer for Generic Event Boundary Captioning, [[Paper]](https://arxiv.org/pdf/2207.03038.pdf), [[Code]](https://github.com/GX77/Dual-Stream-Transformer-for-Generic-Event-Boundary-Captioning)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
