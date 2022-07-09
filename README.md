@@ -158,6 +158,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Dual-Level Decoupled Transformer for Video Captioning, [[Paper]](https://arxiv.org/pdf/2205.03039.pdf)
 - (arXiv 2022.05) Variational Transformer: A Framework Beyond the Trade-off between Accuracy and Diversity for Image Captioning, [[Paper]](https://arxiv.org/pdf/2205.14458.pdf), [[Code]](https://github.com/kaelsunkiller/VaT)
 - (arXiv 2022.06) Transformer-Based Multi-modal Proposal and Re-Rank for Wikipedia Image-Caption Matching, [[Paper]](https://arxiv.org/pdf/2206.10436.pdf), [[Code]](https://github.com/mesnico/Wiki-Image-Caption-Matching)
+- (arXiv 2022.07) ExpansionNet: exploring the sequence length bottleneck in the Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2207.03327.pdf), [[Code]](https://github.com/jchenghu/ExpansionNet)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
