@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/08
+**Last updated: 2022/07/11
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -632,6 +632,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2204.04083.pdf),[[Code]](https://github.com/zczcwh/POSTER)
 - (arXiv 2022.05) Spatio-Temporal Transformer for Dynamic Facial Expression Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2205.04749.pdf)
 - (arXiv 2022.05) Towards Robust Blind Face Restoration with Codebook Lookup Transformer, [[Paper]](https://arxiv.org/pdf/2206.11253.pdf),[[Code]](https://shangchenzhou.com/projects/CodeFormer)
+- (arXiv 2022.07) RePFormer: Refinement Pyramid Transformer for Robust Facial Landmark Detection, [[Paper]](https://arxiv.org/pdf/2207.03917.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -1153,6 +1154,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Panoptic-PartFormer: Learning a Unified Model for Panoptic Part Segmentation, [[Paper]](https://arxiv.org/pdf/2204.04655.pdf), [[Code]](https://github.com/lxtGH/Panoptic-PartFormer)
 - (arXiv 2022.05) CONSENT: Context Sensitive Transformer for Bold Words Classification, [[Paper]](https://arxiv.org/pdf/2205.07683.pdf)
 - (arXiv 2022.05) CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2206.08948.pdf)
+- (arXiv 2022.07) k-means Mask Transformer, [[Paper]](https://arxiv.org/pdf/2207.04044.pdf), [[Code]](https://github.com/google-research/deeplab2)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
@@ -1350,6 +1352,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) SelfReformer: Self-Refined Network with Transformer for Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2205.11283.pdf)
 - (arXiv 2022.06) Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2206.03105.pdf)
 - (arXiv 2022.07) TANet: Transformer-based Asymmetric Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2207.01172.pdf), [[Code]](https://github.com/lc012463/TANet)
+- (arXiv 2022.07) Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2207.03558.pdf), [[Code]](https://github.com/jxr326/SwinMCNet)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
