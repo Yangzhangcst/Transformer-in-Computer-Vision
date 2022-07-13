@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/12
+**Last updated: 2022/07/13
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -423,6 +423,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Dual Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.04976.pdf), [[Code]](https://github.com/YehLi/ImageNetModel)
 - (arXiv 2022.07) Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning, [[Paper]](https://arxiv.org/pdf/2207.04978.pdf), [[Code]](https://github.com/YehLi/ImageNetModel)
 - (arXiv 2022.07) Horizontal and Vertical Attention in Transformers, [[Paper]](https://arxiv.org/pdf/2207.04399.pdf)
+- (arXiv 2022.07) LightViT: Towards Light-Weight Convolution-Free Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.05557.pdf), [[Code]](https://github.com/hunto/LightViT)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -638,6 +639,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Spatio-Temporal Transformer for Dynamic Facial Expression Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2205.04749.pdf)
 - (arXiv 2022.05) Towards Robust Blind Face Restoration with Codebook Lookup Transformer, [[Paper]](https://arxiv.org/pdf/2206.11253.pdf),[[Code]](https://shangchenzhou.com/projects/CodeFormer)
 - (arXiv 2022.07) RePFormer: Refinement Pyramid Transformer for Robust Facial Landmark Detection, [[Paper]](https://arxiv.org/pdf/2207.03917.pdf)
+- (arXiv 2022.07) TransFA: Transformer-based Representation for Face Attribute Evaluation, [[Paper]](https://arxiv.org/pdf/2207.05456.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -706,6 +708,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2204.04836.pdf), [[Code]](https://github.com/mlvlab/CPChoi)
 - (arXiv 2022.04) Human-Object Interaction Detection via Disentangled Transformer, [[Paper]](https://arxiv.org/pdf/2204.09290.pdf)
 - (arXiv 2022.06) Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2206.06291.pdf), [[Code]](https://github.com/zyong812/STIP)
+- (arXiv 2022.07) Towards Hard-Positive Query Mining for DETR-based Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2207.05293.pdf), [[Code]](https://github.com/MuchHair/HQM)
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -1147,7 +1150,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Open Set Recognition
 - (arXiv 2022.03) Open Set Recognition using Vision Transformer with an Additional Detection Head, [[Paper]](https://arxiv.org/pdf/2203.08441.pdf)
-- (arXiv 2022.03) OOD Augmentation May Be at Odds with Open-Set Recognition, [[Paper]](https://arxiv.org/pdf/2206.04242.pdf)
+- (arXiv 2022.06) OOD Augmentation May Be at Odds with Open-Set Recognition, [[Paper]](https://arxiv.org/pdf/2206.04242.pdf)
+- (arXiv 2022.07) Scaling Novel Object Detection with Weakly Supervised Detection Transformers, [[Paper]](https://arxiv.org/pdf/2207.05205.pdf)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
@@ -1457,6 +1461,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Semantic Labeling of High Resolution Images Using EfficientUNets and Transformers, [[Paper]](https://arxiv.org/pdf/2206.09731.pdf)
 - (arXiv 2022.07) Improving Semantic Segmentation in Transformers using Hierarchical Inter-Level Attention, [[Paper]](https://arxiv.org/pdf/2207.02126.pdf), [[Code]](https://www.cs.toronto.edu/~garyleung/hila/)
 - (arXiv 2022.07) Self-attention on Multi-Shifted Windows for Scene Segmentation, [[Paper]](https://arxiv.org/pdf/2207.04403.pdf), [[Code]](https://github.com/yutao1008/MSwin)
+- (arXiv 2022.07) eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2207.05358.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -1681,6 +1686,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) DisCoVQA: Temporal Distortion-Content Transformers for Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2206.09265.pdf), [[Code]](https://github.com/yujungheo/kbvqa-public)
 - (arXiv 2022.06) Surgical-VQA: Visual Question Answering in Surgical Scenes using Transformer, [[Paper]](https://arxiv.org/pdf/2206.11053.pdf), [[Code]](https://github.com/lalithjets/Surgical_VQA.git)
 - (arXiv 2022.07) Weakly Supervised Grounding for VQA in Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2207.02334.pdf), [[Code]](https://github.com/aurooj/WSG-VQA-VLTransformers)
+- (arXiv 2022.07) Video Graph Transformer for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2207.05342.pdf), [[Code]](https://github.com/sail-sg/VGT)
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
