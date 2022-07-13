@@ -98,6 +98,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Future Transformer for Long-term Action Anticipation, [[Paper]](https://arxiv.org/pdf/2205.14022.pdf), [[Code]](http://cvlab.postech.ac.kr/research/FUTR)
 - (arXiv 2022.06) One-stage Action Detection Transformer, [[Paper]](https://arxiv.org/pdf/2206.10080.pdf)
 - (arXiv 2022.06) Spatial Transformer Network with Transfer Learning for Small-scale Fine-grained Skeleton-based Tai Chi Action Recognition, [[Paper]](https://arxiv.org/pdf/2206.15002.pdf)
+- (arXiv 2022.07) Hunting Group Clues with Transformers for Social Group Activity Recognition, [[Paper]](https://arxiv.org/pdf/2207.05254.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -424,6 +425,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning, [[Paper]](https://arxiv.org/pdf/2207.04978.pdf), [[Code]](https://github.com/YehLi/ImageNetModel)
 - (arXiv 2022.07) Horizontal and Vertical Attention in Transformers, [[Paper]](https://arxiv.org/pdf/2207.04399.pdf)
 - (arXiv 2022.07) LightViT: Towards Light-Weight Convolution-Free Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.05557.pdf), [[Code]](https://github.com/hunto/LightViT)
+- (arXiv 2022.07) Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios, [[Paper]](https://arxiv.org/pdf/2207.05501.pdf)
+- (arXiv 2022.07) Image and Model Transformation with Secret Key for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.05366.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1101,6 +1104,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv.2022.03) Vision Transformer with Convolutions Architecture Search, [[Paper]](https://arxiv.org/pdf/2203.10435.pdf)
 - (arXiv.2022.03) Training-free Transformer Architecture Search, [[Paper]](https://arxiv.org/pdf/2203.12217.pdf)
 - (arXiv.2022.06) Neural Prompt Search, [[Paper]](https://arxiv.org/pdf/2206.04673.pdf)
+- (arXiv.2022.07) UniNet: Unified Architecture Search with Convolution, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2207.05420.pdf), [[Code]](https://github.com/Sense-X/UniNet)
 
 ### Navigation
 - (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
@@ -1119,6 +1123,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.10157.pdf), [[Code]](https://github.com/jkulhanek/viewformer)
 - (arXiv 2022.06) Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer, [[Paper]](https://arxiv.org/pdf/2206.05375.pdf)
 - (arXiv 2022.06) IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering inIndoor Scenes, [[Paper]](https://arxiv.org/pdf/2206.08423.pdf), [[Code]](https://github.com/ViLab-UCSD/IRISformer)
+- (arXiv 2022.07) Vision Transformer for NeRF-Based View Synthesis from a Single Input Image, [[Paper]](https://arxiv.org/pdf/2207.05736.pdf), [[Project]](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)
 
 ### OCR
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
@@ -1825,6 +1830,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) CRFormer: A Cross-Region Transformer for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2207.01600.pdf)
 - (arXiv 2022.07) Interaction Transformer for Human Reaction Generation, [[Paper]](https://arxiv.org/pdf/2207.01685.pdf)
 - (arXiv 2022.07) FishFormer: Annulus Slicing-based Transformer for Fisheye Rectification with Efficacy Domain Exploration, [[Paper]](https://arxiv.org/pdf/2207.01925.pdf)
+- (arXiv 2022.07) MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing, [[Paper]](https://arxiv.org/pdf/2207.05621.pdf)
 
 ## Contact & Feedback
 
