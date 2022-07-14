@@ -594,6 +594,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Visual Transformer for Object Detection, [[Paper]](https://arxiv.org/pdf/2206.06323.pdf)
 - (arXiv 2022.06) Efficient Decoder-free Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2206.06829.pdf)
 - (arXiv 2022.07) QKVA grid: Attention in Image Perspective and Stacked DETR, [[Paper]](https://arxiv.org/pdf/2207.04313.pdf),[[Code]](https://github.com/shengwenyuan/sdetr)
+- (arXiv 2022.07) Symmetry-Aware Transformer-based Mirror Detection, [[Paper]](https://arxiv.org/pdf/2207.06332.pdf),[[Code]](https://github.com/tyhuang0428/SATNet)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1509,6 +1510,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) ATISS: Autoregressive Transformers for Indoor Scene Synthesis, [[Paper]](https://arxiv.org/pdf/2110.03675.pdf), [[Project]](https://nv-tlabs.github.io/ATISS/)
 - (arXiv 2021.11) Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/pdf/2111.03481.pdf)
 - (arXiv 2022.02) MaskGIT: Masked Generative Image Transformer, [[Paper]](https://arxiv.org/pdf/2202.04200.pdf)
+- (arXiv 2022.07) Diverse Dance Synthesis via Keyframes with Transformer Controllers, [[Paper]](https://arxiv.org/pdf/2207.05906.pdf)
 
 ### Text-to-Image/Video
 - (arXiv 2021.01) VisualSparta: Sparse Transformer Fragment-level Matching for Large-scale Text-to-Image Search, [[Paper]](https://arxiv.org/abs/2101.00265)
@@ -1560,6 +1562,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Under the Hood of Transformer Networks for Trajectory Forecasting, [[Paper]](https://arxiv.org/pdf/2203.11878.pdf)
 - (arXiv 2022.05) HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding, [[Paper]](https://arxiv.org/pdf/2205.09753.pdf)
 - (arXiv 2022.06) S2TNet: Spatio-Temporal Transformer Networks for Trajectory Prediction in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2206.10902.pdf), [[Code]](https://github.com/chenghuang66/s2tnet)
+- (arXiv 2022.07) Pyramid Transformer for Traffic Sign Detection, [[Paper]](https://arxiv.org/pdf/2207.06067.pdf), [[Code]](https://github.com/chenghuang66/s2tnet)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
@@ -1834,6 +1837,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Interaction Transformer for Human Reaction Generation, [[Paper]](https://arxiv.org/pdf/2207.01685.pdf)
 - (arXiv 2022.07) FishFormer: Annulus Slicing-based Transformer for Fisheye Rectification with Efficacy Domain Exploration, [[Paper]](https://arxiv.org/pdf/2207.01925.pdf)
 - (arXiv 2022.07) MSP-Former: Multi-Scale Projection Transformer for Single Image Desnowing, [[Paper]](https://arxiv.org/pdf/2207.05621.pdf)
+- (arXiv 2022.07) Earthformer: Exploring Space-Time Transformers for Earth System Forecasting, [[Paper]](https://arxiv.org/pdf/2207.05833.pdf)
+- (arXiv 2022.07) Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.06205.pdf), [[Code]](https://github.com/jamycheung/Trans4Map)
+- (arXiv 2022.07) DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation, [[Paper]](https://arxiv.org/pdf/2207.06124.pdf), [[Code]](https://github.com/Huage001/DynaST)
+
 
 ## Contact & Feedback
 
