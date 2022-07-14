@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/13
+**Last updated: 2022/07/14
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -99,6 +99,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) One-stage Action Detection Transformer, [[Paper]](https://arxiv.org/pdf/2206.10080.pdf)
 - (arXiv 2022.06) Spatial Transformer Network with Transfer Learning for Small-scale Fine-grained Skeleton-based Tai Chi Action Recognition, [[Paper]](https://arxiv.org/pdf/2206.15002.pdf)
 - (arXiv 2022.07) Hunting Group Clues with Transformers for Social Group Activity Recognition, [[Paper]](https://arxiv.org/pdf/2207.05254.pdf)
+- (arXiv 2022.07) Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning, [[Paper]](https://arxiv.org/pdf/2207.06101.pdf),[[Code]](https://github.com/Boeun-Kim/GL-Transformer)
+- (arXiv 2022.07) Entry-Flipped Transformer for Inference and Prediction of Participant Behavior, [[Paper]](https://arxiv.org/pdf/2207.06235.pdf),[[Code]](https://github.com/Boeun-Kim/GL-Transformer)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -967,6 +969,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Learning Apparent Diffusion Coefficient Maps from Undersampled Radial k-Space Diffusion-Weighted MRI in Mice using a Deep CNN-Transformer Model in Conjunction with a Monoexponential Model, [[Paper]](https://arxiv.org/pdf/2207.02399.pdf)
 - (arXiv 2022.07) TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.03450.pdf),[[Code]](https://github.com/HUANGLIZI/TFCNs)
 - (arXiv 2022.07) Radiomics-Guided Global-Local Transformer for Weakly Supervised Pathology Localization in Chest X-Rays, [[Paper]](https://arxiv.org/pdf/2207.04394.pdf)
+- (arXiv 2022.07) RTN: Reinforced Transformer Network for Coronary CT Angiography Vessel-level Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2207.06177.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
