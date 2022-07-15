@@ -429,6 +429,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) LightViT: Towards Light-Weight Convolution-Free Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.05557.pdf), [[Code]](https://github.com/hunto/LightViT)
 - (arXiv 2022.07) Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios, [[Paper]](https://arxiv.org/pdf/2207.05501.pdf)
 - (arXiv 2022.07) Image and Model Transformation with Secret Key for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.05366.pdf)
+- (arXiv 2022.07) Convolutional Bypasses Are Better Vision Transformer Adapters, [[Paper]](https://arxiv.org/pdf/2207.07039.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -500,6 +501,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.08) Video Transformer for Deepfake Detection with Incremental Learning, [[Paper]](https://arxiv.org/pdf/2108.05307.pdf)
 - (arXiv 2022.03) Self-supervised Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2203.01265.pdf), [[Code]](https://github.com/IDKiro/DehazeFormer)
 - (arXiv 2022.06) Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection, [[Paper]](https://arxiv.org/pdf/2206.13829.pdf)
+- (arXiv 2022.07) Deepfake Video Detection with Spatiotemporal Dropout Transformer, [[Paper]](https://arxiv.org/pdf/2207.06612.pdf)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -595,6 +597,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Efficient Decoder-free Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2206.06829.pdf)
 - (arXiv 2022.07) QKVA grid: Attention in Image Perspective and Stacked DETR, [[Paper]](https://arxiv.org/pdf/2207.04313.pdf),[[Code]](https://github.com/shengwenyuan/sdetr)
 - (arXiv 2022.07) Symmetry-Aware Transformer-based Mirror Detection, [[Paper]](https://arxiv.org/pdf/2207.06332.pdf),[[Code]](https://github.com/tyhuang0428/SATNet)
+- (arXiv 2022.07) Transformer-based Context Condensation for Boosting Feature Pyramids in Object Detection, [[Paper]](https://arxiv.org/pdf/2207.06603.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1840,7 +1843,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Earthformer: Exploring Space-Time Transformers for Earth System Forecasting, [[Paper]](https://arxiv.org/pdf/2207.05833.pdf)
 - (arXiv 2022.07) Trans4Map: Revisiting Holistic Top-down Mapping from Egocentric Images to Allocentric Semantics with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.06205.pdf), [[Code]](https://github.com/jamycheung/Trans4Map)
 - (arXiv 2022.07) DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation, [[Paper]](https://arxiv.org/pdf/2207.06124.pdf), [[Code]](https://github.com/Huage001/DynaST)
-
+- (arXiv 2022.07) Imaging through the Atmosphere using Turbulence Mitigation Transformer, [[Paper]](https://arxiv.org/pdf/2207.06465.pdf), [[Project]](https://xg416.github.io/TMT/)
+- (arXiv 2022.07) iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.06831.pdf)
 
 ## Contact & Feedback
 
