@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/14
+**Last updated: 2022/07/18
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -430,6 +430,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios, [[Paper]](https://arxiv.org/pdf/2207.05501.pdf)
 - (arXiv 2022.07) Image and Model Transformation with Secret Key for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.05366.pdf)
 - (arXiv 2022.07) Convolutional Bypasses Are Better Vision Transformer Adapters, [[Paper]](https://arxiv.org/pdf/2207.07039.pdf)
+- (arXiv 2022.07) Lightweight Vision Transformer with Cross Feature Attention, [[Paper]](https://arxiv.org/pdf/2207.07268.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -974,6 +975,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) TFCNs: A CNN-Transformer Hybrid Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.03450.pdf),[[Code]](https://github.com/HUANGLIZI/TFCNs)
 - (arXiv 2022.07) Radiomics-Guided Global-Local Transformer for Weakly Supervised Pathology Localization in Chest X-Rays, [[Paper]](https://arxiv.org/pdf/2207.04394.pdf)
 - (arXiv 2022.07) RTN: Reinforced Transformer Network for Coronary CT Angiography Vessel-level Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2207.06177.pdf)
+- (arXiv 2022.07) CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2207.07370.pdf)
+- (arXiv 2022.07) Mobile Keystroke Biometrics Using Transformers, [[Paper]](https://arxiv.org/pdf/2207.07596.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1845,6 +1848,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation, [[Paper]](https://arxiv.org/pdf/2207.06124.pdf), [[Code]](https://github.com/Huage001/DynaST)
 - (arXiv 2022.07) Imaging through the Atmosphere using Turbulence Mitigation Transformer, [[Paper]](https://arxiv.org/pdf/2207.06465.pdf), [[Project]](https://xg416.github.io/TMT/)
 - (arXiv 2022.07) iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.06831.pdf)
+- (arXiv 2022.07) Learning Parallax Transformer Network for Stereo Image JPEG Artifacts Removal, [[Paper]](https://arxiv.org/pdf/2207.07335.pdf)
 
 ## Contact & Feedback
 
