@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/18
+**Last updated: 2022/07/19
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -136,6 +136,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Efficient and Robust 2D-to-BEV Representation Learning via Geometry-guided Kernel Transformer, [[Paper]](https://arxiv.org/pdf/2206.04584.pdf), [[Code]](https://github.com/hustvl/GKT)
 - (arXiv 2022.06) PolarFormer: Multi-camera 3D Object Detection with Polar Transformer, [[Paper]](https://arxiv.org/pdf/2206.15398.pdf), [[Code]](https://github.com/fudan-zvg/PolarFormer)
 - (arXiv 2022.07) CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers, [[Paper]](https://arxiv.org/pdf/2207.02202.pdf)
+- (arXiv 2022.07) UniFormer: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View, [[Paper]](https://arxiv.org/pdf/2207.08536.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -431,6 +432,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Image and Model Transformation with Secret Key for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.05366.pdf)
 - (arXiv 2022.07) Convolutional Bypasses Are Better Vision Transformer Adapters, [[Paper]](https://arxiv.org/pdf/2207.07039.pdf)
 - (arXiv 2022.07) Lightweight Vision Transformer with Cross Feature Attention, [[Paper]](https://arxiv.org/pdf/2207.07268.pdf)
+- (arXiv 2022.07) Multi-manifold Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.08569.pdf)
+- (arXiv 2022.07) TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.08409.pdf), [[Code]](https://github.com/Sense-X/TokenMix)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -599,6 +602,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) QKVA grid: Attention in Image Perspective and Stacked DETR, [[Paper]](https://arxiv.org/pdf/2207.04313.pdf),[[Code]](https://github.com/shengwenyuan/sdetr)
 - (arXiv 2022.07) Symmetry-Aware Transformer-based Mirror Detection, [[Paper]](https://arxiv.org/pdf/2207.06332.pdf),[[Code]](https://github.com/tyhuang0428/SATNet)
 - (arXiv 2022.07) Transformer-based Context Condensation for Boosting Feature Pyramids in Object Detection, [[Paper]](https://arxiv.org/pdf/2207.06603.pdf)
+- (arXiv 2022.07) Defect Transformer: An Efficient Hybrid Transformer Architecture for Surface Defect Detection, [[Paper]](https://arxiv.org/pdf/2207.08319.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -612,6 +616,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Underwater Image Enhancement Using Pre-trained Transformer, [[Paper]](https://arxiv.org/pdf/2204.04199.pdf)
 - (arXiv 2022.04) VISTA: Vision Transformer enhanced by U-Net and Image Colorfulness Frame Filtration for Automatic Retail Checkout, [[Paper]](https://arxiv.org/pdf/2204.11024.pdf), [[Code]](https://github.com/istiakshihab/automated-retail-checkout-aicity22)
 - (arXiv 2022.05) Reinforced Swin-Convs Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2205.00434.pdf)
+- (arXiv 2022.07) Structural Prior Guided Generative Adversarial Transformers for Low-Light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2207.07828.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -977,6 +982,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) RTN: Reinforced Transformer Network for Coronary CT Angiography Vessel-level Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2207.06177.pdf)
 - (arXiv 2022.07) CKD-TransBTS: Clinical Knowledge-Driven Hybrid Transformer with Modality-Correlated Cross-Attention for Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2207.07370.pdf)
 - (arXiv 2022.07) Mobile Keystroke Biometrics Using Transformers, [[Paper]](https://arxiv.org/pdf/2207.07596.pdf)
+- (arXiv 2022.07) Multi-head Cascaded Swin Transformers with Attention to k-space Sampling Pattern for Accelerated MRI Reconstruction, [[Paper]](https://arxiv.org/pdf/2207.08412.pdf)
+- (arXiv 2022.07) HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.08518.pdf),[[Code]](https://github.com/amirhossein-kz/HiFormer)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -999,7 +1006,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.07) Query2Label: A Simple Transformer Way to Multi-Label Classification, [[Paper]](https://arxiv.org/pdf/2107.10834.pdf), [[Code]](https://github.com/SlongLiu/query2labels)
 - (arXiv 2021.10) Transformer-based Dual Relation Graph for Multi-label Image Recognition, [[Paper]](https://arxiv.org/pdf/2110.04722.pdf), [[Code]](https://github.com/iCVTEAM/TDRG)
 - (arXiv 2020.11) General Multi-label Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14027)
-- (arXiv 2020.11) Graph Attention Transformer Network for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2203.04049.pdf)
+- (arXiv 2022.03) Graph Attention Transformer Network for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2203.04049.pdf)
 
 ### Multi-task/modal
 - (arXiv 2021.02) Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxiv.org/abs/2102.10772), [[Code]](https://mmf.sh/)
@@ -1093,6 +1100,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) You Only Need One Detector: Unified Object Detector for Different Modalities based on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.01071.pdf), [[Code]](https://github.com/liketheflower/YONOD.git)
 - (arXiv 2022.07) Open-Vocabulary Multi-Label Classification via Multi-modal Knowledge Transfer, [[Paper]](https://arxiv.org/pdf/2207.01887.pdf), [[Code]](https://github.com/seanhe97/MKT)
 - (arXiv 2022.07) Audio−Visual Segmentation, [[Paper]](https://arxiv.org/pdf/2207.05042.pdf), [[Code]](https://github.com/OpenNLPLab/AVSBench)
+- (arXiv 2022.07) FashionViL: Fashion-Focused Vision-and-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2207.08150.pdf), [[Code]](https://github.com/BrandonHanx/mmf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1358,6 +1366,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) All You Can Embed: Natural Language based Vehicle Retrieval with Spatio-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2106.10153.pdf), [[Code]](https://github.com/cscribano/AYCE_2021)
 - (arXiv 2021.09) Vision Transformer Hashing for Image Retrieval, [[Paper]](https://arxiv.org/pdf/2109.12564.pdf)
 - (arXiv 2022.01) Zero-Shot Sketch Based Image Retrieval using Graph Transformer, [[Paper]](https://arxiv.org/pdf/2203.06429.pdf)
+- (arXiv 2022.07) TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval, [[Paper]](https://arxiv.org/pdf/2207.07852.pdf), [[Code]](https://github.com/yuqi657/ts2_net)
 
 ### Robotic
 - (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
@@ -1507,6 +1516,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.13286.pdf), [[Code]](https://github.com/IVIPLab/LBNet)
 - (arXiv 2022.05) Activating More Pixels in Image Super-Resolution Transformer, [[Paper]](https://arxiv.org/pdf/2205.04437.pdf), [[Code]](https://github.com/chxy95/HAT)
 - (arXiv 2022.06) Bilateral Network with Channel Splitting Network and Transformer for Thermal Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2206.12046.pdf)
+- (arXiv 2022.07) Rethinking Alignment in Video Super-Resolution Transformers,  [[Paper]](https://arxiv.org/pdf/2207.08494.pdf), [[Code]](https://github.com/XPixelGroup/RethinkVSRAlignment)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -1599,6 +1609,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Unsupervised learning
 - (arXiv 2022.02) Handcrafted Histological Transformer (H2T): Unsupervised Representation of Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2202.07001.pdf)
+- (arXiv 2022.07) SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery, [[Paper]](https://arxiv.org/pdf/2207.08051.pdf)
 
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
@@ -1849,6 +1860,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Imaging through the Atmosphere using Turbulence Mitigation Transformer, [[Paper]](https://arxiv.org/pdf/2207.06465.pdf), [[Project]](https://xg416.github.io/TMT/)
 - (arXiv 2022.07) iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.06831.pdf)
 - (arXiv 2022.07) Learning Parallax Transformer Network for Stereo Image JPEG Artifacts Removal, [[Paper]](https://arxiv.org/pdf/2207.07335.pdf)
+- (arXiv 2022.07) Explainable vision transformer enabled convolutional neural network for plant disease identification: PlantXViT, [[Paper]](https://arxiv.org/pdf/2207.07919.pdf)
 
 ## Contact & Feedback
 
