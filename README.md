@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/19
+**Last updated: 2022/07/20
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -101,6 +101,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Hunting Group Clues with Transformers for Social Group Activity Recognition, [[Paper]](https://arxiv.org/pdf/2207.05254.pdf)
 - (arXiv 2022.07) Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning, [[Paper]](https://arxiv.org/pdf/2207.06101.pdf),[[Code]](https://github.com/Boeun-Kim/GL-Transformer)
 - (arXiv 2022.07) Entry-Flipped Transformer for Inference and Prediction of Participant Behavior, [[Paper]](https://arxiv.org/pdf/2207.06235.pdf),[[Code]](https://github.com/Boeun-Kim/GL-Transformer)
+- (arXiv 2022.07) Action Quality Assessment with Temporal Parsing Transformer, [[Paper]](https://arxiv.org/pdf/2207.09270.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -603,6 +604,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Symmetry-Aware Transformer-based Mirror Detection, [[Paper]](https://arxiv.org/pdf/2207.06332.pdf),[[Code]](https://github.com/tyhuang0428/SATNet)
 - (arXiv 2022.07) Transformer-based Context Condensation for Boosting Feature Pyramids in Object Detection, [[Paper]](https://arxiv.org/pdf/2207.06603.pdf)
 - (arXiv 2022.07) Defect Transformer: An Efficient Hybrid Transformer Architecture for Surface Defect Detection, [[Paper]](https://arxiv.org/pdf/2207.08319.pdf)
+- (arXiv 2022.07) Conditional DETR V2: Efficient Detection Transformer with Box Queries, [[Paper]](https://arxiv.org/pdf/2207.08914.pdf)
+- (arXiv 2022.07) IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection, [[Paper]](https://arxiv.org/pdf/2207.09240.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1486,6 +1489,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Improving Semantic Segmentation in Transformers using Hierarchical Inter-Level Attention, [[Paper]](https://arxiv.org/pdf/2207.02126.pdf), [[Code]](https://www.cs.toronto.edu/~garyleung/hila/)
 - (arXiv 2022.07) Self-attention on Multi-Shifted Windows for Scene Segmentation, [[Paper]](https://arxiv.org/pdf/2207.04403.pdf), [[Code]](https://github.com/yutao1008/MSwin)
 - (arXiv 2022.07) eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2207.05358.pdf)
+- (arXiv 2022.07) Visual Representation Learning with Transformer: A Sequence-to-Sequence Perspective, [[Paper]](https://arxiv.org/pdf/2207.09339.pdf), [[Code]](https://github.com/fudan-zvg/SETR)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -1692,6 +1696,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Dual-Stream Transformer for Generic Event Boundary Captioning, [[Paper]](https://arxiv.org/pdf/2207.03038.pdf), [[Code]](https://github.com/GX77/Dual-Stream-Transformer-for-Generic-Event-Boundary-Captioning)
 - (arXiv 2022.07) Cross-Attention Transformer for Video Interpolation, [[Paper]](https://arxiv.org/pdf/2207.04132.pdf), [[Code]](https://github.com/hannahhalin/TAIN)
 - (arXiv 2022.07) Snipper: A Spatiotemporal Transformer for Simultaneous Multi-Person 3D Pose Estimation Tracking and Forecasting on a Video Snippet, [[Paper]](https://arxiv.org/pdf/2207.04320.pdf), [[Code]](https://github.com/JimmyZou/Snipper)
+- (arXiv 2022.07) Time Is MattEr: Temporal Self-supervision for Video Transformers, [[Paper]](https://arxiv.org/pdf/2207.09067.pdf), [[Code]](https://github.com/alinlab/temporal-selfsupervision)
+- (arXiv 2022.07) TTVFI: Learning Trajectory-Aware Transformer for Video Frame Interpolation, [[Paper]](https://arxiv.org/pdf/2207.09048.pdf), [[Code]](https://github.com/researchmm/TTVFI.git)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
