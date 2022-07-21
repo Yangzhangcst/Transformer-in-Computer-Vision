@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/20
+**Last updated: 2022/07/21
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -102,6 +102,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning, [[Paper]](https://arxiv.org/pdf/2207.06101.pdf),[[Code]](https://github.com/Boeun-Kim/GL-Transformer)
 - (arXiv 2022.07) Entry-Flipped Transformer for Inference and Prediction of Participant Behavior, [[Paper]](https://arxiv.org/pdf/2207.06235.pdf),[[Code]](https://github.com/Boeun-Kim/GL-Transformer)
 - (arXiv 2022.07) Action Quality Assessment with Temporal Parsing Transformer, [[Paper]](https://arxiv.org/pdf/2207.09270.pdf)
+- (arXiv 2022.07) HTNet: Anchor-free Temporal Action Localization with Hierarchical Transformers, [[Paper]](https://arxiv.org/pdf/2207.09662.pdf)
 
 ### Active Learning
 - (arXiv 2021.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -164,6 +165,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Variational Transformer: A Framework Beyond the Trade-off between Accuracy and Diversity for Image Captioning, [[Paper]](https://arxiv.org/pdf/2205.14458.pdf), [[Code]](https://github.com/kaelsunkiller/VaT)
 - (arXiv 2022.06) Transformer-Based Multi-modal Proposal and Re-Rank for Wikipedia Image-Caption Matching, [[Paper]](https://arxiv.org/pdf/2206.10436.pdf), [[Code]](https://github.com/mesnico/Wiki-Image-Caption-Matching)
 - (arXiv 2022.07) ExpansionNet: exploring the sequence length bottleneck in the Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2207.03327.pdf), [[Code]](https://github.com/jchenghu/ExpansionNet)
+- (arXiv 2022.07) GRIT: Faster and Better Image captioning Transformer Using Dual Visual Features, [[Paper]](https://arxiv.org/pdf/2207.09666.pdf), [[Code]](https://github.com/davidnvq/grit)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -435,6 +437,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Lightweight Vision Transformer with Cross Feature Attention, [[Paper]](https://arxiv.org/pdf/2207.07268.pdf)
 - (arXiv 2022.07) Multi-manifold Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.08569.pdf)
 - (arXiv 2022.07) TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.08409.pdf), [[Code]](https://github.com/Sense-X/TokenMix)
+- (arXiv 2022.07) Locality Guidance for Improving Vision Transformers on Tiny Datasets, [[Paper]](https://arxiv.org/pdf/2207.10026.pdf), [[Code]](https://github.com/lkhl/tiny-transformers)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -658,6 +661,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Towards Robust Blind Face Restoration with Codebook Lookup Transformer, [[Paper]](https://arxiv.org/pdf/2206.11253.pdf),[[Code]](https://shangchenzhou.com/projects/CodeFormer)
 - (arXiv 2022.07) RePFormer: Refinement Pyramid Transformer for Robust Facial Landmark Detection, [[Paper]](https://arxiv.org/pdf/2207.03917.pdf)
 - (arXiv 2022.07) TransFA: Transformer-based Representation for Face Attribute Evaluation, [[Paper]](https://arxiv.org/pdf/2207.05456.pdf)
+- (arXiv 2022.07) FaceFormer: Scale-aware Blind Face Restoration with Transformers, [[Paper]](https://arxiv.org/pdf/2207.09790.pdf)
+- (arXiv 2022.07) AU-Supervised Convolutional Vision Transformers for Synthetic Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2207.09777.pdf),[[Code]](https://github.com/msy1412/ABAW4)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -1104,6 +1109,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Open-Vocabulary Multi-Label Classification via Multi-modal Knowledge Transfer, [[Paper]](https://arxiv.org/pdf/2207.01887.pdf), [[Code]](https://github.com/seanhe97/MKT)
 - (arXiv 2022.07) Audio−Visual Segmentation, [[Paper]](https://arxiv.org/pdf/2207.05042.pdf), [[Code]](https://github.com/OpenNLPLab/AVSBench)
 - (arXiv 2022.07) FashionViL: Fashion-Focused Vision-and-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2207.08150.pdf), [[Code]](https://github.com/BrandonHanx/mmf)
+- (arXiv 2022.07) Multimodal Transformer for Automatic 3D Annotation and Object Detection, [[Paper]](https://arxiv.org/pdf/2207.09805.pdf), [[Code]](https://github.com/Cliu2/MTrans)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1281,6 +1287,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) AggPose: Deep Aggregation Vision Transformer for Infant Pose Estimation, [[Paper]](https://arxiv.org/pdf/2205.05277.pdf), [[Code]](https://github.com/SZAR-LAB/AggPose)
 - (arXiv 2022.05) VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2205.12602.pdf)
 - (arXiv 2022.05) Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation, [[Paper]](https://arxiv.org/pdf/2206.00171.pdf)
+- (arXiv 2022.07) OTPose: Occlusion-Aware Transformer for Pose Estimation in Sparsely-Labeled Videos, [[Paper]](https://arxiv.org/pdf/2207.09725.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -1437,6 +1444,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Position Labels for Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.04981.pdf)
 - (arXiv 2022.06) Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency, [[Paper]](https://arxiv.org/pdf/2206.08222.pdf), [[Code]](https://github.com/virajprabhu/PACMAC)
 - (arXiv 2022.06) Patch-level Representation Learning for Self-supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.07990.pdf), [[Code]](https://github.com/alinlab/SelfPatch)
+- (arXiv 2022.07) Hierarchically Self-Supervised Transformer for Human Skeleton Representation Learning, [[Paper]](https://arxiv.org/pdf/2207.09644.pdf), [[Code]](https://github.com/yuxiaochen1103/Hi-TRS)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -1571,6 +1579,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Transformer Tracking with Cyclic Shifting Window Attention, [[Paper]](https://arxiv.org/pdf/2205.03806.pdf), [[Code]](https://github.com/SkyeSong38/CSWinTT)
 - (arXiv 2022.05) Transformers for Multi-Object Tracking on Point Clouds, [[Paper]](https://arxiv.org/pdf/2205.15730.pdf)
 - (arXiv 2022.05) Joint Spatial-Temporal and Appearance Modeling with Transformer for Multiple Object Tracking, [[Paper]](https://arxiv.org/pdf/2205.15495.pdf), [[Code]](https://github.com/icicle4/TranSTAM)
+- (arXiv 2022.07) AiATrack: Attention in Attention for Transformer Visual Tracking, [[Paper]](https://arxiv.org/pdf/2207.09603.pdf), [[Code]](https://github.com/Little-Podi/AiATrack)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
