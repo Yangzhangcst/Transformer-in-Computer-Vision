@@ -684,6 +684,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Prompting Decision Transformer for Few-Shot Policy Generalization, [[Paper]](https://arxiv.org/pdf/2206.13499.pdf), [[Code]](https://mxu34.github.io/PromptDT/)
 - (arXiv 2022.07) Learning Cross-Image Object Semantic Relation in Transformer for Few-Shot Fine-Grained Image Classification, [[Paper]](https://arxiv.org/pdf/2207.00784.pdf), [[Code]](https://github.com/JiakangYuan/HelixFormer)
 - (arXiv 2022.07) Few-shot Object Counting and Detection, [[Paper]](https://arxiv.org/pdf/2207.10988.pdf), [[Code]](https://github.com/VinAIResearch/Counting-DETR)
+- (arXiv 2022.07) Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2207.10866.pdf), [[Code]](https://seokju-cho.github.io/VAT/)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -999,6 +1000,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Mobile Keystroke Biometrics Using Transformers, [[Paper]](https://arxiv.org/pdf/2207.07596.pdf)
 - (arXiv 2022.07) Multi-head Cascaded Swin Transformers with Attention to k-space Sampling Pattern for Accelerated MRI Reconstruction, [[Paper]](https://arxiv.org/pdf/2207.08412.pdf)
 - (arXiv 2022.07) HiFormer: Hierarchical Multi-scale Representations Using Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.08518.pdf),[[Code]](https://github.com/amirhossein-kz/HiFormer)
+- (arXiv 2022.07) Focused Decoding Enables 3D Anatomical Detection by Transformers, [[Paper]](https://arxiv.org/pdf/2207.10774.pdf),[[Code]](https://github.com/bwittmann/transoar)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1118,6 +1120,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) FashionViL: Fashion-Focused Vision-and-Language Representation Learning, [[Paper]](https://arxiv.org/pdf/2207.08150.pdf), [[Code]](https://github.com/BrandonHanx/mmf)
 - (arXiv 2022.07) Multimodal Transformer for Automatic 3D Annotation and Object Detection, [[Paper]](https://arxiv.org/pdf/2207.09805.pdf), [[Code]](https://github.com/Cliu2/MTrans)
 - (arXiv 2022.07) UFO: Unified Feature Optimization, [[Paper]](https://arxiv.org/pdf/2207.10341.pdf), [[Code]](https://github.com/PaddlePaddle/VIMER/tree/main/UFO)
+- (arXiv 2022.07) An Ensemble Approach for Multiple Emotion Descriptors Estimation Using Multi-task Learning, [[Paper]](https://arxiv.org/pdf/2207.10878.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1261,6 +1264,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) VN-Transformer: Rotation-Equivariant Attention for Vector Neurons, [[Paper]](https://arxiv.org/pdf/2206.04176.pdf)
 - (arXiv 2022.06) PST: Plant Segmentation Transformer Enhanced Phenotyping of MLS Oilseed Rape Point Cloud, [[Paper]](https://arxiv.org/pdf/2206.13082.pdf)
 - (arXiv 2022.07) SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer, [[Paper]](https://arxiv.org/pdf/2207.10315.pdf), [[Code]](https://github.com/hrzhou2/seedformer)
+- (arXiv 2022.07) Geodesic-Former: a Geodesic-Guided Few-shot 3D Point Cloud Instance Segmenter, [[Paper]](https://arxiv.org/pdf/2207.10859.pdf), [[Code]](https://github.com/VinAIResearch/GeoFormer)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
