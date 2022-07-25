@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/21
+**Last updated: 2022/07/25
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -667,6 +667,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) FaceFormer: Scale-aware Blind Face Restoration with Transformers, [[Paper]](https://arxiv.org/pdf/2207.09790.pdf)
 - (arXiv 2022.07) AU-Supervised Convolutional Vision Transformers for Synthetic Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2207.09777.pdf),[[Code]](https://github.com/msy1412/ABAW4)
 - (arXiv 2022.07) Hybrid CNN-Transformer Model For Facial Affect Recognition In the ABAW4 Challenge, [[Paper]](https://arxiv.org/pdf/2207.10201.pdf)
+- (arXiv 2022.07) Facial Expression Recognition using Vanilla ViT backbones with MAE Pretraining, [[Paper]](https://arxiv.org/pdf/2207.11081.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -682,6 +683,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Few-Shot Diffusion Models, [[Paper]](https://arxiv.org/pdf/2205.15463.pdf)
 - (arXiv 2022.06) Prompting Decision Transformer for Few-Shot Policy Generalization, [[Paper]](https://arxiv.org/pdf/2206.13499.pdf), [[Code]](https://mxu34.github.io/PromptDT/)
 - (arXiv 2022.07) Learning Cross-Image Object Semantic Relation in Transformer for Few-Shot Fine-Grained Image Classification, [[Paper]](https://arxiv.org/pdf/2207.00784.pdf), [[Code]](https://github.com/JiakangYuan/HelixFormer)
+- (arXiv 2022.07) Few-shot Object Counting and Detection, [[Paper]](https://arxiv.org/pdf/2207.10988.pdf), [[Code]](https://github.com/VinAIResearch/Counting-DETR)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -1151,6 +1153,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2202.11742.pdf), [[Project]](https://cshizhe.github.io/projects/vln_duet.html)
 - (arXiv 2022.03) Monocular Robot Navigation with Self-Supervised Pretrained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.03682.pdf), [[Project]](https://sachamorin.github.io/dino/)
 - (arXiv 2022.03) Object Memory Transformer for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2203.14708.pdf)
+- (arXiv 2022.03) Target-Driven Structured Transformer Planner for Vision-Language Navigation, [[Paper]](https://arxiv.org/pdf/2207.11201.pdf), [[Code]](https://github.com/YushengZhao/TD-STP)
 
 ### Neural Rendering
 - (arXiv 2022.03) ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.10157.pdf), [[Code]](https://github.com/jkulhanek/viewformer)
@@ -1715,6 +1718,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Snipper: A Spatiotemporal Transformer for Simultaneous Multi-Person 3D Pose Estimation Tracking and Forecasting on a Video Snippet, [[Paper]](https://arxiv.org/pdf/2207.04320.pdf), [[Code]](https://github.com/JimmyZou/Snipper)
 - (arXiv 2022.07) Time Is MattEr: Temporal Self-supervision for Video Transformers, [[Paper]](https://arxiv.org/pdf/2207.09067.pdf), [[Code]](https://github.com/alinlab/temporal-selfsupervision)
 - (arXiv 2022.07) TTVFI: Learning Trajectory-Aware Transformer for Video Frame Interpolation, [[Paper]](https://arxiv.org/pdf/2207.09048.pdf), [[Code]](https://github.com/researchmm/TTVFI.git)
+- (arXiv 2022.07) DeVIS: Making Deformable Transformers Work for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2207.11103.pdf), [[Code]](https://github.com/acaelles97/DeVIS)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
