@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/26
+**Last updated: 2022/07/27
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -105,6 +105,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) HTNet: Anchor-free Temporal Action Localization with Hierarchical Transformers, [[Paper]](https://arxiv.org/pdf/2207.09662.pdf)
 - (arXiv 2022.07) An Efficient Spatio-Temporal Pyramid Transformer for Action Detection, [[Paper]](https://arxiv.org/pdf/2207.10448.pdf)
 - (arXiv 2022.07) Action Quality Assessment using Transformers, [[Paper]](https://arxiv.org/pdf/2207.12318.pdf)
+- (arXiv 2022.07) Unsupervised Domain Adaptation for Video Transformers in Action Recognition, [[Paper]](https://arxiv.org/pdf/2207.12842.pdf),[[Code]](https://github.com/vturrisi/UDAVT)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -616,6 +617,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Defect Transformer: An Efficient Hybrid Transformer Architecture for Surface Defect Detection, [[Paper]](https://arxiv.org/pdf/2207.08319.pdf)
 - (arXiv 2022.07) Conditional DETR V2: Efficient Detection Transformer with Box Queries, [[Paper]](https://arxiv.org/pdf/2207.08914.pdf)
 - (arXiv 2022.07) IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection, [[Paper]](https://arxiv.org/pdf/2207.09240.pdf)
+- (arXiv 2022.07) Group DETR: Fast Training Convergence with Decoupled One-to-Many Label Assignment, [[Paper]](https://arxiv.org/pdf/2207.13085.pdf)
+- (arXiv 2022.07) DETRs with Hybrid Matching, [[Paper]](https://arxiv.org/pdf/2207.13080.pdf),[[Code]](https://github.com/HDETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1274,6 +1277,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) PST: Plant Segmentation Transformer Enhanced Phenotyping of MLS Oilseed Rape Point Cloud, [[Paper]](https://arxiv.org/pdf/2206.13082.pdf)
 - (arXiv 2022.07) SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer, [[Paper]](https://arxiv.org/pdf/2207.10315.pdf), [[Code]](https://github.com/hrzhou2/seedformer)
 - (arXiv 2022.07) Geodesic-Former: a Geodesic-Guided Few-shot 3D Point Cloud Instance Segmenter, [[Paper]](https://arxiv.org/pdf/2207.10859.pdf), [[Code]](https://github.com/VinAIResearch/GeoFormer)
+- (arXiv 2022.07) Graph Neural Network and Spatiotemporal Transformer Attention for 3D Video Object Detection from Point Clouds, [[Paper]](https://arxiv.org/pdf/2207.12659.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
