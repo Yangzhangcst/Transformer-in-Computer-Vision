@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/27
+**Last updated: 2022/07/28
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -106,6 +106,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) An Efficient Spatio-Temporal Pyramid Transformer for Action Detection, [[Paper]](https://arxiv.org/pdf/2207.10448.pdf)
 - (arXiv 2022.07) Action Quality Assessment using Transformers, [[Paper]](https://arxiv.org/pdf/2207.12318.pdf)
 - (arXiv 2022.07) Unsupervised Domain Adaptation for Video Transformers in Action Recognition, [[Paper]](https://arxiv.org/pdf/2207.12842.pdf),[[Code]](https://github.com/vturrisi/UDAVT)
+- (arXiv 2022.07) Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition, [[Paper]](https://arxiv.org/pdf/2207.13259.pdf),[[Code]](https://github.com/MartinXM/TPS)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -170,6 +171,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Transformer-Based Multi-modal Proposal and Re-Rank for Wikipedia Image-Caption Matching, [[Paper]](https://arxiv.org/pdf/2206.10436.pdf), [[Code]](https://github.com/mesnico/Wiki-Image-Caption-Matching)
 - (arXiv 2022.07) ExpansionNet: exploring the sequence length bottleneck in the Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2207.03327.pdf), [[Code]](https://github.com/jchenghu/ExpansionNet)
 - (arXiv 2022.07) GRIT: Faster and Better Image captioning Transformer Using Dual Visual Features, [[Paper]](https://arxiv.org/pdf/2207.09666.pdf), [[Code]](https://github.com/davidnvq/grit)
+- (arXiv 2022.07) Retrieval-Augmented Transformer for Image Captioning, [[Paper]](https://arxiv.org/pdf/2207.13162.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -1012,6 +1014,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Focused Decoding Enables 3D Anatomical Detection by Transformers, [[Paper]](https://arxiv.org/pdf/2207.10774.pdf),[[Code]](https://github.com/bwittmann/transoar)
 - (arXiv 2022.07) High-Resolution Swin Transformer for Automatic Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.11553.pdf),[[Code]](https://github.com/auroua/HRSTNet)
 - (arXiv 2022.07) Improved Super Resolution of MR Images Using CNNs and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.11748.pdf),[[Code]](https://github.com/auroua/HRSTNet)
+- (arXiv 2022.07) TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model, [[Paper]](https://arxiv.org/pdf/2207.13415.pdf),[[Code]](https://github.com/rezazad68/transnorm)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1912,6 +1915,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Explainable vision transformer enabled convolutional neural network for plant disease identification: PlantXViT, [[Paper]](https://arxiv.org/pdf/2207.07919.pdf)
 - (arXiv 2022.07) Magic ELF: Image Deraining Meets Association Learning and Transformer, [[Paper]](https://arxiv.org/pdf/2207.10455.pdf), [[Code]](https://github.com/kuijiang94/Magic-ELF)
 - (arXiv 2022.07) Self-Distilled Vision Transformer for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2207.12392.pdf), [[Code]](https://github.com/maryam089/SDViT)
+- (arXiv 2022.07) Online Continual Learning with Contrastive Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.13516.pdf)
 
 ## Contact & Feedback
 
