@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/28
+**Last updated: 2022/07/29
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -531,6 +531,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Practical Blind Denoising via Swin-Conv-UNet and Data Synthesis, [[Paper]](https://arxiv.org/pdf/2203.13278.pdf), [[Code]](https://github.com/cszn/SCUNet)
 - (arXiv 2022.05) Coarse-to-Fine Video Denoising with Dual-Stage Spatial-Channel Transformer, [[Paper]](https://arxiv.org/pdf/2205.00214.pdf)
 - (arXiv 2022.05) Dense residual Transformer for image denoising, [[Paper]](https://arxiv.org/pdf/2205.00214.pdf)
+- (arXiv 2022.07) DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer, [[Paper]](https://arxiv.org/pdf/2207.13861.pdf)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -620,7 +621,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Conditional DETR V2: Efficient Detection Transformer with Box Queries, [[Paper]](https://arxiv.org/pdf/2207.08914.pdf)
 - (arXiv 2022.07) IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection, [[Paper]](https://arxiv.org/pdf/2207.09240.pdf)
 - (arXiv 2022.07) Group DETR: Fast Training Convergence with Decoupled One-to-Many Label Assignment, [[Paper]](https://arxiv.org/pdf/2207.13085.pdf)
-- (arXiv 2022.07) DETRs with Hybrid Matching, [[Paper]](https://arxiv.org/pdf/2207.13080.pdf),[[Code]](https://github.com/HDETR)
+- (arXiv 2022.07) DETRs with Hybrid Matching, [[Paper]](https://arxiv.org/pdf/2207.13080.pdf), [[Code]](https://github.com/HDETR)
+- (arXiv 2022.07) Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion, [[Paper]](https://arxiv.org/pdf/2207.14172.pdf),[[Code]](https://github.com/ZhangGongjie/SAM-DETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -791,6 +793,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Parallel Pre-trained Transformers (PPT) for Synthetic Data-based Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2206.10845.pdf), [[Code]](https://accessibility-cv.github.io/)
 - (arXiv 2022.07) OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2207.02255.pdf), [[Code]](https://github.com/PJLallen/OSFormer)
 - (arXiv 2022.07) In Defense of Online Models for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2207.10661.pdf), [[Code]](https://github.com/wjf5203/VNext)
+- (arXiv 2022.07) Video Mask Transfiner for High-Quality Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2207.14012.pdf), [[Project]](https://www.vis.xyz/pub/vmt)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -1031,6 +1034,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation, [[Paper]](https://arxiv.org/pdf/2203.16202.pdf)
 - (arXiv 2022.04) HiT-DVAE: Human Motion Generation via Hierarchical Transformer Dynamical VAE, [[Paper]](https://arxiv.org/pdf/2204.01565.pdf)
 - (arXiv 2022.07) TENET: Transformer Encoding Network for Effective Temporal Flow on Motion Prediction, [[Paper]](https://arxiv.org/pdf/2207.00170.pdf)
+
+### Mesh
+- (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -1626,6 +1632,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) S2TNet: Spatio-Temporal Transformer Networks for Trajectory Prediction in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2206.10902.pdf), [[Code]](https://github.com/chenghuang66/s2tnet)
 - (arXiv 2022.07) Pyramid Transformer for Traffic Sign Detection, [[Paper]](https://arxiv.org/pdf/2207.06067.pdf), [[Code]](https://github.com/chenghuang66/s2tnet)
 - (arXiv 2022.07) Applying Spatiotemporal Attention to Identify Distracted and Drowsy Driving with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.12148.pdf)
+- (arXiv 2022.07) Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2207.14024.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
