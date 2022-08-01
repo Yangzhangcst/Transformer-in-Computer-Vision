@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/07/29
+**Last updated: 2022/08/01
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -447,6 +447,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) TinyViT: Fast Pretraining Distillation for Small Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.10666.pdf), [[Code]](https://github.com/microsoft/Cream/tree/main/TinyViT)
 - (arXiv 2022.07) Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.11971.pdf), [[Code]](https://yingyichen-cyy.github.io/Jigsaw-ViT/)
 - (arXiv 2022.07) An Impartial Take to the CNN vs Transformer Robustness Contest, [[Paper]](https://arxiv.org/pdf/2207.11347.pdf)
+- (arXiv 2022.07) Pro-tuning: Unified Prompt Tuning for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2207.14381.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1018,6 +1019,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) High-Resolution Swin Transformer for Automatic Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.11553.pdf),[[Code]](https://github.com/auroua/HRSTNet)
 - (arXiv 2022.07) Improved Super Resolution of MR Images Using CNNs and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.11748.pdf),[[Code]](https://github.com/auroua/HRSTNet)
 - (arXiv 2022.07) TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model, [[Paper]](https://arxiv.org/pdf/2207.13415.pdf),[[Code]](https://github.com/rezazad68/transnorm)
+- (arXiv 2022.07) ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise Perspective for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.14552.pdf),[[Code]](https://github.com/ZJUGiveLab/ScaleFormer)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1352,6 +1354,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) TransVPR: Transformer-based place recognition with multi-level attention aggregation, [[Paper]](https://arxiv.org/pdf/2201.02001.pdf)
 - (arXiv 2022.03) MetaFormer : A Unified Meta Framework for Fine-Grained Recognition, [[Paper]](https://arxiv.org/pdf/2203.02751.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
 - (arXiv 2022.04) Diverse Instance Discovery: Vision-Transformer for Instance-Aware Multi-Label Image Recognition, [[Paper]](https://arxiv.org/pdf/2204.10731.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
+- (arXiv 2022.07) Forensic License Plate Recognition with Compression-Informed Transformers, [[Paper]](https://arxiv.org/pdf/2207.14686.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
