@@ -1143,6 +1143,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Multimodal Transformer for Automatic 3D Annotation and Object Detection, [[Paper]](https://arxiv.org/pdf/2207.09805.pdf), [[Code]](https://github.com/Cliu2/MTrans)
 - (arXiv 2022.07) UFO: Unified Feature Optimization, [[Paper]](https://arxiv.org/pdf/2207.10341.pdf), [[Code]](https://github.com/PaddlePaddle/VIMER/tree/main/UFO)
 - (arXiv 2022.07) An Ensemble Approach for Multiple Emotion Descriptors Estimation Using Multi-task Learning, [[Paper]](https://arxiv.org/pdf/2207.10878.pdf)
+- (arXiv 2022.07) STrajNet: Occupancy Flow Prediction via Multi-modal Swin Transformer, [[Paper]](https://arxiv.org/pdf/2208.00394.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1210,6 +1211,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) SVG Vector Font Generation for Chinese Characters with Transformer, [[Paper]](https://arxiv.org/pdf/2206.10329.pdf)
 - (arXiv 2022.07) DPText-DETR: Towards Better Scene Text Detection with Dynamic Points in Transformer, [[Paper]](https://arxiv.org/pdf/2207.04491.pdf), [[Code]](https://github.com/ymy-k/DPText-DETR)
 - (arXiv 2022.07) CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition, [[Paper]](https://arxiv.org/pdf/2207.04410.pdf), [[Code]](https://github.com/Green-Wood/CoMER)
+- (arXiv 2022.08) Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2208.00438.pdf), [[Code]](https://github.com/xdxie/WordArt)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
@@ -1622,6 +1624,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Joint Spatial-Temporal and Appearance Modeling with Transformer for Multiple Object Tracking, [[Paper]](https://arxiv.org/pdf/2205.15495.pdf), [[Code]](https://github.com/icicle4/TranSTAM)
 - (arXiv 2022.07) AiATrack: Attention in Attention for Transformer Visual Tracking, [[Paper]](https://arxiv.org/pdf/2207.09603.pdf), [[Code]](https://github.com/Little-Podi/AiATrack)
 - (arXiv 2022.07) 3D Siamese Transformer Network for Single Object Tracking on Point Clouds, [[Paper]](https://arxiv.org/pdf/2207.11995.pdf), [[Code]](https://github.com/fpthink/STNet)
+- (arXiv 2022.08) Local Perception-Aware Transformer for Aerial Tracking, [[Paper]](https://arxiv.org/pdf/2208.00662.pdf), [[Code]](https://github.com/vision4robotics/LPAT)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
