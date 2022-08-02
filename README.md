@@ -116,6 +116,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Backdoor Attacks on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.08477.pdf), [[Code]](https://github.com/UCDvision/backdoor_transformer.git)
 - (arXiv 2022.06) Defending Backdoor Attacks on Vision Transformer via Patch Processing, [[Paper]](https://arxiv.org/pdf/2206.12381.pdf)
 - (arXiv 2022.07) Towards Efficient Adversarial Training on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.10498.pdf)
+- (arXiv 2022.08) Understanding Adversarial Robustness of Vision Transformers via Cauchy Problem, [[Paper]](https://arxiv.org/pdf/2208.00906.pdf), [[Code]](https://github.com/TrustAI/ODE4RobustViT)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -470,6 +471,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Degradation-Aware Unfolding Half-Shuffle Transformer for Spectral Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2205.10102.pdf)
 - (arXiv 2022.06) VCT: A Video Compression Transformer, [[Paper]](https://arxiv.org/pdf/2206.07307.pdf), [[Code]](https://github.com/google-research/google-research/tree/master/vct)
 - (arXiv 2022.07) TransCL: Transformer Makes Strong and Flexible Compressive Learning, [[Paper]](https://arxiv.org/pdf/2207.11972.pdf), [[Code]](https://github.com/MC-E/TransCL/)
+- (arXiv 2022.08) Meta-DETR: Image-Level Few-Shot Detection with Inter-Class Correlation Exploitation, [[Paper]](https://arxiv.org/pdf/2208.00219.pdf), [[Code]](https://github.com/ZhangGongjie/Meta-DETR)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -624,6 +626,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Group DETR: Fast Training Convergence with Decoupled One-to-Many Label Assignment, [[Paper]](https://arxiv.org/pdf/2207.13085.pdf)
 - (arXiv 2022.07) DETRs with Hybrid Matching, [[Paper]](https://arxiv.org/pdf/2207.13080.pdf), [[Code]](https://github.com/HDETR)
 - (arXiv 2022.07) Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion, [[Paper]](https://arxiv.org/pdf/2207.14172.pdf),[[Code]](https://github.com/ZhangGongjie/SAM-DETR)
+- (arXiv 2022.07) SiamixFormer: A Siamese Transformer Network For Building Detection And Change Detection From Bi-Temporal Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2208.00657.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -771,6 +774,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Improving Vision Transformers for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2112.06103.pdf)
 - (arXiv 2022.03) Meta-attention for ViT-backed Continual Learning, [[Paper]](https://arxiv.org/pdf/2203.11684.pdf), [[Code]](https://github.com/zju-vipa/MEAT-TIL)
 - (arXiv 2022.03)Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization, [[Paper]](https://arxiv.org/pdf/2203.13167.pdf)
+- (arXiv 2022.08) D3Former: Debiased Dual Distilled Transformer for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2208.00777.pdf), [[Code]](https://tinyurl.com/d3former)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -1020,6 +1024,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Improved Super Resolution of MR Images Using CNNs and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.11748.pdf),[[Code]](https://github.com/auroua/HRSTNet)
 - (arXiv 2022.07) TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model, [[Paper]](https://arxiv.org/pdf/2207.13415.pdf),[[Code]](https://github.com/rezazad68/transnorm)
 - (arXiv 2022.07) ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise Perspective for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.14552.pdf),[[Code]](https://github.com/ZJUGiveLab/ScaleFormer)
+- (arXiv 2022.08) TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2208.00713.pdf),[[Code]](https://github.com/rezazad68/transdeeplab)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1291,6 +1296,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer, [[Paper]](https://arxiv.org/pdf/2207.10315.pdf), [[Code]](https://github.com/hrzhou2/seedformer)
 - (arXiv 2022.07) Geodesic-Former: a Geodesic-Guided Few-shot 3D Point Cloud Instance Segmenter, [[Paper]](https://arxiv.org/pdf/2207.10859.pdf), [[Code]](https://github.com/VinAIResearch/GeoFormer)
 - (arXiv 2022.07) Graph Neural Network and Spatiotemporal Transformer Attention for 3D Video Object Detection from Point Clouds, [[Paper]](https://arxiv.org/pdf/2207.12659.pdf)
+- (arXiv 2022.08) Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding, [[Paper]](https://arxiv.org/pdf/2208.00281.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
