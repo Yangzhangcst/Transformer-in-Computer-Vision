@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/02
+**Last updated: 2022/08/03
 
 ##### Update log
 *2021/April* - update all of recent papers of Transformer-in-Vision.  
@@ -472,6 +472,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) VCT: A Video Compression Transformer, [[Paper]](https://arxiv.org/pdf/2206.07307.pdf), [[Code]](https://github.com/google-research/google-research/tree/master/vct)
 - (arXiv 2022.07) TransCL: Transformer Makes Strong and Flexible Compressive Learning, [[Paper]](https://arxiv.org/pdf/2207.11972.pdf), [[Code]](https://github.com/MC-E/TransCL/)
 - (arXiv 2022.08) Meta-DETR: Image-Level Few-Shot Detection with Inter-Class Correlation Exploitation, [[Paper]](https://arxiv.org/pdf/2208.00219.pdf), [[Code]](https://github.com/ZhangGongjie/Meta-DETR)
+- (arXiv 2022.08) Unified Normalization for Accelerating and Stabilizing Transformers, [[Paper]](https://arxiv.org/pdf/2208.01313.pdf), [[Code]](https://github.com/hikvision-research/Unified-Normalization)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -1335,6 +1336,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) VTP: Volumetric Transformer for Multi-view Multi-person 3D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2205.12602.pdf)
 - (arXiv 2022.05) Learning Sequential Contexts using Transformer for 3D Hand Pose Estimation, [[Paper]](https://arxiv.org/pdf/2206.00171.pdf)
 - (arXiv 2022.07) OTPose: Occlusion-Aware Transformer for Pose Estimation in Sparsely-Labeled Videos, [[Paper]](https://arxiv.org/pdf/2207.09725.pdf)
+- (arXiv 2022.08) Pose Uncertainty Aware Movement Synchrony Estimation via Spatial-Temporal Graph Transformer, [[Paper]](https://arxiv.org/pdf/2208.01161.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -1662,6 +1664,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Improving Transferability for Domain Adaptive Detection Transformers, [[Paper]](https://arxiv.org/pdf/2204.14195.pdf), [[Code]](https://github.com/tsun/SSRT)
 - (arXiv 2022.05) Cross-Domain Object Detection with Mean-Teacher Transformer, [[Paper]](https://arxiv.org/pdf/2205.01643.pdf)
 - (arXiv 2022.06) Cross-domain Detection Transformer based on Spatial-aware and Semantic-aware Token Alignment, [[Paper]](https://arxiv.org/pdf/2206.00222.pdf)
+- (arXiv 2022.08) Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2208.01195.pdf), [[Code]](https://github.com/BIT-DA/Domain-Oriented-Transformer)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
@@ -1762,6 +1765,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) TTVFI: Learning Trajectory-Aware Transformer for Video Frame Interpolation, [[Paper]](https://arxiv.org/pdf/2207.09048.pdf), [[Code]](https://github.com/researchmm/TTVFI.git)
 - (arXiv 2022.07) DeVIS: Making Deformable Transformers Work for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2207.11103.pdf), [[Code]](https://github.com/acaelles97/DeVIS)
 - (arXiv 2022.07) Video Swin Transformers for Egocentric Video Understanding @ Ego4D Challenges 2022, [[Paper]](https://arxiv.org/pdf/2207.11329.pdf)
+- (arXiv 2022.08) BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2208.01159.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -1935,6 +1939,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Magic ELF: Image Deraining Meets Association Learning and Transformer, [[Paper]](https://arxiv.org/pdf/2207.10455.pdf), [[Code]](https://github.com/kuijiang94/Magic-ELF)
 - (arXiv 2022.07) Self-Distilled Vision Transformer for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2207.12392.pdf), [[Code]](https://github.com/maryam089/SDViT)
 - (arXiv 2022.07) Online Continual Learning with Contrastive Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.13516.pdf)
+- (arXiv 2022.08) A Novel Transformer Network with Shifted Window Cross-Attention for Spatiotemporal Weather Forecasting, [[Paper]](https://arxiv.org/pdf/2208.01252.pdf)
 
 ## Contact & Feedback
 
