@@ -107,6 +107,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Action Quality Assessment using Transformers, [[Paper]](https://arxiv.org/pdf/2207.12318.pdf)
 - (arXiv 2022.07) Unsupervised Domain Adaptation for Video Transformers in Action Recognition, [[Paper]](https://arxiv.org/pdf/2207.12842.pdf),[[Code]](https://github.com/vturrisi/UDAVT)
 - (arXiv 2022.07) Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition, [[Paper]](https://arxiv.org/pdf/2207.13259.pdf),[[Code]](https://github.com/MartinXM/TPS)
+- (arXiv 2022.08) Combined CNN Transformer Encoder for Enhanced Fine-grained Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2208.01897.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -136,6 +137,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Multi-Scale Features and Parallel Transformers Based Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2204.09779.pdf), [[Code]](https://github.com/KomalPal9610/IQA)
 - (arXiv 2022.05) SwinIQA: Learned Swin Distance for Compressed Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2205.04264.pdf)
 - (arXiv 2022.05) MSTRIQ: No Reference Image Quality Assessment Based on Swin Transformer with Multi-Stage Fusion, [[Paper]](https://arxiv.org/pdf/2205.10101.pdf)
+- (arXiv 2022.08) DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture, [[Paper]](https://arxiv.org/pdf/2208.02205.pdf)
 
 ### Bird's-Eye-View
 - (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
@@ -1026,6 +1028,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) TransNorm: Transformer Provides a Strong Spatial Normalization Mechanism for a Deep Segmentation Model, [[Paper]](https://arxiv.org/pdf/2207.13415.pdf),[[Code]](https://github.com/rezazad68/transnorm)
 - (arXiv 2022.07) ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise Perspective for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.14552.pdf),[[Code]](https://github.com/ZJUGiveLab/ScaleFormer)
 - (arXiv 2022.08) TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2208.00713.pdf),[[Code]](https://github.com/rezazad68/transdeeplab)
+- (arXiv 2022.08) Multi-Feature Vision Transformer via Self-Supervised Representation Learning for Improvement of COVID-19 Diagnosis, [[Paper]](https://arxiv.org/pdf/2208.01843.pdf),[[Code]](https://github.com/endiqq/Multi-Feature-ViT)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1548,6 +1551,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Self-attention on Multi-Shifted Windows for Scene Segmentation, [[Paper]](https://arxiv.org/pdf/2207.04403.pdf), [[Code]](https://github.com/yutao1008/MSwin)
 - (arXiv 2022.07) eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2207.05358.pdf)
 - (arXiv 2022.07) Visual Representation Learning with Transformer: A Sequence-to-Sequence Perspective, [[Paper]](https://arxiv.org/pdf/2207.09339.pdf), [[Code]](https://github.com/fudan-zvg/SETR)
+- (arXiv 2022.07) SSformer: A Lightweight Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2208.02034.pdf), [[Code]](https://github.com/shiwt03/SSformer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -1766,6 +1770,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) DeVIS: Making Deformable Transformers Work for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2207.11103.pdf), [[Code]](https://github.com/acaelles97/DeVIS)
 - (arXiv 2022.07) Video Swin Transformers for Egocentric Video Understanding @ Ego4D Challenges 2022, [[Paper]](https://arxiv.org/pdf/2207.11329.pdf)
 - (arXiv 2022.08) BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2208.01159.pdf)
+- (arXiv 2022.08) Two-Stream Transformer Architecture for Long Form Video Understanding, [[Paper]](https://arxiv.org/pdf/2208.01753.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
