@@ -1,23 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/03
-
-##### Update log
-*2021/April* - update all of recent papers of Transformer-in-Vision.  
-*2021/May* - update all of recent papers of Transformer-in-Vision.  
-*2021/June* - update all of recent papers of Transformer-in-Vision.  
-*2021/July* - update all of recent papers of Transformer-in-Vision.  
-*2021/August* - update all of recent papers of Transformer-in-Vision.  
-*2021/September* - update all of recent papers of Transformer-in-Vision.  
-*2021/October* - update all of recent papers of Transformer-in-Vision.  
-*2021/November* - update all of recent papers of Transformer-in-Vision.  
-*2021/December* - update all of recent papers of Transformer-in-Vision.  
-*2022/January* - update all of recent papers of Transformer-in-Vision.  
-*2022/February* - update all of recent papers of Transformer-in-Vision.  
-*2022/March* - update all of recent papers of Transformer-in-Vision.  
-*2022/April* - update all of recent papers of Transformer-in-Vision.  
-*2022/May* - update all of recent papers of Transformer-in-Vision.  
+**Last updated: 2022/08/04
 
 ## Survey: 
 - (arXiv 2022.05) Multimodal Learning with Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2206.06488.pdf)
