@@ -552,7 +552,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.02) GEM: Glare or Gloom, I Can Still See You – End-to-End Multimodal Object Detector, [[Paper]](https://arxiv.org/pdf/2102.12319.pdf)
 - (arXiv 2021.03) SSTN: Self-Supervised Domain Adaptation Thermal Object Detection for Autonomous Driving, [[Paper]](https://arxiv.org/abs/2103.03150)
 - (arXiv 2021.03) Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning, [[Paper]](https://arxiv.org/pdf/2103.11731.pdf)
-- (arXiv 2021.03) TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2103.14862)
 - (arXiv 2021.03) CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification, [[Paper]](https://arxiv.org/abs/2103.14899)
 - (arXiv 2021.03) DA-DETR: Domain Adaptive Detection Transformer by Hybrid Attention, [[Paper]](https://arxiv.org/abs/2103.17084)
 - (arXiv 2021.04) Efficient DETR: Improving End-to-End Object Detector with Dense Prior, [[Paper]](https://arxiv.org/pdf/2104.01318.pdf)
@@ -1814,8 +1813,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Weakly Supervised Learning
 - (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
 - (arXiv 2022.01) CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2201.00475)
+- (arXiv 2021.03) TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2103.14862)
 - (arXiv 2022.04) ViTOL: Vision Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2204.06772), [[Code]](https://github.com/Saurav-31/ViTOL)
 - (arXiv 2022.07) Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration, [[Paper]](https://arxiv.org/abs/2207.10447), [[Code]](https://github.com/164140757/SCM)
+- (arXiv 2022.08) Re-Attention Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2208.01838), [[Code]](https://github.com/su-hui-zz/ReAttentionTransformer)
 
 ### Zero-Shot Learning
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
