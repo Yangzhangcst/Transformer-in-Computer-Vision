@@ -1142,6 +1142,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Multi-View Stereo with Transformer, [[Paper]](https://arxiv.org/pdf/2112.00336.pdf)
 - (arXiv 2022.04) MVSTER: Epipolar Transformer for Efficient Multi-View Stereo, [[Paper]](https://arxiv.org/pdf/2204.07346.pdf), [[Code]](https://github.com/JeffWang987)
 - (arXiv 2022.05) WT-MVSNet: Window-based Transformers for Multi-view Stereo, [[Paper]](https://arxiv.org/pdf/2205.14319.pdf), [[Code]](https://github.com/JeffWang987)
+- (arXiv 2022.08) MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo, [[Paper]](https://arxiv.org/pdf/2208.02541.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -1930,6 +1931,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Self-Distilled Vision Transformer for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2207.12392.pdf), [[Code]](https://github.com/maryam089/SDViT)
 - (arXiv 2022.07) Online Continual Learning with Contrastive Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.13516.pdf)
 - (arXiv 2022.08) A Novel Transformer Network with Shifted Window Cross-Attention for Spatiotemporal Weather Forecasting, [[Paper]](https://arxiv.org/pdf/2208.01252.pdf)
+- (arXiv 2022.08) Transformers as Meta-Learners for Implicit Neural Representations, [[Paper]](https://arxiv.org/pdf/2208.02801.pdf), [[Code]](https://github.com/yinboc/trans-inr)
 
 ## Contact & Feedback
 
