@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/05
+**Last updated: 2022/08/08
 
 ## Survey: 
 - (arXiv 2022.05) Multimodal Learning with Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2206.06488.pdf)
@@ -815,6 +815,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Matting
 - (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
+- (arXiv 2022.08) TransMatting: Enhancing Transparent Objects Matting with Transformers, [[Paper]](https://arxiv.org/pdf/2208.03007.pdf), [[Code]](https://github.com/AceCHQ/TransMatting)
 
 ### Medical
 - (arXiv 2021.02) TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2102.04306), [[Code]](https://github.com/Beckschen/TransUNet)
@@ -1012,6 +1013,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) ScaleFormer: Revisiting the Transformer-based Backbones from a Scale-wise Perspective for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2207.14552.pdf),[[Code]](https://github.com/ZJUGiveLab/ScaleFormer)
 - (arXiv 2022.08) TransDeepLab: Convolution-Free Transformer-based DeepLab v3+ for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2208.00713.pdf),[[Code]](https://github.com/rezazad68/transdeeplab)
 - (arXiv 2022.08) Multi-Feature Vision Transformer via Self-Supervised Representation Learning for Improvement of COVID-19 Diagnosis, [[Paper]](https://arxiv.org/pdf/2208.01843.pdf),[[Code]](https://github.com/endiqq/Multi-Feature-ViT)
+- (arXiv 2022.08) Self-Ensembling Vision Transformer (SEViT) for Robust Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2208.02851.pdf),[[Code]](https://github.com/faresmalik/SEViT)
+- (arXiv 2022.08) BrainFormer: A Hybrid CNN-Transformer Model for Brain fMRI Data Classification, [[Paper]](https://arxiv.org/pdf/2208.03028.pdf),[[Code]](https://github.com/ZiyaoZhangforPCL/BrainFormer)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1568,6 +1571,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Bilateral Network with Channel Splitting Network and Transformer for Thermal Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2206.12046.pdf)
 - (arXiv 2022.07) Rethinking Alignment in Video Super-Resolution Transformers,  [[Paper]](https://arxiv.org/pdf/2207.08494.pdf), [[Code]](https://github.com/XPixelGroup/RethinkVSRAlignment)
 - (arXiv 2022.07) Reference-based Image Super-Resolution with Deformable Attention Transformer,  [[Paper]](https://arxiv.org/pdf/2207.11938.pdf), [[Code]](https://github.com/caojiezhang/DATSR)
+- (arXiv 2022.08) Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2208.03012.pdf), [[Code]](https://github.com/researchmm/FTVSR)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -1932,6 +1936,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Online Continual Learning with Contrastive Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.13516.pdf)
 - (arXiv 2022.08) A Novel Transformer Network with Shifted Window Cross-Attention for Spatiotemporal Weather Forecasting, [[Paper]](https://arxiv.org/pdf/2208.01252.pdf)
 - (arXiv 2022.08) Transformers as Meta-Learners for Implicit Neural Representations, [[Paper]](https://arxiv.org/pdf/2208.02801.pdf), [[Code]](https://github.com/yinboc/trans-inr)
+- (arXiv 2022.08) LaTTe: Language Trajectory TransformEr, [[Paper]](https://arxiv.org/pdf/2208.02918.pdf), [[Code]](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)
 
 ## Contact & Feedback
 
