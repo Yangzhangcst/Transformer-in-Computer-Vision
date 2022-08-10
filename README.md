@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/09
+**Last updated: 2022/08/10
 
 ## Survey: 
 - (arXiv 2022.08) 3D Vision with Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2208.04309.pdf), [[Awesome]](https://github.com/lahoud/3d-vision-transformers)
@@ -723,6 +723,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
 - (arXiv 2022.03) End-to-End Human-Gaze-Target Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.10433.pdf)
 - (arXiv 2022.05) Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning, [[Paper]](https://arxiv.org/pdf/2205.12466.pdf)
+- (arXiv 2022.08) In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation, [[Paper]](https://arxiv.org/pdf/2208.04464.pdf), [[Code]](https://bolinlai.github.io/GLC-EgoGazeEst)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -1362,6 +1363,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) MetaFormer : A Unified Meta Framework for Fine-Grained Recognition, [[Paper]](https://arxiv.org/pdf/2203.02751.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
 - (arXiv 2022.04) Diverse Instance Discovery: Vision-Transformer for Instance-Aware Multi-Label Image Recognition, [[Paper]](https://arxiv.org/pdf/2204.10731.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
 - (arXiv 2022.07) Forensic License Plate Recognition with Compression-Informed Transformers, [[Paper]](https://arxiv.org/pdf/2207.14686.pdf), [[Code]](https://www.cs1.tf.fau.de/research/multimedia-security/)
+- (arXiv 2022.08) TSRFormer: Table Structure Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2208.04921.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -1666,6 +1668,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Cross-Domain Object Detection with Mean-Teacher Transformer, [[Paper]](https://arxiv.org/pdf/2205.01643.pdf)
 - (arXiv 2022.06) Cross-domain Detection Transformer based on Spatial-aware and Semantic-aware Token Alignment, [[Paper]](https://arxiv.org/pdf/2206.00222.pdf)
 - (arXiv 2022.08) Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2208.01195.pdf), [[Code]](https://github.com/BIT-DA/Domain-Oriented-Transformer)
+- (arXiv 2022.08) How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification, [[Paper]](https://arxiv.org/pdf/2208.04693.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
