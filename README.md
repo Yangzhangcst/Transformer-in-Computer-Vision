@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/11
+**Last updated: 2022/08/12
 
 ## Survey: 
 - (arXiv 2022.08) 3D Vision with Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2208.04309.pdf), [[Awesome]](https://github.com/lahoud/3d-vision-transformers)
@@ -438,6 +438,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.11971.pdf), [[Code]](https://yingyichen-cyy.github.io/Jigsaw-ViT/)
 - (arXiv 2022.07) An Impartial Take to the CNN vs Transformer Robustness Contest, [[Paper]](https://arxiv.org/pdf/2207.11347.pdf)
 - (arXiv 2022.07) Pro-tuning: Unified Prompt Tuning for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2207.14381.pdf)
+- (arXiv 2022.08) Semi-supervised Vision Transformers at Scale, [[Paper]](https://arxiv.org/pdf/2208.05688.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -514,6 +515,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Self-supervised Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2203.01265.pdf), [[Code]](https://github.com/IDKiro/DehazeFormer)
 - (arXiv 2022.06) Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection, [[Paper]](https://arxiv.org/pdf/2206.13829.pdf)
 - (arXiv 2022.07) Deepfake Video Detection with Spatiotemporal Dropout Transformer, [[Paper]](https://arxiv.org/pdf/2207.06612.pdf)
+- (arXiv 2022.07) Hybrid Transformer Network for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2208.05820.pdf)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -1296,6 +1298,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Graph Neural Network and Spatiotemporal Transformer Attention for 3D Video Object Detection from Point Clouds, [[Paper]](https://arxiv.org/pdf/2207.12659.pdf)
 - (arXiv 2022.08) Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding, [[Paper]](https://arxiv.org/pdf/2208.00281.pdf)
 - (arXiv 2022.08) Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2208.05216.pdf), [[Code]](https://github.com/Jasonkks/PTTR)
+- (arXiv 2022.08) PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees, [[Paper]](https://arxiv.org/pdf/2208.05962.pdf), [[Code]](https://github.com/immortalCO/PointTree)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
