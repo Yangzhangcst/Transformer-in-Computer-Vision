@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/12
+**Last updated: 2022/08/15
 
 ## Survey: 
 - (arXiv 2022.08) 3D Vision with Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2208.04309.pdf), [[Awesome]](https://github.com/lahoud/3d-vision-transformers)
@@ -439,6 +439,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) An Impartial Take to the CNN vs Transformer Robustness Contest, [[Paper]](https://arxiv.org/pdf/2207.11347.pdf)
 - (arXiv 2022.07) Pro-tuning: Unified Prompt Tuning for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2207.14381.pdf)
 - (arXiv 2022.08) Semi-supervised Vision Transformers at Scale, [[Paper]](https://arxiv.org/pdf/2208.05688.pdf)
+- (arXiv 2022.08) BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers, [[Paper]](https://arxiv.org/pdf/2208.06366.pdf), [[Code]](https://aka.ms/beit)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1023,6 +1024,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Self-Ensembling Vision Transformer (SEViT) for Robust Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2208.02851.pdf),[[Code]](https://github.com/faresmalik/SEViT)
 - (arXiv 2022.08) BrainFormer: A Hybrid CNN-Transformer Model for Brain fMRI Data Classification, [[Paper]](https://arxiv.org/pdf/2208.03028.pdf),[[Code]](https://github.com/ZiyaoZhangforPCL/BrainFormer)
 - (arXiv 2022.08) U-Net vs Transformer: Is U-Net Outdated in Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2208.04939.pdf),[[Code]](https://github.com/xi-jia/LKU-Net)
+- (arXiv 2022.08) Shifted Windows Transformers for Medical Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2208.06034.pdf),[[Code]](https://github.com/canerozer/qct)
+
+### Mesh
+- (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1039,9 +1044,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation, [[Paper]](https://arxiv.org/pdf/2203.16202.pdf)
 - (arXiv 2022.04) HiT-DVAE: Human Motion Generation via Hierarchical Transformer Dynamical VAE, [[Paper]](https://arxiv.org/pdf/2204.01565.pdf)
 - (arXiv 2022.07) TENET: Transformer Encoding Network for Effective Temporal Flow on Motion Prediction, [[Paper]](https://arxiv.org/pdf/2207.00170.pdf)
-
-### Mesh
-- (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
