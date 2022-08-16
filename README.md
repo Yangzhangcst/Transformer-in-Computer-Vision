@@ -1027,6 +1027,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) BrainFormer: A Hybrid CNN-Transformer Model for Brain fMRI Data Classification, [[Paper]](https://arxiv.org/pdf/2208.03028.pdf),[[Code]](https://github.com/ZiyaoZhangforPCL/BrainFormer)
 - (arXiv 2022.08) U-Net vs Transformer: Is U-Net Outdated in Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2208.04939.pdf),[[Code]](https://github.com/xi-jia/LKU-Net)
 - (arXiv 2022.08) Shifted Windows Transformers for Medical Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2208.06034.pdf),[[Code]](https://github.com/canerozer/qct)
+- (arXiv 2022.08) Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification, [[Paper]](https://arxiv.org/pdf/2208.06833.pdf),[[Code]](https://github.com/sagizty/MIL-SI)
+- (arXiv 2022.08) When CNN Meet with ViT: Towards Semi-Supervised Learning for Multi-Class Medical Image Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2208.06449.pdf), [[Code]](https://github.com/ziyangwang007/CV-SSL-MIS)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1152,6 +1154,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) An Ensemble Approach for Multiple Emotion Descriptors Estimation Using Multi-task Learning, [[Paper]](https://arxiv.org/pdf/2207.10878.pdf)
 - (arXiv 2022.07) STrajNet: Occupancy Flow Prediction via Multi-modal Swin Transformer, [[Paper]](https://arxiv.org/pdf/2208.00394.pdf)
 - (arXiv 2022.08) Multi-Task Transformer with uncertainty modelling for Face Based Affective Computing, [[Paper]](https://arxiv.org/pdf/2208.03506.pdf)
+- (arXiv 2022.08) Multi-modal Transformer Path Prediction for Autonomous Vehicle, [[Paper]](https://arxiv.org/pdf/2208.03506.pdf), [[Paper]](https://arxiv.org/pdf/2208.07256.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1965,6 +1968,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model, [[Paper]](https://arxiv.org/pdf/2208.03987.pdf), [[Code]](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)
 - (arXiv 2022.08) Ghost-free High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
 - (arXiv 2022.08) A Vision Transformer-Based Approach to Bearing Fault Classification via Vibration Signals, [[Paper]](https://arxiv.org/pdf/2208.07070.pdf)
+- (arXiv 2022.08) Self-Supervised Vision Transformers for Malware Detection, [[Paper]](https://arxiv.org/pdf/2208.07049.pdf)
 
 ## Contact & Feedback
 
