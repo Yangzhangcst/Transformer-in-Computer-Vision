@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/15
+**Last updated: 2022/08/16
 
 ## Survey: 
 - (arXiv 2022.08) 3D Vision with Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2208.04309.pdf), [[Awesome]](https://github.com/lahoud/3d-vision-transformers)
@@ -620,6 +620,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) DETRs with Hybrid Matching, [[Paper]](https://arxiv.org/pdf/2207.13080.pdf), [[Code]](https://github.com/HDETR)
 - (arXiv 2022.07) Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion, [[Paper]](https://arxiv.org/pdf/2207.14172.pdf),[[Code]](https://github.com/ZhangGongjie/SAM-DETR)
 - (arXiv 2022.07) SiamixFormer: A Siamese Transformer Network For Building Detection And Change Detection From Bi-Temporal Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2208.00657.pdf)
+- (arXiv 2022.08) An Empirical Study of Pseudo-Labeling for Image-based 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2208.07137.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -777,6 +778,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding, [[Paper]](https://arxiv.org/pdf/2203.00867.pdf), [[Code]](https://github.com/DQiaole/ZITS_inpainting)
 - (arXiv 2022.03) MAT: Mask-Aware Transformer for Large Hole Image Inpainting, [[Paper]](https://arxiv.org/pdf/2203.15270.pdf), [[Code]](https://github.com/fenglinglwb/MAT)
 - (arXiv 2022.05) Reduce Information Loss in Transformers for Pluralistic Image Inpainting, [[Paper]](https://arxiv.org/pdf/2205.05076.pdf)
+- (arXiv 2022.08) Flow-Guided Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2208.06768.pdf), [[Code]](https://github.com/hitachinsk/FGT)
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
@@ -1779,6 +1781,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Video Swin Transformers for Egocentric Video Understanding @ Ego4D Challenges 2022, [[Paper]](https://arxiv.org/pdf/2207.11329.pdf)
 - (arXiv 2022.08) BATMAN: Bilateral Attention Transformer in Motion-Appearance Neighboring Space for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2208.01159.pdf)
 - (arXiv 2022.08) Two-Stream Transformer Architecture for Long Form Video Understanding, [[Paper]](https://arxiv.org/pdf/2208.01753.pdf)
+- (arXiv 2022.08) PatchDropout: Economizing Vision Transformers Using Patch Dropout, [[Paper]](https://arxiv.org/pdf/2208.07220.pdf)
+- (arXiv 2022.08) Class-attention Video Transformer for Engagement Intensity Prediction, [[Paper]](https://arxiv.org/pdf/2208.07216.pdf), [[Code]](https://github.com/mountainai/cavt)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -1960,6 +1964,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) DALLE-URBAN: Capturing the urban design expertise of large text to image transformers, [[Paper]](https://arxiv.org/pdf/2208.04139.pdf), [[Code]](https://github.com/sachith500/DALLEURBAN)
 - (arXiv 2022.08) Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model, [[Paper]](https://arxiv.org/pdf/2208.03987.pdf), [[Code]](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)
 - (arXiv 2022.08) Ghost-free High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
+- (arXiv 2022.08) A Vision Transformer-Based Approach to Bearing Fault Classification via Vibration Signals, [[Paper]](https://arxiv.org/pdf/2208.07070.pdf)
 
 ## Contact & Feedback
 
