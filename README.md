@@ -4,6 +4,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 **Last updated: 2022/08/16
 
 ## Survey: 
+- (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
+
 - (arXiv 2022.08) 3D Vision with Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2208.04309.pdf), [[Awesome]](https://github.com/lahoud/3d-vision-transformers)
 
 - (arXiv 2022.05) Multimodal Learning with Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2206.06488.pdf)
