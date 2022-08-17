@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/16
+**Last updated: 2022/08/17
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -703,7 +703,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf), [[Code]](https://github.com/Zhishe-Wang/SwinFuse)
 - (arXiv 2022.07) Array Camera Image Fusion using Physics-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2207.02250.pdf)
 
-### GAN
+### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
 - (arXiv 2021.03) Generative Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2103.01209.pdf), [[Code]](https://github.com/dorarad/gansformer)
 - (arXiv 2021.04) VTGAN: Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2104.06757.pdf), [[Code]](https://github.com/SharifAmit/VTGAN)
@@ -719,6 +719,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Style Transformer for Image Inversion and Editing, [[Paper]](https://arxiv.org/pdf/2203.07932.pdf), [[Code]](https://github.com/sapphire497/style-transformer)
 - (arXiv 2022.06) Cycle text2face: cycle text-to-face gan via transformers, [[Paper]](https://arxiv.org/pdf/2206.04503.pdf)
 - (arXiv 2022.06) Cross-Modal Transformer GAN: A Brain Structure-Function Deep Fusing Framework for Alzheimer's Disease, [[Paper]](https://arxiv.org/pdf/2206.13393.pdf)
+- (arXiv 2022.08) Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model, [[Paper]](https://arxiv.org/pdf/2208.07791.pdf), [[Code]](https://github.com/sndnyang/Diffusion_ViT)
 
 ### Gait
 - (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
@@ -1156,7 +1157,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) An Ensemble Approach for Multiple Emotion Descriptors Estimation Using Multi-task Learning, [[Paper]](https://arxiv.org/pdf/2207.10878.pdf)
 - (arXiv 2022.07) STrajNet: Occupancy Flow Prediction via Multi-modal Swin Transformer, [[Paper]](https://arxiv.org/pdf/2208.00394.pdf)
 - (arXiv 2022.08) Multi-Task Transformer with uncertainty modelling for Face Based Affective Computing, [[Paper]](https://arxiv.org/pdf/2208.03506.pdf)
-- (arXiv 2022.08) Multi-modal Transformer Path Prediction for Autonomous Vehicle, [[Paper]](https://arxiv.org/pdf/2208.03506.pdf), [[Paper]](https://arxiv.org/pdf/2208.07256.pdf)
+- (arXiv 2022.08) Multi-modal Transformer Path Prediction for Autonomous Vehicle, [[Paper]](https://arxiv.org/pdf/2208.07256.pdf)
+- (arXiv 2022.08) Efficient Multimodal Transformer with Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis, [[Paper]](https://arxiv.org/pdf/2208.07589.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
