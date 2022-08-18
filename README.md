@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/17
+**Last updated: 2022/08/18
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -96,6 +96,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Unsupervised Domain Adaptation for Video Transformers in Action Recognition, [[Paper]](https://arxiv.org/pdf/2207.12842.pdf),[[Code]](https://github.com/vturrisi/UDAVT)
 - (arXiv 2022.07) Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition, [[Paper]](https://arxiv.org/pdf/2207.13259.pdf),[[Code]](https://github.com/MartinXM/TPS)
 - (arXiv 2022.08) Combined CNN Transformer Encoder for Enhanced Fine-grained Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2208.01897.pdf)
+- (arXiv 2022.08) ViT-ReT: Vision and Recurrent Transformer Neural Networks for Human Activity Recognition in Videos, [[Paper]](https://arxiv.org/pdf/2208.07929.pdf),[[Code]](https://github.com/JamesWensel/TranformerActivityRecognition)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -802,7 +803,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
 - (arXiv 2022.05) Knowledge Distillation via the Target-aware Transformer, [[Paper]](https://arxiv.org/pdf/2205.10793.pdf)
-- (arXiv 2022.05) Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation, [[Paper]](https://arxiv.org/pdf/2205.14141.pdf), [[Code]](https://github.com/SwinTransformer/Feature-Distillation)
+- (arXiv 2022.05) Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation, [[Paper]](https://arxiv.org/pdf/2208.08037.pdf), [[Code]](https://github.com/SwinTransformer/Feature-Distillation)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -814,6 +815,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) BLT: Bidirectional Layout Transformer for Controllable Layout Generation, [[Paper]](https://arxiv.org/abs/2112.05112)
 - (arXiv 2022.02) ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis, [[Paper]](https://arxiv.org/abs/2112.05112)
 - (arXiv 2022.03) LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network, [[Paper]](https://arxiv.org/abs/2203.01824), [[Code]](https://github.com/zhigangjiang/LGT-Net)
+- (arXiv 2022.08) UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation, [[Paper]](https://arxiv.org/pdf/2208.08037.pdf)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -1032,6 +1034,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Shifted Windows Transformers for Medical Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2208.06034.pdf),[[Code]](https://github.com/canerozer/qct)
 - (arXiv 2022.08) Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification, [[Paper]](https://arxiv.org/pdf/2208.06833.pdf),[[Code]](https://github.com/sagizty/MIL-SI)
 - (arXiv 2022.08) When CNN Meet with ViT: Towards Semi-Supervised Learning for Multi-Class Medical Image Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2208.06449.pdf), [[Code]](https://github.com/ziyangwang007/CV-SSL-MIS)
+- (arXiv 2022.08) Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2208.08315.pdf), [[Code]](https://github.com/SimonZeng7108/Video-TransUNet)
+- (arXiv 2022.08) FCN-Transformer Feature Fusion for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2208.08352.pdf), [[Code]](https://www.uclan.ac.uk/research/activity/cvml)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1653,6 +1657,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) 3D Siamese Transformer Network for Single Object Tracking on Point Clouds, [[Paper]](https://arxiv.org/pdf/2207.11995.pdf), [[Code]](https://github.com/fpthink/STNet)
 - (arXiv 2022.08) Local Perception-Aware Transformer for Aerial Tracking, [[Paper]](https://arxiv.org/pdf/2208.00662.pdf), [[Code]](https://github.com/vision4robotics/LPAT)
 - (arXiv 2022.08) Transformer-based assignment decision network for multiple object tracking, [[Paper]](https://arxiv.org/pdf/2208.03571.pdf), [[Code]](https://github.com/psaltaath/tadn-mot)
+- (arXiv 2022.08) InterTrack: Interaction Transformer for 3D Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2208.08041.pdf), [[Code]](https://github.com/psaltaath/tadn-mot)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
