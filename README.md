@@ -1035,7 +1035,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Shuffle Instances-based Vision Transformer for Pancreatic Cancer ROSE Image Classification, [[Paper]](https://arxiv.org/pdf/2208.06833.pdf),[[Code]](https://github.com/sagizty/MIL-SI)
 - (arXiv 2022.08) When CNN Meet with ViT: Towards Semi-Supervised Learning for Multi-Class Medical Image Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2208.06449.pdf), [[Code]](https://github.com/ziyangwang007/CV-SSL-MIS)
 - (arXiv 2022.08) Video-TransUNet: Temporally Blended Vision Transformer for CT VFSS Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2208.08315.pdf), [[Code]](https://github.com/SimonZeng7108/Video-TransUNet)
-- (arXiv 2022.08) FCN-Transformer Feature Fusion for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2208.08352.pdf), [[Code]](https://www.uclan.ac.uk/research/activity/cvml)
+- (arXiv 2022.08) FCN-Transformer Feature Fusion for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2208.08352.pdf), [[Code]](https://github.com/CVML-UCLan/FCBFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
