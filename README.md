@@ -1355,6 +1355,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Pose Uncertainty Aware Movement Synchrony Estimation via Spatial-Temporal Graph Transformer, [[Paper]](https://arxiv.org/pdf/2208.01161.pdf)
 - (arXiv 2022.08) IVT: An End-to-End Instance-guided Video Transformer for 3D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2208.03431.pdf)
 - (arXiv 2022.08) Jointformer: Single-Frame Lifting Transformer with Error Prediction and Refinement for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2208.03704.pdf)
+- (arXiv 2022.08) The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs, [[Paper]](https://arxiv.org/pdf/2208.08988.pdf), [[Code]](https://crockwell.github.io/rel_pose/)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
