@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/18
+**Last updated: 2022/08/19
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -1385,6 +1385,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Diverse Instance Discovery: Vision-Transformer for Instance-Aware Multi-Label Image Recognition, [[Paper]](https://arxiv.org/pdf/2204.10731.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
 - (arXiv 2022.07) Forensic License Plate Recognition with Compression-Informed Transformers, [[Paper]](https://arxiv.org/pdf/2207.14686.pdf), [[Code]](https://www.cs1.tf.fau.de/research/multimedia-security/)
 - (arXiv 2022.08) TSRFormer: Table Structure Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2208.04921.pdf)
+- (arXiv 2022.08) GSRFormer: Grounded Situation Recognition Transformer with Alternate Semantic Attention Refinement, [[Paper]](https://arxiv.org/pdf/2208.08965.pdf), [[Code]](https://github.com/zhiqic/GSRFormer)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -1657,7 +1658,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) 3D Siamese Transformer Network for Single Object Tracking on Point Clouds, [[Paper]](https://arxiv.org/pdf/2207.11995.pdf), [[Code]](https://github.com/fpthink/STNet)
 - (arXiv 2022.08) Local Perception-Aware Transformer for Aerial Tracking, [[Paper]](https://arxiv.org/pdf/2208.00662.pdf), [[Code]](https://github.com/vision4robotics/LPAT)
 - (arXiv 2022.08) Transformer-based assignment decision network for multiple object tracking, [[Paper]](https://arxiv.org/pdf/2208.03571.pdf), [[Code]](https://github.com/psaltaath/tadn-mot)
-- (arXiv 2022.08) InterTrack: Interaction Transformer for 3D Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2208.08041.pdf), [[Code]](https://github.com/psaltaath/tadn-mot)
+- (arXiv 2022.08) InterTrack: Interaction Transformer for 3D Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2208.08041.pdf)
+- (arXiv 2022.08) Learning Spatial-Frequency Transformer for Visual Object Tracking, [[Paper]](https://arxiv.org/pdf/2208.08829.pdf), [[Code]](https://github.com/Tchuanm/SFTransT.git)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -1691,6 +1693,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Cross-domain Detection Transformer based on Spatial-aware and Semantic-aware Token Alignment, [[Paper]](https://arxiv.org/pdf/2206.00222.pdf)
 - (arXiv 2022.08) Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2208.01195.pdf), [[Code]](https://github.com/BIT-DA/Domain-Oriented-Transformer)
 - (arXiv 2022.08) How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification, [[Paper]](https://arxiv.org/pdf/2208.04693.pdf)
+- (arXiv 2022.08) Prompt Vision Transformer for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2208.08914.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
