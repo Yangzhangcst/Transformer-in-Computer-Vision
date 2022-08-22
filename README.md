@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/19
+**Last updated: 2022/08/22
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -1055,6 +1055,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation, [[Paper]](https://arxiv.org/pdf/2203.16202.pdf)
 - (arXiv 2022.04) HiT-DVAE: Human Motion Generation via Hierarchical Transformer Dynamical VAE, [[Paper]](https://arxiv.org/pdf/2204.01565.pdf)
 - (arXiv 2022.07) TENET: Transformer Encoding Network for Effective Temporal Flow on Motion Prediction, [[Paper]](https://arxiv.org/pdf/2207.00170.pdf)
+- (arXiv 2022.08) SoMoFormer: Social-Aware Motion Transformer for Multi-Person Motion Prediction, [[Paper]](https://arxiv.org/pdf/2208.09224.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -1163,6 +1164,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Multi-Task Transformer with uncertainty modelling for Face Based Affective Computing, [[Paper]](https://arxiv.org/pdf/2208.03506.pdf)
 - (arXiv 2022.08) Multi-modal Transformer Path Prediction for Autonomous Vehicle, [[Paper]](https://arxiv.org/pdf/2208.07256.pdf)
 - (arXiv 2022.08) Efficient Multimodal Transformer with Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis, [[Paper]](https://arxiv.org/pdf/2208.07589.pdf)
+- (arXiv 2022.08) VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations, [[Paper]](https://arxiv.org/pdf/2208.09021.pdf), [[Code]](https://github.com/gchochla/VAuLT)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
