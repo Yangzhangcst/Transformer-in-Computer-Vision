@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/23
+**Last updated: 2022/08/24
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -446,6 +446,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers, [[Paper]](https://arxiv.org/pdf/2208.06366.pdf), [[Code]](https://aka.ms/beit)
 - (arXiv 2022.08) Accelerating Vision Transformer Training via a Patch Sampling Schedule, [[Paper]](https://arxiv.org/pdf/2208.09520.pdf), [[Code]](https://github.com/BradMcDanel/pss)
 - (arXiv 2022.08) ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition, [[Paper]](https://arxiv.org/pdf/2208.10431.pdf), [[Code]](https://github.com/zju-vipa/ProtoPFormer)
+- (arXiv 2022.08) FocusFormer: Focusing on What We Need via Architecture Sampler, [[Paper]](https://arxiv.org/pdf/2208.10861.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -683,6 +684,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) AU-Supervised Convolutional Vision Transformers for Synthetic Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2207.09777.pdf),[[Code]](https://github.com/msy1412/ABAW4)
 - (arXiv 2022.07) Hybrid CNN-Transformer Model For Facial Affect Recognition In the ABAW4 Challenge, [[Paper]](https://arxiv.org/pdf/2207.10201.pdf)
 - (arXiv 2022.07) Facial Expression Recognition using Vanilla ViT backbones with MAE Pretraining, [[Paper]](https://arxiv.org/pdf/2207.11081.pdf)
+- (arXiv 2022.08) Towards Accurate Facial Landmark Detection via Cascaded Transformers, [[Paper]](https://arxiv.org/pdf/2208.10808.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -802,6 +804,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2207.02255.pdf), [[Code]](https://github.com/PJLallen/OSFormer)
 - (arXiv 2022.07) In Defense of Online Models for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2207.10661.pdf), [[Code]](https://github.com/wjf5203/VNext)
 - (arXiv 2022.07) Video Mask Transfiner for High-Quality Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2207.14012.pdf), [[Project]](https://www.vis.xyz/pub/vmt)
+- (arXiv 2022.08) InstanceFormer: An Online Video Instance Segmentation Framework, [[Paper]](https://arxiv.org/pdf/2208.10547.pdf), [[Code]](https://github.com/rajatkoner08/InstanceFormer)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -1170,6 +1173,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Multi-modal Transformer Path Prediction for Autonomous Vehicle, [[Paper]](https://arxiv.org/pdf/2208.07256.pdf)
 - (arXiv 2022.08) Efficient Multimodal Transformer with Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis, [[Paper]](https://arxiv.org/pdf/2208.07589.pdf)
 - (arXiv 2022.08) VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations, [[Paper]](https://arxiv.org/pdf/2208.09021.pdf), [[Code]](https://github.com/gchochla/VAuLT)
+- (arXiv 2022.08) Flat Multi-modal Interaction Transformer for Named Entity Recognition, [[Paper]](https://arxiv.org/pdf/2208.11039.pdf), [[Code]](https://github.com/gchochla/VAuLT)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1810,6 +1814,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Two-Stream Transformer Architecture for Long Form Video Understanding, [[Paper]](https://arxiv.org/pdf/2208.01753.pdf)
 - (arXiv 2022.08) PatchDropout: Economizing Vision Transformers Using Patch Dropout, [[Paper]](https://arxiv.org/pdf/2208.07220.pdf)
 - (arXiv 2022.08) Class-attention Video Transformer for Engagement Intensity Prediction, [[Paper]](https://arxiv.org/pdf/2208.07216.pdf), [[Code]](https://github.com/mountainai/cavt)
+- (arXiv 2022.08) Efficient Attention-free Video Shift Transformers, [[Paper]](https://arxiv.org/pdf/2208.11108.pdf), [[Code]](https://github.com/mountainai/cavt)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
