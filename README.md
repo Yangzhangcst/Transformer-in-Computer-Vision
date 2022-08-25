@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/24
+**Last updated: 2022/08/25
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -628,12 +628,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion, [[Paper]](https://arxiv.org/pdf/2207.14172.pdf),[[Code]](https://github.com/ZhangGongjie/SAM-DETR)
 - (arXiv 2022.07) SiamixFormer: A Siamese Transformer Network For Building Detection And Change Detection From Bi-Temporal Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2208.00657.pdf)
 - (arXiv 2022.08) An Empirical Study of Pseudo-Labeling for Image-based 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2208.07137.pdf)
+- (arXiv 2022.08) Towards Efficient Use of Multi-Scale Features in Transformer-Based Object Detectors, [[Paper]](https://arxiv.org/pdf/2208.11356.pdf), [[Project]](https://github.com/ZhangGongjie/IMFA)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
 - (arXiv 2022.06) XBound-Former: Toward Cross-scale Boundary Modeling in Transformers, [[Paper]](https://arxiv.org/pdf/2206.00806.pdf), [[Code]](https://github.com/jcwang123/xboundformer)
 - (arXiv 2022.06) Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.02985.pdf)
-- (arXiv 2022.06) SC-Transformer++: Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.12634.pdf)
+- (arXiv 2022.06) SC-Transformer++: Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.12634.pdf), [[Project]](https://github.com/ZhangGongjie/IMFA)
 
 ### Enhancement
 - (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
@@ -1044,6 +1045,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) FCN-Transformer Feature Fusion for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2208.08352.pdf), [[Code]](https://github.com/CVML-UCLan/FCBFormer)
 - (arXiv 2022.08) A Medical Semantic-Assisted Transformer for Radiographic Report Generation, [[Paper]](https://arxiv.org/pdf/2208.10358.pdf), [[Code]](https://github.com/CVML-UCLan/FCBFormer)
 - (arXiv 2022.08) Multiple Instance Neuroimage Transformer, [[Paper]](https://arxiv.org/pdf/2208.09567.pdf), [[Code]](https://github.com/singlaayush/MINIT)
+- (arXiv 2022.08) Cats: Complementary CNN and Transformer Encoders for Segmentation, [[Paper]](https://arxiv.org/pdf/2208.11572.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1245,6 +1247,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2208.00438.pdf), [[Code]](https://github.com/xdxie/WordArt)
 - (arXiv 2022.08) DPTNet: A Dual-Path Transformer Architecture for Scene Text Detection, [[Paper]](https://arxiv.org/pdf/2208.09878.pdf)
 - (arXiv 2022.08) Offline Handwritten Mathematical Recognition using Adversarial Learning and Transformers, [[Paper]](https://arxiv.org/pdf/2208.09662.pdf)
+- (arXiv 2022.08) An End-to-End OCR Framework for Robust Arabic-Handwriting Recognition using a Novel Transformers-based Model and an Innovative 270 Million-Words Multi-Font Corpus of Classical Arabic with Diacritics, [[Paper]](https://arxiv.org/pdf/2208.11484.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
@@ -1370,6 +1373,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Jointformer: Single-Frame Lifting Transformer with Error Prediction and Refinement for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2208.03704.pdf)
 - (arXiv 2022.08) The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs, [[Paper]](https://arxiv.org/pdf/2208.08988.pdf), [[Code]](https://crockwell.github.io/rel_pose/)
 - (arXiv 2022.08) PoseBERT: A Generic Transformer Module for Temporal 3D Human Modeling, [[Paper]](https://arxiv.org/pdf/2208.10211.pdf), [[Code]](https://github.com/naver/posebert)
+- (arXiv 2022.08) K-Order Graph-oriented Transformer with GraAttention for 3D Pose and Shape Estimation, [[Paper]](https://arxiv.org/pdf/2208.11328.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
