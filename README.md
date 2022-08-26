@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/25
+**Last updated: 2022/08/26
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -97,6 +97,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition, [[Paper]](https://arxiv.org/pdf/2207.13259.pdf),[[Code]](https://github.com/MartinXM/TPS)
 - (arXiv 2022.08) Combined CNN Transformer Encoder for Enhanced Fine-grained Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2208.01897.pdf)
 - (arXiv 2022.08) ViT-ReT: Vision and Recurrent Transformer Neural Networks for Human Activity Recognition in Videos, [[Paper]](https://arxiv.org/pdf/2208.07929.pdf),[[Code]](https://github.com/JamesWensel/TranformerActivityRecognition)
+- (arXiv 2022.08) Adaptive Perception Transformer for Temporal Action Localization, [[Paper]](https://arxiv.org/pdf/2208.11908.pdf),[[Code]](https://github.com/SouperO/AdaPerFormer)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -447,6 +448,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Accelerating Vision Transformer Training via a Patch Sampling Schedule, [[Paper]](https://arxiv.org/pdf/2208.09520.pdf), [[Code]](https://github.com/BradMcDanel/pss)
 - (arXiv 2022.08) ProtoPFormer: Concentrating on Prototypical Parts in Vision Transformers for Interpretable Image Recognition, [[Paper]](https://arxiv.org/pdf/2208.10431.pdf), [[Code]](https://github.com/zju-vipa/ProtoPFormer)
 - (arXiv 2022.08) FocusFormer: Focusing on What We Need via Architecture Sampler, [[Paper]](https://arxiv.org/pdf/2208.10861.pdf)
+- (arXiv 2022.08) gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window, [[Paper]](https://arxiv.org/pdf/2208.11718.pdf)
+- (arXiv 2022.08) Video Mobile-Former: Video Recognition with Efficient Global Spatial-temporal Modeling, [[Paper]](https://arxiv.org/pdf/2208.12257.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1330,6 +1333,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding, [[Paper]](https://arxiv.org/pdf/2208.00281.pdf)
 - (arXiv 2022.08) Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2208.05216.pdf), [[Code]](https://github.com/Jasonkks/PTTR)
 - (arXiv 2022.08) PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees, [[Paper]](https://arxiv.org/pdf/2208.05962.pdf), [[Code]](https://github.com/immortalCO/PointTree)
+- (arXiv 2022.08) Pix4Point: Image Pretrained Transformers for 3D Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2208.12259.pdf), [[Code]](https://github.com/guochengqian/Pix4Point)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
