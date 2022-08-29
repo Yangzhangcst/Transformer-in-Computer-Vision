@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/26
+**Last updated: 2022/08/29
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -706,6 +706,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Learning Cross-Image Object Semantic Relation in Transformer for Few-Shot Fine-Grained Image Classification, [[Paper]](https://arxiv.org/pdf/2207.00784.pdf), [[Code]](https://github.com/JiakangYuan/HelixFormer)
 - (arXiv 2022.07) Few-shot Object Counting and Detection, [[Paper]](https://arxiv.org/pdf/2207.10988.pdf), [[Code]](https://github.com/VinAIResearch/Counting-DETR)
 - (arXiv 2022.07) Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2207.10866.pdf), [[Code]](https://seokju-cho.github.io/VAT/)
+- (arXiv 2022.08) Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification, [[Paper]](https://arxiv.org/pdf/2208.12398.pdf)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -730,6 +731,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Cycle text2face: cycle text-to-face gan via transformers, [[Paper]](https://arxiv.org/pdf/2206.04503.pdf)
 - (arXiv 2022.06) Cross-Modal Transformer GAN: A Brain Structure-Function Deep Fusing Framework for Alzheimer's Disease, [[Paper]](https://arxiv.org/pdf/2206.13393.pdf)
 - (arXiv 2022.08) Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model, [[Paper]](https://arxiv.org/pdf/2208.07791.pdf), [[Code]](https://github.com/sndnyang/Diffusion_ViT)
+- (arXiv 2022.08) User-Controllable Latent Transformer for StyleGAN Image Layout Editing, [[Paper]](https://arxiv.org/pdf/2208.12408.pdf), [[Code]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/UserControllableLT)
 
 ### Gait
 - (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
@@ -841,6 +843,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Matting
 - (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
 - (arXiv 2022.08) TransMatting: Enhancing Transparent Objects Matting with Transformers, [[Paper]](https://arxiv.org/pdf/2208.03007.pdf), [[Code]](https://github.com/AceCHQ/TransMatting)
+- (arXiv 2022.08) VMFormer: End-to-End Video Matting with Transformer, [[Paper]](https://arxiv.org/pdf/2208.12801.pdf), [[Project]](https://chrisjuniorli.github.io/project/VMFormer/)
 
 ### Medical
 - (arXiv 2021.02) TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2102.04306), [[Code]](https://github.com/Beckschen/TransUNet)
@@ -1179,6 +1182,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Efficient Multimodal Transformer with Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis, [[Paper]](https://arxiv.org/pdf/2208.07589.pdf)
 - (arXiv 2022.08) VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations, [[Paper]](https://arxiv.org/pdf/2208.09021.pdf), [[Code]](https://github.com/gchochla/VAuLT)
 - (arXiv 2022.08) Flat Multi-modal Interaction Transformer for Named Entity Recognition, [[Paper]](https://arxiv.org/pdf/2208.11039.pdf), [[Code]](https://github.com/gchochla/VAuLT)
+- (arXiv 2022.08) TFusion: Transformer based N-to-One Multimodal Fusion Block, [[Paper]](https://arxiv.org/pdf/2208.12776.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
