@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/29
+**Last updated: 2022/08/30
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -450,6 +450,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) FocusFormer: Focusing on What We Need via Architecture Sampler, [[Paper]](https://arxiv.org/pdf/2208.10861.pdf)
 - (arXiv 2022.08) gSwin: Gated MLP Vision Model with Hierarchical Structure of Shifted Window, [[Paper]](https://arxiv.org/pdf/2208.11718.pdf)
 - (arXiv 2022.08) Video Mobile-Former: Video Recognition with Efficient Global Spatial-temporal Modeling, [[Paper]](https://arxiv.org/pdf/2208.12257.pdf)
+- (arXiv 2022.08) ClusTR: Exploring Efficient Self-attention via Clustering for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2208.13138.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -489,6 +490,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) An End-to-End Transformer Model for Crowd Localization, [[Paper]](https://arxiv.org/pdf/2202.13065.pdf)
 - (arXiv 2022.03) Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting, [[Paper]](https://arxiv.org/pdf/2203.06388.pdf)
 - (arXiv 2022.06) Counting Varying Density Crowds Through Density Guided Adaptive Selection CNN and Transformer Estimation, [[Paper]](https://arxiv.org/pdf/2206.10075.pdf)
+- (arXiv 2022.08) CounTR: Transformer-based Generalised Visual Counting, [[Paper]](https://arxiv.org/pdf/2208.13721.pdf)
 
 ### Deblurring
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
@@ -1052,6 +1054,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) A Medical Semantic-Assisted Transformer for Radiographic Report Generation, [[Paper]](https://arxiv.org/pdf/2208.10358.pdf), [[Code]](https://github.com/CVML-UCLan/FCBFormer)
 - (arXiv 2022.08) Multiple Instance Neuroimage Transformer, [[Paper]](https://arxiv.org/pdf/2208.09567.pdf), [[Code]](https://github.com/singlaayush/MINIT)
 - (arXiv 2022.08) Cats: Complementary CNN and Transformer Encoders for Segmentation, [[Paper]](https://arxiv.org/pdf/2208.11572.pdf)
+- (arXiv 2022.08) Accurate and Robust Lesion RECIST Diameter Prediction and Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2208.13113.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
