@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/30
+**Last updated: 2022/08/31
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -98,6 +98,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Combined CNN Transformer Encoder for Enhanced Fine-grained Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2208.01897.pdf)
 - (arXiv 2022.08) ViT-ReT: Vision and Recurrent Transformer Neural Networks for Human Activity Recognition in Videos, [[Paper]](https://arxiv.org/pdf/2208.07929.pdf),[[Code]](https://github.com/JamesWensel/TranformerActivityRecognition)
 - (arXiv 2022.08) Adaptive Perception Transformer for Temporal Action Localization, [[Paper]](https://arxiv.org/pdf/2208.11908.pdf),[[Code]](https://github.com/SouperO/AdaPerFormer)
+- (arXiv 2022.08) A Circular Window-based Cascade Transformer for Online Action Detection, [[Paper]](https://arxiv.org/pdf/2208.14209.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -841,6 +842,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) MatchFormer: Interleaving Attention in Transformers for Feature Matching, [[Paper]](https://arxiv.org/pdf/2203.09645.pdf), [[Code]](https://github.com/jamycheung/MatchFormer)
 - (arXiv 2022.05) TransforMatcher: Match-to-Match Attention for Semantic Correspondence, [[Paper]](https://arxiv.org/pdf/2205.11634.pdf), [[Code]](http://cvlab.postech.ac.kr/research/TransforMatcher)
 - (arXiv 2022.07) Deep Laparoscopic Stereo Matching with Transformers, [[Paper]](https://arxiv.org/pdf/2207.12152.pdf)
+- (arXiv 2022.08) ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer, [[Paper]](https://arxiv.org/pdf/2208.14201.pdf), [[Project]](https://aspanformer.github.io/)
 
 ### Matting
 - (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
@@ -1055,6 +1057,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Multiple Instance Neuroimage Transformer, [[Paper]](https://arxiv.org/pdf/2208.09567.pdf), [[Code]](https://github.com/singlaayush/MINIT)
 - (arXiv 2022.08) Cats: Complementary CNN and Transformer Encoders for Segmentation, [[Paper]](https://arxiv.org/pdf/2208.11572.pdf)
 - (arXiv 2022.08) Accurate and Robust Lesion RECIST Diameter Prediction and Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2208.13113.pdf)
+- (arXiv 2022.08) SB-SSL: Slice-Based Self-Supervised Transformers for Knee Abnormality Classification from MRI, [[Paper]](https://arxiv.org/pdf/2208.13923.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1385,6 +1388,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs, [[Paper]](https://arxiv.org/pdf/2208.08988.pdf), [[Code]](https://crockwell.github.io/rel_pose/)
 - (arXiv 2022.08) PoseBERT: A Generic Transformer Module for Temporal 3D Human Modeling, [[Paper]](https://arxiv.org/pdf/2208.10211.pdf), [[Code]](https://github.com/naver/posebert)
 - (arXiv 2022.08) K-Order Graph-oriented Transformer with GraAttention for 3D Pose and Shape Estimation, [[Paper]](https://arxiv.org/pdf/2208.11328.pdf)
+- (arXiv 2022.08) SoMoFormer: Multi-Person Pose Forecasting with Transformers, [[Paper]](https://arxiv.org/pdf/2208.14023.pdf), [[Code]](https://somof.stanford.edu/)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
