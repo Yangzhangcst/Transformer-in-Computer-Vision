@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/08/31
+**Last updated: 2022/09/01
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -635,6 +635,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) SiamixFormer: A Siamese Transformer Network For Building Detection And Change Detection From Bi-Temporal Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2208.00657.pdf)
 - (arXiv 2022.08) An Empirical Study of Pseudo-Labeling for Image-based 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2208.07137.pdf)
 - (arXiv 2022.08) Towards Efficient Use of Multi-Scale Features in Transformer-Based Object Detectors, [[Paper]](https://arxiv.org/pdf/2208.11356.pdf), [[Project]](https://github.com/ZhangGongjie/IMFA)
+- (arXiv 2022.08) Swin-transformer-yolov5 For Real-time Wine Grape Bunch Detection, [[Paper]](https://arxiv.org/pdf/2208.14508.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1058,6 +1059,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Cats: Complementary CNN and Transformer Encoders for Segmentation, [[Paper]](https://arxiv.org/pdf/2208.11572.pdf)
 - (arXiv 2022.08) Accurate and Robust Lesion RECIST Diameter Prediction and Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2208.13113.pdf)
 - (arXiv 2022.08) SB-SSL: Slice-Based Self-Supervised Transformers for Knee Abnormality Classification from MRI, [[Paper]](https://arxiv.org/pdf/2208.13923.pdf)
+- (arXiv 2022.08) NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2208.14876.pdf), [[Code]](https://github.com/920232796/NestedFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1261,6 +1263,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) DPTNet: A Dual-Path Transformer Architecture for Scene Text Detection, [[Paper]](https://arxiv.org/pdf/2208.09878.pdf)
 - (arXiv 2022.08) Offline Handwritten Mathematical Recognition using Adversarial Learning and Transformers, [[Paper]](https://arxiv.org/pdf/2208.09662.pdf)
 - (arXiv 2022.08) An End-to-End OCR Framework for Robust Arabic-Handwriting Recognition using a Novel Transformers-based Model and an Innovative 270 Million-Words Multi-Font Corpus of Classical Arabic with Diacritics, [[Paper]](https://arxiv.org/pdf/2208.11484.pdf)
+- (arXiv 2022.08) TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers, [[Paper]](https://arxiv.org/pdf/2208.14687.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
@@ -1469,6 +1472,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Restormer: Efficient Transformer for High-Resolution Image Restoration, [[Paper]](https://arxiv.org/pdf/2111.09881.pdf), [[Code]](https://github.com/swz30/Restormer)
 - (arXiv 2021.12) U2-Former: A Nested U-shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2112.02279.pdf), [[Code]](https://github.com/swz30/Restormer)
 - (arXiv 2021.12) SiamTrans: Zero-Shot Multi-Frame Image Restoration with Pre-Trained Siamese Transformers, [[Paper]](https://arxiv.org/pdf/2112.09426.pdf)
+- (arXiv 2022.08) ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer, [[Paper]](https://arxiv.org/pdf/2208.14704.pdf), [[Code]](https://github.com/leonmakise/ELMformer)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
@@ -1483,6 +1487,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Vision Transformer Hashing for Image Retrieval, [[Paper]](https://arxiv.org/pdf/2109.12564.pdf)
 - (arXiv 2022.01) Zero-Shot Sketch Based Image Retrieval using Graph Transformer, [[Paper]](https://arxiv.org/pdf/2203.06429.pdf)
 - (arXiv 2022.07) TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval, [[Paper]](https://arxiv.org/pdf/2207.07852.pdf), [[Code]](https://github.com/yuqi657/ts2_net)
+- (arXiv 2022.08) EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing, [[Paper]](https://arxiv.org/pdf/2208.14657.pdf), [[Code]](https://github.com/onlinehuazai/EViT)
 
 ### Robotic
 - (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
@@ -2018,6 +2023,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) A Vision Transformer-Based Approach to Bearing Fault Classification via Vibration Signals, [[Paper]](https://arxiv.org/pdf/2208.07070.pdf)
 - (arXiv 2022.08) Self-Supervised Vision Transformers for Malware Detection, [[Paper]](https://arxiv.org/pdf/2208.07049.pdf)
 - (arXiv 2022.08) SnowFormer: Scale-aware Transformer via Context Interaction for Single Image Desnowing, [[Paper]](https://arxiv.org/pdf/2208.09703.pdf), [[Code]](https://github.com/Ephemeral182/SnowFormer)
+- (arXiv 2022.08) Hierarchical Local-Global Transformer for Temporal Sentence Grounding, [[Paper]](https://arxiv.org/pdf/2208.14882.pdf)
+- (arXiv 2022.08) SIM-Trans: Structure Information Modeling Transformer for Fine-grained Visual Categorization, [[Paper]](https://arxiv.org/pdf/2208.14607.pdf), [[Code]](https://github.com/PKU-ICST-MIPL/SIM-Trans_ACMMM2022)
 
 ## Contact & Feedback
 
