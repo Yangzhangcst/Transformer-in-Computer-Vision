@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/01
+**Last updated: 2022/09/02
 
 ## Survey: 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -1610,6 +1610,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) eX-ViT: A Novel eXplainable Vision Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2207.05358.pdf)
 - (arXiv 2022.07) Visual Representation Learning with Transformer: A Sequence-to-Sequence Perspective, [[Paper]](https://arxiv.org/pdf/2207.09339.pdf), [[Code]](https://github.com/fudan-zvg/SETR)
 - (arXiv 2022.07) SSformer: A Lightweight Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2208.02034.pdf), [[Code]](https://github.com/shiwt03/SSformer)
+- (arXiv 2022.08) TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut, [[Paper]](https://arxiv.org/pdf/2209.00383.pdf), [[Code]](https://www.m-psi.fr/Papers/TokenCut2022/)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2025,6 +2026,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) SnowFormer: Scale-aware Transformer via Context Interaction for Single Image Desnowing, [[Paper]](https://arxiv.org/pdf/2208.09703.pdf), [[Code]](https://github.com/Ephemeral182/SnowFormer)
 - (arXiv 2022.08) Hierarchical Local-Global Transformer for Temporal Sentence Grounding, [[Paper]](https://arxiv.org/pdf/2208.14882.pdf)
 - (arXiv 2022.08) SIM-Trans: Structure Information Modeling Transformer for Fine-grained Visual Categorization, [[Paper]](https://arxiv.org/pdf/2208.14607.pdf), [[Code]](https://github.com/PKU-ICST-MIPL/SIM-Trans_ACMMM2022)
+- (arXiv 2022.08) Tzransformers are Sample Efficient World Models, [[Paper]](https://arxiv.org/pdf/2209.00588.pdf), [[Code]](https://github.com/eloialonso/iris)
 
 ## Contact & Feedback
 
