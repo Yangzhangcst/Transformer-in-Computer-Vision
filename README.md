@@ -2026,7 +2026,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) SnowFormer: Scale-aware Transformer via Context Interaction for Single Image Desnowing, [[Paper]](https://arxiv.org/pdf/2208.09703.pdf), [[Code]](https://github.com/Ephemeral182/SnowFormer)
 - (arXiv 2022.08) Hierarchical Local-Global Transformer for Temporal Sentence Grounding, [[Paper]](https://arxiv.org/pdf/2208.14882.pdf)
 - (arXiv 2022.08) SIM-Trans: Structure Information Modeling Transformer for Fine-grained Visual Categorization, [[Paper]](https://arxiv.org/pdf/2208.14607.pdf), [[Code]](https://github.com/PKU-ICST-MIPL/SIM-Trans_ACMMM2022)
-- (arXiv 2022.08) Tzransformers are Sample Efficient World Models, [[Paper]](https://arxiv.org/pdf/2209.00588.pdf), [[Code]](https://github.com/eloialonso/iris)
+- (arXiv 2022.09) Tzransformers are Sample Efficient World Models, [[Paper]](https://arxiv.org/pdf/2209.00588.pdf), [[Code]](https://github.com/eloialonso/iris)
 
 ## Contact & Feedback
 
