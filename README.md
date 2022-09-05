@@ -4,6 +4,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 **Last updated: 2022/09/02
 
 ## Survey: 
+- (arXiv 2022.08) Transformers in Remote Sensing: A Survey. [[Paper]](https://arxiv.org/pdf/2209.01206.pdf), [[Awesome]](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
+
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
 
 - (arXiv 2022.08) 3D Vision with Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2208.04309.pdf), [[Awesome]](https://github.com/lahoud/3d-vision-transformers)
@@ -832,6 +834,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) ATEK: Augmenting Transformers with Expert Knowledge for Indoor Layout Synthesis, [[Paper]](https://arxiv.org/abs/2112.05112)
 - (arXiv 2022.03) LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network, [[Paper]](https://arxiv.org/abs/2203.01824), [[Code]](https://github.com/zhigangjiang/LGT-Net)
 - (arXiv 2022.08) UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation, [[Paper]](https://arxiv.org/pdf/2208.08037.pdf)
+- (arXiv 2022.09) Geometry Aligned Variational Transformer for Image-conditioned Layout Generation, [[Paper]](https://arxiv.org/pdf/2209.00852.pdf)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -1060,6 +1063,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Accurate and Robust Lesion RECIST Diameter Prediction and Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2208.13113.pdf)
 - (arXiv 2022.08) SB-SSL: Slice-Based Self-Supervised Transformers for Knee Abnormality Classification from MRI, [[Paper]](https://arxiv.org/pdf/2208.13923.pdf)
 - (arXiv 2022.08) NestedFormer: Nested Modality-Aware Transformer for Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2208.14876.pdf), [[Code]](https://github.com/920232796/NestedFormer)
+- (arXiv 2022.08) ARST: Auto-Regressive Surgical Transformer for Phase Recognition from Laparoscopic Videos, [[Paper]](https://arxiv.org/pdf/2209.01148.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1701,6 +1705,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Transformer-based assignment decision network for multiple object tracking, [[Paper]](https://arxiv.org/pdf/2208.03571.pdf), [[Code]](https://github.com/psaltaath/tadn-mot)
 - (arXiv 2022.08) InterTrack: Interaction Transformer for 3D Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2208.08041.pdf)
 - (arXiv 2022.08) Learning Spatial-Frequency Transformer for Visual Object Tracking, [[Paper]](https://arxiv.org/pdf/2208.08829.pdf), [[Code]](https://github.com/Tchuanm/SFTransT.git)
+- (arXiv 2022.09) Real-time 3D Single Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2209.00860.pdf), [[Code]](https://github.com/shanjiayao/PTT)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
