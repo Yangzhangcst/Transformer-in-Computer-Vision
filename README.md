@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/07
+**Last updated: 2022/09/08
 
 ## Survey: 
 - (arXiv 2022.09) Transformers in Remote Sensing: A Survey. [[Paper]](https://arxiv.org/pdf/2209.01206.pdf), [[Awesome]](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
@@ -1072,6 +1072,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) ARST: Auto-Regressive Surgical Transformer for Phase Recognition from Laparoscopic Videos, [[Paper]](https://arxiv.org/pdf/2209.01148.pdf)
 - (arXiv 2022.09) Time-distance vision transformers in lung cancer diagnosis from longitudinal computed tomography, [[Paper]](https://arxiv.org/pdf/2209.01676.pdf), [[Code]](https://github.com/tom1193/time-distance-transformer)
 - (arXiv 2022.09) Masked Sinogram Model with Transformer for ill-Posed Computed Tomography Reconstruction: a Preliminary Study, [[Paper]](https://arxiv.org/pdf/2209.01356.pdf), [[Code]](https://github.com/lzhengchun/TomoTx)
+- (arXiv 2022.09) Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising, [[Paper]](https://arxiv.org/pdf/2209.03300.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2047,6 +2048,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Hierarchical Local-Global Transformer for Temporal Sentence Grounding, [[Paper]](https://arxiv.org/pdf/2208.14882.pdf)
 - (arXiv 2022.08) SIM-Trans: Structure Information Modeling Transformer for Fine-grained Visual Categorization, [[Paper]](https://arxiv.org/pdf/2208.14607.pdf), [[Code]](https://github.com/PKU-ICST-MIPL/SIM-Trans_ACMMM2022)
 - (arXiv 2022.09) Tzransformers are Sample Efficient World Models, [[Paper]](https://arxiv.org/pdf/2209.00588.pdf), [[Code]](https://github.com/eloialonso/iris)
+- (arXiv 2022.09) Fusion of Satellite Images and Weather Data with Transformer Networks for Downy Mildew Disease Detection, [[Paper]](https://arxiv.org/pdf/2209.02797.pdf)
+- (arXiv 2022.09) Visual Transformer for Soil Classification, [[Paper]](https://arxiv.org/pdf/2209.02950.pdf)
 
 ## Contact & Feedback
 
