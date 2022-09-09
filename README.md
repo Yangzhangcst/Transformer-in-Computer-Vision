@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/08
+**Last updated: 2022/09/09
 
 ## Survey: 
 - (arXiv 2022.09) Transformers in Remote Sensing: A Survey. [[Paper]](https://arxiv.org/pdf/2209.01206.pdf), [[Awesome]](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
@@ -101,6 +101,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) ViT-ReT: Vision and Recurrent Transformer Neural Networks for Human Activity Recognition in Videos, [[Paper]](https://arxiv.org/pdf/2208.07929.pdf),[[Code]](https://github.com/JamesWensel/TranformerActivityRecognition)
 - (arXiv 2022.08) Adaptive Perception Transformer for Temporal Action Localization, [[Paper]](https://arxiv.org/pdf/2208.11908.pdf),[[Code]](https://github.com/SouperO/AdaPerFormer)
 - (arXiv 2022.08) A Circular Window-based Cascade Transformer for Online Action Detection, [[Paper]](https://arxiv.org/pdf/2208.14209.pdf)
+- (arXiv 2022.09) Self-Supervised Multimodal Fusion Transformer for Passive Activity Recognition, [[Paper]](https://arxiv.org/pdf/2209.03765.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1572,6 +1573,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Adapting Self-Supervised Vision Transformers by Probing Attention-Conditioned Masking Consistency, [[Paper]](https://arxiv.org/pdf/2206.08222.pdf), [[Code]](https://github.com/virajprabhu/PACMAC)
 - (arXiv 2022.06) Patch-level Representation Learning for Self-supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2206.07990.pdf), [[Code]](https://github.com/alinlab/SelfPatch)
 - (arXiv 2022.07) Hierarchically Self-Supervised Transformer for Human Skeleton Representation Learning, [[Paper]](https://arxiv.org/pdf/2207.09644.pdf), [[Code]](https://github.com/yuxiaochen1103/Hi-TRS)
+- (arXiv 2022.09) Prior Knowledge-Guided Attention in Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.03745.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -1861,6 +1863,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) PTSEFormer: Progressive Temporal-Spatial Enhanced TransFormer Towards Video Object Detection, [[Paper]](https://arxiv.org/pdf/2209.02242.pdf), [[Code]](https://github.com/Hon-Wong/PTSEFormer)
 - (arXiv 2022.09) Spatial-Temporal Transformer for Video Snapshot Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2209.01578.pdf), [[Code]](https://github.com/ucaswangls/STFormer.git)
 - (arXiv 2022.09) An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling, [[Paper]](https://arxiv.org/pdf/2209.01540.pdf)
+- (arXiv 2022.09) Video Vision Transformers for Violence Detection, [[Paper]](https://arxiv.org/pdf/2209.03561.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -2050,6 +2053,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Tzransformers are Sample Efficient World Models, [[Paper]](https://arxiv.org/pdf/2209.00588.pdf), [[Code]](https://github.com/eloialonso/iris)
 - (arXiv 2022.09) Fusion of Satellite Images and Weather Data with Transformer Networks for Downy Mildew Disease Detection, [[Paper]](https://arxiv.org/pdf/2209.02797.pdf)
 - (arXiv 2022.09) Visual Transformer for Soil Classification, [[Paper]](https://arxiv.org/pdf/2209.02950.pdf)
+- (arXiv 2022.09) Transformer based Fingerprint Feature Extraction, [[Paper]](https://arxiv.org/pdf/2209.03846.pdf), [[Project]](https://saraansh1999.github.io/global-plus-local-fp-transformer)
 
 ## Contact & Feedback
 
