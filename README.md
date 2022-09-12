@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/09
+**Last updated: 2022/09/12
 
 ## Survey: 
 - (arXiv 2022.09) Transformers in Remote Sensing: A Survey. [[Paper]](https://arxiv.org/pdf/2209.01206.pdf), [[Awesome]](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
@@ -1287,6 +1287,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Open Set Recognition using Vision Transformer with an Additional Detection Head, [[Paper]](https://arxiv.org/pdf/2203.08441.pdf)
 - (arXiv 2022.06) OOD Augmentation May Be at Odds with Open-Set Recognition, [[Paper]](https://arxiv.org/pdf/2206.04242.pdf)
 - (arXiv 2022.07) Scaling Novel Object Detection with Weakly Supervised Detection Transformers, [[Paper]](https://arxiv.org/pdf/2207.05205.pdf)
+- (arXiv 2022.09) Pre-training image-language transformers for open-vocabulary tasks, [[Paper]](https://arxiv.org/pdf/2209.04372.pdf)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
