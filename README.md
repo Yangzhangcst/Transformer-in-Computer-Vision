@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/12
+**Last updated: 2022/09/13
 
 ## Survey: 
 - (arXiv 2022.09) Transformers in Remote Sensing: A Survey. [[Paper]](https://arxiv.org/pdf/2209.01206.pdf), [[Awesome]](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
@@ -537,6 +537,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Cross-Forgery Analysis of Vision Transformers and CNNs for Deepfake Image Detection, [[Paper]](https://arxiv.org/pdf/2206.13829.pdf)
 - (arXiv 2022.07) Deepfake Video Detection with Spatiotemporal Dropout Transformer, [[Paper]](https://arxiv.org/pdf/2207.06612.pdf)
 - (arXiv 2022.07) Hybrid Transformer Network for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2208.05820.pdf)
+- (arXiv 2022.09) Deep Convolutional Pooling Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2208.05820.pdf)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -1206,6 +1207,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Flat Multi-modal Interaction Transformer for Named Entity Recognition, [[Paper]](https://arxiv.org/pdf/2208.11039.pdf), [[Code]](https://github.com/gchochla/VAuLT)
 - (arXiv 2022.08) TFusion: Transformer based N-to-One Multimodal Fusion Block, [[Paper]](https://arxiv.org/pdf/2208.12776.pdf)
 - (arXiv 2022.09) Multi-task Swin Transformer for Motion Artifacts Classification and Cardiac Magnetic Resonance Image Segmentation, [[Paper]](https://arxiv.org/pdf/2209.02470.pdf)
+- (arXiv 2022.09) TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction, [[Paper]](https://arxiv.org/pdf/2209.05036.pdf), [[Code]](https://t.ly/V-_W)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1511,6 +1513,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
 - (arXiv 2022.02) When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection, [[Paper]](https://arxiv.org/pdf/2202.11911.pdf), [[Code]](https://github.com/WangShaoSUN/grasp-transformer)
 - (arXiv 2022.07) 3D Part Assembly Generation with Instance Encoded Transformer, [[Paper]](https://arxiv.org/pdf/2207.01779.pdf)
+- (arXiv 2022.09) Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2209.05451.pdf), [[Project]](https://peract.github.io/)
 
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
@@ -1756,6 +1759,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Making the Best of Both Worlds: A Domain-Oriented Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2208.01195.pdf), [[Code]](https://github.com/BIT-DA/Domain-Oriented-Transformer)
 - (arXiv 2022.08) How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification, [[Paper]](https://arxiv.org/pdf/2208.04693.pdf)
 - (arXiv 2022.08) Prompt Vision Transformer for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2208.08914.pdf)
+- (arXiv 2022.08) Transfer Learning and Vision Transformer based State-of-Health prediction of Lithium-Ion Batteries, [[Paper]](https://arxiv.org/pdf/2209.05253.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
