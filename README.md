@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/13
+**Last updated: 2022/09/14
 
 ## Survey: 
+- (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
+
 - (arXiv 2022.09) Transformers in Remote Sensing: A Survey. [[Paper]](https://arxiv.org/pdf/2209.01206.pdf), [[Awesome]](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
 
 - (arXiv 2022.08) Medical image analysis based on transformer: A Review. [[Paper]](https://arxiv.org/pdf/2208.06643.pdf)
@@ -504,6 +506,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
 - (arXiv 2022.04) Stripformer: Strip Transformer for Fast Image Deblurring, [[Paper]](https://arxiv.org/pdf/2204.04627.pdf)
 - (arXiv 2022.04) VDTR: Video Deblurring with Transformer, [[Paper]](https://arxiv.org/pdf/2204.08023.pdf), [[Code]](https://github.com/ljzycmd/VDTR)
+- (arXiv 2022.09) DMTNet: Dynamic Multi-scale Network for Dual-pixel Images Defocus Deblurring with Transformer, [[Paper]](https://arxiv.org/pdf/2209.06040.pdf)
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
@@ -651,6 +654,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) XBound-Former: Toward Cross-scale Boundary Modeling in Transformers, [[Paper]](https://arxiv.org/pdf/2206.00806.pdf), [[Code]](https://github.com/jcwang123/xboundformer)
 - (arXiv 2022.06) Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.02985.pdf)
 - (arXiv 2022.06) SC-Transformer++: Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.12634.pdf), [[Project]](https://github.com/ZhangGongjie/IMFA)
+- (arXiv 2022.09) A lightweight Transformer-based model for fish landmark detection, [[Paper]](https://arxiv.org/pdf/2209.05777.pdf)
+- (arXiv 2022.09) ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers, [[Paper]](https://arxiv.org/pdf/2209.05654.pdf)
+- (arXiv 2022.09) CenterFormer: Center-based Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2209.05588.pdf), [[Project]](https://github.com/TuSimple/centerformer)
 
 ### Enhancement
 - (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
@@ -1425,6 +1431,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) CP-ViT: Cascade Vision Transformer Pruning via Progressive Sparsity Prediction, [[Paper]](https://arxiv.org/pdf/2203.04570.pdf)
 - (arXiv 2022.07) I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference, [[Paper]](https://arxiv.org/pdf/2207.01405.pdf)
 - (arXiv 2022.08) Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization, [[Paper]](https://arxiv.org/pdf/2208.05163.pdf)
+- (arXiv 2022.09) PSAQ-ViT V2: Towards Accurate and General Data-Free Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.05687.pdf), [[Code]](https://github.com/zkkli/PSAQ-ViT)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -1685,6 +1692,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf),[[Code]](https://github.com/j-min/DallEval)
 - (arXiv 2022.05) CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers, [[Paper]](https://arxiv.org/pdf/2204.14217.pdf),[[Code]](https://github.com/THUDM/CogView2)
 - (arXiv 2022.05) CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2205.15868.pdf),[[Code]](https://github.com/THUDM/CogVideo)
+- (arXiv 2022.09) StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation, [[Paper]](https://arxiv.org/pdf/2209.06192.pdf),[[Code]](https://github.com/adymaharana/storydalle)
 
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
