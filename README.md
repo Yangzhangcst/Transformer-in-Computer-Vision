@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/14
+**Last updated: 2022/09/15
 
 ## Survey: 
 - (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -657,6 +657,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) A lightweight Transformer-based model for fish landmark detection, [[Paper]](https://arxiv.org/pdf/2209.05777.pdf)
 - (arXiv 2022.09) ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers, [[Paper]](https://arxiv.org/pdf/2209.05654.pdf)
 - (arXiv 2022.09) CenterFormer: Center-based Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2209.05588.pdf), [[Project]](https://github.com/TuSimple/centerformer)
+- (arXiv 2022.09) CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2209.06535.pdf)
 
 ### Enhancement
 - (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
