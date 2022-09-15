@@ -2068,6 +2068,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Fusion of Satellite Images and Weather Data with Transformer Networks for Downy Mildew Disease Detection, [[Paper]](https://arxiv.org/pdf/2209.02797.pdf)
 - (arXiv 2022.09) Visual Transformer for Soil Classification, [[Paper]](https://arxiv.org/pdf/2209.02950.pdf)
 - (arXiv 2022.09) Transformer based Fingerprint Feature Extraction, [[Paper]](https://arxiv.org/pdf/2209.03846.pdf), [[Project]](https://saraansh1999.github.io/global-plus-local-fp-transformer)
+- (arXiv 2022.09) Transformers and CNNs both Beat Humans on SBIR, [[Paper]](https://arxiv.org/pdf/2209.06629.pdf)
 
 ## Contact & Feedback
 
