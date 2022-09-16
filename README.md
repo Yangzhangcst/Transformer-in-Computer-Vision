@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/15
+**Last updated: 2022/09/16
 
 ## Survey: 
 - (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -460,6 +460,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Video Mobile-Former: Video Recognition with Efficient Global Spatial-temporal Modeling, [[Paper]](https://arxiv.org/pdf/2208.12257.pdf)
 - (arXiv 2022.08) ClusTR: Exploring Efficient Self-attention via Clustering for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2208.13138.pdf)
 - (arXiv 2022.09) MAFormer: A Transformer Network with Multi-scale Attention Fusion for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2209.01620.pdf)
+- (arXiv 2022.09) A Light Recipe to Train Robust Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.07399.pdf), [[Code]](https://github.com/dedeswim/vits-robustness-torch)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -841,6 +842,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
 - (arXiv 2022.03) PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark, [[Paper]](https://arxiv.org/pdf/2203.11089.pdf), [[Project]](https://github.com/OpenPerceptionX/OpenLane)
+- (arXiv 2022.09) PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer, [[Paper]](https://arxiv.org/pdf/2209.06994.pdf), [[Code]](https://github. com/vincentqqb/PriorLane)
 
 ### Layout
 - (CVPR'21) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/abs/2104.02416)
@@ -1215,6 +1217,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) TFusion: Transformer based N-to-One Multimodal Fusion Block, [[Paper]](https://arxiv.org/pdf/2208.12776.pdf)
 - (arXiv 2022.09) Multi-task Swin Transformer for Motion Artifacts Classification and Cardiac Magnetic Resonance Image Segmentation, [[Paper]](https://arxiv.org/pdf/2209.02470.pdf)
 - (arXiv 2022.09) TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction, [[Paper]](https://arxiv.org/pdf/2209.05036.pdf), [[Code]](https://t.ly/V-_W)
+- (arXiv 2022.09) TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction, [[Paper]](https://arxiv.org/pdf/2209.07026.pdf), [[Code]](https://github.com/Reimilia/Simple3D-Former)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1878,6 +1881,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Spatial-Temporal Transformer for Video Snapshot Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2209.01578.pdf), [[Code]](https://github.com/ucaswangls/STFormer.git)
 - (arXiv 2022.09) An Empirical Study of End-to-End Video-Language Transformers with Masked Visual Modeling, [[Paper]](https://arxiv.org/pdf/2209.01540.pdf)
 - (arXiv 2022.09) Video Vision Transformers for Violence Detection, [[Paper]](https://arxiv.org/pdf/2209.03561.pdf)
+- (arXiv 2022.09) On the Surprising Effectiveness of Transformers in Low-Labeled Video Recognition, [[Paper]](https://arxiv.org/pdf/2209.07474.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
