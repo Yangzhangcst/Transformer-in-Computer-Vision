@@ -1217,7 +1217,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) TFusion: Transformer based N-to-One Multimodal Fusion Block, [[Paper]](https://arxiv.org/pdf/2208.12776.pdf)
 - (arXiv 2022.09) Multi-task Swin Transformer for Motion Artifacts Classification and Cardiac Magnetic Resonance Image Segmentation, [[Paper]](https://arxiv.org/pdf/2209.02470.pdf)
 - (arXiv 2022.09) TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction, [[Paper]](https://arxiv.org/pdf/2209.05036.pdf), [[Code]](https://t.ly/V-_W)
-- (arXiv 2022.09) TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction, [[Paper]](https://arxiv.org/pdf/2209.07026.pdf), [[Code]](https://github.com/Reimilia/Simple3D-Former)
+- (arXiv 2022.09) Can We Solve 3D Vision Tasks Starting from A 2D Vision Transformer, [[Paper]](https://arxiv.org/pdf/2209.07026.pdf), [[Code]](https://github.com/Reimilia/Simple3D-Former)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
