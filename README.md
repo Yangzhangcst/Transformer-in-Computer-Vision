@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/16
+**Last updated: 2022/09/19
 
 ## Survey: 
 - (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -461,6 +461,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) ClusTR: Exploring Efficient Self-attention via Clustering for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2208.13138.pdf)
 - (arXiv 2022.09) MAFormer: A Transformer Network with Multi-scale Attention Fusion for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2209.01620.pdf)
 - (arXiv 2022.09) A Light Recipe to Train Robust Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.07399.pdf), [[Code]](https://github.com/dedeswim/vits-robustness-torch)
+- (arXiv 2022.09) ConvFormer: Closing the Gap Between CNN and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.07738.pdf), [[Code]](https://github.com/dedeswim/vits-robustness-torch)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -650,6 +651,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Swin-transformer-yolov5 For Real-time Wine Grape Bunch Detection, [[Paper]](https://arxiv.org/pdf/2208.14508.pdf)
 - (arXiv 2022.09) SEFormer: Structure Embedding Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2209.01745.pdf)
 - (arXiv 2022.09) Vision Transformers and YoloV5 based Driver Drowsiness Detection Framework, [[Paper]](https://arxiv.org/pdf/2209.01401.pdf)
+
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
 - (arXiv 2022.06) XBound-Former: Toward Cross-scale Boundary Modeling in Transformers, [[Paper]](https://arxiv.org/pdf/2206.00806.pdf), [[Code]](https://github.com/jcwang123/xboundformer)
@@ -843,6 +845,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
 - (arXiv 2022.03) PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark, [[Paper]](https://arxiv.org/pdf/2203.11089.pdf), [[Project]](https://github.com/OpenPerceptionX/OpenLane)
 - (arXiv 2022.09) PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer, [[Paper]](https://arxiv.org/pdf/2209.06994.pdf), [[Code]](https://github. com/vincentqqb/PriorLane)
+- (arXiv 2022.09) CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention, [[Paper]](https://arxiv.org/pdf/2209.07989.pdf)
 
 ### Layout
 - (CVPR'21) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/abs/2104.02416)
@@ -1453,6 +1456,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Forensic License Plate Recognition with Compression-Informed Transformers, [[Paper]](https://arxiv.org/pdf/2207.14686.pdf), [[Code]](https://www.cs1.tf.fau.de/research/multimedia-security/)
 - (arXiv 2022.08) TSRFormer: Table Structure Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2208.04921.pdf)
 - (arXiv 2022.08) GSRFormer: Grounded Situation Recognition Transformer with Alternate Semantic Attention Refinement, [[Paper]](https://arxiv.org/pdf/2208.08965.pdf), [[Code]](https://github.com/zhiqic/GSRFormer)
+- (arXiv 2022.09) SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data, [[Paper]](https://arxiv.org/pdf/2209.07951.pdf), [[Code]](https://github.com/BIT-MJY/SeqOT)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -2073,6 +2077,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Visual Transformer for Soil Classification, [[Paper]](https://arxiv.org/pdf/2209.02950.pdf)
 - (arXiv 2022.09) Transformer based Fingerprint Feature Extraction, [[Paper]](https://arxiv.org/pdf/2209.03846.pdf), [[Project]](https://saraansh1999.github.io/global-plus-local-fp-transformer)
 - (arXiv 2022.09) Transformers and CNNs both Beat Humans on SBIR, [[Paper]](https://arxiv.org/pdf/2209.06629.pdf)
+- (arXiv 2022.09) CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation, [[Paper]](https://arxiv.org/pdf/2209.07734.pdf), [[Project]](https://tonyxuqaq.github.io/projects/CenterLineDet/)
+- (arXiv 2022.09) SQ-Swin: a Pretrained Siamese Quadratic Swin Transformer for Lettuce Browning Prediction, [[Paper]](https://arxiv.org/pdf/2209.07683.pdf)
 
 ## Contact & Feedback
 
