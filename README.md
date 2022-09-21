@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/20
+**Last updated: 2022/09/21
 
 ## Survey: 
 - (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -741,6 +741,17 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf), [[Code]](https://github.com/Zhishe-Wang/SwinFuse)
 - (arXiv 2022.07) Array Camera Image Fusion using Physics-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2207.02250.pdf)
 
+### Gait
+- (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
+- (arXiv 2022.06) Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition, [[Paper]](https://arxiv.org/pdf/2206.01441.pdf)
+- (arXiv 2022.06) GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation, [[Paper]](https://arxiv.org/pdf/2207.00106.pdf), [[Code]](https://github.com/markendo/GaitForeMer)
+
+### Gaze
+- (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
+- (arXiv 2022.03) End-to-End Human-Gaze-Target Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.10433.pdf)
+- (arXiv 2022.05) Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning, [[Paper]](https://arxiv.org/pdf/2205.12466.pdf)
+- (arXiv 2022.08) In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation, [[Paper]](https://arxiv.org/pdf/2208.04464.pdf), [[Code]](https://bolinlai.github.io/GLC-EgoGazeEst)
+
 ### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
 - (arXiv 2021.03) Generative Adversarial Transformers, [[Paper]](https://arxiv.org/pdf/2103.01209.pdf), [[Code]](https://github.com/dorarad/gansformer)
@@ -760,16 +771,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model, [[Paper]](https://arxiv.org/pdf/2208.07791.pdf), [[Code]](https://github.com/sndnyang/Diffusion_ViT)
 - (arXiv 2022.08) User-Controllable Latent Transformer for StyleGAN Image Layout Editing, [[Paper]](https://arxiv.org/pdf/2208.12408.pdf), [[Code]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/UserControllableLT)
 
-### Gait
-- (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
-- (arXiv 2022.06) Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition, [[Paper]](https://arxiv.org/pdf/2206.01441.pdf)
-- (arXiv 2022.06) GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation, [[Paper]](https://arxiv.org/pdf/2207.00106.pdf), [[Code]](https://github.com/markendo/GaitForeMer)
-
-### Gaze
-- (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
-- (arXiv 2022.03) End-to-End Human-Gaze-Target Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.10433.pdf)
-- (arXiv 2022.05) Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning, [[Paper]](https://arxiv.org/pdf/2205.12466.pdf)
-- (arXiv 2022.08) In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation, [[Paper]](https://arxiv.org/pdf/2208.04464.pdf), [[Code]](https://bolinlai.github.io/GLC-EgoGazeEst)
+### Graph
+- (arXiv 2022.0*) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -1091,6 +1094,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Time-distance vision transformers in lung cancer diagnosis from longitudinal computed tomography, [[Paper]](https://arxiv.org/pdf/2209.01676.pdf), [[Code]](https://github.com/tom1193/time-distance-transformer)
 - (arXiv 2022.09) Masked Sinogram Model with Transformer for ill-Posed Computed Tomography Reconstruction: a Preliminary Study, [[Paper]](https://arxiv.org/pdf/2209.01356.pdf), [[Code]](https://github.com/lzhengchun/TomoTx)
 - (arXiv 2022.09) Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising, [[Paper]](https://arxiv.org/pdf/2209.03300.pdf)
+- (arXiv 2022.09) View-Disentangled Transformer for Brain Lesion Detection, [[Paper]](https://arxiv.org/pdf/2209.09657.pdf), [[Code]](https://github.com/lhaof/ISBI-VDFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1895,6 +1899,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Video Vision Transformers for Violence Detection, [[Paper]](https://arxiv.org/pdf/2209.03561.pdf)
 - (arXiv 2022.09) On the Surprising Effectiveness of Transformers in Low-Labeled Video Recognition, [[Paper]](https://arxiv.org/pdf/2209.07474.pdf)
 - (arXiv 2022.09) Real-time Online Video Detection with Temporal Smoothing Transformers, [[Paper]](https://arxiv.org/pdf/2209.09236.pdf), [[Code]](https://github.com/zhaoyue-zephyrus/TeSTra)
+- (arXiv 2022.09) Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos, [[Paper]](https://arxiv.org/pdf/209.09484.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
