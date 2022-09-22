@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/21
+**Last updated: 2022/09/22
 
 ## Survey: 
 - (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -105,6 +105,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) A Circular Window-based Cascade Transformer for Online Action Detection, [[Paper]](https://arxiv.org/pdf/2208.14209.pdf)
 - (arXiv 2022.09) Self-Supervised Multimodal Fusion Transformer for Passive Activity Recognition, [[Paper]](https://arxiv.org/pdf/2209.03765.pdf)
 - (arXiv 2022.09) TASKED: Transformer-based Adversarial learning for human activity recognition using wearable sensors via Self-KnowledgE Distillation, [[Paper]](https://arxiv.org/pdf/2209.09092.pdf)
+- (arXiv 2022.09) Exploring Modulated Detection Transformer as a Tool for Action Recognition in Videos, [[Paper]](https://arxiv.org/pdf/2209.10126.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -655,6 +656,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Swin-transformer-yolov5 For Real-time Wine Grape Bunch Detection, [[Paper]](https://arxiv.org/pdf/2208.14508.pdf)
 - (arXiv 2022.09) SEFormer: Structure Embedding Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2209.01745.pdf)
 - (arXiv 2022.09) Vision Transformers and YoloV5 based Driver Drowsiness Detection Framework, [[Paper]](https://arxiv.org/pdf/2209.01401.pdf)
+- (arXiv 2022.09) Sar Ship Detection based on Swin Transformer and Feature Enhancement Feature Pyramid Network, [[Paper]](https://arxiv.org/pdf/2209.10421.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -841,6 +843,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) In Defense of Online Models for Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2207.10661.pdf), [[Code]](https://github.com/wjf5203/VNext)
 - (arXiv 2022.07) Video Mask Transfiner for High-Quality Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2207.14012.pdf), [[Project]](https://www.vis.xyz/pub/vmt)
 - (arXiv 2022.08) InstanceFormer: An Online Video Instance Segmentation Framework, [[Paper]](https://arxiv.org/pdf/2208.10547.pdf), [[Code]](https://github.com/rajatkoner08/InstanceFormer)
+- (arXiv 2022.09) RNGDet++: Road Network Graph Detection by Transformer with Instance Segmentation and Multi-scale Features Enhancement, [[Paper]](https://arxiv.org/pdf/2209.10150.pdf), [[Code]](https://tonyxuqaq.github.io/projects/RNGDetPlusPlus/)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -1948,6 +1951,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration, [[Paper]](https://arxiv.org/abs/2207.10447), [[Code]](https://github.com/164140757/SCM)
 - (arXiv 2022.08) Re-Attention Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2208.01838), [[Code]](https://github.com/su-hui-zz/ReAttentionTransformer)
 - (arXiv 2022.09) Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2209.09209), [[Code]](https://github.com/shakeebmurtaza/dips)
+- (arXiv 2022.09) PicT: A Slim Weakly Supervised Vision Transformer for Pavement Distress Classification, [[Paper]](https://arxiv.org/abs/2209.10074), [[Code]](https://github.com/DearCaat/PicT)
 
 ### Zero-Shot Learning
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
