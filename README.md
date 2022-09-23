@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/22
+**Last updated: 2022/09/23
 
 ## Survey: 
 - (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -1232,6 +1232,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Multi-task Swin Transformer for Motion Artifacts Classification and Cardiac Magnetic Resonance Image Segmentation, [[Paper]](https://arxiv.org/pdf/2209.02470.pdf)
 - (arXiv 2022.09) TMSS: An End-to-End Transformer-based Multimodal Network for Segmentation and Survival Prediction, [[Paper]](https://arxiv.org/pdf/2209.05036.pdf), [[Code]](https://t.ly/V-_W)
 - (arXiv 2022.09) Can We Solve 3D Vision Tasks Starting from A 2D Vision Transformer, [[Paper]](https://arxiv.org/pdf/2209.07026.pdf), [[Code]](https://github.com/Reimilia/Simple3D-Former)
+- (arXiv 2022.09) UniColor: A Unified Framework for Multi-Modal Colorization with Transformer, [[Paper]](https://arxiv.org/pdf/2209.11223.pdf), [[Code]](https://luckyhzt.github.io/unicolor)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1770,6 +1771,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Pyramid Transformer for Traffic Sign Detection, [[Paper]](https://arxiv.org/pdf/2207.06067.pdf), [[Code]](https://github.com/chenghuang66/s2tnet)
 - (arXiv 2022.07) Applying Spatiotemporal Attention to Identify Distracted and Drowsy Driving with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.12148.pdf)
 - (arXiv 2022.07) Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2207.14024.pdf)
+- (arXiv 2022.09) Traffic Accident Risk Forecasting using Contextual Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.11180.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
