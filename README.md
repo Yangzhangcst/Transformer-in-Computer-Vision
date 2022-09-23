@@ -753,6 +753,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) End-to-End Human-Gaze-Target Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2203.10433.pdf)
 - (arXiv 2022.05) Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning, [[Paper]](https://arxiv.org/pdf/2205.12466.pdf)
 - (arXiv 2022.08) In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation, [[Paper]](https://arxiv.org/pdf/2208.04464.pdf), [[Code]](https://bolinlai.github.io/GLC-EgoGazeEst)
+- (arXiv 2022.09) MGTR: End-to-End Mutual Gaze Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2209.10930.pdf), [[Code]](https://github.com/Gmbition/MGTR)
 
 ### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -1544,6 +1545,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) When Transformer Meets Robotic Grasping: Exploits Context for Efficient Grasp Detection, [[Paper]](https://arxiv.org/pdf/2202.11911.pdf), [[Code]](https://github.com/WangShaoSUN/grasp-transformer)
 - (arXiv 2022.07) 3D Part Assembly Generation with Instance Encoded Transformer, [[Paper]](https://arxiv.org/pdf/2207.01779.pdf)
 - (arXiv 2022.09) Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2209.05451.pdf), [[Project]](https://peract.github.io/)
+- (arXiv 2022.09) PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training, [[Paper]](https://arxiv.org/pdf/2209.11133.pdf)
 
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
