@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/23
+**Last updated: 2022/09/26
 
 ## Survey: 
 - (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -106,6 +106,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Self-Supervised Multimodal Fusion Transformer for Passive Activity Recognition, [[Paper]](https://arxiv.org/pdf/2209.03765.pdf)
 - (arXiv 2022.09) TASKED: Transformer-based Adversarial learning for human activity recognition using wearable sensors via Self-KnowledgE Distillation, [[Paper]](https://arxiv.org/pdf/2209.09092.pdf)
 - (arXiv 2022.09) Exploring Modulated Detection Transformer as a Tool for Action Recognition in Videos, [[Paper]](https://arxiv.org/pdf/2209.10126.pdf)
+- (arXiv 2022.09) Lightweight Transformers for Human Activity Recognition on Mobile Devices, [[Paper]](https://arxiv.org/pdf/2209.11750.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1257,6 +1258,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv.2022.03) Training-free Transformer Architecture Search, [[Paper]](https://arxiv.org/pdf/2203.12217.pdf)
 - (arXiv.2022.06) Neural Prompt Search, [[Paper]](https://arxiv.org/pdf/2206.04673.pdf)
 - (arXiv.2022.07) UniNet: Unified Architecture Search with Convolution, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2207.05420.pdf), [[Code]](https://github.com/Sense-X/UniNet)
+- (arXiv.2022.09) NasHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing, [[Paper]](https://arxiv.org/pdf/2209.11356.pdf)
 
 ### Navigation
 - (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
@@ -1392,6 +1394,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2208.05216.pdf), [[Code]](https://github.com/Jasonkks/PTTR)
 - (arXiv 2022.08) PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees, [[Paper]](https://arxiv.org/pdf/2208.05962.pdf), [[Code]](https://github.com/immortalCO/PointTree)
 - (arXiv 2022.08) Pix4Point: Image Pretrained Transformers for 3D Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2208.12259.pdf), [[Code]](https://github.com/guochengqian/Pix4Point)
+- (arXiv 2022.09) 3DPCT: 3D Point Cloud Transformer with Dual Self-attention, [[Paper]](https://arxiv.org/pdf/2209.11255.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1701,6 +1704,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Reference-based Image Super-Resolution with Deformable Attention Transformer,  [[Paper]](https://arxiv.org/pdf/2207.11938.pdf), [[Code]](https://github.com/caojiezhang/DATSR)
 - (arXiv 2022.08) Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2208.03012.pdf), [[Code]](https://github.com/researchmm/FTVSR)
 - (arXiv 2022.08) HST: Hierarchical Swin Transformer for Compressed Image Super-resolution,  [[Paper]](https://arxiv.org/pdf/2208.09885.pdf)
+- (arXiv 2022.09) Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration,  [[Paper]](https://arxiv.org/pdf/2209.11345.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -2103,6 +2107,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) CenterLineDet: Road Lane CenterLine Graph Detection With Vehicle-Mounted Sensors by Transformer for High-definition Map Creation, [[Paper]](https://arxiv.org/pdf/2209.07734.pdf), [[Project]](https://tonyxuqaq.github.io/projects/CenterLineDet/)
 - (arXiv 2022.09) SQ-Swin: a Pretrained Siamese Quadratic Swin Transformer for Lettuce Browning Prediction, [[Paper]](https://arxiv.org/pdf/2209.07683.pdf)
 - (arXiv 2022.09) Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence, [[Paper]](https://arxiv.org/pdf/2209.08742.pdf)
+- (arXiv 2022.09) Colonoscopy Landmark Detection using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.11304.pdf)
 
 ## Contact & Feedback
 
