@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/26
+**Last updated: 2022/09/27
 
 ## Survey: 
 - (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -107,6 +107,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) TASKED: Transformer-based Adversarial learning for human activity recognition using wearable sensors via Self-KnowledgE Distillation, [[Paper]](https://arxiv.org/pdf/2209.09092.pdf)
 - (arXiv 2022.09) Exploring Modulated Detection Transformer as a Tool for Action Recognition in Videos, [[Paper]](https://arxiv.org/pdf/2209.10126.pdf)
 - (arXiv 2022.09) Lightweight Transformers for Human Activity Recognition on Mobile Devices, [[Paper]](https://arxiv.org/pdf/2209.11750.pdf)
+- (arXiv 2022.09) Multi-dataset Training of Transformers for Robust Action Recognition, [[Paper]](https://arxiv.org/pdf/2209.12362.pdf),[[Code]](https://github.com/JunweiLiang/MultiTrain)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -127,6 +128,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Multi-Contextual Predictions with Vision Transformer for Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2206.08568.pdf)
 - (arXiv 2022.08) HaloAE: An HaloNet based Local Transformer Auto-Encoder for Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2208.03486.pdf), [[Code]](https://anonymous.4open.science/r/HaloAE-E27B/README.md)
 - (arXiv 2022.08) ADTR: Anomaly Detection Transformer with Feature Reconstruction, [[Paper]](https://arxiv.org/pdf/2209.01816.pdf)
+- (arXiv 2022.09) Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2209.12148.pdf), [[Code]](https://github.com/ristea/ssmctb)
 
 ### Assessment
 - (arXiv 2021.01) Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
@@ -810,6 +812,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2203.04845.pdf)
 - (arXiv 2022.03) Deep Hyperspectral Unmixing using Transformer Network, [[Paper]](https://arxiv.org/pdf/2203.17076.pdf), [[Code]](https://github.com/preetam22n/DeepTrans-HSU)
 - (arXiv 2022.04) MST++: Multi-stage Spectral-wise Transformer for Efficient Spectral Reconstruction, [[Paper]](https://arxiv.org/pdf/2204.07908.pdf), [[Code]](https://github.com/cuiziteng/IlluminationAdaptive-Transformer)
+- (arXiv 2022.09) S^2-Transformer for Mask-Aware Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2209.12075.pdf)
 
 ### Illumination
 - (arXiv 2022.05) Illumination Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
@@ -1279,6 +1282,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Generalizable Neural Radiance Fields for Novel View Synthesis with Transformer, [[Paper]](https://arxiv.org/pdf/2206.05375.pdf)
 - (arXiv 2022.06) IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering inIndoor Scenes, [[Paper]](https://arxiv.org/pdf/2206.08423.pdf), [[Code]](https://github.com/ViLab-UCSD/IRISformer)
 - (arXiv 2022.07) Vision Transformer for NeRF-Based View Synthesis from a Single Input Image, [[Paper]](https://arxiv.org/pdf/2207.05736.pdf), [[Project]](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)
+- (arXiv 2022.09) NeRF-Loc: Transformer-Based Object Localization Within Neural Radiance Fields, [[Paper]](https://arxiv.org/pdf/2209.12068.pdf)
 
 ### OCR
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
@@ -2108,6 +2112,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) SQ-Swin: a Pretrained Siamese Quadratic Swin Transformer for Lettuce Browning Prediction, [[Paper]](https://arxiv.org/pdf/2209.07683.pdf)
 - (arXiv 2022.09) Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence, [[Paper]](https://arxiv.org/pdf/2209.08742.pdf)
 - (arXiv 2022.09) Colonoscopy Landmark Detection using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.11304.pdf)
+- (arXiv 2022.09) Transformer-Based Microbubble Localization, [[Paper]](https://arxiv.org/pdf/2209.11859.pdf)
 
 ## Contact & Feedback
 
