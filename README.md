@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/27
+**Last updated: 2022/09/28
 
 ## Survey: 
+- (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
+
 - (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
 
 - (arXiv 2022.09) Transformers in Remote Sensing: A Survey. [[Paper]](https://arxiv.org/pdf/2209.01206.pdf), [[Awesome]](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
@@ -129,6 +131,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) HaloAE: An HaloNet based Local Transformer Auto-Encoder for Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2208.03486.pdf), [[Code]](https://anonymous.4open.science/r/HaloAE-E27B/README.md)
 - (arXiv 2022.08) ADTR: Anomaly Detection Transformer with Feature Reconstruction, [[Paper]](https://arxiv.org/pdf/2209.01816.pdf)
 - (arXiv 2022.09) Self-Supervised Masked Convolutional Transformer Block for Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2209.12148.pdf), [[Code]](https://github.com/ristea/ssmctb)
+- (arXiv 2022.09) Anomaly Detection in Aerial Videos with Transformers, [[Paper]](https://arxiv.org/pdf/2209.13363.pdf), [[Code]](https://github.com/jin-pu/drone-anomaly)
 
 ### Assessment
 - (arXiv 2021.01) Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
@@ -660,6 +663,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) SEFormer: Structure Embedding Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2209.01745.pdf)
 - (arXiv 2022.09) Vision Transformers and YoloV5 based Driver Drowsiness Detection Framework, [[Paper]](https://arxiv.org/pdf/2209.01401.pdf)
 - (arXiv 2022.09) Sar Ship Detection based on Swin Transformer and Feature Enhancement Feature Pyramid Network, [[Paper]](https://arxiv.org/pdf/2209.10421.pdf)
+- (arXiv 2022.09) CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2209.13507.pdf),[[Code]](https://github.com/sty61010/CrossDTR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1103,6 +1107,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Masked Sinogram Model with Transformer for ill-Posed Computed Tomography Reconstruction: a Preliminary Study, [[Paper]](https://arxiv.org/pdf/2209.01356.pdf), [[Code]](https://github.com/lzhengchun/TomoTx)
 - (arXiv 2022.09) Spach Transformer: Spatial and Channel-wise Transformer Based on Local and Global Self-attentions for PET Image Denoising, [[Paper]](https://arxiv.org/pdf/2209.03300.pdf)
 - (arXiv 2022.09) View-Disentangled Transformer for Brain Lesion Detection, [[Paper]](https://arxiv.org/pdf/2209.09657.pdf), [[Code]](https://github.com/lhaof/ISBI-VDFormer)
+- (arXiv 2022.09) CCTCOVID: COVID-19 Detection from Chest X-Ray Images Using Compact Convolutional Transformers, [[Paper]](https://arxiv.org/pdf/2209.13399.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1123,6 +1128,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) HiT-DVAE: Human Motion Generation via Hierarchical Transformer Dynamical VAE, [[Paper]](https://arxiv.org/pdf/2204.01565.pdf)
 - (arXiv 2022.07) TENET: Transformer Encoding Network for Effective Temporal Flow on Motion Prediction, [[Paper]](https://arxiv.org/pdf/2207.00170.pdf)
 - (arXiv 2022.08) SoMoFormer: Social-Aware Motion Transformer for Multi-Person Motion Prediction, [[Paper]](https://arxiv.org/pdf/2208.09224.pdf)
+- (arXiv 2022.09) Motion Transformer with Global Intention Localization and Local Movement Refinement, [[Paper]](https://arxiv.org/pdf/2209.13508.pdf), [[Code]](https://github.com/sshaoshuai/MTR)
+- (arXiv 2022.09) NEURAL MARIONETTE: A Transformer-based Multi-action Human Motion Synthesis System, [[Paper]](https://arxiv.org/pdf/2209.13204.pdf), [[Project]](https://wjohnnyw.github.io/blog/tag2motion/)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
