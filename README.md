@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/09/29
+**Last updated: 2022/09/30
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -473,6 +473,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) ConvFormer: Closing the Gap Between CNN and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.07738.pdf), [[Code]](https://github.com/dedeswim/vits-robustness-torch)
 - (arXiv 2022.09) Axially Expanded Windows for Local-Global Interaction in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.08726.pdf)
 - (arXiv 2022.09) Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention, [[Paper]](https://arxiv.org/pdf/2209.13802.pdf)
+- (arXiv 2022.09) Effective Vision Transformer Training: A Data-Centric Perspective, [[Paper]](https://arxiv.org/pdf/2209.15006.pdf)
+- (arXiv 2022.09) Dilated Neighborhood Attention Transformer, [[Paper]](https://arxiv.org/pdf/2209.15001.pdf), [[Code]](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1112,6 +1114,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) View-Disentangled Transformer for Brain Lesion Detection, [[Paper]](https://arxiv.org/pdf/2209.09657.pdf), [[Code]](https://github.com/lhaof/ISBI-VDFormer)
 - (arXiv 2022.09) CCTCOVID: COVID-19 Detection from Chest X-Ray Images Using Compact Convolutional Transformers, [[Paper]](https://arxiv.org/pdf/2209.13399.pdf)
 - (arXiv 2022.09) Medical Image Captioning via Generative Pretrained Transformers, [[Paper]](https://arxiv.org/pdf/2209.13983.pdf)
+- (arXiv 2022.09) UNesT: Local Spatial Representation Learning with Hierarchical Transformer for Efficient Medical Segmentation, [[Paper]](https://arxiv.org/pdf/2209.14378.pdf), [[Code]](https://github.com/Project-MONAI/model-zoo/tree/dev/models)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1816,6 +1819,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) How Well Do Vision Transformers (VTs) Transfer To The Non-Natural Image Domain? An Empirical Study Involving Art Classification, [[Paper]](https://arxiv.org/pdf/2208.04693.pdf)
 - (arXiv 2022.08) Prompt Vision Transformer for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2208.08914.pdf)
 - (arXiv 2022.08) Transfer Learning and Vision Transformer based State-of-Health prediction of Lithium-Ion Batteries, [[Paper]](https://arxiv.org/pdf/2209.05253.pdf)
+- (arXiv 2022.09) Transfer Learning with Pretrained Remote Sensing Transformers, [[Paper]](https://arxiv.org/pdf/2209.14969.pdf), [[Code]](https://github.com/antofuller/SatViT)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
