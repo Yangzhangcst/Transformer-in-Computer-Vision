@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/04
+**Last updated: 2022/10/05
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -1421,6 +1421,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Pix4Point: Image Pretrained Transformers for 3D Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2208.12259.pdf), [[Code]](https://github.com/guochengqian/Pix4Point)
 - (arXiv 2022.09) 3DPCT: 3D Point Cloud Transformer with Dual Self-attention, [[Paper]](https://arxiv.org/pdf/2209.11255.pdf)
 - (arXiv 2022.10) Transformers for Object Detection in Large Point Clouds, [[Paper]](https://arxiv.org/pdf/2209.15258.pdf)
+- (arXiv 2022.10) Bridged Transformer for Vision and Point Cloud 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2210.01391.pdf)
+- (arXiv 2022.10) Introducing Vision Transformer for Alzheimer's Disease classification task with 3D input, [[Paper]](https://arxiv.org/pdf/2210.01177.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1555,6 +1557,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer, [[Paper]](https://arxiv.org/pdf/2208.14704.pdf), [[Code]](https://github.com/leonmakise/ELMformer)
 - (arXiv 2022.09) LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images, [[Paper]](https://arxiv.org/pdf/2209.02197.pdf)
 - (arXiv 2022.09) Dual-former: Hybrid Self-attention Transformer for Efficient Image Restoration, [[Paper]](https://arxiv.org/pdf/2210.01069.pdf)
+- (arXiv 2022.10) Accurate Image Restoration with Attention Retractable Transformer, [[Paper]](https://arxiv.org/pdf/2210.01427.pdf, [[Code]](https://github.com/gladzhang/ART)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
