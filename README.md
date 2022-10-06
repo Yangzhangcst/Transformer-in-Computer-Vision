@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/05
+**Last updated: 2022/10/06
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -1423,6 +1423,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Transformers for Object Detection in Large Point Clouds, [[Paper]](https://arxiv.org/pdf/2209.15258.pdf)
 - (arXiv 2022.10) Bridged Transformer for Vision and Point Cloud 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2210.01391.pdf)
 - (arXiv 2022.10) Introducing Vision Transformer for Alzheimer's Disease classification task with 3D input, [[Paper]](https://arxiv.org/pdf/2210.01177.pdf)
+- (arXiv 2022.10) Point Cloud Recognition with Position-to-Structure Attention Transformers, [[Paper]](https://arxiv.org/pdf/2210.02030.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1946,7 +1947,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Video Vision Transformers for Violence Detection, [[Paper]](https://arxiv.org/pdf/2209.03561.pdf)
 - (arXiv 2022.09) On the Surprising Effectiveness of Transformers in Low-Labeled Video Recognition, [[Paper]](https://arxiv.org/pdf/2209.07474.pdf)
 - (arXiv 2022.09) Real-time Online Video Detection with Temporal Smoothing Transformers, [[Paper]](https://arxiv.org/pdf/2209.09236.pdf), [[Code]](https://github.com/zhaoyue-zephyrus/TeSTra)
-- (arXiv 2022.09) Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos, [[Paper]](https://arxiv.org/pdf/209.09484.pdf)
+- (arXiv 2022.09) Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos, [[Paper]](https://arxiv.org/pdf/2209.09484.pdf)
+- (arXiv 2022.10) Temporally Consistent Video Transformer for Long-Term Video Prediction, [[Paper]](https://arxiv.org/pdf/2210.02396.pdf), [[Project]](https://wilson1yan.github.io/teco)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
