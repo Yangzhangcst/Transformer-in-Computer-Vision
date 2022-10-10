@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/07
+**Last updated: 2022/10/10
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -1120,6 +1120,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Medical Image Captioning via Generative Pretrained Transformers, [[Paper]](https://arxiv.org/pdf/2209.13983.pdf)
 - (arXiv 2022.09) UNesT: Local Spatial Representation Learning with Hierarchical Transformer for Efficient Medical Segmentation, [[Paper]](https://arxiv.org/pdf/2209.14378.pdf), [[Code]](https://github.com/Project-MONAI/model-zoo/tree/dev/models)
 - (arXiv 2022.10) 3D UX-Net: A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2209.15076.pdf), [[Code]](https://github.com/MASILab/3DUX-Net)
+- (arXiv 2022.10) Gastrointestinal Disorder Detection with a Transformer Based Approach, [[Paper]](https://arxiv.org/pdf/2210.03168.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1364,6 +1365,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) k-means Mask Transformer, [[Paper]](https://arxiv.org/pdf/2207.04044.pdf), [[Code]](https://github.com/google-research/deeplab2)
 - (arXiv 2022.07) Masked-attention Mask Transformer for Universal Image Segmentation, [[Paper]](https://arxiv.org/pdf/2112.01527.pdf), [[Code]](https://bowenc0221.github.io/mask2former)
 - (arXiv 2022.07) Behind Every Domain There is a Shift: Adapting Distortion-aware Vision Transformers for Panoramic Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2207.11860.pdf), [[Code]](https://github.com/jamycheung/Trans4PASS)
+- (arXiv 2022.10) Time-Space Transformers for Video Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2210.03546.pdf), [[Code]](https://github.com/jamycheung/Trans4PASS)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
