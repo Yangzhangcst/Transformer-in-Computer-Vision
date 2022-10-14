@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/13
+**Last updated: 2022/10/14
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -485,6 +485,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.06466.pdf), [[Code]](https://github.com/jochemloedeman/PGN)
 - (arXiv 2022.10) Large Models are Parsimonious Learners: Activation Sparsity in Trained Transformers, [[Paper]](https://arxiv.org/pdf/2210.06313.pdf)
 - (arXiv 2022.10) Curved Representation Space of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.05742.pdf)
+- (arXiv 2022.10) How to Train Vision Transformer on Small-scale Datasets, [[Paper]](https://arxiv.org/pdf/2210.07240.pdf), [[Code]](https://github.com/hananshafi/vits-for-small-scale-datasets)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -743,6 +744,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Multi-Scale Wavelet Transformer for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2210.03899.pdf)
 - (arXiv 2022.10) Ensemble Learning using Transformers and Convolutional Networks for Masked Face Recognition, [[Paper]](https://arxiv.org/pdf/2210.04816.pdf),[[Code]](https://github.com/Hamzah-Luqman/MFR)
 - (arXiv 2022.10) GGViT:Multistream Vision Transformer Network in Face2Face Facial Reenactment Detection, [[Paper]](https://arxiv.org/pdf/2210.05990.pdf)
+- (arXiv 2022.10) Prepended Domain Transformer: Heterogeneous Face Recognition without Bells and Whistles, [[Paper]](https://arxiv.org/pdf/2210.06529.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -763,6 +765,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Few-Shot Learning Meets Transformer: Unified Query-Support Transformers for Few-Shot Classification, [[Paper]](https://arxiv.org/pdf/2208.12398.pdf)
 - (arXiv 2022.10) BaseTransformers: Attention over base data-points for One Shot Learning, [[Paper]](https://arxiv.org/pdf/2210.02476.pdf), [[Code]](https://github.com/mayug/BaseTransformers)
 - (arXiv 2022.10) FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training, [[Paper]](https://arxiv.org/pdf/2210.04845.pdf)
+- (arXiv 2022.10) Feature-Proxy Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2210.06908.pdf)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -1137,6 +1140,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Gastrointestinal Disorder Detection with a Transformer Based Approach, [[Paper]](https://arxiv.org/pdf/2210.03168.pdf)
 - (arXiv 2022.10) LAPFormer: A Light and Accurate Polyp Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2210.04393.pdf)
 - (arXiv 2022.10) Memory transformers for full context and high-resolution 3D Medical Segmentation, [[Paper]](https://arxiv.org/pdf/2210.05313.pdf)
+- (arXiv 2022.10) ConvTransSeg: A Multi-resolution Convolution-Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2210.07072.pdf)
+- (arXiv 2022.10) Brain Network Transformer, [[Paper]](https://arxiv.org/pdf/2210.06681.pdf), [[Code]](https://github.com/Wayfear/BrainNetworkTransformer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1518,6 +1523,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) PSAQ-ViT V2: Towards Accurate and General Data-Free Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.05687.pdf), [[Code]](https://github.com/zkkli/PSAQ-ViT)
 - (arXiv 2022.10) EAPruning: Evolutionary Pruning for Vision Transformers and CNNs, [[Paper]](https://arxiv.org/pdf/2210.00181.pdf)
 - (arXiv 2022.10) SaiT: Sparse Vision Transformers through Adaptive Token Pruning, [[Paper]](https://arxiv.org/pdf/2210.05832.pdf)
+- (arXiv 2022.10) Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.06707.pdf), [[Code]](https://github.com/YanjingLi0202/Q-ViT)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -1738,6 +1744,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Transformer-CNN Cohort: Semi-supervised Semantic Segmentation by the Best of Both Students, [[Paper]](https://arxiv.org/pdf/2209.02178.pdf)
 - (arXiv 2022.09) Transformer-based Flood Scene Segmentation for Developing Countries, [[Paper]](https://arxiv.org/pdf/2210.04218.pdf)
 - (arXiv 2022.10) SegViT: Semantic Segmentation with Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.05844.pdf)
+- (arXiv 2022.10) RTFormer: Efficient Design for Real-Time Semantic Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2210.07124.pdf), [[Code]](https://github.com/PaddlePaddle/PaddleSeg)
+- (arXiv 2022.10) Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2210.06780.pdf), [[Code]](https://github.com/LIUYUANWEI98/IPMT)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -1779,6 +1787,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2208.03012.pdf), [[Code]](https://github.com/researchmm/FTVSR)
 - (arXiv 2022.08) HST: Hierarchical Swin Transformer for Compressed Image Super-resolution,  [[Paper]](https://arxiv.org/pdf/2208.09885.pdf)
 - (arXiv 2022.09) Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration,  [[Paper]](https://arxiv.org/pdf/2209.11345.pdf)
+- (arXiv 2022.10) Scene Text Image Super-Resolution via Content Perceptual Loss and Criss-Cross Transformer Blocks,  [[Paper]](https://arxiv.org/pdf/2210.06924.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
