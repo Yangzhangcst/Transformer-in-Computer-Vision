@@ -754,6 +754,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Ensemble Learning using Transformers and Convolutional Networks for Masked Face Recognition, [[Paper]](https://arxiv.org/pdf/2210.04816.pdf),[[Code]](https://github.com/Hamzah-Luqman/MFR)
 - (arXiv 2022.10) GGViT:Multistream Vision Transformer Network in Face2Face Facial Reenactment Detection, [[Paper]](https://arxiv.org/pdf/2210.05990.pdf)
 - (arXiv 2022.10) Prepended Domain Transformer: Heterogeneous Face Recognition without Bells and Whistles, [[Paper]](https://arxiv.org/pdf/2210.06529.pdf)
+- (arXiv 2022.10) A Saccaded Visual Transformer for General Object Spotting, [[Paper]](https://arxiv.org/pdf/2210.09220.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -1151,8 +1152,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Memory transformers for full context and high-resolution 3D Medical Segmentation, [[Paper]](https://arxiv.org/pdf/2210.05313.pdf)
 - (arXiv 2022.10) ConvTransSeg: A Multi-resolution Convolution-Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2210.07072.pdf)
 - (arXiv 2022.10) Brain Network Transformer, [[Paper]](https://arxiv.org/pdf/2210.06681.pdf), [[Code]](https://github.com/Wayfear/BrainNetworkTransformer)
-- (arXiv 2022.10) Wide Range MRI Artifact Removal with Transformers, [[Code]](https://arxiv.org/pdf/2210.07976.pdf)
-
+- (arXiv 2022.10) Wide Range MRI Artifact Removal with Transformers, [[Paper]](https://arxiv.org/pdf/2210.07976.pdf)
+- (arXiv 2022.10) Optimizing Vision Transformers for Medical Image Segmentation and Few-Shot Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2210.08066.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1701,6 +1702,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Self-Supervised Vision Transformers for Malware Detection, [[Paper]](https://arxiv.org/pdf/2208.07049.pdf)
 - (arXiv 2022.09) Prior Knowledge-Guided Attention in Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.03745.pdf)
 - (arXiv 2022.10) Attention Distillation: self-supervised vision transformer students need more guidance, [[Paper]](https://arxiv.org/pdf/2210.00944.pdf), [[Code]](https://github.com/wangkai930418/attndistill)
+- (arXiv 2022.10) Histopathological Image Classification based on Self-Supervised Vision Transformer and Weak Labels, [[Paper]](https://arxiv.org/pdf/2210.09021.pdf), [[Code]](https://github.com/gokberkgul/selflearning-transformer-mil)
+- (arXiv 2022.10) Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.08458.pdf), [[Code]](https://github.com/Trent-tangtao/AutoView)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -1803,6 +1806,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) HST: Hierarchical Swin Transformer for Compressed Image Super-resolution,  [[Paper]](https://arxiv.org/pdf/2208.09885.pdf)
 - (arXiv 2022.09) Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration,  [[Paper]](https://arxiv.org/pdf/2209.11345.pdf)
 - (arXiv 2022.10) Scene Text Image Super-Resolution via Content Perceptual Loss and Criss-Cross Transformer Blocks,  [[Paper]](https://arxiv.org/pdf/2210.06924.pdf)
+- (arXiv 2022.10) Learning Texture Transformer Network for Light Field Super-Resolution,  [[Paper]](https://arxiv.org/ftp/arxiv/papers/2210/2210.09293.pdf)
+- (arXiv 2022.10) ITSRN++: Stronger and Better Implicit Transformer Network for Continuous Screen Content Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2210.08812.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -2015,6 +2020,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Temporally Consistent Video Transformer for Long-Term Video Prediction, [[Paper]](https://arxiv.org/pdf/2210.02396.pdf), [[Project]](https://wilson1yan.github.io/teco)
 - (arXiv 2022.10) Video Referring Expression Comprehension via Transformer with Content-aware Query, [[Paper]](https://arxiv.org/pdf/2210.02953.pdf), [[Project]](https://github.com/mengcaopku/ContFormer)
 - (arXiv 2022.10) Turbo Training with Token Dropout, [[Paper]](https://arxiv.org/pdf/2210.04889.pdf)
+- (arXiv 2022.10) Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows, [[Paper]](https://arxiv.org/pdf/2210.08737.pdf)
+- (arXiv 2022.10) TransVisDrone: Spatio-Temporal Transformer for Vision-based Drone-to-Drone Detection in Aerial Videos, [[Paper]](https://arxiv.org/pdf/2210.08423.pdf), [[Code]](https://github.com/tusharsangam/TransVisDrone)
+- (arXiv 2022.10) Linear Video Transformer with Feature Fixation, [[Paper]](https://arxiv.org/pdf/2210.08164.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -2221,7 +2229,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) LMQFormer: A Laplace-Prior-Guided Mask Query Transformer for Lightweight Snow Removal, [[Paper]](https://arxiv.org/pdf/2210.04787.pdf)
 - (arXiv 2022.10) Robustify Transformers with Robust Kernel Density Estimation, [[Paper]](https://arxiv.org/pdf/2210.05794.pdf)
 - (arXiv 2022.10) Pretrained Transformers Do not Always Improve Robustness, [[Paper]](https://arxiv.org/pdf/2210.07663.pdf)
-
+- (arXiv 2022.10) Machine-Learning Love: classifying the equation of state of neutron stars with Transformers, [[Paper]](https://arxiv.org/pdf/2210.08382.pdf)
 
 ## Contact & Feedback
 
