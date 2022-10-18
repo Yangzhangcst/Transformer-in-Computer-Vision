@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/17
+**Last updated: 2022/10/18
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -492,6 +492,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) How to Train Vision Transformer on Small-scale Datasets, [[Paper]](https://arxiv.org/pdf/2210.07240.pdf), [[Code]](https://github.com/hananshafi/vits-for-small-scale-datasets)
 - (arXiv 2022.10) Vision Transformer Visualization: What Neurons Tell and How Neurons Behave, [[Paper]](https://arxiv.org/pdf/2210.07646.pdf), [[Code]](https://github.com/bym1902/vit_visualization)
 - (arXiv 2022.10) When Adversarial Training Meets Vision Transformers: Recipes from Training to Architecture, [[Paper]](https://arxiv.org/pdf/2210.07540.pdf), [[Code]](https://github.com/mo666666/When-Adversarial-Training-Meets-Vision-Transformers)
+- (arXiv 2022.10) Vision Transformers provably learn spatial structure, [[Paper]](https://arxiv.org/pdf/2210.09221.pdf)
+- (arXiv 2022.10) Scratching Visual Transformer's Back with Uniform Attention, [[Paper]](https://arxiv.org/pdf/2210.08457.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1536,6 +1538,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) EAPruning: Evolutionary Pruning for Vision Transformers and CNNs, [[Paper]](https://arxiv.org/pdf/2210.00181.pdf)
 - (arXiv 2022.10) SaiT: Sparse Vision Transformers through Adaptive Token Pruning, [[Paper]](https://arxiv.org/pdf/2210.05832.pdf)
 - (arXiv 2022.10) Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.06707.pdf), [[Code]](https://github.com/YanjingLi0202/Q-ViT)
+- (arXiv 2022.10) oViT: An Accurate Second-Order Pruning Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.09223.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
