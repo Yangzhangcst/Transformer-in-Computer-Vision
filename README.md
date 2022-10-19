@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/18
+**Last updated: 2022/10/19
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -494,6 +494,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) When Adversarial Training Meets Vision Transformers: Recipes from Training to Architecture, [[Paper]](https://arxiv.org/pdf/2210.07540.pdf), [[Code]](https://github.com/mo666666/When-Adversarial-Training-Meets-Vision-Transformers)
 - (arXiv 2022.10) Vision Transformers provably learn spatial structure, [[Paper]](https://arxiv.org/pdf/2210.09221.pdf)
 - (arXiv 2022.10) Scratching Visual Transformer's Back with Uniform Attention, [[Paper]](https://arxiv.org/pdf/2210.08457.pdf)
+- (arXiv 2022.10) Token Merging: Your ViT But Faster, [[Paper]](https://arxiv.org/pdf/2210.09461.pdf), [[Code]](https://github.com/facebookresearch/ToMe)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1301,6 +1302,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Understanding Embodied Reference with Touch-Line Transformer, [[Paper]](https://arxiv.org/pdf/2210.05668.pdf)
 - (arXiv 2022.10) Foundation Transformers, [[Paper]](https://arxiv.org/pdf/2210.06423.pdf)
 - (arXiv 2022.10) PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning, [[Paper]](https://arxiv.org/pdf/2210.07886.pdf)
+- (arXiv 2022.10) Multimodal Image Fusion based on Hybrid CNN-Transformer and Non-local Cross-modal Attention, [[Paper]](https://arxiv.org/pdf/2210.09847.pdf), [[Code]](https://github.com/pandayuanyu/HCFusion)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1828,6 +1830,11 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers, [[Paper]](https://arxiv.org/pdf/2204.14217.pdf),[[Code]](https://github.com/THUDM/CogView2)
 - (arXiv 2022.05) CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2205.15868.pdf),[[Code]](https://github.com/THUDM/CogVideo)
 - (arXiv 2022.09) StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation, [[Paper]](https://arxiv.org/pdf/2209.06192.pdf),[[Code]](https://github.com/adymaharana/storydalle)
+- (arXiv 2022.10) Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2210.09549.pdf)
+
+### Texture
+- (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
+- (arXiv 2022.02) Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis, [[Paper]](https://arxiv.org/pdf/2202.11703.pdf)
 
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
@@ -1911,10 +1918,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation, [[Paper]](https://arxiv.org/pdf/2203.02557.pdf), [[Code]](https://github.com/LS4GAN/uvcga)
 - (arXiv 2022.03) InstaFormer: Instance-Aware Image-to-Image Translation with Transformer, [[Paper]](https://arxiv.org/pdf/2203.16248.pdf)
 - (arXiv 2022.03) ITTR: Unpaired Image-to-Image Translation with Transformers, [[Paper]](https://arxiv.org/pdf/2203.16015.pdf)
-
-### Texture
-- (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
-- (arXiv 2022.02) Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis, [[Paper]](https://arxiv.org/pdf/2202.11703.pdf)
 
 ### Unsupervised learning
 - (arXiv 2022.02) Handcrafted Histological Transformer (H2T): Unsupervised Representation of Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2202.07001.pdf)
@@ -2023,6 +2026,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows, [[Paper]](https://arxiv.org/pdf/2210.08737.pdf)
 - (arXiv 2022.10) TransVisDrone: Spatio-Temporal Transformer for Vision-based Drone-to-Drone Detection in Aerial Videos, [[Paper]](https://arxiv.org/pdf/2210.08423.pdf), [[Code]](https://github.com/tusharsangam/TransVisDrone)
 - (arXiv 2022.10) Linear Video Transformer with Feature Fixation, [[Paper]](https://arxiv.org/pdf/2210.08164.pdf)
+- (arXiv 2022.10) Transfer-learning for video classification: Video Swin Transformer on multiple domains, [[Paper]](https://arxiv.org/pdf/2210.09969.pdf)
+- (arXiv 2022.10) ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design, [[Paper]](https://arxiv.org/pdf/2210.09573.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
