@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/19
+**Last updated: 2022/10/20
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -788,6 +788,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
 - (arXiv 2022.06) Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition, [[Paper]](https://arxiv.org/pdf/2206.01441.pdf)
 - (arXiv 2022.06) GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation, [[Paper]](https://arxiv.org/pdf/2207.00106.pdf), [[Code]](https://github.com/markendo/GaitForeMer)
+- (arXiv 2022.10) Multi-view Gait Recognition based on Siamese Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.10421.pdf)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
@@ -890,6 +891,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) InstanceFormer: An Online Video Instance Segmentation Framework, [[Paper]](https://arxiv.org/pdf/2208.10547.pdf), [[Code]](https://github.com/rajatkoner08/InstanceFormer)
 - (arXiv 2022.09) RNGDet++: Road Network Graph Detection by Transformer with Instance Segmentation and Multi-scale Features Enhancement, [[Paper]](https://arxiv.org/pdf/2209.10150.pdf), [[Code]](https://tonyxuqaq.github.io/projects/RNGDetPlusPlus/)
 - (arXiv 2022.10) AISFormer: Amodal Instance Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2210.06323.pdf), [[Code]](https://github.com/UARK-AICV/AISFormer)
+- (arXiv 2022.10) TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation, [[Paper]](https://arxiv.org/pdf/2210.10775.pdf), [[Code]](https://github.com/AIR-DISCOVER/TOIST)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -1303,6 +1305,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Foundation Transformers, [[Paper]](https://arxiv.org/pdf/2210.06423.pdf)
 - (arXiv 2022.10) PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning, [[Paper]](https://arxiv.org/pdf/2210.07886.pdf)
 - (arXiv 2022.10) Multimodal Image Fusion based on Hybrid CNN-Transformer and Non-local Cross-modal Attention, [[Paper]](https://arxiv.org/pdf/2210.09847.pdf), [[Code]](https://github.com/pandayuanyu/HCFusion)
+- (arXiv 2022.10) Multi-Source Transformer Architectures for Audiovisual Scene Classification, [[Paper]](https://arxiv.org/pdf/2210.10212.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
