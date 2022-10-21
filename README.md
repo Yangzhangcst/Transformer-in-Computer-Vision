@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/20
+**Last updated: 2022/10/21
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -112,6 +112,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Multi-dataset Training of Transformers for Robust Action Recognition, [[Paper]](https://arxiv.org/pdf/2209.12362.pdf),[[Code]](https://github.com/JunweiLiang/MultiTrain)
 - (arXiv 2022.10) Focal and Global Spatial-Temporal Transformer for Skeleton-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2210.02693.pdf),[[Code]](https://github.com/JunweiLiang/MultiTrain)
 - (arXiv 2022.10) STAR-Transformer: A Spatio-temporal Cross Attention Transformer for Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2210.07503.pdf)
+- (arXiv 2022.10) Transformer-based Action recognition in hand-object interacting scenarios, [[Paper]](https://arxiv.org/pdf/2210.11387.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1157,6 +1158,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Brain Network Transformer, [[Paper]](https://arxiv.org/pdf/2210.06681.pdf), [[Code]](https://github.com/Wayfear/BrainNetworkTransformer)
 - (arXiv 2022.10) Wide Range MRI Artifact Removal with Transformers, [[Paper]](https://arxiv.org/pdf/2210.07976.pdf)
 - (arXiv 2022.10) Optimizing Vision Transformers for Medical Image Segmentation and Few-Shot Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2210.08066.pdf)
+- (arXiv 2022.10) SimpleClick: Interactive Image Segmentation with Simple Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.11006.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1526,6 +1528,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) PPT: token-Pruned Pose Transformer for monocular and multi-view human pose estimation, [[Paper]](https://arxiv.org/pdf/2209.08194.pdf), [[Code]](https://github.com/HowieMa/PPT)
 - (arXiv 2022.10) Exploiting the Joint Motion Synergy with Fusion Network Based On Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2210.04006.pdf)
 - (arXiv 2022.10) Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers, [[Paper]](https://arxiv.org/pdf/2210.06110.pdf), [[Code]](https://github.com/goldbricklemon/uplift-upsample-3dhpe)
+- (arXiv 2022.10) Transformer-based Global 3D Hand Pose Estimation in Two Hands Manipulating Objects Scenarios, [[Paper]](https://arxiv.org/pdf/2210.11384.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -1633,6 +1636,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval, [[Paper]](https://arxiv.org/pdf/2207.07852.pdf), [[Code]](https://github.com/yuqi657/ts2_net)
 - (arXiv 2022.08) EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing, [[Paper]](https://arxiv.org/pdf/2208.14657.pdf), [[Code]](https://github.com/onlinehuazai/EViT)
 - (arXiv 2022.10) ConTra: (Con)text (Tra)nsformer for Cross-Modal Video Retrieval, [[Paper]](https://arxiv.org/pdf/2210.04341.pdf)
+- (arXiv 2022.10) General Image Descriptors for Open World Image Retrieval using ViT CLIP, [[Paper]](https://arxiv.org/pdf/2210.11141.pdf)
 
 ### Robotic
 - (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
@@ -1709,6 +1713,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Attention Distillation: self-supervised vision transformer students need more guidance, [[Paper]](https://arxiv.org/pdf/2210.00944.pdf), [[Code]](https://github.com/wangkai930418/attndistill)
 - (arXiv 2022.10) Histopathological Image Classification based on Self-Supervised Vision Transformer and Weak Labels, [[Paper]](https://arxiv.org/pdf/2210.09021.pdf), [[Code]](https://github.com/gokberkgul/selflearning-transformer-mil)
 - (arXiv 2022.10) Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.08458.pdf), [[Code]](https://github.com/Trent-tangtao/AutoView)
+- (arXiv 2022.10) SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading, [[Paper]](https://arxiv.org/pdf/2210.10969.pdf), [[Code]](https://github.com/YijinHuang/SSiT)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -1813,6 +1818,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Scene Text Image Super-Resolution via Content Perceptual Loss and Criss-Cross Transformer Blocks,  [[Paper]](https://arxiv.org/pdf/2210.06924.pdf)
 - (arXiv 2022.10) Learning Texture Transformer Network for Light Field Super-Resolution,  [[Paper]](https://arxiv.org/ftp/arxiv/papers/2210/2210.09293.pdf)
 - (arXiv 2022.10) ITSRN++: Stronger and Better Implicit Transformer Network for Continuous Screen Content Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2210.08812.pdf)
+- (arXiv 2022.10) Single Image Super-Resolution Using Lightweight Networks Based on Swin Transformer,  [[Paper]](https://arxiv.org/pdf/2210.11019.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
