@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/21
+**Last updated: 2022/10/24
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -567,6 +567,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion, [[Paper]](https://arxiv.org/pdf/2207.04535.pdf), [[Code]](https://github.com/ashutosh1807/Depthformer.git)
 - (arXiv 2022.08) MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2208.03543.pdf), [[Code]](https://github.com/zxcqlf/MonoViT)
 - (arXiv 2022.09) TODE-Trans: Transparent Object Depth Estimation with Transformer, [[Paper]](https://arxiv.org/pdf/2209.08455.pdf), [[Code]](https://github.com/yuchendoudou/TODE)
+- (arXiv 2022.10) Context-Enhanced Stereo Transformer, [[Paper]](https://arxiv.org/pdf/2210.11719.pdf), [[Code]](https://github.com/guoweiyu/Context-Enhanced-Stereo-Transformer)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -757,6 +758,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) GGViT:Multistream Vision Transformer Network in Face2Face Facial Reenactment Detection, [[Paper]](https://arxiv.org/pdf/2210.05990.pdf)
 - (arXiv 2022.10) Prepended Domain Transformer: Heterogeneous Face Recognition without Bells and Whistles, [[Paper]](https://arxiv.org/pdf/2210.06529.pdf)
 - (arXiv 2022.10) A Saccaded Visual Transformer for General Object Spotting, [[Paper]](https://arxiv.org/pdf/2210.09220.pdf)
+- (arXiv 2022.10) Face Pyramid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.11974.pdf), [[Project]](https://khawar-islam.github.io/fpvt/)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -1159,6 +1161,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Wide Range MRI Artifact Removal with Transformers, [[Paper]](https://arxiv.org/pdf/2210.07976.pdf)
 - (arXiv 2022.10) Optimizing Vision Transformers for Medical Image Segmentation and Few-Shot Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2210.08066.pdf)
 - (arXiv 2022.10) SimpleClick: Interactive Image Segmentation with Simple Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.11006.pdf)
+- (arXiv 2022.10) Adversarial Transformer for Repairing Human Airway Segmentation, [[Paper]](https://arxiv.org/pdf/2210.12029.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1308,6 +1311,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) PedFormer: Pedestrian Behavior Prediction via Cross-Modal Attention Modulation and Gated Multitask Learning, [[Paper]](https://arxiv.org/pdf/2210.07886.pdf)
 - (arXiv 2022.10) Multimodal Image Fusion based on Hybrid CNN-Transformer and Non-local Cross-modal Attention, [[Paper]](https://arxiv.org/pdf/2210.09847.pdf), [[Code]](https://github.com/pandayuanyu/HCFusion)
 - (arXiv 2022.10) Multi-Source Transformer Architectures for Audiovisual Scene Classification, [[Paper]](https://arxiv.org/pdf/2210.10212.pdf)
+- (arXiv 2022.10) Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies, [[Paper]](https://arxiv.org/pdf/2210.12079.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1529,6 +1533,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Exploiting the Joint Motion Synergy with Fusion Network Based On Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2210.04006.pdf)
 - (arXiv 2022.10) Uplift and Upsample: Efficient 3D Human Pose Estimation with Uplifting Transformers, [[Paper]](https://arxiv.org/pdf/2210.06110.pdf), [[Code]](https://github.com/goldbricklemon/uplift-upsample-3dhpe)
 - (arXiv 2022.10) Transformer-based Global 3D Hand Pose Estimation in Two Hands Manipulating Objects Scenarios, [[Paper]](https://arxiv.org/pdf/2210.11384.pdf)
+- (arXiv 2022.10) CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers, [[Paper]](https://arxiv.org/pdf/2210.11718.pdf), [[Code]](https://github.com/PedroCastro/CRT-6D)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -1637,6 +1642,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) EViT: Privacy-Preserving Image Retrieval via Encrypted Vision Transformer in Cloud Computing, [[Paper]](https://arxiv.org/pdf/2208.14657.pdf), [[Code]](https://github.com/onlinehuazai/EViT)
 - (arXiv 2022.10) ConTra: (Con)text (Tra)nsformer for Cross-Modal Video Retrieval, [[Paper]](https://arxiv.org/pdf/2210.04341.pdf)
 - (arXiv 2022.10) General Image Descriptors for Open World Image Retrieval using ViT CLIP, [[Paper]](https://arxiv.org/pdf/2210.11141.pdf)
+- (arXiv 2022.10) Boosting vision transformers for image retrieval, [[Paper]](https://arxiv.org/pdf/2210.11909.pdf), [[Code]](https://github.com/dealicious-inc/DToP)
 
 ### Robotic
 - (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
