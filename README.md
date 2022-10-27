@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/26
+**Last updated: 2022/10/27
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -502,6 +502,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Accumulated Trivial Attention Matters in Vision Transformers on Small Datasets, [[Paper]](https://arxiv.org/pdf/2210.12333.pdf), [[Code]](https://github.com/xiangyu8/SATA)
 - (arXiv 2022.10) MetaFormer Baselines for Vision, [[Paper]](https://arxiv.org/pdf/2210.13452.pdf)
 - (arXiv 2022.10) Learning Explicit Object-Centric Representations with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.14139.pdf)
+- (arXiv 2022.10) Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets, [[Paper]](https://arxiv.org/pdf/2210.14319.pdf), [[Code]](https://github.com/xiangyu8/DenseVT)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -883,6 +884,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Reduce Information Loss in Transformers for Pluralistic Image Inpainting, [[Paper]](https://arxiv.org/pdf/2205.05076.pdf)
 - (arXiv 2022.08) Flow-Guided Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2208.06768.pdf), [[Code]](https://github.com/hitachinsk/FGT)
 - (arXiv 2022.09) DeViT: Deformed Vision Transformers in Video Inpainting, [[Paper]](https://arxiv.org/pdf/2209.13925.pdf)
+- (arXiv 2022.10) TPFNet: A Novel Text In-painting Transformer for Text Removal, [[Paper]](https://arxiv.org/pdf/2210.14461.pdf), [[Code]](https://github.com/CandleLabAI/TPFNet)
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
@@ -1171,6 +1173,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) SimpleClick: Interactive Image Segmentation with Simple Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.11006.pdf)
 - (arXiv 2022.10) Adversarial Transformer for Repairing Human Airway Segmentation, [[Paper]](https://arxiv.org/pdf/2210.12029.pdf)
 - (arXiv 2022.10) Clinically-Inspired Multi-Agent Transformers for Disease Trajectory Forecasting from Multimodal Data, [[Paper]](https://arxiv.org/pdf/2210.13889.pdf), [[Code]](https://github.com/Oulu-IMEDS/CLIMATv2)
+- (arXiv 2022.10) Automatic Diagnosis of Myocarditis Disease in Cardiac MRI Modality using Deep Transformers and Explainable Artificial Intelligence, [[Paper]](https://arxiv.org/pdf/2210.14611.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1321,6 +1324,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Multimodal Image Fusion based on Hybrid CNN-Transformer and Non-local Cross-modal Attention, [[Paper]](https://arxiv.org/pdf/2210.09847.pdf), [[Code]](https://github.com/pandayuanyu/HCFusion)
 - (arXiv 2022.10) Multi-Source Transformer Architectures for Audiovisual Scene Classification, [[Paper]](https://arxiv.org/pdf/2210.10212.pdf)
 - (arXiv 2022.10) Do Vision-and-Language Transformers Learn Grounded Predicate-Noun Dependencies, [[Paper]](https://arxiv.org/pdf/2210.12079.pdf)
+- (arXiv 2022.10) M3ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design, [[Paper]](https://arxiv.org/pdf/2210.14793.pdf), [[Code]](https://github.com/VITA-Group/M3ViT)
+- (arXiv 2022.10) TAMFormer: Multi-Modal Transformer with Learned Attention Mask for Early Intent Prediction, [[Paper]](https://arxiv.org/pdf/2210.14714.pdf), [[Code]](https://github.com/VITA-Group/M3ViT)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1792,6 +1797,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) SegViT: Semantic Segmentation with Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.05844.pdf)
 - (arXiv 2022.10) RTFormer: Efficient Design for Real-Time Semantic Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2210.07124.pdf), [[Code]](https://github.com/PaddlePaddle/PaddleSeg)
 - (arXiv 2022.10) Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2210.06780.pdf), [[Code]](https://github.com/LIUYUANWEI98/IPMT)
+- (arXiv 2022.10) SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2210.14618.pdf), [[Code]](https://github.com/JLChen-C/SemFormer)
+- (arXiv 2022.10) RGB-T Semantic Segmentation with Location, Activation, and Sharpening, [[Paper]](https://arxiv.org/pdf//2210.14530.pdf), [[Code]](https://github.com/MathLee/LASNet)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -1905,6 +1912,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Learning Spatial-Frequency Transformer for Visual Object Tracking, [[Paper]](https://arxiv.org/pdf/2208.08829.pdf), [[Code]](https://github.com/Tchuanm/SFTransT.git)
 - (arXiv 2022.09) Real-time 3D Single Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2209.00860.pdf), [[Code]](https://github.com/shanjiayao/PTT)
 - (arXiv 2022.10) Strong-TransCenter: Improved Multi-Object Tracking based on Transformers with Dense Representations, [[Paper]](https://arxiv.org/pdf/2210.13570.pdf), [[Code]](https://github.com/amitgalor18/STC_Tracker)
+- (arXiv 2022.10) End-to-end Tracking with a Multi-query Transformer, [[Paper]](https://arxiv.org/pdf/2210.14601.pdf)
+- (arXiv 2022.10) Can Transformer Attention Spread Give Insights Into Uncertainty of Detected and Tracked Objects, [[Paper]](https://arxiv.org/pdf/2210.14391.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
