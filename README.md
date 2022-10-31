@@ -504,6 +504,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) MetaFormer Baselines for Vision, [[Paper]](https://arxiv.org/pdf/2210.13452.pdf)
 - (arXiv 2022.10) Learning Explicit Object-Centric Representations with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.14139.pdf)
 - (arXiv 2022.10) Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets, [[Paper]](https://arxiv.org/pdf/2210.14319.pdf), [[Code]](https://github.com/xiangyu8/DenseVT)
+- (arXiv 2022.10) Grafting Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.15943.pdf)
+- (arXiv 2022.10) Differentially Private CutMix for Split Learning with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.15986.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -592,6 +594,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
 - (arXiv 2022.04) Vision Transformers for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2204.03883.pdf)
+- (arXiv 2022.10) Semi-UFormer: Semi-supervised Uncertainty-aware Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2210.16057.pdf)
 
 ### Denoising
 - (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
@@ -1334,6 +1337,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Multimodal Transformer Distillation for Audio-Visual Synchronization, [[Paper]](https://arxiv.org/pdf/2210.15563.pdf)
 - (arXiv 2022.10) Masked Vision-Language Transformer in Fashion, [[Paper]](https://arxiv.org/pdf/2210.15110.pdf), [[Code]](https://github.com/GewelsJI/MVLT)
 - (arXiv 2022.10) Multimodal Transformer for Parallel Concatenated Variational Autoencoders, [[Paper]](https://arxiv.org/pdf/2210.16174.pdf)
+- (arXiv 2022.10) VLT: Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2210.15871.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
