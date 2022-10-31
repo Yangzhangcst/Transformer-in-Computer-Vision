@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/28
+**Last updated: 2022/10/31
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -1178,6 +1178,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Clinically-Inspired Multi-Agent Transformers for Disease Trajectory Forecasting from Multimodal Data, [[Paper]](https://arxiv.org/pdf/2210.13889.pdf), [[Code]](https://github.com/Oulu-IMEDS/CLIMATv2)
 - (arXiv 2022.10) Automatic Diagnosis of Myocarditis Disease in Cardiac MRI Modality using Deep Transformers and Explainable Artificial Intelligence, [[Paper]](https://arxiv.org/pdf/2210.14611.pdf)
 - (arXiv 2022.10) Spatio-Temporal Hybrid Fusion of CAE and SWIn Transformers for Lung Cancer Malignancy Prediction, [[Paper]](https://arxiv.org/pdf/2210.15297.pdf)
+- (arXiv 2022.10) Hyper-Connected Transformer Network for Co-Learning Multi-Modality PET-CT Features, [[Paper]](https://arxiv.org/pdf/2210.15808.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1332,6 +1333,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) TAMFormer: Multi-Modal Transformer with Learned Attention Mask for Early Intent Prediction, [[Paper]](https://arxiv.org/pdf/2210.14714.pdf), [[Code]](https://github.com/VITA-Group/M3ViT)
 - (arXiv 2022.10) Multimodal Transformer Distillation for Audio-Visual Synchronization, [[Paper]](https://arxiv.org/pdf/2210.15563.pdf)
 - (arXiv 2022.10) Masked Vision-Language Transformer in Fashion, [[Paper]](https://arxiv.org/pdf/2210.15110.pdf), [[Code]](https://github.com/GewelsJI/MVLT)
+- (arXiv 2022.10) Multimodal Transformer for Parallel Concatenated Variational Autoencoders, [[Paper]](https://arxiv.org/pdf/2210.16174.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1505,6 +1507,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Point Transformer V2: Grouped Vector Attention and Partition-based Pooling, [[Paper]](https://arxiv.org/pdf/2210.05666.pdf), [[Code]](https://github.com/Gofinge/PointTransformerV2)
 - (arXiv 2022.10) SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds, [[Paper]](https://arxiv.org/pdf/2210.07372.pdf)
 - (arXiv 2022.10) LCPFormer: Towards Effective 3D Point Cloud Analysis via Local Context Propagation in Transformers, [[Paper]](https://arxiv.org/pdf/2210.12755.pdf)
+- (arXiv 2022.10) PSFormer: Point Transformer for 3D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2210.15933.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1743,6 +1746,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Histopathological Image Classification based on Self-Supervised Vision Transformer and Weak Labels, [[Paper]](https://arxiv.org/pdf/2210.09021.pdf), [[Code]](https://github.com/gokberkgul/selflearning-transformer-mil)
 - (arXiv 2022.10) Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.08458.pdf), [[Code]](https://github.com/Trent-tangtao/AutoView)
 - (arXiv 2022.10) SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading, [[Paper]](https://arxiv.org/pdf/2210.10969.pdf), [[Code]](https://github.com/YijinHuang/SSiT)
+- (arXiv 2022.10) PatchRot: A Self-Supervised Technique for Training Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.15722.pdf), [[Code]](https://github.com/s-chh/patchrot)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -2076,6 +2080,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Transfer-learning for video classification: Video Swin Transformer on multiple domains, [[Paper]](https://arxiv.org/pdf/2210.09969.pdf)
 - (arXiv 2022.10) ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design, [[Paper]](https://arxiv.org/pdf/2210.09573.pdf)
 - (arXiv 2022.10) Foreground Guidance and Multi-Layer Feature Fusion for Unsupervised Object Discovery with Transformers, [[Paper]](https://arxiv.org/pdf/2210.13053.pdf), [[Code]](https://github.com/VDIGPKU/FORMULA)
+- (arXiv 2022.10) Fully-attentive and interpretable: vision and video vision transformers for pain detection, [[Paper]](https://arxiv.org/pdf/2210.15769.pdf), [[Code]](https://github.com/IPDTFE/ViT-McMaster)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
