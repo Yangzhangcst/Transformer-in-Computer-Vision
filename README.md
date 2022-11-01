@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/10/31
+**Last updated: 2022/11/01
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -506,6 +506,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets, [[Paper]](https://arxiv.org/pdf/2210.14319.pdf), [[Code]](https://github.com/xiangyu8/DenseVT)
 - (arXiv 2022.10) Grafting Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.15943.pdf)
 - (arXiv 2022.10) Differentially Private CutMix for Split Learning with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.15986.pdf)
+- (arXiv 2022.10) ViT-LSLA: Vision Transformer with Light Self-Limited-Attention, [[Paper]](https://arxiv.org/pdf/2210.17115.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -705,6 +706,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) MCTNet: A Multi-Scale CNN-Transformer Network for Change Detection in Optical Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2210.07601.pdf)
 - (arXiv 2022.10) MSF3DDETR: Multi-Sensor Fusion 3D Detection Transformer for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2210.15316.pdf)
 - (arXiv 2022.10) Li3DeTr: A LiDAR based 3D Detection Transformer, [[Paper]](https://arxiv.org/pdf/2210.15365.pdf)
+- (arXiv 2022.10) Pair DETR: Contrastive Learning Speeds Up DETR Training, [[Paper]](https://arxiv.org/pdf/2210.16476.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1182,6 +1184,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Automatic Diagnosis of Myocarditis Disease in Cardiac MRI Modality using Deep Transformers and Explainable Artificial Intelligence, [[Paper]](https://arxiv.org/pdf/2210.14611.pdf)
 - (arXiv 2022.10) Spatio-Temporal Hybrid Fusion of CAE and SWIn Transformers for Lung Cancer Malignancy Prediction, [[Paper]](https://arxiv.org/pdf/2210.15297.pdf)
 - (arXiv 2022.10) Hyper-Connected Transformer Network for Co-Learning Multi-Modality PET-CT Features, [[Paper]](https://arxiv.org/pdf/2210.15808.pdf)
+- (arXiv 2022.10) ImplantFormer: Vision Transformer based Implant Position Regression Using Dental CBCT Data, [[Paper]](https://arxiv.org/pdf/2210.16467.pdf)
+- (arXiv 2022.10) Attention Swin U-Net: Cross-Contextual Attention Mechanism for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2210.16898.pdf), [[Code]](https://github.com/nitr098/attswinunet)
+- (arXiv 2022.10) TFormer: 3D Tooth Segmentation in Mesh Scans with Geometry Guided Transformer, [[Paper]](https://arxiv.org/pdf/2210.16627.pdf), [[Code]](https://github.com/nitr098/attswinunet)
+- (arXiv 2022.10) ViTASD: Robust Vision Transformer Baselines for Autism Spectrum Disorder Facial Diagnosis, [[Paper]](https://arxiv.org/pdf/2210.16943.pdf), [[Code]](https://github.com/irohxu/vitasd)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1751,6 +1757,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.08458.pdf), [[Code]](https://github.com/Trent-tangtao/AutoView)
 - (arXiv 2022.10) SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading, [[Paper]](https://arxiv.org/pdf/2210.10969.pdf), [[Code]](https://github.com/YijinHuang/SSiT)
 - (arXiv 2022.10) PatchRot: A Self-Supervised Technique for Training Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.15722.pdf), [[Code]](https://github.com/s-chh/patchrot)
+- (arXiv 2022.10) Foreign Object Debris Detection for Airport Pavement Images based on Self-supervised Localization and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.16901.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -1813,6 +1820,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2210.06780.pdf), [[Code]](https://github.com/LIUYUANWEI98/IPMT)
 - (arXiv 2022.10) SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2210.14618.pdf), [[Code]](https://github.com/JLChen-C/SemFormer)
 - (arXiv 2022.10) RGB-T Semantic Segmentation with Location, Activation, and Sharpening, [[Paper]](https://arxiv.org/pdf//2210.14530.pdf), [[Code]](https://github.com/MathLee/LASNet)
+- (arXiv 2022.10) Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation, [[Paper]](https://arxiv.org/pdf/2210.17400.pdf), [[Code]](https://github.com/deepplants/vit-pcm)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
