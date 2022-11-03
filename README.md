@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/02
+**Last updated: 2022/11/03
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -797,6 +797,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) BaseTransformers: Attention over base data-points for One Shot Learning, [[Paper]](https://arxiv.org/pdf/2210.02476.pdf), [[Code]](https://github.com/mayug/BaseTransformers)
 - (arXiv 2022.10) FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training, [[Paper]](https://arxiv.org/pdf/2210.04845.pdf)
 - (arXiv 2022.10) Feature-Proxy Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2210.06908.pdf)
+- (arXiv 2022.11) tSF: Transformer-based Semantic Filter for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2211.00868.pdf)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -1188,6 +1189,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Attention Swin U-Net: Cross-Contextual Attention Mechanism for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2210.16898.pdf), [[Code]](https://github.com/nitr098/attswinunet)
 - (arXiv 2022.10) TFormer: 3D Tooth Segmentation in Mesh Scans with Geometry Guided Transformer, [[Paper]](https://arxiv.org/pdf/2210.16627.pdf), [[Code]](https://github.com/nitr098/attswinunet)
 - (arXiv 2022.10) ViTASD: Robust Vision Transformer Baselines for Autism Spectrum Disorder Facial Diagnosis, [[Paper]](https://arxiv.org/pdf/2210.16943.pdf), [[Code]](https://github.com/irohxu/vitasd)
+- (arXiv 2022.10) ViT-DeiT: An Ensemble Model for Breast Cancer Histopathological Images Classification, [[Paper]](https://arxiv.org/pdf/2211.00749.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2302,6 +2304,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Machine-Learning Love: classifying the equation of state of neutron stars with Transformers, [[Paper]](https://arxiv.org/pdf/2210.08382.pdf)
 - (arXiv 2022.10) High-Fidelity Visual Structural Inspections through Transformers and Learnable Resizers, [[Paper]](https://arxiv.org/pdf/2210.12175.pdf)
 - (arXiv 2022.10) Minutiae-Guided Fingerprint Embeddings via Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.13994.pdf)
+- (arXiv 2022.11) WITT: A Wireless Image Transmission Transformer for Semantic Communications, [[Paper]](https://arxiv.org/pdf/2211.00937.pdf), [[Code]](https://github.com/KeYang8/WITT)
 
 ## Contact & Feedback
 
