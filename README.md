@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/03
+**Last updated: 2022/11/04
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -507,6 +507,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Grafting Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.15943.pdf)
 - (arXiv 2022.10) Differentially Private CutMix for Split Learning with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.15986.pdf)
 - (arXiv 2022.10) ViT-LSLA: Vision Transformer with Light Self-Limited-Attention, [[Paper]](https://arxiv.org/pdf/2210.17115.pdf)
+- (arXiv 2022.11) Rethinking Hierarchicies in Pre-trained Plain Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.01785.pdf), [[Code]](https://github.com/ViTAE-Transformer/HPViT)
+- (arXiv 2022.11) The Lottery Ticket Hypothesis for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.01484.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -707,6 +709,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) MSF3DDETR: Multi-Sensor Fusion 3D Detection Transformer for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2210.15316.pdf)
 - (arXiv 2022.10) Li3DeTr: A LiDAR based 3D Detection Transformer, [[Paper]](https://arxiv.org/pdf/2210.15365.pdf)
 - (arXiv 2022.10) Pair DETR: Contrastive Learning Speeds Up DETR Training, [[Paper]](https://arxiv.org/pdf/2210.16476.pdf)
+- (arXiv 2022.11) SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency, [[Paper]](https://arxiv.org/pdf/2211.02006.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2305,6 +2308,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) High-Fidelity Visual Structural Inspections through Transformers and Learnable Resizers, [[Paper]](https://arxiv.org/pdf/2210.12175.pdf)
 - (arXiv 2022.10) Minutiae-Guided Fingerprint Embeddings via Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.13994.pdf)
 - (arXiv 2022.11) WITT: A Wireless Image Transmission Transformer for Semantic Communications, [[Paper]](https://arxiv.org/pdf/2211.00937.pdf), [[Code]](https://github.com/KeYang8/WITT)
+- (arXiv 2022.11) PolyBuilding: Polygon Transformer for End-to-End Building Extraction, [[Paper]](https://arxiv.org/pdf/2211.01589.pdf)
 
 ## Contact & Feedback
 
