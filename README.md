@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/04
+**Last updated: 2022/11/07
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -1349,6 +1349,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Masked Vision-Language Transformer in Fashion, [[Paper]](https://arxiv.org/pdf/2210.15110.pdf), [[Code]](https://github.com/GewelsJI/MVLT)
 - (arXiv 2022.10) Multimodal Transformer for Parallel Concatenated Variational Autoencoders, [[Paper]](https://arxiv.org/pdf/2210.16174.pdf)
 - (arXiv 2022.10) VLT: Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2210.15871.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
+- (arXiv 2022.10) RCDPT: Radar-Camera fusion Dense Prediction Transformer, [[Paper]](https://arxiv.org/pdf/2211.02432.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1425,6 +1426,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) An End-to-End OCR Framework for Robust Arabic-Handwriting Recognition using a Novel Transformers-based Model and an Innovative 270 Million-Words Multi-Font Corpus of Classical Arabic with Diacritics, [[Paper]](https://arxiv.org/pdf/2208.11484.pdf)
 - (arXiv 2022.08) TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers, [[Paper]](https://arxiv.org/pdf/2208.14687.pdf)
 - (arXiv 2022.09) ERNIE-mmLayout: Multi-grained MultiModal Transformer for Document Understanding, [[Paper]](https://arxiv.org/pdf/2210.07546.pdf)
+- (arXiv 2022.11) A Transformer Architecture for Online Gesture Recognition of Mathematical Expressions, [[Paper]](https://arxiv.org/pdf/2211.02643.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
@@ -2309,6 +2311,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Minutiae-Guided Fingerprint Embeddings via Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.13994.pdf)
 - (arXiv 2022.11) WITT: A Wireless Image Transmission Transformer for Semantic Communications, [[Paper]](https://arxiv.org/pdf/2211.00937.pdf), [[Code]](https://github.com/KeYang8/WITT)
 - (arXiv 2022.11) PolyBuilding: Polygon Transformer for End-to-End Building Extraction, [[Paper]](https://arxiv.org/pdf/2211.01589.pdf)
+- (arXiv 2022.11) HYDRA-HGR: A Hybrid Transformer-based Architecture for Fusion of Macroscopic and Microscopic Neural Drive Information, [[Paper]](https://arxiv.org/pdf/2211.02619.pdf)
 
 ## Contact & Feedback
 
