@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/07
+**Last updated: 2022/11/08
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -509,6 +509,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) ViT-LSLA: Vision Transformer with Light Self-Limited-Attention, [[Paper]](https://arxiv.org/pdf/2210.17115.pdf)
 - (arXiv 2022.11) Rethinking Hierarchicies in Pre-trained Plain Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.01785.pdf), [[Code]](https://github.com/ViTAE-Transformer/HPViT)
 - (arXiv 2022.11) The Lottery Ticket Hypothesis for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.01484.pdf)
+- (arXiv 2022.11) ViT-CX: Causal Explanation of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.03064.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -710,6 +711,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Li3DeTr: A LiDAR based 3D Detection Transformer, [[Paper]](https://arxiv.org/pdf/2210.15365.pdf)
 - (arXiv 2022.10) Pair DETR: Contrastive Learning Speeds Up DETR Training, [[Paper]](https://arxiv.org/pdf/2210.16476.pdf)
 - (arXiv 2022.11) SAP-DETR: Bridging the Gap Between Salient Points and Queries-Based Transformer Detector for Fast Model Convergency, [[Paper]](https://arxiv.org/pdf/2211.02006.pdf)
+- (arXiv 2022.11) Group DETR v2: Strong Object Detector with Encoder-Decoder Pretraining, [[Paper]](https://arxiv.org/pdf/2211.03594.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
