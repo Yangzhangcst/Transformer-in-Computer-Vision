@@ -1659,6 +1659,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) PSTR: End-to-End One-Step Person Search With Transformers, [[Paper]](https://arxiv.org/pdf/2204.03340.pdf), [[Code]](https://github.com/JialeCao001/PSTR)
 - (arXiv 2022.04) NFormer: Robust Person Re-identification with Neighbor Transformer, [[Paper]](https://arxiv.org/pdf/2204.09331.pdf), [[Code]](https://github.com/haochenheheda/NFormer)
 - (arXiv 2022.09) Uncertainty Aware Multitask Pyramid Vision Transformer For UAV-Based Object Re-Identification, [[Paper]](https://arxiv.org/pdf/2209.08686.pdf)
+- (arXiv 2022.11) Sequential Transformer for End-to-End Person Search, [[Paper]](https://arxiv.org/pdf/2211.04323.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
