@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/08
+**Last updated: 2022/11/09
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -1830,6 +1830,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) SemFormer: Semantic Guided Activation Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2210.14618.pdf), [[Code]](https://github.com/JLChen-C/SemFormer)
 - (arXiv 2022.10) RGB-T Semantic Segmentation with Location, Activation, and Sharpening, [[Paper]](https://arxiv.org/pdf//2210.14530.pdf), [[Code]](https://github.com/MathLee/LASNet)
 - (arXiv 2022.10) Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation, [[Paper]](https://arxiv.org/pdf/2210.17400.pdf), [[Code]](https://github.com/deepplants/vit-pcm)
+- (arXiv 2022.10) DepthFormer: Multimodal Positional Encodings and Cross-Input Attention for Transformer-Based Segmentation Networks, [[Paper]](https://arxiv.org/pdf/2211.04188.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
