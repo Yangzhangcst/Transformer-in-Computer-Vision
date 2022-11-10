@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/09
+**Last updated: 2022/11/10
 
 ## Survey: 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -510,6 +510,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Rethinking Hierarchicies in Pre-trained Plain Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.01785.pdf), [[Code]](https://github.com/ViTAE-Transformer/HPViT)
 - (arXiv 2022.11) The Lottery Ticket Hypothesis for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.01484.pdf)
 - (arXiv 2022.11) ViT-CX: Causal Explanation of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.03064.pdf)
+- (arXiv 2022.11) ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention, [[Paper]](https://arxiv.org/pdf/2211.05109.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1194,7 +1195,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Attention Swin U-Net: Cross-Contextual Attention Mechanism for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2210.16898.pdf), [[Code]](https://github.com/nitr098/attswinunet)
 - (arXiv 2022.10) TFormer: 3D Tooth Segmentation in Mesh Scans with Geometry Guided Transformer, [[Paper]](https://arxiv.org/pdf/2210.16627.pdf), [[Code]](https://github.com/nitr098/attswinunet)
 - (arXiv 2022.10) ViTASD: Robust Vision Transformer Baselines for Autism Spectrum Disorder Facial Diagnosis, [[Paper]](https://arxiv.org/pdf/2210.16943.pdf), [[Code]](https://github.com/irohxu/vitasd)
-- (arXiv 2022.10) ViT-DeiT: An Ensemble Model for Breast Cancer Histopathological Images Classification, [[Paper]](https://arxiv.org/pdf/2211.00749.pdf)
+- (arXiv 2022.11) ViT-DeiT: An Ensemble Model for Breast Cancer Histopathological Images Classification, [[Paper]](https://arxiv.org/pdf/2211.00749.pdf)
+- (arXiv 2022.11) RadFormer: Transformers with Global-Local Attention for Interpretable and Accurate Gallbladder Cancer Detection, [[Paper]](https://arxiv.org/pdf/2211.04793.pdf), [[Code]](https://github.com/sbasu276/RadFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1429,6 +1431,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) TRUST: An Accurate and End-to-End Table structure Recognizer Using Splitting-based Transformers, [[Paper]](https://arxiv.org/pdf/2208.14687.pdf)
 - (arXiv 2022.09) ERNIE-mmLayout: Multi-grained MultiModal Transformer for Document Understanding, [[Paper]](https://arxiv.org/pdf/2210.07546.pdf)
 - (arXiv 2022.11) A Transformer Architecture for Online Gesture Recognition of Mathematical Expressions, [[Paper]](https://arxiv.org/pdf/2211.02643.pdf)
+- (arXiv 2022.11) Masked Vision-Language Transformers for Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2211.04785.pdf), [[Code]](https://github.com/onealwj/MVLT)
+- (arXiv 2022.11) Pure Transformer with Integrated Experts for Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2211.04963.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
@@ -1731,6 +1735,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Relationformer: A Unified Framework for Image-to-Graph Generation, [[Paper]](https://arxiv.org/pdf/2203.10202.pdf)
 - (arXiv 2022.05) ASSET: Autoregressive Semantic Scene Editing with Transformers at High Resolutions, [[Paper]](https://arxiv.org/pdf/2205.12231.pdf), [[Code]](https://github.com/DifanLiu/ASSET)
 - (arXiv 2022.06) Object Scene Representation Transformer, [[Paper]](https://arxiv.org/pdf/2206.06922.pdf), [[Project]](https://osrt-paper.github.io/)
+- (arXiv 2022.11) SG-Shuffle: Multi-aspect Shuffle Transformer for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2211.04773.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
