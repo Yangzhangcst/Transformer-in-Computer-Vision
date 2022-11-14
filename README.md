@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/11
+**Last updated: 2022/11/14
 
 ## Survey: 
+- (arXiv 2022.11) A Comprehensive Survey of Transformers for Computer Vision. [[Paper]](https://arxiv.org/pdf/2211.06004.pdf)
+
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
 
 - (arXiv 2022.09) Vision Transformers for Action Recognition: A Survey. [[Paper]](https://arxiv.org/pdf/2209.05700.pdf)
@@ -514,6 +516,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention, [[Paper]](https://arxiv.org/pdf/2211.05109.pdf)
 - (arXiv 2022.11) Training a Vision Transformer from scratch in less than 24 hours with 1 GPU, [[Paper]](https://arxiv.org/pdf/2211.05187.pdf), [[Code]](https://github.com/BorealisAI/efficient-vit-training)
 - (arXiv 2022.11) Demystify Transformers & Convolutions in Modern Image Deep Networks, [[Paper]](https://arxiv.org/pdf/2211.05781.pdf), [[Code]](https://github.com/OpenGVLab/STM-Evaluation)
+- (arXiv 2022.12) Token Transformer: Can class token help window-based transformer build better long-range interactions, [[Paper]](https://arxiv.org/pdf/2211.06083.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1358,6 +1361,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) VLT: Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2210.15871.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
 - (arXiv 2022.10) RCDPT: Radar-Camera fusion Dense Prediction Transformer, [[Paper]](https://arxiv.org/pdf/2211.02432.pdf)
 - (arXiv 2022.11) Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer, [[Paper]](https://arxiv.org/pdf/2211.05654.pdf)
+- (arXiv 2022.11) OneFormer: One Transformer to Rule Universal Image Segmentation, [[Paper]](https://arxiv.org/pdf/2211.06220.pdf), [[Code]](https://github.com/SHI-Labs/OneFormer)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
