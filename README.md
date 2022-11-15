@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/14
+**Last updated: 2022/11/15
 
 ## Survey: 
 - (arXiv 2022.11) A Comprehensive Survey of Transformers for Computer Vision. [[Paper]](https://arxiv.org/pdf/2211.06004.pdf)
@@ -516,7 +516,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention, [[Paper]](https://arxiv.org/pdf/2211.05109.pdf)
 - (arXiv 2022.11) Training a Vision Transformer from scratch in less than 24 hours with 1 GPU, [[Paper]](https://arxiv.org/pdf/2211.05187.pdf), [[Code]](https://github.com/BorealisAI/efficient-vit-training)
 - (arXiv 2022.11) Demystify Transformers & Convolutions in Modern Image Deep Networks, [[Paper]](https://arxiv.org/pdf/2211.05781.pdf), [[Code]](https://github.com/OpenGVLab/STM-Evaluation)
-- (arXiv 2022.12) Token Transformer: Can class token help window-based transformer build better long-range interactions, [[Paper]](https://arxiv.org/pdf/2211.06083.pdf)
+- (arXiv 2022.11) Token Transformer: Can class token help window-based transformer build better long-range interactions, [[Paper]](https://arxiv.org/pdf/2211.06083.pdf)
+- (arXiv 2022.11) CabViT: Cross Attention among Blocks for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.07198.pdf), [[Code]](https://github.com/hkzhang91/CabViT)
+- (arXiv 2022.11) BiViT: Extremely Compressed Binary Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.07091.pdf), [[Code]](https://github.com/hkzhang91/CabViT)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -788,6 +790,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) A Saccaded Visual Transformer for General Object Spotting, [[Paper]](https://arxiv.org/pdf/2210.09220.pdf)
 - (arXiv 2022.10) Face Pyramid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.11974.pdf), [[Project]](https://khawar-islam.github.io/fpvt/)
 - (arXiv 2022.10) UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2210.12752.pdf)
+- (arXiv 2022.11) AU-Aware Vision Transformers for Biased Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2211.06609.pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -810,6 +813,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) FS-DETR: Few-Shot DEtection TRansformer with prompting and without re-training, [[Paper]](https://arxiv.org/pdf/2210.04845.pdf)
 - (arXiv 2022.10) Feature-Proxy Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2210.06908.pdf)
 - (arXiv 2022.11) tSF: Transformer-based Semantic Filter for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2211.00868.pdf)
+- (arXiv 2022.11) Enhancing Few-shot Image Classification with Cosine Transformer, [[Paper]](https://arxiv.org/pdf/2211.06828.pdf), [[Code]](https://github.com/vinuni-vishc/Few-Shot-Cosine-Transformer)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -1203,6 +1207,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) ViTASD: Robust Vision Transformer Baselines for Autism Spectrum Disorder Facial Diagnosis, [[Paper]](https://arxiv.org/pdf/2210.16943.pdf), [[Code]](https://github.com/irohxu/vitasd)
 - (arXiv 2022.11) ViT-DeiT: An Ensemble Model for Breast Cancer Histopathological Images Classification, [[Paper]](https://arxiv.org/pdf/2211.00749.pdf)
 - (arXiv 2022.11) RadFormer: Transformers with Global-Local Attention for Interpretable and Accurate Gallbladder Cancer Detection, [[Paper]](https://arxiv.org/pdf/2211.04793.pdf), [[Code]](https://github.com/sbasu276/RadFormer)
+- (arXiv 2022.11) MultiCrossViT: Multimodal Vision Transformer for Schizophrenia Prediction using Structural MRI and Functional Network Connectivity Data, [[Paper]](https://arxiv.org/pdf/2211.06726.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2119,6 +2124,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design, [[Paper]](https://arxiv.org/pdf/2210.09573.pdf)
 - (arXiv 2022.10) Foreground Guidance and Multi-Layer Feature Fusion for Unsupervised Object Discovery with Transformers, [[Paper]](https://arxiv.org/pdf/2210.13053.pdf), [[Code]](https://github.com/VDIGPKU/FORMULA)
 - (arXiv 2022.10) Fully-attentive and interpretable: vision and video vision transformers for pain detection, [[Paper]](https://arxiv.org/pdf/2210.15769.pdf), [[Code]](https://github.com/IPDTFE/ViT-McMaster)
+- (arXiv 2022.11) SCOTCH and SODA: A Transformer Video Shadow Detection Framework, [[Paper]](https://arxiv.org/pdf/2211.06885.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
