@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/15
+**Last updated: 2022/11/16
 
 ## Survey: 
 - (arXiv 2022.11) A Comprehensive Survey of Transformers for Computer Vision. [[Paper]](https://arxiv.org/pdf/2211.06004.pdf)
@@ -519,6 +519,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Token Transformer: Can class token help window-based transformer build better long-range interactions, [[Paper]](https://arxiv.org/pdf/2211.06083.pdf)
 - (arXiv 2022.11) CabViT: Cross Attention among Blocks for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.07198.pdf), [[Code]](https://github.com/hkzhang91/CabViT)
 - (arXiv 2022.11) BiViT: Extremely Compressed Binary Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.07091.pdf), [[Code]](https://github.com/hkzhang91/CabViT)
+- (arXiv 2022.11) HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.08024.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -792,6 +793,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2210.12752.pdf)
 - (arXiv 2022.11) AU-Aware Vision Transformers for Biased Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2211.06609.pdf)
 
+### Federated Learning 
+- (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
+
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
 - (arXiv 2021.04) Few-Shot Segmentation via Cycle-Consistent Transformer, [[Paper]](https://arxiv.org/pdf/2106.02320.pdf)
@@ -936,6 +940,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Knowledge Distillation via the Target-aware Transformer, [[Paper]](https://arxiv.org/pdf/2205.10793.pdf)
 - (arXiv 2022.05) Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation, [[Paper]](https://arxiv.org/pdf/2208.08037.pdf), [[Code]](https://github.com/SwinTransformer/Feature-Distillation)
 - (arXiv 2022.09) ViTKD: Practical Guidelines for ViT feature knowledge distillation, [[Paper]](https://arxiv.org/pdf/2209.02432.pdf), [[Code]](https://github.com/yzd-v/cls_KD)
+- (arXiv 2022.11) Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling, [[Paper]](https://arxiv.org/pdf/2211.08071.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -1391,6 +1396,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv.2022.06) Neural Prompt Search, [[Paper]](https://arxiv.org/pdf/2206.04673.pdf)
 - (arXiv.2022.07) UniNet: Unified Architecture Search with Convolution, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2207.05420.pdf), [[Code]](https://github.com/Sense-X/UniNet)
 - (arXiv.2022.09) NasHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing, [[Paper]](https://arxiv.org/pdf/2209.11356.pdf)
+- (arXiv.2022.11) NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction, [[Paper]](https://arxiv.org/pdf/2211.08024.pdf)
 
 ### Navigation
 - (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
