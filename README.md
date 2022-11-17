@@ -2348,6 +2348,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) PolyBuilding: Polygon Transformer for End-to-End Building Extraction, [[Paper]](https://arxiv.org/pdf/2211.01589.pdf)
 - (arXiv 2022.11) HYDRA-HGR: A Hybrid Transformer-based Architecture for Fusion of Macroscopic and Microscopic Neural Drive Information, [[Paper]](https://arxiv.org/pdf/2211.02619.pdf)
 - (arXiv 2022.11) A Simple Transformer-Based Model for Ego4D Natural Language Queries Challenge, [[Paper]](https://arxiv.org/pdf/2211.08704.pdf)
+- (arXiv 2022.11) Demystify Self-Attention in Vision Transformers from a Semantic Perspective: Analysis and Application, [[Paper]](https://arxiv.org/pdf/2211.08543.pdf)
 
 ## Contact & Feedback
 
