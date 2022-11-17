@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/16
+**Last updated: 2022/11/17
 
 ## Survey: 
 - (arXiv 2022.11) A Comprehensive Survey of Transformers for Computer Vision. [[Paper]](https://arxiv.org/pdf/2211.06004.pdf)
@@ -1213,6 +1213,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) ViT-DeiT: An Ensemble Model for Breast Cancer Histopathological Images Classification, [[Paper]](https://arxiv.org/pdf/2211.00749.pdf)
 - (arXiv 2022.11) RadFormer: Transformers with Global-Local Attention for Interpretable and Accurate Gallbladder Cancer Detection, [[Paper]](https://arxiv.org/pdf/2211.04793.pdf), [[Code]](https://github.com/sbasu276/RadFormer)
 - (arXiv 2022.11) MultiCrossViT: Multimodal Vision Transformer for Schizophrenia Prediction using Structural MRI and Functional Network Connectivity Data, [[Paper]](https://arxiv.org/pdf/2211.06726.pdf)
+- (arXiv 2022.11) ConvFormer: Combining CNN and Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2211.08564.pdf)
+- (arXiv 2022.11) SWIN-SFTNet : Spatial Feature Expansion and Aggregation using Swin Transformer For Whole Breast micro-mass segmentation, [[Paper]](https://arxiv.org/pdf/2211.08717.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1372,6 +1374,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) RCDPT: Radar-Camera fusion Dense Prediction Transformer, [[Paper]](https://arxiv.org/pdf/2211.02432.pdf)
 - (arXiv 2022.11) Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer, [[Paper]](https://arxiv.org/pdf/2211.05654.pdf)
 - (arXiv 2022.11) OneFormer: One Transformer to Rule Universal Image Segmentation, [[Paper]](https://arxiv.org/pdf/2211.06220.pdf), [[Code]](https://github.com/SHI-Labs/OneFormer)
+- (arXiv 2022.11) TransCC: Transformer-based Multiple Illuminant Color Constancy Using Multitask Learning, [[Paper]](https://arxiv.org/pdf/2211.08772.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2131,6 +2134,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Foreground Guidance and Multi-Layer Feature Fusion for Unsupervised Object Discovery with Transformers, [[Paper]](https://arxiv.org/pdf/2210.13053.pdf), [[Code]](https://github.com/VDIGPKU/FORMULA)
 - (arXiv 2022.10) Fully-attentive and interpretable: vision and video vision transformers for pain detection, [[Paper]](https://arxiv.org/pdf/2210.15769.pdf), [[Code]](https://github.com/IPDTFE/ViT-McMaster)
 - (arXiv 2022.11) SCOTCH and SODA: A Transformer Video Shadow Detection Framework, [[Paper]](https://arxiv.org/pdf/2211.06885.pdf)
+- (arXiv 2022.11) SATVSR: Scenario Adaptive Transformer for Cross Scenarios Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2211.08703.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -2343,6 +2347,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) WITT: A Wireless Image Transmission Transformer for Semantic Communications, [[Paper]](https://arxiv.org/pdf/2211.00937.pdf), [[Code]](https://github.com/KeYang8/WITT)
 - (arXiv 2022.11) PolyBuilding: Polygon Transformer for End-to-End Building Extraction, [[Paper]](https://arxiv.org/pdf/2211.01589.pdf)
 - (arXiv 2022.11) HYDRA-HGR: A Hybrid Transformer-based Architecture for Fusion of Macroscopic and Microscopic Neural Drive Information, [[Paper]](https://arxiv.org/pdf/2211.02619.pdf)
+- (arXiv 2022.11) A Simple Transformer-Based Model for Ego4D Natural Language Queries Challenge, [[Paper]](https://arxiv.org/pdf/2211.08704.pdf)
 
 ## Contact & Feedback
 
