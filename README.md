@@ -4,6 +4,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 **Last updated: 2022/11/18
 
 ## Survey: 
+- (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
+
 - (arXiv 2022.11) A Comprehensive Survey of Transformers for Computer Vision. [[Paper]](https://arxiv.org/pdf/2211.06004.pdf)
 
 - (arXiv 2022.09) A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. [[Paper]](https://arxiv.org/pdf/2209.13232.pdf)
@@ -943,6 +945,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) ViTKD: Practical Guidelines for ViT feature knowledge distillation, [[Paper]](https://arxiv.org/pdf/2209.02432.pdf), [[Code]](https://github.com/yzd-v/cls_KD)
 - (arXiv 2022.11) Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling, [[Paper]](https://arxiv.org/pdf/2211.08071.pdf)
 - (arXiv 2022.11) D3ETR: Decoder Distillation for Detection Transformer, [[Paper]](https://arxiv.org/pdf/2211.09768.pdf)
+- (arXiv 2022.11) DETRDistill: A Universal Knowledge Distillation Framework for DETR-families, [[Paper]](https://arxiv.org/pdf/2211.10156.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -1864,6 +1867,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) RGB-T Semantic Segmentation with Location, Activation, and Sharpening, [[Paper]](https://arxiv.org/pdf//2210.14530.pdf), [[Code]](https://github.com/MathLee/LASNet)
 - (arXiv 2022.10) Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation, [[Paper]](https://arxiv.org/pdf/2210.17400.pdf), [[Code]](https://github.com/deepplants/vit-pcm)
 - (arXiv 2022.10) DepthFormer: Multimodal Positional Encodings and Cross-Input Attention for Transformer-Based Segmentation Networks, [[Paper]](https://arxiv.org/pdf/2211.04188.pdf)
+- (arXiv 2022.11) Delving into Transformer for Incremental Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2211.10253.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
