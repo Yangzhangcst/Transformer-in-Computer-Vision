@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/24
+**Last updated: 2022/11/28
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -122,6 +122,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) GliTr: Glimpse Transformers with Spatiotemporal Consistency for Online Action Prediction, [[Paper]](https://arxiv.org/pdf/2210.13605.pdf)
 - (arXiv 2022.10) Hypergraph Transformer for Skeleton-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2211.09590.pdf)
 - (arXiv 2022.11) SVFormer: Semi-supervised Video Transformer for Action Recognition, [[Paper]](https://arxiv.org/pdf/2211.13222.pdf),[[Code]](https://github.com/ChenHsing/SVFormer)
+- (arXiv 2022.11) Interaction Visual Transformer for Egocentric Action Anticipation, [[Paper]](https://arxiv.org/pdf/2211.14154.pdf),[[Code]](https://github.com/ChenHsing/SVFormer)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
