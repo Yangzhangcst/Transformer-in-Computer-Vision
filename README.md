@@ -535,6 +535,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Data Augmentation Vision Transformer for Fine-grained Image Classification, [[Paper]](https://arxiv.org/pdf/2211.12879.pdf)
 - (arXiv 2022.11) Integrally Pre-Trained Transformer Pyramid Networks, [[Paper]](https://arxiv.org/pdf/2211.12735.pdf), [[Code]](https://github.com/sunsmarterjie/iTPN)
 - (arXiv 2022.11) Explanation on Pretraining Bias of Finetuned Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.15428.pdf)
+- (arXiv 2022.11) Adaptive Attention Link-based Regularization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.13852.pdf)
+- (arXiv 2022.11) Semantic-Aware Local-Global Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.14705.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1245,6 +1247,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) TFormer: A throughout fusion transformer for multi-modal skin lesion diagnosis, [[Paper]](https://arxiv.org/pdf/2211.11393.pdf)
 - (arXiv 2022.11) Unsupervised Echocardiography Registration through Patch-based MLPs and Transformers, [[Paper]](https://arxiv.org/pdf/2211.11687.pdf), [[Code]](https://gitlab.inria.fr/epione/mlp_transformer_registration)
 - (arXiv 2022.11) Towards Automated Polyp Segmentation Using Weakly- and Semi-Supervised Learning and Deformable Transformers, [[Paper]](https://arxiv.org/pdf/2211.11847.pdf)
+- (arXiv 2022.11) Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images, [[Paper]](https://arxiv.org/pdf/2211.14552.pdf), [[Code]](https://github.com/FDU-VTS/DRTiD)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1593,6 +1596,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Hyperbolic Cosine Transformer for LiDAR 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2211.05580.pdf)
 - (arXiv 2022.11) Completing point cloud from few points by Wasserstein GAN and Transformers, [[Paper]](https://arxiv.org/pdf/2211.12746.pdf), [[Code]](https://github.com/WxfQjh/Stability-point-recovery.git)
 - (arXiv 2022.11) PVT3D: Point Voxel Transformers for Place Recognition from Sparse Lidar Scans, [[Paper]](https://arxiv.org/pdf/2211.12542.pdf)
+- (arXiv 2022.11) 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers, [[Paper]](https://arxiv.org/pdf/2211.14710.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1646,6 +1650,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) CRT-6D: Fast 6D Object Pose Estimation with Cascaded Refinement Transformers, [[Paper]](https://arxiv.org/pdf/2210.11718.pdf), [[Code]](https://github.com/PedroCastro/CRT-6D)
 - (arXiv 2022.10) Video based Object 6D Pose Estimation using Transformers, [[Paper]](https://arxiv.org/pdf/2210.13540.pdf), [[Code]](https://github.com/ApoorvaBeedu/VideoPose)
 - (arXiv 2022.11) PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2211.14125.pdf), [[Code]](https://github.com/aau-cns/poet)
+- (arXiv 2022.11) MPT: Mesh Pre-Training with Transformers for Human Pose and Mesh Reconstruction, [[Paper]](https://arxiv.org/pdf/2211.13357.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -1740,6 +1745,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images, [[Paper]](https://arxiv.org/pdf/2209.02197.pdf)
 - (arXiv 2022.09) Dual-former: Hybrid Self-attention Transformer for Efficient Image Restoration, [[Paper]](https://arxiv.org/pdf/2210.01069.pdf)
 - (arXiv 2022.10) Accurate Image Restoration with Attention Retractable Transformer, [[Paper]](https://arxiv.org/pdf/2210.01427.pdf, [[Code]](https://github.com/gladzhang/ART)
+- (arXiv 2022.11) Cross Aggregation Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2211.13654.pdf, [[Code]](https://github.com/zhengchen1999/CAT)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
@@ -1905,7 +1911,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Delving into Transformer for Incremental Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2211.10253.pdf)
 - (arXiv 2022.11) CoMFormer: Continual Learning in Semantic and Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2211.13999.pdf)
 - (arXiv 2022.11) UperFormer: A Multi-scale Transformer-based Decoder for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2211.13928.pdf), [[Code]](https://github.com/shiwt03/UperFormer)
-- 
+- (arXiv 2022.11) Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2211.14703.pdf), [[Code]](https://github.com/shiwt03/UperFormer)
+
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
 - (arXiv 2022.01) ShapeFormer: Transformer-based Shape Completion via Sparse Representation,  [[Paper]](https://arxiv.org/abs/2201.10326), [[Project]](https://shapeformer.github.io/)
@@ -2184,6 +2191,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) SATVSR: Scenario Adaptive Transformer for Cross Scenarios Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2211.08703.pdf)
 - (arXiv 2022.11) UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer, [[Paper]](https://arxiv.org/pdf/2211.09552.pdf), [[Code]](https://github.com/OpenGVLab/UniFormerV2)
 - (arXiv 2022.11) SuperTran: Reference Based Video Transformer for Enhancing Low Bitrate Streams in Real Time, [[Paper]](https://arxiv.org/pdf/2211.12604.pdf)
+- (arXiv 2022.11) PatchBlender: A Motion Prior for Video Transformers, [[Paper]](https://arxiv.org/pdf/2211.14449.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
