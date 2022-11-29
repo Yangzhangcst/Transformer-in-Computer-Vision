@@ -746,6 +746,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Teach-DETR: Better Training DETR with Teachers, [[Paper]](https://arxiv.org/pdf/2211.11953.pdf),[[Code]](https://github.com/LeonHLJ/Teach-DETR)
 - (arXiv 2022.11) DETRs with Collaborative Hybrid Assignments Training, [[Paper]](https://arxiv.org/pdf/2211.12860.pdf),[[Code]](https://github.com/Sense-X/Co-DETR)
 - (arXiv 2022.11) DQ-DETR: Dual Query Detection Transformer for Phrase Extraction and Grounding, [[Paper]](https://arxiv.org/pdf/2211.15516.pdf),[[Code]](https://github.com/IDEA-Research/DQ-DETR)
+- (arXiv 2022.11) How to Backpropagate through Hungarian in Your DETR, [[Paper]](https://arxiv.org/pdf/2211.14448.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2251,6 +2252,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) TransZero: Attribute-guided Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2112.01683.pdf), [[Code]](https://github.com/shiming-chen/transzero)
 - (arXiv 2021.12) TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2112.08643.pdf), [[Code]](https://github.com/shiming-chen/TransZero_pp)
 - (arXiv 2022.03) Hybrid Routing Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2203.15310.pdf)
+- (arXiv 2022.11) Efficient Zero-shot Visual Search via Target and Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2211.13470.pdf)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
