@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/11/29
+**Last updated: 2022/11/30
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -961,6 +961,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) AISFormer: Amodal Instance Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2210.06323.pdf), [[Code]](https://github.com/UARK-AICV/AISFormer)
 - (arXiv 2022.10) TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation, [[Paper]](https://arxiv.org/pdf/2210.10775.pdf), [[Code]](https://github.com/AIR-DISCOVER/TOIST)
 - (arXiv 2022.11) Mean Shift Mask Transformer for Unseen Object Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2211.11679.pdf), [[Code]](https://github.com/YoungSean/UnseenObjectsWithMeanShift)
+- (arXiv 2022.11) Transformer for 3D Scene Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2211.15766.pdf), [[Code]](https://github.com/sunjiahao1999/SPFormer)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -1672,6 +1673,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.06707.pdf), [[Code]](https://github.com/YanjingLi0202/Q-ViT)
 - (arXiv 2022.10) oViT: An Accurate Second-Order Pruning Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.09223.pdf)
 - (arXiv 2022.11) CPT-V: A Contrastive Approach to Post-Training Quantization of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.09643.pdf)
+- (arXiv 2022.11) NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.16056.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -2412,6 +2414,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Event Transformer+. A multi-purpose solution for efficient event data processing, [[Paper]](https://arxiv.org/pdf/2211.12222.pdf)
 - (arXiv 2022.11) ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation, [[Paper]](https://arxiv.org/pdf/2211.13189.pdf)
 - (arXiv 2022.11) A Dual-scale Lead-seperated Transformer With Lead-orthogonal Attention And Meta-information For Ecg Classification, [[Paper]](https://arxiv.org/pdf/2211.12777.pdf)
+- (arXiv 2022.11) RGB no more: Minimally-decoded JPEG Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.16421.pdf)
+- (arXiv 2022.11) Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing, [[Paper]](https://arxiv.org/pdf/2211.16499.pdf), [[Code]](https://counterfactualsimulation.github.io/)
 
 ## Contact & Feedback
 
