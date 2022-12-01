@@ -537,6 +537,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Explanation on Pretraining Bias of Finetuned Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.15428.pdf)
 - (arXiv 2022.11) Adaptive Attention Link-based Regularization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.13852.pdf)
 - (arXiv 2022.11) Semantic-Aware Local-Global Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.14705.pdf)
+- (arXiv 2022.11) Pattern Attention Transformer with Doughnut Kernel, [[Paper]](https://arxiv.org/pdf/2211.16961.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1250,6 +1251,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Unsupervised Echocardiography Registration through Patch-based MLPs and Transformers, [[Paper]](https://arxiv.org/pdf/2211.11687.pdf), [[Code]](https://gitlab.inria.fr/epione/mlp_transformer_registration)
 - (arXiv 2022.11) Towards Automated Polyp Segmentation Using Weakly- and Semi-Supervised Learning and Deformable Transformers, [[Paper]](https://arxiv.org/pdf/2211.11847.pdf)
 - (arXiv 2022.11) Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images, [[Paper]](https://arxiv.org/pdf/2211.14552.pdf), [[Code]](https://github.com/FDU-VTS/DRTiD)
+- (arXiv 2022.11) Hierarchical Transformer for Survival Prediction Using Multimodality Whole Slide Images and Genomics, [[Paper]](https://arxiv.org/pdf/2211.16632.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1413,6 +1415,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) OneFormer: One Transformer to Rule Universal Image Segmentation, [[Paper]](https://arxiv.org/pdf/2211.06220.pdf), [[Code]](https://github.com/SHI-Labs/OneFormer)
 - (arXiv 2022.11) TransCC: Transformer-based Multiple Illuminant Color Constancy Using Multitask Learning, [[Paper]](https://arxiv.org/pdf/2211.08772.pdf)
 - (arXiv 2022.11) Unifying Vision-Language Representation Space with Single-tower Transformer, [[Paper]](https://arxiv.org/pdf/2211.11153.pdf)
+- (arXiv 2022.11) Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion, [[Paper]](https://arxiv.org/pdf/2205.02357.pdf), [[Code]](https://github.com/zjunlp/MKGformer)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1421,7 +1424,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) WT-MVSNet: Window-based Transformers for Multi-view Stereo, [[Paper]](https://arxiv.org/pdf/2205.14319.pdf), [[Code]](https://github.com/JeffWang987)
 - (arXiv 2022.08) MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo, [[Paper]](https://arxiv.org/pdf/2208.02541.pdf)
 - (arXiv 2022.08) A Light Touch Approach to Teaching Transformers Multi-view Geometry, [[Paper]](https://arxiv.org/pdf/2211.15107.pdf)
-
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -1810,6 +1812,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) ASSET: Autoregressive Semantic Scene Editing with Transformers at High Resolutions, [[Paper]](https://arxiv.org/pdf/2205.12231.pdf), [[Code]](https://github.com/DifanLiu/ASSET)
 - (arXiv 2022.06) Object Scene Representation Transformer, [[Paper]](https://arxiv.org/pdf/2206.06922.pdf), [[Project]](https://osrt-paper.github.io/)
 - (arXiv 2022.11) SG-Shuffle: Multi-aspect Shuffle Transformer for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2211.04773.pdf)
+- (arXiv 2022.11) Iterative Scene Graph Generation with Generative Transformers, [[Paper]](https://arxiv.org/pdf/2211.16636.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -2072,6 +2075,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Prompt Vision Transformer for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2208.08914.pdf)
 - (arXiv 2022.08) Transfer Learning and Vision Transformer based State-of-Health prediction of Lithium-Ion Batteries, [[Paper]](https://arxiv.org/pdf/2209.05253.pdf)
 - (arXiv 2022.09) Transfer Learning with Pretrained Remote Sensing Transformers, [[Paper]](https://arxiv.org/pdf/2209.14969.pdf), [[Code]](https://github.com/antofuller/SatViT)
+- (arXiv 2022.11) QuadFormer: Quadruple Transformer for Unsupervised Domain Adaptation in Power Line Segmentation of Aerial Images, [[Paper]](https://arxiv.org/pdf/2211.16988.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
@@ -2416,6 +2420,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) A Dual-scale Lead-seperated Transformer With Lead-orthogonal Attention And Meta-information For Ecg Classification, [[Paper]](https://arxiv.org/pdf/2211.12777.pdf)
 - (arXiv 2022.11) RGB no more: Minimally-decoded JPEG Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.16421.pdf)
 - (arXiv 2022.11) Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing, [[Paper]](https://arxiv.org/pdf/2211.16499.pdf), [[Code]](https://counterfactualsimulation.github.io/)
+- (arXiv 2022.11) ShaDocNet: Learning Spatial-Aware Tokens in Transformer for Document Shadow Removal, [[Paper]](https://arxiv.org/pdf/2211.16675.pdf)
 
 ## Contact & Feedback
 
