@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/01
+**Last updated: 2022/12/02
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -174,6 +174,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers, [[Paper]](https://arxiv.org/pdf/2207.02202.pdf)
 - (arXiv 2022.07) UniFormer: Unified Multi-view Fusion Transformer for Spatial-Temporal Representation in Bird's-Eye-View, [[Paper]](https://arxiv.org/pdf/2207.08536.pdf)
 - (arXiv 2022.09) A Dual-Cycled Cross-View Transformer Network for Unified Road Layout Estimation and 3D Object Detection in the Bird's-Eye-View, [[Paper]](https://arxiv.org/pdf/2209.08844.pdf)
+- (arXiv 2022.09) BEV-LGKD: A Unified LiDAR-Guided Knowledge Distillation Framework for BEV 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2212.00623.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -205,6 +206,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) vieCap4H-VLSP 2021: Vietnamese Image Captioning for Healthcare Domain using Swin Transformer and Attention-based LSTM, [[Paper]](https://arxiv.org/pdf/2209.01304.pdf), [[Code]](https://git.io/JDdJm)
 - (arXiv 2022.11) VieCap4H - VLSP 2021: ObjectAoA -- Enhancing performance of Object Relation Transformer with Attention on Attention for Vietnamese image captioning, [[Paper]](https://arxiv.org/pdf/2211.05405.pdf)
 - (arXiv 2022.11) VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning, [[Paper]](https://arxiv.org/pdf/2211.15103.pdf), [[Code]](https://github.com/UARK-AICV/VLTinT)
+- (arXiv 2022.11) GRiT: A Generative Region-to-text Transformer for Object Understanding, [[Paper]](https://arxiv.org/pdf/2212.00280.pdf), [[Code]](https://github.com/JialianW/GRiT)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -538,6 +540,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Adaptive Attention Link-based Regularization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.13852.pdf)
 - (arXiv 2022.11) Semantic-Aware Local-Global Vision Transformer, [[Paper]](https://arxiv.org/pdf/2211.14705.pdf)
 - (arXiv 2022.11) Pattern Attention Transformer with Doughnut Kernel, [[Paper]](https://arxiv.org/pdf/2211.16961.pdf)
+- (arXiv 2022.11) ResFormer: Scaling ViTs with Multi-Resolution Training, [[Paper]](https://arxiv.org/pdf/2212.00776.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -748,6 +751,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) DETRs with Collaborative Hybrid Assignments Training, [[Paper]](https://arxiv.org/pdf/2211.12860.pdf),[[Code]](https://github.com/Sense-X/Co-DETR)
 - (arXiv 2022.11) DQ-DETR: Dual Query Detection Transformer for Phrase Extraction and Grounding, [[Paper]](https://arxiv.org/pdf/2211.15516.pdf),[[Code]](https://github.com/IDEA-Research/DQ-DETR)
 - (arXiv 2022.11) How to Backpropagate through Hungarian in Your DETR, [[Paper]](https://arxiv.org/pdf/2211.14448.pdf)
+- (arXiv 2022.11) Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer, [[Paper]](https://arxiv.org/pdf/2212.00313.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -818,6 +822,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Face Pyramid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.11974.pdf), [[Project]](https://khawar-islam.github.io/fpvt/)
 - (arXiv 2022.10) UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2210.12752.pdf)
 - (arXiv 2022.11) AU-Aware Vision Transformers for Biased Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2211.06609.pdf)
+- (arXiv 2022.11) Part-based Face Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.00057.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1739,6 +1744,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Uncertainty Aware Multitask Pyramid Vision Transformer For UAV-Based Object Re-Identification, [[Paper]](https://arxiv.org/pdf/2209.08686.pdf)
 - (arXiv 2022.11) Sequential Transformer for End-to-End Person Search, [[Paper]](https://arxiv.org/pdf/2211.04323.pdf)
 - (arXiv 2022.11) Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2211.04323.pdf), [[Code]](https://github.com/RikoLi/WACV23-workshop-TMGF)
+- (arXiv 2022.11) Learning Progressive Modality-shared Transformers for Effective Visible-Infrared Person Re-identification, [[Paper]](https://arxiv.org/pdf/2212.00226.pdf), [[Code]](https://github.com/hulu88/PMT)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
