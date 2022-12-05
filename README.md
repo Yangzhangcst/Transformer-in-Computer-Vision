@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/02
+**Last updated: 2022/12/05
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -1257,6 +1257,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Towards Automated Polyp Segmentation Using Weakly- and Semi-Supervised Learning and Deformable Transformers, [[Paper]](https://arxiv.org/pdf/2211.11847.pdf)
 - (arXiv 2022.11) Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images, [[Paper]](https://arxiv.org/pdf/2211.14552.pdf), [[Code]](https://github.com/FDU-VTS/DRTiD)
 - (arXiv 2022.11) Hierarchical Transformer for Survival Prediction Using Multimodality Whole Slide Images and Genomics, [[Paper]](https://arxiv.org/pdf/2211.16632.pdf)
+- (arXiv 2022.12) SLMT-Net: A Self-supervised Learning based Multi-scale Transformer Network for Cross-Modality MR Image Synthesis, [[Paper]](https://arxiv.org/pdf/2212.01108.pdf), [[Code]](https://github.com/lyhkevin/SLMT-Net)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1282,6 +1283,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) NEURAL MARIONETTE: A Transformer-based Multi-action Human Motion Synthesis System, [[Paper]](https://arxiv.org/pdf/2209.13204.pdf), [[Project]](https://wjohnnyw.github.io/blog/tag2motion/)
 - (arXiv 2022.09) Motion Transformer for Unsupervised Image Animation, [[Paper]](https://arxiv.org/pdf/2209.14024.pdf), [[Code]](https://github.com/JialeTao/MoTrans)
 - (arXiv 2022.11) Blur Interpolation Transformer for Real-World Motion from Blur, [[Paper]](https://arxiv.org/pdf/2211.11423.pdf)
+- (arXiv 2022.12) Transformer-Based Learned Optimization, [[Paper]](https://arxiv.org/pdf/212.01055.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2218,6 +2220,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Multi-View Transformer for 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2204.02174.pdf), [[Code]](https://github.com/sega-hsj/MVT-3DVG)
 - (arXiv 2022.06) TransVG++: End-to-End Visual Grounding with Language Conditioned Vision Transformer, [[Paper]](https://arxiv.org/pdf/2206.06619v1.pdf), [[Code]](https://github.com/djiajunustc/TransVG)
 - (arXiv 2022.09) Dynamic MDETR: A Dynamic Multimodal Transformer Decoder for Visual Grounding, [[Paper]](https://arxiv.org/pdf/2209.13959.pdf)
+- (arXiv 2022.11) UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding, [[Paper]](https://arxiv.org/pdf/2212.00836.pdf)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
