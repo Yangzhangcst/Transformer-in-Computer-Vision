@@ -1508,7 +1508,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Aggregated Text Transformer for Scene Text Detection, [[Paper]](https://arxiv.org/pdf/2211.13984.pdf)
 
 ### Octree
-- (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
+- (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
 
 ### Open Set Recognition
 - (arXiv 2022.03) Open Set Recognition using Vision Transformer with an Additional Detection Head, [[Paper]](https://arxiv.org/pdf/2203.08441.pdf)
@@ -1516,6 +1516,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Scaling Novel Object Detection with Weakly Supervised Detection Transformers, [[Paper]](https://arxiv.org/pdf/2207.05205.pdf)
 - (arXiv 2022.09) Pre-training image-language transformers for open-vocabulary tasks, [[Paper]](https://arxiv.org/pdf/2209.04372.pdf)
 - (arXiv 2022.10) Transformer-Based Speech Synthesizer Attribution in an Open Set Scenario, [[Paper]](https://arxiv.org/pdf/2209.04372.pdf)
+- (arXiv 2022.12) PROB: Probabilistic Objectness for Open World Object Detection, [[Paper]](https://arxiv.org/pdf/2212.01424.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
