@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/05
+**Last updated: 2022/12/06
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -1858,6 +1858,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading, [[Paper]](https://arxiv.org/pdf/2210.10969.pdf), [[Code]](https://github.com/YijinHuang/SSiT)
 - (arXiv 2022.10) PatchRot: A Self-Supervised Technique for Training Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.15722.pdf), [[Code]](https://github.com/s-chh/patchrot)
 - (arXiv 2022.10) Foreign Object Debris Detection for Airport Pavement Images based on Self-supervised Localization and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.16901.pdf)
+- (arXiv 2022.12) Location-Aware Self-Supervised Transformers, [[Paper]](https://arxiv.org/pdf/2212.02400.pdf), [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/loca)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -1926,6 +1927,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) CoMFormer: Continual Learning in Semantic and Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2211.13999.pdf)
 - (arXiv 2022.11) UperFormer: A Multi-scale Transformer-based Decoder for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2211.13928.pdf), [[Code]](https://github.com/shiwt03/UperFormer)
 - (arXiv 2022.11) Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2211.14703.pdf), [[Code]](https://github.com/shiwt03/UperFormer)
+- (arXiv 2022.12) SASFormer: Transformers for Sparsely Annotated Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.02019.pdf), [[Code]](https://github.com/su-hui-zz/SASFormer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2430,6 +2432,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) RGB no more: Minimally-decoded JPEG Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.16421.pdf)
 - (arXiv 2022.11) Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing, [[Paper]](https://arxiv.org/pdf/2211.16499.pdf), [[Code]](https://counterfactualsimulation.github.io/)
 - (arXiv 2022.11) ShaDocNet: Learning Spatial-Aware Tokens in Transformer for Document Shadow Removal, [[Paper]](https://arxiv.org/pdf/2211.16675.pdf)
+- (arXiv 2022.12) Solving the Weather4cast Challenge via Visual Transformers for 3D Images, [[Paper]](https://arxiv.org/pdf/2212.02456.pdf)
 
 ## Contact & Feedback
 
