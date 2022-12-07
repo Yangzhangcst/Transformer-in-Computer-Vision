@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/06
+**Last updated: 2022/12/07
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -616,6 +616,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Context-Enhanced Stereo Transformer, [[Paper]](https://arxiv.org/pdf/2210.11719.pdf), [[Code]](https://github.com/guoweiyu/Context-Enhanced-Stereo-Transformer)
 - (arXiv 2022.11) Hybrid Transformer Based Feature Fusion for Self-Supervised Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2211.11066.pdf)
 - (arXiv 2022.11) Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2211.13202.pdf), [[Code]](https://github.com/noahzn/lite-mono)
+- (arXiv 2022.12) Event-based Monocular Dense Depth Estimation with Recurrent Transformers, [[Paper]](https://arxiv.org/pdf/2212.02791.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -1517,6 +1518,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Pre-training image-language transformers for open-vocabulary tasks, [[Paper]](https://arxiv.org/pdf/2209.04372.pdf)
 - (arXiv 2022.10) Transformer-Based Speech Synthesizer Attribution in an Open Set Scenario, [[Paper]](https://arxiv.org/pdf/2209.04372.pdf)
 - (arXiv 2022.12) PROB: Probabilistic Objectness for Open World Object Detection, [[Paper]](https://arxiv.org/pdf/2212.01424.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
+- (arXiv 2022.12) Open World DETR: Transformer based Open World Object Detection, [[Paper]](https://arxiv.org/pdf/2212.02969.pdf)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
@@ -1684,6 +1686,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) oViT: An Accurate Second-Order Pruning Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2210.09223.pdf)
 - (arXiv 2022.11) CPT-V: A Contrastive Approach to Post-Training Quantization of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.09643.pdf)
 - (arXiv 2022.11) NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.16056.pdf)
+- (arXiv 2022.12) Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis, [[Paper]](https://arxiv.org/pdf/2212.03185.pdf), [[Code]](https://github.com/TencentARC/BasicVQ-GEN)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -1929,6 +1932,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) UperFormer: A Multi-scale Transformer-based Decoder for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2211.13928.pdf), [[Code]](https://github.com/shiwt03/UperFormer)
 - (arXiv 2022.11) Exploring Consistency in Cross-Domain Transformer for Domain Adaptive Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2211.14703.pdf), [[Code]](https://github.com/shiwt03/UperFormer)
 - (arXiv 2022.12) SASFormer: Transformers for Sparsely Annotated Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.02019.pdf), [[Code]](https://github.com/su-hui-zz/SASFormer)
+- (arXiv 2022.12) IncepFormer: Efficient Inception Transformer with Pyramid Pooling for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.03035.pdf), [[Code]](https://github.com/shendu0321/IncepFormer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2210,6 +2214,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer, [[Paper]](https://arxiv.org/pdf/2211.09552.pdf), [[Code]](https://github.com/OpenGVLab/UniFormerV2)
 - (arXiv 2022.11) SuperTran: Reference Based Video Transformer for Enhancing Low Bitrate Streams in Real Time, [[Paper]](https://arxiv.org/pdf/2211.12604.pdf)
 - (arXiv 2022.11) PatchBlender: A Motion Prior for Video Transformers, [[Paper]](https://arxiv.org/pdf/2211.14449.pdf)
+- (arXiv 2022.12) Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning, [[Paper]](https://arxiv.org/pdf/2212.03229.pdf)
+- (arXiv 2022.12) FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer, [[Paper]](https://arxiv.org/pdf/2212.03145.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -2434,6 +2440,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing, [[Paper]](https://arxiv.org/pdf/2211.16499.pdf), [[Code]](https://counterfactualsimulation.github.io/)
 - (arXiv 2022.11) ShaDocNet: Learning Spatial-Aware Tokens in Transformer for Document Shadow Removal, [[Paper]](https://arxiv.org/pdf/2211.16675.pdf)
 - (arXiv 2022.12) Solving the Weather4cast Challenge via Visual Transformers for 3D Images, [[Paper]](https://arxiv.org/pdf/2212.02456.pdf)
+- (arXiv 2022.12) Enabling and Accelerating Dynamic Vision Transformer Inference for Real-Time Applications, [[Paper]](https://arxiv.org/pdf/2212.02687.pdf)
 
 ## Contact & Feedback
 
