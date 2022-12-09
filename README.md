@@ -542,6 +542,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Pattern Attention Transformer with Doughnut Kernel, [[Paper]](https://arxiv.org/pdf/2211.16961.pdf)
 - (arXiv 2022.11) ResFormer: Scaling ViTs with Multi-Resolution Training, [[Paper]](https://arxiv.org/pdf/2212.00776.pdf)
 - (arXiv 2022.12) Teaching Matters: Investigating the Role of Supervision in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.03862.pdf), [[Code]](https://github.com/mwalmer-umd/vit_analysis)
+- (arXiv 2022.12) Group Generalized Mean Pooling for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2212.04114.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1425,6 +1426,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) TransCC: Transformer-based Multiple Illuminant Color Constancy Using Multitask Learning, [[Paper]](https://arxiv.org/pdf/2211.08772.pdf)
 - (arXiv 2022.11) Unifying Vision-Language Representation Space with Single-tower Transformer, [[Paper]](https://arxiv.org/pdf/2211.11153.pdf)
 - (arXiv 2022.11) Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion, [[Paper]](https://arxiv.org/pdf/2205.02357.pdf), [[Code]](https://github.com/zjunlp/MKGformer)
+- (arXiv 2022.12) Multimodal Vision Transformers with Forced Attention for Behavior Analysis, [[Paper]](https://arxiv.org/pdf/2212.03968.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1666,6 +1668,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Video based Object 6D Pose Estimation using Transformers, [[Paper]](https://arxiv.org/pdf/2210.13540.pdf), [[Code]](https://github.com/ApoorvaBeedu/VideoPose)
 - (arXiv 2022.11) PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2211.14125.pdf), [[Code]](https://github.com/aau-cns/poet)
 - (arXiv 2022.11) MPT: Mesh Pre-Training with Transformers for Human Pose and Mesh Reconstruction, [[Paper]](https://arxiv.org/pdf/2211.13357.pdf)
+- (arXiv 2022.12) ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation, [[Paper]](https://arxiv.org/pdf/2212.04246.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTPose)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
