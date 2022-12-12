@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/09
+**Last updated: 2022/12/12
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -1427,6 +1427,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Unifying Vision-Language Representation Space with Single-tower Transformer, [[Paper]](https://arxiv.org/pdf/2211.11153.pdf)
 - (arXiv 2022.11) Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion, [[Paper]](https://arxiv.org/pdf/2205.02357.pdf), [[Code]](https://github.com/zjunlp/MKGformer)
 - (arXiv 2022.12) Multimodal Vision Transformers with Forced Attention for Behavior Analysis, [[Paper]](https://arxiv.org/pdf/2212.03968.pdf)
+- (arXiv 2022.12) Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers, [[Paper]](https://arxiv.org/pdf/2212.04970.pdf), [[Code]](https://hangz-nju-cuhk.github.io/projects/AV-CAT)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2221,6 +2222,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) PatchBlender: A Motion Prior for Video Transformers, [[Paper]](https://arxiv.org/pdf/2211.14449.pdf)
 - (arXiv 2022.12) Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning, [[Paper]](https://arxiv.org/pdf/2212.03229.pdf)
 - (arXiv 2022.12) FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer, [[Paper]](https://arxiv.org/pdf/2212.03145.pdf)
+- (arXiv 2022.12) PromptonomyViT: Multi-Task Prompt Learning Improves Video Transformers using Synthetic Scene Data, [[Paper]](https://arxiv.org/pdf/2212.04821.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -2447,6 +2449,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Solving the Weather4cast Challenge via Visual Transformers for 3D Images, [[Paper]](https://arxiv.org/pdf/2212.02456.pdf)
 - (arXiv 2022.12) Enabling and Accelerating Dynamic Vision Transformer Inference for Real-Time Applications, [[Paper]](https://arxiv.org/pdf/2212.02687.pdf)
 - (arXiv 2022.12) Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer, [[Paper]](https://arxiv.org/pdf/2212.03434.pdf)
+- (arXiv 2022.12) RCDT: Relational Remote Sensing Change Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2212.04869.pdf)
 
 ## Contact & Feedback
 
