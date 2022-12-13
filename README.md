@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/12
+**Last updated: 2022/12/13
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -619,6 +619,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Hybrid Transformer Based Feature Fusion for Self-Supervised Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2211.11066.pdf)
 - (arXiv 2022.11) Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2211.13202.pdf), [[Code]](https://github.com/noahzn/lite-mono)
 - (arXiv 2022.12) Event-based Monocular Dense Depth Estimation with Recurrent Transformers, [[Paper]](https://arxiv.org/pdf/2212.02791.pdf)
+- (arXiv 2022.12) ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2212.05729.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -755,6 +756,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) DQ-DETR: Dual Query Detection Transformer for Phrase Extraction and Grounding, [[Paper]](https://arxiv.org/pdf/2211.15516.pdf),[[Code]](https://github.com/IDEA-Research/DQ-DETR)
 - (arXiv 2022.11) How to Backpropagate through Hungarian in Your DETR, [[Paper]](https://arxiv.org/pdf/2211.14448.pdf)
 - (arXiv 2022.11) Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer, [[Paper]](https://arxiv.org/pdf/2212.00313.pdf)
+- (arXiv 2022.12) Recurrent Vision Transformers for Object Detection with Event Cameras, [[Paper]](https://arxiv.org/pdf/2212.05598.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -826,6 +828,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2210.12752.pdf)
 - (arXiv 2022.11) AU-Aware Vision Transformers for Biased Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2211.06609.pdf)
 - (arXiv 2022.11) Part-based Face Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.00057.pdf)
+- (arXiv 2022.12) Vision Transformer with Attentive Pooling for Robust Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2212.05463.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1261,6 +1264,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images, [[Paper]](https://arxiv.org/pdf/2211.14552.pdf), [[Code]](https://github.com/FDU-VTS/DRTiD)
 - (arXiv 2022.11) Hierarchical Transformer for Survival Prediction Using Multimodality Whole Slide Images and Genomics, [[Paper]](https://arxiv.org/pdf/2211.16632.pdf)
 - (arXiv 2022.12) SLMT-Net: A Self-supervised Learning based Multi-scale Transformer Network for Cross-Modality MR Image Synthesis, [[Paper]](https://arxiv.org/pdf/2212.01108.pdf), [[Code]](https://github.com/lyhkevin/SLMT-Net)
+- (arXiv 2022.12) CTT-Net: A Multi-view Cross-token Transformer for Cataract Postoperative Visual Acuity Prediction, [[Paper]](https://arxiv.org/pdf/2212.05794.pdf), [[Code]](https://github.com/wjh892521292/Cataract_OCT)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1428,6 +1432,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion, [[Paper]](https://arxiv.org/pdf/2205.02357.pdf), [[Code]](https://github.com/zjunlp/MKGformer)
 - (arXiv 2022.12) Multimodal Vision Transformers with Forced Attention for Behavior Analysis, [[Paper]](https://arxiv.org/pdf/2212.03968.pdf)
 - (arXiv 2022.12) Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers, [[Paper]](https://arxiv.org/pdf/2212.04970.pdf), [[Code]](https://hangz-nju-cuhk.github.io/projects/AV-CAT)
+- (arXiv 2022.12) Hierarchical multimodal transformers for Multi-Page DocVQA, [[Paper]](https://arxiv.org/pdf/2212.05935.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2223,6 +2228,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Rethinking Video ViTs: Sparse Video Tubes for Joint Image and Video Learning, [[Paper]](https://arxiv.org/pdf/2212.03229.pdf)
 - (arXiv 2022.12) FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer, [[Paper]](https://arxiv.org/pdf/2212.03145.pdf)
 - (arXiv 2022.12) PromptonomyViT: Multi-Task Prompt Learning Improves Video Transformers using Synthetic Scene Data, [[Paper]](https://arxiv.org/pdf/2212.04821.pdf)
+- (arXiv 2022.12) Video Prediction by Efficient Transformers, [[Paper]](https://arxiv.org/pdf/2212.06026.pdf), [[Code]](https://github.com/XiYe20/VPTR)
+- (arXiv 2022.12) https://arxiv.org/abs/2212.05199, [[Paper]](https://arxiv.org/pdf/2212.06026.pdf), [[Code]](https://magvit.cs.cmu.edu/)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
