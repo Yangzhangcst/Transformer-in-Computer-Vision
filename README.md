@@ -2234,7 +2234,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer, [[Paper]](https://arxiv.org/pdf/2212.03145.pdf)
 - (arXiv 2022.12) PromptonomyViT: Multi-Task Prompt Learning Improves Video Transformers using Synthetic Scene Data, [[Paper]](https://arxiv.org/pdf/2212.04821.pdf)
 - (arXiv 2022.12) Video Prediction by Efficient Transformers, [[Paper]](https://arxiv.org/pdf/2212.06026.pdf), [[Code]](https://github.com/XiYe20/VPTR)
-- (arXiv 2022.12) https://arxiv.org/abs/2212.05199, [[Paper]](https://arxiv.org/pdf/2212.06026.pdf), [[Code]](https://magvit.cs.cmu.edu/)
+- (arXiv 2022.12) MAGVIT: Masked Generative Video Transformer, [[Paper]](https://arxiv.org/pdf/2212.06026.pdf), [[Code]](https://magvit.cs.cmu.edu/)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
