@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/13
+**Last updated: 2022/12/14
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -543,6 +543,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) ResFormer: Scaling ViTs with Multi-Resolution Training, [[Paper]](https://arxiv.org/pdf/2212.00776.pdf)
 - (arXiv 2022.12) Teaching Matters: Investigating the Role of Supervision in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.03862.pdf), [[Code]](https://github.com/mwalmer-umd/vit_analysis)
 - (arXiv 2022.12) Group Generalized Mean Pooling for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2212.04114.pdf)
+- (arXiv 2022.12) OAMixer: Object-aware Mixing Layer for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.06595.pdf), [[Code]](https://github.com/alinlab/OAMixer)
+- (arXiv 2022.12) What do Vision Transformers Learn? A Visual Exploration, [[Paper]](https://arxiv.org/pdf/2212.06727.pdf)
+- (arXiv 2022.12) GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation, [[Paper]](https://arxiv.org/pdf/2212.06795.pdf), [[Code]](https://github.com/ChenhongyiYang/GPViT)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -757,6 +760,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) How to Backpropagate through Hungarian in Your DETR, [[Paper]](https://arxiv.org/pdf/2211.14448.pdf)
 - (arXiv 2022.11) Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer, [[Paper]](https://arxiv.org/pdf/2212.00313.pdf)
 - (arXiv 2022.12) Recurrent Vision Transformers for Object Detection with Event Cameras, [[Paper]](https://arxiv.org/pdf/2212.05598.pdf)
+- (arXiv 2022.12) CNN-transformer mixed model for object detection, [[Paper]](https://arxiv.org/pdf/2212.06714.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1798,6 +1802,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) 3D Part Assembly Generation with Instance Encoded Transformer, [[Paper]](https://arxiv.org/pdf/2207.01779.pdf)
 - (arXiv 2022.09) Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2209.05451.pdf), [[Project]](https://peract.github.io/)
 - (arXiv 2022.09) PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training, [[Paper]](https://arxiv.org/pdf/2209.11133.pdf)
+- (arXiv 2022.12) RT-1: Robotics Transformer for Real-World Control at Scale, [[Paper]](https://arxiv.org/pdf/2212.06817.pdf), [[Project]](http://robotics-transformer.github.io/)
 
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
