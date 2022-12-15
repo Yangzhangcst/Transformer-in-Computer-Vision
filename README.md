@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/14
+**Last updated: 2022/12/15
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -1949,6 +1949,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) SASFormer: Transformers for Sparsely Annotated Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.02019.pdf), [[Code]](https://github.com/su-hui-zz/SASFormer)
 - (arXiv 2022.12) IncepFormer: Efficient Inception Transformer with Pyramid Pooling for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.03035.pdf), [[Code]](https://github.com/shendu0321/IncepFormer)
 - (arXiv 2022.12) Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data, [[Paper]](https://arxiv.org/pdf/2212.03690.pdf)
+- (arXiv 2022.12) One-Shot Domain Adaptive and Generalizable Semantic Segmentation with Class-Aware Cross-Domain Transformers, [[Paper]](https://arxiv.org/pdf/2212.07292.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2462,6 +2463,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Enabling and Accelerating Dynamic Vision Transformer Inference for Real-Time Applications, [[Paper]](https://arxiv.org/pdf/2212.02687.pdf)
 - (arXiv 2022.12) Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer, [[Paper]](https://arxiv.org/pdf/2212.03434.pdf)
 - (arXiv 2022.12) RCDT: Relational Remote Sensing Change Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2212.04869.pdf)
+- (arXiv 2022.12) Examining the Difference Among Transformers and CNNs with Explanation Methods, [[Paper]](https://arxiv.org/pdf/2212.06872.pdf)
 
 ## Contact & Feedback
 
