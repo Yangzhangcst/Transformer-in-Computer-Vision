@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/16
+**Last updated: 2022/12/19
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -548,6 +548,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation, [[Paper]](https://arxiv.org/pdf/2212.06795.pdf), [[Code]](https://github.com/ChenhongyiYang/GPViT)
 - (arXiv 2022.12) FlexiViT: One Model for All Patch Sizes, [[Paper]](https://arxiv.org/pdf/2212.08013.pdf), [[Code]](https://github.com/google-research/big_vision)
 - (arXiv 2022.12) Rethinking Vision Transformers for MobileNet Size and Speed, [[Paper]](https://arxiv.org/pdf/2212.08059.pdf), [[Code]](https://github.com/snap-research/EfficientFormer)
+- (arXiv 2022.12) Rethinking Cooking State Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.08586.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -783,6 +784,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Reinforced Swin-Convs Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2205.00434.pdf)
 - (arXiv 2022.07) Structural Prior Guided Generative Adversarial Transformers for Low-Light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2207.07828.pdf)
 - (arXiv 2022.10) End-to-end Transformer for Compressed Video Quality Enhancement, [[Paper]](https://arxiv.org/pdf/2210.13827.pdf)
+- (arXiv 2022.12) WavEnhancer: Unifying Wavelet and Transformer for Image Enhancement, [[Paper]](https://arxiv.org/pdf/2212.08327.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -990,6 +992,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling, [[Paper]](https://arxiv.org/pdf/2211.08071.pdf)
 - (arXiv 2022.11) D3ETR: Decoder Distillation for Detection Transformer, [[Paper]](https://arxiv.org/pdf/2211.09768.pdf)
 - (arXiv 2022.11) DETRDistill: A Universal Knowledge Distillation Framework for DETR-families, [[Paper]](https://arxiv.org/pdf/2211.10156.pdf)
+- (arXiv 2022.12) Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning, [[Paper]](https://arxiv.org/pdf/2212.08320.pdf), [[Code]](https://github.com/RunpeiDong/ACT)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -1706,6 +1709,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) CPT-V: A Contrastive Approach to Post-Training Quantization of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.09643.pdf)
 - (arXiv 2022.11) NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.16056.pdf)
 - (arXiv 2022.12) Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis, [[Paper]](https://arxiv.org/pdf/2212.03185.pdf), [[Code]](https://github.com/TencentARC/BasicVQ-GEN)
+- (arXiv 2022.12) RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.08254.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
