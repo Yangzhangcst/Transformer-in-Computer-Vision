@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/19
+**Last updated: 2022/12/20
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -638,6 +638,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Deepfake Video Detection with Spatiotemporal Dropout Transformer, [[Paper]](https://arxiv.org/pdf/2207.06612.pdf)
 - (arXiv 2022.07) Hybrid Transformer Network for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2208.05820.pdf)
 - (arXiv 2022.09) Deep Convolutional Pooling Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2208.05820.pdf)
+
+### Diffusion
+- (arXiv 2022.12) Scalable Diffusion Models with Transformers, [[Paper]](https://arxiv.org/pdf/2212.09748.pdf), [[Code]](https://www.wpeebles.com/DiT)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -1849,6 +1852,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Object Scene Representation Transformer, [[Paper]](https://arxiv.org/pdf/2206.06922.pdf), [[Project]](https://osrt-paper.github.io/)
 - (arXiv 2022.11) SG-Shuffle: Multi-aspect Shuffle Transformer for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2211.04773.pdf)
 - (arXiv 2022.11) Iterative Scene Graph Generation with Generative Transformers, [[Paper]](https://arxiv.org/pdf/2211.16636.pdf)
+- (arXiv 2022.12) SrTR: Self-reasoning Transformer with Visual-linguistic Knowledge for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2212.09329.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -1960,6 +1964,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data, [[Paper]](https://arxiv.org/pdf/2212.03690.pdf)
 - (arXiv 2022.12) One-Shot Domain Adaptive and Generalizable Semantic Segmentation with Class-Aware Cross-Domain Transformers, [[Paper]](https://arxiv.org/pdf/2212.07292.pdf)
 - (arXiv 2022.12) Full Contextual Attention for Multi-resolution Transformers in Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.07890.pdf)
+- (arXiv 2022.12) CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.09506.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2273,6 +2278,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Video Graph Transformer for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2207.05342.pdf), [[Code]](https://github.com/sail-sg/VGT)
 - (arXiv 2022.10) Multi-Modal Fusion Transformer for Visual Question Answering in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2210.04510.pdf)
 - (arXiv 2022.10) SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models, [[Paper]](https://arxiv.org/pdf/2210.05950.pdf), [[Project]](https://slotformer.github.io/)
+- (arXiv 2022.12) MIST: Multi-modal Iterative Spatial-Temporal Transformer for Long-form Video Question Answering, [[Paper]](https://arxiv.org/pdf/2212.09522.pdf), [[Project]](https://github.com/showlab/mist)
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
