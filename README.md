@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/20
+**Last updated: 2022/12/21
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -1011,6 +1011,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) LGT-Net: Indoor Panoramic Room Layout Estimation with Geometry-Aware Transformer Network, [[Paper]](https://arxiv.org/abs/2203.01824), [[Code]](https://github.com/zhigangjiang/LGT-Net)
 - (arXiv 2022.08) UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation, [[Paper]](https://arxiv.org/pdf/2208.08037.pdf)
 - (arXiv 2022.09) Geometry Aligned Variational Transformer for Image-conditioned Layout Generation, [[Paper]](https://arxiv.org/pdf/2209.00852.pdf)
+- (arXiv 2022.12) LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer, [[Paper]](https://arxiv.org/pdf/2212.09877.pdf), [[Code]](https://github.com/salesforce/LayoutDETR)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -1279,6 +1280,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) SLMT-Net: A Self-supervised Learning based Multi-scale Transformer Network for Cross-Modality MR Image Synthesis, [[Paper]](https://arxiv.org/pdf/2212.01108.pdf), [[Code]](https://github.com/lyhkevin/SLMT-Net)
 - (arXiv 2022.12) CTT-Net: A Multi-view Cross-token Transformer for Cataract Postoperative Visual Acuity Prediction, [[Paper]](https://arxiv.org/pdf/2212.05794.pdf), [[Code]](https://github.com/wjh892521292/Cataract_OCT)
 - (arXiv 2022.12) Two-stage Contextual Transformer-based Convolutional Neural Network for Airway Extraction from CT Images, [[Paper]](https://arxiv.org/pdf/2212.07651.pdf), [[Code]](https://github.com/zhaozsq/airway_segmentation)
+- (arXiv 2022.12) Visual Transformers for Primates Classification and Covid Detection, [[Paper]](https://arxiv.org/pdf/2212.10093.pdf)
+- (arXiv 2022.12) Conditioned Generative Transformers for Histopathology Image Synthetic Augmentation, [[Paper]](https://arxiv.org/pdf/2212.09977.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
