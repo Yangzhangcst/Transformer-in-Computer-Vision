@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/21
+**Last updated: 2022/12/22
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -549,6 +549,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) FlexiViT: One Model for All Patch Sizes, [[Paper]](https://arxiv.org/pdf/2212.08013.pdf), [[Code]](https://github.com/google-research/big_vision)
 - (arXiv 2022.12) Rethinking Vision Transformers for MobileNet Size and Speed, [[Paper]](https://arxiv.org/pdf/2212.08059.pdf), [[Code]](https://github.com/snap-research/EfficientFormer)
 - (arXiv 2022.12) Rethinking Cooking State Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.08586.pdf)
+- (arXiv 2022.12) What Makes for Good Tokenizers in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2212.11115.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
