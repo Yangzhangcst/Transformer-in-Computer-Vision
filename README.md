@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/22
+**Last updated: 2022/12/23
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -789,6 +789,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Structural Prior Guided Generative Adversarial Transformers for Low-Light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2207.07828.pdf)
 - (arXiv 2022.10) End-to-end Transformer for Compressed Video Quality Enhancement, [[Paper]](https://arxiv.org/pdf/2210.13827.pdf)
 - (arXiv 2022.12) WavEnhancer: Unifying Wavelet and Transformer for Image Enhancement, [[Paper]](https://arxiv.org/pdf/2212.08327.pdf)
+- (arXiv 2022.12) Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method, [[Paper]](https://arxiv.org/pdf/2212.11548.pdf), [[Code]](https://github.com/TaoWangzj/LLFormer)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -1283,6 +1284,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Two-stage Contextual Transformer-based Convolutional Neural Network for Airway Extraction from CT Images, [[Paper]](https://arxiv.org/pdf/2212.07651.pdf), [[Code]](https://github.com/zhaozsq/airway_segmentation)
 - (arXiv 2022.12) Visual Transformers for Primates Classification and Covid Detection, [[Paper]](https://arxiv.org/pdf/2212.10093.pdf)
 - (arXiv 2022.12) Conditioned Generative Transformers for Histopathology Image Synthetic Augmentation, [[Paper]](https://arxiv.org/pdf/2212.09977.pdf)
+- (arXiv 2022.12) DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2212.11677.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
