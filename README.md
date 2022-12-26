@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/23
+**Last updated: 2022/12/26
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -1014,6 +1014,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation, [[Paper]](https://arxiv.org/pdf/2208.08037.pdf)
 - (arXiv 2022.09) Geometry Aligned Variational Transformer for Image-conditioned Layout Generation, [[Paper]](https://arxiv.org/pdf/2209.00852.pdf)
 - (arXiv 2022.12) LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer, [[Paper]](https://arxiv.org/pdf/2212.09877.pdf), [[Code]](https://github.com/salesforce/LayoutDETR)
+- (arXiv 2022.12) PanoViT: Vision Transformer for Room Layout Estimation from a Single Panoramic Image, [[Paper]](https://arxiv.org/pdf/2212.12156.pdf)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
