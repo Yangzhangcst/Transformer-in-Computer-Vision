@@ -1457,6 +1457,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers, [[Paper]](https://arxiv.org/pdf/2212.04970.pdf), [[Code]](https://hangz-nju-cuhk.github.io/projects/AV-CAT)
 - (arXiv 2022.12) Hierarchical multimodal transformers for Multi-Page DocVQA, [[Paper]](https://arxiv.org/pdf/2212.05935.pdf)
 - (arXiv 2022.12) Vision Transformers are Parameter-Efficient Audio-Visual Learners, [[Paper]](https://arxiv.org/pdf/2212.07983.pdf), [[Code]](https://genjib.github.io/project_page/LAVISH/)
+- (arXiv 2022.12) Neural Shape Compiler: A Unified Framework for Transforming between Text, Point Cloud, and Program, [[Paper]](https://arxiv.org/pdf/2212.12952.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
