@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/26
+**Last updated: 2022/12/27
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -164,6 +164,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Augmentation 
 - (arXiv 2022.10) TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers, [[Paper]](https://arxiv.org/pdf/2210.07562.pdf), [[Code]](https://github.com/mlvlab/TokenMixup)
+- (arXiv 2022.12) SMMix: Self-Motivated Image Mixing for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.12977.pdf), [[Code]](https://github.com/ChenMnZ/SMMix)
 
 ### Bird's-Eye-View
 - (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
@@ -1286,6 +1287,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Visual Transformers for Primates Classification and Covid Detection, [[Paper]](https://arxiv.org/pdf/2212.10093.pdf)
 - (arXiv 2022.12) Conditioned Generative Transformers for Histopathology Image Synthetic Augmentation, [[Paper]](https://arxiv.org/pdf/2212.09977.pdf)
 - (arXiv 2022.12) DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2212.11677.pdf)
+- (arXiv 2022.12) Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images, [[Paper]](https://arxiv.org/pdf/2212.13068.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
