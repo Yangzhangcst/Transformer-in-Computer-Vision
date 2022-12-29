@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/27
+**Last updated: 2022/12/29
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -1288,6 +1288,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Conditioned Generative Transformers for Histopathology Image Synthetic Augmentation, [[Paper]](https://arxiv.org/pdf/2212.09977.pdf)
 - (arXiv 2022.12) DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2212.11677.pdf)
 - (arXiv 2022.12) Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images, [[Paper]](https://arxiv.org/pdf/2212.13068.pdf)
+- (arXiv 2022.12) DAE-Former: Dual Attention-guided Efficient Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2212.13504.pdf), [[Code]](https://github.com/mindflow-institue/DAEFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1741,6 +1742,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) TSRFormer: Table Structure Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2208.04921.pdf)
 - (arXiv 2022.08) GSRFormer: Grounded Situation Recognition Transformer with Alternate Semantic Attention Refinement, [[Paper]](https://arxiv.org/pdf/2208.08965.pdf), [[Code]](https://github.com/zhiqic/GSRFormer)
 - (arXiv 2022.09) SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data, [[Paper]](https://arxiv.org/pdf/2209.07951.pdf), [[Code]](https://github.com/BIT-MJY/SeqOT)
+- (arXiv 2022.12) Part-guided Relational Transformers for Fine-grained Visual Recognition, [[Paper]](https://arxiv.org/pdf/2212.13685.pdf), [[Code]](https://github.com/iCVTEAM/PART)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -1975,6 +1977,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) One-Shot Domain Adaptive and Generalizable Semantic Segmentation with Class-Aware Cross-Domain Transformers, [[Paper]](https://arxiv.org/pdf/2212.07292.pdf)
 - (arXiv 2022.12) Full Contextual Attention for Multi-resolution Transformers in Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.07890.pdf)
 - (arXiv 2022.12) CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.09506.pdf)
+- (arXiv 2022.12) Representation Separation for Semantic Segmentation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.13764.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2045,6 +2048,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers, [[Paper]](https://arxiv.org/pdf/2205.15868.pdf),[[Code]](https://github.com/THUDM/CogVideo)
 - (arXiv 2022.09) StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation, [[Paper]](https://arxiv.org/pdf/2209.06192.pdf),[[Code]](https://github.com/adymaharana/storydalle)
 - (arXiv 2022.10) Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2210.09549.pdf)
+- (arXiv 2022.12) Exploring Vision Transformers as Diffusion Learners, [[Paper]](https://arxiv.org/pdf/2212.13771.pdf)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
