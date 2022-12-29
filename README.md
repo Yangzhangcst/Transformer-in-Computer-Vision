@@ -912,6 +912,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
 - (arXiv 2022.11) Rethinking Batch Sample Relationships for Data Representation: A Batch-Graph Transformer based Approach, [[Paper]](https://arxiv.org/pdf/2211.10622.pdf)
+- (arXiv 2022.12) A Generalization of ViT/MLP-Mixer to Graphs, [[Paper]](https://arxiv.org/pdf/2212.13350.pdf), [[Code]](https://github.com/XiaoxinHe/Graph-MLPMixer)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -999,6 +1000,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) D3ETR: Decoder Distillation for Detection Transformer, [[Paper]](https://arxiv.org/pdf/2211.09768.pdf)
 - (arXiv 2022.11) DETRDistill: A Universal Knowledge Distillation Framework for DETR-families, [[Paper]](https://arxiv.org/pdf/2211.10156.pdf)
 - (arXiv 2022.12) Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning, [[Paper]](https://arxiv.org/pdf/2212.08320.pdf), [[Code]](https://github.com/RunpeiDong/ACT)
+- (arXiv 2022.12) OVO: One-shot Vision Transformer Search with Online distillation, [[Paper]](https://arxiv.org/pdf/2212.13766.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
