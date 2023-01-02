@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2022/12/29
+**Last updated: 2023/01/02
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -551,6 +551,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Rethinking Vision Transformers for MobileNet Size and Speed, [[Paper]](https://arxiv.org/pdf/2212.08059.pdf), [[Code]](https://github.com/snap-research/EfficientFormer)
 - (arXiv 2022.12) Rethinking Cooking State Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.08586.pdf)
 - (arXiv 2022.12) What Makes for Good Tokenizers in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2212.11115.pdf)
+- (arXiv 2022.12) Local Learning on Transformers via Feature Reconstruction, [[Paper]](https://arxiv.org/pdf/2212.14215.pdf)
+- (arXiv 2022.12) Exploring Transformer Backbones for Image Diffusion Models, [[Paper]](https://arxiv.org/pdf/2212.14678.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -770,6 +772,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Recurrent Vision Transformers for Object Detection with Event Cameras, [[Paper]](https://arxiv.org/pdf/2212.05598.pdf)
 - (arXiv 2022.12) CNN-transformer mixed model for object detection, [[Paper]](https://arxiv.org/pdf/2212.06714.pdf)
 - (arXiv 2022.12) DETR4D: Direct Multi-View 3D Object Detection with Sparse Attention, [[Paper]](https://arxiv.org/pdf/2212.07849.pdf)
+- (arXiv 2022.12) GPTR: Gestalt-Perception Transformer for Diagram Object Detection, [[Paper]](https://arxiv.org/pdf/2212.14232.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1980,6 +1983,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Full Contextual Attention for Multi-resolution Transformers in Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.07890.pdf)
 - (arXiv 2022.12) CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2212.09506.pdf)
 - (arXiv 2022.12) Representation Separation for Semantic Segmentation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.13764.pdf)
+- (arXiv 2022.12) AttEntropy: Segmenting Unknown Objects in Complex Scenes using the Spatial Attention Entropy of Semantic Segmentation Transformers, [[Paper]](https://arxiv.org/pdf/2212.14397.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2029,6 +2033,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) ITSRN++: Stronger and Better Implicit Transformer Network for Continuous Screen Content Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2210.08812.pdf)
 - (arXiv 2022.10) Single Image Super-Resolution Using Lightweight Networks Based on Swin Transformer,  [[Paper]](https://arxiv.org/pdf/2210.11019.pdf)
 - (arXiv 2022.11) N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2211.11436.pdf)
+- (arXiv 2022.12) Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2212.14046.pdf), [[Code]](https://github.com/researchmm/FTVSR)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -2267,6 +2272,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) PromptonomyViT: Multi-Task Prompt Learning Improves Video Transformers using Synthetic Scene Data, [[Paper]](https://arxiv.org/pdf/2212.04821.pdf)
 - (arXiv 2022.12) Video Prediction by Efficient Transformers, [[Paper]](https://arxiv.org/pdf/2212.06026.pdf), [[Code]](https://github.com/XiYe20/VPTR)
 - (arXiv 2022.12) MAGVIT: Masked Generative Video Transformer, [[Paper]](https://arxiv.org/pdf/2212.06026.pdf), [[Code]](https://magvit.cs.cmu.edu/)
+- (arXiv 2022.12) Efficient Movie Scene Detection using State-Space Transformers, [[Paper]](https://arxiv.org/pdf/2212.14427.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
