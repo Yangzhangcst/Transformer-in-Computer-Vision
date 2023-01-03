@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/02
+**Last updated: 2023/01/03
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -1794,6 +1794,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Sequential Transformer for End-to-End Person Search, [[Paper]](https://arxiv.org/pdf/2211.04323.pdf)
 - (arXiv 2022.11) Transformer Based Multi-Grained Features for Unsupervised Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2211.04323.pdf), [[Code]](https://github.com/RikoLi/WACV23-workshop-TMGF)
 - (arXiv 2022.11) Learning Progressive Modality-shared Transformers for Effective Visible-Infrared Person Re-identification, [[Paper]](https://arxiv.org/pdf/2212.00226.pdf), [[Code]](https://github.com/hulu88/PMT)
+- (arXiv 2023.01) Multi-Stage Spatio-Temporal Aggregation Transformer for Video Person Re-identification, [[Paper]](https://arxiv.org/pdf/2301.00531.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -2001,6 +2002,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Fine-Grained Image Style Transfer with Visual Transformers,  [[Paper]](https://arxiv.org/abs/2210.05176), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
 - (arXiv 2022.10) S2WAT: Image Style Transfer via Hierarchical Vision Transformer using Strips Window Attention,  [[Paper]](https://arxiv.org/abs/2210.12381), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
 - (arXiv 2022.11) Learning Visual Representation of Underwater Acoustic Imagery Using Transformer-Based Style Transfer Method,  [[Paper]](https://arxiv.org/abs/2211.05396)
+- (arXiv 2023.01) Edge Enhanced Image Style Transfer via Transformers,  [[Paper]](https://arxiv.org/abs/2301.00592)
 
 ### Super-Resolution
 - (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
@@ -2056,6 +2058,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation, [[Paper]](https://arxiv.org/pdf/2209.06192.pdf),[[Code]](https://github.com/adymaharana/storydalle)
 - (arXiv 2022.10) Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2210.09549.pdf)
 - (arXiv 2022.12) Exploring Vision Transformers as Diffusion Learners, [[Paper]](https://arxiv.org/pdf/2212.13771.pdf)
+- (arXiv 2023.01) Muse: Text-To-Image Generation via Masked Generative Transformers, [[Paper]](https://arxiv.org/pdf/2301.00704.pdf),[[Code]](http://muse-model.github.io/)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
