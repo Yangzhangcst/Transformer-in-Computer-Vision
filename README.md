@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/03
+**Last updated: 2023/01/04
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -553,6 +553,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) What Makes for Good Tokenizers in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2212.11115.pdf)
 - (arXiv 2022.12) Local Learning on Transformers via Feature Reconstruction, [[Paper]](https://arxiv.org/pdf/2212.14215.pdf)
 - (arXiv 2022.12) Exploring Transformer Backbones for Image Diffusion Models, [[Paper]](https://arxiv.org/pdf/2212.14678.pdf)
+- (arXiv 2023.01) TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2301.01296.pdf), [[Code]](https://github.com/OliverRensu/TinyMIM)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -873,6 +874,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Feature-Proxy Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2210.06908.pdf)
 - (arXiv 2022.11) tSF: Transformer-based Semantic Filter for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2211.00868.pdf)
 - (arXiv 2022.11) Enhancing Few-shot Image Classification with Cosine Transformer, [[Paper]](https://arxiv.org/pdf/2211.06828.pdf), [[Code]](https://github.com/vinuni-vishc/Few-Shot-Cosine-Transformer)
+- (arXiv 2023.01) Mask Matching Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2301.01208.pdf), [[Code]](https://github.com/Picsart-AI-Research/Mask-Matching-Transformer)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -1294,6 +1296,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) DuAT: Dual-Aggregation Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2212.11677.pdf)
 - (arXiv 2022.12) Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images, [[Paper]](https://arxiv.org/pdf/2212.13068.pdf)
 - (arXiv 2022.12) DAE-Former: Dual Attention-guided Efficient Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2212.13504.pdf), [[Code]](https://github.com/mindflow-institue/DAEFormer)
+- (arXiv 2023.01) A New Perspective to Boost Vision Transformer for Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2301.00989.pdf)
+- (arXiv 2023.01) Detecting Severity of Diabetic Retinopathy from Fundus Images using Ensembled Transformers, [[Paper]](https://arxiv.org/pdf/2301.00973.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1464,6 +1468,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Hierarchical multimodal transformers for Multi-Page DocVQA, [[Paper]](https://arxiv.org/pdf/2212.05935.pdf)
 - (arXiv 2022.12) Vision Transformers are Parameter-Efficient Audio-Visual Learners, [[Paper]](https://arxiv.org/pdf/2212.07983.pdf), [[Code]](https://genjib.github.io/project_page/LAVISH/)
 - (arXiv 2022.12) Neural Shape Compiler: A Unified Framework for Transforming between Text, Point Cloud, and Program, [[Paper]](https://arxiv.org/pdf/2212.12952.pdf)
+- (arXiv 2023.01) Cross Modal Transformer via Coordinates Encoding for 3D Object Dectection, [[Paper]](https://arxiv.org/pdf/2301.01283.pdf), [[Code]](https://github.com/junjie18/CMT)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
