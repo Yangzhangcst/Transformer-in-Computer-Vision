@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/05
+**Last updated: 2023/01/06
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -555,6 +555,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Exploring Transformer Backbones for Image Diffusion Models, [[Paper]](https://arxiv.org/pdf/2212.14678.pdf)
 - (arXiv 2023.01) TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2301.01296.pdf), [[Code]](https://github.com/OliverRensu/TinyMIM)
 - (arXiv 2023.01) Semi-MAE: Masked Autoencoders for Semi-supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.01431.pdf)
+- (arXiv 2023.01) Skip-Attention: Improving Vision Transformers by Paying Less Attention, [[Paper]](https://arxiv.org/pdf/2301.02240.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1299,6 +1300,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) DAE-Former: Dual Attention-guided Efficient Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2212.13504.pdf), [[Code]](https://github.com/mindflow-institue/DAEFormer)
 - (arXiv 2023.01) A New Perspective to Boost Vision Transformer for Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2301.00989.pdf)
 - (arXiv 2023.01) Detecting Severity of Diabetic Retinopathy from Fundus Images using Ensembled Transformers, [[Paper]](https://arxiv.org/pdf/2301.00973.pdf)
+- (arXiv 2023.01) MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling, [[Paper]](https://arxiv.org/pdf/2301.02064.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1565,6 +1567,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Transformer-Based Speech Synthesizer Attribution in an Open Set Scenario, [[Paper]](https://arxiv.org/pdf/2209.04372.pdf)
 - (arXiv 2022.12) PROB: Probabilistic Objectness for Open World Object Detection, [[Paper]](https://arxiv.org/pdf/2212.01424.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
 - (arXiv 2022.12) Open World DETR: Transformer based Open World Object Detection, [[Paper]](https://arxiv.org/pdf/2212.02969.pdf)
+- (arXiv 2023.01) CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection, [[Paper]](https://arxiv.org/pdf/2301.01970.pdf), [[Code]](https://github.com/xiaomabufei/CAT)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
