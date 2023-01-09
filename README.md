@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/06
+**Last updated: 2023/01/09
 
 ## Survey: 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -208,6 +208,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) VieCap4H - VLSP 2021: ObjectAoA -- Enhancing performance of Object Relation Transformer with Attention on Attention for Vietnamese image captioning, [[Paper]](https://arxiv.org/pdf/2211.05405.pdf)
 - (arXiv 2022.11) VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning, [[Paper]](https://arxiv.org/pdf/2211.15103.pdf), [[Code]](https://github.com/UARK-AICV/VLTinT)
 - (arXiv 2022.11) GRiT: A Generative Region-to-text Transformer for Object Understanding, [[Paper]](https://arxiv.org/pdf/2212.00280.pdf), [[Code]](https://github.com/JialianW/GRiT)
+- (arXiv 2023.01) End-to-End 3D Dense Captioning with Vote2Cap-DETR, [[Paper]](https://arxiv.org/pdf/2301.02508.pdf), [[Code]](https://github.com/ch3cook-fdu/Vote2Cap-DETR)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -877,6 +878,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) tSF: Transformer-based Semantic Filter for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2211.00868.pdf)
 - (arXiv 2022.11) Enhancing Few-shot Image Classification with Cosine Transformer, [[Paper]](https://arxiv.org/pdf/2211.06828.pdf), [[Code]](https://github.com/vinuni-vishc/Few-Shot-Cosine-Transformer)
 - (arXiv 2023.01) Mask Matching Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2301.01208.pdf), [[Code]](https://github.com/Picsart-AI-Research/Mask-Matching-Transformer)
+- (arXiv 2023.01) Exploring Efficient Few-shot Adaptation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.02419.pdf), [[Code]](https://github.com/loadder/eTT_TMLR2022)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
