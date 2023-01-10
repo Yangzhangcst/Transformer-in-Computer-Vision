@@ -1043,6 +1043,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) TransforMatcher: Match-to-Match Attention for Semantic Correspondence, [[Paper]](https://arxiv.org/pdf/2205.11634.pdf), [[Code]](http://cvlab.postech.ac.kr/research/TransforMatcher)
 - (arXiv 2022.07) Deep Laparoscopic Stereo Matching with Transformers, [[Paper]](https://arxiv.org/pdf/2207.12152.pdf)
 - (arXiv 2022.08) ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer, [[Paper]](https://arxiv.org/pdf/2208.14201.pdf), [[Project]](https://aspanformer.github.io/)
+- (arXiv 2023.01) DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching, [[Paper]](https://arxiv.org/pdf/2301.02993.pdf), [[Code]](https://github.com/XT-1997/DeepMatcher)
 
 ### Matting
 - (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
@@ -1479,6 +1480,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Neural Shape Compiler: A Unified Framework for Transforming between Text, Point Cloud, and Program, [[Paper]](https://arxiv.org/pdf/2212.12952.pdf)
 - (arXiv 2023.01) Cross Modal Transformer via Coordinates Encoding for 3D Object Dectection, [[Paper]](https://arxiv.org/pdf/2301.01283.pdf), [[Code]](https://github.com/junjie18/CMT)
 - (arXiv 2023.01) DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction, [[Paper]](https://arxiv.org/pdf/2301.03461.pdf), [[Code]](https://github.com/yangyangxu0/DeMT)
+- (arXiv 2023.01) Multi-scale multi-modal micro-expression recognition algorithm based on transformer, [[Paper]](https://arxiv.org/pdf/2301.02969.pdf)
+- (arXiv 2023.01) Logically at Factify 2023: A Multi-Modal Fact Checking System Based on Evidence Retrieval techniques and Transformer Encoder Architecture, [[Paper]](https://arxiv.org/pdf/2301.03127.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
