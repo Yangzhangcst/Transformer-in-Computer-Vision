@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/09
+**Last updated: 2023/01/10
 
 ## Survey: 
+- (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
+
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
 
 - (arXiv 2022.11) A Comprehensive Survey of Transformers for Computer Vision. [[Paper]](https://arxiv.org/pdf/2211.06004.pdf)
@@ -599,6 +601,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Joint CNN and Transformer Network via weakly supervised Learning for efficient crowd counting, [[Paper]](https://arxiv.org/pdf/2203.06388.pdf)
 - (arXiv 2022.06) Counting Varying Density Crowds Through Density Guided Adaptive Selection CNN and Transformer Estimation, [[Paper]](https://arxiv.org/pdf/2206.10075.pdf)
 - (arXiv 2022.08) CounTR: Transformer-based Generalised Visual Counting, [[Paper]](https://arxiv.org/pdf/2208.13721.pdf)
+- (arXiv 2023.01) RGB-T Multi-Modal Crowd Counting Based on Transformer, [[Paper]](https://arxiv.org/pdf/2301.03033.pdf), [[Code]](https://github.com/liuzywen/RGBTCC)
 
 ### Deblurring
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
@@ -851,6 +854,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) AU-Aware Vision Transformers for Biased Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2211.06609.pdf)
 - (arXiv 2022.11) Part-based Face Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.00057.pdf)
 - (arXiv 2022.12) Vision Transformer with Attentive Pooling for Robust Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2212.05463.pdf)
+- (arXiv 2023.01) SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions, [[Paper]](https://arxiv.org/pdf/2301.03130.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1474,6 +1478,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Vision Transformers are Parameter-Efficient Audio-Visual Learners, [[Paper]](https://arxiv.org/pdf/2212.07983.pdf), [[Code]](https://genjib.github.io/project_page/LAVISH/)
 - (arXiv 2022.12) Neural Shape Compiler: A Unified Framework for Transforming between Text, Point Cloud, and Program, [[Paper]](https://arxiv.org/pdf/2212.12952.pdf)
 - (arXiv 2023.01) Cross Modal Transformer via Coordinates Encoding for 3D Object Dectection, [[Paper]](https://arxiv.org/pdf/2301.01283.pdf), [[Code]](https://github.com/junjie18/CMT)
+- (arXiv 2023.01) DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction, [[Paper]](https://arxiv.org/pdf/2301.03461.pdf), [[Code]](https://github.com/yangyangxu0/DeMT)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1864,6 +1869,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Mirror Complementary Transformer Network for RGB-thermal Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2207.03558.pdf), [[Code]](https://github.com/jxr326/SwinMCNet)
 - (arXiv 2022.07) SiaTrans: Siamese Transformer Network for RGB-D Salient Object Detection with Depth Image Classification, [[Paper]](https://arxiv.org/pdf/2207.04224.pdf)
 - (arXiv 2022.07) Panoramic Vision Transformer for Saliency Detection in 360° Videos, [[Paper]](https://arxiv.org/pdf/2209.08956.pdf)
+- (arXiv 2023.01) HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2301.03036.pdf), [[Code]](https://github.com/liuzywen/HRTransNet)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
