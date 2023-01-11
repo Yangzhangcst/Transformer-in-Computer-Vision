@@ -1004,6 +1004,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) TOIST: Task Oriented Instance Segmentation Transformer with Noun-Pronoun Distillation, [[Paper]](https://arxiv.org/pdf/2210.10775.pdf), [[Code]](https://github.com/AIR-DISCOVER/TOIST)
 - (arXiv 2022.11) Mean Shift Mask Transformer for Unseen Object Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2211.11679.pdf), [[Code]](https://github.com/YoungSean/UnseenObjectsWithMeanShift)
 - (arXiv 2022.11) Transformer for 3D Scene Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2211.15766.pdf), [[Code]](https://github.com/sunjiahao1999/SPFormer)
+- (arXiv 2023.01) Vision Transformers Are Good Mask Auto-Labelers, [[Paper]](https://arxiv.org/pdf/2301.03992.pdf)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
