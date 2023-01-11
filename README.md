@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/10
+**Last updated: 2023/01/11
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -559,6 +559,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) TinyMIM: An Empirical Study of Distilling MIM Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2301.01296.pdf), [[Code]](https://github.com/OliverRensu/TinyMIM)
 - (arXiv 2023.01) Semi-MAE: Masked Autoencoders for Semi-supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.01431.pdf)
 - (arXiv 2023.01) Skip-Attention: Improving Vision Transformers by Paying Less Attention, [[Paper]](https://arxiv.org/pdf/2301.02240.pdf)
+- (arXiv 2023.01) Dynamic Grained Encoder for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.03831.pdf), [[Code]](https://github.com/StevenGrove/vtpack)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
