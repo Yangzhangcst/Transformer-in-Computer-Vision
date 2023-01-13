@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/12
+**Last updated: 2023/01/13
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -1486,6 +1486,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) DeMT: Deformable Mixer Transformer for Multi-Task Learning of Dense Prediction, [[Paper]](https://arxiv.org/pdf/2301.03461.pdf), [[Code]](https://github.com/yangyangxu0/DeMT)
 - (arXiv 2023.01) Multi-scale multi-modal micro-expression recognition algorithm based on transformer, [[Paper]](https://arxiv.org/pdf/2301.02969.pdf)
 - (arXiv 2023.01) Logically at Factify 2023: A Multi-Modal Fact Checking System Based on Evidence Retrieval techniques and Transformer Encoder Architecture, [[Paper]](https://arxiv.org/pdf/2301.03127.pdf)
+- (arXiv 2023.01) ViTs for SITS: Vision Transformers for Satellite Image Time Series, [[Paper]](https://arxiv.org/pdf/2301.04944.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
