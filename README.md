@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/13
+**Last updated: 2023/01/16
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -586,6 +586,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Unified Normalization for Accelerating and Stabilizing Transformers, [[Paper]](https://arxiv.org/pdf/2208.01313.pdf), [[Code]](https://github.com/hikvision-research/Unified-Normalization)
 - (arXiv 2022.09) Uformer-ICS: A Specialized U-Shaped Transformer for Image Compressive Sensing, [[Paper]](https://arxiv.org/pdf/2209.01763.pdf)
 - (arXiv 2022.09) Attacking Compressed Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.13785.pdf)
+- (arXiv 2023.01) GOHSP: A Unified Framework of Graph and Optimization-based Heterogeneous Structured Pruning for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2301.05345.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -1676,6 +1677,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) PVT3D: Point Voxel Transformers for Place Recognition from Sparse Lidar Scans, [[Paper]](https://arxiv.org/pdf/2211.12542.pdf)
 - (arXiv 2022.11) 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers, [[Paper]](https://arxiv.org/pdf/2211.14710.pdf)
 - (arXiv 2023.01) AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2211.14710.pdf), [[Code]](https://github.com/yuxumin/PoinTr)
+- (arXiv 2023.01) Text to Point Cloud Localization with Relation-Enhanced Transformer, [[Paper]](https://arxiv.org/pdf/2301.05372.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
