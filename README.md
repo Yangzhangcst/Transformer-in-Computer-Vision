@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/16
+**Last updated: 2023/01/18
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -639,6 +639,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2211.13202.pdf), [[Code]](https://github.com/noahzn/lite-mono)
 - (arXiv 2022.12) Event-based Monocular Dense Depth Estimation with Recurrent Transformers, [[Paper]](https://arxiv.org/pdf/2212.02791.pdf)
 - (arXiv 2022.12) ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2212.05729.pdf)
+- (arXiv 2023.01) Dyna-DepthFormer: Multi-frame Transformer for Self-Supervised Depth Estimation in Dynamic Scenes, [[Paper]](https://arxiv.org/pdf/2301.05871.pdf)
+- (arXiv 2023.01) SwinDepth: Unsupervised Depth Estimation using Monocular Sequences via Swin Transformer and Densely Cascaded Network, [[Paper]](https://arxiv.org/pdf/2301.06715.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -1313,6 +1315,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) A New Perspective to Boost Vision Transformer for Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2301.00989.pdf)
 - (arXiv 2023.01) Detecting Severity of Diabetic Retinopathy from Fundus Images using Ensembled Transformers, [[Paper]](https://arxiv.org/pdf/2301.00973.pdf)
 - (arXiv 2023.01) MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling, [[Paper]](https://arxiv.org/pdf/2301.02064.pdf)
+- (arXiv 2023.01) Cooperation Learning Enhanced Colonic Polyp Segmentation Based on TransformerCNN Fusion, [[Paper]](https://arxiv.org/pdf/2301.06892.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1678,6 +1681,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers, [[Paper]](https://arxiv.org/pdf/2211.14710.pdf)
 - (arXiv 2023.01) AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2211.14710.pdf), [[Code]](https://github.com/yuxumin/PoinTr)
 - (arXiv 2023.01) Text to Point Cloud Localization with Relation-Enhanced Transformer, [[Paper]](https://arxiv.org/pdf/2301.05372.pdf)
+- (arXiv 2023.01) SAT: Size-Aware Transformer for 3D Point Cloud Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2301.06869.pdf)
+- (arXiv 2023.01) DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets, [[Paper]](https://arxiv.org/pdf/2301.06051.pdf), [[Code]](https://github.com/Haiyang-W/DSVT)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
