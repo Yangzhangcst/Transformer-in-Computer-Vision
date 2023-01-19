@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/18
+**Last updated: 2023/01/19
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -1316,6 +1316,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Detecting Severity of Diabetic Retinopathy from Fundus Images using Ensembled Transformers, [[Paper]](https://arxiv.org/pdf/2301.00973.pdf)
 - (arXiv 2023.01) MS-DINO: Efficient Distributed Training of Vision Transformer Foundation Model in Medical Domain through Masked Sampling, [[Paper]](https://arxiv.org/pdf/2301.02064.pdf)
 - (arXiv 2023.01) Cooperation Learning Enhanced Colonic Polyp Segmentation Based on TransformerCNN Fusion, [[Paper]](https://arxiv.org/pdf/2301.06892.pdf)
+- (arXiv 2023.01) ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations, [[Paper]](https://arxiv.org/pdf/2301.07382.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1683,6 +1684,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Text to Point Cloud Localization with Relation-Enhanced Transformer, [[Paper]](https://arxiv.org/pdf/2301.05372.pdf)
 - (arXiv 2023.01) SAT: Size-Aware Transformer for 3D Point Cloud Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2301.06869.pdf)
 - (arXiv 2023.01) DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets, [[Paper]](https://arxiv.org/pdf/2301.06051.pdf), [[Code]](https://github.com/Haiyang-W/DSVT)
+- (arXiv 2023.01) PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2301.07301.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1738,6 +1740,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) PoET: Pose Estimation Transformer for Single-View, Multi-Object 6D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2211.14125.pdf), [[Code]](https://github.com/aau-cns/poet)
 - (arXiv 2022.11) MPT: Mesh Pre-Training with Transformers for Human Pose and Mesh Reconstruction, [[Paper]](https://arxiv.org/pdf/2211.13357.pdf)
 - (arXiv 2022.12) ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation, [[Paper]](https://arxiv.org/pdf/2212.04246.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTPose)
+- (arXiv 2023.01) HSTFormer: Hierarchical Spatial-Temporal Transformers for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2301.07322.pdf), [[Code]](https://github.com/qianxiaoye825/HSTFormer)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
