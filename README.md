@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/19
+**Last updated: 2023/01/20
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -1342,7 +1342,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) NEURAL MARIONETTE: A Transformer-based Multi-action Human Motion Synthesis System, [[Paper]](https://arxiv.org/pdf/2209.13204.pdf), [[Project]](https://wjohnnyw.github.io/blog/tag2motion/)
 - (arXiv 2022.09) Motion Transformer for Unsupervised Image Animation, [[Paper]](https://arxiv.org/pdf/2209.14024.pdf), [[Code]](https://github.com/JialeTao/MoTrans)
 - (arXiv 2022.11) Blur Interpolation Transformer for Real-World Motion from Blur, [[Paper]](https://arxiv.org/pdf/2211.11423.pdf)
-- (arXiv 2022.12) Transformer-Based Learned Optimization, [[Paper]](https://arxiv.org/pdf/212.01055.pdf)
+- (arXiv 2022.12) Transformer-Based Learned Optimization, [[Paper]](https://arxiv.org/pdf/2212.01055.pdf)
+- (arXiv 2023.01) Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2301.08125.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2146,6 +2147,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Can Transformer Attention Spread Give Insights Into Uncertainty of Detected and Tracked Objects, [[Paper]](https://arxiv.org/pdf/2210.14391.pdf)
 - (arXiv 2022.10) ProContEXT: Exploring Progressive Context Transformer for Tracking, [[Paper]](https://arxiv.org/pdf/2210.15511.pdf), [[Code]](https://shorturl.at/jnNT2)
 - (arXiv 2022.11) GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds, [[Paper]](https://arxiv.org/pdf/2211.10927.pdf), [[Code]](https://github.com/haooozi/GLT-T)
+- (arXiv 2023.01) Multi-target multi-camera vehicle tracking using transformer-based camera link model and spatial-temporal information, [[Paper]](https://arxiv.org/pdf/2301.07805.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
