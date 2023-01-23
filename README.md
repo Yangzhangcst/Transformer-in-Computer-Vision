@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/20
+**Last updated: 2023/01/23
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -560,6 +560,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Semi-MAE: Masked Autoencoders for Semi-supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.01431.pdf)
 - (arXiv 2023.01) Skip-Attention: Improving Vision Transformers by Paying Less Attention, [[Paper]](https://arxiv.org/pdf/2301.02240.pdf)
 - (arXiv 2023.01) Dynamic Grained Encoder for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.03831.pdf), [[Code]](https://github.com/StevenGrove/vtpack)
+- (arXiv 2023.01) Image Memorability Prediction with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.08647.pdf)
+- (arXiv 2023.01) Holistically Explainable Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.08669.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1686,6 +1688,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) SAT: Size-Aware Transformer for 3D Point Cloud Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2301.06869.pdf)
 - (arXiv 2023.01) DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets, [[Paper]](https://arxiv.org/pdf/2301.06051.pdf), [[Code]](https://github.com/Haiyang-W/DSVT)
 - (arXiv 2023.01) PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2301.07301.pdf)
+- (arXiv 2023.01) FlatFormer: Flattened Window Attention for Efficient Point Cloud Transformer, [[Paper]](https://arxiv.org/pdf/2301.08739.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
