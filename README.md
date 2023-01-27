@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/26
+**Last updated: 2023/01/27
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -1325,6 +1325,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) ViT-AE++: Improving Vision Transformer Autoencoder for Self-supervised Medical Image Representations, [[Paper]](https://arxiv.org/pdf/2301.07382.pdf)
 - (arXiv 2023.01) Fully transformer-based biomarker prediction from colorectal cancer histology: a large-scale multicentric study, [[Paper]](https://arxiv.org/pdf/2301.09617.pdf)
 - (arXiv 2023.01) MultiNet with Transformers: A Model for Cancer Diagnosis Using Images, [[Paper]](https://arxiv.org/pdf/2301.09007.pdf)
+- (arXiv 2023.01) TranSOP: Transformer-based Multimodal Classification for Stroke Treatment Outcome Prediction, [[Paper]](https://arxiv.org/pdf/2301.10829.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2035,6 +2036,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) AttEntropy: Segmenting Unknown Objects in Complex Scenes using the Spatial Attention Entropy of Semantic Segmentation Transformers, [[Paper]](https://arxiv.org/pdf/2212.14397.pdf)
 - (arXiv 2023.01) Head-Free Lightweight Semantic Segmentation with Linear Transformer, [[Paper]](https://arxiv.org/pdf/2301.04648.pdf), [[Code]](https://github.com/dongbo811/AFFormer)
 - (arXiv 2023.01) RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2301.10222.pdf), [[Code]](https://github.com/valeoai/rangevit)
+- (arXiv 2023.01) Semantic Segmentation Enhanced Transformer Model for Human Attention Prediction, [[Paper]](https://arxiv.org/pdf/2301.11022.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2161,6 +2163,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) ProContEXT: Exploring Progressive Context Transformer for Tracking, [[Paper]](https://arxiv.org/pdf/2210.15511.pdf), [[Code]](https://shorturl.at/jnNT2)
 - (arXiv 2022.11) GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds, [[Paper]](https://arxiv.org/pdf/2211.10927.pdf), [[Code]](https://github.com/haooozi/GLT-T)
 - (arXiv 2023.01) Multi-target multi-camera vehicle tracking using transformer-based camera link model and spatial-temporal information, [[Paper]](https://arxiv.org/pdf/2301.07805.pdf)
+- (arXiv 2023.01) Compact Transformer Tracker with Correlative Masked Modeling, [[Paper]](https://arxiv.org/pdf/2301.10938.pdf), [[Project]](https://github.com/HUSTDML/CTTrack)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
