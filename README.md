@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/27
+**Last updated: 2023/01/30
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -1326,6 +1326,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Fully transformer-based biomarker prediction from colorectal cancer histology: a large-scale multicentric study, [[Paper]](https://arxiv.org/pdf/2301.09617.pdf)
 - (arXiv 2023.01) MultiNet with Transformers: A Model for Cancer Diagnosis Using Images, [[Paper]](https://arxiv.org/pdf/2301.09007.pdf)
 - (arXiv 2023.01) TranSOP: Transformer-based Multimodal Classification for Stroke Treatment Outcome Prediction, [[Paper]](https://arxiv.org/pdf/2301.10829.pdf)
+- (arXiv 2023.01) MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2301.11798.pdf), [[Code]](https://github.com/WuJunde/MedSegDiff)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1503,6 +1504,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Logically at Factify 2023: A Multi-Modal Fact Checking System Based on Evidence Retrieval techniques and Transformer Encoder Architecture, [[Paper]](https://arxiv.org/pdf/2301.03127.pdf)
 - (arXiv 2023.01) ViTs for SITS: Vision Transformers for Satellite Image Time Series, [[Paper]](https://arxiv.org/pdf/2301.04944.pdf)
 - (arXiv 2023.01) Zorro: the masked multimodal transformer, [[Paper]](https://arxiv.org/pdf/2301.09595.pdf)
+- (arXiv 2023.01) Multimodal Event Transformer for Image-guided Story Ending Generation, [[Paper]](https://arxiv.org/pdf/2301.11357.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2561,6 +2563,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer, [[Paper]](https://arxiv.org/pdf/2212.03434.pdf)
 - (arXiv 2022.12) RCDT: Relational Remote Sensing Change Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2212.04869.pdf)
 - (arXiv 2022.12) Examining the Difference Among Transformers and CNNs with Explanation Methods, [[Paper]](https://arxiv.org/pdf/2212.06872.pdf)
+- (arXiv 2023.01) Robust Transformer with Locality Inductive Bias and Feature Normalization, [[Paper]](https://arxiv.org/pdf/2301.11553.pdf)
 
 ## Contact & Feedback
 
