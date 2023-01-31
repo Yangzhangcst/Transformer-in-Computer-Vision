@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/30
+**Last updated: 2023/01/31
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -788,6 +788,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) GPTR: Gestalt-Perception Transformer for Diagram Object Detection, [[Paper]](https://arxiv.org/pdf/2212.14232.pdf)
 - (arXiv 2023.01) Dynamic Background Reconstruction via Transformer for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2301.04497.pdf)
 - (arXiv 2023.01) Learning to View: Decision Transformers for Active Object Detection, [[Paper]](https://arxiv.org/pdf/2301.09544.pdf)
+- (arXiv 2023.01) Aerial Image Object Detection With Vision Transformer Detector, [[Paper]](https://arxiv.org/pdf/2301.12058.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1855,8 +1856,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) ELMformer: Efficient Raw Image Restoration with a Locally Multiplicative Transformer, [[Paper]](https://arxiv.org/pdf/2208.14704.pdf), [[Code]](https://github.com/leonmakise/ELMformer)
 - (arXiv 2022.09) LRT: An Efficient Low-Light Restoration Transformer for Dark Light Field Images, [[Paper]](https://arxiv.org/pdf/2209.02197.pdf)
 - (arXiv 2022.09) Dual-former: Hybrid Self-attention Transformer for Efficient Image Restoration, [[Paper]](https://arxiv.org/pdf/2210.01069.pdf)
-- (arXiv 2022.10) Accurate Image Restoration with Attention Retractable Transformer, [[Paper]](https://arxiv.org/pdf/2210.01427.pdf, [[Code]](https://github.com/gladzhang/ART)
-- (arXiv 2022.11) Cross Aggregation Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2211.13654.pdf, [[Code]](https://github.com/zhengchen1999/CAT)
+- (arXiv 2022.10) Accurate Image Restoration with Attention Retractable Transformer, [[Paper]](https://arxiv.org/pdf/2210.01427.pdf), [[Code]](https://github.com/gladzhang/ART)
+- (arXiv 2022.11) Cross Aggregation Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2211.13654.pdf), [[Code]](https://github.com/zhengchen1999/CAT)
+- (arXiv 2023.01) Towards Vision Transformer Unrolling Fixed-Point Algorithm: a Case Study on Image Restoration, [[Paper]](https://arxiv.org/pdf/2301.12332.pdf)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
@@ -2039,6 +2041,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Head-Free Lightweight Semantic Segmentation with Linear Transformer, [[Paper]](https://arxiv.org/pdf/2301.04648.pdf), [[Code]](https://github.com/dongbo811/AFFormer)
 - (arXiv 2023.01) RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2301.10222.pdf), [[Code]](https://github.com/valeoai/rangevit)
 - (arXiv 2023.01) Semantic Segmentation Enhanced Transformer Model for Human Attention Prediction, [[Paper]](https://arxiv.org/pdf/2301.11022.pdf)
+- (arXiv 2023.01) Squeeze-enhanced Axial Transformer for mobile semantic segmentation, [[Paper]](https://arxiv.org/pdf/2301.13156.pdf), [[Code]](https://github.com/fudan-zvg/SeaFormer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
