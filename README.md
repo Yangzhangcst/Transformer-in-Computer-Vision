@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/01/31
+**Last updated: 2023/02/01
 
 ## Survey: 
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
@@ -136,6 +136,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Towards Efficient Adversarial Training on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.10498.pdf)
 - (arXiv 2022.08) Understanding Adversarial Robustness of Vision Transformers via Cauchy Problem, [[Paper]](https://arxiv.org/pdf/2208.00906.pdf), [[Code]](https://github.com/TrustAI/ODE4RobustViT)
 - (arXiv 2022.08) Analyzing Adversarial Robustness of Vision Transformers against Spatial and Spectral Attacks, [[Paper]](https://arxiv.org/pdf/2208.09602.pdf)
+- (arXiv 2023.01) Inference Time Evidences of Adversarial Attacks for Forensic on Transformers, [[Paper]](https://arxiv.org/pdf/2301.13356.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -789,6 +790,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Dynamic Background Reconstruction via Transformer for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2301.04497.pdf)
 - (arXiv 2023.01) Learning to View: Decision Transformers for Active Object Detection, [[Paper]](https://arxiv.org/pdf/2301.09544.pdf)
 - (arXiv 2023.01) Aerial Image Object Detection With Vision Transformer Detector, [[Paper]](https://arxiv.org/pdf/2301.12058.pdf)
+- (arXiv 2023.01) Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors, [[Paper]](https://arxiv.org/pdf/2301.13592.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1506,6 +1508,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) ViTs for SITS: Vision Transformers for Satellite Image Time Series, [[Paper]](https://arxiv.org/pdf/2301.04944.pdf)
 - (arXiv 2023.01) Zorro: the masked multimodal transformer, [[Paper]](https://arxiv.org/pdf/2301.09595.pdf)
 - (arXiv 2023.01) Multimodal Event Transformer for Image-guided Story Ending Generation, [[Paper]](https://arxiv.org/pdf/2301.11357.pdf)
+- (arXiv 2023.01) UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2301.13741.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1757,6 +1760,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) MPT: Mesh Pre-Training with Transformers for Human Pose and Mesh Reconstruction, [[Paper]](https://arxiv.org/pdf/2211.13357.pdf)
 - (arXiv 2022.12) ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation, [[Paper]](https://arxiv.org/pdf/2212.04246.pdf), [[Code]](https://github.com/ViTAE-Transformer/ViTPose)
 - (arXiv 2023.01) HSTFormer: Hierarchical Spatial-Temporal Transformers for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2301.07322.pdf), [[Code]](https://github.com/qianxiaoye825/HSTFormer)
+- (arXiv 2023.01) A Modular Multi-stage Lightweight Graph Transformer Network for Human Pose and Shape Estimation from 2D Human Pose, [[Paper]](https://arxiv.org/pdf/2301.13403.pdf), [[Code]](https://github.com/qianxiaoye825/HSTFormer)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -1814,6 +1818,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER, [[Paper]](https://arxiv.org/pdf/2205.15448.pdf)
 - (arXiv 2022.06) Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades, [[Paper]](https://arxiv.org/pdf/2206.00645.pdf)
 - (arXiv 2022.08) PlaneFormers: From Sparse View Planes to 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2208.04307.pdf)
+- (arXiv 2023.01) Monocular Scene Reconstruction with 3D SDF Transformers, [[Paper]](https://arxiv.org/pdf/2301.13510.pdf), [[Project]](https://weihaosky.github.io/sdfformer)
 
 ### Registration
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
@@ -2370,6 +2375,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
 - (arXiv 2022.04) RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf), [[Code]](https://github.com/NVlabs/RelViT)
 - (arXiv 2022.06) SAViR-T: Spatially Attentive Visual Reasoning with Transformers, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf)
+- (arXiv 2023.01) Pseudo 3D Perception Transformer with Multi-level Confidence Optimization for Visual Commonsense Reasoning, [[Paper]](https://arxiv.org/pdf/2301.13335.pdf)
 
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
@@ -2567,6 +2573,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) RCDT: Relational Remote Sensing Change Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2212.04869.pdf)
 - (arXiv 2022.12) Examining the Difference Among Transformers and CNNs with Explanation Methods, [[Paper]](https://arxiv.org/pdf/2212.06872.pdf)
 - (arXiv 2023.01) Robust Transformer with Locality Inductive Bias and Feature Normalization, [[Paper]](https://arxiv.org/pdf/2301.11553.pdf)
+- (arXiv 2023.01) Continuous Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2301.13338.pdf)
 
 ## Contact & Feedback
 
