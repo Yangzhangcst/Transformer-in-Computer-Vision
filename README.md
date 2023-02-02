@@ -1330,6 +1330,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) MultiNet with Transformers: A Model for Cancer Diagnosis Using Images, [[Paper]](https://arxiv.org/pdf/2301.09007.pdf)
 - (arXiv 2023.01) TranSOP: Transformer-based Multimodal Classification for Stroke Treatment Outcome Prediction, [[Paper]](https://arxiv.org/pdf/2301.10829.pdf)
 - (arXiv 2023.01) MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2301.11798.pdf), [[Code]](https://github.com/WuJunde/MedSegDiff)
+- (arXiv 2023.01) Enhancing Medical Image Segmentation with TransCeption: A Multi-Scale Feature Fusion Approach, [[Paper]](https://arxiv.org/pdf/2301.10847.pdf), [[Code]](https://github.com/mindflow-institue/TransCeption)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
