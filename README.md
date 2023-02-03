@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/02
+**Last updated: 2023/02/03
 
 ## Survey: 
+- (arXiv 2023.02) A Survey on Efficient Training of Transformers. [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
+
 - (arXiv 2023.01) Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review. [[Paper]](https://arxiv.org/pdf/2301.03505.pdf), [[Awesome]](https://github.com/mindflow-institue/Awesome-Transformer)
 
 - (arXiv 2022.11) Vision Transformers in Medical Imaging: A Review. [[Paper]](https://arxiv.org/pdf/2211.10043.pdf)
@@ -1333,6 +1335,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2301.11798.pdf), [[Code]](https://github.com/WuJunde/MedSegDiff)
 - (arXiv 2023.01) Enhancing Medical Image Segmentation with TransCeption: A Multi-Scale Feature Fusion Approach, [[Paper]](https://arxiv.org/pdf/2301.10847.pdf), [[Code]](https://github.com/mindflow-institue/TransCeption)
 - (arXiv 2023.02) Efficient Scopeformer: Towards Scalable and Rich Feature Extraction for Intracranial Hemorrhage Detection, [[Paper]](https://arxiv.org/pdf/2302.00220.pdf)
+- (arXiv 2023.02) LesionAid: Vision Transformers-based Skin Lesion Generation and Classification, [[Paper]](https://arxiv.org/pdf/2302.01104.pdf)
+- (arXiv 2023.02) FCB-SwinV2 Transformer for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2302.01027.pdf)
+- (arXiv 2023.02) Longformer: Longitudinal Transformer for Alzheimer's Disease Classification with Structural MRIs, [[Paper]](https://arxiv.org/pdf/2302.00901.pdf), [[Code]](https://github.com/Qybc/LongFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2409,6 +2414,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2112.08643.pdf), [[Code]](https://github.com/shiming-chen/TransZero_pp)
 - (arXiv 2022.03) Hybrid Routing Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2203.15310.pdf)
 - (arXiv 2022.11) Efficient Zero-shot Visual Search via Target and Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2211.13470.pdf)
+- (arXiv 2023.03) Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2302.00875.pdf)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
