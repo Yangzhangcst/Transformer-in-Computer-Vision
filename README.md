@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/07
+**Last updated: 2023/02/08
 
 ## Survey: 
 - (arXiv 2023.02) A Survey on Efficient Training of Transformers. [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
@@ -873,6 +873,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Part-based Face Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.00057.pdf)
 - (arXiv 2022.12) Vision Transformer with Attentive Pooling for Robust Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2212.05463.pdf)
 - (arXiv 2023.01) SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions, [[Paper]](https://arxiv.org/pdf/2301.03130.pdf)
+- (arXiv 2023.02) PhysFormer++: Facial Video-based Physiological Measurement with SlowFast Temporal Difference Transformer, [[Paper]](https://arxiv.org/pdf/2302.03548.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -2119,6 +2120,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) N-Gram in Swin Transformers for Efficient Lightweight Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2211.11436.pdf)
 - (arXiv 2022.12) Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2212.14046.pdf), [[Code]](https://github.com/researchmm/FTVSR)
 - (arXiv 2023.01) Image Super-Resolution using Efficient Striped Window Transformer,  [[Paper]](https://arxiv.org/pdf/2301.09869.pdf), [[Code]](https://github.com/Fried-Rice-Lab/FriedRiceLab)
+- (arXiv 2023.02) OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer,  [[Paper]](https://arxiv.org/pdf/2302.03453.pdf), [[Code]](https://github.com/Fanghua-Yu/OSRT)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
