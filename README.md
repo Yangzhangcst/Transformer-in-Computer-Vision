@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/08
+**Last updated: 2023/02/09
 
 ## Survey: 
 - (arXiv 2023.02) A Survey on Efficient Training of Transformers. [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
@@ -1345,6 +1345,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) LesionAid: Vision Transformers-based Skin Lesion Generation and Classification, [[Paper]](https://arxiv.org/pdf/2302.01104.pdf)
 - (arXiv 2023.02) FCB-SwinV2 Transformer for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2302.01027.pdf)
 - (arXiv 2023.02) Longformer: Longitudinal Transformer for Alzheimer's Disease Classification with Structural MRIs, [[Paper]](https://arxiv.org/pdf/2302.00901.pdf), [[Code]](https://github.com/Qybc/LongFormer)
+- (arXiv 2023.02) SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images, [[Paper]](https://arxiv.org/pdf/2302.03861.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
