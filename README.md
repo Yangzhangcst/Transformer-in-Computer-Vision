@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/09
+**Last updated: 2023/02/10
 
 ## Survey: 
 - (arXiv 2023.02) A Survey on Efficient Training of Transformers. [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
@@ -570,6 +570,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Holistically Explainable Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.08669.pdf)
 - (arXiv 2023.02) DilateFormer: Multi-Scale Dilated Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2302.01791.pdf), [[Code]](https://github.com/JIAOJIAYUASD/dilateformer)
 - (arXiv 2023.02) KDEformer: Accelerating Transformers via Kernel Density Estimation, [[Paper]](https://arxiv.org/pdf/2302.02451.pdf), [[Code]](https://github.com/majid-daliri/kdeformer)
+- (arXiv 2023.02) Reversible Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.04869.pdf), [[Code]](https://github.com/facebookresearch/slowfast)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1346,6 +1347,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) FCB-SwinV2 Transformer for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2302.01027.pdf)
 - (arXiv 2023.02) Longformer: Longitudinal Transformer for Alzheimer's Disease Classification with Structural MRIs, [[Paper]](https://arxiv.org/pdf/2302.00901.pdf), [[Code]](https://github.com/Qybc/LongFormer)
 - (arXiv 2023.02) SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images, [[Paper]](https://arxiv.org/pdf/2302.03861.pdf)
+- (arXiv 2023.02) Adapting Pre-trained Vision Transformers from 2D to 3D through Weight Inflation Improves Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2302.04303.pdf),[[Code]](https://github.com/yuhui-zh15/TransSeg)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1779,6 +1781,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) HSTFormer: Hierarchical Spatial-Temporal Transformers for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2301.07322.pdf), [[Code]](https://github.com/qianxiaoye825/HSTFormer)
 - (arXiv 2023.01) A Modular Multi-stage Lightweight Graph Transformer Network for Human Pose and Shape Estimation from 2D Human Pose, [[Paper]](https://arxiv.org/pdf/2301.13403.pdf), [[Code]](https://github.com/qianxiaoye825/HSTFormer)
 - (arXiv 2023.02) HDFormer: High-order Directed Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2302.01825.pdf), [[Code]](https://github.com/hyer/HDFormer)
+- (arXiv 2023.02) HybrIK-Transformer, [[Paper]](https://arxiv.org/pdf/2302.04774.pdf), [[Code]](https://github.com/boreshkinai/hybrik-transformer)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2069,6 +2072,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2301.10222.pdf), [[Code]](https://github.com/valeoai/rangevit)
 - (arXiv 2023.01) Semantic Segmentation Enhanced Transformer Model for Human Attention Prediction, [[Paper]](https://arxiv.org/pdf/2301.11022.pdf)
 - (arXiv 2023.01) Squeeze-enhanced Axial Transformer for mobile semantic segmentation, [[Paper]](https://arxiv.org/pdf/2301.13156.pdf), [[Code]](https://github.com/fudan-zvg/SeaFormer)
+- (arXiv 2023.02) Lithium Metal Battery Quality Control via Transformer-CNN Segmentation, [[Paper]](https://arxiv.org/pdf/2302.04824.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
