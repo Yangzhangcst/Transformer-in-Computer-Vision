@@ -799,6 +799,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Learning to View: Decision Transformers for Active Object Detection, [[Paper]](https://arxiv.org/pdf/2301.09544.pdf)
 - (arXiv 2023.01) Aerial Image Object Detection With Vision Transformer Detector, [[Paper]](https://arxiv.org/pdf/2301.12058.pdf)
 - (arXiv 2023.01) Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors, [[Paper]](https://arxiv.org/pdf/2301.13592.pdf)
+- (arXiv 2023.01) IH-ViT: Vision Transformer-based Integrated Circuit Appear-ance Defect Detection, [[Paper]](https://arxiv.org/pdf/2301.13592.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2607,6 +2608,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) ShadowFormer: Global Context Helps Image Shadow Removal, [[Paper]](https://arxiv.org/pdf/2302.01650.pdf), [[Code]](https://github.com/GuoLanqing/ShadowFormer)
 - (arXiv 2023.02) V1T: large-scale mouse V1 response prediction using a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2302.03023.pdf)
 - (arXiv 2023.02) LipFormer: Learning to Lipread Unseen Speakers based on Visual-Landmark Transformers, [[Paper]](https://arxiv.org/pdf/2302.03023.pdf)
+- (arXiv 2023.02) Mitigating Bias in Visual Transformers via Targeted Alignment, [[Paper]](https://arxiv.org/pdf/2302.04358.pdf)
 
 ## Contact & Feedback
 
