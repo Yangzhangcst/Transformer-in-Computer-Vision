@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/10
+**Last updated: 2023/02/13
 
 ## Survey: 
 - (arXiv 2023.02) A Survey on Efficient Training of Transformers. [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
@@ -2609,6 +2609,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) V1T: large-scale mouse V1 response prediction using a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2302.03023.pdf)
 - (arXiv 2023.02) LipFormer: Learning to Lipread Unseen Speakers based on Visual-Landmark Transformers, [[Paper]](https://arxiv.org/pdf/2302.03023.pdf)
 - (arXiv 2023.02) Mitigating Bias in Visual Transformers via Targeted Alignment, [[Paper]](https://arxiv.org/pdf/2302.04358.pdf)
+- (arXiv 2023.02) Scaling Vision Transformers to 22 Billion Parameters, [[Paper]](https://arxiv.org/pdf/2302.05442.pdf)
 
 ## Contact & Feedback
 
