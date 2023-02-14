@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/13
+**Last updated: 2023/02/14
 
 ## Survey: 
 - (arXiv 2023.02) A Survey on Efficient Training of Transformers. [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
@@ -1528,6 +1528,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Zorro: the masked multimodal transformer, [[Paper]](https://arxiv.org/pdf/2301.09595.pdf)
 - (arXiv 2023.01) Multimodal Event Transformer for Image-guided Story Ending Generation, [[Paper]](https://arxiv.org/pdf/2301.11357.pdf)
 - (arXiv 2023.01) UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2301.13741.pdf)
+- (arXiv 2023.02) Rethinking Vision Transformer and Masked Autoencoder in Multimodal Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2302.05744.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2610,6 +2611,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) LipFormer: Learning to Lipread Unseen Speakers based on Visual-Landmark Transformers, [[Paper]](https://arxiv.org/pdf/2302.03023.pdf)
 - (arXiv 2023.02) Mitigating Bias in Visual Transformers via Targeted Alignment, [[Paper]](https://arxiv.org/pdf/2302.04358.pdf)
 - (arXiv 2023.02) Scaling Vision Transformers to 22 Billion Parameters, [[Paper]](https://arxiv.org/pdf/2302.05442.pdf)
+- (arXiv 2023.02) A Theoretical Understanding of shallow Vision Transformers: Learning, Generalization, and Sample Complexity, [[Paper]](https://arxiv.org/pdf/2302.06015.pdf)
 
 ## Contact & Feedback
 
