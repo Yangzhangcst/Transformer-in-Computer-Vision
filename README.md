@@ -571,6 +571,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) DilateFormer: Multi-Scale Dilated Transformer for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2302.01791.pdf), [[Code]](https://github.com/JIAOJIAYUASD/dilateformer)
 - (arXiv 2023.02) KDEformer: Accelerating Transformers via Kernel Density Estimation, [[Paper]](https://arxiv.org/pdf/2302.02451.pdf), [[Code]](https://github.com/majid-daliri/kdeformer)
 - (arXiv 2023.02) Reversible Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.04869.pdf), [[Code]](https://github.com/facebookresearch/slowfast)
+- (arXiv 2023.02) TFormer: A Transmission-Friendly ViT Model for IoT Devices, [[Paper]](https://arxiv.org/pdf/2302.07734.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
