@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/15
+**Last updated: 2023/02/16
 
 ## Survey: 
 - (arXiv 2023.02) A Survey on Efficient Training of Transformers. [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
@@ -1786,6 +1786,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) A Modular Multi-stage Lightweight Graph Transformer Network for Human Pose and Shape Estimation from 2D Human Pose, [[Paper]](https://arxiv.org/pdf/2301.13403.pdf), [[Code]](https://github.com/qianxiaoye825/HSTFormer)
 - (arXiv 2023.02) HDFormer: High-order Directed Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2302.01825.pdf), [[Code]](https://github.com/hyer/HDFormer)
 - (arXiv 2023.02) HybrIK-Transformer, [[Paper]](https://arxiv.org/pdf/2302.04774.pdf), [[Code]](https://github.com/boreshkinai/hybrik-transformer)
+- (arXiv 2023.02) Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2302.07408.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
