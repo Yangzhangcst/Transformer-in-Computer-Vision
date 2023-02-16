@@ -2616,6 +2616,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Mitigating Bias in Visual Transformers via Targeted Alignment, [[Paper]](https://arxiv.org/pdf/2302.04358.pdf)
 - (arXiv 2023.02) Scaling Vision Transformers to 22 Billion Parameters, [[Paper]](https://arxiv.org/pdf/2302.05442.pdf)
 - (arXiv 2023.02) A Theoretical Understanding of shallow Vision Transformers: Learning, Generalization, and Sample Complexity, [[Paper]](https://arxiv.org/pdf/2302.06015.pdf)
+- (arXiv 2023.02) ForceFormer: Exploring Social Force and Transformer for Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2302.07583.pdf)
 
 ## Contact & Feedback
 
