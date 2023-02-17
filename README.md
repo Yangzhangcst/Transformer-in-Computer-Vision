@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/16
+**Last updated: 2023/02/17
 
 ## Survey: 
 - (arXiv 2023.02) A Survey on Efficient Training of Transformers. [[Paper]](https://arxiv.org/pdf/2302.01107.pdf)
@@ -572,6 +572,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) KDEformer: Accelerating Transformers via Kernel Density Estimation, [[Paper]](https://arxiv.org/pdf/2302.02451.pdf), [[Code]](https://github.com/majid-daliri/kdeformer)
 - (arXiv 2023.02) Reversible Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.04869.pdf), [[Code]](https://github.com/facebookresearch/slowfast)
 - (arXiv 2023.02) TFormer: A Transmission-Friendly ViT Model for IoT Devices, [[Paper]](https://arxiv.org/pdf/2302.07734.pdf)
+- (arXiv 2023.02) Efficiency 360: Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.08374.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -653,6 +654,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) ROIFormer: Semantic-Aware Region of Interest Transformer for Efficient Self-Supervised Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2212.05729.pdf)
 - (arXiv 2023.01) Dyna-DepthFormer: Multi-frame Transformer for Self-Supervised Depth Estimation in Dynamic Scenes, [[Paper]](https://arxiv.org/pdf/2301.05871.pdf)
 - (arXiv 2023.01) SwinDepth: Unsupervised Depth Estimation using Monocular Sequences via Swin Transformer and Densely Cascaded Network, [[Paper]](https://arxiv.org/pdf/2301.06715.pdf)
+- (arXiv 2023.02) URCDC-Depth: Uncertainty Rectified Cross-Distillation with CutFlip for Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2302.08149.pdf), [[Code]](https://github.com/ShuweiShao/URCDC-Depth)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -946,11 +948,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model, [[Paper]](https://arxiv.org/pdf/2208.07791.pdf), [[Code]](https://github.com/sndnyang/Diffusion_ViT)
 - (arXiv 2022.08) User-Controllable Latent Transformer for StyleGAN Image Layout Editing, [[Paper]](https://arxiv.org/pdf/2208.12408.pdf), [[Code]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/UserControllableLT)
 - (arXiv 2023.02) CFFT-GAN: Cross-domain Feature Fusion Transformer for Exemplar-based Image Translation, [[Paper]](https://arxiv.org/pdf/2302.01608.pdf)
+- (arXiv 2023.02) TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation, [[Paper]](https://arxiv.org/pdf/2302.08047.pdf)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
 - (arXiv 2022.11) Rethinking Batch Sample Relationships for Data Representation: A Batch-Graph Transformer based Approach, [[Paper]](https://arxiv.org/pdf/2211.10622.pdf)
 - (arXiv 2022.12) A Generalization of ViT/MLP-Mixer to Graphs, [[Paper]](https://arxiv.org/pdf/2212.13350.pdf), [[Code]](https://github.com/XiaoxinHe/Graph-MLPMixer)
+- (arXiv 2023.02) Energy Transformer, [[Paper]](https://arxiv.org/pdf/2302.07253.pdf), [[Code]](https://github.com/bhoov/energy-transformer-jax)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -1379,6 +1383,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Blur Interpolation Transformer for Real-World Motion from Blur, [[Paper]](https://arxiv.org/pdf/2211.11423.pdf)
 - (arXiv 2022.12) Transformer-Based Learned Optimization, [[Paper]](https://arxiv.org/pdf/2212.01055.pdf)
 - (arXiv 2023.01) Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2301.08125.pdf)
+- (arXiv 2023.02) Robust Human Motion Forecasting using Transformer-based Model, [[Paper]](https://arxiv.org/pdf/2302.08274.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -1848,6 +1853,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Extreme Floorplan Reconstruction by Structure-Hallucinating Transformer Cascades, [[Paper]](https://arxiv.org/pdf/2206.00645.pdf)
 - (arXiv 2022.08) PlaneFormers: From Sparse View Planes to 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2208.04307.pdf)
 - (arXiv 2023.01) Monocular Scene Reconstruction with 3D SDF Transformers, [[Paper]](https://arxiv.org/pdf/2301.13510.pdf), [[Project]](https://weihaosky.github.io/sdfformer)
+- (arXiv 2023.02) Efficient 3D Object Reconstruction using Visual Transformers, [[Paper]](https://arxiv.org/pdf/2302.08474.pdf), [[Project]](https://weihaosky.github.io/sdfformer)
 
 ### Registration
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
@@ -1941,6 +1947,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) SiaTrans: Siamese Transformer Network for RGB-D Salient Object Detection with Depth Image Classification, [[Paper]](https://arxiv.org/pdf/2207.04224.pdf)
 - (arXiv 2022.07) Panoramic Vision Transformer for Saliency Detection in 360° Videos, [[Paper]](https://arxiv.org/pdf/2209.08956.pdf)
 - (arXiv 2023.01) HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2301.03036.pdf), [[Code]](https://github.com/liuzywen/HRTransNet)
+- (arXiv 2023.02) Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2302.08052.pdf)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
