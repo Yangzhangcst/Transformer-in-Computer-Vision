@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/20
+**Last updated: 2023/02/21
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -130,6 +130,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) SVFormer: Semi-supervised Video Transformer for Action Recognition, [[Paper]](https://arxiv.org/pdf/2211.13222.pdf),[[Code]](https://github.com/ChenHsing/SVFormer)
 - (arXiv 2022.11) Interaction Visual Transformer for Egocentric Action Anticipation, [[Paper]](https://arxiv.org/pdf/2211.14154.pdf),[[Code]](https://github.com/ChenHsing/SVFormer)
 - (arXiv 2023.02) Transformers in Action Recognition: A Review on Temporal Modeling, [[Paper]](https://arxiv.org/pdf/2302.01921.pdf)
+- (arXiv 2023.02) Video Action Recognition Collaborative Learning with Dynamics via PSO-ConvNet Transformer, [[Paper]](https://arxiv.org/pdf/2302.09187.pdf),[[Code]](https://github.com/leonlha/Video-Action-Recognition-via-PSO-ConvNet-Transformer-Collaborative-Learning-with-Dynamics)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -784,6 +785,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Vision Transformers and YoloV5 based Driver Drowsiness Detection Framework, [[Paper]](https://arxiv.org/pdf/2209.01401.pdf)
 - (arXiv 2022.09) Sar Ship Detection based on Swin Transformer and Feature Enhancement Feature Pyramid Network, [[Paper]](https://arxiv.org/pdf/2209.10421.pdf)
 - (arXiv 2022.09) CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2209.13507.pdf),[[Code]](https://github.com/sty61010/CrossDTR)
+- (arXiv 2022.09) A lightweight Transformer-based model for fish landmark detection, [[Paper]](https://arxiv.org/pdf/2209.05777.pdf)
+- (arXiv 2022.09) ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers, [[Paper]](https://arxiv.org/pdf/2209.05654.pdf)
+- (arXiv 2022.09) CenterFormer: Center-based Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2209.05588.pdf), [[Project]](https://github.com/TuSimple/centerformer)
+- (arXiv 2022.09) CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2209.06535.pdf)
 - (arXiv 2022.10) Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning, [[Paper]](https://arxiv.org/pdf/2210.01035.pdf)
 - (arXiv 2022.10) MCTNet: A Multi-Scale CNN-Transformer Network for Change Detection in Optical Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2210.07601.pdf)
 - (arXiv 2022.10) MSF3DDETR: Multi-Sensor Fusion 3D Detection Transformer for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2210.15316.pdf)
@@ -806,16 +811,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Priors are Powerful: Improving a Transformer for Multi-camera 3D Detection with 2D Priors, [[Paper]](https://arxiv.org/pdf/2301.13592.pdf)
 - (arXiv 2023.01) IH-ViT: Vision Transformer-based Integrated Circuit Appear-ance Defect Detection, [[Paper]](https://arxiv.org/pdf/2301.13592.pdf)
 - (arXiv 2023.02) Team-DETR: Guide Queries as a Professional Team in Detection Transformers, [[Paper]](https://arxiv.org/pdf/2302.07116.pdf),[[Code]](https://github.com/horrible-dong/TeamDETR)
+- (arXiv 2023.02) Hyneter: Hybrid Network Transformer for Object Detection, [[Paper]](https://arxiv.org/pdf/2302.09365.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
 - (arXiv 2022.06) XBound-Former: Toward Cross-scale Boundary Modeling in Transformers, [[Paper]](https://arxiv.org/pdf/2206.00806.pdf), [[Code]](https://github.com/jcwang123/xboundformer)
 - (arXiv 2022.06) Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.02985.pdf)
 - (arXiv 2022.06) SC-Transformer++: Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.12634.pdf), [[Project]](https://github.com/ZhangGongjie/IMFA)
-- (arXiv 2022.09) A lightweight Transformer-based model for fish landmark detection, [[Paper]](https://arxiv.org/pdf/2209.05777.pdf)
-- (arXiv 2022.09) ComplETR: Reducing the cost of annotations for object detection in dense scenes with vision transformers, [[Paper]](https://arxiv.org/pdf/2209.05654.pdf)
-- (arXiv 2022.09) CenterFormer: Center-based Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2209.05588.pdf), [[Project]](https://github.com/TuSimple/centerformer)
-- (arXiv 2022.09) CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2209.06535.pdf)
 
 ### Enhancement
 - (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
@@ -882,6 +884,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Vision Transformer with Attentive Pooling for Robust Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2212.05463.pdf)
 - (arXiv 2023.01) SFI-Swin: Symmetric Face Inpainting with Swin Transformer by Distinctly Learning Face Components Distributions, [[Paper]](https://arxiv.org/pdf/2301.03130.pdf)
 - (arXiv 2023.02) PhysFormer++: Facial Video-based Physiological Measurement with SlowFast Temporal Difference Transformer, [[Paper]](https://arxiv.org/pdf/2302.03548.pdf)
+- (arXiv 2023.02) MorphGANFormer: Transformer-based Face Morphing and De-Morphing, [[Paper]](https://arxiv.org/pdf/2302.09404.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1358,6 +1361,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) SwinCross: Cross-modal Swin Transformer for Head-and-Neck Tumor Segmentation in PET/CT Images, [[Paper]](https://arxiv.org/pdf/2302.03861.pdf)
 - (arXiv 2023.02) Adapting Pre-trained Vision Transformers from 2D to 3D through Weight Inflation Improves Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2302.04303.pdf),[[Code]](https://github.com/yuhui-zh15/TransSeg)
 - (arXiv 2023.02) Bilateral-Fuser: A Novel Multi-cue Fusion Architecture with Anatomical-aware Tokens for Fovea Localization, [[Paper]](https://arxiv.org/pdf/2302.06961.pdf)
+- (arXiv 2023.02) MedViT: A Robust Vision Transformer for Generalized Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2302.09462.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1386,6 +1390,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Transformer-Based Learned Optimization, [[Paper]](https://arxiv.org/pdf/2212.01055.pdf)
 - (arXiv 2023.01) Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2301.08125.pdf)
 - (arXiv 2023.02) Robust Human Motion Forecasting using Transformer-based Model, [[Paper]](https://arxiv.org/pdf/2302.08274.pdf)
+- (arXiv 2023.02) STB-VMM: Swin Transformer Based Video Motion Magnification, [[Paper]](https://arxiv.org/pdf/2302.08274.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
