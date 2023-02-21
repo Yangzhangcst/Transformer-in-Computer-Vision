@@ -576,6 +576,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Reversible Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.04869.pdf), [[Code]](https://github.com/facebookresearch/slowfast)
 - (arXiv 2023.02) TFormer: A Transmission-Friendly ViT Model for IoT Devices, [[Paper]](https://arxiv.org/pdf/2302.07734.pdf)
 - (arXiv 2023.02) Efficiency 360: Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.08374.pdf)
+- (arXiv 2023.02) ViTA: A Vision Transformer Inference Accelerator for Edge Applications, [[Paper]](https://arxiv.org/pdf/2302.09108.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
