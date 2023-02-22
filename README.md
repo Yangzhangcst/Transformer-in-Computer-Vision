@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/21
+**Last updated: 2023/02/22
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -577,6 +577,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) TFormer: A Transmission-Friendly ViT Model for IoT Devices, [[Paper]](https://arxiv.org/pdf/2302.07734.pdf)
 - (arXiv 2023.02) Efficiency 360: Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.08374.pdf)
 - (arXiv 2023.02) ViTA: A Vision Transformer Inference Accelerator for Edge Applications, [[Paper]](https://arxiv.org/pdf/2302.09108.pdf)
+- (arXiv 2023.02) CertViT: Certified Robustness of Pre-Trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.10287.pdf), [[Code]](https://github.com/sagarverma/transformer-lipschitz)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -961,6 +962,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Rethinking Batch Sample Relationships for Data Representation: A Batch-Graph Transformer based Approach, [[Paper]](https://arxiv.org/pdf/2211.10622.pdf)
 - (arXiv 2022.12) A Generalization of ViT/MLP-Mixer to Graphs, [[Paper]](https://arxiv.org/pdf/2212.13350.pdf), [[Code]](https://github.com/XiaoxinHe/Graph-MLPMixer)
 - (arXiv 2023.02) Energy Transformer, [[Paper]](https://arxiv.org/pdf/2302.07253.pdf), [[Code]](https://github.com/bhoov/energy-transformer-jax)
+- (arXiv 2023.02) MulGT: Multi-task Graph-Transformer with Task-aware Knowledge Injection and Domain Knowledge-driven Pooling for Whole Slide Image Analysis, [[Paper]](https://arxiv.org/pdf/2302.10574.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -1054,6 +1056,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning, [[Paper]](https://arxiv.org/pdf/2212.08320.pdf), [[Code]](https://github.com/RunpeiDong/ACT)
 - (arXiv 2022.12) OVO: One-shot Vision Transformer Search with Online distillation, [[Paper]](https://arxiv.org/pdf/2212.13766.pdf)
 - (arXiv 2023.02) Knowledge Distillation in Vision Transformers: A Critical Review, [[Paper]](https://arxiv.org/pdf/2302.02108.pdf)
+- (arXiv 2023.02) MaskedKD: Efficient Distillation of Vision Transformers with Masked Images, [[Paper]](https://arxiv.org/pdf/2302.10494.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -1363,6 +1366,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Adapting Pre-trained Vision Transformers from 2D to 3D through Weight Inflation Improves Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2302.04303.pdf),[[Code]](https://github.com/yuhui-zh15/TransSeg)
 - (arXiv 2023.02) Bilateral-Fuser: A Novel Multi-cue Fusion Architecture with Anatomical-aware Tokens for Fovea Localization, [[Paper]](https://arxiv.org/pdf/2302.06961.pdf)
 - (arXiv 2023.02) MedViT: A Robust Vision Transformer for Generalized Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2302.09462.pdf)
+- (arXiv 2023.02) SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer,[[Paper]](https://arxiv.org/pdf/2302.10859.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2095,6 +2099,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Squeeze-enhanced Axial Transformer for mobile semantic segmentation, [[Paper]](https://arxiv.org/pdf/2301.13156.pdf), [[Code]](https://github.com/fudan-zvg/SeaFormer)
 - (arXiv 2023.02) Lithium Metal Battery Quality Control via Transformer-CNN Segmentation, [[Paper]](https://arxiv.org/pdf/2302.04824.pdf)
 - (arXiv 2023.02) TransUPR: A Transformer-based Uncertain Point Refiner for LiDAR Point Cloud Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2302.08594.pdf)
+- (arxiv 2023.02) Lightweight Real-time Semantic Segmentation Network with Efficient Transformer and CNN, [[Paper]](https://arxiv.org/pdf/2302.10484.pdf), [[Code]](https://github.com/IVIPLab/LETNet)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
