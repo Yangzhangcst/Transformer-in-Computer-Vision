@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/22
+**Last updated: 2023/02/23
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -814,6 +814,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) IH-ViT: Vision Transformer-based Integrated Circuit Appear-ance Defect Detection, [[Paper]](https://arxiv.org/pdf/2301.13592.pdf)
 - (arXiv 2023.02) Team-DETR: Guide Queries as a Professional Team in Detection Transformers, [[Paper]](https://arxiv.org/pdf/2302.07116.pdf),[[Code]](https://github.com/horrible-dong/TeamDETR)
 - (arXiv 2023.02) Hyneter: Hybrid Network Transformer for Object Detection, [[Paper]](https://arxiv.org/pdf/2302.09365.pdf)
+- (arXiv 2023.02) KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer, [[Paper]](https://arxiv.org/pdf/2302.11208.pdf),[[Code]](https://github.com/edocanonymous/KS-DETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1367,6 +1368,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Bilateral-Fuser: A Novel Multi-cue Fusion Architecture with Anatomical-aware Tokens for Fovea Localization, [[Paper]](https://arxiv.org/pdf/2302.06961.pdf)
 - (arXiv 2023.02) MedViT: A Robust Vision Transformer for Generalized Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2302.09462.pdf)
 - (arXiv 2023.02) SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer,[[Paper]](https://arxiv.org/pdf/2302.10859.pdf)
+- (arXiv 2023.02) Magnification Invariant Medical Image Analysis: A Comparison of Convolutional Networks, Vision Transformers, and Token Mixers, [[Paper]](https://arxiv.org/pdf/2302.11488.pdf)
+- (arXiv 2023.02) A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning, [[Paper]](https://arxiv.org/pdf/2302.11184.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1395,7 +1398,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Transformer-Based Learned Optimization, [[Paper]](https://arxiv.org/pdf/2212.01055.pdf)
 - (arXiv 2023.01) Diagnose Like a Pathologist: Transformer-Enabled Hierarchical Attention-Guided Multiple Instance Learning for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2301.08125.pdf)
 - (arXiv 2023.02) Robust Human Motion Forecasting using Transformer-based Model, [[Paper]](https://arxiv.org/pdf/2302.08274.pdf)
-- (arXiv 2023.02) STB-VMM: Swin Transformer Based Video Motion Magnification, [[Paper]](https://arxiv.org/pdf/2302.08274.pdf)
+- (arXiv 2023.02) STB-VMM: Swin Transformer Based Video Motion Magnification, [[Paper]](https://arxiv.org/pdf/2302.10001.pdf)
+- (arXiv 2023.02) Human MotionFormer: Transferring Human Motions with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.11306.pdf), [[Project]](https://github.com/KumapowerLIU/Human-MotionFormer)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2397,6 +2401,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Video Prediction by Efficient Transformers, [[Paper]](https://arxiv.org/pdf/2212.06026.pdf), [[Code]](https://github.com/XiYe20/VPTR)
 - (arXiv 2022.12) MAGVIT: Masked Generative Video Transformer, [[Paper]](https://arxiv.org/pdf/2212.06026.pdf), [[Code]](https://magvit.cs.cmu.edu/)
 - (arXiv 2022.12) Efficient Movie Scene Detection using State-Space Transformers, [[Paper]](https://arxiv.org/pdf/2212.14427.pdf)
+- (arXiv 2023.02) Video-SwinUNet: Spatio-temporal Deep Learning Framework for VFSS Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2302.11325.pdf), [[Code]](https://github.com/SimonZeng7108/Video-SwinUNet)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
