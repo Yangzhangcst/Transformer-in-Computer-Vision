@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/23
+**Last updated: 2023/02/24
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -1370,6 +1370,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) SF2Former: Amyotrophic Lateral Sclerosis Identification From Multi-center MRI Data Using Spatial and Frequency Fusion Transformer,[[Paper]](https://arxiv.org/pdf/2302.10859.pdf)
 - (arXiv 2023.02) Magnification Invariant Medical Image Analysis: A Comparison of Convolutional Networks, Vision Transformers, and Token Mixers, [[Paper]](https://arxiv.org/pdf/2302.11488.pdf)
 - (arXiv 2023.02) A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning, [[Paper]](https://arxiv.org/pdf/2302.11184.pdf)
+- (arXiv 2023.02) StudyFormer : Attention-Based and Dynamic Multi View Classifier for X-ray images, [[Paper]](https://arxiv.org/pdf/2302.11840.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2233,6 +2234,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Multi-target multi-camera vehicle tracking using transformer-based camera link model and spatial-temporal information, [[Paper]](https://arxiv.org/pdf/2301.07805.pdf)
 - (arXiv 2023.01) Compact Transformer Tracker with Correlative Masked Modeling, [[Paper]](https://arxiv.org/pdf/2301.10938.pdf), [[Project]](https://github.com/HUSTDML/CTTrack)
 - (arXiv 2023.01) MixFormer: End-to-End Tracking withIterative Mixed Attention, [[Paper]](https://arxiv.org/pdf/2302.02814.pdf), [[Code]](https://github.com/MCG-NJU/MixFormer)
+- (arXiv 2023.02) Transformers in Single Object Tracking: An Experimental Survey, [[Paper]](https://arxiv.org/pdf/2302.11867.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -2448,6 +2450,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
 - (arXiv 2021.09) Voxel Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.02497.pdf)
 - (arXiv 2022.06) Unifying Voxel-based Representation with Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2206.00630.pdf), [[Code]](https://github.com/dvlab-research/UVTR)
+- (arXiv 2023.02) VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2302.12251.pdf), [[Code]](https://github.com/NVlabs/VoxFormer)
 
 ### Weakly Supervised Learning
 - (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
