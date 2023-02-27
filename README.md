@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/24
+**Last updated: 2023/02/27
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -2105,6 +2105,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Lithium Metal Battery Quality Control via Transformer-CNN Segmentation, [[Paper]](https://arxiv.org/pdf/2302.04824.pdf)
 - (arXiv 2023.02) TransUPR: A Transformer-based Uncertain Point Refiner for LiDAR Point Cloud Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2302.08594.pdf)
 - (arxiv 2023.02) Lightweight Real-time Semantic Segmentation Network with Efficient Transformer and CNN, [[Paper]](https://arxiv.org/pdf/2302.10484.pdf), [[Code]](https://github.com/IVIPLab/LETNet)
+- (arxiv 2023.02) A Convolutional Vision Transformer for Semantic Segmentation of Side-Scan Sonar Data, [[Paper]](https://arxiv.org/pdf/2302.12416.pdf), [[Code]](https://github.com/hayatrajani/s3seg-vit)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
