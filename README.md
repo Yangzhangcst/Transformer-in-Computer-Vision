@@ -2654,6 +2654,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) A Theoretical Understanding of shallow Vision Transformers: Learning, Generalization, and Sample Complexity, [[Paper]](https://arxiv.org/pdf/2302.06015.pdf)
 - (arXiv 2023.02) ForceFormer: Exploring Social Force and Transformer for Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2302.07583.pdf)
 - (arXiv 2023.02) CK-Transformer: Commonsense Knowledge Enhanced Transformers for Referring Expression Comprehension, [[Paper]](https://arxiv.org/pdf/2302.09027.pdf), [[Code]](https://github.com/FightingFighting/CK-Transformer)
+- (arXiv 2023.02) TBFormer: Two-Branch Transformer for Image Forgery Localization, [[Paper]](https://arxiv.org/pdf/2302.13004.pdf)
 
 ## Contact & Feedback
 
