@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/02/28
+**Last updated: 2023/03/01
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -1858,6 +1858,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) SeqOT: A Spatial-Temporal Transformer Network for Place Recognition Using Sequential LiDAR Data, [[Paper]](https://arxiv.org/pdf/2209.07951.pdf), [[Code]](https://github.com/BIT-MJY/SeqOT)
 - (arXiv 2022.12) Part-guided Relational Transformers for Fine-grained Visual Recognition, [[Paper]](https://arxiv.org/pdf/2212.13685.pdf), [[Code]](https://github.com/iCVTEAM/PART)
 - (arXiv 2023.02) CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data, [[Paper]](https://arxiv.org/pdf/2302.01665.pdf), [[Code]](https://github.com/BIT-MJY/CVTNet)
+- (arXiv 2023.02) Rethink Long-tailed Recognition with Vision Transforms, [[Paper]](https://arxiv.org/pdf/2302.14284.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -1909,6 +1910,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Learning Progressive Modality-shared Transformers for Effective Visible-Infrared Person Re-identification, [[Paper]](https://arxiv.org/pdf/2212.00226.pdf), [[Code]](https://github.com/hulu88/PMT)
 - (arXiv 2023.01) Multi-Stage Spatio-Temporal Aggregation Transformer for Video Person Re-identification, [[Paper]](https://arxiv.org/pdf/2301.00531.pdf)
 - (arXiv 2023.02) X-ReID: Cross-Instance Transformer for Identity-Level Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2302.02075.pdf)
+- (arXiv 2023.02) DC-Former: Diverse and Compact Transformer for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2302.14335.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -2112,6 +2114,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.02) Lightweight Real-time Semantic Segmentation Network with Efficient Transformer and CNN, [[Paper]](https://arxiv.org/pdf/2302.10484.pdf), [[Code]](https://github.com/IVIPLab/LETNet)
 - (arxiv 2023.02) A Convolutional Vision Transformer for Semantic Segmentation of Side-Scan Sonar Data, [[Paper]](https://arxiv.org/pdf/2302.12416.pdf), [[Code]](https://github.com/hayatrajani/s3seg-vit)
 - (arxiv 2023.02) Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2302.13765.pdf), [[Code]](https://github.com/Rongtao-Xu/RepresentationLearning/tree/main/SCD-AAAI2023)
+- (arxiv 2023.02) TransAdapt: A Transformative Framework for Online Test Time Adaptive Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2302.14611.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
