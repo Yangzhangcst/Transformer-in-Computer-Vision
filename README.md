@@ -1754,6 +1754,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) FlatFormer: Flattened Window Attention for Efficient Point Cloud Transformer, [[Paper]](https://arxiv.org/pdf/2301.08739.pdf)
 - (arXiv 2023.01) Slice Transformer and Self-supervised Learning for 6DoF Localization in 3D Point Cloud Maps, [[Paper]](https://arxiv.org/pdf/2301.08957.pdf)
 - (arXiv 2023.02) TR3D: Towards Real-Time Indoor 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2302.02858.pdf), [[Code]](https://github.com/SamsungLabs/tr3d)
+- (arXiv 2023.02) ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer, [[Paper]](https://arxiv.org/pdf/2302.14435.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/ProxyFormer)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2029,6 +2030,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Foreign Object Debris Detection for Airport Pavement Images based on Self-supervised Localization and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.16901.pdf)
 - (arXiv 2022.12) Location-Aware Self-Supervised Transformers, [[Paper]](https://arxiv.org/pdf/2212.02400.pdf), [[Code]](https://github.com/google-research/scenic/tree/main/scenic/projects/loca)
 - (arXiv 2023.02) Real Estate Property Valuation using Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.00117.pdf)
+- (arXiv 2023.02) Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Label-Efficient Representations, [[Paper]](https://arxiv.org/pdf/2302.14138.pdf), [[Code]](https://github.com/VITA-Group/layerGraftedPretraining_ICLR23.git)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
