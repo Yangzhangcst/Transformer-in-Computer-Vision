@@ -2117,6 +2117,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.02) A Convolutional Vision Transformer for Semantic Segmentation of Side-Scan Sonar Data, [[Paper]](https://arxiv.org/pdf/2302.12416.pdf), [[Code]](https://github.com/hayatrajani/s3seg-vit)
 - (arxiv 2023.02) Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2302.13765.pdf), [[Code]](https://github.com/Rongtao-Xu/RepresentationLearning/tree/main/SCD-AAAI2023)
 - (arxiv 2023.02) TransAdapt: A Transformative Framework for Online Test Time Adaptive Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2302.14611.pdf)
+- (arxiv 2023.02) Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors, [[Paper]](https://arxiv.org/pdf/2302.14746.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
