@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/01
+**Last updated: 2023/03/02
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -818,6 +818,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Team-DETR: Guide Queries as a Professional Team in Detection Transformers, [[Paper]](https://arxiv.org/pdf/2302.07116.pdf),[[Code]](https://github.com/horrible-dong/TeamDETR)
 - (arXiv 2023.02) Hyneter: Hybrid Network Transformer for Object Detection, [[Paper]](https://arxiv.org/pdf/2302.09365.pdf)
 - (arXiv 2023.02) KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer, [[Paper]](https://arxiv.org/pdf/2302.11208.pdf),[[Code]](https://github.com/edocanonymous/KS-DETR)
+- (arXiv 2023.03) D2Q-DETR: Decoupling and Dynamic Queries for Oriented Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2303.00542.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1755,6 +1756,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Slice Transformer and Self-supervised Learning for 6DoF Localization in 3D Point Cloud Maps, [[Paper]](https://arxiv.org/pdf/2301.08957.pdf)
 - (arXiv 2023.02) TR3D: Towards Real-Time Indoor 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2302.02858.pdf), [[Code]](https://github.com/SamsungLabs/tr3d)
 - (arXiv 2023.02) ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer, [[Paper]](https://arxiv.org/pdf/2302.14435.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/ProxyFormer)
+- (arXiv 2023.03) Applying Plain Transformers to Real-World Point Clouds, [[Paper]](https://arxiv.org/pdf/2303.00086.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2118,6 +2120,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.02) Self Correspondence Distillation for End-to-End Weakly-Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2302.13765.pdf), [[Code]](https://github.com/Rongtao-Xu/RepresentationLearning/tree/main/SCD-AAAI2023)
 - (arxiv 2023.02) TransAdapt: A Transformative Framework for Online Test Time Adaptive Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2302.14611.pdf)
 - (arxiv 2023.02) Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors, [[Paper]](https://arxiv.org/pdf/2302.14746.pdf)
+- (arxiv 2023.03) DMSA: Dynamic Multi-scale Unsupervised Semantic Segmentation Based on Adaptive Affinity, [[Paper]](https://arxiv.org/pdf/2303.00199.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
