@@ -961,6 +961,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) User-Controllable Latent Transformer for StyleGAN Image Layout Editing, [[Paper]](https://arxiv.org/pdf/2208.12408.pdf), [[Code]](http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/UserControllableLT)
 - (arXiv 2023.02) CFFT-GAN: Cross-domain Feature Fusion Transformer for Exemplar-based Image Translation, [[Paper]](https://arxiv.org/pdf/2302.01608.pdf)
 - (arXiv 2023.02) TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation, [[Paper]](https://arxiv.org/pdf/2302.08047.pdf)
+- (arXiv 2023.03) StraIT: Non-autoregressive Generation with Stratified Image Transformer, [[Paper]](https://arxiv.org/pdf/2303.00750.pdf)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
