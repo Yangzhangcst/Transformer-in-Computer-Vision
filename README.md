@@ -582,6 +582,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) ViTA: A Vision Transformer Inference Accelerator for Edge Applications, [[Paper]](https://arxiv.org/pdf/2302.09108.pdf)
 - (arXiv 2023.02) CertViT: Certified Robustness of Pre-Trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.10287.pdf), [[Code]](https://github.com/sagarverma/transformer-lipschitz)
 - (arXiv 2023.03) Visual Atoms: Pre-training Vision Transformers with Sinusoidal Waves, [[Paper]](https://arxiv.org/pdf/2303.01112.pdf), [[Code]](https://masora1030.github.io/Visual-Atoms-Pre-training-Vision-Transformers-with-Sinusoidal-Waves/)
+- (arXiv 2023.03) Data-Efficient Training of CNNs and Transformers with Coresets: A Stability Perspective, [[Paper]](https://arxiv.org/pdf/2303.02095.pdf), [[Code]](https://github.com/transmuteAI/Data-Efficient-Transformers)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1384,6 +1385,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) A residual dense vision transformer for medical image super-resolution with segmentation-based perceptual loss fine-tuning, [[Paper]](https://arxiv.org/pdf/2302.11184.pdf)
 - (arXiv 2023.02) StudyFormer : Attention-Based and Dynamic Multi View Classifier for X-ray images, [[Paper]](https://arxiv.org/pdf/2302.11840.pdf)
 - (arXiv 2023.03) Meta-information-aware Dual-path Transformer for Differential Diagnosis of Multi-type Pancreatic Lesions in Multi-phase CT, [[Paper]](https://arxiv.org/pdf/2303.00942.pdf)
+- (arXiv 2023.03) TRUSformer: Improving Prostate Cancer Detection from Micro-Ultrasound Using Attention and Self-Supervision, [[Paper]](https://arxiv.org/pdf/2303.02128.pdf),[[Code]](https://github.com/med-i-lab/TRUSFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1828,6 +1830,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) HDFormer: High-order Directed Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2302.01825.pdf), [[Code]](https://github.com/hyer/HDFormer)
 - (arXiv 2023.02) HybrIK-Transformer, [[Paper]](https://arxiv.org/pdf/2302.04774.pdf), [[Code]](https://github.com/boreshkinai/hybrik-transformer)
 - (arXiv 2023.02) Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2302.07408.pdf)
+- (arXiv 2023.03) Depth-based 6DoF Object Pose Estimation using Swin Transformer, [[Paper]](https://arxiv.org/pdf/2303.02133.pdf), [[Code]](https://github.com/zhujunli1993/SwinDePose)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
