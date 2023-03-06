@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/03
+**Last updated: 2023/03/06
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -1414,6 +1414,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Robust Human Motion Forecasting using Transformer-based Model, [[Paper]](https://arxiv.org/pdf/2302.08274.pdf)
 - (arXiv 2023.02) STB-VMM: Swin Transformer Based Video Motion Magnification, [[Paper]](https://arxiv.org/pdf/2302.10001.pdf)
 - (arXiv 2023.02) Human MotionFormer: Transferring Human Motions with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.11306.pdf), [[Project]](https://github.com/KumapowerLIU/Human-MotionFormer)
+- (arXiv 2023.02) Multi-Scale Control Signal-Aware Transformer for Motion Synthesis without Phase, [[Paper]](https://arxiv.org/pdf/2303.01685.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -1924,6 +1925,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Multi-Stage Spatio-Temporal Aggregation Transformer for Video Person Re-identification, [[Paper]](https://arxiv.org/pdf/2301.00531.pdf)
 - (arXiv 2023.02) X-ReID: Cross-Instance Transformer for Identity-Level Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2302.02075.pdf)
 - (arXiv 2023.02) DC-Former: Diverse and Compact Transformer for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2302.14335.pdf)
+- (arXiv 2023.03) Feature Completion Transformer for Occluded Person Re-identification, [[Paper]](https://arxiv.org/pdf/2303.01656.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -1937,6 +1939,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Accurate Image Restoration with Attention Retractable Transformer, [[Paper]](https://arxiv.org/pdf/2210.01427.pdf), [[Code]](https://github.com/gladzhang/ART)
 - (arXiv 2022.11) Cross Aggregation Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2211.13654.pdf), [[Code]](https://github.com/zhengchen1999/CAT)
 - (arXiv 2023.01) Towards Vision Transformer Unrolling Fixed-Point Algorithm: a Case Study on Image Restoration, [[Paper]](https://arxiv.org/pdf/2301.12332.pdf)
+- (arXiv 2023.03) Retinal Image Restoration using Transformer and Cycle-Consistent Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2303.01939.pdf), [[Code]](https://github.com/AAleka/Transformer-Cycle-GAN)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
