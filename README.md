@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/07
+**Last updated: 2023/03/08
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -586,6 +586,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Visual Atoms: Pre-training Vision Transformers with Sinusoidal Waves, [[Paper]](https://arxiv.org/pdf/2303.01112.pdf), [[Code]](https://masora1030.github.io/Visual-Atoms-Pre-training-Vision-Transformers-with-Sinusoidal-Waves/)
 - (arXiv 2023.03) Data-Efficient Training of CNNs and Transformers with Coresets: A Stability Perspective, [[Paper]](https://arxiv.org/pdf/2303.02095.pdf), [[Code]](https://github.com/transmuteAI/Data-Efficient-Transformers)
 - (arXiv 2023.03) A Fast Training-Free Compression Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.02331.pdf), [[Code]](https://github.com/johnheo/fast-compress-vit)
+- (arXiv 2023.03) FFT-based Dynamic Token Mixer for Vision, [[Paper]](https://arxiv.org/pdf/2303.03932.pdf), [[Code]](https://github.com/okojoalg/dfformer)
+- (arXiv 2023.03) Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models, [[Paper]](https://arxiv.org/pdf/2303.04143.pdf), [[Code]](https://github.com/SamsungSAILMontreal/ghn3)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1091,6 +1093,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Geometry Aligned Variational Transformer for Image-conditioned Layout Generation, [[Paper]](https://arxiv.org/pdf/2209.00852.pdf)
 - (arXiv 2022.12) LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer, [[Paper]](https://arxiv.org/pdf/2212.09877.pdf), [[Code]](https://github.com/salesforce/LayoutDETR)
 - (arXiv 2022.12) PanoViT: Vision Transformer for Room Layout Estimation from a Single Panoramic Image, [[Paper]](https://arxiv.org/pdf/2212.12156.pdf)
+- (arXiv 2023.03) DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer, [[Paper]](https://arxiv.org/pdf/2303.03755.pdf)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -2221,6 +2224,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2210.09549.pdf)
 - (arXiv 2022.12) Exploring Vision Transformers as Diffusion Learners, [[Paper]](https://arxiv.org/pdf/2212.13771.pdf)
 - (arXiv 2023.01) Muse: Text-To-Image Generation via Masked Generative Transformers, [[Paper]](https://arxiv.org/pdf/2301.00704.pdf),[[Code]](http://muse-model.github.io/)
+- (arXiv 2023.03) Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding, [[Paper]](https://arxiv.org/pdf/2303.03800.pdf)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
@@ -2490,6 +2494,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.09) Voxel Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.02497.pdf)
 - (arXiv 2022.06) Unifying Voxel-based Representation with Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2206.00630.pdf), [[Code]](https://github.com/dvlab-research/UVTR)
 - (arXiv 2023.02) VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2302.12251.pdf), [[Code]](https://github.com/NVlabs/VoxFormer)
+- (arXiv 2023.03) Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams, [[Paper]](https://arxiv.org/pdf/2303.03856.pdf)
 
 ### Weakly Supervised Learning
 - (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
