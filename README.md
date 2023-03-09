@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/08
+**Last updated: 2023/03/09
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -1604,6 +1604,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv.2022.07) UniNet: Unified Architecture Search with Convolution, Transformer, and MLP, [[Paper]](https://arxiv.org/pdf/2207.05420.pdf), [[Code]](https://github.com/Sense-X/UniNet)
 - (arXiv.2022.09) NasHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing, [[Paper]](https://arxiv.org/pdf/2209.11356.pdf)
 - (arXiv.2022.11) NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction, [[Paper]](https://arxiv.org/pdf/2211.08024.pdf)
+- (arXiv 2023.03) HyT-NAS: Hybrid Transformers Neural Architecture Search for Edge Devices, [[Paper]](https://arxiv.org/pdf/2303.04440.pdf), [[Code]](https://anonymous.4open.science/r/HyT-NAS-Search-Algorithm-A864/README.md)
 
 ### Navigation
 - (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
@@ -1779,6 +1780,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Applying Plain Transformers to Real-World Point Clouds, [[Paper]](https://arxiv.org/pdf/2303.00086.pdf)
 - (arXiv 2023.03) BPT: Binary Point Cloud Transformer for Place Recognition, [[Paper]](https://arxiv.org/pdf/2303.01166.pdf)
 - (arXiv 2023.03) Improving the quality of dental crown using a Transformer-based method, [[Paper]](https://arxiv.org/pdf/2303.02426.pdf), [[Code]](https://github.com/Golriz-code/shellGeneration)
+- (arXiv 2023.03) Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space, [[Paper]](https://arxiv.org/pdf/2303.04599.pdf), [[Code]](https://github.com/yahuiliu99/PointConT)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2018,6 +2020,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) SG-Shuffle: Multi-aspect Shuffle Transformer for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2211.04773.pdf)
 - (arXiv 2022.11) Iterative Scene Graph Generation with Generative Transformers, [[Paper]](https://arxiv.org/pdf/2211.16636.pdf)
 - (arXiv 2022.12) SrTR: Self-reasoning Transformer with Visual-linguistic Knowledge for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2212.09329.pdf)
+- (arXiv 2023.03) Transformer-based Image Generation from Scene Graphs, [[Paper]](https://arxiv.org/pdf/2303.04634.pdf), [[Code]](https://github.com/perceivelab/trf-sg2im)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
