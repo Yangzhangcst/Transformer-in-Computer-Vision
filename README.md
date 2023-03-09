@@ -829,6 +829,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) KS-DETR: Knowledge Sharing in Attention Learning for Detection Transformer, [[Paper]](https://arxiv.org/pdf/2302.11208.pdf),[[Code]](https://github.com/edocanonymous/KS-DETR)
 - (arXiv 2023.03) D2Q-DETR: Decoupling and Dynamic Queries for Oriented Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2303.00542.pdf)
 - (arXiv 2023.03) FeatAug-DETR: Enriching One-to-Many Matching for DETRs with Feature Augmentation, [[Paper]](https://arxiv.org/pdf/2303.01503.pdf),[[Code]](https://github.com/rongyaofang/FeatAug-DETR)
+- (arXiv 2023.03) A Computer Vision Enabled damage detection model with improved YOLOv5 based on Transformer Prediction Head, [[Paper]](https://arxiv.org/pdf/2303.04275.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1954,6 +1955,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Cross Aggregation Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2211.13654.pdf), [[Code]](https://github.com/zhengchen1999/CAT)
 - (arXiv 2023.01) Towards Vision Transformer Unrolling Fixed-Point Algorithm: a Case Study on Image Restoration, [[Paper]](https://arxiv.org/pdf/2301.12332.pdf)
 - (arXiv 2023.03) Retinal Image Restoration using Transformer and Cycle-Consistent Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2303.01939.pdf), [[Code]](https://github.com/AAleka/Transformer-Cycle-GAN)
+- (arXiv 2023.03) SANDFORMER: CNN and Transformer under Gated Fusion for Sand Dust Image Restoration, [[Paper]](https://arxiv.org/pdf/2303.04365.pdf)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
@@ -2281,6 +2283,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Compact Transformer Tracker with Correlative Masked Modeling, [[Paper]](https://arxiv.org/pdf/2301.10938.pdf), [[Project]](https://github.com/HUSTDML/CTTrack)
 - (arXiv 2023.01) MixFormer: End-to-End Tracking withIterative Mixed Attention, [[Paper]](https://arxiv.org/pdf/2302.02814.pdf), [[Code]](https://github.com/MCG-NJU/MixFormer)
 - (arXiv 2023.02) Transformers in Single Object Tracking: An Experimental Survey, [[Paper]](https://arxiv.org/pdf/2302.11867.pdf)
+- (arXiv 2023.03) SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking, [[Paper]](https://arxiv.org/pdf/2303.04378.pdf), [[Code]](https://github.com/vision4robotics/SGDViT)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
