@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/09
+**Last updated: 2023/03/10
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -588,6 +588,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) A Fast Training-Free Compression Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.02331.pdf), [[Code]](https://github.com/johnheo/fast-compress-vit)
 - (arXiv 2023.03) FFT-based Dynamic Token Mixer for Vision, [[Paper]](https://arxiv.org/pdf/2303.03932.pdf), [[Code]](https://github.com/okojoalg/dfformer)
 - (arXiv 2023.03) Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models, [[Paper]](https://arxiv.org/pdf/2303.04143.pdf), [[Code]](https://github.com/SamsungSAILMontreal/ghn3)
+- (arXiv 2023.03) X-Pruner: eXplainable Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.04935.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -830,6 +831,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) D2Q-DETR: Decoupling and Dynamic Queries for Oriented Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2303.00542.pdf)
 - (arXiv 2023.03) FeatAug-DETR: Enriching One-to-Many Matching for DETRs with Feature Augmentation, [[Paper]](https://arxiv.org/pdf/2303.01503.pdf),[[Code]](https://github.com/rongyaofang/FeatAug-DETR)
 - (arXiv 2023.03) A Computer Vision Enabled damage detection model with improved YOLOv5 based on Transformer Prediction Head, [[Paper]](https://arxiv.org/pdf/2303.04275.pdf)
+- (arXiv 2023.03) ARS-DETR: Aspect Ratio Sensitive Oriented Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2303.04989.pdf),[[Code]](https://github.com/httle/ARS-DETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1395,6 +1397,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) StudyFormer : Attention-Based and Dynamic Multi View Classifier for X-ray images, [[Paper]](https://arxiv.org/pdf/2302.11840.pdf)
 - (arXiv 2023.03) Meta-information-aware Dual-path Transformer for Differential Diagnosis of Multi-type Pancreatic Lesions in Multi-phase CT, [[Paper]](https://arxiv.org/pdf/2303.00942.pdf)
 - (arXiv 2023.03) TRUSformer: Improving Prostate Cancer Detection from Micro-Ultrasound Using Attention and Self-Supervision, [[Paper]](https://arxiv.org/pdf/2303.02128.pdf),[[Code]](https://github.com/med-i-lab/TRUSFormer)
+- (arXiv 2023.03) UT-Net: Combining U-Net and Transformer for Joint Optic Disc and Cup Segmentation and Glaucoma Detection, [[Paper]](https://arxiv.org/pdf/2303.04939.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1782,6 +1785,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) BPT: Binary Point Cloud Transformer for Place Recognition, [[Paper]](https://arxiv.org/pdf/2303.01166.pdf)
 - (arXiv 2023.03) Improving the quality of dental crown using a Transformer-based method, [[Paper]](https://arxiv.org/pdf/2303.02426.pdf), [[Code]](https://github.com/Golriz-code/shellGeneration)
 - (arXiv 2023.03) Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space, [[Paper]](https://arxiv.org/pdf/2303.04599.pdf), [[Code]](https://github.com/yahuiliu99/PointConT)
+- (arXiv 2023.03) Efficient Transformer-based 3D Object Detection with Dynamic Token Halting, [[Paper]](https://arxiv.org/pdf/2303.05078.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1843,6 +1847,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) HybrIK-Transformer, [[Paper]](https://arxiv.org/pdf/2302.04774.pdf), [[Code]](https://github.com/boreshkinai/hybrik-transformer)
 - (arXiv 2023.02) Pose-Oriented Transformer with Uncertainty-Guided Refinement for 2D-to-3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2302.07408.pdf)
 - (arXiv 2023.03) Depth-based 6DoF Object Pose Estimation using Swin Transformer, [[Paper]](https://arxiv.org/pdf/2303.02133.pdf), [[Code]](https://github.com/zhujunli1993/SwinDePose)
+- (arXiv 2023.03) Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting, [[Paper]](https://arxiv.org/pdf/2303.05095.pdf)
+- (arXiv 2023.03) Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation, [[Paper]](https://arxiv.org/pdf/2303.04991.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
