@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/10
+**Last updated: 2023/03/13
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -985,6 +985,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) MulGT: Multi-task Graph-Transformer with Task-aware Knowledge Injection and Domain Knowledge-driven Pooling for Whole Slide Image Analysis, [[Paper]](https://arxiv.org/pdf/2302.10574.pdf)
 - (arXiv 2023.02) Contrastive Video Question Answering via Video Graph Transformer, [[Paper]](https://arxiv.org/pdf/2302.13668.pdf), [[Code]](https://github.com/doc-doc/CoVGT)
 - (arXiv 2023.03) AMIGO: Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images, [[Paper]](https://arxiv.org/pdf/2303.00865.pdf), [[Code]](https://github.com/doc-doc/CoVGT)
+- (arXiv 2023.03) An Adaptive GViT for Gas Mixture Identification and Concentration Estimation, [[Paper]](https://arxiv.org/pdf/2303.05685.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -1398,10 +1399,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Meta-information-aware Dual-path Transformer for Differential Diagnosis of Multi-type Pancreatic Lesions in Multi-phase CT, [[Paper]](https://arxiv.org/pdf/2303.00942.pdf)
 - (arXiv 2023.03) TRUSformer: Improving Prostate Cancer Detection from Micro-Ultrasound Using Attention and Self-Supervision, [[Paper]](https://arxiv.org/pdf/2303.02128.pdf),[[Code]](https://github.com/med-i-lab/TRUSFormer)
 - (arXiv 2023.03) UT-Net: Combining U-Net and Transformer for Joint Optic Disc and Cup Segmentation and Glaucoma Detection, [[Paper]](https://arxiv.org/pdf/2303.04939.pdf)
+- (arXiv 2023.03) Generalized Diffusion MRI Denoising and Super-Resolution using Swin Transformers, [[Paper]](https://arxiv.org/pdf/2303.05686.pdf),[[Code]](https://github.com/ucsfncl/dmri-swin)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
 - (arXiv 2022.11) TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer, [[Paper]](https://arxiv.org/pdf/2211.10705.pdf)
+- (arXiv 2023.03) GATOR: Graph-Aware Transformer with Motion-Disentangled Regression for Human Mesh Recovery from a 2D Pose, [[Paper]](https://arxiv.org/pdf/2303.05652.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1849,6 +1852,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Depth-based 6DoF Object Pose Estimation using Swin Transformer, [[Paper]](https://arxiv.org/pdf/2303.02133.pdf), [[Code]](https://github.com/zhujunli1993/SwinDePose)
 - (arXiv 2023.03) Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting, [[Paper]](https://arxiv.org/pdf/2303.05095.pdf)
 - (arXiv 2023.03) Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation, [[Paper]](https://arxiv.org/pdf/2303.04991.pdf)
+- (arXiv 2023.03) Human Pose Estimation from Ambiguous Pressure Recordings with Spatio-temporal Masked Transformers, [[Paper]](https://arxiv.org/pdf/2303.05691.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
