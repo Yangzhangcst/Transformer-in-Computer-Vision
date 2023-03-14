@@ -1600,7 +1600,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2301.13741.pdf)
 - (arXiv 2023.02) Rethinking Vision Transformer and Masked Autoencoder in Multimodal Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2302.05744.pdf)
 - (arXiv 2023.02) ViM: Vision Middleware for Unified Downstream Transferring, [[Paper]](https://arxiv.org/pdf/2303.06911.pdf)
-- (arXiv 2023.03) One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale, [[Paper]](https://arxiv.org/pdf/2303.06555.pdf)
+- (arXiv 2023.03) One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale, [[Paper]](https://arxiv.org/pdf/2303.06555.pdf), [[Code]](https://github.com/thu-ml/unidiffuser)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
