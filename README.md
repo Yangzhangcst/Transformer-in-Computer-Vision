@@ -706,6 +706,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Dense residual Transformer for image denoising, [[Paper]](https://arxiv.org/pdf/2205.00214.pdf)
 - (arXiv 2022.07) DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer, [[Paper]](https://arxiv.org/pdf/2207.13861.pdf)
 - (arXiv 2022.11) Spatial-Spectral Transformer for Hyperspectral Image Denoising, [[Paper]](https://arxiv.org/pdf/2211.14090.pdf), [[Code]](https://github.com/myuli/sst)
+- (arXiv 2023.03) Xformer: Hybrid X-Shaped Transformer for Image Denoising, [[Paper]](https://arxiv.org/pdf/2303.06440.pdf)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -1124,6 +1125,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
 - (arXiv 2022.08) TransMatting: Enhancing Transparent Objects Matting with Transformers, [[Paper]](https://arxiv.org/pdf/2208.03007.pdf), [[Code]](https://github.com/AceCHQ/TransMatting)
 - (arXiv 2022.08) VMFormer: End-to-End Video Matting with Transformer, [[Paper]](https://arxiv.org/pdf/2208.12801.pdf), [[Project]](https://chrisjuniorli.github.io/project/VMFormer/)
+- (arXiv 2023.03) TransMatting: Tri-token Equipped Transformer Model for Image Matting, [[Paper]](https://arxiv.org/pdf/2303.06476.pdf), [[Project]](https://github.com/AceCHQ/TransMatting)
 
 ### Medical
 - (arXiv 2021.02) TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2102.04306), [[Code]](https://github.com/Beckschen/TransUNet)
@@ -2226,6 +2228,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2212.14046.pdf), [[Code]](https://github.com/researchmm/FTVSR)
 - (arXiv 2023.01) Image Super-Resolution using Efficient Striped Window Transformer,  [[Paper]](https://arxiv.org/pdf/2301.09869.pdf), [[Code]](https://github.com/Fried-Rice-Lab/FriedRiceLab)
 - (arXiv 2023.02) OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer,  [[Paper]](https://arxiv.org/pdf/2302.03453.pdf), [[Code]](https://github.com/Fanghua-Yu/OSRT)
+- (arXiv 2023.03) CoT-MISR:Marrying Convolution and Transformer for Multi-Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.06548.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
