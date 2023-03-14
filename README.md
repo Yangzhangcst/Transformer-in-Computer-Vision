@@ -591,6 +591,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Can We Scale Transformers to Predict Parameters of Diverse ImageNet Models, [[Paper]](https://arxiv.org/pdf/2303.04143.pdf), [[Code]](https://github.com/SamsungSAILMontreal/ghn3)
 - (arXiv 2023.03) X-Pruner: eXplainable Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.04935.pdf)
 - (arXiv 2023.03) CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention, [[Paper]](https://arxiv.org/pdf/2303.06908.pdf), [[Code]](https://github.com/cheerss/CrossFormer)
+- (arXiv 2023.03) Stabilizing Transformer Training by Preventing Attention Entropy Collapse, [[Paper]](https://arxiv.org/pdf/2303.06296.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1409,6 +1410,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) UT-Net: Combining U-Net and Transformer for Joint Optic Disc and Cup Segmentation and Glaucoma Detection, [[Paper]](https://arxiv.org/pdf/2303.04939.pdf)
 - (arXiv 2023.03) Generalized Diffusion MRI Denoising and Super-Resolution using Swin Transformers, [[Paper]](https://arxiv.org/pdf/2303.05686.pdf),[[Code]](https://github.com/ucsfncl/dmri-swin)
 - (arXiv 2023.03) Pretrained ViTs Yield Versatile Representations For Medical Images, [[Paper]](https://arxiv.org/pdf/2303.07034.pdf)
+- (arXiv 2023.03) Deformable Cross-Attention Transformer for Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2303.06179.pdf)
+- (arXiv 2023.03) Endoscopy Classification Model Using Swin Transformer and Saliency Map, [[Paper]](https://arxiv.org/pdf/2303.06736.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1441,6 +1444,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) STB-VMM: Swin Transformer Based Video Motion Magnification, [[Paper]](https://arxiv.org/pdf/2302.10001.pdf)
 - (arXiv 2023.02) Human MotionFormer: Transferring Human Motions with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.11306.pdf), [[Project]](https://github.com/KumapowerLIU/Human-MotionFormer)
 - (arXiv 2023.02) Multi-Scale Control Signal-Aware Transformer for Motion Synthesis without Phase, [[Paper]](https://arxiv.org/pdf/2303.01685.pdf)
+- (arXiv 2023.03) SPOTR: Spatio-temporal Pose Transformers for Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2303.06277.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -1596,6 +1600,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2301.13741.pdf)
 - (arXiv 2023.02) Rethinking Vision Transformer and Masked Autoencoder in Multimodal Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2302.05744.pdf)
 - (arXiv 2023.02) ViM: Vision Middleware for Unified Downstream Transferring, [[Paper]](https://arxiv.org/pdf/2303.06911.pdf)
+- (arXiv 2023.03) One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale, [[Paper]](https://arxiv.org/pdf/2303.06555.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1933,6 +1938,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.02) A Transformer-based Network for Deformable Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2202.12104.pdf)
 - (arXiv 2022.03) Affine Medical Image Registration with Coarse-to-Fine Vision Transformer, [[Paper]](https://arxiv.org/pdf/2203.15216.pdf), [[Code]](https://github.com/cwmok/C2FViT)
 - (arXiv 2022.04) Symmetric Transformer-based Network for Unsupervised Image Registration, [[Paper]](https://arxiv.org/pdf/2204.13575.pdf), [[Code]](https://github.com/MingR-Ma/SymTrans)
+- (arXiv 2023.03) Spatially-varying Regularization with Conditional Transformer for Unsupervised Image Registration, [[Paper]](https://arxiv.org/pdf/2303.06168.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -2229,6 +2235,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Image Super-Resolution using Efficient Striped Window Transformer,  [[Paper]](https://arxiv.org/pdf/2301.09869.pdf), [[Code]](https://github.com/Fried-Rice-Lab/FriedRiceLab)
 - (arXiv 2023.02) OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer,  [[Paper]](https://arxiv.org/pdf/2302.03453.pdf), [[Code]](https://github.com/Fanghua-Yu/OSRT)
 - (arXiv 2023.03) CoT-MISR:Marrying Convolution and Transformer for Multi-Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.06548.pdf)
+- (arXiv 2023.03) Recursive Generalization Transformer for Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.06373.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
