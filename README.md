@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/13
+**Last updated: 2023/03/14
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -172,6 +172,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) MSTRIQ: No Reference Image Quality Assessment Based on Swin Transformer with Multi-Stage Fusion, [[Paper]](https://arxiv.org/pdf/2205.10101.pdf)
 - (arXiv 2022.08) DAHiTrA: Damage Assessment Using a Novel Hierarchical Transformer Architecture, [[Paper]](https://arxiv.org/pdf/2208.02205.pdf)
 - (arXiv 2022.10) DCVQE: A Hierarchical Transformer for Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2210.04377.pdf)
+- (arXiv 2023.03) ST360IQ: No-Reference Omnidirectional Image Quality Assessment with Spherical Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.06907.pdf), [[Code]](https://github.com/Nafiseh-Tofighi/ST360IQ)
 
 ### Augmentation 
 - (arXiv 2022.10) TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers, [[Paper]](https://arxiv.org/pdf/2210.07562.pdf), [[Code]](https://github.com/mlvlab/TokenMixup)
@@ -673,6 +674,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) URCDC-Depth: Uncertainty Rectified Cross-Distillation with CutFlip for Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2302.08149.pdf), [[Code]](https://github.com/ShuweiShao/URCDC-Depth)
 - (arXiv 2023.03) STDepthFormer: Predicting Spatio-temporal Depth from Video with a Self-supervised Transformer Model, [[Paper]](https://arxiv.org/pdf/2303.01196.pdf), [[Code]](https://github.com/ShuweiShao/URCDC-Depth)
 - (arXiv 2023.03) DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2303.02968.pdf)
+- (arXiv 2023.03) DEHRFormer: Real-time Transformer for Depth Estimation and Haze Removal from Varicolored Haze Scenes, [[Paper]](https://arxiv.org/pdf/2303.06905.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -832,6 +834,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) FeatAug-DETR: Enriching One-to-Many Matching for DETRs with Feature Augmentation, [[Paper]](https://arxiv.org/pdf/2303.01503.pdf),[[Code]](https://github.com/rongyaofang/FeatAug-DETR)
 - (arXiv 2023.03) A Computer Vision Enabled damage detection model with improved YOLOv5 based on Transformer Prediction Head, [[Paper]](https://arxiv.org/pdf/2303.04275.pdf)
 - (arXiv 2023.03) ARS-DETR: Aspect Ratio Sensitive Oriented Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2303.04989.pdf),[[Code]](https://github.com/httle/ARS-DETR)
+- (arXiv 2023.03) Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR, [[Paper]](https://arxiv.org/pdf/2303.07335.pdf),[[Code]](https://github.com/IDEA-Research/Lite-DETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1439,6 +1442,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.10) Transformer-based Dual Relation Graph for Multi-label Image Recognition, [[Paper]](https://arxiv.org/pdf/2110.04722.pdf), [[Code]](https://github.com/iCVTEAM/TDRG)
 - (arXiv 2020.11) General Multi-label Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14027)
 - (arXiv 2022.03) Graph Attention Transformer Network for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2203.04049.pdf)
+- (arXiv 2022.03) Incomplete Multi-View Multi-Label Learning via Label-Guided Masked Viewand Category-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2303.07180.pdf)
 
 ### Multi-task/modal
 - (arXiv 2021.02) Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxiv.org/abs/2102.10772), [[Code]](https://mmf.sh/)
@@ -2162,6 +2166,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.02) TransAdapt: A Transformative Framework for Online Test Time Adaptive Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2302.14611.pdf)
 - (arxiv 2023.02) Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors, [[Paper]](https://arxiv.org/pdf/2302.14746.pdf)
 - (arxiv 2023.03) DMSA: Dynamic Multi-scale Unsupervised Semantic Segmentation Based on Adaptive Affinity, [[Paper]](https://arxiv.org/pdf/2303.00199.pdf)
+- (arxiv 2023.03) MP-Former: Mask-Piloted Transformer for Image Segmentation, [[Paper]](https://arxiv.org/pdf/2303.07336.pdf), [[Code]](https://github.com/IDEA-Research/MP-Former)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
