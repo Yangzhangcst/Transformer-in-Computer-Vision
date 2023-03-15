@@ -916,6 +916,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) MorphGANFormer: Transformer-based Face Morphing and De-Morphing, [[Paper]](https://arxiv.org/pdf/2302.09404.pdf)
 - (arXiv 2023.03) Enhancing General Face Forgery Detection via Vision Transformer with Low-Rank Adaptation, [[Paper]](https://arxiv.org/pdf/2303.00917.pdf)
 - (arXiv 2023.03) DAA: A Delta Age AdaIN operation for age estimation via binary code transformer, [[Paper]](https://arxiv.org/pdf/2303.07929.pdf)
+- (arXiv 2023.03) Precise Facial Landmark Detection by Reference Heatmap Transformer, [[Paper]](https://arxiv.org/pdf/2303.07840.pdf)
+- (arXiv 2023.03) Quaternion Orthogonal Transformer for Facial Expression Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2303.07831.pdf),[[Code]](https://github.com/Gabrella/QOT)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -2095,6 +2097,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Real Estate Property Valuation using Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.00117.pdf)
 - (arXiv 2023.02) Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Label-Efficient Representations, [[Paper]](https://arxiv.org/pdf/2302.14138.pdf), [[Code]](https://github.com/VITA-Group/layerGraftedPretraining_ICLR23.git)
 - (arXiv 2023.03) ST-KeyS: Self-Supervised Transformer for Keyword Spotting in Historical Handwritten Documents, [[Paper]](https://arxiv.org/pdf/2303.03127.pdf)
+- (arXiv 2023.03) AdPE: Adversarial Positional Embeddings for Pretraining Vision Transformers via MAE+, [[Paper]](https://arxiv.org/pdf/2303.07598.pdf), [[Code]](https://github.com/maple-research-lab/AdPE)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
