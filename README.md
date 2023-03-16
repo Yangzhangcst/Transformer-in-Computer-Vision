@@ -593,6 +593,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) X-Pruner: eXplainable Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.04935.pdf)
 - (arXiv 2023.03) CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention, [[Paper]](https://arxiv.org/pdf/2303.06908.pdf), [[Code]](https://github.com/cheerss/CrossFormer)
 - (arXiv 2023.03) Stabilizing Transformer Training by Preventing Attention Entropy Collapse, [[Paper]](https://arxiv.org/pdf/2303.06296.pdf)
+- (arXiv 2023.03) Making Vision Transformers Efficient from A Token Sparsification View, [[Paper]](https://arxiv.org/pdf/2303.08685.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -842,6 +843,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR, [[Paper]](https://arxiv.org/pdf/2303.07335.pdf),[[Code]](https://github.com/IDEA-Research/Lite-DETR)
 - (arXiv 2023.03) FAQ: Feature Aggregated Queries for Transformer-based Video Object Detectors, [[Paper]](https://arxiv.org/pdf/2303.08319.pdf)
 - (arXiv 2023.03) Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch, [[Paper]](https://arxiv.org/pdf/2303.08784.pdf)
+- (arXiv 2023.03) SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2303.08481.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -992,6 +994,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation, [[Paper]](https://arxiv.org/pdf/2302.08047.pdf)
 - (arXiv 2023.03) StraIT: Non-autoregressive Generation with Stratified Image Transformer, [[Paper]](https://arxiv.org/pdf/2303.00865.pdf)
 - (arXiv 2023.03) Graph Transformer GANs for Graph-Constrained House Generation, [[Paper]](https://arxiv.org/pdf/2303.08225.pdf)
+- (arXiv 2023.03) Investigating GANsformer: A Replication Study of a State-of-the-Art Image Generation Model, [[Paper]](https://arxiv.org/pdf/2303.08577.pdf)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
@@ -1818,6 +1821,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space, [[Paper]](https://arxiv.org/pdf/2303.04599.pdf), [[Code]](https://github.com/yahuiliu99/PointConT)
 - (arXiv 2023.03) Efficient Transformer-based 3D Object Detection with Dynamic Token Halting, [[Paper]](https://arxiv.org/pdf/2303.05078.pdf)
 - (arXiv 2023.03) Rotation-Invariant Transformer for Point Cloud Matching, [[Paper]](https://arxiv.org/pdf/2303.08231.pdf)
+- (arXiv 2023.03) Quality evaluation of point clouds: a novel no-reference approach using transformer-based architecture, [[Paper]](https://arxiv.org/pdf/2303.08634.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
