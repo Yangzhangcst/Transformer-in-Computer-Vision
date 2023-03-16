@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/15
+**Last updated: 2023/03/16
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -840,6 +840,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) A Computer Vision Enabled damage detection model with improved YOLOv5 based on Transformer Prediction Head, [[Paper]](https://arxiv.org/pdf/2303.04275.pdf)
 - (arXiv 2023.03) ARS-DETR: Aspect Ratio Sensitive Oriented Object Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2303.04989.pdf),[[Code]](https://github.com/httle/ARS-DETR)
 - (arXiv 2023.03) Lite DETR : An Interleaved Multi-Scale Encoder for Efficient DETR, [[Paper]](https://arxiv.org/pdf/2303.07335.pdf),[[Code]](https://github.com/IDEA-Research/Lite-DETR)
+- (arXiv 2023.03) FAQ: Feature Aggregated Queries for Transformer-based Video Object Detectors, [[Paper]](https://arxiv.org/pdf/2303.08319.pdf)
+- (arXiv 2023.03) Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch, [[Paper]](https://arxiv.org/pdf/2303.08784.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -918,6 +920,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) DAA: A Delta Age AdaIN operation for age estimation via binary code transformer, [[Paper]](https://arxiv.org/pdf/2303.07929.pdf)
 - (arXiv 2023.03) Precise Facial Landmark Detection by Reference Heatmap Transformer, [[Paper]](https://arxiv.org/pdf/2303.07840.pdf)
 - (arXiv 2023.03) Quaternion Orthogonal Transformer for Facial Expression Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2303.07831.pdf),[[Code]](https://github.com/Gabrella/QOT)
+- (arXiv 2023.03) Multi-Modal Facial Expression Recognition with Transformer-Based Fusion Networks and Dynamic Sampling, [[Paper]](https://arxiv.org/pdf/2303.08419.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -988,6 +991,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) CFFT-GAN: Cross-domain Feature Fusion Transformer for Exemplar-based Image Translation, [[Paper]](https://arxiv.org/pdf/2302.01608.pdf)
 - (arXiv 2023.02) TcGAN: Semantic-Aware and Structure-Preserved GANs with Individual Vision Transformer for Fast Arbitrary One-Shot Image Generation, [[Paper]](https://arxiv.org/pdf/2302.08047.pdf)
 - (arXiv 2023.03) StraIT: Non-autoregressive Generation with Stratified Image Transformer, [[Paper]](https://arxiv.org/pdf/2303.00865.pdf)
+- (arXiv 2023.03) Graph Transformer GANs for Graph-Constrained House Generation, [[Paper]](https://arxiv.org/pdf/2303.08225.pdf)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
@@ -1043,6 +1047,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) D3Former: Debiased Dual Distilled Transformer for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2208.00777.pdf), [[Code]](https://tinyurl.com/d3former)
 - (arXiv 2022.10) A Memory Transformer Network for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2210.04485.pdf)
 - (arXiv 2023.01) Combined Use of Federated Learning and Image Encryption for Privacy-Preserving Image Classification with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2301.09255.pdf)
+- (arXiv 2023.03) Learning to Grow Artificial Hippocampi in Vision Transformers for Resilient Lifelong Learning, [[Paper]](https://arxiv.org/pdf/2303.08250.pdf)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -1417,6 +1422,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Deformable Cross-Attention Transformer for Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2303.06179.pdf)
 - (arXiv 2023.03) Endoscopy Classification Model Using Swin Transformer and Saliency Map, [[Paper]](https://arxiv.org/pdf/2303.06736.pdf)
 - (arXiv 2023.03) TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing, [[Paper]](https://arxiv.org/pdf/2303.07428.pdf),[[Code]](https://github.com/DebeshJha)
+- (arXiv 2023.03) Efficiently Training Vision Transformers on Structural MRI Scans for Alzheimer's Disease Detection, [[Paper]](https://arxiv.org/pdf/2303.08216.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1614,6 +1620,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) WT-MVSNet: Window-based Transformers for Multi-view Stereo, [[Paper]](https://arxiv.org/pdf/2205.14319.pdf), [[Code]](https://github.com/JeffWang987)
 - (arXiv 2022.08) MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo, [[Paper]](https://arxiv.org/pdf/2208.02541.pdf)
 - (arXiv 2022.08) A Light Touch Approach to Teaching Transformers Multi-view Geometry, [[Paper]](https://arxiv.org/pdf/2211.15107.pdf)
+- (arXiv 2023.03) Implicit Ray-Transformers for Multi-view Remote Sensing Image Segmentation, [[Paper]](https://arxiv.org/pdf/2303.08401.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -1810,6 +1817,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Improving the quality of dental crown using a Transformer-based method, [[Paper]](https://arxiv.org/pdf/2303.02426.pdf), [[Code]](https://github.com/Golriz-code/shellGeneration)
 - (arXiv 2023.03) Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space, [[Paper]](https://arxiv.org/pdf/2303.04599.pdf), [[Code]](https://github.com/yahuiliu99/PointConT)
 - (arXiv 2023.03) Efficient Transformer-based 3D Object Detection with Dynamic Token Halting, [[Paper]](https://arxiv.org/pdf/2303.05078.pdf)
+- (arXiv 2023.03) Rotation-Invariant Transformer for Point Cloud Matching, [[Paper]](https://arxiv.org/pdf/2303.08231.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1874,6 +1882,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Trajectory-Aware Body Interaction Transformer for Multi-Person Pose Forecasting, [[Paper]](https://arxiv.org/pdf/2303.05095.pdf)
 - (arXiv 2023.03) Deformer: Dynamic Fusion Transformer for Robust Hand Pose Estimation, [[Paper]](https://arxiv.org/pdf/2303.04991.pdf)
 - (arXiv 2023.03) Human Pose Estimation from Ambiguous Pressure Recordings with Spatio-temporal Masked Transformers, [[Paper]](https://arxiv.org/pdf/2303.05691.pdf)
+- (arXiv 2023.03) PoseRAC: Pose Saliency Transformer for Repetitive Action Counting, [[Paper]](https://arxiv.org/pdf/2303.08450.pdf), [[Code]](https://github.com/MiracleDance/PoseRAC)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
