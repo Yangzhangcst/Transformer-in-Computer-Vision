@@ -594,6 +594,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) CrossFormer++: A Versatile Vision Transformer Hinging on Cross-scale Attention, [[Paper]](https://arxiv.org/pdf/2303.06908.pdf), [[Code]](https://github.com/cheerss/CrossFormer)
 - (arXiv 2023.03) Stabilizing Transformer Training by Preventing Attention Entropy Collapse, [[Paper]](https://arxiv.org/pdf/2303.06296.pdf)
 - (arXiv 2023.03) Making Vision Transformers Efficient from A Token Sparsification View, [[Paper]](https://arxiv.org/pdf/2303.08685.pdf)
+- (arXiv 2023.03) BiFormer: Vision Transformer with Bi-Level Routing Attention, [[Paper]](https://arxiv.org/pdf/2303.08810.pdf), [[Code]](https://github.com/rayleizhu/BiFormer)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
