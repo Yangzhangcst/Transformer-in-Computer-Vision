@@ -1010,6 +1010,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
 
+### High Dynamic Range Imaging
+- (arXiv 2022.08) Ghost-free High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
+- (arXiv 2023.03) SpiderMesh: Spatial-aware Demand-guided Recursive Meshing for RGB-T Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2303.08704.pdf)
+
 ### HOI
 - (CVPR'21) HOTR: End-to-End Human-Object Interaction Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.13682.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
 - (arXiv 2021.03) QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information, [[Paper]](https://arxiv.org/pdf/2103.05399), [[Code]](https://github.com/hitachi-rd-cv/qpic)
@@ -2697,7 +2701,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) LaTTe: Language Trajectory TransformEr, [[Paper]](https://arxiv.org/pdf/2208.02918.pdf), [[Code]](https://github.com/arthurfenderbucker/NL_trajectory_reshaper)
 - (arXiv 2022.08) DALLE-URBAN: Capturing the urban design expertise of large text to image transformers, [[Paper]](https://arxiv.org/pdf/2208.04139.pdf), [[Code]](https://github.com/sachith500/DALLEURBAN)
 - (arXiv 2022.08) Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model, [[Paper]](https://arxiv.org/pdf/2208.03987.pdf), [[Code]](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)
-- (arXiv 2022.08) Ghost-free High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
 - (arXiv 2022.08) A Vision Transformer-Based Approach to Bearing Fault Classification via Vibration Signals, [[Paper]](https://arxiv.org/pdf/2208.07070.pdf)
 - (arXiv 2022.08) SnowFormer: Scale-aware Transformer via Context Interaction for Single Image Desnowing, [[Paper]](https://arxiv.org/pdf/2208.09703.pdf), [[Code]](https://github.com/Ephemeral182/SnowFormer)
 - (arXiv 2022.08) Hierarchical Local-Global Transformer for Temporal Sentence Grounding, [[Paper]](https://arxiv.org/pdf/2208.14882.pdf)
