@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/16
+**Last updated: 2023/03/17
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -133,6 +133,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Video Action Recognition Collaborative Learning with Dynamics via PSO-ConvNet Transformer, [[Paper]](https://arxiv.org/pdf/2302.09187.pdf),[[Code]](https://github.com/leonlha/Video-Action-Recognition-via-PSO-ConvNet-Transformer-Collaborative-Learning-with-Dynamics)
 - (arXiv 2023.02) Spatial-temporal Transformer-guided Diffusion based Data Augmentation for Efficient Skeleton-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2302.13434.pdf)
 - (arXiv 2023.02) Temporal Segment Transformer for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2302.13074.pdf)
+- (arXiv 2023.03) EgoViT: Pyramid Video Transformer for Egocentric Action Recognition, [[Paper]](https://arxiv.org/pdf/2303.08920.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -711,6 +712,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer, [[Paper]](https://arxiv.org/pdf/2207.13861.pdf)
 - (arXiv 2022.11) Spatial-Spectral Transformer for Hyperspectral Image Denoising, [[Paper]](https://arxiv.org/pdf/2211.14090.pdf), [[Code]](https://github.com/myuli/sst)
 - (arXiv 2023.03) Xformer: Hybrid X-Shaped Transformer for Image Denoising, [[Paper]](https://arxiv.org/pdf/2303.06440.pdf)
+- (arXiv 2023.03) Hybrid Spectral Denoising Transformer with Learnable Query, [[Paper]](https://arxiv.org/pdf/2303.09040.pdf)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -924,6 +926,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Precise Facial Landmark Detection by Reference Heatmap Transformer, [[Paper]](https://arxiv.org/pdf/2303.07840.pdf)
 - (arXiv 2023.03) Quaternion Orthogonal Transformer for Facial Expression Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2303.07831.pdf),[[Code]](https://github.com/Gabrella/QOT)
 - (arXiv 2023.03) Multi-Modal Facial Expression Recognition with Transformer-Based Fusion Networks and Dynamic Sampling, [[Paper]](https://arxiv.org/pdf/2303.08419.pdf)
+- (arXiv 2023.03) Facial Affect Recognition based on Transformer Encoder and Audiovisual Fusion for the ABAW5 Challenge, [[Paper]](https://arxiv.org/pdf/2303.09158.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -953,6 +956,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Mask Matching Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2301.01208.pdf), [[Code]](https://github.com/Picsart-AI-Research/Mask-Matching-Transformer)
 - (arXiv 2023.01) Exploring Efficient Few-shot Adaptation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2301.02419.pdf), [[Code]](https://github.com/loadder/eTT_TMLR2022)
 - (arXiv 2023.01) Continual Few-Shot Learning Using HyperTransformers, [[Paper]](https://arxiv.org/pdf/2301.04584.pdf)
+- (arXiv 2023.02) SpatialFormer: Semantic and Target Aware Attentions for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2303.09281.pdf)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -996,6 +1000,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) StraIT: Non-autoregressive Generation with Stratified Image Transformer, [[Paper]](https://arxiv.org/pdf/2303.00865.pdf)
 - (arXiv 2023.03) Graph Transformer GANs for Graph-Constrained House Generation, [[Paper]](https://arxiv.org/pdf/2303.08225.pdf)
 - (arXiv 2023.03) Investigating GANsformer: A Replication Study of a State-of-the-Art Image Generation Model, [[Paper]](https://arxiv.org/pdf/2303.08577.pdf)
+- (arXiv 2023.03) StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model, [[Paper]](https://arxiv.org/pdf/2303.09268.pdf), [[Code]](https://github.com/zipengxuc/StylerDALLE)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
@@ -1431,6 +1436,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Endoscopy Classification Model Using Swin Transformer and Saliency Map, [[Paper]](https://arxiv.org/pdf/2303.06736.pdf)
 - (arXiv 2023.03) TransNetR: Transformer-based Residual Network for Polyp Segmentation with Multi-Center Out-of-Distribution Testing, [[Paper]](https://arxiv.org/pdf/2303.07428.pdf),[[Code]](https://github.com/DebeshJha)
 - (arXiv 2023.03) Efficiently Training Vision Transformers on Structural MRI Scans for Alzheimer's Disease Detection, [[Paper]](https://arxiv.org/pdf/2303.08216.pdf)
+- (arXiv 2023.03) MATIS: Masked-Attention Transformers for Surgical Instrument Segmentation, [[Paper]](https://arxiv.org/pdf/2303.09514.pdf)
+- (arXiv 2023.03) SwinVFTR: A Novel Volumetric Feature-learning Transformer for 3D OCT Fluid Segmentation, [[Paper]](https://arxiv.org/pdf/2303.09233.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2508,6 +2515,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) MAGVIT: Masked Generative Video Transformer, [[Paper]](https://arxiv.org/pdf/2212.06026.pdf), [[Code]](https://magvit.cs.cmu.edu/)
 - (arXiv 2022.12) Efficient Movie Scene Detection using State-Space Transformers, [[Paper]](https://arxiv.org/pdf/2212.14427.pdf)
 - (arXiv 2023.02) Video-SwinUNet: Spatio-temporal Deep Learning Framework for VFSS Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2302.11325.pdf), [[Code]](https://github.com/SimonZeng7108/Video-SwinUNet)
+- (arXiv 2023.03) Multimodal Feature Extraction and Fusion for Emotional Reaction Intensity Estimation and Expression Classification in Videos with Transformers, [[Paper]](https://arxiv.org/pdf/2303.09164.pdf)
+- (arXiv 2023.03) A transformer-based approach to video frame-level prediction in Affective Behaviour Analysis In-the-wild, [[Paper]](https://arxiv.org/pdf/2303.09293.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -2537,6 +2546,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models, [[Paper]](https://arxiv.org/pdf/2210.05950.pdf), [[Project]](https://slotformer.github.io/)
 - (arXiv 2022.12) MIST: Multi-modal Iterative Spatial-Temporal Transformer for Long-form Video Question Answering, [[Paper]](https://arxiv.org/pdf/2212.09522.pdf), [[Project]](https://github.com/showlab/mist)
 - (arXiv 2023.02) Efficient End-to-End Video Question Answering with Pyramidal Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2302.02136.pdf), [[Project]](https://github.com/Trunpm/PMT-AAAI23)
+- (arXiv 2023.03) PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers, [[Paper]](https://arxiv.org/pdf/2303.09187.pdf)
+
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
