@@ -640,6 +640,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Counting Varying Density Crowds Through Density Guided Adaptive Selection CNN and Transformer Estimation, [[Paper]](https://arxiv.org/pdf/2206.10075.pdf)
 - (arXiv 2022.08) CounTR: Transformer-based Generalised Visual Counting, [[Paper]](https://arxiv.org/pdf/2208.13721.pdf)
 - (arXiv 2023.01) RGB-T Multi-Modal Crowd Counting Based on Transformer, [[Paper]](https://arxiv.org/pdf/2301.03033.pdf), [[Code]](https://github.com/liuzywen/RGBTCC)
+- (arXiv 2023.03) InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views, [[Paper]](https://arxiv.org/pdf/2303.09534.pdf)
 
 ### Deblurring
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
