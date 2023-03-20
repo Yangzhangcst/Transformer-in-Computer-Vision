@@ -134,6 +134,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Spatial-temporal Transformer-guided Diffusion based Data Augmentation for Efficient Skeleton-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2302.13434.pdf)
 - (arXiv 2023.02) Temporal Segment Transformer for Action Segmentation, [[Paper]](https://arxiv.org/pdf/2302.13074.pdf)
 - (arXiv 2023.03) EgoViT: Pyramid Video Transformer for Egocentric Action Recognition, [[Paper]](https://arxiv.org/pdf/2303.08920.pdf)
+- (arXiv 2023.03) Vision Transformer for Action Units Detection, [[Paper]](https://arxiv.org/pdf/2303.09917.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -191,6 +192,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) A Dual-Cycled Cross-View Transformer Network for Unified Road Layout Estimation and 3D Object Detection in the Bird's-Eye-View, [[Paper]](https://arxiv.org/pdf/2209.08844.pdf)
 - (arXiv 2022.09) BEV-LGKD: A Unified LiDAR-Guided Knowledge Distillation Framework for BEV 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2212.00623.pdf)
 - (arXiv 2023.02) DA-BEV: Depth Aware BEV Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2302.13002.pdf)
+- (arXiv 2023.03) TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2303.09998.pdf), [[Code]](https://github.com/MediaBrain-SJTU/TBP-Former)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -2353,6 +2355,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) MixFormer: End-to-End Tracking withIterative Mixed Attention, [[Paper]](https://arxiv.org/pdf/2302.02814.pdf), [[Code]](https://github.com/MCG-NJU/MixFormer)
 - (arXiv 2023.02) Transformers in Single Object Tracking: An Experimental Survey, [[Paper]](https://arxiv.org/pdf/2302.11867.pdf)
 - (arXiv 2023.03) SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking, [[Paper]](https://arxiv.org/pdf/2303.04378.pdf), [[Code]](https://github.com/vision4robotics/SGDViT)
+- (arXiv 2023.03) Event-based Human Pose Tracking by Spiking Spatiotemporal Transformer, [[Paper]](https://arxiv.org/pdf/2303.09681.pdf), [[Code]](https://github.com/JimmyZou/HumanPoseTracking_SNN)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -2555,7 +2558,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) MIST: Multi-modal Iterative Spatial-Temporal Transformer for Long-form Video Question Answering, [[Paper]](https://arxiv.org/pdf/2212.09522.pdf), [[Project]](https://github.com/showlab/mist)
 - (arXiv 2023.02) Efficient End-to-End Video Question Answering with Pyramidal Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2302.02136.pdf), [[Project]](https://github.com/Trunpm/PMT-AAAI23)
 - (arXiv 2023.03) PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers, [[Paper]](https://arxiv.org/pdf/2303.09187.pdf)
-
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
@@ -2774,6 +2776,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Enhancing Classification with Hierarchical Scalable Query on Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2302.14487.pdf)
 - (arXiv 2023.03) BEL: A Bag Embedding Loss for Transformer enhances Multiple Instance Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2303.01377.pdf)
 - (arXiv 2023.03) Estimating Extreme 3D Image Rotation with Transformer Cross-Attention, [[Paper]](https://arxiv.org/pdf/2303.02615.pdf), [[Code]](https://anonymous.4open.science/r/AttExtremeRotation-A467/)
+- (arXiv 2023.03) Dual-path Adaptation from Image to Video Transformers, [[Paper]](https://arxiv.org/pdf/2303.09857.pdf), [[Code]](https://github.com/park-jungin/DualPath)
 
 ## Contact & Feedback
 
