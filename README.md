@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/17
+**Last updated: 2023/03/20
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -596,6 +596,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Stabilizing Transformer Training by Preventing Attention Entropy Collapse, [[Paper]](https://arxiv.org/pdf/2303.06296.pdf)
 - (arXiv 2023.03) Making Vision Transformers Efficient from A Token Sparsification View, [[Paper]](https://arxiv.org/pdf/2303.08685.pdf)
 - (arXiv 2023.03) BiFormer: Vision Transformer with Bi-Level Routing Attention, [[Paper]](https://arxiv.org/pdf/2303.08810.pdf), [[Code]](https://github.com/rayleizhu/BiFormer)
+- (arXiv 2023.03) ElasticViT: Conflict-aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices, [[Paper]](https://arxiv.org/pdf/2303.09730.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1439,6 +1440,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Efficiently Training Vision Transformers on Structural MRI Scans for Alzheimer's Disease Detection, [[Paper]](https://arxiv.org/pdf/2303.08216.pdf)
 - (arXiv 2023.03) MATIS: Masked-Attention Transformers for Surgical Instrument Segmentation, [[Paper]](https://arxiv.org/pdf/2303.09514.pdf)
 - (arXiv 2023.03) SwinVFTR: A Novel Volumetric Feature-learning Transformer for 3D OCT Fluid Segmentation, [[Paper]](https://arxiv.org/pdf/2303.09233.pdf)
+- (arXiv 2023.03) MedNeXt: Transformer-driven Scaling of ConvNets for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2303.09975.pdf)
+- (arXiv 2023.03) GNNFormer: A Graph-based Framework for Cytopathology Report Generation, [[Paper]](https://arxiv.org/pdf/2303.09956.pdf)
+- (arXiv 2023.03) Shifted-Windows Transformers for the Detection of Cerebral Aneurysms in Microsurgery, [[Paper]](https://arxiv.org/pdf/2303.09648.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1677,6 +1681,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering inIndoor Scenes, [[Paper]](https://arxiv.org/pdf/2206.08423.pdf), [[Code]](https://github.com/ViLab-UCSD/IRISformer)
 - (arXiv 2022.07) Vision Transformer for NeRF-Based View Synthesis from a Single Input Image, [[Paper]](https://arxiv.org/pdf/2207.05736.pdf), [[Project]](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)
 - (arXiv 2022.09) NeRF-Loc: Transformer-Based Object Localization Within Neural Radiance Fields, [[Paper]](https://arxiv.org/pdf/2209.12068.pdf)
+- (arXiv 2023.03) Single-view Neural Radiance Fields with Depth Teacher, [[Paper]](https://arxiv.org/pdf/2303.09952.pdf)
 
 ### OCR
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
@@ -2268,6 +2273,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) OSRT: Omnidirectional Image Super-Resolution with Distortion-aware Transformer,  [[Paper]](https://arxiv.org/pdf/2302.03453.pdf), [[Code]](https://github.com/Fanghua-Yu/OSRT)
 - (arXiv 2023.03) CoT-MISR:Marrying Convolution and Transformer for Multi-Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.06548.pdf)
 - (arXiv 2023.03) Recursive Generalization Transformer for Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.06373.pdf)
+- (arXiv 2023.03) SRFormer: Permuted Self-Attention for Single Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.06373.pdf), [[Code]](https://github.com/HVision-NKU/SRFormer)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -2518,6 +2524,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Video-SwinUNet: Spatio-temporal Deep Learning Framework for VFSS Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2302.11325.pdf), [[Code]](https://github.com/SimonZeng7108/Video-SwinUNet)
 - (arXiv 2023.03) Multimodal Feature Extraction and Fusion for Emotional Reaction Intensity Estimation and Expression Classification in Videos with Transformers, [[Paper]](https://arxiv.org/pdf/2303.09164.pdf)
 - (arXiv 2023.03) A transformer-based approach to video frame-level prediction in Affective Behaviour Analysis In-the-wild, [[Paper]](https://arxiv.org/pdf/2303.09293.pdf)
+- (arXiv 2023.03) TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction, [[Paper]](https://arxiv.org/pdf/2303.09807.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
