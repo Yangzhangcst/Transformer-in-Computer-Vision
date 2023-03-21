@@ -181,6 +181,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers, [[Paper]](https://arxiv.org/pdf/2210.07562.pdf), [[Code]](https://github.com/mlvlab/TokenMixup)
 - (arXiv 2022.12) SMMix: Self-Motivated Image Mixing for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.12977.pdf), [[Code]](https://github.com/ChenMnZ/SMMix)
 
+### Audio 
+- (arXiv 2023.03) Multiscale Audio Spectrogram Transformer for Efficient Audio Classification, [[Paper]](https://arxiv.org/pdf/2303.10757.pdf)
+
 ### Bird's-Eye-View
 - (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
 - (arXiv 2022.05) ViT-BEVSeg: A Hierarchical Transformer Network for Monocular Birds-Eye-View Segmentation, [[Paper]](https://arxiv.org/pdf/2205.15667.pdf), [[Code]](https://github.com/robotvisionmu/ViT-BEVSeg)
@@ -934,6 +937,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Quaternion Orthogonal Transformer for Facial Expression Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2303.07831.pdf),[[Code]](https://github.com/Gabrella/QOT)
 - (arXiv 2023.03) Multi-Modal Facial Expression Recognition with Transformer-Based Fusion Networks and Dynamic Sampling, [[Paper]](https://arxiv.org/pdf/2303.08419.pdf)
 - (arXiv 2023.03) Facial Affect Recognition based on Transformer Encoder and Audiovisual Fusion for the ABAW5 Challenge, [[Paper]](https://arxiv.org/pdf/2303.09158.pdf)
+- (arXiv 2023.03) Spatial-temporal Transformer for Affective Behavior Analysis, [[Paper]](https://arxiv.org/pdf/2303.10561.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1008,6 +1012,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Graph Transformer GANs for Graph-Constrained House Generation, [[Paper]](https://arxiv.org/pdf/2303.08225.pdf)
 - (arXiv 2023.03) Investigating GANsformer: A Replication Study of a State-of-the-Art Image Generation Model, [[Paper]](https://arxiv.org/pdf/2303.08577.pdf)
 - (arXiv 2023.03) StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model, [[Paper]](https://arxiv.org/pdf/2303.09268.pdf), [[Code]](https://github.com/zipengxuc/StylerDALLE)
+- (arXiv 2023.03) Q-RBSA: High-Resolution 3D EBSD Map Generation Using An Efficient Quaternion Transformer Network, [[Paper]](https://arxiv.org/pdf/2303.10722.pdf)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
@@ -1448,6 +1453,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) MedNeXt: Transformer-driven Scaling of ConvNets for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2303.09975.pdf)
 - (arXiv 2023.03) GNNFormer: A Graph-based Framework for Cytopathology Report Generation, [[Paper]](https://arxiv.org/pdf/2303.09956.pdf)
 - (arXiv 2023.03) Shifted-Windows Transformers for the Detection of Cerebral Aneurysms in Microsurgery, [[Paper]](https://arxiv.org/pdf/2303.09648.pdf)
+- (arXiv 2023.03) CerviFormer: A Pap-smear based cervical cancer classification method using cross attention and latent transformer, [[Paper]](https://arxiv.org/pdf/2303.10222.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2224,6 +2230,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.02) Mask3D: Pre-training 2D Vision Transformers by Learning Masked 3D Priors, [[Paper]](https://arxiv.org/pdf/2302.14746.pdf)
 - (arxiv 2023.03) DMSA: Dynamic Multi-scale Unsupervised Semantic Segmentation Based on Adaptive Affinity, [[Paper]](https://arxiv.org/pdf/2303.00199.pdf)
 - (arxiv 2023.03) MP-Former: Mask-Piloted Transformer for Image Segmentation, [[Paper]](https://arxiv.org/pdf/2303.07336.pdf), [[Code]](https://github.com/IDEA-Research/MP-Former)
+- (arxiv 2023.03) MECPformer: Multi-estimations Complementary Patch with CNN-Transformers for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2303.10689.pdf), [[Code]](https://github.com/ChunmengLiu1/MECPformer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
