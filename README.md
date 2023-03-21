@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/20
+**Last updated: 2023/03/21
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -2528,6 +2528,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Multimodal Feature Extraction and Fusion for Emotional Reaction Intensity Estimation and Expression Classification in Videos with Transformers, [[Paper]](https://arxiv.org/pdf/2303.09164.pdf)
 - (arXiv 2023.03) A transformer-based approach to video frame-level prediction in Affective Behaviour Analysis In-the-wild, [[Paper]](https://arxiv.org/pdf/2303.09293.pdf)
 - (arXiv 2023.03) TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction, [[Paper]](https://arxiv.org/pdf/2303.09807.pdf)
+- (arXiv 2023.03) Towards End-to-End Generative Modeling of Long Videos with Memory-Efficient Bidirectional Transformers, [[Paper]](https://arxiv.org/pdf/2303.11251.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
