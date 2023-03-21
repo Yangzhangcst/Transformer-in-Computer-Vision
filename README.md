@@ -182,6 +182,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) SMMix: Self-Motivated Image Mixing for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.12977.pdf), [[Code]](https://github.com/ChenMnZ/SMMix)
 
 ### Audio 
+- (arXiv 2022.11) ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation, [[Paper]](https://arxiv.org/pdf/2211.13189.pdf)
 - (arXiv 2023.03) Multiscale Audio Spectrogram Transformer for Efficient Audio Classification, [[Paper]](https://arxiv.org/pdf/2303.10757.pdf)
 
 ### Bird's-Eye-View
@@ -2766,7 +2767,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Demystify Self-Attention in Vision Transformers from a Semantic Perspective: Analysis and Application, [[Paper]](https://arxiv.org/pdf/2211.08543.pdf)
 - (arXiv 2022.11) FlowLens: Seeing Beyond the FoV via Flow-guided Clip-Recurrent Transformer, [[Paper]](https://arxiv.org/pdf/2211.11293.pdf), [[Code]](https://github.com/MasterHow/FlowLens)
 - (arXiv 2022.11) Event Transformer+. A multi-purpose solution for efficient event data processing, [[Paper]](https://arxiv.org/pdf/2211.12222.pdf)
-- (arXiv 2022.11) ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation, [[Paper]](https://arxiv.org/pdf/2211.13189.pdf)
 - (arXiv 2022.11) A Dual-scale Lead-seperated Transformer With Lead-orthogonal Attention And Meta-information For Ecg Classification, [[Paper]](https://arxiv.org/pdf/2211.12777.pdf)
 - (arXiv 2022.11) RGB no more: Minimally-decoded JPEG Vision Transformers, [[Paper]](https://arxiv.org/pdf/2211.16421.pdf)
 - (arXiv 2022.11) Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing, [[Paper]](https://arxiv.org/pdf/2211.16499.pdf), [[Code]](https://counterfactualsimulation.github.io/)
