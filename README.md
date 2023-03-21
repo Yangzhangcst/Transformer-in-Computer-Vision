@@ -599,6 +599,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Making Vision Transformers Efficient from A Token Sparsification View, [[Paper]](https://arxiv.org/pdf/2303.08685.pdf)
 - (arXiv 2023.03) BiFormer: Vision Transformer with Bi-Level Routing Attention, [[Paper]](https://arxiv.org/pdf/2303.08810.pdf), [[Code]](https://github.com/rayleizhu/BiFormer)
 - (arXiv 2023.03) ElasticViT: Conflict-aware Supernet Training for Deploying Fast Vision Transformer on Diverse Mobile Devices, [[Paper]](https://arxiv.org/pdf/2303.09730.pdf)
+- (arXiv 2023.03) Robustifying Token Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.11126.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -626,6 +627,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Uformer-ICS: A Specialized U-Shaped Transformer for Image Compressive Sensing, [[Paper]](https://arxiv.org/pdf/2209.01763.pdf)
 - (arXiv 2022.09) Attacking Compressed Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.13785.pdf)
 - (arXiv 2023.01) GOHSP: A Unified Framework of Graph and Optimization-based Heterogeneous Structured Pruning for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2301.05345.pdf)
+- (arXiv 2023.03) SeiT: Storage-Efficient Vision Training with Tokens Using 1% of Pixel Storage, [[Paper]](https://arxiv.org/pdf/2303.11114.pdf), [[Code]](https://github.com/naver-ai/seit)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -2089,6 +2091,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Iterative Scene Graph Generation with Generative Transformers, [[Paper]](https://arxiv.org/pdf/2211.16636.pdf)
 - (arXiv 2022.12) SrTR: Self-reasoning Transformer with Visual-linguistic Knowledge for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2212.09329.pdf)
 - (arXiv 2023.03) Transformer-based Image Generation from Scene Graphs, [[Paper]](https://arxiv.org/pdf/2303.04634.pdf), [[Code]](https://github.com/perceivelab/trf-sg2im)
+- (arXiv 2023.03) Revisiting Transformer for Point Cloud-based 3D Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2303.11048.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -2356,6 +2359,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Transformers in Single Object Tracking: An Experimental Survey, [[Paper]](https://arxiv.org/pdf/2302.11867.pdf)
 - (arXiv 2023.03) SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking, [[Paper]](https://arxiv.org/pdf/2303.04378.pdf), [[Code]](https://github.com/vision4robotics/SGDViT)
 - (arXiv 2023.03) Event-based Human Pose Tracking by Spiking Spatiotemporal Transformer, [[Paper]](https://arxiv.org/pdf/2303.09681.pdf), [[Code]](https://github.com/JimmyZou/HumanPoseTracking_SNN)
+- (arXiv 2023.03) Tracker Meets Night: A Transformer Enhancer for UAV Tracking, [[Paper]](https://arxiv.org/pdf/2303.10951.pdf), [[Code]](https://github.com/vision4robotics/SCT)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
