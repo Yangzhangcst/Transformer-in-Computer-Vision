@@ -687,6 +687,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) STDepthFormer: Predicting Spatio-temporal Depth from Video with a Self-supervised Transformer Model, [[Paper]](https://arxiv.org/pdf/2303.01196.pdf), [[Code]](https://github.com/ShuweiShao/URCDC-Depth)
 - (arXiv 2023.03) DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2303.02968.pdf)
 - (arXiv 2023.03) DEHRFormer: Real-time Transformer for Depth Estimation and Haze Removal from Varicolored Haze Scenes, [[Paper]](https://arxiv.org/pdf/2303.06905.pdf)
+- (arXiv 2023.03) Channel-Aware Distillation Transformer for Depth Estimation on Nano Drones, [[Paper]](https://arxiv.org/pdf/2303.10386.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -2279,6 +2280,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) CoT-MISR:Marrying Convolution and Transformer for Multi-Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.06548.pdf)
 - (arXiv 2023.03) Recursive Generalization Transformer for Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.06373.pdf)
 - (arXiv 2023.03) SRFormer: Permuted Self-Attention for Single Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.06373.pdf), [[Code]](https://github.com/HVision-NKU/SRFormer)
+- (arXiv 2023.03) LSwinSR: UAV Imagery Super-Resolution based on Linear Swin Transformer,  [[Paper]](https://arxiv.org/pdf/2303.10232.pdf), [[Code]](https://github.com/lironui/LSwinSR)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
