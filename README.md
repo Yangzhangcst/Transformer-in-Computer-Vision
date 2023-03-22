@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/21
+**Last updated: 2023/03/22
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -184,6 +184,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Audio 
 - (arXiv 2022.11) ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation, [[Paper]](https://arxiv.org/pdf/2211.13189.pdf)
 - (arXiv 2023.03) Multiscale Audio Spectrogram Transformer for Efficient Audio Classification, [[Paper]](https://arxiv.org/pdf/2303.10757.pdf)
+- (arXiv 2023.03) ModEFormer: Modality-Preserving Embedding for Audio-Video Synchronization using Transformers, [[Paper]](https://arxiv.org/pdf/2303.11551.pdf)
 
 ### Bird's-Eye-View
 - (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
@@ -713,6 +714,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Vision Transformers for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2204.03883.pdf)
 - (arXiv 2022.10) Semi-UFormer: Semi-supervised Uncertainty-aware Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2210.16057.pdf)
 - (arXiv 2023.03) SelfPromer: Self-Prompt Dehazing Transformers with Depth-Consistency, [[Paper]](https://arxiv.org/pdf/2210.16057.pdf)
+
+### Deraining
+- (arXiv 2023.03) Learning A Sparse Transformer Network for Effective Image Deraining, [[Paper]](https://arxiv.org/pdf/2303.11950.pdf), [[Code]](https://github.com/cschenxiang/DRSformer)
 
 ### Denoising
 - (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
@@ -1455,6 +1459,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) GNNFormer: A Graph-based Framework for Cytopathology Report Generation, [[Paper]](https://arxiv.org/pdf/2303.09956.pdf)
 - (arXiv 2023.03) Shifted-Windows Transformers for the Detection of Cerebral Aneurysms in Microsurgery, [[Paper]](https://arxiv.org/pdf/2303.09648.pdf)
 - (arXiv 2023.03) CerviFormer: A Pap-smear based cervical cancer classification method using cross attention and latent transformer, [[Paper]](https://arxiv.org/pdf/2303.10222.pdf)
+- (arXiv 2023.03) Convolutions, Transformers, and their Ensembles for the Segmentation of Organs at Risk in Radiation Treatment of Cervical Cancer, [[Paper]](https://arxiv.org/pdf/2303.11501.pdf)
+- (arXiv 2023.03) HDformer: A Higher Dimensional Transformer for Diabetes Detection Utilizing Long Range Vascular Signals, [[Paper]](https://arxiv.org/pdf/2303.11340.pdf)
+- (arXiv 2023.03) 3D Mitochondria Instance Segmentation with Spatio-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2303.12073.pdf),[[Code]](https://github.com/OmkarThawakar/STT-UNET)
+- (arXiv 2023.03) Vision Transformer-based Model for Severity Quantification of Lung Pneumonia Using Chest X-ray Images, [[Paper]](https://arxiv.org/pdf/2303.11935.pdf),[[Code]](https://github.com/bouthainas/ViTReg-IP)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1730,6 +1738,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Pure Transformer with Integrated Experts for Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2211.04963.pdf)
 - (arXiv 2022.11) DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting, [[Paper]](https://arxiv.org/pdf/2211.10772.pdf)
 - (arXiv 2022.11) Aggregated Text Transformer for Scene Text Detection, [[Paper]](https://arxiv.org/pdf/2211.13984.pdf)
+- (arXiv 2023.03) Robust Table Structure Recognition with Dynamic Queries Enhanced Detection Transformer, [[Paper]](https://arxiv.org/pdf/2303.11615.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -2791,6 +2800,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) BEL: A Bag Embedding Loss for Transformer enhances Multiple Instance Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2303.01377.pdf)
 - (arXiv 2023.03) Estimating Extreme 3D Image Rotation with Transformer Cross-Attention, [[Paper]](https://arxiv.org/pdf/2303.02615.pdf), [[Code]](https://anonymous.4open.science/r/AttExtremeRotation-A467/)
 - (arXiv 2023.03) Dual-path Adaptation from Image to Video Transformers, [[Paper]](https://arxiv.org/pdf/2303.09857.pdf), [[Code]](https://github.com/park-jungin/DualPath)
+- (arXiv 2023.03) The Multiscale Surface Vision Transformer, [[Paper]](https://arxiv.org/pdf/2303.11909.pdf), [[Code]](https://github.com/metrics-lab/surface-vision-transformers)
 
 ## Contact & Feedback
 
