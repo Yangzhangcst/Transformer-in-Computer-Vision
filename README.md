@@ -2821,7 +2821,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Dual-path Adaptation from Image to Video Transformers, [[Paper]](https://arxiv.org/pdf/2303.09857.pdf), [[Code]](https://github.com/park-jungin/DualPath)
 - (arXiv 2023.03) The Multiscale Surface Vision Transformer, [[Paper]](https://arxiv.org/pdf/2303.11909.pdf), [[Code]](https://github.com/metrics-lab/surface-vision-transformers)
 - (arXiv 2023.03) Multiscale Attention via Wavelet Neural Operators for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.12398.pdf)
-
+- (arXiv 2023.03) Time Series as Images: Vision Transformer for Irregularly Sampled Time Series, [[Paper]](https://arxiv.org/pdf/2303.12799.pdf), [[Code]](https://github.com/Leezekun/ViTST)
+ 
 ## Contact & Feedback
 
 If you have any suggestions about this project, feel free to contact me.
