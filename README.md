@@ -136,6 +136,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) EgoViT: Pyramid Video Transformer for Egocentric Action Recognition, [[Paper]](https://arxiv.org/pdf/2303.08920.pdf)
 - (arXiv 2023.03) Vision Transformer for Action Units Detection, [[Paper]](https://arxiv.org/pdf/2303.09917.pdf)
 - (arXiv 2023.03) Group Activity Recognition using Self-supervised Approach of Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2303.12149.pdf)
+- (arXiv 2023.03) 3Mformer: Multi-order Multi-mode Transformer for Skeletal Action Recognition, [[Paper]](https://arxiv.org/pdf/2303.14474.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -641,6 +642,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Attacking Compressed Vision Transformers, [[Paper]](https://arxiv.org/pdf/2209.13785.pdf)
 - (arXiv 2023.01) GOHSP: A Unified Framework of Graph and Optimization-based Heterogeneous Structured Pruning for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2301.05345.pdf)
 - (arXiv 2023.03) SeiT: Storage-Efficient Vision Training with Tokens Using 1% of Pixel Storage, [[Paper]](https://arxiv.org/pdf/2303.11114.pdf), [[Code]](https://github.com/naver-ai/seit)
+- (arXiv 2023.03) Learned Image Compression with Mixed Transformer-CNN Architectures, [[Paper]](https://arxiv.org/pdf/2303.14978.pdf), [[Code]](https://github.com/jmliu206/LIC_TCM)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -718,6 +720,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Diffusion
 - (arXiv 2022.12) Scalable Diffusion Models with Transformers, [[Paper]](https://arxiv.org/pdf/2212.09748.pdf), [[Code]](https://www.wpeebles.com/DiT)
+- (arXiv 2023.03) Masked Diffusion Transformer is a Strong Image Synthesizer, [[Paper]](https://arxiv.org/pdf/2303.14389.pdf), [[Code]](https://github.com/sail-sg/MDT)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -1143,6 +1146,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) OVO: One-shot Vision Transformer Search with Online distillation, [[Paper]](https://arxiv.org/pdf/2212.13766.pdf)
 - (arXiv 2023.02) Knowledge Distillation in Vision Transformers: A Critical Review, [[Paper]](https://arxiv.org/pdf/2302.02108.pdf)
 - (arXiv 2023.02) MaskedKD: Efficient Distillation of Vision Transformers with Masked Images, [[Paper]](https://arxiv.org/pdf/2302.10494.pdf)
+- (arXiv 2023.03) Multi-view knowledge distillation transformer for human action recognition, [[Paper]](https://arxiv.org/pdf/2303.14358.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -1763,12 +1767,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Aggregated Text Transformer for Scene Text Detection, [[Paper]](https://arxiv.org/pdf/2211.13984.pdf)
 - (arXiv 2023.03) Robust Table Structure Recognition with Dynamic Queries Enhanced Detection Transformer, [[Paper]](https://arxiv.org/pdf/2303.11615.pdf)
 - (arXiv 2023.03) MSdocTr-Lite: A Lite Transformer for Full Page Multi-script Handwriting Recognition, [[Paper]](https://arxiv.org/pdf/2303.13931.pdf)
+- (arXiv 2023.03) DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality, [[Paper]](https://arxiv.org/pdf/2303.14585.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
 - (arXiv 2023.03) OcTr: Octree-based Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2303.12621.pdf)
 
-### Open Set Recognition
+### Open World
 - (arXiv 2022.03) Open Set Recognition using Vision Transformer with an Additional Detection Head, [[Paper]](https://arxiv.org/pdf/2203.08441.pdf)
 - (arXiv 2022.06) OOD Augmentation May Be at Odds with Open-Set Recognition, [[Paper]](https://arxiv.org/pdf/2206.04242.pdf)
 - (arXiv 2022.07) Scaling Novel Object Detection with Weakly Supervised Detection Transformers, [[Paper]](https://arxiv.org/pdf/2207.05205.pdf)
@@ -1777,6 +1782,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) PROB: Probabilistic Objectness for Open World Object Detection, [[Paper]](https://arxiv.org/pdf/2212.01424.pdf), [[Code]](https://github.com/feiyang-cai/osr_vit)
 - (arXiv 2022.12) Open World DETR: Transformer based Open World Object Detection, [[Paper]](https://arxiv.org/pdf/2212.02969.pdf)
 - (arXiv 2023.01) CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection, [[Paper]](https://arxiv.org/pdf/2301.01970.pdf), [[Code]](https://github.com/xiaomabufei/CAT)
+- (arXiv 2023.03) Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2303.14386.pdf)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
@@ -1889,6 +1895,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Quality evaluation of point clouds: a novel no-reference approach using transformer-based architecture, [[Paper]](https://arxiv.org/pdf/2303.08634.pdf)
 - (arXiv 2023.03) Spherical Transformer for LiDAR-based 3D Recognition, [[Paper]](https://arxiv.org/pdf/2303.12766.pdf), [[Code]](https://github.com/dvlab-research/SphereFormer.git)
 - (arXiv 2023.03) Context-Aware Transformer for 3D Point Cloud Automatic Annotation, [[Paper]](https://arxiv.org/pdf/2303.14893.pdf)
+- (arXiv 2023.03) ViPFormer: Efficient Vision-and-Pointcloud Transformer for Unsupervised Pointcloud Understanding, [[Paper]](https://arxiv.org/pdf/2303.14893.pdf), [[Code]](https://github.com/auniquesun/ViPFormer)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -1981,6 +1988,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Oscillation-free Quantization for Low-bit Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.02210.pdf)
 - (arXiv 2023.03) Q-HyViT: Post-Training Quantization for Hybrid Vision Transformer with Bridge Block Reconstruction, [[Paper]](https://arxiv.org/pdf/2303.12557.pdf), [[Code]](https://github.com/Q-HyViT)
 - (arXiv 2023.03) Scaled Quantization for the Vision Transformer, [[Paper]](https://arxiv.org/pdf/2303.13601.pdf)
+- (arXiv 2023.03) Towards Accurate Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2303.14341.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -2332,6 +2340,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) SRFormer: Permuted Self-Attention for Single Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.06373.pdf), [[Code]](https://github.com/HVision-NKU/SRFormer)
 - (arXiv 2023.03) LSwinSR: UAV Imagery Super-Resolution based on Linear Swin Transformer,  [[Paper]](https://arxiv.org/pdf/2303.10232.pdf), [[Code]](https://github.com/lironui/LSwinSR)
 - (arXiv 2023.03) PFT-SSR: Parallax Fusion Transformer for Stereo Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.13807.pdf), [[Code]](https://github.com/MIVRC/PFT-PyTorch)
+- (arXiv 2023.03) Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.14324.pdf), [[Code]](https://github.com/Aitical/TCSR)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
