@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/03/27
+**Last updated: 2023/03/28
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -610,6 +610,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization, [[Paper]](https://arxiv.org/pdf/2303.14189.pdf)
 - (arXiv 2023.03) Sparsifiner: Learning Sparse Instance-Dependent Attention for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.13755.pdf)
 - (arXiv 2023.03) How Does Attention Work in Vision Transformers? A Visual Analytics Attempt, [[Paper]](https://arxiv.org/pdf/2303.13731.pdf)
+- (arXiv 2023.03) SwiftFormer: Efficient Additive Attention for Transformer-based Real-time Mobile Vision Applications, [[Paper]](https://arxiv.org/pdf/2303.15446.pdf), [[Code]](https://tinyurl.com/5ft8v46w)
+- (arXiv 2023.03) Vision Transformer with Quadrangle Attention, [[Paper]](https://arxiv.org/pdf/2303.15105.pdf), [[Code]](https://github.com/ViTAE-Transformer/QFormer)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -664,6 +666,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) VDTR: Video Deblurring with Transformer, [[Paper]](https://arxiv.org/pdf/2204.08023.pdf), [[Code]](https://github.com/ljzycmd/VDTR)
 - (arXiv 2022.09) DMTNet: Dynamic Multi-scale Network for Dual-pixel Images Defocus Deblurring with Transformer, [[Paper]](https://arxiv.org/pdf/2209.06040.pdf)
 - (arXiv 2022.11) Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring, [[Paper]](https://arxiv.org/pdf/2211.12250.pdf), [[Code]](https://github.com/kkkls/FFTformer)
+- (arXiv 2023.03) Image Deblurring by Exploring In-depth Properties of Transformer, [[Paper]](https://arxiv.org/pdf/2303.15198.pdf)
+
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
@@ -869,6 +873,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch, [[Paper]](https://arxiv.org/pdf/2303.08784.pdf)
 - (arXiv 2023.03) SeqCo-DETR: Sequence Consistency Training for Self-Supervised Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2303.08481.pdf)
 - (arXiv 2023.03) MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer, [[Paper]](https://arxiv.org/pdf/2303.13018.pdf)
+- (arXiv 2023.03) Transformer-based Multi-Instance Learning for Weakly Supervised Object Detection, [[Paper]](https://arxiv.org/pdf/2303.14999.pdf)
+- (arXiv 2023.03) Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2303.14816.pdf),[[Code]](https://github.com/ZhouHuang23/FSPNet)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1882,6 +1888,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Rotation-Invariant Transformer for Point Cloud Matching, [[Paper]](https://arxiv.org/pdf/2303.08231.pdf)
 - (arXiv 2023.03) Quality evaluation of point clouds: a novel no-reference approach using transformer-based architecture, [[Paper]](https://arxiv.org/pdf/2303.08634.pdf)
 - (arXiv 2023.03) Spherical Transformer for LiDAR-based 3D Recognition, [[Paper]](https://arxiv.org/pdf/2303.12766.pdf), [[Code]](https://github.com/dvlab-research/SphereFormer.git)
+- (arXiv 2023.03) Context-Aware Transformer for 3D Point Cloud Automatic Annotation, [[Paper]](https://arxiv.org/pdf/2303.14893.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2176,6 +2183,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Layer Grafted Pre-training: Bridging Contrastive Learning And Masked Image Modeling For Label-Efficient Representations, [[Paper]](https://arxiv.org/pdf/2302.14138.pdf), [[Code]](https://github.com/VITA-Group/layerGraftedPretraining_ICLR23.git)
 - (arXiv 2023.03) ST-KeyS: Self-Supervised Transformer for Keyword Spotting in Historical Handwritten Documents, [[Paper]](https://arxiv.org/pdf/2303.03127.pdf)
 - (arXiv 2023.03) AdPE: Adversarial Positional Embeddings for Pretraining Vision Transformers via MAE+, [[Paper]](https://arxiv.org/pdf/2303.07598.pdf), [[Code]](https://github.com/maple-research-lab/AdPE)
+- (arXiv 2023.03) Contrastive Transformer: Contrastive Learning Scheme with Transformer innate Patches, [[Paper]](https://arxiv.org/pdf/2303.14806.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -2405,6 +2413,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking, [[Paper]](https://arxiv.org/pdf/2303.04378.pdf), [[Code]](https://github.com/vision4robotics/SGDViT)
 - (arXiv 2023.03) Event-based Human Pose Tracking by Spiking Spatiotemporal Transformer, [[Paper]](https://arxiv.org/pdf/2303.09681.pdf), [[Code]](https://github.com/JimmyZou/HumanPoseTracking_SNN)
 - (arXiv 2023.03) Tracker Meets Night: A Transformer Enhancer for UAV Tracking, [[Paper]](https://arxiv.org/pdf/2303.10951.pdf), [[Code]](https://github.com/vision4robotics/SCT)
+- (arXiv 2023.03) RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning, [[Paper]](https://arxiv.org/pdf/2303.14778.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
