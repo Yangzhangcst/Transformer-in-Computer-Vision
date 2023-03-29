@@ -149,6 +149,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Understanding Adversarial Robustness of Vision Transformers via Cauchy Problem, [[Paper]](https://arxiv.org/pdf/2208.00906.pdf), [[Code]](https://github.com/TrustAI/ODE4RobustViT)
 - (arXiv 2022.08) Analyzing Adversarial Robustness of Vision Transformers against Spatial and Spectral Attacks, [[Paper]](https://arxiv.org/pdf/2208.09602.pdf)
 - (arXiv 2023.01) Inference Time Evidences of Adversarial Attacks for Forensic on Transformers, [[Paper]](https://arxiv.org/pdf/2301.13356.pdf)
+- (arXiv 2023.03) Transferable Adversarial Attacks on Vision Transformers with Token Gradient Regularization, [[Paper]](https://arxiv.org/pdf/2303.15754.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -1097,6 +1098,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Combined Use of Federated Learning and Image Encryption for Privacy-Preserving Image Classification with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2301.09255.pdf)
 - (arXiv 2023.03) Learning to Grow Artificial Hippocampi in Vision Transformers for Resilient Lifelong Learning, [[Paper]](https://arxiv.org/pdf/2303.08250.pdf)
 - (arXiv 2023.03) Dense Network Expansion for Class Incremental Learning, [[Paper]](https://arxiv.org/pdf/2303.12696.pdf)
+- (arXiv 2023.03) Semantic-visual Guided Transformer for Few-shot Class-incremental Learning, [[Paper]](https://arxiv.org/pdf/2303.15494.pdf)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -1147,6 +1149,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Knowledge Distillation in Vision Transformers: A Critical Review, [[Paper]](https://arxiv.org/pdf/2302.02108.pdf)
 - (arXiv 2023.02) MaskedKD: Efficient Distillation of Vision Transformers with Masked Images, [[Paper]](https://arxiv.org/pdf/2302.10494.pdf)
 - (arXiv 2023.03) Multi-view knowledge distillation transformer for human action recognition, [[Paper]](https://arxiv.org/pdf/2303.14358.pdf)
+- (arXiv 2023.03) Supervised Masked Knowledge Distillation for Few-Shot Transformers, [[Paper]](https://arxiv.org/pdf/2303.15466.pdf), [[Code]](https://github.com/HL-hanlin/SMKD)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -1485,6 +1488,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Vision Transformer-based Model for Severity Quantification of Lung Pneumonia Using Chest X-ray Images, [[Paper]](https://arxiv.org/pdf/2303.11935.pdf),[[Code]](https://github.com/bouthainas/ViTReg-IP)
 - (arXiv 2023.03) Prior-RadGraphFormer: A Prior-Knowledge-Enhanced Transformer for Generating Radiology Graphs from X-Rays, [[Paper]](https://arxiv.org/pdf/2303.13818.pdf)
 - (arXiv 2023.03) Few Shot Medical Image Segmentation with Cross Attention Transformer, [[Paper]](https://arxiv.org/pdf/2303.13867.pdf)
+- (arXiv 2023.03) D-TrAttUnet: Dual-Decoder Transformer-Based Attention Unet Architecture for Binary and Multi-classes Covid-19 Infection Segmentation, [[Paper]](https://arxiv.org/pdf/2303.15576.pdf)
+- (arXiv 2023.03) MoViT: Memorizing Vision Transformers for Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2303.15553.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1492,6 +1497,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) GATOR: Graph-Aware Transformer with Motion-Disentangled Regression for Human Mesh Recovery from a 2D Pose, [[Paper]](https://arxiv.org/pdf/2303.05652.pdf)
 - (arXiv 2023.03) DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video, [[Paper]](https://arxiv.org/pdf/2303.13397.pdf)
 - (arXiv 2023.03) POTTER: Pooling Attention Transformer for Efficient Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2303.13357.pdf), [[Project]](https://zczcwh.github.io/potter_page)
+- (arXiv 2023.03) One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer, [[Paper]](https://arxiv.org/pdf/2303.16160.pdf), [[Project]](https://osx-ubody.github.io/)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1896,6 +1902,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Spherical Transformer for LiDAR-based 3D Recognition, [[Paper]](https://arxiv.org/pdf/2303.12766.pdf), [[Code]](https://github.com/dvlab-research/SphereFormer.git)
 - (arXiv 2023.03) Context-Aware Transformer for 3D Point Cloud Automatic Annotation, [[Paper]](https://arxiv.org/pdf/2303.14893.pdf)
 - (arXiv 2023.03) ViPFormer: Efficient Vision-and-Pointcloud Transformer for Unsupervised Pointcloud Understanding, [[Paper]](https://arxiv.org/pdf/2303.14893.pdf), [[Code]](https://github.com/auniquesun/ViPFormer)
+- (arXiv 2023.03) StarNet: Style-Aware 3D Point Cloud Generation, [[Paper]](https://arxiv.org/pdf/2303.15805.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2282,6 +2289,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.03) DMSA: Dynamic Multi-scale Unsupervised Semantic Segmentation Based on Adaptive Affinity, [[Paper]](https://arxiv.org/pdf/2303.00199.pdf)
 - (arxiv 2023.03) MP-Former: Mask-Piloted Transformer for Image Segmentation, [[Paper]](https://arxiv.org/pdf/2303.07336.pdf), [[Code]](https://github.com/IDEA-Research/MP-Former)
 - (arxiv 2023.03) MECPformer: Multi-estimations Complementary Patch with CNN-Transformers for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2303.10689.pdf), [[Code]](https://github.com/ChunmengLiu1/MECPformer)
+- (arxiv 2023.03) Few-Shot 3D Point Cloud Semantic Segmentation via Stratified Class-Specific Attention Based Transformer Network, [[Paper]](https://arxiv.org/pdf/2303.15654.pdf), [[Code]](https://github.com/czzhang179/SCAT)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2850,7 +2858,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) The Multiscale Surface Vision Transformer, [[Paper]](https://arxiv.org/pdf/2303.11909.pdf), [[Code]](https://github.com/metrics-lab/surface-vision-transformers)
 - (arXiv 2023.03) Multiscale Attention via Wavelet Neural Operators for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.12398.pdf)
 - (arXiv 2023.03) Time Series as Images: Vision Transformer for Irregularly Sampled Time Series, [[Paper]](https://arxiv.org/pdf/2303.12799.pdf), [[Code]](https://github.com/Leezekun/ViTST)
- 
+- (arXiv 2023.03) Learning Expressive Prompting With Residuals for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.15591.pdf)
+
 ## Contact & Feedback
 
 If you have any suggestions about this project, feel free to contact me.
