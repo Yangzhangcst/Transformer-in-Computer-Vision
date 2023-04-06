@@ -894,6 +894,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) T-FFTRadNet: Object Detection with Swin Vision Transformers from Raw ADC Radar Signals, [[Paper]](https://arxiv.org/pdf/2303.16940.pdf)
 - (arXiv 2023.03) SparseViT: Revisiting Activation Sparsity for Efficient High-Resolution Vision Transformer, [[Paper]](https://arxiv.org/pdf/2303.17605.pdf),[[Code]](https://sparsevit.mit.edu/)
 - (arXiv 2023.04) Siamese DETR, [[Paper]](https://arxiv.org/pdf/2303.18144.pdf),[[Code]](https://github.com/Zx55/SiameseDETR)
+- (arXiv 2023.04) Training Strategies for Vision Transformers for Object Detection, [[Paper]](https://arxiv.org/pdf/2304.02186.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1512,7 +1513,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Devil is in the Queries: Advancing Mask Transformers for Real-world Medical Image Segmentation and Out-of-Distribution Localization, [[Paper]](https://arxiv.org/pdf/2304.00212.pdf)
 - (arXiv 2023.04) EPVT: Environment-aware Prompt Vision Transformer for Domain Generalization in Skin Lesion Recognition, [[Paper]](https://arxiv.org/pdf/2304.01508.pdf),[[Code]](https://github.com/SiyuanYan1/EPVT)
 - (arXiv 2023.04) U-Netmer: U-Net meets Transformer for medical image segmentation, [[Paper]](https://arxiv.org/pdf/2304.01401.pdf)
-
+- (arXiv 2023.04) METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens, [[Paper]](https://arxiv.org/pdf/2304.02211.pdf)
+ 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
 - (arXiv 2022.11) TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer, [[Paper]](https://arxiv.org/pdf/2211.10705.pdf)
