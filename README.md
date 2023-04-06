@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/05
+**Last updated: 2023/04/06
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -976,6 +976,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Facial Affect Recognition based on Transformer Encoder and Audiovisual Fusion for the ABAW5 Challenge, [[Paper]](https://arxiv.org/pdf/2303.09158.pdf)
 - (arXiv 2023.03) Spatial-temporal Transformer for Affective Behavior Analysis, [[Paper]](https://arxiv.org/pdf/2303.10561.pdf)
 - (arXiv 2023.03) FER-former: Multi-modal Transformer for Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2303.12997.pdf)
+- (arXiv 2023.04) Face Transformer: Towards High Fidelity and Accurate Face Swapping, [[Paper]](https://arxiv.org/pdf/2304.02530.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1547,6 +1548,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Human MotionFormer: Transferring Human Motions with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2302.11306.pdf), [[Project]](https://github.com/KumapowerLIU/Human-MotionFormer)
 - (arXiv 2023.02) Multi-Scale Control Signal-Aware Transformer for Motion Synthesis without Phase, [[Paper]](https://arxiv.org/pdf/2303.01685.pdf)
 - (arXiv 2023.03) SPOTR: Spatio-temporal Pose Transformers for Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2303.06277.pdf)
+- (arXiv 2023.04) BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation, [[Paper]](https://arxiv.org/pdf/2304.02225.pdf), [[Code]](https://github.com/JunHeum/BiFormer)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -1993,6 +1995,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) PoseRAC: Pose Saliency Transformer for Repetitive Action Counting, [[Paper]](https://arxiv.org/pdf/2303.08450.pdf), [[Code]](https://github.com/MiracleDance/PoseRAC)
 - (arXiv 2023.03) TransPoser: Transformer as an Optimizer for Joint Object Shape and Pose Estimation, [[Paper]](https://arxiv.org/pdf/2303.13477.pdf)
 - (arXiv 2023.03) PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2303.17472.pdf), [[Code]](https://github.com/QitaoZhao/PoseFormerV2)
+- (arXiv 2023.04) ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention, [[Paper]](https://arxiv.org/pdf/2304.02147.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
