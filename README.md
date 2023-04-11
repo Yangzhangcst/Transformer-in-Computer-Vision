@@ -1082,6 +1082,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### High Dynamic Range Imaging
 - (arXiv 2022.08) Ghost-free High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
 - (arXiv 2023.03) SpiderMesh: Spatial-aware Demand-guided Recursive Meshing for RGB-T Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2303.08704.pdf)
+- (arXiv 2023.04) High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2304.04416.pdf)
 
 ### HOI
 - (CVPR'21) HOTR: End-to-End Human-Object Interaction Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.13682.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
