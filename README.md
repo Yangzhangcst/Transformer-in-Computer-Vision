@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/11
+**Last updated: 2023/04/12
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -629,6 +629,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) SparseFormer: Sparse Visual Recognition via Limited Latent Tokens, [[Paper]](https://arxiv.org/pdf/2304.03768.pdf), [[Code]](https://github.com/showlab/sparseformer)
 - (arXiv 2023.04) ViT-Calibrator: Decision Stream Calibration for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2304.04354.pdf)
 - (arXiv 2023.04) Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention, [[Paper]](https://arxiv.org/pdf/2304.04237.pdf), [[Code]](https://github.com/LeapLabTHU/Slide-Transformer)
+- (arXiv 2023.04) Life Regression based Patch Slimming for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2304.04926.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -989,6 +990,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) FER-former: Multi-modal Transformer for Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2303.12997.pdf)
 - (arXiv 2023.04) Face Transformer: Towards High Fidelity and Accurate Face Swapping, [[Paper]](https://arxiv.org/pdf/2304.02530.pdf)
 - (arXiv 2023.04) Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition, [[Paper]](https://arxiv.org/pdf/2304.04420.pdf)
+- (arXiv 2023.04) MC-ViViT: Multi-branch Classifier-ViViT to Detect Mild Cognitive Impairment in Older Adults using Facial Videos, [[Paper]](https://arxiv.org/pdf/2304.05292.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -2256,6 +2258,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) AdPE: Adversarial Positional Embeddings for Pretraining Vision Transformers via MAE+, [[Paper]](https://arxiv.org/pdf/2303.07598.pdf), [[Code]](https://github.com/maple-research-lab/AdPE)
 - (arXiv 2023.03) Contrastive Transformer: Contrastive Learning Scheme with Transformer innate Patches, [[Paper]](https://arxiv.org/pdf/2303.14806.pdf)
 - (arXiv 2023.04) Token Boosting for Robust Self-Supervised Visual Transformer Pre-training, [[Paper]](https://arxiv.org/pdf/2304.04175.pdf)
+- (arXiv 2023.04) MOST: Multiple Object localization with Self-supervised Transformers for object discovery, [[Paper]](https://arxiv.org/pdf/2304.05387.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -2348,6 +2351,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.03) MECPformer: Multi-estimations Complementary Patch with CNN-Transformers for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2303.10689.pdf), [[Code]](https://github.com/ChunmengLiu1/MECPformer)
 - (arxiv 2023.03) Few-Shot 3D Point Cloud Semantic Segmentation via Stratified Class-Specific Attention Based Transformer Network, [[Paper]](https://arxiv.org/pdf/2303.15654.pdf), [[Code]](https://github.com/czzhang179/SCAT)
 - (arxiv 2023.04) WeakTr: Exploring Plain Vision Transformer for Weakly-supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2304.01184.pdf), [[Code]](https://github.com/hustvl/WeakTr)
+- (arxiv 2023.04) OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction, [[Paper]](https://arxiv.org/pdf/2304.05316.pdf), [[Code]](https://github.com/zhangyp15/OccFormer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
