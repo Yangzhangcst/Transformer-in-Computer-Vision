@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/12
+**Last updated: 2023/04/13
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -630,6 +630,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) ViT-Calibrator: Decision Stream Calibration for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2304.04354.pdf)
 - (arXiv 2023.04) Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention, [[Paper]](https://arxiv.org/pdf/2304.04237.pdf), [[Code]](https://github.com/LeapLabTHU/Slide-Transformer)
 - (arXiv 2023.04) Life Regression based Patch Slimming for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2304.04926.pdf)
+- (arXiv 2023.04) RIFormer: Keep Your Vision Backbone Effective While Removing Token Mixer, [[Paper]](https://arxiv.org/pdf/2304.05659.pdf), [[Code]](https://techmonsterwang.github.io/RIFormer/)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1951,6 +1952,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Self-positioning Point-based Transformer for Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2303.16450.pdf), [[Code]](https://github.com/mlvlab/SPoTr)
 - (arXiv 2023.04) APPT : Asymmetric Parallel Point Transformer for 3D Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2303.17815.pdf)
 - (arXiv 2023.04) PointCAT: Cross-Attention Transformer for point cloud, [[Paper]](https://arxiv.org/pdf/2304.03012.pdf)
+- (arXiv 2023.04) Multi-scale Geometry-aware Transformer for 3D Point Cloud Classification, [[Paper]](https://arxiv.org/pdf/2304.05694.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2676,6 +2678,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Unmasked Teacher: Towards Training-Efficient Video Foundation Models, [[Paper]](https://arxiv.org/pdf/2303.16058.pdf), [[Code]](https://github.com/OpenGVLab/unmasked_teacher)
 - (arXiv 2023.04) SVT: Supertoken Video Transformer for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2304.00325.pdf)
 - (arXiv 2023.04) Hierarchical Vision Transformers for Cardiac Ejection Fraction Estimation, [[Paper]](https://arxiv.org/pdf/2304.00177.pdf), [[Code]](https://github.com/lhfazry/UltraSwin)
+- (arXiv 2023.04) MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation, [[Paper]](https://arxiv.org/pdf/2304.05930.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
