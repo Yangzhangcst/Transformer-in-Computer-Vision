@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/13
+**Last updated: 2023/04/14
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -631,6 +631,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Slide-Transformer: Hierarchical Vision Transformer with Local Self-Attention, [[Paper]](https://arxiv.org/pdf/2304.04237.pdf), [[Code]](https://github.com/LeapLabTHU/Slide-Transformer)
 - (arXiv 2023.04) Life Regression based Patch Slimming for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2304.04926.pdf)
 - (arXiv 2023.04) RIFormer: Keep Your Vision Backbone Effective While Removing Token Mixer, [[Paper]](https://arxiv.org/pdf/2304.05659.pdf), [[Code]](https://techmonsterwang.github.io/RIFormer/)
+- (arXiv 2023.04) SpectFormer: Frequency and Attention is what you need in a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2304.06446.pdf), [[Code]](https://badripatro.github.io/SpectFormers/)
+- (arXiv 2023.04) VISION DIFFMASK: Faithful Interpretation of Vision Transformers with Differentiable Patch Masking, [[Paper]](https://arxiv.org/pdf/2304.06391.pdf), [[Code]](https://github.com/AngelosNal/Vision-DiffMask)
+- (arXiv 2023.04) RSIR Transformer: Hierarchical Vision Transformer using Random Sampling Windows and Important Region Windows, [[Paper]](https://arxiv.org/pdf/2304.06250.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -763,6 +766,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Spectral Enhanced Rectangle Transformer for Hyperspectral Image Denoising, [[Paper]](https://arxiv.org/pdf/2303.09040.pdf), [[Code]](https://github.com/MyuLi/SERT)
 - (arXiv 2023.04) Exploration of Lightweight Single Image Denoising with Transformers and Truly Fair Training, [[Paper]](https://arxiv.org/pdf/2304.01805.pdf), [[Code]](https://github.com/rami0205/LWDN)
 - (arXiv 2023.04) Self-Supervised Image Denoising for Real-World Images with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2304.01627.pdf)
+- (arXiv 2023.04) DDT: Dual-branch Deformable Transformer for Image Denoising, [[Paper]](https://arxiv.org/pdf/2304.06346.pdf), [[Code]](https://github.com/Merenguelkl/DDT)
+- (arXiv 2023.04) EWT: Efficient Wavelet-Transformer for Single Image Denoising, [[Paper]](https://arxiv.org/pdf/2304.06274.pdf)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -992,6 +997,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Face Transformer: Towards High Fidelity and Accurate Face Swapping, [[Paper]](https://arxiv.org/pdf/2304.02530.pdf)
 - (arXiv 2023.04) Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition, [[Paper]](https://arxiv.org/pdf/2304.04420.pdf)
 - (arXiv 2023.04) MC-ViViT: Multi-branch Classifier-ViViT to Detect Mild Cognitive Impairment in Older Adults using Facial Videos, [[Paper]](https://arxiv.org/pdf/2304.05292.pdf)
+- (arXiv 2023.04) PATMAT: Person Aware Tuning of Mask-Aware Transformer for Face Inpainting, [[Paper]](https://arxiv.org/pdf/2304.06107.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1171,6 +1177,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Vision Transformers Are Good Mask Auto-Labelers, [[Paper]](https://arxiv.org/pdf/2301.03992.pdf), [[Code]](https://github.com/NVlabs/mask-auto-labeler)
 - (arXiv 2023.01) Towards Robust Video Instance Segmentation with Temporal-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2301.09416.pdf)
 - (arXiv 2023.03) MobileInst: Video Instance Segmentation on the Mobile, [[Paper]](https://arxiv.org/pdf/2303.17594.pdf)
+- (arXiv 2023.04) DynaMITe: Dynamic Query Bootstrapping for Multi-object Interactive Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2304.06668.pdf)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -1534,6 +1541,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) METransformer: Radiology Report Generation by Transformer with Multiple Learnable Expert Tokens, [[Paper]](https://arxiv.org/pdf/2304.02211.pdf)
 - (arXiv 2023.04) HST-MRF: Heterogeneous Swin Transformer with Multi-Receptive Field for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2304.04614.pdf)
 - (arXiv 2023.04) ForamViT-GAN: Exploring New Paradigms in Deep Learning for Micropaleontological Image Analysis, [[Paper]](https://arxiv.org/pdf/2304.04291.pdf)
+- (arXiv 2023.04) Towards Evaluating Explanations of Vision Transformers for Medical Imaging, [[Paper]](https://arxiv.org/pdf/2304.06133.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2937,6 +2945,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) VTAE: Variational Transformer Autoencoder with Manifolds Learning, [[Paper]](https://arxiv.org/pdf/2304.00948.pdf)
 - (arXiv 2023.04) Towards an Effective and Efficient Transformer for Rain-by-snow Weather Removal, [[Paper]](https://arxiv.org/pdf/2304.02860.pdf), [[Code]](https://github.com/chdwyb/RSFormer)
 - (arXiv 2023.04) TopNet: Transformer-based Object Placement Network for Image Compositing, [[Paper]](https://arxiv.org/pdf/2304.03372.pdf)
+- (arXiv 2023.04) Remote Sensing Change Detection With Transformers Trained from Scratch, [[Paper]](https://arxiv.org/pdf/2304.06710.pdf)
 
 ## Contact & Feedback
 
