@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/14
+**Last updated: 2023/04/17
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -634,6 +634,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) SpectFormer: Frequency and Attention is what you need in a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2304.06446.pdf), [[Code]](https://badripatro.github.io/SpectFormers/)
 - (arXiv 2023.04) VISION DIFFMASK: Faithful Interpretation of Vision Transformers with Differentiable Patch Masking, [[Paper]](https://arxiv.org/pdf/2304.06391.pdf), [[Code]](https://github.com/AngelosNal/Vision-DiffMask)
 - (arXiv 2023.04) RSIR Transformer: Hierarchical Vision Transformer using Random Sampling Windows and Important Region Windows, [[Paper]](https://arxiv.org/pdf/2304.06250.pdf)
+- (arXiv 2023.04) Dynamic Mobile-Former: Strengthening Dynamic Convolution with Attention and Residual Connection in Kernel Space, [[Paper]](https://arxiv.org/pdf/2304.07254.pdf), [[Code]](https://github.com/ysj9909/DMF)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -912,6 +913,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Language-aware Multiple Datasets Detection Pretraining for DETRs, [[Paper]](https://arxiv.org/pdf/2304.03580.pdf)
 - (arXiv 2023.04) Detection Transformer with Stable Matching, [[Paper]](https://arxiv.org/pdf/2304.04742.pdf),[[Code]](https://github.com/IDEA-Research/Stable-DINO)
 - (arXiv 2023.04) Use the Detection Transformer as a Data Augmenter, [[Paper]](https://arxiv.org/pdf/2304.04554.pdf)
+- (arXiv 2023.04) DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection, [[Paper]](https://arxiv.org/pdf/2304.07082.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1140,6 +1142,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Dense Network Expansion for Class Incremental Learning, [[Paper]](https://arxiv.org/pdf/2303.12696.pdf)
 - (arXiv 2023.03) Semantic-visual Guided Transformer for Few-shot Class-incremental Learning, [[Paper]](https://arxiv.org/pdf/2303.15494.pdf)
 - (arXiv 2023.04) Continual Detection Transformer for Incremental Object Detection, [[Paper]](https://arxiv.org/pdf/2304.03110.pdf)
+- (arXiv 2023.04) Preserving Locality in Vision Transformers for Class Incremental Learning, [[Paper]](https://arxiv.org/pdf/2304.06971.pdf)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -1542,6 +1545,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) HST-MRF: Heterogeneous Swin Transformer with Multi-Receptive Field for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2304.04614.pdf)
 - (arXiv 2023.04) ForamViT-GAN: Exploring New Paradigms in Deep Learning for Micropaleontological Image Analysis, [[Paper]](https://arxiv.org/pdf/2304.04291.pdf)
 - (arXiv 2023.04) Towards Evaluating Explanations of Vision Transformers for Medical Imaging, [[Paper]](https://arxiv.org/pdf/2304.06133.pdf)
+- (arXiv 2023.04) Cross Attention Transformers for Multi-modal Unsupervised Whole-Body PET Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2304.07147.pdf)
+- (arXiv 2023.04) CAD-RADS scoring of coronary CT angiography with Multi-Axis Vision Transformer: a clinically-inspired deep learning pipeline, [[Paper]](https://arxiv.org/pdf/2304.07277.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1739,6 +1744,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) LiDARFormer: A Unified Transformer-based Multi-task Network for LiDAR Perception, [[Paper]](https://arxiv.org/pdf/2303.12194.pdf)
 - (arXiv 2023.03) MMFormer: Multimodal Transformer Using Multiscale Self-Attention for Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2303.13101.pdf)
 - (arXiv 2023.04) Longitudinal Multimodal Transformer Integrating Imaging and Latent Clinical Signatures From Routine EHRs for Pulmonary Nodule Classification, [[Paper]](https://arxiv.org/pdf/2304.02836.pdf)
+- (arXiv 2023.04) PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition, [[Paper]](https://arxiv.org/pdf/2304.07230.pdf), [[Code]](https://github.com/xwf199/PARFormer)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1961,6 +1967,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) APPT : Asymmetric Parallel Point Transformer for 3D Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2303.17815.pdf)
 - (arXiv 2023.04) PointCAT: Cross-Attention Transformer for point cloud, [[Paper]](https://arxiv.org/pdf/2304.03012.pdf)
 - (arXiv 2023.04) Multi-scale Geometry-aware Transformer for 3D Point Cloud Classification, [[Paper]](https://arxiv.org/pdf/2304.05694.pdf)
+- (arXiv 2023.04) Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding, [[Paper]](https://arxiv.org/pdf/2304.06906.pdf), [[Code]](https://github.com/microsoft/Swin3D)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2100,6 +2107,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Efficient 3D Object Reconstruction using Visual Transformers, [[Paper]](https://arxiv.org/pdf/2302.08474.pdf), [[Project]](https://weihaosky.github.io/sdfformer)
 - (arXiv 2023.02) UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2302.13987.pdf)
 - (arXiv 2023.03) CryoFormer: Continuous Reconstruction of 3D Structures from Cryo-EM Data using Transformer-based Neural Representations, [[Paper]](https://arxiv.org/pdf/2303.16254.pdf), [[Project]](https://cryoformer.github.io/)
+- (arXiv 2023.04) CornerFormer: Boosting Corner Representation for Fine-Grained Structured Reconstruction, [[Paper]](https://arxiv.org/pdf/2304.07072.pdf)
 
 ### Registration
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
