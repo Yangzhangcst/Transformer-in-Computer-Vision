@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/17
+**Last updated: 2023/04/18
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -726,6 +726,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2303.02968.pdf)
 - (arXiv 2023.03) DEHRFormer: Real-time Transformer for Depth Estimation and Haze Removal from Varicolored Haze Scenes, [[Paper]](https://arxiv.org/pdf/2303.06905.pdf)
 - (arXiv 2023.03) Channel-Aware Distillation Transformer for Depth Estimation on Nano Drones, [[Paper]](https://arxiv.org/pdf/2303.10386.pdf)
+- (arXiv 2023.04) EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation, [[Paper]](https://arxiv.org/pdf/2304.07803.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -750,6 +751,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Vision Transformers for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2204.03883.pdf)
 - (arXiv 2022.10) Semi-UFormer: Semi-supervised Uncertainty-aware Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2210.16057.pdf)
 - (arXiv 2023.03) SelfPromer: Self-Prompt Dehazing Transformers with Depth-Consistency, [[Paper]](https://arxiv.org/pdf/2210.16057.pdf)
+- (arXiv 2023.04) A Data-Centric Solution to NonHomogeneous Dehazing via Vision Transformer, [[Paper]](https://arxiv.org/pdf/2304.07874.pdf), [[Code]](https://github.com/yangyiliu21/ntire2023_ITBdehaze)
 
 ### Deraining
 - (arXiv 2023.03) Learning A Sparse Transformer Network for Effective Image Deraining, [[Paper]](https://arxiv.org/pdf/2303.11950.pdf), [[Code]](https://github.com/cschenxiang/DRSformer)
@@ -914,6 +916,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Detection Transformer with Stable Matching, [[Paper]](https://arxiv.org/pdf/2304.04742.pdf),[[Code]](https://github.com/IDEA-Research/Stable-DINO)
 - (arXiv 2023.04) Use the Detection Transformer as a Data Augmenter, [[Paper]](https://arxiv.org/pdf/2304.04554.pdf)
 - (arXiv 2023.04) DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection, [[Paper]](https://arxiv.org/pdf/2304.07082.pdf)
+- (arXiv 2023.04) DETRs Beat YOLOs on Real-time Object Detection, [[Paper]](https://arxiv.org/pdf/2304.08069.pdf)
+- (arXiv 2023.04) DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition, [[Paper]](https://arxiv.org/pdf/2304.08107.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1086,6 +1090,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Contrastive Video Question Answering via Video Graph Transformer, [[Paper]](https://arxiv.org/pdf/2302.13668.pdf), [[Code]](https://github.com/doc-doc/CoVGT)
 - (arXiv 2023.03) AMIGO: Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images, [[Paper]](https://arxiv.org/pdf/2303.00865.pdf), [[Code]](https://github.com/doc-doc/CoVGT)
 - (arXiv 2023.03) An Adaptive GViT for Gas Mixture Identification and Concentration Estimation, [[Paper]](https://arxiv.org/pdf/2303.05685.pdf)
+- (arXiv 2023.04) Transformer-based Graph Neural Networks for Outfit Generation, [[Paper]](https://arxiv.org/pdf/2304.08098.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -1113,6 +1118,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Exploring Structure-aware Transformer over Interaction Proposals for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2206.06291.pdf), [[Code]](https://github.com/zyong812/STIP)
 - (arXiv 2022.07) Towards Hard-Positive Query Mining for DETR-based Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2207.05293.pdf), [[Code]](https://github.com/MuchHair/HQM)
 - (arXiv 2022.07) IGFormer: Interaction Graph Transformer for Skeleton-based Human Interaction Recognition, [[Paper]](https://arxiv.org/pdf/2207.12100.pdf)
+- (arXiv 2023.04) ViPLO: Vision Transformer based Pose-Conditioned Self-Loop Graph for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2304.08114.pdf), [[Code]](https://github.com/Jeeseung-Park/ViPLO)
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -1968,6 +1974,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) PointCAT: Cross-Attention Transformer for point cloud, [[Paper]](https://arxiv.org/pdf/2304.03012.pdf)
 - (arXiv 2023.04) Multi-scale Geometry-aware Transformer for 3D Point Cloud Classification, [[Paper]](https://arxiv.org/pdf/2304.05694.pdf)
 - (arXiv 2023.04) Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding, [[Paper]](https://arxiv.org/pdf/2304.06906.pdf), [[Code]](https://github.com/microsoft/Swin3D)
+- (arXiv 2023.04) PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction, [[Paper]](https://arxiv.org/pdf/2304.07773.pdf), [[Code]](https://github.com/Blurryface0814/PCPNet)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2370,6 +2377,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.03) Few-Shot 3D Point Cloud Semantic Segmentation via Stratified Class-Specific Attention Based Transformer Network, [[Paper]](https://arxiv.org/pdf/2303.15654.pdf), [[Code]](https://github.com/czzhang179/SCAT)
 - (arxiv 2023.04) WeakTr: Exploring Plain Vision Transformer for Weakly-supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2304.01184.pdf), [[Code]](https://github.com/hustvl/WeakTr)
 - (arxiv 2023.04) OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction, [[Paper]](https://arxiv.org/pdf/2304.05316.pdf), [[Code]](https://github.com/zhangyp15/OccFormer)
+- (arxiv 2023.04) DeepSegmenter: Temporal Action Localization for Detecting Anomalies in Untrimmed Naturalistic Driving Videos, [[Paper]](https://arxiv.org/pdf/2304.08261.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
