@@ -638,6 +638,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
+- (arXiv 2023.04) Fairness in Visual Clustering: A Novel Transformer Clustering Approach, [[Paper]](https://arxiv.org/pdf/2304.07408.pdf)
 
 ### Completion 
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
@@ -918,6 +919,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) DETR with Additional Global Aggregation for Cross-domain Weakly Supervised Object Detection, [[Paper]](https://arxiv.org/pdf/2304.07082.pdf)
 - (arXiv 2023.04) DETRs Beat YOLOs on Real-time Object Detection, [[Paper]](https://arxiv.org/pdf/2304.08069.pdf)
 - (arXiv 2023.04) DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition, [[Paper]](https://arxiv.org/pdf/2304.08107.pdf)
+- (arXiv 2023.04) Align-DETR: Improving DETR with Simple IoU-aware BCE loss, [[Paper]](https://arxiv.org/pdf/2304.07527.pdf),[[Code]](https://github.com/FelixCaae/AlignDETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1004,6 +1006,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition, [[Paper]](https://arxiv.org/pdf/2304.04420.pdf)
 - (arXiv 2023.04) MC-ViViT: Multi-branch Classifier-ViViT to Detect Mild Cognitive Impairment in Older Adults using Facial Videos, [[Paper]](https://arxiv.org/pdf/2304.05292.pdf)
 - (arXiv 2023.04) PATMAT: Person Aware Tuning of Mask-Aware Transformer for Face Inpainting, [[Paper]](https://arxiv.org/pdf/2304.06107.pdf)
+- (arXiv 2023.04) MA-ViT: Modality-Agnostic Vision Transformers for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2304.07549.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1553,6 +1556,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Towards Evaluating Explanations of Vision Transformers for Medical Imaging, [[Paper]](https://arxiv.org/pdf/2304.06133.pdf)
 - (arXiv 2023.04) Cross Attention Transformers for Multi-modal Unsupervised Whole-Body PET Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2304.07147.pdf)
 - (arXiv 2023.04) CAD-RADS scoring of coronary CT angiography with Multi-Axis Vision Transformer: a clinically-inspired deep learning pipeline, [[Paper]](https://arxiv.org/pdf/2304.07277.pdf)
+- (arXiv 2023.04) Transformer with Selective Shuffled Position Embedding using ROI-Exchange Strategy for Early Detection of Knee Osteoarthritis, [[Paper]](https://arxiv.org/pdf/2304.08364.pdf)
+- (arXiv 2023.04) Masked Pre-Training of Transformers for Histology Image Analysis, [[Paper]](https://arxiv.org/pdf/2304.07434.pdf),[[Code]](https://github.com/BMIRDS/WSI-PLP/tree/maskhit)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2387,6 +2392,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### SLAM
 - (arXiv 2022.06) AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation,  [[Paper]](https://arxiv.org/abs/2206.12946)
+- (arXiv 2023.04) TransFusionOdom: Interpretable Transformer-based LiDAR-Inertial Fusion Odometry Estimation,  [[Paper]](https://arxiv.org/abs/2304.07728)
 
 ### SNN
 - (arXiv 2022.10) Spikformer: When Spiking Neural Network Meets Transformer,  [[Paper]](https://arxiv.org/abs/2209.15425)
@@ -2962,6 +2968,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Towards an Effective and Efficient Transformer for Rain-by-snow Weather Removal, [[Paper]](https://arxiv.org/pdf/2304.02860.pdf), [[Code]](https://github.com/chdwyb/RSFormer)
 - (arXiv 2023.04) TopNet: Transformer-based Object Placement Network for Image Compositing, [[Paper]](https://arxiv.org/pdf/2304.03372.pdf)
 - (arXiv 2023.04) Remote Sensing Change Detection With Transformers Trained from Scratch, [[Paper]](https://arxiv.org/pdf/2304.06710.pdf)
+- (arXiv 2023.04) Hyper-Decision Transformer for Efficient Online Policy Adaptation, [[Paper]](https://arxiv.org/pdf/2304.08487.pdf), [[Code]](https://sites.google.com/view/hdtforiclr2023/home)
 
 ## Contact & Feedback
 
