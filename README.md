@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/18
+**Last updated: 2023/04/19
 
 ## Survey: 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -1223,6 +1223,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer, [[Paper]](https://arxiv.org/pdf/2212.09877.pdf), [[Code]](https://github.com/salesforce/LayoutDETR)
 - (arXiv 2022.12) PanoViT: Vision Transformer for Room Layout Estimation from a Single Panoramic Image, [[Paper]](https://arxiv.org/pdf/2212.12156.pdf)
 - (arXiv 2023.03) DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer, [[Paper]](https://arxiv.org/pdf/2303.03755.pdf)
+- (arXiv 2023.04) GUILGET: GUI Layout GEneration with Transformer, [[Paper]](https://arxiv.org/pdf/2304.09012.pdf)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -1558,6 +1559,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) CAD-RADS scoring of coronary CT angiography with Multi-Axis Vision Transformer: a clinically-inspired deep learning pipeline, [[Paper]](https://arxiv.org/pdf/2304.07277.pdf)
 - (arXiv 2023.04) Transformer with Selective Shuffled Position Embedding using ROI-Exchange Strategy for Early Detection of Knee Osteoarthritis, [[Paper]](https://arxiv.org/pdf/2304.08364.pdf)
 - (arXiv 2023.04) Masked Pre-Training of Transformers for Histology Image Analysis, [[Paper]](https://arxiv.org/pdf/2304.07434.pdf),[[Code]](https://github.com/BMIRDS/WSI-PLP/tree/maskhit)
+- (arXiv 2023.04) Fibroglandular Tissue Segmentation in Breast MRI using Vision Transformers -- A multi-institutional evaluation, [[Paper]](https://arxiv.org/pdf/2304.08972.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1756,6 +1758,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) MMFormer: Multimodal Transformer Using Multiscale Self-Attention for Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2303.13101.pdf)
 - (arXiv 2023.04) Longitudinal Multimodal Transformer Integrating Imaging and Latent Clinical Signatures From Routine EHRs for Pulmonary Nodule Classification, [[Paper]](https://arxiv.org/pdf/2304.02836.pdf)
 - (arXiv 2023.04) PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition, [[Paper]](https://arxiv.org/pdf/2304.07230.pdf), [[Code]](https://github.com/xwf199/PARFormer)
+- (arXiv 2023.04) AutoTaskFormer: Searching Vision Transformers for Multi-task Learning, [[Paper]](https://arxiv.org/pdf/2304.08756.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2709,6 +2712,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) SVT: Supertoken Video Transformer for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2304.00325.pdf)
 - (arXiv 2023.04) Hierarchical Vision Transformers for Cardiac Ejection Fraction Estimation, [[Paper]](https://arxiv.org/pdf/2304.00177.pdf), [[Code]](https://github.com/lhfazry/UltraSwin)
 - (arXiv 2023.04) MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation, [[Paper]](https://arxiv.org/pdf/2304.05930.pdf)
+- (arXiv 2023.04) SViTT: Temporal Learning of Sparse Video-Text Transformers, [[Paper]](https://arxiv.org/pdf/2304.08809.pdf), [[Code]](http://svcl.ucsd.edu/projects/svitt)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
