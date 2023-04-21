@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/20
+**Last updated: 2023/04/21
 
 ## Survey: 
 - (arXiv 2023.04) Transformer-Based Visual Segmentation: A Survey. [[Paper]](https://arxiv.org/pdf/2304.09854.pdf), [[Awesome]](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer)
@@ -1139,6 +1139,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) S^2-Transformer for Mask-Aware Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2209.12075.pdf)
 - (arXiv 2023.03) MSFA-Frequency-Aware Transformer for Hyperspectral Images Demosaicing, [[Paper]](https://arxiv.org/pdf/2303.13404.pdf)
 - (arXiv 2023.04) MethaneMapper: Spectral Absorption aware Hyperspectral Transformer for Methane Detection, [[Paper]](https://arxiv.org/pdf/2304.02767.pdf)
+- (arXiv 2023.04) DCN-T: Dual Context Network with Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2304.09915.pdf), [[Code]](https://github.com/DotWang/DCN-T)
 
 ### Illumination
 - (arXiv 2022.05) Illumination Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
@@ -2978,6 +2979,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Remote Sensing Change Detection With Transformers Trained from Scratch, [[Paper]](https://arxiv.org/pdf/2304.06710.pdf)
 - (arXiv 2023.04) Hyper-Decision Transformer for Efficient Online Policy Adaptation, [[Paper]](https://arxiv.org/pdf/2304.08487.pdf), [[Code]](https://sites.google.com/view/hdtforiclr2023/home)
 - (arXiv 2023.04) DarSwin: Distortion Aware Radial Swin Transformer, [[Paper]](https://arxiv.org/pdf/2304.09691.pdf)
+- (arXiv 2023.04) DropDim: A Regularization Method for Transformer Networks, [[Paper]](https://arxiv.org/pdf/2304.10321.pdf)
 
 ## Contact & Feedback
 
