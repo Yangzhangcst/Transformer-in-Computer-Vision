@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/21
+**Last updated: 2023/04/24
 
 ## Survey: 
+- (arXiv 2023.04) Transformer-based models and hardware acceleration analysis in autonomous driving: A survey. [[Paper]](https://arxiv.org/pdf/2304.10891.pdf)
+
 - (arXiv 2023.04) Transformer-Based Visual Segmentation: A Survey. [[Paper]](https://arxiv.org/pdf/2304.09854.pdf), [[Awesome]](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer)
 
 - (arXiv 2023.02) Transformer-based Generative Adversarial Networks in Computer Vision: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2302.08641.pdf)
@@ -638,6 +640,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) RSIR Transformer: Hierarchical Vision Transformer using Random Sampling Windows and Important Region Windows, [[Paper]](https://arxiv.org/pdf/2304.06250.pdf)
 - (arXiv 2023.04) Dynamic Mobile-Former: Strengthening Dynamic Convolution with Attention and Residual Connection in Kernel Space, [[Paper]](https://arxiv.org/pdf/2304.07254.pdf), [[Code]](https://github.com/ysj9909/DMF)
 - (arXiv 2023.04) LipsFormer: Introducing Lipschitz Continuity to Vision Transformers, [[Paper]](https://arxiv.org/pdf/2304.09856.pdf), [[Code]](https://github.com/IDEA-Research/LipsFormer)
+- (arXiv 2023.04) Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2304.10716.pdf), [[Code]](https://github.com/megvii-research/TPS-CVPR2023)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1565,6 +1568,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Masked Pre-Training of Transformers for Histology Image Analysis, [[Paper]](https://arxiv.org/pdf/2304.07434.pdf),[[Code]](https://github.com/BMIRDS/WSI-PLP/tree/maskhit)
 - (arXiv 2023.04) Fibroglandular Tissue Segmentation in Breast MRI using Vision Transformers -- A multi-institutional evaluation, [[Paper]](https://arxiv.org/pdf/2304.08972.pdf)
 - (arXiv 2023.04) Cross-Reference Transformer for Few-shot Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2304.09630.pdf)
+- (arXiv 2023.04) DeformableFormer: Classification of Endoscopic Ultrasound Guided Fine Needle Biopsy in Pancreatic Diseases, [[Paper]](https://arxiv.org/pdf/2304.10791.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
