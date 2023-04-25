@@ -1883,6 +1883,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
 - (arXiv 2022.03) CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16896.pdf), [[Code]](https://github.com/askerlee/craft)
 - (arXiv 2023.03) FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation, [[Paper]](https://arxiv.org/pdf/2303.01237.pdf)
+- (arXiv 2023.04) TransFlow: Transformer as Flow Learner, [[Paper]](https://arxiv.org/pdf/2304.11523.pdf)
 
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
