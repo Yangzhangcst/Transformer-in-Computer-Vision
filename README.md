@@ -736,6 +736,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) DEHRFormer: Real-time Transformer for Depth Estimation and Haze Removal from Varicolored Haze Scenes, [[Paper]](https://arxiv.org/pdf/2303.06905.pdf)
 - (arXiv 2023.03) Channel-Aware Distillation Transformer for Depth Estimation on Nano Drones, [[Paper]](https://arxiv.org/pdf/2303.10386.pdf)
 - (arXiv 2023.04) EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation, [[Paper]](https://arxiv.org/pdf/2304.07803.pdf)
+- (arXiv 2023.04) CompletionFormer: Depth Completion with Convolutions and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2304.13030.pdf), [[Code]](https://github.com/youmi-zym/CompletionFormer)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -1575,6 +1576,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) DeformableFormer: Classification of Endoscopic Ultrasound Guided Fine Needle Biopsy in Pancreatic Diseases, [[Paper]](https://arxiv.org/pdf/2304.10791.pdf)
 - (arXiv 2023.04) Vision Transformer for Efficient Chest X-ray and Gastrointestinal Image Classification, [[Paper]](https://arxiv.org/pdf/2304.11529.pdf)
 - (arXiv 2023.04) Dilated-UNet: A Fast and Accurate Medical Image Segmentation Approach using a Dilated Transformer and U-Net Architecture, [[Paper]](https://arxiv.org/pdf/2304.11450.pdf),[[Code]](https://github.com/Omid-Nejati/Dilated_Unet)
+- (arXiv 2023.04) STM-UNet: An Efficient U-shaped Architecture Based on Swin Transformer and Multi-scale MLP for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2304.12615.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2993,6 +2995,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) DarSwin: Distortion Aware Radial Swin Transformer, [[Paper]](https://arxiv.org/pdf/2304.09691.pdf)
 - (arXiv 2023.04) DropDim: A Regularization Method for Transformer Networks, [[Paper]](https://arxiv.org/pdf/2304.10321.pdf)
 - (arXiv 2023.04) Multipar-T: Multiparty-Transformer for Capturing Contingent Behaviors in Group Conversations, [[Paper]](https://arxiv.org/pdf/2304.12204.pdf)
+- (arXiv 2023.04) Detection of Pavement Cracks by Deep Learning Models of Transformer and UNet, [[Paper]](https://arxiv.org/pdf/2304.12596.pdf)
+- (arXiv 2023.04) Recurrent Transformer Encoders for Vision-based Estimation of Fatigue and Engagement in Cognitive Training Sessions, [[Paper]](https://arxiv.org/pdf/2304.12470.pdf)
+- (arXiv 2023.04) Hint-Aug: Drawing Hints from Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning, [[Paper]](https://arxiv.org/pdf/2304.12520.pdf)
 
 ## Contact & Feedback
 
