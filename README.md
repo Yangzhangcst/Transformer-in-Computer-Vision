@@ -2213,6 +2213,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) ConTra: (Con)text (Tra)nsformer for Cross-Modal Video Retrieval, [[Paper]](https://arxiv.org/pdf/2210.04341.pdf)
 - (arXiv 2022.10) General Image Descriptors for Open World Image Retrieval using ViT CLIP, [[Paper]](https://arxiv.org/pdf/2210.11141.pdf)
 - (arXiv 2022.10) Boosting vision transformers for image retrieval, [[Paper]](https://arxiv.org/pdf/2210.11909.pdf), [[Code]](https://github.com/dealicious-inc/DToP)
+- (arXiv 2023.04) STIR: Siamese Transformer for Image Retrieval Postprocessing, [[Paper]](https://arxiv.org/pdf/2304.13393.pdf), [[Code]](https://github.com/OML-Team/open-metric-learning/tree/main/pipelines/postprocessing/)
 
 ### Robotic
 - (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
@@ -2732,6 +2733,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Hierarchical Vision Transformers for Cardiac Ejection Fraction Estimation, [[Paper]](https://arxiv.org/pdf/2304.00177.pdf), [[Code]](https://github.com/lhfazry/UltraSwin)
 - (arXiv 2023.04) MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation, [[Paper]](https://arxiv.org/pdf/2304.05930.pdf)
 - (arXiv 2023.04) SViTT: Temporal Learning of Sparse Video-Text Transformers, [[Paper]](https://arxiv.org/pdf/2304.08809.pdf), [[Code]](http://svcl.ucsd.edu/projects/svitt)
+- (arXiv 2023.04) StepFormer: Self-supervised Step Discovery and Localization in Instructional Videos, [[Paper]](https://arxiv.org/pdf/2304.13265.pdf)
+- (arXiv 2023.04) Objectives Matter: Understanding the Impact of Self-Supervised Objectives on Vision Transformer Representations, [[Paper]](https://arxiv.org/pdf/2304.13089.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
