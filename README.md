@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/27
+**Last updated: 2023/04/28
 
 ## Survey: 
 - (arXiv 2023.04) Transformer-based models and hardware acceleration analysis in autonomous driving: A survey. [[Paper]](https://arxiv.org/pdf/2304.10891.pdf)
@@ -643,6 +643,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) LipsFormer: Introducing Lipschitz Continuity to Vision Transformers, [[Paper]](https://arxiv.org/pdf/2304.09856.pdf), [[Code]](https://github.com/IDEA-Research/LipsFormer)
 - (arXiv 2023.04) Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2304.10716.pdf), [[Code]](https://github.com/megvii-research/TPS-CVPR2023)
 - (arXiv 2023.04) MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2304.12043.pdf), [[Code]](https://github.com/fistyee/MixPro)
+- (arXiv 2023.04) Vision Conformer: Incorporating Convolutions into Vision Transformer Layers, [[Paper]](https://arxiv.org/pdf/2304.13991.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -652,6 +653,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.03) High-Fidelity Pluralistic Image Completion with Transformers, [[Paper]](https://arxiv.org/pdf/2103.14031.pdf), [[Code]](http://raywzy.com/ICT)
 - (arXiv 2021.04) TFill: Image Completion via a Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2111.06707.pdf), [[Code]](https://github.com/yhlleo/MJP)
 - (arXiv 2023.03) FishDreamer: Towards Fisheye Semantic Completion via Unified Image Outpainting and Segmentation, [[Paper]](https://arxiv.org/pdf/2303.13842.pdf), [[Code]](https://github.com/MasterHow/FishDreamer)
+- (arXiv 2023.04) Contour Completion by Transformers and Its Application to Vector Font Data, [[Paper]](https://arxiv.org/pdf/2304.13988.pdf)
 
 ### Compression
 - (arXiv 2021.10) Accelerating Framework of Transformer by hardware Design and Model Compression Co-Optimization, [[Paper]](https://arxiv.org/pdf/2110.10030.pdf)
@@ -674,6 +676,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) GOHSP: A Unified Framework of Graph and Optimization-based Heterogeneous Structured Pruning for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2301.05345.pdf)
 - (arXiv 2023.03) SeiT: Storage-Efficient Vision Training with Tokens Using 1% of Pixel Storage, [[Paper]](https://arxiv.org/pdf/2303.11114.pdf), [[Code]](https://github.com/naver-ai/seit)
 - (arXiv 2023.03) Learned Image Compression with Mixed Transformer-CNN Architectures, [[Paper]](https://arxiv.org/pdf/2303.14978.pdf), [[Code]](https://github.com/jmliu206/LIC_TCM)
+- (arXiv 2023.04) Optimization-Inspired Cross-Attention Transformer for Compressive Sensing, [[Paper]](https://arxiv.org/pdf/2304.13986.pdf), [[Code]](https://github.com/songjiechong/OCTUF)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -1049,6 +1052,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Continual Few-Shot Learning Using HyperTransformers, [[Paper]](https://arxiv.org/pdf/2301.04584.pdf)
 - (arXiv 2023.02) SpatialFormer: Semantic and Target Aware Attentions for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2303.09281.pdf)
 - (arXiv 2023.04) From Saliency to DINO: Saliency-guided Vision Transformer for Few-shot Keypoint Detection, [[Paper]](https://arxiv.org/pdf/2304.03140.pdf)
+- (arXiv 2023.04) Analogy-Forming Transformers for Few-Shot 3D Parsing, [[Paper]](https://arxiv.org/pdf/2304.14382.pdf), [[Project]](http://analogicalnets.github.io/)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -2001,6 +2005,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Multi-scale Geometry-aware Transformer for 3D Point Cloud Classification, [[Paper]](https://arxiv.org/pdf/2304.05694.pdf)
 - (arXiv 2023.04) Swin3D: A Pretrained Transformer Backbone for 3D Indoor Scene Understanding, [[Paper]](https://arxiv.org/pdf/2304.06906.pdf), [[Code]](https://github.com/microsoft/Swin3D)
 - (arXiv 2023.04) PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction, [[Paper]](https://arxiv.org/pdf/2304.07773.pdf), [[Code]](https://github.com/Blurryface0814/PCPNet)
+- (arXiv 2023.04) Exploiting Inductive Bias in Transformer for Point Cloud Classification and Segmentation, [[Paper]](https://arxiv.org/pdf/2304.14124.pdf), [[Code]](https://github.com/jiamang/IBT)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2179,6 +2184,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) DC-Former: Diverse and Compact Transformer for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2302.14335.pdf)
 - (arXiv 2023.03) Feature Completion Transformer for Occluded Person Re-identification, [[Paper]](https://arxiv.org/pdf/2303.01656.pdf)
 - (arXiv 2023.03) TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2303.06819.pdf), [[Code]](https://github.com/Kali-Hac/TranSG)
+- (arXiv 2023.04) Deeply-Coupled Convolution-Transformer with Spatial-temporal Complementary Learning for Video-based Person Re-identification, [[Paper]](https://arxiv.org/pdf/2304.14122.pdf), [[Code]](https://github.com/Kali-Hac/TranSG)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
