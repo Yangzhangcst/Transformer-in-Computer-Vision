@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/04/28
+**Last updated: 2023/05/01
 
 ## Survey: 
 - (arXiv 2023.04) Transformer-based models and hardware acceleration analysis in autonomous driving: A survey. [[Paper]](https://arxiv.org/pdf/2304.10891.pdf)
@@ -1581,6 +1581,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Vision Transformer for Efficient Chest X-ray and Gastrointestinal Image Classification, [[Paper]](https://arxiv.org/pdf/2304.11529.pdf)
 - (arXiv 2023.04) Dilated-UNet: A Fast and Accurate Medical Image Segmentation Approach using a Dilated Transformer and U-Net Architecture, [[Paper]](https://arxiv.org/pdf/2304.11450.pdf),[[Code]](https://github.com/Omid-Nejati/Dilated_Unet)
 - (arXiv 2023.04) STM-UNet: An Efficient U-shaped Architecture Based on Swin Transformer and Multi-scale MLP for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2304.12615.pdf)
+- (arXiv 2023.05) 3D Brainformer: 3D Fusion Transformer for Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2304.14508.pdf)
+- (arXiv 2023.05) Transformer-based interpretable multi-modal data fusion for skin lesion classification, [[Paper]](https://arxiv.org/pdf/2304.14505.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1890,6 +1892,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16896.pdf), [[Code]](https://github.com/askerlee/craft)
 - (arXiv 2023.03) FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation, [[Paper]](https://arxiv.org/pdf/2303.01237.pdf)
 - (arXiv 2023.04) TransFlow: Transformer as Flow Learner, [[Paper]](https://arxiv.org/pdf/2304.11523.pdf)
+- (arXiv 2023.05) SSTM: Spatiotemporal Recurrent Transformers for Multi-frame Optical Flow Estimation, [[Paper]](https://arxiv.org/pdf/2304.14418.pdf)
 
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
@@ -2126,6 +2129,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data, [[Paper]](https://arxiv.org/pdf/2302.01665.pdf), [[Code]](https://github.com/BIT-MJY/CVTNet)
 - (arXiv 2023.02) Rethink Long-tailed Recognition with Vision Transforms, [[Paper]](https://arxiv.org/pdf/2302.14284.pdf)
 - (arXiv 2023.04) R2Former: Unified Retrieval and Reranking Transformer for Place Recognition, [[Paper]](https://arxiv.org/pdf/2304.03410.pdf), [[Code]](https://github.com/Jeff-Zilence/R2Former)
+- (arXiv 2023.05) MASK-CNN-Transformer For Real-Time Multi-Label Weather Recognition, [[Paper]](https://arxiv.org/pdf/2304.14857.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -2317,6 +2321,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Contrastive Transformer: Contrastive Learning Scheme with Transformer innate Patches, [[Paper]](https://arxiv.org/pdf/2303.14806.pdf)
 - (arXiv 2023.04) Token Boosting for Robust Self-Supervised Visual Transformer Pre-training, [[Paper]](https://arxiv.org/pdf/2304.04175.pdf)
 - (arXiv 2023.04) MOST: Multiple Object localization with Self-supervised Transformers for object discovery, [[Paper]](https://arxiv.org/pdf/2304.05387.pdf)
+- (arXiv 2023.05) LostPaw: Finding Lost Pets using a Contrastive Learning-based Transformer with Visual Input, [[Paper]](https://arxiv.org/pdf/2304.14765.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -2474,6 +2479,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Incorporating Transformer Designs into Convolutions for Lightweight Image Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.14324.pdf), [[Code]](https://github.com/Aitical/TCSR)
 - (arXiv 2023.03) Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.16513.pdf), [[Code]](https://github.com/jaroslaw1007/CLIT)
 - (arXiv 2023.03) SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer,  [[Paper]](https://arxiv.org/pdf/2303.17783.pdf)
+- (arXiv 2023.05) Local-Global Transformer Enhanced Unfolding Network for Pan-sharpening, [[Paper]](https://arxiv.org/pdf/2304.14612.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
