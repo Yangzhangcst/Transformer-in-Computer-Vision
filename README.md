@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/01
+**Last updated: 2023/05/02
 
 ## Survey: 
 - (arXiv 2023.04) Transformer-based models and hardware acceleration analysis in autonomous driving: A survey. [[Paper]](https://arxiv.org/pdf/2304.10891.pdf)
@@ -785,6 +785,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) DDT: Dual-branch Deformable Transformer for Image Denoising, [[Paper]](https://arxiv.org/pdf/2304.06346.pdf), [[Code]](https://github.com/Merenguelkl/DDT)
 - (arXiv 2023.04) EWT: Efficient Wavelet-Transformer for Single Image Denoising, [[Paper]](https://arxiv.org/pdf/2304.06274.pdf)
 - (arXiv 2023.04) NoiseTrans: Point Cloud Denoising with Transformers, [[Paper]](https://arxiv.org/pdf/2304.11812.pdf)
+- (arXiv 2023.05) RViDeformer: Efficient Raw Video Denoising Transformer with a Larger Benchmark Dataset, [[Paper]](https://arxiv.org/pdf/2305.00767.pdf)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -1782,6 +1783,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Longitudinal Multimodal Transformer Integrating Imaging and Latent Clinical Signatures From Routine EHRs for Pulmonary Nodule Classification, [[Paper]](https://arxiv.org/pdf/2304.02836.pdf)
 - (arXiv 2023.04) PARFormer: Transformer-based Multi-Task Network for Pedestrian Attribute Recognition, [[Paper]](https://arxiv.org/pdf/2304.07230.pdf), [[Code]](https://github.com/xwf199/PARFormer)
 - (arXiv 2023.04) AutoTaskFormer: Searching Vision Transformers for Multi-task Learning, [[Paper]](https://arxiv.org/pdf/2304.08756.pdf)
+- (arXiv 2023.05) MH-DETR: Video Moment and Highlight Detection with Cross-modal Transformer, [[Paper]](https://arxiv.org/pdf/2305.00355.pdf), [[Code]](https://github.com/YoucanBaby/MH-DETR)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2254,6 +2256,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Panoramic Vision Transformer for Saliency Detection in 360° Videos, [[Paper]](https://arxiv.org/pdf/2209.08956.pdf)
 - (arXiv 2023.01) HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2301.03036.pdf), [[Code]](https://github.com/liuzywen/HRTransNet)
 - (arXiv 2023.02) Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2302.08052.pdf)
+- (arXiv 2023.05) Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2305.00514.pdf), [[Code]](https://github.com/dragonlee258079/DMT)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
