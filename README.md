@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/03
+**Last updated: 2023/05/04
 
 ## Survey: 
 - (arXiv 2023.04) Transformer-based models and hardware acceleration analysis in autonomous driving: A survey. [[Paper]](https://arxiv.org/pdf/2304.10891.pdf)
@@ -252,6 +252,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Neighborhood Contrastive Transformer for Change Captioning, [[Paper]](https://arxiv.org/pdf/2303.03171.pdf), [[Code]](https://github.com/tuyunbin/NCT)
 - (arXiv 2023.03) Comparative study of Transformer and LSTM Network with attention mechanism on Image Captioning, [[Paper]](https://arxiv.org/pdf/2303.02648.pdf)
 - (arXiv 2023.03) Text with Knowledge Graph Augmented Transformer for Video Captioning, [[Paper]](https://arxiv.org/pdf/2303.12423.pdf)
+- (arXiv 2023.05) Transforming Visual Scene Graphs to Image Captions, [[Paper]](https://arxiv.org/pdf/2305.02177.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -2493,6 +2494,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Cascaded Local Implicit Transformer for Arbitrary-Scale Super-Resolution,  [[Paper]](https://arxiv.org/pdf/2303.16513.pdf), [[Code]](https://github.com/jaroslaw1007/CLIT)
 - (arXiv 2023.03) SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer,  [[Paper]](https://arxiv.org/pdf/2303.17783.pdf)
 - (arXiv 2023.05) Local-Global Transformer Enhanced Unfolding Network for Pan-sharpening, [[Paper]](https://arxiv.org/pdf/2304.14612.pdf)
+- (arXiv 2023.05) A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.02074.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
