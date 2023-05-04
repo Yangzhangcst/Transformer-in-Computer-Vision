@@ -3029,6 +3029,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Detection of Pavement Cracks by Deep Learning Models of Transformer and UNet, [[Paper]](https://arxiv.org/pdf/2304.12596.pdf)
 - (arXiv 2023.04) Recurrent Transformer Encoders for Vision-based Estimation of Fatigue and Engagement in Cognitive Training Sessions, [[Paper]](https://arxiv.org/pdf/2304.12470.pdf)
 - (arXiv 2023.04) Hint-Aug: Drawing Hints from Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning, [[Paper]](https://arxiv.org/pdf/2304.12520.pdf)
+- (arXiv 2023.05) Unsupervised Mutual Transformer Learning for Multi-Gigapixel Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2305.02032.pdf)
 
 ## Contact & Feedback
 
