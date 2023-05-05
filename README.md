@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/04
+**Last updated: 2023/05/05
 
 ## Survey: 
 - (arXiv 2023.04) Transformer-based models and hardware acceleration analysis in autonomous driving: A survey. [[Paper]](https://arxiv.org/pdf/2304.10891.pdf)
@@ -1029,6 +1029,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) MC-ViViT: Multi-branch Classifier-ViViT to Detect Mild Cognitive Impairment in Older Adults using Facial Videos, [[Paper]](https://arxiv.org/pdf/2304.05292.pdf)
 - (arXiv 2023.04) PATMAT: Person Aware Tuning of Mask-Aware Transformer for Face Inpainting, [[Paper]](https://arxiv.org/pdf/2304.06107.pdf)
 - (arXiv 2023.04) MA-ViT: Modality-Agnostic Vision Transformers for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2304.07549.pdf)
+- (arXiv 2023.05) Noise-Resistant Multimodal Transformer for Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2305.02814.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1248,6 +1249,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) PanoViT: Vision Transformer for Room Layout Estimation from a Single Panoramic Image, [[Paper]](https://arxiv.org/pdf/2212.12156.pdf)
 - (arXiv 2023.03) DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer, [[Paper]](https://arxiv.org/pdf/2303.03755.pdf)
 - (arXiv 2023.04) GUILGET: GUI Layout GEneration with Transformer, [[Paper]](https://arxiv.org/pdf/2304.09012.pdf)
+- (arXiv 2023.05) LayoutDM: Transformer-based Diffusion Model for Layout Generation, [[Paper]](https://arxiv.org/pdf/2305.02567.pdf)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -1881,10 +1883,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Robust Table Structure Recognition with Dynamic Queries Enhanced Detection Transformer, [[Paper]](https://arxiv.org/pdf/2303.11615.pdf)
 - (arXiv 2023.03) MSdocTr-Lite: A Lite Transformer for Full Page Multi-script Handwriting Recognition, [[Paper]](https://arxiv.org/pdf/2303.13931.pdf)
 - (arXiv 2023.03) DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality, [[Paper]](https://arxiv.org/pdf/2303.14585.pdf)
+- (arXiv 2023.05) Towards End-to-End Semi-Supervised Table Detection with Deformable Transformer, [[Paper]](https://arxiv.org/pdf/2305.02769.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
 - (arXiv 2023.03) OcTr: Octree-based Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2303.12621.pdf)
+- (arXiv 2023.05) OctFormer: Octree-based Transformers for 3D Point Clouds, [[Paper]](https://arxiv.org/pdf/2305.03045.pdf), [[Code]](https://wang-ps.github.io/octformer)
 
 ### Open World
 - (arXiv 2022.03) Open Set Recognition using Vision Transformer with an Additional Detection Head, [[Paper]](https://arxiv.org/pdf/2203.08441.pdf)
@@ -2020,6 +2024,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction, [[Paper]](https://arxiv.org/pdf/2304.07773.pdf), [[Code]](https://github.com/Blurryface0814/PCPNet)
 - (arXiv 2023.04) Exploiting Inductive Bias in Transformer for Point Cloud Classification and Segmentation, [[Paper]](https://arxiv.org/pdf/2304.14124.pdf), [[Code]](https://github.com/jiamang/IBT)
 - (arXiv 2023.05) PU-EdgeFormer: Edge Transformer for Dense Prediction in Point Cloud Upsampling, [[Paper]](https://arxiv.org/pdf/2305.01148.pdf), [[Code]](https://github.com/dohoon2045/PU-EdgeFormer)
+- (arXiv 2023.05) Point Transformer For Coronary Artery Labeling, [[Paper]](https://arxiv.org/pdf/2305.02533.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2430,6 +2435,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.04) OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction, [[Paper]](https://arxiv.org/pdf/2304.05316.pdf), [[Code]](https://github.com/zhangyp15/OccFormer)
 - (arxiv 2023.04) DeepSegmenter: Temporal Action Localization for Detecting Anomalies in Untrimmed Naturalistic Driving Videos, [[Paper]](https://arxiv.org/pdf/2304.08261.pdf)
 - (arxiv 2023.05) Exploring vision transformer layer choosing for semantic segmentation, [[Paper]](https://arxiv.org/pdf/2305.01279.pdf)
+- (arxiv 2023.05) MTLSegFormer: Multi-task Learning with Transformers for Semantic Segmentation in Precision Agriculture, [[Paper]](https://arxiv.org/pdf/2305.02813.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
