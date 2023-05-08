@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/05
+**Last updated: 2023/05/08
 
 ## Survey: 
+- (arXiv 2023.05) Semantic Segmentation using Vision Transformers: A survey. [[Paper]](https://arxiv.org/pdf/2305.03273.pdf)
+
 - (arXiv 2023.04) Transformer-based models and hardware acceleration analysis in autonomous driving: A survey. [[Paper]](https://arxiv.org/pdf/2304.10891.pdf)
 
 - (arXiv 2023.04) Transformer-Based Visual Segmentation: A Survey. [[Paper]](https://arxiv.org/pdf/2304.09854.pdf), [[Awesome]](https://github.com/lxtGH/Awesome-Segmenation-With-Transformer)
@@ -1030,6 +1032,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) PATMAT: Person Aware Tuning of Mask-Aware Transformer for Face Inpainting, [[Paper]](https://arxiv.org/pdf/2304.06107.pdf)
 - (arXiv 2023.04) MA-ViT: Modality-Agnostic Vision Transformers for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2304.07549.pdf)
 - (arXiv 2023.05) Noise-Resistant Multimodal Transformer for Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2305.02814.pdf)
+- (arXiv 2023.05) LOGO-Former: Local-Global Spatio-Temporal Transformer for Dynamic Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2305.03343.pdf)
+- (arXiv 2023.05) FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2305.03277.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -2293,6 +2297,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Revisiting Transformer for Point Cloud-based 3D Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2303.11048.pdf)
 - (arXiv 2023.03) Learning Similarity between Scene Graphs and Images with Transformers, [[Paper]](https://arxiv.org/pdf/2304.00590.pdf)
 - (arXiv 2023.04) RePAST: Relative Pose Attention Scene Representation Transformer, [[Paper]](https://arxiv.org/pdf/2304.00947.pdf)
+- (arXiv 2023.05) HSCNet++: Hierarchical Scene Coordinate Classification and Regression for Visual Localization with Transformer, [[Paper]](https://arxiv.org/pdf/2305.03595.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -2436,6 +2441,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.04) DeepSegmenter: Temporal Action Localization for Detecting Anomalies in Untrimmed Naturalistic Driving Videos, [[Paper]](https://arxiv.org/pdf/2304.08261.pdf)
 - (arxiv 2023.05) Exploring vision transformer layer choosing for semantic segmentation, [[Paper]](https://arxiv.org/pdf/2305.01279.pdf)
 - (arxiv 2023.05) MTLSegFormer: Multi-task Learning with Transformers for Semantic Segmentation in Precision Agriculture, [[Paper]](https://arxiv.org/pdf/2305.02813.pdf)
+- (arxiv 2023.05) Mitigating Undisciplined Over-Smoothing in Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2305.03112.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
