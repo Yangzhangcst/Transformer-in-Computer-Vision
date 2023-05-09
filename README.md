@@ -652,7 +652,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Instruction-ViT: Multi-Modal Prompts for Instruction Learning in ViT, [[Paper]](https://arxiv.org/pdf/2305.00201.pdf)
 - (arXiv 2023.05) MMViT: Multiscale Multiview Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.00104.pdf)
 - (arXiv 2023.05) AxWin Transformer: A Context-Aware Vision Transformer Backbone with Axial Windows, [[Paper]](https://arxiv.org/pdf/2305.01280.pdf)
-
+- (arXiv 2023.05) Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive Fields, [[Paper]](https://arxiv.org/pdf/2305.04722.pdf)
+- 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
 - (arXiv 2023.04) Fairness in Visual Clustering: A Novel Transformer Clustering Approach, [[Paper]](https://arxiv.org/pdf/2304.07408.pdf)
@@ -1068,6 +1069,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) SpatialFormer: Semantic and Target Aware Attentions for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2303.09281.pdf)
 - (arXiv 2023.04) From Saliency to DINO: Saliency-guided Vision Transformer for Few-shot Keypoint Detection, [[Paper]](https://arxiv.org/pdf/2304.03140.pdf)
 - (arXiv 2023.04) Analogy-Forming Transformers for Few-Shot 3D Parsing, [[Paper]](https://arxiv.org/pdf/2304.14382.pdf), [[Project]](http://analogicalnets.github.io/)
+- (arXiv 2023.05) Vision Transformer Off-the-Shelf: A Surprising Baseline for Few-Shot Class-Agnostic Counting, [[Paper]](https://arxiv.org/pdf/2305.04440.pdf)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -2449,6 +2451,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.05) Exploring vision transformer layer choosing for semantic segmentation, [[Paper]](https://arxiv.org/pdf/2305.01279.pdf)
 - (arxiv 2023.05) MTLSegFormer: Multi-task Learning with Transformers for Semantic Segmentation in Precision Agriculture, [[Paper]](https://arxiv.org/pdf/2305.02813.pdf)
 - (arxiv 2023.05) Mitigating Undisciplined Over-Smoothing in Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2305.03112.pdf)
+- (arxiv 2023.05) AdaptiveClick: Clicks-aware Transformer with Adaptive Focal Loss for Interactive Image Segmentation, [[Paper]](https://arxiv.org/pdf/2305.04276.pdf), [[Code]](https://github.com/lab206/AdaptiveClick)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
