@@ -2452,6 +2452,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.05) MTLSegFormer: Multi-task Learning with Transformers for Semantic Segmentation in Precision Agriculture, [[Paper]](https://arxiv.org/pdf/2305.02813.pdf)
 - (arxiv 2023.05) Mitigating Undisciplined Over-Smoothing in Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2305.03112.pdf)
 - (arxiv 2023.05) AdaptiveClick: Clicks-aware Transformer with Adaptive Focal Loss for Interactive Image Segmentation, [[Paper]](https://arxiv.org/pdf/2305.04276.pdf), [[Code]](https://github.com/lab206/AdaptiveClick)
+- (arxiv 2023.05) DBAT: Dynamic Backward Attention Transformer for Material Segmentation with Cross-Resolution Patches, [[Paper]](https://arxiv.org/pdf/2305.03919.pdf), [[Code]](https://github.com/heng-yuwen/Dynamic-Backward-Attention-Transformer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
