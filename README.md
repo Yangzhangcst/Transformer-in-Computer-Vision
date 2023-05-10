@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/09
+**Last updated: 2023/05/10
 
 ## Survey: 
 - (arXiv 2023.05) Semantic Segmentation using Vision Transformers: A survey. [[Paper]](https://arxiv.org/pdf/2305.03273.pdf)
@@ -2518,6 +2518,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) SOSR: Source-Free Image Super-Resolution with Wavelet Augmentation Transformer,  [[Paper]](https://arxiv.org/pdf/2303.17783.pdf)
 - (arXiv 2023.05) Local-Global Transformer Enhanced Unfolding Network for Pan-sharpening, [[Paper]](https://arxiv.org/pdf/2304.14612.pdf)
 - (arXiv 2023.05) A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.02074.pdf)
+- (arXiv 2023.05) Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2305.05177.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
