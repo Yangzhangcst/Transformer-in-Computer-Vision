@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/11
+**Last updated: 2023/05/12
 
 ## Survey: 
 - (arXiv 2023.05) Semantic Segmentation using Vision Transformers: A survey. [[Paper]](https://arxiv.org/pdf/2305.03273.pdf)
@@ -653,7 +653,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) MMViT: Multiscale Multiview Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.00104.pdf)
 - (arXiv 2023.05) AxWin Transformer: A Context-Aware Vision Transformer Backbone with Axial Windows, [[Paper]](https://arxiv.org/pdf/2305.01280.pdf)
 - (arXiv 2023.05) Understanding Gaussian Attention Bias of Vision Transformers Using Effective Receptive Fields, [[Paper]](https://arxiv.org/pdf/2305.04722.pdf)
-- 
+- (arXiv 2023.05) EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention, [[Paper]](https://arxiv.org/pdf/2305.07027.pdf), [[Code]](https://github.com/microsoft/Cream/tree/main/EfficientViT)
+
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
 - (arXiv 2023.04) Fairness in Visual Clustering: A Novel Transformer Clustering Approach, [[Paper]](https://arxiv.org/pdf/2304.07408.pdf)
@@ -1607,6 +1608,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Cross-Shaped Windows Transformer with Self-supervised Pretraining for Clinically Significant Prostate Cancer Detection in Bi-parametric MRI, [[Paper]](https://arxiv.org/pdf/2305.00385.pdf)
 - (arXiv 2023.05) Transformer-Based Hierarchical Clustering for Brain Network Analysis, [[Paper]](https://arxiv.org/pdf/2305.04142.pdf),[[Code]](https://github.com/DDVD233/THC)
 - (arXiv 2023.05) Brain Tumor Detection using Swin Transformers, [[Paper]](https://arxiv.org/pdf/2305.06025.pdf)
+- (arXiv 2023.05) Transformers for CT Reconstruction From Monoplanar and Biplanar Radiographs, [[Paper]](https://arxiv.org/pdf/2305.06965.pdf)
+- (arXiv 2023.05) Cascaded Cross-Attention Networks for Data-Efficient Whole-Slide Image Classification Using Transformers, [[Paper]](https://arxiv.org/pdf/2305.06965.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1914,6 +1917,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Open World DETR: Transformer based Open World Object Detection, [[Paper]](https://arxiv.org/pdf/2212.02969.pdf)
 - (arXiv 2023.01) CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection, [[Paper]](https://arxiv.org/pdf/2301.01970.pdf), [[Code]](https://github.com/xiaomabufei/CAT)
 - (arXiv 2023.03) Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2303.14386.pdf)
+- (arXiv 2023.05) Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.07011.pdf)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
@@ -2138,6 +2142,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Towards Accurate Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2303.14341.pdf)
 - (arXiv 2023.04) Q-DETR: An Efficient Low-Bit Quantized Detection Transformer, [[Paper]](https://arxiv.org/pdf/2304.00253.pdf)
 - (arXiv 2023.04) Attention Map Guided Transformer Pruning for Edge Device, [[Paper]](https://arxiv.org/pdf/2304.01452.pdf)
+- (arXiv 2023.05) Patch-wise Mixed-Precision Quantization of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.06559.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -2843,6 +2848,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2302.12251.pdf), [[Code]](https://github.com/NVlabs/VoxFormer)
 - (arXiv 2023.03) Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams, [[Paper]](https://arxiv.org/pdf/2303.03856.pdf)
 - (arXiv 2023.03) SnakeVoxFormer: Transformer-based Single Image Voxel Reconstruction with Run Length Encoding, [[Paper]](https://arxiv.org/pdf/2303.16293.pdf)
+- (arXiv 2023.05) PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer, [[Paper]](https://arxiv.org/pdf/2305.06621.pdf), [[Code]](https://github.com/Nightmare-n/PVT-SSD)
 
 ### Weakly Supervised Learning
 - (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
