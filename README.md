@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/12
+**Last updated: 2023/05/15
 
 ## Survey: 
 - (arXiv 2023.05) Semantic Segmentation using Vision Transformers: A survey. [[Paper]](https://arxiv.org/pdf/2305.03273.pdf)
@@ -948,6 +948,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Transformer-based stereo-aware 3D object detection from binocular images, [[Paper]](https://arxiv.org/pdf/2304.11906.pdf)
 - (arXiv 2023.05) End to End Lane detection with One-to-Several Transformer, [[Paper]](https://arxiv.org/pdf/2305.00675.pdf),[[Code]](https://github.com/zkyseu/O2SFormer)
 - (arXiv 2023.05) TransCAR: Transformer-based Camera-And-Radar Fusion for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2305.00397.pdf),[[Code]](https://github.com/zkyseu/O2SFormer)
+- (arXiv 2023.05) SSD-MonoDTR: Supervised Scale-constrained Deformable Transformer for Monocular 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2305.07270.pdf),[[Code]](https://github.com/mikasa3lili/SSD-MonoDETR)
+- (arXiv 2023.05) RHINO: Rotated DETR with Dynamic Denoising via Hungarian Matching for Oriented Object Detection, [[Paper]](https://arxiv.org/pdf/2305.07598.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1200,6 +1202,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) DeViT: Deformed Vision Transformers in Video Inpainting, [[Paper]](https://arxiv.org/pdf/2209.13925.pdf)
 - (arXiv 2022.10) TPFNet: A Novel Text In-painting Transformer for Text Removal, [[Paper]](https://arxiv.org/pdf/2210.14461.pdf), [[Code]](https://github.com/CandleLabAI/TPFNet)
 - (arXiv 2023.01) Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting, [[Paper]](https://arxiv.org/pdf/2301.10048.pdf)
+- (arXiv 2023.05) T-former: An Efficient Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2305.07239.pdf), [[Code]](https://github.com/dengyecode/T-former_image_inpainting)
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
@@ -2291,6 +2294,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) HRTransNet: HRFormer-Driven Two-Modality Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2301.03036.pdf), [[Code]](https://github.com/liuzywen/HRTransNet)
 - (arXiv 2023.02) Hierarchical Cross-modal Transformer for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2302.08052.pdf)
 - (arXiv 2023.05) Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2305.00514.pdf), [[Code]](https://github.com/dragonlee258079/DMT)
+- (arXiv 2023.05) Salient Mask-Guided Vision Transformer for Fine-Grained Classification, [[Paper]](https://arxiv.org/pdf/2305.07102.pdf)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
