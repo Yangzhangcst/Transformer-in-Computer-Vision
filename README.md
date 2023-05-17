@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/16
+**Last updated: 2023/05/17
 
 ## Survey: 
 - (arXiv 2023.05) Semantic Segmentation using Vision Transformers: A survey. [[Paper]](https://arxiv.org/pdf/2305.03273.pdf)
@@ -146,6 +146,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) STMT: A Spatial-Temporal Mesh Transformer for MoCap-Based Action Recognition, [[Paper]](https://arxiv.org/pdf/2303.18177.pdf),[[Code]](https://github.com/zgzxy001/STMT)
 - (arXiv 2023.04) End-to-End Spatio-Temporal Action Localisation with Video Transformers, [[Paper]](https://arxiv.org/pdf/2304.12160.pdf)
 - (arXiv 2023.05) Distilled Mid-Fusion Transformer Networks for Multi-Modal Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2305.03810.pdf)
+- (arXiv 2023.05) Multi-View Multi-Scale Driver Action Recognition with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.08877.pdf),[[Code]](https://github.com/PurdueDigitalTwin/M2DAR)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -192,6 +193,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) DCVQE: A Hierarchical Transformer for Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2210.04377.pdf)
 - (arXiv 2023.03) ST360IQ: No-Reference Omnidirectional Image Quality Assessment with Spherical Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.06907.pdf), [[Code]](https://github.com/Nafiseh-Tofighi/ST360IQ)
 - (arXiv 2023.03) MRET: Multi-resolution Transformer for Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2303.07489.pdf)
+- (arXiv 2023.05) Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token, [[Paper]](https://arxiv.org/pdf/2305.09353.pdf), [[Code]](https://github.com/Srache/TempQT)
 
 ### Augmentation 
 - (arXiv 2022.10) TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers, [[Paper]](https://arxiv.org/pdf/2210.07562.pdf), [[Code]](https://github.com/mlvlab/TokenMixup)
@@ -779,6 +781,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Semi-UFormer: Semi-supervised Uncertainty-aware Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2210.16057.pdf)
 - (arXiv 2023.03) SelfPromer: Self-Prompt Dehazing Transformers with Depth-Consistency, [[Paper]](https://arxiv.org/pdf/2210.16057.pdf)
 - (arXiv 2023.04) A Data-Centric Solution to NonHomogeneous Dehazing via Vision Transformer, [[Paper]](https://arxiv.org/pdf/2304.07874.pdf), [[Code]](https://github.com/yangyiliu21/ntire2023_ITBdehaze)
+- (arXiv 2023.05) NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer, [[Paper]](https://arxiv.org/pdf/2305.09533.pdf), [[Code]](https://github.com/yangyiliu21/ntire2023_ITBdehaze)
 
 ### Deraining
 - (arXiv 2023.03) Learning A Sparse Transformer Network for Effective Image Deraining, [[Paper]](https://arxiv.org/pdf/2303.11950.pdf), [[Code]](https://github.com/cschenxiang/DRSformer)
@@ -1272,6 +1275,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
+- (arXiv 2023.05) Ray-Patch: An Efficient Decoder for Light Field Transformers, [[Paper]](https://arxiv.org/abs/2305.09566)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -1618,6 +1622,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Transformers for CT Reconstruction From Monoplanar and Biplanar Radiographs, [[Paper]](https://arxiv.org/pdf/2305.06965.pdf)
 - (arXiv 2023.05) Cascaded Cross-Attention Networks for Data-Efficient Whole-Slide Image Classification Using Transformers, [[Paper]](https://arxiv.org/pdf/2305.06965.pdf)
 - (arXiv 2023.05) MaxViT-UNet: Multi-Axis Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2305.08396.pdf)
+- (arXiv 2023.05) LoViT: Long Video Transformer for Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2305.08989.pdf)
+- (arXiv 2023.05) CB-HVTNet: A channel-boosted hybrid vision transformer network for lymphocyte assessment in histopathological images, [[Paper]](https://arxiv.org/pdf/2305.09211.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2838,6 +2844,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) PSVT: End-to-End Multi-person 3D Pose and Shape Estimation with Progressive Video Transformers, [[Paper]](https://arxiv.org/pdf/2303.09187.pdf)
 - (arXiv 2023.04) Q2ATransformer: Improving Medical VQA via an Answer Querying Decoder, [[Paper]](https://arxiv.org/pdf/2304.01611.pdf)
 - (arXiv 2023.05) Multimodal Graph Transformer for Multimodal Question Answering, [[Paper]](https://arxiv.org/pdf/2305.00581.pdf)
+- (arXiv 2023.05) Is a Video worth n×n Images? A Highly Efficient Approach to Transformer-based Video Question Answering, [[Paper]](https://arxiv.org/pdf/2305.09107.pdf)
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
