@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/17
+**Last updated: 2023/05/18
 
 ## Survey: 
+- (arXiv 2023.05) A survey of the Vision Transformers and its CNN-Transformer based Variants. [[Paper]](https://arxiv.org/pdf/2305.09880.pdf)
+
 - (arXiv 2023.05) Semantic Segmentation using Vision Transformers: A survey. [[Paper]](https://arxiv.org/pdf/2305.03273.pdf)
 
 - (arXiv 2023.04) Transformer-based models and hardware acceleration analysis in autonomous driving: A survey. [[Paper]](https://arxiv.org/pdf/2304.10891.pdf)
@@ -659,6 +661,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention, [[Paper]](https://arxiv.org/pdf/2305.07027.pdf), [[Code]](https://github.com/microsoft/Cream/tree/main/EfficientViT)
 - (arXiv 2023.05) GSB: Group Superposition Binarization for Vision Transformer with Limited Training Samples, [[Paper]](https://arxiv.org/pdf/2305.07931.pdf)
 - (arXiv 2023.05) Enhancing Performance of Vision Transformers on Small Datasets through Local Inductive Bias Incorporation, [[Paper]](https://arxiv.org/pdf/2305.08551.pdf)
+- (arXiv 2023.05) CageViT: Convolutional Activation Guided Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.09924.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1834,6 +1837,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo, [[Paper]](https://arxiv.org/pdf/2208.02541.pdf)
 - (arXiv 2022.08) A Light Touch Approach to Teaching Transformers Multi-view Geometry, [[Paper]](https://arxiv.org/pdf/2211.15107.pdf)
 - (arXiv 2023.03) Implicit Ray-Transformers for Multi-view Remote Sensing Image Segmentation, [[Paper]](https://arxiv.org/pdf/2303.08401.pdf)
+- (arXiv 2023.05) CostFormer:Cost Transformer for Cost Aggregation in Multi-view Stereo, [[Paper]](https://arxiv.org/pdf/2305.10320.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -2667,6 +2671,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Transfer Learning with Pretrained Remote Sensing Transformers, [[Paper]](https://arxiv.org/pdf/2209.14969.pdf), [[Code]](https://github.com/antofuller/SatViT)
 - (arXiv 2022.11) QuadFormer: Quadruple Transformer for Unsupervised Domain Adaptation in Power Line Segmentation of Aerial Images, [[Paper]](https://arxiv.org/pdf/2211.16988.pdf)
 - (arXiv 2023.03) Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective, [[Paper]](https://arxiv.org/pdf/2303.13434.pdf)
+- (arXiv 2023.05) Transfer Learning for Fine-grained Classification Using Semi-supervised Learning and Visual Transformers, [[Paper]](https://arxiv.org/pdf/2305.10018.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
