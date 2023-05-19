@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/18
+**Last updated: 2023/05/19
 
 ## Survey: 
 - (arXiv 2023.05) A survey of the Vision Transformers and its CNN-Transformer based Variants. [[Paper]](https://arxiv.org/pdf/2305.09880.pdf)
@@ -696,6 +696,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Learned Image Compression with Mixed Transformer-CNN Architectures, [[Paper]](https://arxiv.org/pdf/2303.14978.pdf), [[Code]](https://github.com/jmliu206/LIC_TCM)
 - (arXiv 2023.04) Optimization-Inspired Cross-Attention Transformer for Compressive Sensing, [[Paper]](https://arxiv.org/pdf/2304.13986.pdf), [[Code]](https://github.com/songjiechong/OCTUF)
 - (arXiv 2023.05) ROI-based Deep Image Compression with Swin Transformers, [[Paper]](https://arxiv.org/pdf/2305.07783.pdf)
+- (arXiv 2023.05) Transformer-based Variable-rate Image Compression with Region-of-interest Control, [[Paper]](https://arxiv.org/pdf/2305.10807.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -714,6 +715,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) CounTR: Transformer-based Generalised Visual Counting, [[Paper]](https://arxiv.org/pdf/2208.13721.pdf)
 - (arXiv 2023.01) RGB-T Multi-Modal Crowd Counting Based on Transformer, [[Paper]](https://arxiv.org/pdf/2301.03033.pdf), [[Code]](https://github.com/liuzywen/RGBTCC)
 - (arXiv 2023.03) InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views, [[Paper]](https://arxiv.org/pdf/2303.09534.pdf)
+- (arXiv 2023.05) Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2305.10801.pdf)
 
 ### Deblurring
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
@@ -1627,6 +1629,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) MaxViT-UNet: Multi-Axis Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2305.08396.pdf)
 - (arXiv 2023.05) LoViT: Long Video Transformer for Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2305.08989.pdf)
 - (arXiv 2023.05) CB-HVTNet: A channel-boosted hybrid vision transformer network for lymphocyte assessment in histopathological images, [[Paper]](https://arxiv.org/pdf/2305.09211.pdf)
+- (arXiv 2023.05) Multi-resolution Spatiotemporal Enhanced Transformer Denoising with Functional Diffusive GANs for Constructing Brain Effective Connectivity in MCI analysis, [[Paper]](https://arxiv.org/pdf/2305.10754.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1664,6 +1667,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Multi-Scale Control Signal-Aware Transformer for Motion Synthesis without Phase, [[Paper]](https://arxiv.org/pdf/2303.01685.pdf)
 - (arXiv 2023.03) SPOTR: Spatio-temporal Pose Transformers for Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2303.06277.pdf)
 - (arXiv 2023.04) BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation, [[Paper]](https://arxiv.org/pdf/2304.02225.pdf), [[Code]](https://github.com/JunHeum/BiFormer)
+- (arXiv 2023.05) XFormer: Fast and Accurate Monocular 3D Body Capture, [[Paper]](https://arxiv.org/pdf/2305.11101.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2161,6 +2165,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Q-DETR: An Efficient Low-Bit Quantized Detection Transformer, [[Paper]](https://arxiv.org/pdf/2304.00253.pdf)
 - (arXiv 2023.04) Attention Map Guided Transformer Pruning for Edge Device, [[Paper]](https://arxiv.org/pdf/2304.01452.pdf)
 - (arXiv 2023.05) Patch-wise Mixed-Precision Quantization of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.06559.pdf)
+- (arXiv 2023.05) Boost Vision Transformer with GPU-Friendly Sparsity and Quantization, [[Paper]](https://arxiv.org/pdf/2305.10727.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
