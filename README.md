@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/19
+**Last updated: 2023/05/22
 
 ## Survey: 
 - (arXiv 2023.05) A survey of the Vision Transformers and its CNN-Transformer based Variants. [[Paper]](https://arxiv.org/pdf/2305.09880.pdf)
@@ -149,6 +149,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) End-to-End Spatio-Temporal Action Localisation with Video Transformers, [[Paper]](https://arxiv.org/pdf/2304.12160.pdf)
 - (arXiv 2023.05) Distilled Mid-Fusion Transformer Networks for Multi-Modal Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2305.03810.pdf)
 - (arXiv 2023.05) Multi-View Multi-Scale Driver Action Recognition with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.08877.pdf),[[Code]](https://github.com/PurdueDigitalTwin/M2DAR)
+- (arXiv 2023.05) Enhancing Transformer Backbone for Egocentric Video Action Segmentation, [[Paper]](https://arxiv.org/pdf/2305.11365.pdf),[[Code]](https://www.sail-nu.com/dxformer)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1630,6 +1631,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) LoViT: Long Video Transformer for Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2305.08989.pdf)
 - (arXiv 2023.05) CB-HVTNet: A channel-boosted hybrid vision transformer network for lymphocyte assessment in histopathological images, [[Paper]](https://arxiv.org/pdf/2305.09211.pdf)
 - (arXiv 2023.05) Multi-resolution Spatiotemporal Enhanced Transformer Denoising with Functional Diffusive GANs for Constructing Brain Effective Connectivity in MCI analysis, [[Paper]](https://arxiv.org/pdf/2305.10754.pdf)
+- (arXiv 2023.05) Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2305.11692.pdf),[[Code]](https://github.com/longbai1006/Surgical-VQLA)
+- (arXiv 2023.05) Coordinated Transformer with Position & Sample-aware Central Loss for Anatomical Landmark Detection, [[Paper]](https://arxiv.org/pdf/2305.11338.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1832,6 +1835,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) AutoTaskFormer: Searching Vision Transformers for Multi-task Learning, [[Paper]](https://arxiv.org/pdf/2304.08756.pdf)
 - (arXiv 2023.05) MH-DETR: Video Moment and Highlight Detection with Cross-modal Transformer, [[Paper]](https://arxiv.org/pdf/2305.00355.pdf), [[Code]](https://github.com/YoucanBaby/MH-DETR)
 - (arXiv 2023.05) MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis, [[Paper]](https://arxiv.org/pdf/2305.05992.pdf), [[Project]](https://jabir-zheng.github.io/MMoT)
+- (arXiv 2023.05) JOINEDTrans: Prior Guided Multi-task Transformer for Joint Optic Disc/Cup Segmentation and Fovea Detection, [[Paper]](https://arxiv.org/pdf/2305.11504.pdf), [[Project]](https://github.com/HuaqingHe/JOINEDTrans)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1923,6 +1927,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) MSdocTr-Lite: A Lite Transformer for Full Page Multi-script Handwriting Recognition, [[Paper]](https://arxiv.org/pdf/2303.13931.pdf)
 - (arXiv 2023.03) DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality, [[Paper]](https://arxiv.org/pdf/2303.14585.pdf)
 - (arXiv 2023.05) Towards End-to-End Semi-Supervised Table Detection with Deformable Transformer, [[Paper]](https://arxiv.org/pdf/2305.02769.pdf)
+- (arXiv 2023.05) Fast-StrucTexT: An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding, [[Paper]](https://arxiv.org/pdf/2305.11392.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -2264,6 +2269,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Retinal Image Restoration using Transformer and Cycle-Consistent Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2303.01939.pdf), [[Code]](https://github.com/AAleka/Transformer-Cycle-GAN)
 - (arXiv 2023.03) SANDFORMER: CNN and Transformer under Gated Fusion for Sand Dust Image Restoration, [[Paper]](https://arxiv.org/pdf/2303.04365.pdf)
 - (arXiv 2023.04) Burstormer: Burst Image Restoration and Enhancement Transformer, [[Paper]](https://arxiv.org/pdf/2304.01194.pdf), [[Code]](http://github.com/akshaydudhane16/Burstormer)
+- (arXiv 2023.05) RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration, [[Paper]](https://arxiv.org/pdf/2305.11474.pdf)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
@@ -2551,6 +2557,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Local-Global Transformer Enhanced Unfolding Network for Pan-sharpening, [[Paper]](https://arxiv.org/pdf/2304.14612.pdf)
 - (arXiv 2023.05) A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.02074.pdf)
 - (arXiv 2023.05) Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2305.05177.pdf)
+- (arXiv 2023.05) Efficient Mixed Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.11403.pdf), [[Code]](https://github. com/Fried-Rice-Lab/EMTT)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
