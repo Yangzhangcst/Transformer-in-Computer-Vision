@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/22
+**Last updated: 2023/05/23
 
 ## Survey: 
 - (arXiv 2023.05) A survey of the Vision Transformers and its CNN-Transformer based Variants. [[Paper]](https://arxiv.org/pdf/2305.09880.pdf)
@@ -663,6 +663,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) GSB: Group Superposition Binarization for Vision Transformer with Limited Training Samples, [[Paper]](https://arxiv.org/pdf/2305.07931.pdf)
 - (arXiv 2023.05) Enhancing Performance of Vision Transformers on Small Datasets through Local Inductive Bias Incorporation, [[Paper]](https://arxiv.org/pdf/2305.08551.pdf)
 - (arXiv 2023.05) CageViT: Convolutional Activation Guided Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.09924.pdf)
+- (arXiv 2023.05) Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design, [[Paper]](https://arxiv.org/pdf/2305.13035.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1836,6 +1837,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) MH-DETR: Video Moment and Highlight Detection with Cross-modal Transformer, [[Paper]](https://arxiv.org/pdf/2305.00355.pdf), [[Code]](https://github.com/YoucanBaby/MH-DETR)
 - (arXiv 2023.05) MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis, [[Paper]](https://arxiv.org/pdf/2305.05992.pdf), [[Project]](https://jabir-zheng.github.io/MMoT)
 - (arXiv 2023.05) JOINEDTrans: Prior Guided Multi-task Transformer for Joint Optic Disc/Cup Segmentation and Fovea Detection, [[Paper]](https://arxiv.org/pdf/2305.11504.pdf), [[Project]](https://github.com/HuaqingHe/JOINEDTrans)
+- (arXiv 2023.05) Brain encoding models based on multimodal transformers can transfer across language and vision, [[Paper]](https://arxiv.org/pdf/2305.12248.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1879,6 +1881,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Monocular Robot Navigation with Self-Supervised Pretrained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.03682.pdf), [[Project]](https://sachamorin.github.io/dino/)
 - (arXiv 2022.03) Object Memory Transformer for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2203.14708.pdf)
 - (arXiv 2022.03) Target-Driven Structured Transformer Planner for Vision-Language Navigation, [[Paper]](https://arxiv.org/pdf/2207.11201.pdf), [[Code]](https://github.com/YushengZhao/TD-STP)
+- (arXiv 2022.05) ASTS: Progress-Aware Spatio-Temporal Transformer Speaker For Vision-and-Language Navigation,  [[Paper]](https://arxiv.org/pdf/2305.11918.pdf)
 
 ### Neural Rendering
 - (arXiv 2022.03) ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.10157.pdf), [[Code]](https://github.com/jkulhanek/viewformer)
@@ -2171,6 +2174,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Attention Map Guided Transformer Pruning for Edge Device, [[Paper]](https://arxiv.org/pdf/2304.01452.pdf)
 - (arXiv 2023.05) Patch-wise Mixed-Precision Quantization of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.06559.pdf)
 - (arXiv 2023.05) Boost Vision Transformer with GPU-Friendly Sparsity and Quantization, [[Paper]](https://arxiv.org/pdf/2305.10727.pdf)
+- (arXiv 2023.05) Bi-ViT: Pushing the Limit of Vision Transformer Quantization, [[Paper]](https://arxiv.org/pdf/2305.12354.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -2344,6 +2348,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Learning Similarity between Scene Graphs and Images with Transformers, [[Paper]](https://arxiv.org/pdf/2304.00590.pdf)
 - (arXiv 2023.04) RePAST: Relative Pose Attention Scene Representation Transformer, [[Paper]](https://arxiv.org/pdf/2304.00947.pdf)
 - (arXiv 2023.05) HSCNet++: Hierarchical Scene Coordinate Classification and Regression for Visual Localization with Transformer, [[Paper]](https://arxiv.org/pdf/2305.03595.pdf)
+- (arXiv 2023.05) PanoContext-Former: Panoramic Total Scene Understanding with a Transformer, [[Paper]](https://arxiv.org/pdf/2305.12497.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -2491,6 +2496,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.05) AdaptiveClick: Clicks-aware Transformer with Adaptive Focal Loss for Interactive Image Segmentation, [[Paper]](https://arxiv.org/pdf/2305.04276.pdf), [[Code]](https://github.com/lab206/AdaptiveClick)
 - (arxiv 2023.05) DBAT: Dynamic Backward Attention Transformer for Material Segmentation with Cross-Resolution Patches, [[Paper]](https://arxiv.org/pdf/2305.03919.pdf), [[Code]](https://github.com/heng-yuwen/Dynamic-Backward-Attention-Transformer)
 - (arxiv 2023.05) Radious: Unveiling the Enigma of Dental Radiology with BEIT Adaptor and Mask2Former in Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2305.06236.pdf)
+- (arxiv 2023.05) HGFormer: Hierarchical Grouping Transformer for Domain Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2305.13031.pdf), [[Code]](https://github.com/dingjiansw101/HGFormer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2558,6 +2564,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.02074.pdf)
 - (arXiv 2023.05) Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2305.05177.pdf)
 - (arXiv 2023.05) Efficient Mixed Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.11403.pdf), [[Code]](https://github. com/Fried-Rice-Lab/EMTT)
+- (arXiv 2023.05) FIT: Far-reaching Interleaved Transformers, [[Paper]](https://arxiv.org/pdf/2305.12689.pdf), [[Code]](https://github.com/google-research/pix2seq)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -2828,6 +2835,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) StepFormer: Self-supervised Step Discovery and Localization in Instructional Videos, [[Paper]](https://arxiv.org/pdf/2304.13265.pdf)
 - (arXiv 2023.04) Objectives Matter: Understanding the Impact of Self-Supervised Objectives on Vision Transformer Representations, [[Paper]](https://arxiv.org/pdf/2304.13089.pdf)
 - (arXiv 2023.05) Transformer-based model for monocular visual odometry: a video understanding approach, [[Paper]](https://arxiv.org/pdf/2305.06121.pdf)
+- (arXiv 2023.05) VDT: An Empirical Study on Video Diffusion with Transformers, [[Paper]](https://arxiv.org/pdf/2305.13311.pdf), [[Code]](https://github.com/RERV/VDT)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -3098,6 +3106,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Recurrent Transformer Encoders for Vision-based Estimation of Fatigue and Engagement in Cognitive Training Sessions, [[Paper]](https://arxiv.org/pdf/2304.12470.pdf)
 - (arXiv 2023.04) Hint-Aug: Drawing Hints from Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning, [[Paper]](https://arxiv.org/pdf/2304.12520.pdf)
 - (arXiv 2023.05) Unsupervised Mutual Transformer Learning for Multi-Gigapixel Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2305.02032.pdf)
+- (arXiv 2023.05) HIINT: Historical, Intra- and Inter- personal Dynamics Modeling with Cross-person Memory Transformer, [[Paper]](https://arxiv.org/pdf/2305.12369.pdf)
 
 ## Contact & Feedback
 
