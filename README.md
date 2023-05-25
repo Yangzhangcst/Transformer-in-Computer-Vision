@@ -180,6 +180,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Incremental Self-Supervised Learning Based on Transformer for Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2303.17354.pdf)
 - (arXiv 2023.03) Unsupervised Anomaly Detection with Local-Sensitive VQVAE and Global-Sensitive Transformers, [[Paper]](https://arxiv.org/pdf/2303.17505.pdf)
 - (arXiv 2023.03) Visual Anomaly Detection via Dual-Attention Transformer and Discriminative Flow, [[Paper]](https://arxiv.org/pdf/2303.17882.pdf)
+- (arXiv 2023.05) Multiresolution Feature Guidance Based Transformer for Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2305.14880.pdf)
 
 ### Assessment
 - (arXiv 2021.01) Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
@@ -664,6 +665,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Enhancing Performance of Vision Transformers on Small Datasets through Local Inductive Bias Incorporation, [[Paper]](https://arxiv.org/pdf/2305.08551.pdf)
 - (arXiv 2023.05) CageViT: Convolutional Activation Guided Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.09924.pdf)
 - (arXiv 2023.05) Getting ViT in Shape: Scaling Laws for Compute-Optimal Model Design, [[Paper]](https://arxiv.org/pdf/2305.13035.pdf)
+- (arXiv 2023.05) Predicting Token Impact Towards Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.14840.pdf)
+- (arXiv 2023.05) Dual Path Transformer with Partition Attention, [[Paper]](https://arxiv.org/pdf/2305.14768.pdf)
+- (arXiv 2023.05) BinaryViT: Towards Efficient and Accurate Binary Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.14730.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1132,6 +1136,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Investigating GANsformer: A Replication Study of a State-of-the-Art Image Generation Model, [[Paper]](https://arxiv.org/pdf/2303.08577.pdf)
 - (arXiv 2023.03) StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model, [[Paper]](https://arxiv.org/pdf/2303.09268.pdf), [[Code]](https://github.com/zipengxuc/StylerDALLE)
 - (arXiv 2023.03) Q-RBSA: High-Resolution 3D EBSD Map Generation Using An Efficient Quaternion Transformer Network, [[Paper]](https://arxiv.org/pdf/2303.10722.pdf)
+- (arXiv 2023.05) Reinforcement Learning finetuned Vision-Code Transformer for UI-to-Code Generation, [[Paper]](https://arxiv.org/pdf/2305.14637.pdf)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
@@ -1143,6 +1148,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) AMIGO: Sparse Multi-Modal Graph Transformer with Shared-Context Processing for Representation Learning of Giga-pixel Images, [[Paper]](https://arxiv.org/pdf/2303.00865.pdf), [[Code]](https://github.com/doc-doc/CoVGT)
 - (arXiv 2023.03) An Adaptive GViT for Gas Mixture Identification and Concentration Estimation, [[Paper]](https://arxiv.org/pdf/2303.05685.pdf)
 - (arXiv 2023.04) Transformer-based Graph Neural Networks for Outfit Generation, [[Paper]](https://arxiv.org/pdf/2304.08098.pdf)
+- (arXiv 2023.05) GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2305.15213.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -1302,6 +1308,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) TransMatting: Enhancing Transparent Objects Matting with Transformers, [[Paper]](https://arxiv.org/pdf/2208.03007.pdf), [[Code]](https://github.com/AceCHQ/TransMatting)
 - (arXiv 2022.08) VMFormer: End-to-End Video Matting with Transformer, [[Paper]](https://arxiv.org/pdf/2208.12801.pdf), [[Project]](https://chrisjuniorli.github.io/project/VMFormer/)
 - (arXiv 2023.03) TransMatting: Tri-token Equipped Transformer Model for Image Matting, [[Paper]](https://arxiv.org/pdf/2303.06476.pdf), [[Project]](https://github.com/AceCHQ/TransMatting)
+- (arXiv 2023.05) ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.15272.pdf)
 
 ### Medical
 - (arXiv 2021.02) TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2102.04306), [[Code]](https://github.com/Beckschen/TransUNet)
@@ -1931,6 +1938,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality, [[Paper]](https://arxiv.org/pdf/2303.14585.pdf)
 - (arXiv 2023.05) Towards End-to-End Semi-Supervised Table Detection with Deformable Transformer, [[Paper]](https://arxiv.org/pdf/2305.02769.pdf)
 - (arXiv 2023.05) Fast-StrucTexT: An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding, [[Paper]](https://arxiv.org/pdf/2305.11392.pdf)
+- (arXiv 2023.05) Quantifying Character Similarity with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.14672.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
