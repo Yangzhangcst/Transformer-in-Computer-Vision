@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/25
+**Last updated: 2023/05/26
 
 ## Survey: 
 - (arXiv 2023.05) A survey of the Vision Transformers and its CNN-Transformer based Variants. [[Paper]](https://arxiv.org/pdf/2305.09880.pdf)
@@ -668,6 +668,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Predicting Token Impact Towards Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.14840.pdf)
 - (arXiv 2023.05) Dual Path Transformer with Partition Attention, [[Paper]](https://arxiv.org/pdf/2305.14768.pdf)
 - (arXiv 2023.05) BinaryViT: Towards Efficient and Accurate Binary Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.14730.pdf)
+- (arXiv 2023.05) Making Vision Transformers Truly Shift-Equivariant, [[Paper]](https://arxiv.org/pdf/2305.16316.pdf)
+- (arXiv 2023.05) Concept-Centric Transformers: Concept Transformers with Object-Centric Concept Learning for Interpretability, [[Paper]](https://arxiv.org/pdf/2305.15775.pdf), [[Code]](https://github.com/jyhong0304/concept_centric_transformers）
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1149,6 +1151,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) An Adaptive GViT for Gas Mixture Identification and Concentration Estimation, [[Paper]](https://arxiv.org/pdf/2303.05685.pdf)
 - (arXiv 2023.04) Transformer-based Graph Neural Networks for Outfit Generation, [[Paper]](https://arxiv.org/pdf/2304.08098.pdf)
 - (arXiv 2023.05) GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2305.15213.pdf)
+- (arXiv 2023.05) Multi-scale Efficient Graph-Transformer for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2305.15773.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -1679,6 +1682,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) SPOTR: Spatio-temporal Pose Transformers for Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2303.06277.pdf)
 - (arXiv 2023.04) BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation, [[Paper]](https://arxiv.org/pdf/2304.02225.pdf), [[Code]](https://github.com/JunHeum/BiFormer)
 - (arXiv 2023.05) XFormer: Fast and Accurate Monocular 3D Body Capture, [[Paper]](https://arxiv.org/pdf/2305.11101.pdf)
+- (arXiv 2023.05) Imitating Task and Motion Planning with Visuomotor Transformers, [[Paper]](https://arxiv.org/pdf/2305.16309.pdf), [[Code]](https://mihdalal.github.io/optimus/)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2658,6 +2662,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning, [[Paper]](https://arxiv.org/pdf/2303.14778.pdf)
 - (arXiv 2023.03) Generalized Relation Modeling for Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2303.16580.pdf), [[Code]](https://github.com/Little-Podi/GRM)
 - (arXiv 2023.04) GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss, [[Paper]](https://arxiv.org/pdf/2304.00242.pdf), [[Code]](https://github.com/haooozi/GLT-T)
+- (arXiv 2023.05) MixFormerV2: Efficient Fully Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2305.15896.pdf), [[Code]](https://github.com/MCG-NJU/MixFormerV2)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -2845,6 +2850,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Objectives Matter: Understanding the Impact of Self-Supervised Objectives on Vision Transformer Representations, [[Paper]](https://arxiv.org/pdf/2304.13089.pdf)
 - (arXiv 2023.05) Transformer-based model for monocular visual odometry: a video understanding approach, [[Paper]](https://arxiv.org/pdf/2305.06121.pdf)
 - (arXiv 2023.05) VDT: An Empirical Study on Video Diffusion with Transformers, [[Paper]](https://arxiv.org/pdf/2305.13311.pdf), [[Code]](https://github.com/RERV/VDT)
+- (arXiv 2023.05) Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2305.16318.pdf), [[Code]](https://github.com/OpenGVLab/MUTR)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
