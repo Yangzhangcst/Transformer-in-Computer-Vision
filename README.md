@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/26
+**Last updated: 2023/05/29
 
 ## Survey: 
 - (arXiv 2023.05) A survey of the Vision Transformers and its CNN-Transformer based Variants. [[Paper]](https://arxiv.org/pdf/2305.09880.pdf)
@@ -3122,6 +3122,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Hint-Aug: Drawing Hints from Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning, [[Paper]](https://arxiv.org/pdf/2304.12520.pdf)
 - (arXiv 2023.05) Unsupervised Mutual Transformer Learning for Multi-Gigapixel Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2305.02032.pdf)
 - (arXiv 2023.05) HIINT: Historical, Intra- and Inter- personal Dynamics Modeling with Cross-person Memory Transformer, [[Paper]](https://arxiv.org/pdf/2305.12369.pdf)
+- (arXiv 2023.05) Improving Position Encoding of Transformers for Multivariate Time Series Classification, [[Paper]](https://arxiv.org/pdf/2305.16642.pdf), [[Code]](https://github.com/Navidfoumani/ConvTran)
 
 ## Contact & Feedback
 
