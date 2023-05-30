@@ -1853,6 +1853,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) MMoT: Mixture-of-Modality-Tokens Transformer for Composed Multimodal Conditional Image Synthesis, [[Paper]](https://arxiv.org/pdf/2305.05992.pdf), [[Project]](https://jabir-zheng.github.io/MMoT)
 - (arXiv 2023.05) JOINEDTrans: Prior Guided Multi-task Transformer for Joint Optic Disc/Cup Segmentation and Fovea Detection, [[Paper]](https://arxiv.org/pdf/2305.11504.pdf), [[Project]](https://github.com/HuaqingHe/JOINEDTrans)
 - (arXiv 2023.05) Brain encoding models based on multimodal transformers can transfer across language and vision, [[Paper]](https://arxiv.org/pdf/2305.12248.pdf)
+- (arXiv 2023.05) CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2305.17455.pdf), [[Code]](https://github.com/sdc17/CrossGET)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
