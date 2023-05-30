@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/29
+**Last updated: 2023/05/30
 
 ## Survey: 
 - (arXiv 2023.05) A survey of the Vision Transformers and its CNN-Transformer based Variants. [[Paper]](https://arxiv.org/pdf/2305.09880.pdf)
@@ -670,6 +670,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) BinaryViT: Towards Efficient and Accurate Binary Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.14730.pdf)
 - (arXiv 2023.05) Making Vision Transformers Truly Shift-Equivariant, [[Paper]](https://arxiv.org/pdf/2305.16316.pdf)
 - (arXiv 2023.05) Concept-Centric Transformers: Concept Transformers with Object-Centric Concept Learning for Interpretability, [[Paper]](https://arxiv.org/pdf/2305.15775.pdf), [[Code]](https://github.com/jyhong0304/concept_centric_transformers）
+- (arXiv 2023.05) DiffRate : Differentiable Compression Rate for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.17997.pdf), [[Code]](https://github.com/OpenGVLab/DiffRate）
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1160,6 +1161,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Ghost-free High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
 - (arXiv 2023.03) SpiderMesh: Spatial-aware Demand-guided Recursive Meshing for RGB-T Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2303.08704.pdf)
 - (arXiv 2023.04) High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2304.04416.pdf)
+- (arXiv 2023.05) Alignment-free HDR Deghosting with Semantics Consistent Transformer, [[Paper]](https://arxiv.org/pdf/2305.18135.pdf), [[Code]](https://steven-tel.github.io/sctnet)
 
 ### HOI
 - (CVPR'21) HOTR: End-to-End Human-Object Interaction Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.13682.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
@@ -1268,6 +1270,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) MaskedKD: Efficient Distillation of Vision Transformers with Masked Images, [[Paper]](https://arxiv.org/pdf/2302.10494.pdf)
 - (arXiv 2023.03) Multi-view knowledge distillation transformer for human action recognition, [[Paper]](https://arxiv.org/pdf/2303.14358.pdf)
 - (arXiv 2023.03) Supervised Masked Knowledge Distillation for Few-Shot Transformers, [[Paper]](https://arxiv.org/pdf/2303.15466.pdf), [[Code]](https://github.com/HL-hanlin/SMKD)
+- (arXiv 2023.05) Vision Transformers for Small Histological Datasets Learned through Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2305.17370.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -1644,6 +1647,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Multi-resolution Spatiotemporal Enhanced Transformer Denoising with Functional Diffusive GANs for Constructing Brain Effective Connectivity in MCI analysis, [[Paper]](https://arxiv.org/pdf/2305.10754.pdf)
 - (arXiv 2023.05) Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2305.11692.pdf),[[Code]](https://github.com/longbai1006/Surgical-VQLA)
 - (arXiv 2023.05) Coordinated Transformer with Position & Sample-aware Central Loss for Anatomical Landmark Detection, [[Paper]](https://arxiv.org/pdf/2305.11338.pdf)
+- (arXiv 2023.05) HGT: A Hierarchical GCN-Based Transformer for Multimodal Periprosthetic Joint Infection Diagnosis Using CT Images and Text, [[Paper]](https://arxiv.org/pdf/2305.18022.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2210,6 +2214,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) Rethink Long-tailed Recognition with Vision Transforms, [[Paper]](https://arxiv.org/pdf/2302.14284.pdf)
 - (arXiv 2023.04) R2Former: Unified Retrieval and Reranking Transformer for Place Recognition, [[Paper]](https://arxiv.org/pdf/2304.03410.pdf), [[Code]](https://github.com/Jeff-Zilence/R2Former)
 - (arXiv 2023.05) MASK-CNN-Transformer For Real-Time Multi-Label Weather Recognition, [[Paper]](https://arxiv.org/pdf/2304.14857.pdf)
+- (arXiv 2023.05) TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition, [[Paper]](https://arxiv.org/pdf/2305.18013.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -2286,6 +2291,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) SANDFORMER: CNN and Transformer under Gated Fusion for Sand Dust Image Restoration, [[Paper]](https://arxiv.org/pdf/2303.04365.pdf)
 - (arXiv 2023.04) Burstormer: Burst Image Restoration and Enhancement Transformer, [[Paper]](https://arxiv.org/pdf/2304.01194.pdf), [[Code]](http://github.com/akshaydudhane16/Burstormer)
 - (arXiv 2023.05) RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration, [[Paper]](https://arxiv.org/pdf/2305.11474.pdf)
+- (arXiv 2023.05) GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions, [[Paper]](https://arxiv.org/pdf/2305.17863.pdf)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
