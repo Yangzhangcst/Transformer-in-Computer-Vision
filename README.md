@@ -2932,6 +2932,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Hybrid Routing Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2203.15310.pdf)
 - (arXiv 2022.11) Efficient Zero-shot Visual Search via Target and Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2211.13470.pdf)
 - (arXiv 2023.03) Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2302.00875.pdf)
+- (arXiv 2023.03) Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers, [[Paper]](https://arxiv.org/pdf/2305.17328.pdf)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
