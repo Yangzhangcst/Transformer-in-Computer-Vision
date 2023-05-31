@@ -1308,6 +1308,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) ParaFormer: Parallel Attention Transformer for Efficient Feature Matching, [[Paper]](https://arxiv.org/pdf/2303.00941.pdf)
 - (arXiv 2023.03) Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints, [[Paper]](https://arxiv.org/pdf/2303.02885.pdf)
 - (arXiv 2023.03) Adaptive Spot-Guided Transformer for Consistent Local Feature Matching, [[Paper]](https://arxiv.org/pdf/2303.16624.pdf), [[Code]](https://astr2023.github.io/)
+- (arXiv 2023.05) AMatFormer: Efficient Feature Matching via Anchor Matching Transformer, [[Paper]](https://arxiv.org/pdf/2305.19205.pdf)
 
 ### Matting
 - (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
@@ -1648,6 +1649,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2305.11692.pdf),[[Code]](https://github.com/longbai1006/Surgical-VQLA)
 - (arXiv 2023.05) Coordinated Transformer with Position & Sample-aware Central Loss for Anatomical Landmark Detection, [[Paper]](https://arxiv.org/pdf/2305.11338.pdf)
 - (arXiv 2023.05) HGT: A Hierarchical GCN-Based Transformer for Multimodal Periprosthetic Joint Infection Diagnosis Using CT Images and Text, [[Paper]](https://arxiv.org/pdf/2305.18022.pdf)
+- (arXiv 2023.05) Prompt-based Tuning of Transformer Models for Multi-Center Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2305.18948.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3133,6 +3135,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Unsupervised Mutual Transformer Learning for Multi-Gigapixel Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2305.02032.pdf)
 - (arXiv 2023.05) HIINT: Historical, Intra- and Inter- personal Dynamics Modeling with Cross-person Memory Transformer, [[Paper]](https://arxiv.org/pdf/2305.12369.pdf)
 - (arXiv 2023.05) Improving Position Encoding of Transformers for Multivariate Time Series Classification, [[Paper]](https://arxiv.org/pdf/2305.16642.pdf), [[Code]](https://github.com/Navidfoumani/ConvTran)
+- (arXiv 2023.05) Key-Value Transformer, [[Paper]](https://arxiv.org/pdf/2305.19129.pdf), [[Code]](https://github.com/aliborji/kv-transformer)
+- (arXiv 2023.05) Solar Irradiance Anticipative Transformer, [[Paper]](https://arxiv.org/pdf/2305.18487.pdf)
 
 ## Contact & Feedback
 
