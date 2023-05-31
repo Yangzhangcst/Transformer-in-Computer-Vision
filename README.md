@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/30
+**Last updated: 2023/05/31
 
 ## Survey: 
 - (arXiv 2023.05) A survey of the Vision Transformers and its CNN-Transformer based Variants. [[Paper]](https://arxiv.org/pdf/2305.09880.pdf)
@@ -1854,6 +1854,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) JOINEDTrans: Prior Guided Multi-task Transformer for Joint Optic Disc/Cup Segmentation and Fovea Detection, [[Paper]](https://arxiv.org/pdf/2305.11504.pdf), [[Project]](https://github.com/HuaqingHe/JOINEDTrans)
 - (arXiv 2023.05) Brain encoding models based on multimodal transformers can transfer across language and vision, [[Paper]](https://arxiv.org/pdf/2305.12248.pdf)
 - (arXiv 2023.05) CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2305.17455.pdf), [[Code]](https://github.com/sdc17/CrossGET)
+- (arXiv 2023.05) Edge-MoE: Memory-Efficient Multi-Task Vision Transformer Architecture with Task-level Sparsity via Mixture-of-Experts, [[Paper]](https://arxiv.org/pdf/2305.18691.pdf), [[Code]](https://github.com/sharc-lab/Edge-MoE)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2858,6 +2859,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Transformer-based model for monocular visual odometry: a video understanding approach, [[Paper]](https://arxiv.org/pdf/2305.06121.pdf)
 - (arXiv 2023.05) VDT: An Empirical Study on Video Diffusion with Transformers, [[Paper]](https://arxiv.org/pdf/2305.13311.pdf), [[Code]](https://github.com/RERV/VDT)
 - (arXiv 2023.05) Referred by Multi-Modality: A Unified Temporal Transformer for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2305.16318.pdf), [[Code]](https://github.com/OpenGVLab/MUTR)
+- (arXiv 2023.05) MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction, [[Paper]](https://arxiv.org/pdf/2305.18969.pdf), [[Code]](https://github.com/K-Nick/MS-DETR)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
