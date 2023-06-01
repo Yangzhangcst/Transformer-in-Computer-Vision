@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/05/31
+**Last updated: 2023/06/01
 
 ## Survey: 
 - (arXiv 2023.05) A survey of the Vision Transformers and its CNN-Transformer based Variants. [[Paper]](https://arxiv.org/pdf/2305.09880.pdf)
@@ -1951,6 +1951,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Towards End-to-End Semi-Supervised Table Detection with Deformable Transformer, [[Paper]](https://arxiv.org/pdf/2305.02769.pdf)
 - (arXiv 2023.05) Fast-StrucTexT: An Efficient Hourglass Transformer with Modality-guided Dynamic Token Merge for Document Understanding, [[Paper]](https://arxiv.org/pdf/2305.11392.pdf)
 - (arXiv 2023.05) Quantifying Character Similarity with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.14672.pdf)
+- (arXiv 2023.05) DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Text Spotting, [[Paper]](https://arxiv.org/pdf/2305.19957.pdf), [[Code]](https://github.com/ViTAE-Transformer/DeepSolo)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
