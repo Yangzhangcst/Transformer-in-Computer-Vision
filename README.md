@@ -150,6 +150,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Distilled Mid-Fusion Transformer Networks for Multi-Modal Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2305.03810.pdf)
 - (arXiv 2023.05) Multi-View Multi-Scale Driver Action Recognition with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.08877.pdf),[[Code]](https://github.com/PurdueDigitalTwin/M2DAR)
 - (arXiv 2023.05) Enhancing Transformer Backbone for Egocentric Video Action Segmentation, [[Paper]](https://arxiv.org/pdf/2305.11365.pdf),[[Code]](https://www.sail-nu.com/dxformer)
+- (arXiv 2023.05) A Multi-Modal Transformer Network for Action Detection, [[Paper]](https://arxiv.org/pdf/2305.19624.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1650,6 +1651,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Coordinated Transformer with Position & Sample-aware Central Loss for Anatomical Landmark Detection, [[Paper]](https://arxiv.org/pdf/2305.11338.pdf)
 - (arXiv 2023.05) HGT: A Hierarchical GCN-Based Transformer for Multimodal Periprosthetic Joint Infection Diagnosis Using CT Images and Text, [[Paper]](https://arxiv.org/pdf/2305.18022.pdf)
 - (arXiv 2023.05) Prompt-based Tuning of Transformer Models for Multi-Center Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2305.18948.pdf)
+- (arXiv 2023.05) XTransCT: Ultra-Fast Volumetric CT Reconstruction using Two Orthogonal X-Ray Projections via a Transformer Network, [[Paper]](https://arxiv.org/pdf/2305.19621.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2674,6 +2676,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Generalized Relation Modeling for Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2303.16580.pdf), [[Code]](https://github.com/Little-Podi/GRM)
 - (arXiv 2023.04) GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss, [[Paper]](https://arxiv.org/pdf/2304.00242.pdf), [[Code]](https://github.com/haooozi/GLT-T)
 - (arXiv 2023.05) MixFormerV2: Efficient Fully Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2305.15896.pdf), [[Code]](https://github.com/MCG-NJU/MixFormerV2)
+- (arXiv 2023.05) Humans in 4D: Reconstructing and Tracking Humans with Transformers, [[Paper]](https://arxiv.org/pdf/2305.20091.pdf), [[Code]](https://shubham-goel.github.io/4dhumans/)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
