@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/06/01
+**Last updated: 2023/06/02
 
 ## Survey: 
+- (arXiv 2023.05) Vision Transformers for Mobile Applications: A Short Survey. [[Paper]](https://arxiv.org/pdf/2305.19365.pdf)
+
 - (arXiv 2023.05) A survey of the Vision Transformers and its CNN-Transformer based Variants. [[Paper]](https://arxiv.org/pdf/2305.09880.pdf)
 
 - (arXiv 2023.05) Semantic Segmentation using Vision Transformers: A survey. [[Paper]](https://arxiv.org/pdf/2305.03273.pdf)
@@ -1272,6 +1274,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Multi-view knowledge distillation transformer for human action recognition, [[Paper]](https://arxiv.org/pdf/2303.14358.pdf)
 - (arXiv 2023.03) Supervised Masked Knowledge Distillation for Few-Shot Transformers, [[Paper]](https://arxiv.org/pdf/2303.15466.pdf), [[Code]](https://github.com/HL-hanlin/SMKD)
 - (arXiv 2023.05) Vision Transformers for Small Histological Datasets Learned through Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2305.17370.pdf)
+- (arXiv 2023.05) Are Large Kernels Better Teachers than Transformers for ConvNets?, [[Paper]](https://arxiv.org/pdf/2305.19412.pdf), [[Code]](https://github.com/VITA-Group/SLaK)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -3141,6 +3144,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Improving Position Encoding of Transformers for Multivariate Time Series Classification, [[Paper]](https://arxiv.org/pdf/2305.16642.pdf), [[Code]](https://github.com/Navidfoumani/ConvTran)
 - (arXiv 2023.05) Key-Value Transformer, [[Paper]](https://arxiv.org/pdf/2305.19129.pdf), [[Code]](https://github.com/aliborji/kv-transformer)
 - (arXiv 2023.05) Solar Irradiance Anticipative Transformer, [[Paper]](https://arxiv.org/pdf/2305.18487.pdf)
+- (arXiv 2023.05) Contextual Vision Transformers for Robust Representation Learning, [[Paper]](https://arxiv.org/pdf/2305.19402.pdf)
 
 ## Contact & Feedback
 
