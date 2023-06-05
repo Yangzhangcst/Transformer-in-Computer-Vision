@@ -674,6 +674,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Making Vision Transformers Truly Shift-Equivariant, [[Paper]](https://arxiv.org/pdf/2305.16316.pdf)
 - (arXiv 2023.05) Concept-Centric Transformers: Concept Transformers with Object-Centric Concept Learning for Interpretability, [[Paper]](https://arxiv.org/pdf/2305.15775.pdf), [[Code]](https://github.com/jyhong0304/concept_centric_transformers）
 - (arXiv 2023.05) DiffRate : Differentiable Compression Rate for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.17997.pdf), [[Code]](https://github.com/OpenGVLab/DiffRate）
+- (arXiv 2023.06) Lightweight Vision Transformer with Bidirectional Interaction, [[Paper]](https://arxiv.org/pdf/2306.00396.pdf), [[Code]](https://github.com/qhfan/FAT）
+- (arXiv 2023.06) Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles, [[Paper]](https://arxiv.org/pdf/2306.00989.pdf), [[Code]](https://github.com/facebookresearch/hiera）
+- (arXiv 2023.06) Bytes Are All You Need: Transformers Operating Directly On File Bytes, [[Paper]](https://arxiv.org/pdf/2306.00238.pdf), [[Code]](https://github.com/apple/ml-cvnets/tree/main/examples/byteformer）
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1655,6 +1658,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) HGT: A Hierarchical GCN-Based Transformer for Multimodal Periprosthetic Joint Infection Diagnosis Using CT Images and Text, [[Paper]](https://arxiv.org/pdf/2305.18022.pdf)
 - (arXiv 2023.05) Prompt-based Tuning of Transformer Models for Multi-Center Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2305.18948.pdf)
 - (arXiv 2023.05) XTransCT: Ultra-Fast Volumetric CT Reconstruction using Two Orthogonal X-Ray Projections via a Transformer Network, [[Paper]](https://arxiv.org/pdf/2305.19621.pdf)
+- (arXiv 2023.06) Prediction of Post-Operative Renal and Pulmonary Complication Using Transformers, [[Paper]](https://arxiv.org/pdf/2306.00698.pdf)
+- (arXiv 2023.06) A Transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics, [[Paper]](https://arxiv.org/pdf/2306.00864.pdf),[[Code]](https://github.com/RL4M/IRENE)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2169,6 +2174,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) ConvFormer: Parameter Reduction in Transformer Models for 3D Human Pose Estimation by Leveraging Dynamic Multi-Headed Convolutional Attention, [[Paper]](https://arxiv.org/pdf/2304.02147.pdf)
 - (arXiv 2023.04) A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image, [[Paper]](https://arxiv.org/pdf/2304.03635.pdf), [[Code]](https://github.com/ChanglongJiangGit/A2J-Transformer)
 - (arXiv 2023.05) Poses as Queries: Image-to-LiDAR Map Localization with Transformers, [[Paper]](https://arxiv.org/pdf/2305.04298.pdf), [[Code]](https://github.com/ChanglongJiangGit/A2J-Transformer)
+- (arXiv 2023.06) Self-supervised Vision Transformers for 3D Pose Estimation of Novel Objects, [[Paper]](https://arxiv.org/pdf/2306.00129.pdf), [[Code]](https://github.com/sThalham/TraM3D)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2903,6 +2909,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Q2ATransformer: Improving Medical VQA via an Answer Querying Decoder, [[Paper]](https://arxiv.org/pdf/2304.01611.pdf)
 - (arXiv 2023.05) Multimodal Graph Transformer for Multimodal Question Answering, [[Paper]](https://arxiv.org/pdf/2305.00581.pdf)
 - (arXiv 2023.05) Is a Video worth n×n Images? A Highly Efficient Approach to Transformer-based Video Question Answering, [[Paper]](https://arxiv.org/pdf/2305.09107.pdf)
+- (arXiv 2023.06) LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2306.00758.pdf), [[Code]](https://git.tu-berlin.de/rsim/lit4rsvqa)
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
@@ -3145,6 +3152,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Key-Value Transformer, [[Paper]](https://arxiv.org/pdf/2305.19129.pdf), [[Code]](https://github.com/aliborji/kv-transformer)
 - (arXiv 2023.05) Solar Irradiance Anticipative Transformer, [[Paper]](https://arxiv.org/pdf/2305.18487.pdf)
 - (arXiv 2023.05) Contextual Vision Transformers for Robust Representation Learning, [[Paper]](https://arxiv.org/pdf/2305.19402.pdf)
+- (arXiv 2023.06) Affinity-based Attention in Self-supervised Transformers Predicts Dynamics of Object Grouping in Humans, [[Paper]](https://arxiv.org/pdf/2306.00294.pdf)
+- (arXiv 2023.06) DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.00704.pdf), [[Code]](https://github.com/Tamer-Saleh/S1GFlood-Detection)
+- (arXiv 2023.06) A Universal Latent Fingerprint Enhancer Using Transformers, [[Paper]](https://arxiv.org/pdf/2306.00231.pdf)
 
 ## Contact & Feedback
 
