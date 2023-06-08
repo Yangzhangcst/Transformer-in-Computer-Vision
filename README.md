@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/06/07
+**Last updated: 2023/06/08
 
 ## Survey: 
 - (arXiv 2023.05) Vision Transformers for Mobile Applications: A Short Survey. [[Paper]](https://arxiv.org/pdf/2305.19365.pdf)
@@ -1670,6 +1670,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Transformer-based Annotation Bias-aware Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2306.01340.pdf)
 - (arXiv 2023.06) Inflated 3D Convolution-Transformer for Weakly-supervised Carotid Stenosis Grading with Ultrasound Videos, [[Paper]](https://arxiv.org/abs/2306.02548)
 - (arXiv 2023.06) CiT-Net: Convolutional Neural Networks Hand in Hand with Vision Transformers for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2306.03373),[[Code]](https://github.com/SR0920/CiT-Net)
+- (arXiv 2023.06) TEC-Net: Vision Transformer Embrace Convolutional Neural Networks for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2306.04086),[[Code]](https://github.com/SR0920/TEC-Net)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1879,6 +1880,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2305.17455.pdf), [[Code]](https://github.com/sdc17/CrossGET)
 - (arXiv 2023.05) Edge-MoE: Memory-Efficient Multi-Task Vision Transformer Architecture with Task-level Sparsity via Mixture-of-Experts, [[Paper]](https://arxiv.org/pdf/2305.18691.pdf), [[Code]](https://github.com/sharc-lab/Edge-MoE)
 - (arXiv 2023.06) Transformer-based Multi-Modal Learning for Multi Label Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2306.01523.pdf), [[Code]](https://git.tu-berlin.de/rsim/sct-fusion)
+- (arXiv 2023.06) Energy-Based Models for Cross-Modal Localization using Convolutional Transformers, [[Paper]](https://arxiv.org/pdf/2306.04021.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2191,6 +2193,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image, [[Paper]](https://arxiv.org/pdf/2304.03635.pdf), [[Code]](https://github.com/ChanglongJiangGit/A2J-Transformer)
 - (arXiv 2023.05) Poses as Queries: Image-to-LiDAR Map Localization with Transformers, [[Paper]](https://arxiv.org/pdf/2305.04298.pdf), [[Code]](https://github.com/ChanglongJiangGit/A2J-Transformer)
 - (arXiv 2023.06) Self-supervised Vision Transformers for 3D Pose Estimation of Novel Objects, [[Paper]](https://arxiv.org/pdf/2306.00129.pdf), [[Code]](https://github.com/sThalham/TraM3D)
+- (arXiv 2023.06) Efficient Vision Transformer for Human Pose Estimation via Patch Selection, [[Paper]](https://arxiv.org/pdf/2306.04225.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3175,6 +3178,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) DAM-Net: Global Flood Detection from SAR Imagery Using Differential Attention Metric-Based Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.00704.pdf), [[Code]](https://github.com/Tamer-Saleh/S1GFlood-Detection)
 - (arXiv 2023.06) A Universal Latent Fingerprint Enhancer Using Transformers, [[Paper]](https://arxiv.org/pdf/2306.00231.pdf)
 - (arXiv 2023.06) Lightweight Structure-aware Transformer Network for VHR Remote Sensing Image Change Detection, [[Paper]](https://arxiv.org/pdf/2306.01988.pdf)
+- (arXiv 2023.06) BokehOrNot: Transforming Bokeh Effect with Image Transformer and Lens Metadata Embedding, [[Paper]](https://arxiv.org/pdf/2306.04032.pdf), [[Code]](https://github.com/indicator0/bokehornot)
 
 ## Contact & Feedback
 
