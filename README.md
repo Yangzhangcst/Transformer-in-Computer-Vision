@@ -1717,6 +1717,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) XFormer: Fast and Accurate Monocular 3D Body Capture, [[Paper]](https://arxiv.org/pdf/2305.11101.pdf)
 - (arXiv 2023.05) Imitating Task and Motion Planning with Visuomotor Transformers, [[Paper]](https://arxiv.org/pdf/2305.16309.pdf), [[Code]](https://mihdalal.github.io/optimus/)
 - (arXiv 2023.06) PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction, [[Paper]](https://arxiv.org/pdf/2306.03374.pdf)
+- (arXiv 2023.06) ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer, [[Paper]](https://arxiv.org/pdf/2306.05688.pdf), [[Code]](https://github.com/ZAX130/SmileCode)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2010,6 +2011,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation, [[Paper]](https://arxiv.org/pdf/2303.01237.pdf)
 - (arXiv 2023.04) TransFlow: Transformer as Flow Learner, [[Paper]](https://arxiv.org/pdf/2304.11523.pdf)
 - (arXiv 2023.05) SSTM: Spatiotemporal Recurrent Transformers for Multi-frame Optical Flow Estimation, [[Paper]](https://arxiv.org/pdf/2304.14418.pdf)
+- (arXiv 2023.06) FlowFormer: A Transformer Architecture and Its Masked Cost Volume Autoencoding for Optical Flow, [[Paper]](https://arxiv.org/pdf/2306.05442.pdf)
 
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
@@ -2201,6 +2203,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Poses as Queries: Image-to-LiDAR Map Localization with Transformers, [[Paper]](https://arxiv.org/pdf/2305.04298.pdf), [[Code]](https://github.com/ChanglongJiangGit/A2J-Transformer)
 - (arXiv 2023.06) Self-supervised Vision Transformers for 3D Pose Estimation of Novel Objects, [[Paper]](https://arxiv.org/pdf/2306.00129.pdf), [[Code]](https://github.com/sThalham/TraM3D)
 - (arXiv 2023.06) Efficient Vision Transformer for Human Pose Estimation via Patch Selection, [[Paper]](https://arxiv.org/pdf/2306.04225.pdf)
+- (arXiv 2023.06) A Dual-Source Attention Transformer for Multi-Person Pose Tracking, [[Paper]](https://arxiv.org/pdf/2306.05807.pdf), [[Code]](https://github.com/sThalham/TraM3D)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2717,6 +2720,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) GLT-T++: Global-Local Transformer for 3D Siamese Tracking with Ranking Loss, [[Paper]](https://arxiv.org/pdf/2304.00242.pdf), [[Code]](https://github.com/haooozi/GLT-T)
 - (arXiv 2023.05) MixFormerV2: Efficient Fully Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2305.15896.pdf), [[Code]](https://github.com/MCG-NJU/MixFormerV2)
 - (arXiv 2023.05) Humans in 4D: Reconstructing and Tracking Humans with Transformers, [[Paper]](https://arxiv.org/pdf/2305.20091.pdf), [[Code]](https://shubham-goel.github.io/4dhumans/)
+- (arXiv 2023.06) TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses, [[Paper]](https://arxiv.org/pdf/2306.05888.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
