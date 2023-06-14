@@ -1,11 +1,10 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/06/13
+**Last updated: 2023/06/14
 
 ## Survey: 
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
-
 
 - (arXiv 2023.05) Vision Transformers for Mobile Applications: A Short Survey. [[Paper]](https://arxiv.org/pdf/2305.19365.pdf)
 
@@ -690,6 +689,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) E(2)-Equivariant Vision Transformer, [[Paper]](https://arxiv.org/pdf/2306.06722.pdf), [[Code]](https://github.com/ZJUCDSYangKaifan/GEVit）
 - (arXiv 2023.06) 2-D SSM: A General Spatial Layer for Visual Transformers, [[Paper]](https://arxiv.org/pdf/2306.06635.pdf), [[Code]](https://github.com/ethanbar11/ssm_2d）
 - (arXiv 2023.06) Mitigating Transformer Overconfidence via Lipschitz Regularization, [[Paper]](https://arxiv.org/pdf/2306.06849.pdf), [[Code]](https://github.com/SZCHAI/LRFormer）
+- (arXiv 2023.06) Reviving Shift Equivariance in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.07470.pdf)
+- (arXiv 2023.06) Learning to Mask and Permute Visual Tokens for Vision Transformer Pre-Training, [[Paper]](https://arxiv.org/pdf/2306.07346.pdf), [[Code]](https://github.com/aimagelab/MaPeT）
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2577,6 +2578,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.06) SegViTv2: Exploring Efficient and Continual Semantic Segmentation with Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.06289.pdf), [[Code]](https://github.com/zbwxp/SegVit)
 - (arxiv 2023.06) VPUFormer: Visual Prompt Unified Transformer for Interactive Image Segmentation, [[Paper]](https://arxiv.org/pdf/2306.06656.pdf), [[Code]](https://github.com/XuZhang1211/VPUFormer)
 - (arxiv 2023.06) AerialFormer: Multi-resolution Transformer for Aerial Image Segmentation, [[Paper]](https://arxiv.org/pdf/2306.06842.pdf)
+- (arxiv 2023.06) Sea Ice Segmentation From SAR Data by Convolutional Transformer Networks, [[Paper]](https://arxiv.org/pdf/2306.07649.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
