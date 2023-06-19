@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/06/16
+**Last updated: 2023/06/19
 
 ## Survey: 
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
@@ -3217,6 +3217,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Sequence-to-Sequence Model with Transformer-based Attention Mechanism and Temporal Pooling for Non-Intrusive Load Monitoring, [[Paper]](https://arxiv.org/pdf/2306.05012.pdf)
 - (arXiv 2023.06) CD-CTFM: A Lightweight CNN-Transformer Network for Remote Sensing Cloud Detection Fusing Multiscale Features, [[Paper]](https://arxiv.org/pdf/2306.07186.pdf)
 - (arXiv 2023.06) Transferring Knowledge for Food Image Segmentation using Transformers and Convolutions, [[Paper]](https://arxiv.org/pdf/2306.09203.pdf)
+- (arXiv 2023.06) Building Blocks for a Complex-Valued Transformer Architecture, [[Paper]](https://arxiv.org/pdf/2306.09827.pdf)
 
 ## Contact & Feedback
 
