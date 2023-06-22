@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/06/21
+**Last updated: 2023/06/22
 
 ## Survey: 
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
@@ -1245,6 +1245,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Continual Detection Transformer for Incremental Object Detection, [[Paper]](https://arxiv.org/pdf/2304.03110.pdf)
 - (arXiv 2023.04) Preserving Locality in Vision Transformers for Class Incremental Learning, [[Paper]](https://arxiv.org/pdf/2304.06971.pdf)
 - (arXiv 2023.05) BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning, [[Paper]](https://arxiv.org/pdf/2305.04769.pdf), [[Code]](https://github.com/NeurAI-Lab/BiRT)
+- (arXiv 2023.06) TADIL: Task-Agnostic Domain-Incremental Learning through Task-ID Inference using Transformer Nearest-Centroid Embeddings, [[Paper]](https://arxiv.org/pdf/2306.11955.pdf)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -1695,6 +1696,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Multimodal Optimal Transport-based Co-Attention Transformer with Global Structure Consistency for Survival Prediction, [[Paper]](https://arxiv.org/pdf/2306.08330.pdf),[[Code]](https://github.com/Innse/MOTCat)
 - (arXiv 2023.06) SegT: A Novel Separated Edge-guidance Transformer Network for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2306.10773.pdf)
 - (arXiv 2023.06) KiUT: Knowledge-injected U-Transformer for Radiology Report Generation, [[Paper]](https://arxiv.org/pdf/2306.11345.pdf)
+- (arXiv 2023.06) Concurrent ischemic lesion age estimation and segmentation of CT brain using a Transformer-based network, [[Paper]](https://arxiv.org/pdf/2306.12242.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2434,6 +2436,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) HSCNet++: Hierarchical Scene Coordinate Classification and Regression for Visual Localization with Transformer, [[Paper]](https://arxiv.org/pdf/2305.03595.pdf)
 - (arXiv 2023.05) PanoContext-Former: Panoramic Total Scene Understanding with a Transformer, [[Paper]](https://arxiv.org/pdf/2305.12497.pdf)
 - (arXiv 2023.06) InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding, [[Paper]](https://arxiv.org/pdf/2306.04842.pdf), [[Code]](https://github.com/prismformore/Multi-Task-Transformer/tree/main/InvPT)
+- (arXiv 2023.06) ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining, [[Paper]](https://arxiv.org/pdf/2306.12106.pdf), [[Code]](https://github.com/shannanyinxiang/ViTEraser)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
