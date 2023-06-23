@@ -694,6 +694,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Fast Training of Diffusion Models with Masked Transformers, [[Paper]](https://arxiv.org/pdf/2306.09305.pdf), [[Code]](https://github.com/Anima-Lab/MaskDiT）
 - (arXiv 2023.06) RaViTT: Random Vision Transformer Tokens, [[Paper]](https://arxiv.org/pdf/2306.10959.pdf)
 - (arXiv 2023.06) Vision Transformer with Attention Map Hallucination and FFN Compaction, [[Paper]](https://arxiv.org/pdf/2306.10875.pdf)
+- (arXiv 2023.06) Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing, [[Paper]](https://arxiv.org/pdf/2306.12929.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2227,6 +2228,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Efficient Vision Transformer for Human Pose Estimation via Patch Selection, [[Paper]](https://arxiv.org/pdf/2306.04225.pdf)
 - (arXiv 2023.06) A Dual-Source Attention Transformer for Multi-Person Pose Tracking, [[Paper]](https://arxiv.org/pdf/2306.05807.pdf), [[Code]](https://github.com/sThalham/TraM3D)
 - (arXiv 2023.06) Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.09331.pdf), [[Code]](https://github.com/dominickrei/PoseAwareVT)
+- (arXiv 2023.06) LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network, [[Paper]](https://arxiv.org/pdf/2306.12525.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3231,6 +3233,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Transferring Knowledge for Food Image Segmentation using Transformers and Convolutions, [[Paper]](https://arxiv.org/pdf/2306.09203.pdf)
 - (arXiv 2023.06) Building Blocks for a Complex-Valued Transformer Architecture, [[Paper]](https://arxiv.org/pdf/2306.09827.pdf)
 - (arXiv 2023.06) B-cos Alignment for Inherently Interpretable CNNs and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.10898.pdf), [[Code]](https://github.com/B-cos/B-cos-v2)
+- (arXiv 2023.06) Minimalist and High-Quality Panoramic Imaging with PSF-aware Transformers, [[Paper]](https://arxiv.org/pdf/2306.12992.pdf)
+- (arXiv 2023.06) Learning from Visual Observation via Offline Pretrained State-to-Go Transformer, [[Paper]](https://arxiv.org/pdf/2306.12860.pdf), [[Code]](https://sites.google.com/view/stgtransformer)
 
 ## Contact & Feedback
 
