@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/06/23
+**Last updated: 2023/06/26
 
 ## Survey: 
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
@@ -999,6 +999,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) RHINO: Rotated DETR with Dynamic Denoising via Hungarian Matching for Oriented Object Detection, [[Paper]](https://arxiv.org/pdf/2305.07598.pdf)
 - (arXiv 2023.06) detrex: Benchmarking Detection Transformers, [[Paper]](https://arxiv.org/pdf/2306.07265.pdf),[[Code]](https://github.com/IDEA-Research/detrex)
 - (arXiv 2023.06) Revisiting Token Pruning for Object Detection and Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2306.07186.pdf)
+- (arXiv 2023.06) Bridging the Performance Gap between DETR and R-CNN for Graphical Object Detection in Document Images, [[Paper]](https://arxiv.org/pdf/2306.13526.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
