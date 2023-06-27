@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/06/26
+**Last updated: 2023/06/27
 
 ## Survey: 
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
@@ -695,6 +695,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) RaViTT: Random Vision Transformer Tokens, [[Paper]](https://arxiv.org/pdf/2306.10959.pdf)
 - (arXiv 2023.06) Vision Transformer with Attention Map Hallucination and FFN Compaction, [[Paper]](https://arxiv.org/pdf/2306.10875.pdf)
 - (arXiv 2023.06) Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing, [[Paper]](https://arxiv.org/pdf/2306.12929.pdf)
+- (arXiv 2023.06) Swin-Free: Achieving Better Cross-Window Attention and Efficiency with Size-varying Window, [[Paper]](https://arxiv.org/pdf/2306.13776.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -731,6 +732,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Optimization-Inspired Cross-Attention Transformer for Compressive Sensing, [[Paper]](https://arxiv.org/pdf/2304.13986.pdf), [[Code]](https://github.com/songjiechong/OCTUF)
 - (arXiv 2023.05) ROI-based Deep Image Compression with Swin Transformers, [[Paper]](https://arxiv.org/pdf/2305.07783.pdf)
 - (arXiv 2023.05) Transformer-based Variable-rate Image Compression with Region-of-interest Control, [[Paper]](https://arxiv.org/pdf/2305.10807.pdf)
+- (arXiv 2023.06) Efficient Contextformer: Spatio-Channel Window Attention for Fast Context Modeling in Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2306.14287.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -1094,6 +1096,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
+- (arXiv 2023.06) FeSViBS: Federated Split Learning of Vision Transformer with Block Sampling, [[Paper]](https://arxiv.org/pdf/2306.14638.pdf),[[Code]](https://github.com/faresmalik/FeSViBS)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -1699,6 +1702,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) SegT: A Novel Separated Edge-guidance Transformer Network for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2306.10773.pdf)
 - (arXiv 2023.06) KiUT: Knowledge-injected U-Transformer for Radiology Report Generation, [[Paper]](https://arxiv.org/pdf/2306.11345.pdf)
 - (arXiv 2023.06) Concurrent ischemic lesion age estimation and segmentation of CT brain using a Transformer-based network, [[Paper]](https://arxiv.org/pdf/2306.12242.pdf)
+- (arXiv 2023.06) CST-YOLO: A Novel Method for Blood Cell Detection Based on Improved YOLOv7 and CNN-Swin Transformer, [[Paper]](https://arxiv.org/pdf/2306.14590.pdf),[[Code]](https://github.com/mkang315/CST-YOLO)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1911,6 +1915,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Transformer-based Multi-Modal Learning for Multi Label Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2306.01523.pdf), [[Code]](https://git.tu-berlin.de/rsim/sct-fusion)
 - (arXiv 2023.06) Energy-Based Models for Cross-Modal Localization using Convolutional Transformers, [[Paper]](https://arxiv.org/pdf/2306.04021.pdf)
 - (arXiv 2023.06) Efficient Multi-Task Scene Analysis with RGB-D Transformers, [[Paper]](https://arxiv.org/pdf/2306.05242.pdf), [[Code]](https://github.com/TUI-NICR/EMSAFormer)
+- (arXiv 2023.06) ContentCTR: Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2306.14392.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1955,6 +1960,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Object Memory Transformer for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2203.14708.pdf)
 - (arXiv 2022.03) Target-Driven Structured Transformer Planner for Vision-Language Navigation, [[Paper]](https://arxiv.org/pdf/2207.11201.pdf), [[Code]](https://github.com/YushengZhao/TD-STP)
 - (arXiv 2022.05) ASTS: Progress-Aware Spatio-Temporal Transformer Speaker For Vision-and-Language Navigation,  [[Paper]](https://arxiv.org/pdf/2305.11918.pdf)
+- (arXiv 2022.06) ViNT: A Foundation Model for Visual Navigation,  [[Paper]](https://arxiv.org/pdf/2306.14846.pdf), [[Code]](https://visualnav-transformer.github.io/)
 
 ### Neural Rendering
 - (arXiv 2022.03) ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.10157.pdf), [[Code]](https://github.com/jkulhanek/viewformer)
@@ -2390,6 +2396,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2209.05451.pdf), [[Project]](https://peract.github.io/)
 - (arXiv 2022.09) PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training, [[Paper]](https://arxiv.org/pdf/2209.11133.pdf)
 - (arXiv 2022.12) RT-1: Robotics Transformer for Real-World Control at Scale, [[Paper]](https://arxiv.org/pdf/2212.06817.pdf), [[Project]](http://robotics-transformer.github.io/)
+- (arXiv 2023.06) RVT: Robotic View Transformer for 3D Object Manipulation, [[Paper]](https://arxiv.org/pdf/2306.14896.pdf), [[Project]](https://robotic-view-transformer.github.io/)
 
 ### Salient Object Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
