@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/06/28
+**Last updated: 2023/06/29
 
 ## Survey: 
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
@@ -1292,6 +1292,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) MobileInst: Video Instance Segmentation on the Mobile, [[Paper]](https://arxiv.org/pdf/2303.17594.pdf)
 - (arXiv 2023.04) DynaMITe: Dynamic Query Bootstrapping for Multi-object Interactive Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2304.06668.pdf)
 - (arXiv 2023.04) Vision Transformers Are Good Mask Auto-Labelers, [[Paper]](https://arxiv.org/pdf/2305.04609.pdf), [[Code]](https://github.com/ayanban011/SwinDocSegmenter)
+- (arXiv 2023.06) RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model, [[Paper]](https://arxiv.org/pdf/2306.16269.pdf), [[Code]](https://kyanchen.github.io/RSPrompter)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
