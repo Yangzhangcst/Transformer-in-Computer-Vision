@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/06/29
+**Last updated: 2023/06/30
 
 ## Survey: 
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
@@ -696,6 +696,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Vision Transformer with Attention Map Hallucination and FFN Compaction, [[Paper]](https://arxiv.org/pdf/2306.10875.pdf)
 - (arXiv 2023.06) Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing, [[Paper]](https://arxiv.org/pdf/2306.12929.pdf)
 - (arXiv 2023.06) Swin-Free: Achieving Better Cross-Window Attention and Efficiency with Size-varying Window, [[Paper]](https://arxiv.org/pdf/2306.13776.pdf)
+- (arXiv 2023.06) BinaryViT: Pushing Binary Vision Transformers Towards Convolutional Models, [[Paper]](https://arxiv.org/pdf/2306.16678.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1234,6 +1235,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) MethaneMapper: Spectral Absorption aware Hyperspectral Transformer for Methane Detection, [[Paper]](https://arxiv.org/pdf/2304.02767.pdf)
 - (arXiv 2023.04) DCN-T: Dual Context Network with Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2304.09915.pdf), [[Code]](https://github.com/DotWang/DCN-T)
 - (arXiv 2023.05) SST-ReversibleNet: Reversible-prior-based Spectral-Spatial Transformer for Efficient Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2305.04054.pdf), [[Code]](https://github.com/caizeyu1992/SST)
+- (arXiv 2023.06) SaaFormer: Spectral-spatial Axial Aggregation Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2306.16759.pdf)
 
 ### Illumination
 - (arXiv 2022.05) Illumination Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
@@ -2763,6 +2765,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) MixFormerV2: Efficient Fully Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2305.15896.pdf), [[Code]](https://github.com/MCG-NJU/MixFormerV2)
 - (arXiv 2023.05) Humans in 4D: Reconstructing and Tracking Humans with Transformers, [[Paper]](https://arxiv.org/pdf/2305.20091.pdf), [[Code]](https://shubham-goel.github.io/4dhumans/)
 - (arXiv 2023.06) TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses, [[Paper]](https://arxiv.org/pdf/2306.05888.pdf)
+- (arXiv 2023.06) MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion, [[Paper]](https://arxiv.org/pdf/2306.17000.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
