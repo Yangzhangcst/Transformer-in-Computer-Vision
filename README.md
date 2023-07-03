@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/06/30
+**Last updated: 2023/07/03
 
 ## Survey: 
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
@@ -156,6 +156,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Enhancing Transformer Backbone for Egocentric Video Action Segmentation, [[Paper]](https://arxiv.org/pdf/2305.11365.pdf),[[Code]](https://www.sail-nu.com/dxformer)
 - (arXiv 2023.05) A Multi-Modal Transformer Network for Action Detection, [[Paper]](https://arxiv.org/pdf/2305.19624.pdf)
 - (arXiv 2023.06) Optimizing ViViT Training: Time and Memory Reduction for Action Recognition, [[Paper]](https://arxiv.org/pdf/2306.04822.pdf)
+- (arXiv 2023.06) SpATr: MoCap 3D Human Action Recognition based on Spiral Auto-encoder and Transformer Network, [[Paper]](https://arxiv.org/pdf/2306.17574.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -697,6 +698,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing, [[Paper]](https://arxiv.org/pdf/2306.12929.pdf)
 - (arXiv 2023.06) Swin-Free: Achieving Better Cross-Window Attention and Efficiency with Size-varying Window, [[Paper]](https://arxiv.org/pdf/2306.13776.pdf)
 - (arXiv 2023.06) BinaryViT: Pushing Binary Vision Transformers Towards Convolutional Models, [[Paper]](https://arxiv.org/pdf/2306.16678.pdf)
+- (arXiv 2023.06) Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing, [[Paper]](https://arxiv.org/pdf/2306.17848.pdf), [[Code]](https://arielnlee.github.io/PatchMixing/）
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
