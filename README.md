@@ -1711,6 +1711,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) CST-YOLO: A Novel Method for Blood Cell Detection Based on Improved YOLOv7 and CNN-Swin Transformer, [[Paper]](https://arxiv.org/pdf/2306.14590.pdf),[[Code]](https://github.com/mkang315/CST-YOLO)
 - (arXiv 2023.06) Taming Detection Transformers for Medical Object Detection, [[Paper]](https://arxiv.org/pdf/2306.15472.pdf)
 - (arXiv 2023.06) CellViT: Vision Transformers for Precise Cell Segmentation and Classification, [[Paper]](https://arxiv.org/pdf/2306.15350.pdf),[[Code]](https://github.com/TIO-IKIM/CellViT)
+- (arXiv 2023.06) HVTSurv: Hierarchical Vision Transformer for Patient-Level Survival Prediction from Whole Slide Image, [[Paper]](https://arxiv.org/pdf/2306.17373.pdf),[[Code]](https://github.com/szc19990412/HVTSurv)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
