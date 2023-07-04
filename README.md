@@ -217,6 +217,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation, [[Paper]](https://arxiv.org/pdf/2211.13189.pdf)
 - (arXiv 2023.03) Multiscale Audio Spectrogram Transformer for Efficient Audio Classification, [[Paper]](https://arxiv.org/pdf/2303.10757.pdf)
 - (arXiv 2023.03) ModEFormer: Modality-Preserving Embedding for Audio-Video Synchronization using Transformers, [[Paper]](https://arxiv.org/pdf/2303.11551.pdf)
+- (arXiv 2023.07) AVSegFormer: Audio-Visual Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2307.01146.pdf), [[Code]](https://github.com/vvvb-github/AVSegFormer)
 
 ### Bird's-Eye-View
 - (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
@@ -699,6 +700,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Swin-Free: Achieving Better Cross-Window Attention and Efficiency with Size-varying Window, [[Paper]](https://arxiv.org/pdf/2306.13776.pdf)
 - (arXiv 2023.06) BinaryViT: Pushing Binary Vision Transformers Towards Convolutional Models, [[Paper]](https://arxiv.org/pdf/2306.16678.pdf)
 - (arXiv 2023.06) Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing, [[Paper]](https://arxiv.org/pdf/2306.17848.pdf), [[Code]](https://arielnlee.github.io/PatchMixing/)
+- (arXiv 2023.07) Stitched ViTs are Flexible Vision Backbones, [[Paper]](https://arxiv.org/pdf/2307.00154.pdf), [[Code]](https://github.com/ziplab/SN-Netv2)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1722,6 +1724,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) DDT: A Diffusion-Driven Transformer-based Framework for Human Mesh Recovery from a Video, [[Paper]](https://arxiv.org/pdf/2303.13397.pdf)
 - (arXiv 2023.03) POTTER: Pooling Attention Transformer for Efficient Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2303.13357.pdf), [[Project]](https://zczcwh.github.io/potter_page)
 - (arXiv 2023.03) One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer, [[Paper]](https://arxiv.org/pdf/2303.16160.pdf), [[Project]](https://osx-ubody.github.io/)
+- (arXiv 2023.07) MeT: A Graph Transformer for Semantic Segmentation of 3D Meshes, [[Paper]](https://arxiv.org/pdf/2307.01115.pdf), [[Project]](https://osx-ubody.github.io/)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1927,6 +1930,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Energy-Based Models for Cross-Modal Localization using Convolutional Transformers, [[Paper]](https://arxiv.org/pdf/2306.04021.pdf)
 - (arXiv 2023.06) Efficient Multi-Task Scene Analysis with RGB-D Transformers, [[Paper]](https://arxiv.org/pdf/2306.05242.pdf), [[Code]](https://github.com/TUI-NICR/EMSAFormer)
 - (arXiv 2023.06) ContentCTR: Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2306.14392.pdf)
+- (arXiv 2023.07) End-To-End Prediction of Knee Osteoarthritis Progression With Multi-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2307.00873.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -1956,6 +1960,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv.2022.09) NasHD: Efficient ViT Architecture Performance Ranking using Hyperdimensional Computing, [[Paper]](https://arxiv.org/pdf/2209.11356.pdf)
 - (arXiv.2022.11) NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction, [[Paper]](https://arxiv.org/pdf/2211.08024.pdf)
 - (arXiv 2023.03) HyT-NAS: Hybrid Transformers Neural Architecture Search for Edge Devices, [[Paper]](https://arxiv.org/pdf/2303.04440.pdf), [[Code]](https://anonymous.4open.science/r/HyT-NAS-Search-Algorithm-A864/README.md)
+- (arXiv 2023.07) AutoST: Training-free Neural Architecture Search for Spiking Transformers, [[Paper]](https://arxiv.org/pdf/2307.00293.pdf)
 
 ### Navigation
 - (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
@@ -2279,6 +2284,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Patch-wise Mixed-Precision Quantization of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2305.06559.pdf)
 - (arXiv 2023.05) Boost Vision Transformer with GPU-Friendly Sparsity and Quantization, [[Paper]](https://arxiv.org/pdf/2305.10727.pdf)
 - (arXiv 2023.05) Bi-ViT: Pushing the Limit of Vision Transformer Quantization, [[Paper]](https://arxiv.org/pdf/2305.12354.pdf)
+- (arXiv 2023.07) Variation-aware Vision Transformer Quantization, [[Paper]](https://arxiv.org/pdf/2307.00331.pdf), [[Code]](https://github.com/HuangOwen/VVTQ)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -2615,6 +2621,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.06) VPUFormer: Visual Prompt Unified Transformer for Interactive Image Segmentation, [[Paper]](https://arxiv.org/pdf/2306.06656.pdf), [[Code]](https://github.com/XuZhang1211/VPUFormer)
 - (arxiv 2023.06) AerialFormer: Multi-resolution Transformer for Aerial Image Segmentation, [[Paper]](https://arxiv.org/pdf/2306.06842.pdf)
 - (arxiv 2023.06) Sea Ice Segmentation From SAR Data by Convolutional Transformer Networks, [[Paper]](https://arxiv.org/pdf/2306.07649.pdf)
+- (arxiv 2023.07) Guided Patch-Grouping Wavelet Transformer with Spatial Congruence for Ultra-High Resolution Segmentation, [[Paper]](https://arxiv.org/pdf/2307.00711.pdf)
+- (arxiv 2023.07) Learning Content-enhanced Mask Transformer for Domain Generalized Urban-Scene Segmentation, [[Paper]](https://arxiv.org/pdf/2307.00371.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
