@@ -680,25 +680,25 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Dual Path Transformer with Partition Attention, [[Paper]](https://arxiv.org/pdf/2305.14768.pdf)
 - (arXiv 2023.05) BinaryViT: Towards Efficient and Accurate Binary Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.14730.pdf)
 - (arXiv 2023.05) Making Vision Transformers Truly Shift-Equivariant, [[Paper]](https://arxiv.org/pdf/2305.16316.pdf)
-- (arXiv 2023.05) Concept-Centric Transformers: Concept Transformers with Object-Centric Concept Learning for Interpretability, [[Paper]](https://arxiv.org/pdf/2305.15775.pdf), [[Code]](https://github.com/jyhong0304/concept_centric_transformers）
-- (arXiv 2023.05) DiffRate : Differentiable Compression Rate for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.17997.pdf), [[Code]](https://github.com/OpenGVLab/DiffRate）
-- (arXiv 2023.06) Lightweight Vision Transformer with Bidirectional Interaction, [[Paper]](https://arxiv.org/pdf/2306.00396.pdf), [[Code]](https://github.com/qhfan/FAT）
-- (arXiv 2023.06) Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles, [[Paper]](https://arxiv.org/pdf/2306.00989.pdf), [[Code]](https://github.com/facebookresearch/hiera）
-- (arXiv 2023.06) Bytes Are All You Need: Transformers Operating Directly On File Bytes, [[Paper]](https://arxiv.org/pdf/2306.00238.pdf), [[Code]](https://github.com/apple/ml-cvnets/tree/main/examples/byteformer）
+- (arXiv 2023.05) Concept-Centric Transformers: Concept Transformers with Object-Centric Concept Learning for Interpretability, [[Paper]](https://arxiv.org/pdf/2305.15775.pdf), [[Code]](https://github.com/jyhong0304/concept_centric_transformers)
+- (arXiv 2023.05) DiffRate : Differentiable Compression Rate for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.17997.pdf), [[Code]](https://github.com/OpenGVLab/DiffRate)
+- (arXiv 2023.06) Lightweight Vision Transformer with Bidirectional Interaction, [[Paper]](https://arxiv.org/pdf/2306.00396.pdf), [[Code]](https://github.com/qhfan/FAT)
+- (arXiv 2023.06) Hiera: A Hierarchical Vision Transformer without the Bells-and-Whistles, [[Paper]](https://arxiv.org/pdf/2306.00989.pdf), [[Code]](https://github.com/facebookresearch/hiera)
+- (arXiv 2023.06) Bytes Are All You Need: Transformers Operating Directly On File Bytes, [[Paper]](https://arxiv.org/pdf/2306.00238.pdf), [[Code]](https://github.com/apple/ml-cvnets/tree/main/examples/byteformer)
 - (arXiv 2023.06) Muti-Scale And Token Mergence: Make Your ViT More Efficient, [[Paper]](https://arxiv.org/pdf/2306.04897.pdf)
-- (arXiv 2023.06) FasterViT: Fast Vision Transformers with Hierarchical Attention, [[Paper]](https://arxiv.org/pdf/2306.06189.pdf), [[Code]](https://github.com/NVlabs/FasterViT）
-- (arXiv 2023.06) E(2)-Equivariant Vision Transformer, [[Paper]](https://arxiv.org/pdf/2306.06722.pdf), [[Code]](https://github.com/ZJUCDSYangKaifan/GEVit）
-- (arXiv 2023.06) 2-D SSM: A General Spatial Layer for Visual Transformers, [[Paper]](https://arxiv.org/pdf/2306.06635.pdf), [[Code]](https://github.com/ethanbar11/ssm_2d）
-- (arXiv 2023.06) Mitigating Transformer Overconfidence via Lipschitz Regularization, [[Paper]](https://arxiv.org/pdf/2306.06849.pdf), [[Code]](https://github.com/SZCHAI/LRFormer）
+- (arXiv 2023.06) FasterViT: Fast Vision Transformers with Hierarchical Attention, [[Paper]](https://arxiv.org/pdf/2306.06189.pdf), [[Code]](https://github.com/NVlabs/FasterViT)
+- (arXiv 2023.06) E(2)-Equivariant Vision Transformer, [[Paper]](https://arxiv.org/pdf/2306.06722.pdf), [[Code]](https://github.com/ZJUCDSYangKaifan/GEVit)
+- (arXiv 2023.06) 2-D SSM: A General Spatial Layer for Visual Transformers, [[Paper]](https://arxiv.org/pdf/2306.06635.pdf), [[Code]](https://github.com/ethanbar11/ssm_2d)
+- (arXiv 2023.06) Mitigating Transformer Overconfidence via Lipschitz Regularization, [[Paper]](https://arxiv.org/pdf/2306.06849.pdf), [[Code]](https://github.com/SZCHAI/LRFormer)
 - (arXiv 2023.06) Reviving Shift Equivariance in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.07470.pdf)
-- (arXiv 2023.06) Learning to Mask and Permute Visual Tokens for Vision Transformer Pre-Training, [[Paper]](https://arxiv.org/pdf/2306.07346.pdf), [[Code]](https://github.com/aimagelab/MaPeT）
-- (arXiv 2023.06) Fast Training of Diffusion Models with Masked Transformers, [[Paper]](https://arxiv.org/pdf/2306.09305.pdf), [[Code]](https://github.com/Anima-Lab/MaskDiT）
+- (arXiv 2023.06) Learning to Mask and Permute Visual Tokens for Vision Transformer Pre-Training, [[Paper]](https://arxiv.org/pdf/2306.07346.pdf), [[Code]](https://github.com/aimagelab/MaPeT)
+- (arXiv 2023.06) Fast Training of Diffusion Models with Masked Transformers, [[Paper]](https://arxiv.org/pdf/2306.09305.pdf), [[Code]](https://github.com/Anima-Lab/MaskDiT)
 - (arXiv 2023.06) RaViTT: Random Vision Transformer Tokens, [[Paper]](https://arxiv.org/pdf/2306.10959.pdf)
 - (arXiv 2023.06) Vision Transformer with Attention Map Hallucination and FFN Compaction, [[Paper]](https://arxiv.org/pdf/2306.10875.pdf)
 - (arXiv 2023.06) Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing, [[Paper]](https://arxiv.org/pdf/2306.12929.pdf)
 - (arXiv 2023.06) Swin-Free: Achieving Better Cross-Window Attention and Efficiency with Size-varying Window, [[Paper]](https://arxiv.org/pdf/2306.13776.pdf)
 - (arXiv 2023.06) BinaryViT: Pushing Binary Vision Transformers Towards Convolutional Models, [[Paper]](https://arxiv.org/pdf/2306.16678.pdf)
-- (arXiv 2023.06) Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing, [[Paper]](https://arxiv.org/pdf/2306.17848.pdf), [[Code]](https://arielnlee.github.io/PatchMixing/）
+- (arXiv 2023.06) Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing, [[Paper]](https://arxiv.org/pdf/2306.17848.pdf), [[Code]](https://arielnlee.github.io/PatchMixing/)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
