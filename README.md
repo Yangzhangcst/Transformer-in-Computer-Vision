@@ -2905,6 +2905,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.03) Self-supervised Video-centralised Transformer for Video Face Clustering, [[Paper]](https://arxiv.org/pdf/2203.13166.pdf)
 - (arXiv 2022.03) VPTR: Efficient Transformers for Video Prediction, [[Paper]](https://arxiv.org/pdf/2203.15836.pdf), [[Code]](https://github.com/XiYe20/VPTR)
 - (arXiv 2022.03) Deformable Video Transformer, [[Paper]](https://arxiv.org/pdf/2203.16795.pdf)
+- (arXiv 2023.03) Query-Dependent Video Representation for Moment Retrieval and Highlight Detection, [[Paper]](https://arxiv.org/pdf/2303.13874.pdf), [[Code]](http://github.com/wjun0830/QD-DETR)
 - (arXiv 2022.04) Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer, [[Paper]](https://arxiv.org/pdf/2204.03638.pdf), [[Code]](https://songweige.github.io/projects/tats/index.html)
 - (arXiv 2022.05) Video Frame Interpolation with Transformer, [[Paper]](https://arxiv.org/pdf/2205.07230.pdf), [[Code]](https://github.com/dvlab-research/VFIformer)
 - (arXiv 2022.05) TubeFormer-DeepLab: Video Mask Transformer, [[Paper]](https://arxiv.org/pdf/2205.15361.pdf)
