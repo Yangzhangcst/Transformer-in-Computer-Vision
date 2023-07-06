@@ -157,6 +157,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) A Multi-Modal Transformer Network for Action Detection, [[Paper]](https://arxiv.org/pdf/2305.19624.pdf)
 - (arXiv 2023.06) Optimizing ViViT Training: Time and Memory Reduction for Action Recognition, [[Paper]](https://arxiv.org/pdf/2306.04822.pdf)
 - (arXiv 2023.06) SpATr: MoCap 3D Human Action Recognition based on Spiral Auto-encoder and Transformer Network, [[Paper]](https://arxiv.org/pdf/2306.17574.pdf)
+- (arXiv 2023.07) Task-Specific Alignment and Multiple Level Transformer for Few-Shot Action Recognition, [[Paper]](https://arxiv.org/pdf/2307.01985.pdf),[[Code]](https://github.com/cofly2014/tsa-mlt.git)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -701,6 +702,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) BinaryViT: Pushing Binary Vision Transformers Towards Convolutional Models, [[Paper]](https://arxiv.org/pdf/2306.16678.pdf)
 - (arXiv 2023.06) Hardwiring ViT Patch Selectivity into CNNs using Patch Mixing, [[Paper]](https://arxiv.org/pdf/2306.17848.pdf), [[Code]](https://arielnlee.github.io/PatchMixing/)
 - (arXiv 2023.07) Stitched ViTs are Flexible Vision Backbones, [[Paper]](https://arxiv.org/pdf/2307.00154.pdf), [[Code]](https://github.com/ziplab/SN-Netv2)
+- (arXiv 2023.07) MSViT: Dynamic Mixed-Scale Tokenization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.02321.pdf), [[Code]](https://github.com/ziplab/SN-Netv2)
+- (arXiv 2023.07) Make A Long Image Short: Adaptive Token Length for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.02092.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1716,6 +1719,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Taming Detection Transformers for Medical Object Detection, [[Paper]](https://arxiv.org/pdf/2306.15472.pdf)
 - (arXiv 2023.06) CellViT: Vision Transformers for Precise Cell Segmentation and Classification, [[Paper]](https://arxiv.org/pdf/2306.15350.pdf),[[Code]](https://github.com/TIO-IKIM/CellViT)
 - (arXiv 2023.06) HVTSurv: Hierarchical Vision Transformer for Patient-Level Survival Prediction from Whole Slide Image, [[Paper]](https://arxiv.org/pdf/2306.17373.pdf),[[Code]](https://github.com/szc19990412/HVTSurv)
+- (arXiv 2023.07) MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets, [[Paper]](https://arxiv.org/pdf/2307.02100.pdf),[[Code]](https://github.com/siyi-wind/MDViT)
+- (arXiv 2023.07) Multi-Scale Prototypical Transformer for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2307.02308.pdf)
+- (arXiv 2023.07) Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification, [[Paper]](https://arxiv.org/pdf/2307.01759.pdf),[[Code]](https://github.com/Lugges991/METAFormer）
+- (arXiv 2023.07) H-DenseFormer: An Efficient Hybrid Densely Connected Transformer for Multimodal Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2307.01486.pdf),[[Code]](https://github.com/shijun18/H-DenseFormer）
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1931,6 +1938,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Efficient Multi-Task Scene Analysis with RGB-D Transformers, [[Paper]](https://arxiv.org/pdf/2306.05242.pdf), [[Code]](https://github.com/TUI-NICR/EMSAFormer)
 - (arXiv 2023.06) ContentCTR: Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2306.14392.pdf)
 - (arXiv 2023.07) End-To-End Prediction of Knee Osteoarthritis Progression With Multi-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2307.00873.pdf)
+- (arXiv 2023.07) Interactive Image Segmentation with Cross-Modality Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.02280.pdf), [[Code]](https://github.com/lik1996/iCMFormer)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2031,6 +2039,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) DocFormerv2: Local Features for Document Understanding, [[Paper]](https://arxiv.org/pdf/2306.01733.pdf)
 - (arXiv 2023.06) Transformer-Based UNet with Multi-Headed Cross-Attention Skip Connections to Eliminate Artifacts in Scanned Documents, [[Paper]](https://arxiv.org/pdf/2306.02815.pdf)
 - (arXiv 2023.06) TextFormer: A Query-based End-to-End Text Spotter with Mixed Supervision, [[Paper]](https://arxiv.org/pdf/2306.03377.pdf)
+- (arXiv 2023.06) Exploring Transformers for On-Line Handwritten Signature Verification, [[Paper]](https://arxiv.org/pdf/2307.01663.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -2309,6 +2318,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) R2Former: Unified Retrieval and Reranking Transformer for Place Recognition, [[Paper]](https://arxiv.org/pdf/2304.03410.pdf), [[Code]](https://github.com/Jeff-Zilence/R2Former)
 - (arXiv 2023.05) MASK-CNN-Transformer For Real-Time Multi-Label Weather Recognition, [[Paper]](https://arxiv.org/pdf/2304.14857.pdf)
 - (arXiv 2023.05) TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition, [[Paper]](https://arxiv.org/pdf/2305.18013.pdf)
+- (arXiv 2023.07) Convolutional Transformer for Autonomous Recognition and Grading of Tomatoes Under Various Lighting, Occlusion, and Ripeness Conditions, [[Paper]](https://arxiv.org/pdf/2307.01530.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -2629,6 +2639,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) ShapeFormer: Transformer-based Shape Completion via Sparse Representation,  [[Paper]](https://arxiv.org/abs/2201.10326), [[Project]](https://shapeformer.github.io/)
 - (arXiv 2022.10) AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation, [[Paper]](https://arxiv.org/pdf/2210.12381.pdf)
 - (arXiv 2022.10) mm-Wave Radar Hand Shape Classification Using Deformable Transformers, [[Paper]](https://arxiv.org/pdf/2210.13079.pdf)
+- (arxiv 2023.07) DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation, [[Paper]](https://arxiv.org/pdf/2307.01831.pdf)
 
 ### SLAM
 - (arXiv 2022.06) AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation,  [[Paper]](https://arxiv.org/abs/2206.12946)
@@ -2636,6 +2647,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### SNN
 - (arXiv 2022.10) Spikformer: When Spiking Neural Network Meets Transformer,  [[Paper]](https://arxiv.org/abs/2209.15425)
+- (arxiv 2023.07) Spike-driven Transformer,  [[Paper]](https://arxiv.org/abs/2307.01694), [[Code]](https://github.com/BICLab/Spike-Driven-Transformer)
 
 ### Style Transfer
 - (arXiv 2022.10) Fine-Grained Image Style Transfer with Visual Transformers,  [[Paper]](https://arxiv.org/abs/2210.05176), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
@@ -2798,6 +2810,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) CEMFormer: Learning to Predict Driver Intentions from In-Cabin and External Cameras via Spatial-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2305.07840.pdf)
 - (arXiv 2023.06) TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2306.05419.pdf)
 - (arXiv 2023.06) Towards predicting Pedestrian Evacuation Time and Density from Floorplans using a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2306.15318.pdf)
+- (arXiv 2023.07) Separated RoadTopoFormer, [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
