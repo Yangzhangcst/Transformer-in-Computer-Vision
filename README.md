@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/06
+**Last updated: 2023/07/07
 
 ## Survey: 
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
@@ -704,6 +704,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Stitched ViTs are Flexible Vision Backbones, [[Paper]](https://arxiv.org/pdf/2307.00154.pdf), [[Code]](https://github.com/ziplab/SN-Netv2)
 - (arXiv 2023.07) MSViT: Dynamic Mixed-Scale Tokenization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.02321.pdf), [[Code]](https://github.com/ziplab/SN-Netv2)
 - (arXiv 2023.07) Make A Long Image Short: Adaptive Token Length for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.02092.pdf)
+- (arXiv 2023.07) Art Authentication with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.03039.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2703,6 +2704,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2305.05177.pdf)
 - (arXiv 2023.05) Efficient Mixed Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.11403.pdf), [[Code]](https://github. com/Fried-Rice-Lab/EMTT)
 - (arXiv 2023.05) FIT: Far-reaching Interleaved Transformers, [[Paper]](https://arxiv.org/pdf/2305.12689.pdf), [[Code]](https://github.com/google-research/pix2seq)
+- (arXiv 2023.07) Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2307.02974.pdf), [[Code]](https://github.com/google-research/pix2seq)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
