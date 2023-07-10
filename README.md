@@ -4,6 +4,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 **Last updated: 2023/07/07
 
 ## Survey: 
+- (arXiv 2023.07) Vision Language Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2307.03254.pdf)
+
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
 
 - (arXiv 2023.05) Vision Transformers for Mobile Applications: A Short Survey. [[Paper]](https://arxiv.org/pdf/2305.19365.pdf)
@@ -1724,6 +1726,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Multi-Scale Prototypical Transformer for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2307.02308.pdf)
 - (arXiv 2023.07) Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification, [[Paper]](https://arxiv.org/pdf/2307.01759.pdf),[[Code]](https://github.com/Lugges991/METAFormer）
 - (arXiv 2023.07) H-DenseFormer: An Efficient Hybrid Densely Connected Transformer for Multimodal Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2307.01486.pdf),[[Code]](https://github.com/shijun18/H-DenseFormer）
+- (arXiv 2023.07) Merging-Diverging Hybrid Transformer Networks for Survival Prediction in Head and Neck Cancer, [[Paper]](https://arxiv.org/pdf/2307.03427.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1940,6 +1943,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) ContentCTR: Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2306.14392.pdf)
 - (arXiv 2023.07) End-To-End Prediction of Knee Osteoarthritis Progression With Multi-Modal Transformers, [[Paper]](https://arxiv.org/pdf/2307.00873.pdf)
 - (arXiv 2023.07) Interactive Image Segmentation with Cross-Modality Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.02280.pdf), [[Code]](https://github.com/lik1996/iCMFormer)
+- (arXiv 2023.07) General-Purpose Multimodal Transformer meets Remote Sensing Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2307.03388.pdf), [[Code]](https://github.com/nhikieu/SpatialVolumetricMultimodal)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2348,6 +2352,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Symmetric Transformer-based Network for Unsupervised Image Registration, [[Paper]](https://arxiv.org/pdf/2204.13575.pdf), [[Code]](https://github.com/MingR-Ma/SymTrans)
 - (arXiv 2023.03) Spatially-varying Regularization with Conditional Transformer for Unsupervised Image Registration, [[Paper]](https://arxiv.org/pdf/2303.06168.pdf)
 - (arXiv 2023.03) RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration, [[Paper]](https://arxiv.org/pdf/2303.12384.pdf)
+- (arXiv 2023.07) Non-iterative Coarse-to-fine Transformer Networks for Joint Affine and Deformable Image Registration, [[Paper]](https://arxiv.org/pdf/2307.03421.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -2524,6 +2529,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) What Do Self-Supervised Vision Transformers Learn, [[Paper]](https://arxiv.org/pdf/2305.00729.pdf), [[Code]](https://github.com/naver-ai/cl-vs-mim)
 - (arXiv 2023.06) Improving Visual Prompt Tuning for Self-supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.05067.pdf), [[Code]](https://github.com/ryongithub/GatedPromptTuning)
 - (arXiv 2023.06) DenseDINO: Boosting Dense Self-Supervised Learning with Token-Based Point-Level Consistency, [[Paper]](https://arxiv.org/pdf/2306.04654.pdf)
+- (arXiv 2023.07) Distilling Self-Supervised Vision Transformers for Weakly-Supervised Few-Shot Classification & Segmentation, [[Paper]](https://arxiv.org/pdf/2307.03407.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -3280,6 +3286,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) B-cos Alignment for Inherently Interpretable CNNs and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.10898.pdf), [[Code]](https://github.com/B-cos/B-cos-v2)
 - (arXiv 2023.06) Minimalist and High-Quality Panoramic Imaging with PSF-aware Transformers, [[Paper]](https://arxiv.org/pdf/2306.12992.pdf)
 - (arXiv 2023.06) Learning from Visual Observation via Offline Pretrained State-to-Go Transformer, [[Paper]](https://arxiv.org/pdf/2306.12860.pdf), [[Code]](https://sites.google.com/view/stgtransformer)
+- (arXiv 2023.07) INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.03712.pdf)
 
 ## Contact & Feedback
 
