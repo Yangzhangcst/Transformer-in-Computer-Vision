@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/10
+**Last updated: 2023/07/11
 
 ## Survey: 
 - (arXiv 2023.07) Vision Language Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2307.03254.pdf)
@@ -160,6 +160,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Optimizing ViViT Training: Time and Memory Reduction for Action Recognition, [[Paper]](https://arxiv.org/pdf/2306.04822.pdf)
 - (arXiv 2023.06) SpATr: MoCap 3D Human Action Recognition based on Spiral Auto-encoder and Transformer Network, [[Paper]](https://arxiv.org/pdf/2306.17574.pdf)
 - (arXiv 2023.07) Task-Specific Alignment and Multiple Level Transformer for Few-Shot Action Recognition, [[Paper]](https://arxiv.org/pdf/2307.01985.pdf),[[Code]](https://github.com/cofly2014/tsa-mlt.git)
+- (arXiv 2023.07) VS-TransGRU: A Novel Transformer-GRU-based Framework Enhanced by Visual-Semantic Fusion for Egocentric Action Anticipation, [[Paper]](https://arxiv.org/pdf/2307.03918.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -175,6 +176,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Transferable Adversarial Attacks on Vision Transformers with Token Gradient Regularization, [[Paper]](https://arxiv.org/pdf/2303.15754.pdf)
 - (arXiv 2023.05) On enhancing the robustness of Vision Transformers: Defensive Diffusion, [[Paper]](https://arxiv.org/pdf/2305.08031.pdf), [[Code]](https://github.com/Muhammad-Huzaifaa/Defensive_Diffusion)
 - (arXiv 2023.06) Pre-trained transformer for adversarial purification, [[Paper]](https://arxiv.org/pdf/2306.01762.pdf)
+- (arXiv 2023.07) Random Position Adversarial Patch for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.04066.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -1107,6 +1109,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Noise-Resistant Multimodal Transformer for Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2305.02814.pdf)
 - (arXiv 2023.05) LOGO-Former: Local-Global Spatio-Temporal Transformer for Dynamic Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2305.03343.pdf)
 - (arXiv 2023.05) FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2305.03277.pdf)
+- (arXiv 2023.07) MiVOLO: Multi-input Transformer for Age and Gender Estimation, [[Paper]](https://arxiv.org/pdf/2307.04616.pdf),[[Code]](https://github.com/WildChlamydia/MiVOLO.git)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1727,6 +1730,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification, [[Paper]](https://arxiv.org/pdf/2307.01759.pdf),[[Code]](https://github.com/Lugges991/METAFormer）
 - (arXiv 2023.07) H-DenseFormer: An Efficient Hybrid Densely Connected Transformer for Multimodal Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2307.01486.pdf),[[Code]](https://github.com/shijun18/H-DenseFormer）
 - (arXiv 2023.07) Merging-Diverging Hybrid Transformer Networks for Survival Prediction in Head and Neck Cancer, [[Paper]](https://arxiv.org/pdf/2307.03427.pdf)
+- (arXiv 2023.07) Source-Free Open-Set Domain Adaptation for Histopathological Images via Distilling Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.04596.pdf),[[Code]](https://github.com/LTS5/Proto-SF-OSDA）
+- (arXiv 2023.07) Automatic diagnosis of knee osteoarthritis severity using Swin transformer, [[Paper]](https://arxiv.org/pdf/2307.04442.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2799,6 +2804,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Humans in 4D: Reconstructing and Tracking Humans with Transformers, [[Paper]](https://arxiv.org/pdf/2305.20091.pdf), [[Code]](https://shubham-goel.github.io/4dhumans/)
 - (arXiv 2023.06) TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses, [[Paper]](https://arxiv.org/pdf/2306.05888.pdf)
 - (arXiv 2023.06) MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion, [[Paper]](https://arxiv.org/pdf/2306.17000.pdf)
+- (arXiv 2023.07) Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers, [[Paper]](https://arxiv.org/pdf/2307.04129.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -2819,6 +2825,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) TopoMask: Instance-Mask-Based Formulation for the Road Topology Problem via Transformer-Based Architecture, [[Paper]](https://arxiv.org/pdf/2306.05419.pdf)
 - (arXiv 2023.06) Towards predicting Pedestrian Evacuation Time and Density from Floorplans using a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2306.15318.pdf)
 - (arXiv 2023.07) Separated RoadTopoFormer, [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
+- (arXiv 2023.07) Context-aware Pedestrian Trajectory Prediction with Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2307.03786.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
