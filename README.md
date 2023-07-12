@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/11
+**Last updated: 2023/07/12
 
 ## Survey: 
 - (arXiv 2023.07) Vision Language Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2307.03254.pdf)
@@ -1732,6 +1732,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Merging-Diverging Hybrid Transformer Networks for Survival Prediction in Head and Neck Cancer, [[Paper]](https://arxiv.org/pdf/2307.03427.pdf)
 - (arXiv 2023.07) Source-Free Open-Set Domain Adaptation for Histopathological Images via Distilling Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.04596.pdf),[[Code]](https://github.com/LTS5/Proto-SF-OSDA）
 - (arXiv 2023.07) Automatic diagnosis of knee osteoarthritis severity using Swin transformer, [[Paper]](https://arxiv.org/pdf/2307.04442.pdf)
+- (arXiv 2023.07) Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2307.05314.pdf),[[Code]](https://github.com/pengfeiliHEU/MUMC）
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
