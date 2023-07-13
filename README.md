@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/12
+**Last updated: 2023/07/13
 
 ## Survey: 
+- (arXiv 2023.07) Transformers in Reinforcement Learning: A Survey. [[Paper]](https://arxiv.org/pdf/2307.05979.pdf)
+
 - (arXiv 2023.07) Vision Language Transformers: A Survey. [[Paper]](https://arxiv.org/pdf/2307.03254.pdf)
 
 - (arXiv 2023.06) 2D Object Detection with Transformers: A Review. [[Paper]](https://arxiv.org/pdf/2306.04670.pdf), [[Awesome]](https://github.com/mindgarage-shan/trans_object_detection_survey)
@@ -709,6 +711,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) MSViT: Dynamic Mixed-Scale Tokenization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.02321.pdf), [[Code]](https://github.com/ziplab/SN-Netv2)
 - (arXiv 2023.07) Make A Long Image Short: Adaptive Token Length for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.02092.pdf)
 - (arXiv 2023.07) Art Authentication with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.03039.pdf)
+- (arXiv 2023.07) Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution, [[Paper]](https://arxiv.org/pdf/2307.06304.pdf)
+- (arXiv 2023.07) What Happens During Finetuning of Vision Transformers: An Invariance Based Investigation, [[Paper]](https://arxiv.org/pdf/2307.06006.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -746,6 +750,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) ROI-based Deep Image Compression with Swin Transformers, [[Paper]](https://arxiv.org/pdf/2305.07783.pdf)
 - (arXiv 2023.05) Transformer-based Variable-rate Image Compression with Region-of-interest Control, [[Paper]](https://arxiv.org/pdf/2305.10807.pdf)
 - (arXiv 2023.06) Efficient Contextformer: Spatio-Channel Window Attention for Fast Context Modeling in Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2306.14287.pdf)
+- (arXiv 2023.07) AICT: An Adaptive Image Compression Transformer, [[Paper]](https://arxiv.org/pdf/2307.06091.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -1733,6 +1738,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Source-Free Open-Set Domain Adaptation for Histopathological Images via Distilling Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.04596.pdf),[[Code]](https://github.com/LTS5/Proto-SF-OSDA）
 - (arXiv 2023.07) Automatic diagnosis of knee osteoarthritis severity using Swin transformer, [[Paper]](https://arxiv.org/pdf/2307.04442.pdf)
 - (arXiv 2023.07) Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2307.05314.pdf),[[Code]](https://github.com/pengfeiliHEU/MUMC）
+- (arXiv 2023.07) SwiFT: Swin 4D fMRI Transformer, [[Paper]](https://arxiv.org/pdf/2307.05916.pdf)
+- (arXiv 2023.07) A Hierarchical Transformer Encoder to Improve Entire Neoplasm Segmentation on Whole Slide Image of Hepatocellular Carcinoma, [[Paper]](https://arxiv.org/pdf/2307.05800.pdf)
+- (arXiv 2023.07) UGCANet: A Unified Global Context-Aware Transformer-based Network with Feature Alignment for Endoscopic Image Analysis, [[Paper]](https://arxiv.org/pdf/2307.06260.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2272,6 +2280,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) A Dual-Source Attention Transformer for Multi-Person Pose Tracking, [[Paper]](https://arxiv.org/pdf/2306.05807.pdf), [[Code]](https://github.com/sThalham/TraM3D)
 - (arXiv 2023.06) Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.09331.pdf), [[Code]](https://github.com/dominickrei/PoseAwareVT)
 - (arXiv 2023.06) LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network, [[Paper]](https://arxiv.org/pdf/2306.12525.pdf)
+- (arXiv 2023.07) TransPose: A Transformer-based 6D Object Pose Estimation Network with Depth Refinement, [[Paper]](https://arxiv.org/pdf/2307.05561.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2350,6 +2359,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.02) UMIFormer: Mining the Correlations between Similar Tokens for Multi-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2302.13987.pdf)
 - (arXiv 2023.03) CryoFormer: Continuous Reconstruction of 3D Structures from Cryo-EM Data using Transformer-based Neural Representations, [[Paper]](https://arxiv.org/pdf/2303.16254.pdf), [[Project]](https://cryoformer.github.io/)
 - (arXiv 2023.04) CornerFormer: Boosting Corner Representation for Fine-Grained Structured Reconstruction, [[Paper]](https://arxiv.org/pdf/2304.07072.pdf)
+- (arXiv 2023.07) Image Reconstruction using Enhanced Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.05616.pdf)
 
 ### Registration
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
@@ -3295,6 +3305,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Minimalist and High-Quality Panoramic Imaging with PSF-aware Transformers, [[Paper]](https://arxiv.org/pdf/2306.12992.pdf)
 - (arXiv 2023.06) Learning from Visual Observation via Offline Pretrained State-to-Go Transformer, [[Paper]](https://arxiv.org/pdf/2306.12860.pdf), [[Code]](https://sites.google.com/view/stgtransformer)
 - (arXiv 2023.07) INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.03712.pdf)
+- (arXiv 2023.07) TreeFormer: a Semi-Supervised Transformer-based Framework for Tree Counting from a Single High Resolution Image, [[Paper]](https://arxiv.org/pdf/2307.06118.pdf), [[Code]](https://github.com/HAAClassic/TreeFormer)
 
 ## Contact & Feedback
 
