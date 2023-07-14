@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/13
+**Last updated: 2023/07/14
 
 ## Survey: 
 - (arXiv 2023.07) Transformers in Reinforcement Learning: A Survey. [[Paper]](https://arxiv.org/pdf/2307.05979.pdf)
@@ -1741,6 +1741,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) SwiFT: Swin 4D fMRI Transformer, [[Paper]](https://arxiv.org/pdf/2307.05916.pdf)
 - (arXiv 2023.07) A Hierarchical Transformer Encoder to Improve Entire Neoplasm Segmentation on Whole Slide Image of Hepatocellular Carcinoma, [[Paper]](https://arxiv.org/pdf/2307.05800.pdf)
 - (arXiv 2023.07) UGCANet: A Unified Global Context-Aware Transformer-based Network with Feature Alignment for Endoscopic Image Analysis, [[Paper]](https://arxiv.org/pdf/2307.06260.pdf)
+- (arXiv 2023.07) RaBiT: An Efficient Transformer using Bidirectional Feature Pyramid Network with Reverse Attention for Colon Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2307.06420.pdf)
+- (arXiv 2023.07) Transformer-based end-to-end classification of variable-length volumetric data, [[Paper]](https://arxiv.org/pdf/2307.06666.pdf),[[Code]](https://github.com/marziehoghbaie/VLFAT）
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3014,6 +3016,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Unmasking Deepfakes: Masked Autoencoding Spatiotemporal Transformers for Enhanced Video Forgery Detection, [[Paper]](https://arxiv.org/pdf/2306.06881.pdf)
 - (arXiv 2023.06) Unfolding Framework with Prior of Convolution-Transformer Mixture and Uncertainty Estimation for Video Snapshot Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2306.11316.pdf)
 - (arXiv 2023.06) TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting, [[Paper]](https://arxiv.org/pdf/2306.10940.pdf), [[Code]](https://github.com/Orion-Ai-Lab/TeleViT)
+- (arXiv 2023.07) Efficient Convolution and Transformer-Based Network for Video Frame Interpolation, [[Paper]](https://arxiv.org/pdf/2307.06443.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
