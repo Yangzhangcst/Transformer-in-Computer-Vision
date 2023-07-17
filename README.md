@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/14
+**Last updated: 2023/07/17
 
 ## Survey: 
 - (arXiv 2023.07) Transformers in Reinforcement Learning: A Survey. [[Paper]](https://arxiv.org/pdf/2307.05979.pdf)
@@ -163,6 +163,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) SpATr: MoCap 3D Human Action Recognition based on Spiral Auto-encoder and Transformer Network, [[Paper]](https://arxiv.org/pdf/2306.17574.pdf)
 - (arXiv 2023.07) Task-Specific Alignment and Multiple Level Transformer for Few-Shot Action Recognition, [[Paper]](https://arxiv.org/pdf/2307.01985.pdf),[[Code]](https://github.com/cofly2014/tsa-mlt.git)
 - (arXiv 2023.07) VS-TransGRU: A Novel Transformer-GRU-based Framework Enhanced by Visual-Semantic Fusion for Egocentric Action Anticipation, [[Paper]](https://arxiv.org/pdf/2307.03918.pdf)
+- (arXiv 2023.07) Multimodal Distillation for Egocentric Action Recognition, [[Paper]](https://arxiv.org/pdf/2307.07483.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -828,6 +829,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Hybrid Transformer Network for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2208.05820.pdf)
 - (arXiv 2022.09) Deep Convolutional Pooling Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2303.07033.pdf)
 - (arXiv 2023.04) Deepfake Detection with Deep Learning: Convolutional Neural Networks versus Transformers, [[Paper]](https://arxiv.org/pdf/2304.03698.pdf)
+- (arXiv 2023.07) Deepfake Video Detection Using Generative Convolutional Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.07036.pdf), [[Code]](https://github.com/erprogs/GenConViT)
 
 ### Diffusion
 - (arXiv 2022.12) Scalable Diffusion Models with Transformers, [[Paper]](https://arxiv.org/pdf/2212.09748.pdf), [[Code]](https://www.wpeebles.com/DiT)
@@ -1743,6 +1745,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) UGCANet: A Unified Global Context-Aware Transformer-based Network with Feature Alignment for Endoscopic Image Analysis, [[Paper]](https://arxiv.org/pdf/2307.06260.pdf)
 - (arXiv 2023.07) RaBiT: An Efficient Transformer using Bidirectional Feature Pyramid Network with Reverse Attention for Colon Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2307.06420.pdf)
 - (arXiv 2023.07) Transformer-based end-to-end classification of variable-length volumetric data, [[Paper]](https://arxiv.org/pdf/2307.06666.pdf),[[Code]](https://github.com/marziehoghbaie/VLFAT）
+- (arXiv 2023.07) TriFormer: A Multi-modal Transformer Framework For Mild Cognitive Impairment Conversion Prediction, [[Paper]](https://arxiv.org/pdf/2307.07177.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2729,6 +2732,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Efficient Mixed Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.11403.pdf), [[Code]](https://github. com/Fried-Rice-Lab/EMTT)
 - (arXiv 2023.05) FIT: Far-reaching Interleaved Transformers, [[Paper]](https://arxiv.org/pdf/2305.12689.pdf), [[Code]](https://github.com/google-research/pix2seq)
 - (arXiv 2023.07) Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2307.02974.pdf), [[Code]](https://github.com/google-research/pix2seq)
+- (arXiv 2023.07) MaxSR: Image Super-Resolution Using Improved MaxViT, [[Paper]](https://arxiv.org/pdf/2307.07240.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -2839,6 +2843,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Towards predicting Pedestrian Evacuation Time and Density from Floorplans using a Vision Transformer, [[Paper]](https://arxiv.org/pdf/2306.15318.pdf)
 - (arXiv 2023.07) Separated RoadTopoFormer, [[Paper]](https://arxiv.org/pdf/2307.01557.pdf)
 - (arXiv 2023.07) Context-aware Pedestrian Trajectory Prediction with Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2307.03786.pdf)
+- (arXiv 2023.07) LightFormer: An End-to-End Model for Intersection Right-of-Way Recognition Using Traffic Light Signals and an Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2307.07196.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
@@ -3309,6 +3314,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Learning from Visual Observation via Offline Pretrained State-to-Go Transformer, [[Paper]](https://arxiv.org/pdf/2306.12860.pdf), [[Code]](https://sites.google.com/view/stgtransformer)
 - (arXiv 2023.07) INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.03712.pdf)
 - (arXiv 2023.07) TreeFormer: a Semi-Supervised Transformer-based Framework for Tree Counting from a Single High Resolution Image, [[Paper]](https://arxiv.org/pdf/2307.06118.pdf), [[Code]](https://github.com/HAAClassic/TreeFormer)
+- (arXiv 2023.07) HEAL-SWIN: A Vision Transformer On The Sphere, [[Paper]](https://arxiv.org/pdf/2307.07313.pdf), [[Code]](https://github.com/JanEGerken/HEAL-SWIN)
 
 ## Contact & Feedback
 
