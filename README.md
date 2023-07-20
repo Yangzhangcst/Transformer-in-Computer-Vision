@@ -286,6 +286,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Comparative study of Transformer and LSTM Network with attention mechanism on Image Captioning, [[Paper]](https://arxiv.org/pdf/2303.02648.pdf)
 - (arXiv 2023.03) Text with Knowledge Graph Augmented Transformer for Video Captioning, [[Paper]](https://arxiv.org/pdf/2303.12423.pdf)
 - (arXiv 2023.05) Transforming Visual Scene Graphs to Image Captions, [[Paper]](https://arxiv.org/pdf/2305.02177.pdf)
+- (arXiv 2023.07) Embedded Heterogeneous Attention Transformer for Cross-lingual Image Captioning, [[Paper]](https://arxiv.org/pdf/2307.09915.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -1762,6 +1763,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) TriFormer: A Multi-modal Transformer Framework For Mild Cognitive Impairment Conversion Prediction, [[Paper]](https://arxiv.org/pdf/2307.07177.pdf)
 - (arXiv 2023.07) MUVF-YOLOX: A Multi-modal Ultrasound Video Fusion Network for Renal Tumor Diagnosis, [[Paper]](https://arxiv.org/pdf/2307.07807.pdf),[[Code]](https://github.com/JeunyuLi/MUAF）
 - (arXiv 2023.07) Study of Vision Transformers for Covid-19 Detection from Chest X-rays, [[Paper]](https://arxiv.org/pdf/2307.09402.pdf)
+- (arXiv 2023.07) TUNeS: A Temporal U-Net with Self-Attention for Video-based Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2307.09997.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1771,6 +1773,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) POTTER: Pooling Attention Transformer for Efficient Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2303.13357.pdf), [[Project]](https://zczcwh.github.io/potter_page)
 - (arXiv 2023.03) One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer, [[Paper]](https://arxiv.org/pdf/2303.16160.pdf), [[Project]](https://osx-ubody.github.io/)
 - (arXiv 2023.07) MeT: A Graph Transformer for Semantic Segmentation of 3D Meshes, [[Paper]](https://arxiv.org/pdf/2307.01115.pdf), [[Project]](https://osx-ubody.github.io/)
+- (arXiv 2023.07) 3Deformer: A Common Framework for Image-Guided Mesh Deformation, [[Paper]](https://arxiv.org/pdf/2307.09892.pdf), [[Project]](https://osx-ubody.github.io/)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
