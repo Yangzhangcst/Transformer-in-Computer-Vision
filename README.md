@@ -167,6 +167,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) VS-TransGRU: A Novel Transformer-GRU-based Framework Enhanced by Visual-Semantic Fusion for Egocentric Action Anticipation, [[Paper]](https://arxiv.org/pdf/2307.03918.pdf)
 - (arXiv 2023.07) Multimodal Distillation for Egocentric Action Recognition, [[Paper]](https://arxiv.org/pdf/2307.07483.pdf)
 - (arXiv 2023.07) Human Action Recognition in Still Images Using ConViT, [[Paper]](https://arxiv.org/pdf/2307.08994.pdf)
+- (arXiv 2023.07) MSQNet: Actor-agnostic Action Recognition with Multi-modal Query, [[Paper]](https://arxiv.org/pdf/2307.10763.pdf), [[Code]](https://github.com/mondalanindya/MSQNet)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -721,6 +722,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Scale-Aware Modulation Meet Transformer, [[Paper]](https://arxiv.org/pdf/2307.08579.pdf), [[Code]](https://github.com/AFeng-x/SMT)
 - (arXiv 2023.07) RepViT: Revisiting Mobile CNN From ViT Perspective, [[Paper]](https://arxiv.org/pdf/2307.09283.pdf), [[Code]]https://github.com/jameslahm/RepViT)
 - (arXiv 2023.07) R-Cut: Enhancing Explainability in Vision Transformers with Relationship Weighted Out and Cut, [[Paper]](https://arxiv.org/pdf/2307.09050.pdf)
+- (arXiv 2023.07) Learned Thresholds Token Merging and Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.10780.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1035,6 +1037,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Spatial-Temporal Enhanced Transformer Towards Multi-Frame 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2307.00347.pdf),[[Code]](https://github.com/Eaphan/STEMD)
 - (arXiv 2023.07) Box-DETR: Understanding and Boxing Conditional Spatial Queries, [[Paper]](https://arxiv.org/pdf/2307.08353.pdf),[[Code]](https://github.com/tiny-smart/box-detr)
 - (arXiv 2023.07) Semi-DETR: Semi-Supervised Object Detection with Detection Transformers, [[Paper]](https://arxiv.org/pdf/2307.08095.pdf),[[Code]](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/semi_det/semi_detr)
+- (arXiv 2023.07) Cascade-DETR: Delving into High-Quality Universal Object Detection, [[Paper]](https://arxiv.org/pdf/2307.11035.pdf),[[Code]](https://github.com/SysCV/cascade-detr)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1764,6 +1767,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) MUVF-YOLOX: A Multi-modal Ultrasound Video Fusion Network for Renal Tumor Diagnosis, [[Paper]](https://arxiv.org/pdf/2307.07807.pdf),[[Code]](https://github.com/JeunyuLi/MUAF）
 - (arXiv 2023.07) Study of Vision Transformers for Covid-19 Detection from Chest X-rays, [[Paper]](https://arxiv.org/pdf/2307.09402.pdf)
 - (arXiv 2023.07) TUNeS: A Temporal U-Net with Self-Attention for Video-based Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2307.09997.pdf)
+- (arXiv 2023.07) GLSFormer : Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos, [[Paper]](https://arxiv.org/pdf/2307.11081.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1983,6 +1987,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Interactive Image Segmentation with Cross-Modality Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.02280.pdf), [[Code]](https://github.com/lik1996/iCMFormer)
 - (arXiv 2023.07) General-Purpose Multimodal Transformer meets Remote Sensing Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2307.03388.pdf), [[Code]](https://github.com/nhikieu/SpatialVolumetricMultimodal)
 - (arXiv 2023.07) TransNuSeg: A Lightweight Multi-Task Transformer for Nuclei Segmentation, [[Paper]](https://arxiv.org/pdf/2307.08051.pdf), [[Code]](https://github.com/zhenqi-he/transnuseg)
+- （arXiv 2023.07) Meta-Transformer: A Unified Framework for Multimodal Learning, [[Paper]](https://arxiv.org/pdf/2307.10802.pdf), [[Project]](https://kxgong.github.io/meta_transformer/)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2873,6 +2878,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Context-aware Pedestrian Trajectory Prediction with Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2307.03786.pdf)
 - (arXiv 2023.07) LightFormer: An End-to-End Model for Intersection Right-of-Way Recognition Using Traffic Light Signals and an Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2307.07196.pdf)
 - (arXiv 2023.07) Light-Weight Vision Transformer with Parallel Local and Global Self-Attention, [[Paper]](https://arxiv.org/pdf/2307.09120.pdf)
+- (arXiv 2023.07) OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios, [[Paper]](https://arxiv.org/pdf/2307.10934.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
