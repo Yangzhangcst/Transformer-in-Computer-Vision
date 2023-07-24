@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/21
+**Last updated: 2023/07/24
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -2314,6 +2314,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Seeing the Pose in the Pixels: Learning Pose-Aware Representations in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2306.09331.pdf), [[Code]](https://github.com/dominickrei/PoseAwareVT)
 - (arXiv 2023.06) LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network, [[Paper]](https://arxiv.org/pdf/2306.12525.pdf)
 - (arXiv 2023.07) TransPose: A Transformer-based 6D Object Pose Estimation Network with Depth Refinement, [[Paper]](https://arxiv.org/pdf/2307.05561.pdf)
+- (arXiv 2023.07) YOLOPose V2: Understanding and Improving Transformer-based 6D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2307.11550.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3075,6 +3076,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding, [[Paper]](https://arxiv.org/pdf/2212.00836.pdf)
 - (arXiv 2023.03) ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance, [[Paper]](https://arxiv.org/pdf/2303.16894.pdf), [[Code]](https://github.com/ZiyuGuo99/ViewRefer3D)
 - (arXiv 2023.07) Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2307.09267.pdf)
+- (arXiv 2023.07) Advancing Visual Grounding with Scene Knowledge: Benchmark and Method, [[Paper]](https://arxiv.org/pdf/2307.11558.pdf), [[Code]](https://github.com/zhjohnchan/SK-VG)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
