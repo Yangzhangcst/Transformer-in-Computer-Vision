@@ -724,6 +724,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) RepViT: Revisiting Mobile CNN From ViT Perspective, [[Paper]](https://arxiv.org/pdf/2307.09283.pdf), [[Code]]https://github.com/jameslahm/RepViT)
 - (arXiv 2023.07) R-Cut: Enhancing Explainability in Vision Transformers with Relationship Weighted Out and Cut, [[Paper]](https://arxiv.org/pdf/2307.09050.pdf)
 - (arXiv 2023.07) Learned Thresholds Token Merging and Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.10780.pdf)
+- (arXiv 2023.07) Sparse then Prune: Toward Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.11988.pdf), [[Code]](https://github.com/yogiprsty/Sparse-ViT)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1041,6 +1042,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Cascade-DETR: Delving into High-Quality Universal Object Detection, [[Paper]](https://arxiv.org/pdf/2307.11035.pdf),[[Code]](https://github.com/SysCV/cascade-detr)
 - (arXiv 2023.07) Less is More: Focus Attention for Efficient DETR, [[Paper]](https://arxiv.org/pdf/2307.12612.pdf), [[Code]](https://github.com/huawei-noah/noah-research)
 - (arXiv 2023.07) DQ-Det: Learning Dynamic Query Combinations for Transformer-based Object Detection and Segmentation, [[Ppaer]](https://arxiv.org/pdf/2307.12239.pdf)
+- (arXiv 2023.07) Enhancing Your Trained DETRs with Box Refinement, [[Paper]](https://arxiv.org/pdf/2307.11828.pdf), [[Code]](https://github.com/YiqunChen1999/RefineBox)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1774,6 +1776,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) GLSFormer : Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos, [[Paper]](https://arxiv.org/pdf/2307.11081.pdf)
 - (arXiv 2023.07) Dense Transformer based Enhanced Coding Network for Unsupervised Metal Artifact Reduction, [[Paper]](https://arxiv.org/pdf/2307.12717.pdf)
 - (arXiv 2023.07) SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2307.12591.pdf), [[Project]](https://github.com/UCSC-VLAA/SwinMM/)
+- (arxiv 2023.07) Pathology-and-genomics Multimodal Transformer for Survival Outcome Prediction, [[Paper]](https://arxiv.org/pdf/2307.11952.pdf)
+- (arxiv 2023.07) SCPAT-GAN: Structural Constrained and Pathology Aware Convolutional Transformer-GAN for Virtual Histology Staining of Human Coronary OCT images, [[Paper]](https://arxiv.org/pdf/2307.12138.pdf)
+- (arxiv 2023.07) Simulation of Arbitrary Level Contrast Dose in MRI Using an Iterative Global Transformer Model, [[Paper]](https://arxiv.org/pdf/2307.11980.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2247,6 +2252,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator, [[Paper]](https://arxiv.org/pdf/2307.08492.pdf), [[Code]](https://github.com/czvvd/SVDFormer)
 - (arXiv 2023.07) PSGformer: Enhancing 3D Point Cloud Instance Segmentation via Precise Semantic Guidance, [[Paper]](https://arxiv.org/pdf/2307.07708.pdf)
 - (arXiv 2023.07) PG-RCNN: Semantic Surface Point Generation for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2307.12637.pdf), [[Code](https://github.com/quotation2520/PG-RCNN)
+- (arXiv 2023.07) Two-stream Multi-level Dynamic Point Transformer for Two-person Interaction Recognition, [[Paper]](https://arxiv.org/pdf/2307.11973.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2324,6 +2330,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network, [[Paper]](https://arxiv.org/pdf/2306.12525.pdf)
 - (arXiv 2023.07) TransPose: A Transformer-based 6D Object Pose Estimation Network with Depth Refinement, [[Paper]](https://arxiv.org/pdf/2307.05561.pdf)
 - (arXiv 2023.07) YOLOPose V2: Understanding and Improving Transformer-based 6D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2307.11550.pdf)
+- (arXiv 2023.07) TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation, [[Paper]](https://arxiv.org/pdf/2307.12400.pdf), [[Code]](https://progress.eecs.umich.edu/projects/transnet/)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3108,6 +3115,7 @@ https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.05) Multimodal Graph Transformer for Multimodal Question Answering, [[Paper]](https://arxiv.org/pdf/2305.00581.pdf)
 - (arXiv 2023.05) Is a Video worth n×n Images? A Highly Efficient Approach to Transformer-based Video Question Answering, [[Paper]](https://arxiv.org/pdf/2305.09107.pdf)
 - (arXiv 2023.06) LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2306.00758.pdf), [[Code]](https://git.tu-berlin.de/rsim/lit4rsvqa)
+- (arXiv 2023.07) Discovering Spatio-Temporal Rationales for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2307.12058.pdf), [[Code]](https://github.com/yl3800/TranSTR)
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
