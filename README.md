@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/25
+**Last updated: 2023/07/26
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -249,6 +249,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) A Cross-Scale Hierarchical Transformer with Correspondence-Augmented Attention for inferring Bird's-Eye-View Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2304.03650.pdf)
 - (arXiv 2023.06) OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2306.01738.pdf)
 - (arXiv 2023.06) An Efficient Transformer for Simultaneous Learning of BEV and Lane Representations in 3D Lane Detection, [[Paper]](https://arxiv.org/pdf/2306.04927.pdf)
+- (arXiv 2023.07) HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird’s Eye View, [[Paper]](https://arxiv.org/pdf/2307.13510.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -1043,12 +1044,14 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Less is More: Focus Attention for Efficient DETR, [[Paper]](https://arxiv.org/pdf/2307.12612.pdf), [[Code]](https://github.com/huawei-noah/noah-research)
 - (arXiv 2023.07) DQ-Det: Learning Dynamic Query Combinations for Transformer-based Object Detection and Segmentation, [[Ppaer]](https://arxiv.org/pdf/2307.12239.pdf)
 - (arXiv 2023.07) Enhancing Your Trained DETRs with Box Refinement, [[Paper]](https://arxiv.org/pdf/2307.11828.pdf), [[Code]](https://github.com/YiqunChen1999/RefineBox)
+- (arXiv 2023.07) RecursiveDet: End-to-End Region-based Recursive Object Detection, [[Paper]](https://arxiv.org/pdf/2307.13619.pdf), [[Code]](https://github.com/bravezzzzzz/RecursiveDet)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
 - (arXiv 2022.06) XBound-Former: Toward Cross-scale Boundary Modeling in Transformers, [[Paper]](https://arxiv.org/pdf/2206.00806.pdf), [[Code]](https://github.com/jcwang123/xboundformer)
 - (arXiv 2022.06) Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.02985.pdf)
 - (arXiv 2022.06) SC-Transformer++: Structured Context Transformer for Generic Event Boundary Detection, [[Paper]](https://arxiv.org/pdf/2206.12634.pdf), [[Project]](https://github.com/ZhangGongjie/IMFA)
+- (arXiv 2023.07) CT-Net: Arbitrary-Shaped Text Detection via Contour Transformer, [[Paper]](https://arxiv.org/pdf/2307.13310.pdf)
 
 ### Enhancement
 - (arXiv 2021.11) U-shape Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf)
@@ -1183,6 +1186,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.06) Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition, [[Paper]](https://arxiv.org/pdf/2206.01441.pdf)
 - (arXiv 2022.06) GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation, [[Paper]](https://arxiv.org/pdf/2207.00106.pdf), [[Code]](https://github.com/markendo/GaitForeMer)
 - (arXiv 2022.10) Multi-view Gait Recognition based on Siamese Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.10421.pdf)
+- (arXiv 2023.07) GaitFormer: Revisiting Intrinsic Periodicity for Gait Recognition, [[Paper]](https://arxiv.org/pdf/2307.13259.pdf)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
@@ -2000,6 +2004,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) TransNuSeg: A Lightweight Multi-Task Transformer for Nuclei Segmentation, [[Paper]](https://arxiv.org/pdf/2307.08051.pdf), [[Code]](https://github.com/zhenqi-he/transnuseg)
 - (arXiv 2023.07) Meta-Transformer: A Unified Framework for Multimodal Learning, [[Paper]](https://arxiv.org/pdf/2307.10802.pdf), [[Project]](https://kxgong.github.io/meta_transformer/)
 - (arXiv 2023.07) ComPtr: Towards Diverse Bi-source Dense Prediction Tasks via A Simple yet General Complementary Transformer, [[Paper]](https://arxiv.org/pdf/2307.12349.pdf), [[Code]](https://github.com/lartpang/ComPtr)
+- (arXiv 2023.07) Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation, [[Paper]](https://arxiv.org/pdf/2307.13236.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -3095,6 +3100,7 @@ https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.03) ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance, [[Paper]](https://arxiv.org/pdf/2303.16894.pdf), [[Code]](https://github.com/ZiyuGuo99/ViewRefer3D)
 - (arXiv 2023.07) Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2307.09267.pdf)
 - (arXiv 2023.07) Advancing Visual Grounding with Scene Knowledge: Benchmark and Method, [[Paper]](https://arxiv.org/pdf/2307.11558.pdf), [[Code]](https://github.com/zhjohnchan/SK-VG)
+- (arXiv 2023.07) 3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2307.13363.pdf)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
