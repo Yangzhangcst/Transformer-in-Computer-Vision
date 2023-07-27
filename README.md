@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/26
+**Last updated: 2023/07/27
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -168,6 +168,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Multimodal Distillation for Egocentric Action Recognition, [[Paper]](https://arxiv.org/pdf/2307.07483.pdf)
 - (arXiv 2023.07) Human Action Recognition in Still Images Using ConViT, [[Paper]](https://arxiv.org/pdf/2307.08994.pdf)
 - (arXiv 2023.07) MSQNet: Actor-agnostic Action Recognition with Multi-modal Query, [[Paper]](https://arxiv.org/pdf/2307.10763.pdf), [[Code]](https://github.com/mondalanindya/MSQNet)
+- (arXiv 2023.07) Event-based Vision for Early Prediction of Manipulation Actions, [[Paper]](https://arxiv.org/pdf/2307.14332.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -184,6 +185,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) On enhancing the robustness of Vision Transformers: Defensive Diffusion, [[Paper]](https://arxiv.org/pdf/2305.08031.pdf), [[Code]](https://github.com/Muhammad-Huzaifaa/Defensive_Diffusion)
 - (arXiv 2023.06) Pre-trained transformer for adversarial purification, [[Paper]](https://arxiv.org/pdf/2306.01762.pdf)
 - (arXiv 2023.07) Random Position Adversarial Patch for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.04066.pdf)
+- (arXiv 2023.07) Enhanced Security against Adversarial Examples Using a Random Ensemble of Encrypted Vision Transformer Models, [[Paper]](https://arxiv.org/pdf/2307.13985.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -726,6 +728,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) R-Cut: Enhancing Explainability in Vision Transformers with Relationship Weighted Out and Cut, [[Paper]](https://arxiv.org/pdf/2307.09050.pdf)
 - (arXiv 2023.07) Learned Thresholds Token Merging and Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.10780.pdf)
 - (arXiv 2023.07) Sparse then Prune: Toward Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.11988.pdf), [[Code]](https://github.com/yogiprsty/Sparse-ViT)
+- (arXiv 2023.07) Sparse Double Descent in Vision Transformers: real or phantom threat?, [[Paper]](https://arxiv.org/pdf/2307.14253.pdf)
+- (arXiv 2023.07) Adaptive Frequency Filters As Efficient Global Token Mixers, [[Paper]](https://arxiv.org/pdf/2307.14008.pdf)
+- (arXiv 2023.07) E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning, [[Paper]](https://arxiv.org/pdf/2307.13770.pdf), [[Code]](https://github.com/ChengHan111/E2VPT)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1783,6 +1788,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.07) Pathology-and-genomics Multimodal Transformer for Survival Outcome Prediction, [[Paper]](https://arxiv.org/pdf/2307.11952.pdf)
 - (arxiv 2023.07) SCPAT-GAN: Structural Constrained and Pathology Aware Convolutional Transformer-GAN for Virtual Histology Staining of Human Coronary OCT images, [[Paper]](https://arxiv.org/pdf/2307.12138.pdf)
 - (arxiv 2023.07) Simulation of Arbitrary Level Contrast Dose in MRI Using an Iterative Global Transformer Model, [[Paper]](https://arxiv.org/pdf/2307.11980.pdf)
+- (arXiv 2023.07) AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets, [[Paper]](https://arxiv.org/pdf/2307.13897.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2473,6 +2479,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Burstormer: Burst Image Restoration and Enhancement Transformer, [[Paper]](https://arxiv.org/pdf/2304.01194.pdf), [[Code]](http://github.com/akshaydudhane16/Burstormer)
 - (arXiv 2023.05) RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration, [[Paper]](https://arxiv.org/pdf/2305.11474.pdf)
 - (arXiv 2023.05) GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions, [[Paper]](https://arxiv.org/pdf/2305.17863.pdf)
+- (arXiv 2023.07) On the unreasonable vulnerability of transformers for image restoration – and an easy fix, [[Paper]](https://arxiv.org/pdf/2307.13856.pdf)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
@@ -2788,6 +2795,7 @@ https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.07) Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2307.02974.pdf), [[Code]](https://github.com/google-research/pix2seq)
 - (arXiv 2023.07) MaxSR: Image Super-Resolution Using Improved MaxViT, [[Paper]](https://arxiv.org/pdf/2307.07240.pdf)
 - (arXiv 2023.07) DARTS: Double Attention Reference-based Transformer for Super-resolution, [[Paper]](https://arxiv.org/pdf/2307.08837.pdf)
+- (arXiv 2023.07) ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2307.14010.pdf), [[Code]](https://github.com/Rexzhan/ESSAformer/tree/main)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -2903,6 +2911,7 @@ https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.07) LightFormer: An End-to-End Model for Intersection Right-of-Way Recognition Using Traffic Light Signals and an Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2307.07196.pdf)
 - (arXiv 2023.07) Light-Weight Vision Transformer with Parallel Local and Global Self-Attention, [[Paper]](https://arxiv.org/pdf/2307.09120.pdf)
 - (arXiv 2023.07) OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios, [[Paper]](https://arxiv.org/pdf/2307.10934.pdf)
+- (arXiv 2023.07) ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation, [[Paper]](https://arxiv.org/pdf/2307.14187.pdf), [[Code]](https://kuis-ai.github.io/adapt)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
