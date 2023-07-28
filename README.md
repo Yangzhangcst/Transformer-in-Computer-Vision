@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/27
+**Last updated: 2023/07/28
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -848,6 +848,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) Deep Convolutional Pooling Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2303.07033.pdf)
 - (arXiv 2023.04) Deepfake Detection with Deep Learning: Convolutional Neural Networks versus Transformers, [[Paper]](https://arxiv.org/pdf/2304.03698.pdf)
 - (arXiv 2023.07) Deepfake Video Detection Using Generative Convolutional Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.07036.pdf), [[Code]](https://github.com/erprogs/GenConViT)
+- (arXiv 2023.07) Self-Supervised Graph Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2307.15019.pdf)
 
 ### Diffusion
 - (arXiv 2022.12) Scalable Diffusion Models with Transformers, [[Paper]](https://arxiv.org/pdf/2212.09748.pdf), [[Code]](https://www.wpeebles.com/DiT)
@@ -2114,6 +2115,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) TextFormer: A Query-based End-to-End Text Spotter with Mixed Supervision, [[Paper]](https://arxiv.org/pdf/2306.03377.pdf)
 - (arXiv 2023.06) Exploring Transformers for On-Line Handwritten Signature Verification, [[Paper]](https://arxiv.org/pdf/2307.01663.pdf)
 - (arXiv 2023.07) DocTr: Document Transformer for Structured Information Extraction in Documents, [[Paper]](https://arxiv.org/pdf/2307.07929.pdf)
+- (arXiv 2023.07) A Transformer-based Approach for Arabic Offline Handwritten Text Recognition, [[Paper]](https://arxiv.org/pdf/2307.15045.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -3392,7 +3394,7 @@ https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.07) S2R-ViT for Multi-Agent Cooperative Perception: Bridging the Gap from Simulation to Reality, [[Paper]](https://arxiv.org/pdf/2307.07935.pdf)
 - (arXiv 2023.07) U-shaped Transformer: Retain High Frequency Context in Time Series Analysis, [[Paper]](https://arxiv.org/pdf/2307.09019.pdf)
 - (arXiv 2023.07) Entropy Transformer Networks: A Learning Approach via Tangent Bundle Data Manifold, [[Paper]](https://arxiv.org/pdf/2307.12517.pdf)
-
+- (arXiv 2023.07) IML-ViT: Image Manipulation Localization by Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.14863.pdf), [[Code]](https://github.com/SunnyHaze/IML-ViT)
 ## Contact & Feedback
 
 If you have any suggestions about this project, feel free to contact me.
