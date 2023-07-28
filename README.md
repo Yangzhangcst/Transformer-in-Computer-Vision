@@ -731,6 +731,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Sparse Double Descent in Vision Transformers: real or phantom threat?, [[Paper]](https://arxiv.org/pdf/2307.14253.pdf)
 - (arXiv 2023.07) Adaptive Frequency Filters As Efficient Global Token Mixers, [[Paper]](https://arxiv.org/pdf/2307.14008.pdf)
 - (arXiv 2023.07) E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning, [[Paper]](https://arxiv.org/pdf/2307.13770.pdf), [[Code]](https://github.com/ChengHan111/E2VPT)
+- (arXiv 2023.07) Pre-training Vision Transformers with Very Limited Synthesized Images, [[Paper]](https://arxiv.org/pdf/2307.14710.pdf), [[Code]](https://github.com/ryoo-nakamura/OFDB/)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2160,6 +2161,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) A Generalist Framework for Panoptic Segmentation of Images and Videos, [[Paper]](https://arxiv.org/pdf/2210.06366.pdf)
 - (arXiv 2022.10) Pointly-Supervised Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2210.13950.pdf), [[Code]](https://github.com/BraveGroup/PSPS.git)
 - (arXiv 2023.03) Position-Guided Point Cloud Panoptic Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2303.13509.pdf), [[Code]](https://github.com/SmartBot-PJLab/P3Former)
+- (arXiv 2023.07) Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning, [[Paper]](https://arxiv.org/pdf/2307.14786.pdf)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
@@ -2266,6 +2268,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) PSGformer: Enhancing 3D Point Cloud Instance Segmentation via Precise Semantic Guidance, [[Paper]](https://arxiv.org/pdf/2307.07708.pdf)
 - (arXiv 2023.07) PG-RCNN: Semantic Surface Point Generation for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2307.12637.pdf), [[Code](https://github.com/quotation2520/PG-RCNN)
 - (arXiv 2023.07) Two-stream Multi-level Dynamic Point Transformer for Two-person Interaction Recognition, [[Paper]](https://arxiv.org/pdf/2307.11973.pdf)
+- (arXiv 2023.07) pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2307.14777.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
