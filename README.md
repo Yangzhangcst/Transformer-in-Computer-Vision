@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/07/28
+**Last updated: 2023/07/31
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1052,6 +1052,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) DQ-Det: Learning Dynamic Query Combinations for Transformer-based Object Detection and Segmentation, [[Ppaer]](https://arxiv.org/pdf/2307.12239.pdf)
 - (arXiv 2023.07) Enhancing Your Trained DETRs with Box Refinement, [[Paper]](https://arxiv.org/pdf/2307.11828.pdf), [[Code]](https://github.com/YiqunChen1999/RefineBox)
 - (arXiv 2023.07) RecursiveDet: End-to-End Region-based Recursive Object Detection, [[Paper]](https://arxiv.org/pdf/2307.13619.pdf), [[Code]](https://github.com/bravezzzzzz/RecursiveDet)
+- (arXiv 2023.07) SimDETR: Simplifying self-supervised pretraining for DETR, [[Paper]](https://arxiv.org/pdf/2307.15697.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2013,6 +2014,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Meta-Transformer: A Unified Framework for Multimodal Learning, [[Paper]](https://arxiv.org/pdf/2307.10802.pdf), [[Project]](https://kxgong.github.io/meta_transformer/)
 - (arXiv 2023.07) ComPtr: Towards Diverse Bi-source Dense Prediction Tasks via A Simple yet General Complementary Transformer, [[Paper]](https://arxiv.org/pdf/2307.12349.pdf), [[Code]](https://github.com/lartpang/ComPtr)
 - (arXiv 2023.07) Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation, [[Paper]](https://arxiv.org/pdf/2307.13236.pdf)
+- (arXiv 2023.07) Prompt Guided Transformer for Multi-Task Dense Prediction, [[Paper]](https://arxiv.org/pdf/2307.15362.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2892,6 +2894,7 @@ https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.07) Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers, [[Paper]](https://arxiv.org/pdf/2307.04129.pdf)
 - (arXiv 2023.07) CoTracker: It is Better to Track Together, [[Paper]](https://arxiv.org/pdf/2307.07635.pdf), [[Code]](https://co-tracker.github.io/)
 - (arXiv 2023.07) ConTrack: Contextual Transformer for Device Tracking in X-ray, [[Paper]](https://arxiv.org/pdf/2307.07541.pdf)
+- (arXiv 2023.07) MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2307.15700.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -3136,6 +3139,7 @@ https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.05) Is a Video worth n×n Images? A Highly Efficient Approach to Transformer-based Video Question Answering, [[Paper]](https://arxiv.org/pdf/2305.09107.pdf)
 - (arXiv 2023.06) LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2306.00758.pdf), [[Code]](https://git.tu-berlin.de/rsim/lit4rsvqa)
 - (arXiv 2023.07) Discovering Spatio-Temporal Rationales for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2307.12058.pdf), [[Code]](https://github.com/yl3800/TranSTR)
+- (arXiv 2023.07) BARTPhoBEiT: Pre-trained Sequence-to-Sequence and Image Transformers Models for Vietnamese Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2307.15335.pdf)
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
@@ -3398,6 +3402,8 @@ https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.07) U-shaped Transformer: Retain High Frequency Context in Time Series Analysis, [[Paper]](https://arxiv.org/pdf/2307.09019.pdf)
 - (arXiv 2023.07) Entropy Transformer Networks: A Learning Approach via Tangent Bundle Data Manifold, [[Paper]](https://arxiv.org/pdf/2307.12517.pdf)
 - (arXiv 2023.07) IML-ViT: Image Manipulation Localization by Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.14863.pdf), [[Code]](https://github.com/SunnyHaze/IML-ViT)
+- (arXiv 2023.07) DocDeshadower: Frequency-aware Transformer for Document Shadow Removal, [[Paper]](https://arxiv.org/pdf/2307.15318.pdf)
+  
 ## Contact & Feedback
 
 If you have any suggestions about this project, feel free to contact me.
