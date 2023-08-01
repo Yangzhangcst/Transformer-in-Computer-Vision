@@ -1802,6 +1802,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer, [[Paper]](https://arxiv.org/pdf/2303.16160.pdf), [[Project]](https://osx-ubody.github.io/)
 - (arXiv 2023.07) MeT: A Graph Transformer for Semantic Segmentation of 3D Meshes, [[Paper]](https://arxiv.org/pdf/2307.01115.pdf), [[Project]](https://osx-ubody.github.io/)
 - (arXiv 2023.07) 3Deformer: A Common Framework for Image-Guided Mesh Deformation, [[Paper]](https://arxiv.org/pdf/2307.09892.pdf), [[Project]](https://osx-ubody.github.io/)
+- (arXiv 2023.07) JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2307.16377.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
