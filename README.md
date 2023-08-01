@@ -1230,6 +1230,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Q-RBSA: High-Resolution 3D EBSD Map Generation Using An Efficient Quaternion Transformer Network, [[Paper]](https://arxiv.org/pdf/2303.10722.pdf)
 - (arXiv 2023.05) Reinforcement Learning finetuned Vision-Code Transformer for UI-to-Code Generation, [[Paper]](https://arxiv.org/pdf/2305.14637.pdf)
 - (arXiv 2023.06) A Conditional Generative Chatbot using Transformer Model, [[Paper]](https://arxiv.org/pdf/2306.02074.pdf)
+- (arXiv 2023.07) StylePrompter: All Styles Need Is Attention, [[Paper]](https://arxiv.org/pdf/2307.16151.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/StylePrompter)
+- (arXiv 2023.07) Enhancing Object Detection in Ancient Documents with Synthetic Data Generation and Transformer-Based Models, [[Paper]](https://arxiv.org/pdf/2307.16005.pdf)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
@@ -1792,6 +1794,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.07) SCPAT-GAN: Structural Constrained and Pathology Aware Convolutional Transformer-GAN for Virtual Histology Staining of Human Coronary OCT images, [[Paper]](https://arxiv.org/pdf/2307.12138.pdf)
 - (arxiv 2023.07) Simulation of Arbitrary Level Contrast Dose in MRI Using an Iterative Global Transformer Model, [[Paper]](https://arxiv.org/pdf/2307.11980.pdf)
 - (arXiv 2023.07) AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets, [[Paper]](https://arxiv.org/pdf/2307.13897.pdf)
+- (arXiv 2023.07) CoVid-19 Detection leveraging Vision Transformers and Explainable AI, [[Paper]](https://arxiv.org/pdf/2307.16033.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1802,7 +1805,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer, [[Paper]](https://arxiv.org/pdf/2303.16160.pdf), [[Project]](https://osx-ubody.github.io/)
 - (arXiv 2023.07) MeT: A Graph Transformer for Semantic Segmentation of 3D Meshes, [[Paper]](https://arxiv.org/pdf/2307.01115.pdf), [[Project]](https://osx-ubody.github.io/)
 - (arXiv 2023.07) 3Deformer: A Common Framework for Image-Guided Mesh Deformation, [[Paper]](https://arxiv.org/pdf/2307.09892.pdf), [[Project]](https://osx-ubody.github.io/)
-- (arXiv 2023.07) JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2307.16377.pdf)
+- (arXiv 2023.07) JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2307.16377.pdf), [[Code]](https://github.com/xljh0520/JOTR)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -1836,6 +1839,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Imitating Task and Motion Planning with Visuomotor Transformers, [[Paper]](https://arxiv.org/pdf/2305.16309.pdf), [[Code]](https://mihdalal.github.io/optimus/)
 - (arXiv 2023.06) PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction, [[Paper]](https://arxiv.org/pdf/2306.03374.pdf)
 - (arXiv 2023.06) ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer, [[Paper]](https://arxiv.org/pdf/2306.05688.pdf), [[Code]](https://github.com/ZAX130/SmileCode)
+- (arXiv 2023.07) TransFusion: A Practical and Effective Transformer-based Diffusion Model for 3D Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2307.16106.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2016,6 +2020,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) ComPtr: Towards Diverse Bi-source Dense Prediction Tasks via A Simple yet General Complementary Transformer, [[Paper]](https://arxiv.org/pdf/2307.12349.pdf), [[Code]](https://github.com/lartpang/ComPtr)
 - (arXiv 2023.07) Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation, [[Paper]](https://arxiv.org/pdf/2307.13236.pdf)
 - (arXiv 2023.07) Prompt Guided Transformer for Multi-Task Dense Prediction, [[Paper]](https://arxiv.org/pdf/2307.15362.pdf)
+- (arXiv 2023.07) Audio-Visual Segmentation by Exploring Cross-Modal Mutual Semantics, [[Paper]](https://arxiv.org/pdf/2307.16005)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -3101,6 +3106,7 @@ https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.06) TeleViT: Teleconnection-driven Transformers Improve Subseasonal to Seasonal Wildfire Forecasting, [[Paper]](https://arxiv.org/pdf/2306.10940.pdf), [[Code]](https://github.com/Orion-Ai-Lab/TeleViT)
 - (arXiv 2023.07) Efficient Convolution and Transformer-Based Network for Video Frame Interpolation, [[Paper]](https://arxiv.org/pdf/2307.06443.pdf)
 - (arXiv 2023.07) Hierarchical Spatiotemporal Transformers for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2307.08263.pdf)
+- (arXiv 2023.07) Video Frame Interpolation with Flow Transformer, [[Paper]](https://arxiv.org/pdf/2307.16144.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
