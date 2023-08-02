@@ -1797,6 +1797,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) CoVid-19 Detection leveraging Vision Transformers and Explainable AI, [[Paper]](https://arxiv.org/pdf/2307.16033.pdf)
 - (arXiv 2023.08) ViT2EEG: Leveraging Hybrid Pretrained Vision Transformers for EEG Data, [[Paper]](https://arxiv.org/pdf/2308.00454.pdf)
 - (arXiv 2023.08) Ensemble Learning with Residual Transformer for Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2308.00128.pdf)
+- (arXiv 2023.08) DINO-CXR: A self supervised method based on vision transformer for chest X-ray classification, [[Paper]](https://arxiv.org/pdf/2308.00475.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
