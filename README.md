@@ -205,6 +205,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Multiresolution Feature Guidance Based Transformer for Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2305.14880.pdf)
 - (arXiv 2023.06) Efficient Anomaly Detection with Budget Annotation Using Semi-Supervised Residual Transformer, [[Paper]](https://arxiv.org/pdf/2306.03492.pdf), [[Code]](https://github.com/BeJane/Semi_REST)
 - (arXiv 2023.07) SelFormaly: Towards Task-Agnostic Unified Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2307.12540.pdf)
+- (arXiv 2023.08) Patch-wise Auto-Encoder for Visual Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2308.00429.pdf)
 
 ### Assessment
 - (arXiv 2021.01) Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
@@ -732,6 +733,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Adaptive Frequency Filters As Efficient Global Token Mixers, [[Paper]](https://arxiv.org/pdf/2307.14008.pdf)
 - (arXiv 2023.07) E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning, [[Paper]](https://arxiv.org/pdf/2307.13770.pdf), [[Code]](https://github.com/ChengHan111/E2VPT)
 - (arXiv 2023.07) Pre-training Vision Transformers with Very Limited Synthesized Images, [[Paper]](https://arxiv.org/pdf/2307.14710.pdf), [[Code]](https://github.com/ryoo-nakamura/OFDB/)
+- (arXiv 2023.08) LGViT: Dynamic Early Exiting for Accelerating Vision Transformer, [[Paper]](https://arxiv.org/abs/2308.00255)
+- (arXiv 2023.08) Performance Evaluation of Swin Vision Transformer Model using Gradient Accumulation Optimization Technique, [[Paper]](https://arxiv.org/pdf/2308.00197.pdf)
+- (arXiv 2023.08) FLatten Transformer: Vision Transformer using Focused Linear Attention, [[Paper]](https://arxiv.org/pdf/2308.00442.pdf), [[Code]](https://github.com/LeapLabTHU/FLatten-Transformer)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1355,6 +1359,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Vision Transformers Are Good Mask Auto-Labelers, [[Paper]](https://arxiv.org/pdf/2305.04609.pdf), [[Code]](https://github.com/ayanban011/SwinDocSegmenter)
 - (arXiv 2023.06) RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model, [[Paper]](https://arxiv.org/pdf/2306.16269.pdf), [[Code]](https://kyanchen.github.io/RSPrompter)
 - (arXiv 2023.06) CalibNet: Dual-branch Cross-modal Calibration for RGB-D Salient Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2307.08098.pdf), [[Code]](https://github.com/PJLallen/CalibNet)
+- (arXiv 2023.08) Partitioned Saliency Ranking with Dense Pyramid Transformers, [[Paper]](https://arxiv.org/pdf/2308.00236.pdf), [[Code]](https://github.com/ssecv/PSR)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
