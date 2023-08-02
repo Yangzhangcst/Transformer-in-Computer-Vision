@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/01
+**Last updated: 2023/08/02
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1795,6 +1795,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.07) Simulation of Arbitrary Level Contrast Dose in MRI Using an Iterative Global Transformer Model, [[Paper]](https://arxiv.org/pdf/2307.11980.pdf)
 - (arXiv 2023.07) AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets, [[Paper]](https://arxiv.org/pdf/2307.13897.pdf)
 - (arXiv 2023.07) CoVid-19 Detection leveraging Vision Transformers and Explainable AI, [[Paper]](https://arxiv.org/pdf/2307.16033.pdf)
+- (arXiv 2023.08) ViT2EEG: Leveraging Hybrid Pretrained Vision Transformers for EEG Data, [[Paper]](https://arxiv.org/pdf/2308.00454.pdf)
+- (arXiv 2023.08) Ensemble Learning with Residual Transformer for Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2308.00128.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
