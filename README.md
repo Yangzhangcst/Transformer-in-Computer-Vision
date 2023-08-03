@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/02
+**Last updated: 2023/08/03
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1057,6 +1057,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Enhancing Your Trained DETRs with Box Refinement, [[Paper]](https://arxiv.org/pdf/2307.11828.pdf), [[Code]](https://github.com/YiqunChen1999/RefineBox)
 - (arXiv 2023.07) RecursiveDet: End-to-End Region-based Recursive Object Detection, [[Paper]](https://arxiv.org/pdf/2307.13619.pdf), [[Code]](https://github.com/bravezzzzzz/RecursiveDet)
 - (arXiv 2023.07) SimDETR: Simplifying self-supervised pretraining for DETR, [[Paper]](https://arxiv.org/pdf/2307.15697.pdf)
+- (arXiv 2023.08) Revisiting DETR Pre-training for Object Detection, [[Paper]](https://arxiv.org/pdf/2308.01300.pdf)
+- (arXiv 2023.08) UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation, [[Paper]](https://arxiv.org/pdf/2308.01146.pdf), [[Code]](https://github.com/zhu-xlab/UCDFormer)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2029,6 +2031,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation, [[Paper]](https://arxiv.org/pdf/2307.13236.pdf)
 - (arXiv 2023.07) Prompt Guided Transformer for Multi-Task Dense Prediction, [[Paper]](https://arxiv.org/pdf/2307.15362.pdf)
 - (arXiv 2023.07) Audio-Visual Segmentation by Exploring Cross-Modal Mutual Semantics, [[Paper]](https://arxiv.org/pdf/2307.16005)
+- (arXiv 2023.08) FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2308.01006.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2741,8 +2744,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.07) Guided Patch-Grouping Wavelet Transformer with Spatial Congruence for Ultra-High Resolution Segmentation, [[Paper]](https://arxiv.org/pdf/2307.00711.pdf)
 - (arxiv 2023.07) Learning Content-enhanced Mask Transformer for Domain Generalized Urban-Scene Segmentation, [[Paper]](https://arxiv.org/pdf/2307.00371.pdf)
 - (arxiv 2023.07) LEST: Large-scale LiDAR Semantic Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2307.09367.pdf)
-- (arXiv 2023.07) A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation, [[Paper]](
-https://arxiv.org/pdf/2307.12574.pdf)
+- (arXiv 2023.07) A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2307.12574.pdf)
+- (arXiv 2023.08) Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2307.12574.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
