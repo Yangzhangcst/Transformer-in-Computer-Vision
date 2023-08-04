@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/03
+**Last updated: 2023/08/04
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1059,6 +1059,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) SimDETR: Simplifying self-supervised pretraining for DETR, [[Paper]](https://arxiv.org/pdf/2307.15697.pdf)
 - (arXiv 2023.08) Revisiting DETR Pre-training for Object Detection, [[Paper]](https://arxiv.org/pdf/2308.01300.pdf)
 - (arXiv 2023.08) UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation, [[Paper]](https://arxiv.org/pdf/2308.01146.pdf), [[Code]](https://github.com/zhu-xlab/UCDFormer)
+- (arXiv 2023.08) DETR Doesn’t Need Multi-Scale or Locality Design, [[Paper]](https://arxiv.org/pdf/2308.01904.pdf), [[Code]](https://github.com/impiga/Plain-DETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2032,6 +2033,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Prompt Guided Transformer for Multi-Task Dense Prediction, [[Paper]](https://arxiv.org/pdf/2307.15362.pdf)
 - (arXiv 2023.07) Audio-Visual Segmentation by Exploring Cross-Modal Mutual Semantics, [[Paper]](https://arxiv.org/pdf/2307.16005)
 - (arXiv 2023.08) FusionAD: Multi-modality Fusion for Prediction and Planning Tasks of Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2308.01006.pdf)
+- (arXiv 2023.08) Multimodal Neurons in Pretrained Text-Only Transformers, [[Paper]](https://arxiv.org/pdf/2308.01544.pdf), [[Project]](https://mmns.csail.mit.edu/)
+- (arXiv 2023.08) A vision transformer-based framework for knowledge transfer from multi-modal to mono-modal lymphoma subtyping models, [[Paper]](https://arxiv.org/pdf/2308.01328.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2181,6 +2184,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Pointly-Supervised Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2210.13950.pdf), [[Code]](https://github.com/BraveGroup/PSPS.git)
 - (arXiv 2023.03) Position-Guided Point Cloud Panoptic Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2303.13509.pdf), [[Code]](https://github.com/SmartBot-PJLab/P3Former)
 - (arXiv 2023.07) Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning, [[Paper]](https://arxiv.org/pdf/2307.14786.pdf)
+- (arXiv 2023.08) LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment, [[Paper]](https://arxiv.org/pdf/2308.01686.pdf), [[Code]](https://github.com/zhangzw12319/lcps.git)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
