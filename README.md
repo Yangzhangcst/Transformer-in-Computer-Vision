@@ -1780,19 +1780,19 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) HVTSurv: Hierarchical Vision Transformer for Patient-Level Survival Prediction from Whole Slide Image, [[Paper]](https://arxiv.org/pdf/2306.17373.pdf),[[Code]](https://github.com/szc19990412/HVTSurv)
 - (arXiv 2023.07) MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets, [[Paper]](https://arxiv.org/pdf/2307.02100.pdf),[[Code]](https://github.com/siyi-wind/MDViT)
 - (arXiv 2023.07) Multi-Scale Prototypical Transformer for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2307.02308.pdf)
-- (arXiv 2023.07) Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification, [[Paper]](https://arxiv.org/pdf/2307.01759.pdf),[[Code]](https://github.com/Lugges991/METAFormer）
-- (arXiv 2023.07) H-DenseFormer: An Efficient Hybrid Densely Connected Transformer for Multimodal Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2307.01486.pdf),[[Code]](https://github.com/shijun18/H-DenseFormer）
+- (arXiv 2023.07) Pretraining is All You Need: A Multi-Atlas Enhanced Transformer Framework for Autism Spectrum Disorder Classification, [[Paper]](https://arxiv.org/pdf/2307.01759.pdf),[[Code]](https://github.com/Lugges991/METAFormer)
+- (arXiv 2023.07) H-DenseFormer: An Efficient Hybrid Densely Connected Transformer for Multimodal Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2307.01486.pdf),[[Code]](https://github.com/shijun18/H-DenseFormer)
 - (arXiv 2023.07) Merging-Diverging Hybrid Transformer Networks for Survival Prediction in Head and Neck Cancer, [[Paper]](https://arxiv.org/pdf/2307.03427.pdf)
-- (arXiv 2023.07) Source-Free Open-Set Domain Adaptation for Histopathological Images via Distilling Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.04596.pdf),[[Code]](https://github.com/LTS5/Proto-SF-OSDA）
+- (arXiv 2023.07) Source-Free Open-Set Domain Adaptation for Histopathological Images via Distilling Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.04596.pdf),[[Code]](https://github.com/LTS5/Proto-SF-OSDA)
 - (arXiv 2023.07) Automatic diagnosis of knee osteoarthritis severity using Swin transformer, [[Paper]](https://arxiv.org/pdf/2307.04442.pdf)
-- (arXiv 2023.07) Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2307.05314.pdf),[[Code]](https://github.com/pengfeiliHEU/MUMC）
+- (arXiv 2023.07) Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2307.05314.pdf),[[Code]](https://github.com/pengfeiliHEU/MUMC)
 - (arXiv 2023.07) SwiFT: Swin 4D fMRI Transformer, [[Paper]](https://arxiv.org/pdf/2307.05916.pdf)
 - (arXiv 2023.07) A Hierarchical Transformer Encoder to Improve Entire Neoplasm Segmentation on Whole Slide Image of Hepatocellular Carcinoma, [[Paper]](https://arxiv.org/pdf/2307.05800.pdf)
 - (arXiv 2023.07) UGCANet: A Unified Global Context-Aware Transformer-based Network with Feature Alignment for Endoscopic Image Analysis, [[Paper]](https://arxiv.org/pdf/2307.06260.pdf)
 - (arXiv 2023.07) RaBiT: An Efficient Transformer using Bidirectional Feature Pyramid Network with Reverse Attention for Colon Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2307.06420.pdf)
-- (arXiv 2023.07) Transformer-based end-to-end classification of variable-length volumetric data, [[Paper]](https://arxiv.org/pdf/2307.06666.pdf),[[Code]](https://github.com/marziehoghbaie/VLFAT）
+- (arXiv 2023.07) Transformer-based end-to-end classification of variable-length volumetric data, [[Paper]](https://arxiv.org/pdf/2307.06666.pdf),[[Code]](https://github.com/marziehoghbaie/VLFAT)
 - (arXiv 2023.07) TriFormer: A Multi-modal Transformer Framework For Mild Cognitive Impairment Conversion Prediction, [[Paper]](https://arxiv.org/pdf/2307.07177.pdf)
-- (arXiv 2023.07) MUVF-YOLOX: A Multi-modal Ultrasound Video Fusion Network for Renal Tumor Diagnosis, [[Paper]](https://arxiv.org/pdf/2307.07807.pdf),[[Code]](https://github.com/JeunyuLi/MUAF）
+- (arXiv 2023.07) MUVF-YOLOX: A Multi-modal Ultrasound Video Fusion Network for Renal Tumor Diagnosis, [[Paper]](https://arxiv.org/pdf/2307.07807.pdf),[[Code]](https://github.com/JeunyuLi/MUAF)
 - (arXiv 2023.07) Study of Vision Transformers for Covid-19 Detection from Chest X-rays, [[Paper]](https://arxiv.org/pdf/2307.09402.pdf)
 - (arXiv 2023.07) TUNeS: A Temporal U-Net with Self-Attention for Video-based Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2307.09997.pdf)
 - (arXiv 2023.07) GLSFormer : Gated - Long, Short Sequence Transformer for Step Recognition in Surgical Videos, [[Paper]](https://arxiv.org/pdf/2307.11081.pdf)
