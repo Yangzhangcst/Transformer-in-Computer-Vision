@@ -725,7 +725,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Patch n' Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution, [[Paper]](https://arxiv.org/pdf/2307.06304.pdf)
 - (arXiv 2023.07) What Happens During Finetuning of Vision Transformers: An Invariance Based Investigation, [[Paper]](https://arxiv.org/pdf/2307.06006.pdf)
 - (arXiv 2023.07) Scale-Aware Modulation Meet Transformer, [[Paper]](https://arxiv.org/pdf/2307.08579.pdf), [[Code]](https://github.com/AFeng-x/SMT)
-- (arXiv 2023.07) RepViT: Revisiting Mobile CNN From ViT Perspective, [[Paper]](https://arxiv.org/pdf/2307.09283.pdf), [[Code]]https://github.com/jameslahm/RepViT)
+- (arXiv 2023.07) RepViT: Revisiting Mobile CNN From ViT Perspective, [[Paper]](https://arxiv.org/pdf/2307.09283.pdf), [[Code]](https://github.com/jameslahm/RepViT)
 - (arXiv 2023.07) R-Cut: Enhancing Explainability in Vision Transformers with Relationship Weighted Out and Cut, [[Paper]](https://arxiv.org/pdf/2307.09050.pdf)
 - (arXiv 2023.07) Learned Thresholds Token Merging and Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.10780.pdf)
 - (arXiv 2023.07) Sparse then Prune: Toward Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.11988.pdf), [[Code]](https://github.com/yogiprsty/Sparse-ViT)
