@@ -2818,7 +2818,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Local-Global Transformer Enhanced Unfolding Network for Pan-sharpening, [[Paper]](https://arxiv.org/pdf/2304.14612.pdf)
 - (arXiv 2023.05) A Vision Transformer Approach for Efficient Near-Field Irregular SAR Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.02074.pdf)
 - (arXiv 2023.05) Hybrid Transformer and CNN Attention Network for Stereo Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2305.05177.pdf)
-- (arXiv 2023.05) Efficient Mixed Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.11403.pdf), [[Code]](https://github. com/Fried-Rice-Lab/EMTT)
+- (arXiv 2023.05) Efficient Mixed Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2305.11403.pdf), [[Code]](https://github.com/Fried-Rice-Lab/EMTT)
 - (arXiv 2023.05) FIT: Far-reaching Interleaved Transformers, [[Paper]](https://arxiv.org/pdf/2305.12689.pdf), [[Code]](https://github.com/google-research/pix2seq)
 - (arXiv 2023.07) Cross-Spatial Pixel Integration and Cross-Stage Feature Fusion Based Transformer Network for Remote Sensing Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2307.02974.pdf)
 - (arXiv 2023.07) MaxSR: Image Super-Resolution Using Improved MaxViT, [[Paper]](https://arxiv.org/pdf/2307.07240.pdf)
