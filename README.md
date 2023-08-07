@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/04
+**Last updated: 2023/08/07
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -293,6 +293,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Text with Knowledge Graph Augmented Transformer for Video Captioning, [[Paper]](https://arxiv.org/pdf/2303.12423.pdf)
 - (arXiv 2023.05) Transforming Visual Scene Graphs to Image Captions, [[Paper]](https://arxiv.org/pdf/2305.02177.pdf)
 - (arXiv 2023.07) Embedded Heterogeneous Attention Transformer for Cross-lingual Image Captioning, [[Paper]](https://arxiv.org/pdf/2307.09915.pdf)
+- (arXiv 2023.08) RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension, [[Paper]](https://arxiv.org/pdf/2308.02299.pdf), [[Code]](https://github.com/mightyzau/RegionBLIP)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -736,6 +737,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) LGViT: Dynamic Early Exiting for Accelerating Vision Transformer, [[Paper]](https://arxiv.org/abs/2308.00255)
 - (arXiv 2023.08) Performance Evaluation of Swin Vision Transformer Model using Gradient Accumulation Optimization Technique, [[Paper]](https://arxiv.org/pdf/2308.00197.pdf)
 - (arXiv 2023.08) FLatten Transformer: Vision Transformer using Focused Linear Attention, [[Paper]](https://arxiv.org/pdf/2308.00442.pdf), [[Code]](https://github.com/LeapLabTHU/FLatten-Transformer)
+- (arXiv 2023.08) A Multidimensional Analysis of Social Biases in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.01948.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1806,6 +1808,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) ViT2EEG: Leveraging Hybrid Pretrained Vision Transformers for EEG Data, [[Paper]](https://arxiv.org/pdf/2308.00454.pdf)
 - (arXiv 2023.08) Ensemble Learning with Residual Transformer for Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2308.00128.pdf)
 - (arXiv 2023.08) DINO-CXR: A self supervised method based on vision transformer for chest X-ray classification, [[Paper]](https://arxiv.org/pdf/2308.00475.pdf)
+- (arXiv 2023.08) Breast Ultrasound Tumor Classification Using a Hybrid Multitask CNN-Transformer Network, [[Paper]](https://arxiv.org/pdf/2308.02101.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2370,6 +2373,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) TransPose: A Transformer-based 6D Object Pose Estimation Network with Depth Refinement, [[Paper]](https://arxiv.org/pdf/2307.05561.pdf)
 - (arXiv 2023.07) YOLOPose V2: Understanding and Improving Transformer-based 6D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2307.11550.pdf)
 - (arXiv 2023.07) TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation, [[Paper]](https://arxiv.org/pdf/2307.12400.pdf), [[Code]](https://progress.eecs.umich.edu/projects/transnet/)
+- (arXiv 2023.08) Scene-aware Human Pose Generation using Transformer, [[Paper]](https://arxiv.org/pdf/2308.02177.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2428,6 +2432,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) MASK-CNN-Transformer For Real-Time Multi-Label Weather Recognition, [[Paper]](https://arxiv.org/pdf/2304.14857.pdf)
 - (arXiv 2023.05) TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition, [[Paper]](https://arxiv.org/pdf/2305.18013.pdf)
 - (arXiv 2023.07) Convolutional Transformer for Autonomous Recognition and Grading of Tomatoes Under Various Lighting, Occlusion, and Ripeness Conditions, [[Paper]](https://arxiv.org/pdf/2307.01530.pdf)
+- (arXiv 2023.08) M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition, [[Paper]](https://arxiv.org/pdf/2308.02161.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -2750,6 +2755,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.07) LEST: Large-scale LiDAR Semantic Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2307.09367.pdf)
 - (arXiv 2023.07) A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.08) Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2307.12574.pdf)
+- (arXiv 2023.08) Dynamic Token-Pass Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.01944.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
