@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/07
+**Last updated: 2023/08/14
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1285,6 +1285,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Towards Hard-Positive Query Mining for DETR-based Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2207.05293.pdf), [[Code]](https://github.com/MuchHair/HQM)
 - (arXiv 2022.07) IGFormer: Interaction Graph Transformer for Skeleton-based Human Interaction Recognition, [[Paper]](https://arxiv.org/pdf/2207.12100.pdf)
 - (arXiv 2023.04) ViPLO: Vision Transformer based Pose-Conditioned Self-Loop Graph for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2304.08114.pdf), [[Code]](https://github.com/Jeeseung-Park/ViPLO)
+- (arXiv 2023.08) Exploring Predicate Visual Context in Detecting of Human–Object Interactions, [[Paper]](https://arxiv.org/pdf/2308.06202.pdf), [[Code]](https://github.com/fredzzhang/pvic)
+- (arXiv 2023.08) Compositional Learning in Transformer-Based Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2308.05961.pdf)
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -3128,6 +3130,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Efficient Convolution and Transformer-Based Network for Video Frame Interpolation, [[Paper]](https://arxiv.org/pdf/2307.06443.pdf)
 - (arXiv 2023.07) Hierarchical Spatiotemporal Transformers for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2307.08263.pdf)
 - (arXiv 2023.07) Video Frame Interpolation with Flow Transformer, [[Paper]](https://arxiv.org/pdf/2307.16144.pdf)
+- (arXiv 2023.07) Temporally-Adaptive Models for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2308.05787.pdf), [[Code]](https://github.com/alibaba-mmai-research/TAdaConv)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -3146,6 +3149,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2307.09267.pdf)
 - (arXiv 2023.07) Advancing Visual Grounding with Scene Knowledge: Benchmark and Method, [[Paper]](https://arxiv.org/pdf/2307.11558.pdf), [[Code]](https://github.com/zhjohnchan/SK-VG)
 - (arXiv 2023.07) 3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2307.13363.pdf)
+- (arXiv 2023.08) ViGT: Proposal-free Video Grounding with Learnable Token in Transformer, [[Paper]](https://arxiv.org/pdf/2308.06009.pdf)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
@@ -3431,7 +3435,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Entropy Transformer Networks: A Learning Approach via Tangent Bundle Data Manifold, [[Paper]](https://arxiv.org/pdf/2307.12517.pdf)
 - (arXiv 2023.07) IML-ViT: Image Manipulation Localization by Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.14863.pdf), [[Code]](https://github.com/SunnyHaze/IML-ViT)
 - (arXiv 2023.07) DocDeshadower: Frequency-aware Transformer for Document Shadow Removal, [[Paper]](https://arxiv.org/pdf/2307.15318.pdf)
-  
+- (arXiv 2023.08) Experts Weights Averaging: A New General Training Scheme for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.06093.pdf)
+
 ## Contact & Feedback
 
 If you have any suggestions about this project, feel free to contact me.
