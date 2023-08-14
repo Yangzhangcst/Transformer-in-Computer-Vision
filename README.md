@@ -170,6 +170,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) MSQNet: Actor-agnostic Action Recognition with Multi-modal Query, [[Paper]](https://arxiv.org/pdf/2307.10763.pdf), [[Code]](https://github.com/mondalanindya/MSQNet)
 - (arXiv 2023.07) Event-based Vision for Early Prediction of Manipulation Actions, [[Paper]](https://arxiv.org/pdf/2307.14332.pdf)
 - (arXiv 2023.08) PAT: Position-Aware Transformer for Dense Multi-Label Action Detection, [[Paper]](https://arxiv.org/pdf/2308.05051.pdf)
+- (arXiv 2023.08) Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning, [[Paper]](https://arxiv.org/pdf/2308.04828.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1817,7 +1818,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) TriDo-Former: A Triple-Domain Transformer for Direct PET Reconstruction from Low-Dose Sinograms, [[Paper]](https://arxiv.org/pdf/2308.05365.pdf)
 - (arXiv 2023.08) From CNN to Transformer: A Review of Medical Image Segmentation Models, [[Paper]](https://arxiv.org/pdf/2308.05305.pdf)
 
-
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
 - (arXiv 2022.11) TORE: Token Reduction for Efficient Human Mesh Recovery with Transformer, [[Paper]](https://arxiv.org/pdf/2211.10705.pdf)
@@ -1862,6 +1862,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) PGformer: Proxy-Bridged Game Transformer for Multi-Person Extremely Interactive Motion Prediction, [[Paper]](https://arxiv.org/pdf/2306.03374.pdf)
 - (arXiv 2023.06) ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer, [[Paper]](https://arxiv.org/pdf/2306.05688.pdf), [[Code]](https://github.com/ZAX130/SmileCode)
 - (arXiv 2023.07) TransFusion: A Practical and Effective Transformer-based Diffusion Model for 3D Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2307.16106.pdf)
+- (arXiv 2023.08) Joint-Relation Transformer for Multi-Person Motion Prediction, [[Paper]](https://arxiv.org/pdf/2308.04808.pdf), [[Code]](https://github.com/MediaBrain-SJTU/JRTransformer)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2602,6 +2603,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) PanoContext-Former: Panoramic Total Scene Understanding with a Transformer, [[Paper]](https://arxiv.org/pdf/2305.12497.pdf)
 - (arXiv 2023.06) InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding, [[Paper]](https://arxiv.org/pdf/2306.04842.pdf), [[Code]](https://github.com/prismformore/Multi-Task-Transformer/tree/main/InvPT)
 - (arXiv 2023.06) ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining, [[Paper]](https://arxiv.org/pdf/2306.12106.pdf), [[Code]](https://github.com/shannanyinxiang/ViTEraser)
+- (arXiv 2023.08) Generalized Unbiased Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2308.04802.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -2769,6 +2771,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Dynamic Token-Pass Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.01944.pdf)
 - (arXiv 2023.08) Category Feature Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.05581.pdf)
 - (arXiv 2023.08) Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.05493.pdf), [[Project]](https://vlislab22.github.io/DATR/)
+- (arXiv 2023.08) MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.04829.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
