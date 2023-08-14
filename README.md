@@ -171,6 +171,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Event-based Vision for Early Prediction of Manipulation Actions, [[Paper]](https://arxiv.org/pdf/2307.14332.pdf)
 - (arXiv 2023.08) PAT: Position-Aware Transformer for Dense Multi-Label Action Detection, [[Paper]](https://arxiv.org/pdf/2308.05051.pdf)
 - (arXiv 2023.08) Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning, [[Paper]](https://arxiv.org/pdf/2308.04828.pdf)
+- (arXiv 2023.08) MAiVAR-T: Multimodal Audio-image and Video Action Recognizer using Transformers, [[Paper]](https://arxiv.org/pdf/2308.03741.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1378,6 +1379,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) CalibNet: Dual-branch Cross-modal Calibration for RGB-D Salient Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2307.08098.pdf), [[Code]](https://github.com/PJLallen/CalibNet)
 - (arXiv 2023.08) Partitioned Saliency Ranking with Dense Pyramid Transformers, [[Paper]](https://arxiv.org/pdf/2308.00236.pdf), [[Code]](https://github.com/ssecv/PSR)
 - (arXiv 2023.08) Exploring Transformers for Open-world Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2308.04206.pdf)
+- (arXiv 2023.08) Mask Frozen-DETR: High Quality Instance Segmentation with One GPU, [[Paper]](https://arxiv.org/pdf/2308.03747.pdf)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
