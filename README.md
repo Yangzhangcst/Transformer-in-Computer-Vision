@@ -1211,6 +1211,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.05) Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning, [[Paper]](https://arxiv.org/pdf/2205.12466.pdf)
 - (arXiv 2022.08) In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation, [[Paper]](https://arxiv.org/pdf/2208.04464.pdf), [[Code]](https://bolinlai.github.io/GLC-EgoGazeEst)
 - (arXiv 2022.09) MGTR: End-to-End Mutual Gaze Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2209.10930.pdf), [[Code]](https://github.com/Gmbition/MGTR)
+- (arXiv 2023.08) Interaction-aware Joint Attention Estimation Using People Attributes, [[Paper]](https://arxiv.org/pdf/2308.05382.pdf), [[Code]](https://github.com/chihina/PJAE)
 
 ### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -1811,6 +1812,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Ensemble Learning with Residual Transformer for Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2308.00128.pdf)
 - (arXiv 2023.08) DINO-CXR: A self supervised method based on vision transformer for chest X-ray classification, [[Paper]](https://arxiv.org/pdf/2308.00475.pdf)
 - (arXiv 2023.08) Breast Ultrasound Tumor Classification Using a Hybrid Multitask CNN-Transformer Network, [[Paper]](https://arxiv.org/pdf/2308.02101.pdf)
+- (arXiv 2023.08) IIHT: Medical Report Generation with Image-to-Indicator Hierarchical Transformer, [[Paper]](https://arxiv.org/pdf/2308.05633.pdf)
+- (arXiv 2023.08) TriDo-Former: A Triple-Domain Transformer for Direct PET Reconstruction from Low-Dose Sinograms, [[Paper]](https://arxiv.org/pdf/2308.05365.pdf)
+- (arXiv 2023.08) From CNN to Transformer: A Review of Medical Image Segmentation Models, [[Paper]](https://arxiv.org/pdf/2308.05305.pdf)
+
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2376,6 +2381,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) YOLOPose V2: Understanding and Improving Transformer-based 6D Pose Estimation, [[Paper]](https://arxiv.org/pdf/2307.11550.pdf)
 - (arXiv 2023.07) TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation, [[Paper]](https://arxiv.org/pdf/2307.12400.pdf), [[Code]](https://progress.eecs.umich.edu/projects/transnet/)
 - (arXiv 2023.08) Scene-aware Human Pose Generation using Transformer, [[Paper]](https://arxiv.org/pdf/2308.02177.pdf)
+- (arXiv 2023.08) Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2308.05438.pdf), [[Code]](https://github.com/junzastar/DFTr_Voting)
+- (arXiv 2023.08) Double-chain Constraints for 3D Human Pose Estimation in Images and Videos, [[Paper]](https://arxiv.org/pdf/2308.05298.pdf), [[Code]](https://github.com/KHB1698/DC-GCT)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2465,6 +2472,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Spatially-varying Regularization with Conditional Transformer for Unsupervised Image Registration, [[Paper]](https://arxiv.org/pdf/2303.06168.pdf)
 - (arXiv 2023.03) RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration, [[Paper]](https://arxiv.org/pdf/2303.12384.pdf)
 - (arXiv 2023.07) Non-iterative Coarse-to-fine Transformer Networks for Joint Affine and Deformable Image Registration, [[Paper]](https://arxiv.org/pdf/2307.03421.pdf)
+- (arXiv 2023.08) 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds, [[Paper]](https://arxiv.org/pdf/2308.05667.pdf), [[Code]](https://github.com/minhaolee/2D3DMATR)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
@@ -2758,6 +2766,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) A Good Student is Cooperative and Reliable: CNN-Transformer Collaborative Learning for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.08) Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2307.12574.pdf)
 - (arXiv 2023.08) Dynamic Token-Pass Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.01944.pdf)
+- (arXiv 2023.08) Category Feature Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.05581.pdf)
+- (arXiv 2023.08) Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.05493.pdf), [[Project]](https://vlislab22.github.io/DATR/)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2924,6 +2934,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) CoTracker: It is Better to Track Together, [[Paper]](https://arxiv.org/pdf/2307.07635.pdf), [[Code]](https://co-tracker.github.io/)
 - (arXiv 2023.07) ConTrack: Contextual Transformer for Device Tracking in X-ray, [[Paper]](https://arxiv.org/pdf/2307.07541.pdf)
 - (arXiv 2023.07) MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2307.15700.pdf)
+- (arXiv 2023.08) Robust Object Modeling for Visual Tracking, [[Paper]](https://arxiv.org/pdf/2308.05140.pdf), [[Code]](https://github.com/dawnyc/ROMTrack)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -3436,6 +3447,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) IML-ViT: Image Manipulation Localization by Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.14863.pdf), [[Code]](https://github.com/SunnyHaze/IML-ViT)
 - (arXiv 2023.07) DocDeshadower: Frequency-aware Transformer for Document Shadow Removal, [[Paper]](https://arxiv.org/pdf/2307.15318.pdf)
 - (arXiv 2023.08) Experts Weights Averaging: A New General Training Scheme for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.06093.pdf)
+- (arXiv 2023.08) MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction, [[Paper]](https://arxiv.org/pdf/2308.05736.pdf), [[Code]](https://github.com/hustvl/MapTR)
 
 ## Contact & Feedback
 
