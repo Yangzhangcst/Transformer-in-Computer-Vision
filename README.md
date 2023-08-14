@@ -740,6 +740,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Performance Evaluation of Swin Vision Transformer Model using Gradient Accumulation Optimization Technique, [[Paper]](https://arxiv.org/pdf/2308.00197.pdf)
 - (arXiv 2023.08) FLatten Transformer: Vision Transformer using Focused Linear Attention, [[Paper]](https://arxiv.org/pdf/2308.00442.pdf), [[Code]](https://github.com/LeapLabTHU/FLatten-Transformer)
 - (arXiv 2023.08) A Multidimensional Analysis of Social Biases in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.01948.pdf)
+- (arXiv 2023.08) Which Tokens to Use? Investigating Token Reduction in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.04657.pdf), [[Code]](https://vap.aau.dk/tokens)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2094,6 +2095,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) ASTS: Progress-Aware Spatio-Temporal Transformer Speaker For Vision-and-Language Navigation,  [[Paper]](https://arxiv.org/pdf/2305.11918.pdf)
 - (arXiv 2023.06) ViNT: A Foundation Model for Visual Navigation, [[Paper]](https://arxiv.org/pdf/2306.14846.pdf), [[Code]](https://visualnav-transformer.github.io/)
 - (arXiv 2023.07) GridMM: Grid Memory Map for Vision-and-Language Navigation, [[Paper]](https://arxiv.org/pdf/2307.12907.pdf), [[Code]](https://github.com/MrZihan/GridMM)
+- (arXiv 2023.08) Bird’s-Eye-View Scene Graph for Vision-Language Navigation, [[Paper]](https://arxiv.org/pdf/2308.04758.pdf), [[Code]](https://github.com/DefaultRui/BEV-Scene-Graph)
 
 ### Neural Rendering
 - (arXiv 2022.03) ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers, [[Paper]](https://arxiv.org/pdf/2203.10157.pdf), [[Code]](https://github.com/jkulhanek/viewformer)
@@ -2304,6 +2306,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) PG-RCNN: Semantic Surface Point Generation for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2307.12637.pdf), [[Code](https://github.com/quotation2520/PG-RCNN)
 - (arXiv 2023.07) Two-stream Multi-level Dynamic Point Transformer for Two-person Interaction Recognition, [[Paper]](https://arxiv.org/pdf/2307.11973.pdf)
 - (arXiv 2023.07) pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2307.14777.pdf)
+- (arXiv 2023.08) Self-supervised Learning of Rotation-invariant 3D Point Set Features using Transformer and its Self-distillation, [[Paper]](https://arxiv.org/pdf/2308.04725.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
