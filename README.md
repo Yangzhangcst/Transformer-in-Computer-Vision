@@ -169,6 +169,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Human Action Recognition in Still Images Using ConViT, [[Paper]](https://arxiv.org/pdf/2307.08994.pdf)
 - (arXiv 2023.07) MSQNet: Actor-agnostic Action Recognition with Multi-modal Query, [[Paper]](https://arxiv.org/pdf/2307.10763.pdf), [[Code]](https://github.com/mondalanindya/MSQNet)
 - (arXiv 2023.07) Event-based Vision for Early Prediction of Manipulation Actions, [[Paper]](https://arxiv.org/pdf/2307.14332.pdf)
+- (arXiv 2023.08) PAT: Position-Aware Transformer for Dense Multi-Label Action Detection, [[Paper]](https://arxiv.org/pdf/2308.05051.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -2842,6 +2843,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) MaxSR: Image Super-Resolution Using Improved MaxViT, [[Paper]](https://arxiv.org/pdf/2307.07240.pdf)
 - (arXiv 2023.07) DARTS: Double Attention Reference-based Transformer for Super-resolution, [[Paper]](https://arxiv.org/pdf/2307.08837.pdf)
 - (arXiv 2023.07) ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2307.14010.pdf), [[Code]](https://github.com/Rexzhan/ESSAformer/tree/main)
+- (arXiv 2023.08) Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.05022.pdf), [[Code]](https://github.com/AVC2-UESTC/CRAFT-SR.git)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
