@@ -2812,7 +2812,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Spikformer: When Spiking Neural Network Meets Transformer,  [[Paper]](https://arxiv.org/abs/2209.15425)
 - (arxiv 2023.07) Spike-driven Transformer,  [[Paper]](https://arxiv.org/abs/2307.01694), [[Code]](https://github.com/BICLab/Spike-Driven-Transformer)
 - (arxiv 2023.08) SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition,  [[Paper]](https://arxiv.org/pdf/2308.04369.pdf), [[Code]](https://github.com/Event-AHU/SSTFormer)
-
+- (arxiv 2023.08) Attention-free Spikformer: Mixing Spike Sequences with Simple Linear Transforms,  [[Paper]](https://arxiv.org/pdf/2308.02557.pdf)
 
 ### Style Transfer
 - (arXiv 2022.10) Fine-Grained Image Style Transfer with Visual Transformers,  [[Paper]](https://arxiv.org/abs/2210.05176), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
@@ -2874,6 +2874,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2307.14010.pdf), [[Code]](https://github.com/Rexzhan/ESSAformer/tree/main)
 - (arXiv 2023.08) Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.05022.pdf), [[Code]](https://github.com/AVC2-UESTC/CRAFT-SR.git)
 - (arXiv 2023.08) Dual Aggregation Transformer for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.03364.pdf), [[Code]](https://github.com/zhengchen1999/DAT)
+- (arXiv 2023.08) Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.02794.pdf), [[Code]](https://github.com/yongliuy/DITN)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
