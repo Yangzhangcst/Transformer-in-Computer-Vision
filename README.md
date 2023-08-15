@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/14
+**Last updated: 2023/08/15
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -743,6 +743,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) FLatten Transformer: Vision Transformer using Focused Linear Attention, [[Paper]](https://arxiv.org/pdf/2308.00442.pdf), [[Code]](https://github.com/LeapLabTHU/FLatten-Transformer)
 - (arXiv 2023.08) A Multidimensional Analysis of Social Biases in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.01948.pdf)
 - (arXiv 2023.08) Which Tokens to Use? Investigating Token Reduction in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.04657.pdf), [[Code]](https://vap.aau.dk/tokens)
+- (arXiv 2023.08) DiT: Efficient Vision Transformers with Dynamic Token Routing, [[Paper]](https://arxiv.org/pdf/2308.03409.pdf), [[Code]](https://github.com/Maycbj/DiT)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1437,6 +1438,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints, [[Paper]](https://arxiv.org/pdf/2303.02885.pdf)
 - (arXiv 2023.03) Adaptive Spot-Guided Transformer for Consistent Local Feature Matching, [[Paper]](https://arxiv.org/pdf/2303.16624.pdf), [[Code]](https://astr2023.github.io/)
 - (arXiv 2023.05) AMatFormer: Efficient Feature Matching via Anchor Matching Transformer, [[Paper]](https://arxiv.org/pdf/2305.19205.pdf)
+- (arXiv 2023.08) Multi-scale Alternated Attention Transformer for Generalized Stereo Matching, [[Paper]](https://arxiv.org/pdf/2308.03048.pdf)
 
 ### Matting
 - (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
@@ -2523,6 +2525,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Feature Completion Transformer for Occluded Person Re-identification, [[Paper]](https://arxiv.org/pdf/2303.01656.pdf)
 - (arXiv 2023.03) TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2303.06819.pdf), [[Code]](https://github.com/Kali-Hac/TranSG)
 - (arXiv 2023.04) Deeply-Coupled Convolution-Transformer with Spatial-temporal Complementary Learning for Video-based Person Re-identification, [[Paper]](https://arxiv.org/pdf/2304.14122.pdf), [[Code]](https://github.com/Kali-Hac/TranSG)
+- (arXiv 2023.08) Part-Aware Transformer for Generalizable Person Re-identification, [[Paper]](https://arxiv.org/pdf/2308.03322.pdf), [[Code]](https://github.com/liyuke65535/Part-Aware-Transformer)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -2596,6 +2599,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Discriminative Co-Saliency and Background Mining Transformer for Co-Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2305.00514.pdf), [[Code]](https://github.com/dragonlee258079/DMT)
 - (arXiv 2023.05) Salient Mask-Guided Vision Transformer for Fine-Grained Classification, [[Paper]](https://arxiv.org/pdf/2305.07102.pdf)
 - (arXiv 2023.08) Recurrent Multi-scale Transformer for High-Resolution Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2308.03826.pdf),[[Code]](https://github.com/DrowsyMon/RMFormer)
+- (arXiv 2023.08) Distortion-aware Transformer in 360° Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2308.03359.pdf),[[Code]](https://github.com/yjzhao19981027/DATFormer/)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
@@ -2791,6 +2795,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Category Feature Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.05581.pdf)
 - (arXiv 2023.08) Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.05493.pdf), [[Project]](https://vlislab22.github.io/DATR/)
 - (arXiv 2023.08) MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.04829.pdf)
+- (arXiv 2023.08) MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.03005.pdf), [[Project]](https://github.com/xulianuwa/MCTformer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2868,6 +2873,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) DARTS: Double Attention Reference-based Transformer for Super-resolution, [[Paper]](https://arxiv.org/pdf/2307.08837.pdf)
 - (arXiv 2023.07) ESSAformer: Efficient Transformer for Hyperspectral Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2307.14010.pdf), [[Code]](https://github.com/Rexzhan/ESSAformer/tree/main)
 - (arXiv 2023.08) Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.05022.pdf), [[Code]](https://github.com/AVC2-UESTC/CRAFT-SR.git)
+- (arXiv 2023.08) Dual Aggregation Transformer for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.03364.pdf), [[Code]](https://github.com/zhengchen1999/DAT)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -3188,6 +3194,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Advancing Visual Grounding with Scene Knowledge: Benchmark and Method, [[Paper]](https://arxiv.org/pdf/2307.11558.pdf), [[Code]](https://github.com/zhjohnchan/SK-VG)
 - (arXiv 2023.07) 3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2307.13363.pdf)
 - (arXiv 2023.08) ViGT: Proposal-free Video Grounding with Learnable Token in Transformer, [[Paper]](https://arxiv.org/pdf/2308.06009.pdf)
+- (arXiv 2023.08) Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2308.03725.pdf)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
@@ -3210,6 +3217,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2306.00758.pdf), [[Code]](https://git.tu-berlin.de/rsim/lit4rsvqa)
 - (arXiv 2023.07) Discovering Spatio-Temporal Rationales for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2307.12058.pdf), [[Code]](https://github.com/yl3800/TranSTR)
 - (arXiv 2023.07) BARTPhoBEiT: Pre-trained Sequence-to-Sequence and Image Transformers Models for Vietnamese Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2307.15335.pdf)
+- (arXiv 2023.08) Redundancy-aware Transformer for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2308.03267.pdf)
 
 ### Visual Reasoning
 - (arXiv 2021.11) Recurrent Vision Transformer for Solving Visual Reasoning Problems, [[Paper]](https://arxiv.org/pdf/2111.14576.pdf)
