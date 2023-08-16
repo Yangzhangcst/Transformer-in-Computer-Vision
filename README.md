@@ -744,6 +744,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) A Multidimensional Analysis of Social Biases in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.01948.pdf)
 - (arXiv 2023.08) Which Tokens to Use? Investigating Token Reduction in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.04657.pdf), [[Code]](https://vap.aau.dk/tokens)
 - (arXiv 2023.08) DiT: Efficient Vision Transformers with Dynamic Token Routing, [[Paper]](https://arxiv.org/pdf/2308.03409.pdf), [[Code]](https://github.com/Maycbj/DiT)
+- (arXiv 2023.08) Revisiting Vision Transformer from the View of Path Ensemble, [[Paper]](https://arxiv.org/pdf/2308.06548.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2187,6 +2188,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection, [[Paper]](https://arxiv.org/pdf/2301.01970.pdf), [[Code]](https://github.com/xiaomabufei/CAT)
 - (arXiv 2023.03) Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2303.14386.pdf)
 - (arXiv 2023.05) Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.07011.pdf)
+- (arXiv 2023.08) SegPrompt: Boosting Open-World Segmentation via Category-level Prompt Learning, [[Paper]](https://arxiv.org/pdf/2308.06531.pdf), [[Code]](https://github.com/aim-uofa/SegPrompt)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
@@ -2406,6 +2408,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2308.05438.pdf), [[Code]](https://github.com/junzastar/DFTr_Voting)
 - (arXiv 2023.08) Double-chain Constraints for 3D Human Pose Estimation in Images and Videos, [[Paper]](https://arxiv.org/pdf/2308.05298.pdf), [[Code]](https://github.com/KHB1698/DC-GCT)
 - (arXiv 2023.08) Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation, [[Paper]](https://arxiv.org/pdf/2308.07313.pdf), [[Code1]](https://github.com/Michel-liu/GroupPose), [[Code2]](https://github.com/Michel-liu/GroupPose-Paddle)
+- (arXiv 2023.08) EgoPoser: Robust Real-Time Ego-Body Pose Estimation in Large Scenes, [[Paper]](https://arxiv.org/pdf/2308.06493.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2971,6 +2974,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) ConTrack: Contextual Transformer for Device Tracking in X-ray, [[Paper]](https://arxiv.org/pdf/2307.07541.pdf)
 - (arXiv 2023.07) MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2307.15700.pdf)
 - (arXiv 2023.08) Robust Object Modeling for Visual Tracking, [[Paper]](https://arxiv.org/pdf/2308.05140.pdf), [[Code]](https://github.com/dawnyc/ROMTrack)
+- (arXiv 2023.08) Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking, [[Paper]](https://arxiv.org/pdf/2308.06904.pdf), [[Code]](https://github.com/kangben258/HiT)
+- (arXiv 2023.08) 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2308.06635.pdf), [[Code]](https://github.com/dsx0511/3DMOTFormer)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -3199,6 +3204,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) 3DRP-Net: 3D Relative Position-aware Network for 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2307.13363.pdf)
 - (arXiv 2023.08) ViGT: Proposal-free Video Grounding with Learnable Token in Transformer, [[Paper]](https://arxiv.org/pdf/2308.06009.pdf)
 - (arXiv 2023.08) Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2308.03725.pdf)
+- (arXiv 2023.08) Knowing Where to Focus: Event-aware Transformer for Video Grounding, [[Paper]](https://arxiv.org/pdf/2308.06947.pdf), [[Code]](https://github.com/jinhyunj/SANet)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
@@ -3263,6 +3269,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) Efficient Zero-shot Visual Search via Target and Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2211.13470.pdf)
 - (arXiv 2023.03) Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2302.00875.pdf)
 - (arXiv 2023.03) Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers, [[Paper]](https://arxiv.org/pdf/2305.17328.pdf)
+- (arXiv 2023.08) Isomer: Isomerous Transformer for Zero-shot Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2308.06693.pdf), [[Code]](https://github.com/DLUT-yyc/Isomer)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
