@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/15
+**Last updated: 2023/08/16
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1165,6 +1165,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) FM-ViT: Flexible Modal Vision Transformers for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2305.03277.pdf)
 - (arXiv 2023.07) MiVOLO: Multi-input Transformer for Age and Gender Estimation, [[Paper]](https://arxiv.org/pdf/2307.04616.pdf),[[Code]](https://github.com/WildChlamydia/MiVOLO.git)
 - (arXiv 2023.07) Robust face anti-spoofing framework with Convolutional Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.12459.pdf)
+- (arXiv 2023.08) RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs, [[Paper]](https://arxiv.org/pdf/2308.07279.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1878,6 +1879,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer, [[Paper]](https://arxiv.org/pdf/2306.05688.pdf), [[Code]](https://github.com/ZAX130/SmileCode)
 - (arXiv 2023.07) TransFusion: A Practical and Effective Transformer-based Diffusion Model for 3D Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2307.16106.pdf)
 - (arXiv 2023.08) Joint-Relation Transformer for Multi-Person Motion Prediction, [[Paper]](https://arxiv.org/pdf/2308.04808.pdf), [[Code]](https://github.com/MediaBrain-SJTU/JRTransformer)
+- (arXiv 2023.08) A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis, [[Paper]](https://arxiv.org/pdf/2308.07301.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2403,6 +2405,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Scene-aware Human Pose Generation using Transformer, [[Paper]](https://arxiv.org/pdf/2308.02177.pdf)
 - (arXiv 2023.08) Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2308.05438.pdf), [[Code]](https://github.com/junzastar/DFTr_Voting)
 - (arXiv 2023.08) Double-chain Constraints for 3D Human Pose Estimation in Images and Videos, [[Paper]](https://arxiv.org/pdf/2308.05298.pdf), [[Code]](https://github.com/KHB1698/DC-GCT)
+- (arXiv 2023.08) Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation, [[Paper]](https://arxiv.org/pdf/2308.07313.pdf), [[Code1]](https://github.com/Michel-liu/GroupPose), [[Code2]](https://github.com/Michel-liu/GroupPose-Paddle)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3485,6 +3488,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Experts Weights Averaging: A New General Training Scheme for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.06093.pdf)
 - (arXiv 2023.08) MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction, [[Paper]](https://arxiv.org/pdf/2308.05736.pdf), [[Code]](https://github.com/hustvl/MapTR)
 - (arXiv 2023.08) LEFormer: A Hybrid CNN-Transformer Architecture for Accurate Lake Extraction from Remote Sensing Imagery, [[Paper]](https://arxiv.org/pdf/2308.04397.pdf)
+- (arXiv 2023.08) A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer, [[Paper]](https://arxiv.org/pdf/2308.07279.pdf)
 
 ## Contact & Feedback
 
