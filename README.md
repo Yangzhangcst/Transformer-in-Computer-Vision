@@ -172,6 +172,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) PAT: Position-Aware Transformer for Dense Multi-Label Action Detection, [[Paper]](https://arxiv.org/pdf/2308.05051.pdf)
 - (arXiv 2023.08) Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning, [[Paper]](https://arxiv.org/pdf/2308.04828.pdf)
 - (arXiv 2023.08) MAiVAR-T: Multimodal Audio-image and Video Action Recognizer using Transformers, [[Paper]](https://arxiv.org/pdf/2308.03741.pdf)
+- (arXiv 2023.08) Memory-and-Anticipation Transformer for Online Action Understanding, [[Paper]](https://arxiv.org/pdf/2308.07893.pdf), [[Code]](https://github.com/Echo0125/)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -256,6 +257,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2306.01738.pdf)
 - (arXiv 2023.06) An Efficient Transformer for Simultaneous Learning of BEV and Lane Representations in 3D Lane Detection, [[Paper]](https://arxiv.org/pdf/2306.04927.pdf)
 - (arXiv 2023.07) HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird’s Eye View, [[Paper]](https://arxiv.org/pdf/2307.13510.pdf)
+- (arXiv 2023.08) UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation, [[Paper]](https://arxiv.org/pdf/2308.07732.pdf), [[Code]](https://github.com/Haiyang-W/UniTR)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -848,6 +850,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Channel-Aware Distillation Transformer for Depth Estimation on Nano Drones, [[Paper]](https://arxiv.org/pdf/2303.10386.pdf)
 - (arXiv 2023.04) EGformer: Equirectangular Geometry-biased Transformer for 360 Depth Estimation, [[Paper]](https://arxiv.org/pdf/2304.07803.pdf)
 - (arXiv 2023.04) CompletionFormer: Depth Completion with Convolutions and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2304.13030.pdf), [[Code]](https://github.com/youmi-zym/CompletionFormer)
+- (arXiv 2023.08) Improving Depth Gradient Continuity in Transformers: A Comparative Study on Monocular Depth Estimation with CNN, [[Paper]](https://arxiv.org/pdf/2308.08333.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -879,7 +882,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer, [[Paper]](https://arxiv.org/pdf/2305.09533.pdf), [[Code]](https://github.com/yangyiliu21/ntire2023_ITBdehaze)
 
 ### Deraining
+- (arXiv 2022.04) DRT: A Lightweight Single Image Deraining Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.11385.pdf)
+- (arXiv 2022.07) Magic ELF: Image Deraining Meets Association Learning and Transformer, [[Paper]](https://arxiv.org/pdf/2207.10455.pdf), [[Code]](https://github.com/kuijiang94/Magic-ELF)
 - (arXiv 2023.03) Learning A Sparse Transformer Network for Effective Image Deraining, [[Paper]](https://arxiv.org/pdf/2303.11950.pdf), [[Code]](https://github.com/cschenxiang/DRSformer)
+- (arXiv 2023.08) Learning Image Deraining Transformer Network with Dynamic Dual Self-Attention, [[Paper]](https://arxiv.org/pdf/2303.11950.pdf)
 
 ### Denoising
 - (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
@@ -1303,6 +1309,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) ViPLO: Vision Transformer based Pose-Conditioned Self-Loop Graph for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2304.08114.pdf), [[Code]](https://github.com/Jeeseung-Park/ViPLO)
 - (arXiv 2023.08) Exploring Predicate Visual Context in Detecting of Human–Object Interactions, [[Paper]](https://arxiv.org/pdf/2308.06202.pdf), [[Code]](https://github.com/fredzzhang/pvic)
 - (arXiv 2023.08) Compositional Learning in Transformer-Based Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2308.05961.pdf)
+- (arXiv 2023.08) Agglomerative Transformer for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2308.08370.pdf), [[Code]](https://github.com/six6607/AGER.git)
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -1385,6 +1392,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Partitioned Saliency Ranking with Dense Pyramid Transformers, [[Paper]](https://arxiv.org/pdf/2308.00236.pdf), [[Code]](https://github.com/ssecv/PSR)
 - (arXiv 2023.08) Exploring Transformers for Open-world Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2308.04206.pdf)
 - (arXiv 2023.08) Mask Frozen-DETR: High Quality Instance Segmentation with One GPU, [[Paper]](https://arxiv.org/pdf/2308.03747.pdf)
+- (arXiv 2023.08) A Unified Query-based Paradigm for Camouflaged Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2308.07392.pdf), [[Code]](https://github.com/dongbo811/UQFormer)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -2174,6 +2182,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Exploring Transformers for On-Line Handwritten Signature Verification, [[Paper]](https://arxiv.org/pdf/2307.01663.pdf)
 - (arXiv 2023.07) DocTr: Document Transformer for Structured Information Extraction in Documents, [[Paper]](https://arxiv.org/pdf/2307.07929.pdf)
 - (arXiv 2023.07) A Transformer-based Approach for Arabic Offline Handwritten Text Recognition, [[Paper]](https://arxiv.org/pdf/2307.15045.pdf)
+- (arXiv 2023.08) ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition, [[Paper]](https://arxiv.org/pdf/2308.07743.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -2805,6 +2814,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Look at the Neighbor: Distortion-aware Unsupervised Domain Adaptation for Panoramic Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.05493.pdf), [[Project]](https://vlislab22.github.io/DATR/)
 - (arXiv 2023.08) MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.04829.pdf)
 - (arXiv 2023.08) MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.03005.pdf), [[Project]](https://github.com/xulianuwa/MCTformer)
+- (arXiv 2023.08) Graph-Segmenter: Graph Transformer with Boundary-aware Attention for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.07592.pdf), [[Code]](https://github.com/addmu/Graph-Segmenter)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -3005,6 +3015,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Light-Weight Vision Transformer with Parallel Local and Global Self-Attention, [[Paper]](https://arxiv.org/pdf/2307.09120.pdf)
 - (arXiv 2023.07) OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios, [[Paper]](https://arxiv.org/pdf/2307.10934.pdf)
 - (arXiv 2023.07) ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation, [[Paper]](https://arxiv.org/pdf/2307.14187.pdf), [[Code]](https://kuis-ai.github.io/adapt)
+- (arXiv 2023.08) SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory, [[Paper]](https://arxiv.org/pdf/2308.07555.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
@@ -3367,7 +3378,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.04) Event Transformer, [[Paper]](https://arxiv.org/pdf/2204.05172.pdf)
 - (arXiv 2022.04) Residual Swin Transformer Channel Attention Network for Image Demosaicing, [[Paper]](https://arxiv.org/pdf/2204.07098.pdf)
 - (arXiv 2022.04) Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer, [[Paper]](https://arxiv.org/pdf/2204.08680.pdf)
-- (arXiv 2022.04) DRT: A Lightweight Single Image Deraining Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.11385.pdf)
 - (arXiv 2022.04) ClothFormer:Taming Video Virtual Try-on in All Module, [[Paper]](https://arxiv.org/pdf/2204.12151.pdf), [[Code]](https://cloth-former.github.io/)
 - (arXiv 2022.04) Deeper Insights into ViTs Robustness towards Common Corruptions, [[Paper]](https://arxiv.org/pdf/2204.12143.pdf)
 - (arXiv 2022.04) Self-Driving Car Steering Angle Prediction: Let Transformer Be a Car Again, [[Paper]](https://arxiv.org/pdf/2204.12748.pdf)
@@ -3392,7 +3402,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) iColoriT: Towards Propagating Local Hint to the Right Region in Interactive Colorization by Leveraging Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.06831.pdf)
 - (arXiv 2022.07) Learning Parallax Transformer Network for Stereo Image JPEG Artifacts Removal, [[Paper]](https://arxiv.org/pdf/2207.07335.pdf)
 - (arXiv 2022.07) Explainable vision transformer enabled convolutional neural network for plant disease identification: PlantXViT, [[Paper]](https://arxiv.org/pdf/2207.07919.pdf)
-- (arXiv 2022.07) Magic ELF: Image Deraining Meets Association Learning and Transformer, [[Paper]](https://arxiv.org/pdf/2207.10455.pdf), [[Code]](https://github.com/kuijiang94/Magic-ELF)
 - (arXiv 2022.07) Self-Distilled Vision Transformer for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2207.12392.pdf), [[Code]](https://github.com/maryam089/SDViT)
 - (arXiv 2022.07) Online Continual Learning with Contrastive Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.13516.pdf)
 - (arXiv 2022.08) A Novel Transformer Network with Shifted Window Cross-Attention for Spatiotemporal Weather Forecasting, [[Paper]](https://arxiv.org/pdf/2208.01252.pdf)
