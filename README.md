@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/16
+**Last updated: 2023/08/17
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1092,6 +1092,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Ultra-High-Definition Low-Light Image Enhancement: A Benchmark and Transformer-Based Method, [[Paper]](https://arxiv.org/pdf/2212.11548.pdf), [[Code]](https://github.com/TaoWangzj/LLFormer)
 - (arXiv 2023.03) Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2303.06705.pdf)
 - (arXiv 2023.06) Unsupervised Low Light Image Enhancement Using SNR-Aware Swin Transformer, [[Paper]](https://arxiv.org/pdf/2306.02082.pdf)
+- (arXiv 2023.06) Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network, [[Paper]](https://arxiv.org/pdf/2308.08220.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -1167,6 +1168,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) MiVOLO: Multi-input Transformer for Age and Gender Estimation, [[Paper]](https://arxiv.org/pdf/2307.04616.pdf),[[Code]](https://github.com/WildChlamydia/MiVOLO.git)
 - (arXiv 2023.07) Robust face anti-spoofing framework with Convolutional Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.12459.pdf)
 - (arXiv 2023.08) RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs, [[Paper]](https://arxiv.org/pdf/2308.07279.pdf)
+- (arXiv 2023.08) Dual-path TokenLearner for Remote Photoplethysmography-based Physiological Measurement with Facial Videos, [[Paper]](https://arxiv.org/pdf/2308.07771.pdf),[[Code]](https://github.com/VUT-HFUT/Dual-TL)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1834,6 +1836,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) From CNN to Transformer: A Review of Medical Image Segmentation Models, [[Paper]](https://arxiv.org/pdf/2308.05305.pdf)
 - (arXiv 2023.08) CheXFusion: Effective Fusion of Multi-View Features using Transformers for Long-Tailed Chest X-Ray Classification, [[Paper]](https://arxiv.org/pdf/2308.04008.pdf),[[Code]](https://github.com/dongkyuk/CXR-LT-public-solution)
 - (arXiv 2023.08) SDLFormer: A Sparse and Dense Locality-enhanced Transformer for Accelerated MR Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.04262.pdf),[[Code]](https://github.com/rahul-gs-16/sdlformer.git)
+- (arXiv 2023.08) SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification, [[Paper]](https://arxiv.org/pdf/2308.07874.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2881,6 +2884,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Feature Modulation Transformer: Cross-Refinement of Global Representation via High-Frequency Prior for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.05022.pdf), [[Code]](https://github.com/AVC2-UESTC/CRAFT-SR.git)
 - (arXiv 2023.08) Dual Aggregation Transformer for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.03364.pdf), [[Code]](https://github.com/zhengchen1999/DAT)
 - (arXiv 2023.08) Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.02794.pdf), [[Code]](https://github.com/yongliuy/DITN)
+- (arXiv 2023.08) S2R: Exploring a Double-Win Transformer-Based Framework for Ideal and Blind Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.08142.pdf), [[Code]](https://github.com/berumotto-vermouth/S2R.12)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
