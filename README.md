@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/17
+**Last updated: 2023/08/21
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -786,6 +786,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Transformer-based Variable-rate Image Compression with Region-of-interest Control, [[Paper]](https://arxiv.org/pdf/2305.10807.pdf)
 - (arXiv 2023.06) Efficient Contextformer: Spatio-Channel Window Attention for Fast Context Modeling in Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2306.14287.pdf)
 - (arXiv 2023.07) AICT: An Adaptive Image Compression Transformer, [[Paper]](https://arxiv.org/pdf/2307.06091.pdf)
+- (arXiv 2023.07) JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer, [[Paper]](https://arxiv.org/pdf/2308.09110.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -1845,6 +1846,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) CheXFusion: Effective Fusion of Multi-View Features using Transformers for Long-Tailed Chest X-Ray Classification, [[Paper]](https://arxiv.org/pdf/2308.04008.pdf),[[Code]](https://github.com/dongkyuk/CXR-LT-public-solution)
 - (arXiv 2023.08) SDLFormer: A Sparse and Dense Locality-enhanced Transformer for Accelerated MR Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.04262.pdf),[[Code]](https://github.com/rahul-gs-16/sdlformer.git)
 - (arXiv 2023.08) SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification, [[Paper]](https://arxiv.org/pdf/2308.07874.pdf)
+- (arXiv 2023.08) SkinDistilViT: Lightweight Vision Transformer for Skin Lesion Classification, [[Paper]](https://arxiv.org/pdf/2308.08669.pdf),[[Code]](https://github.com/Longman-Stan/SkinDistilVit)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3509,6 +3511,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) MapTRv2: An End-to-End Framework for Online Vectorized HD Map Construction, [[Paper]](https://arxiv.org/pdf/2308.05736.pdf), [[Code]](https://github.com/hustvl/MapTR)
 - (arXiv 2023.08) LEFormer: A Hybrid CNN-Transformer Architecture for Accurate Lake Extraction from Remote Sensing Imagery, [[Paper]](https://arxiv.org/pdf/2308.04397.pdf)
 - (arXiv 2023.08) A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer, [[Paper]](https://arxiv.org/pdf/2308.07279.pdf)
+- (arXiv 2023.08) A Lightweight Transformer for Faster and Robust EBSD Data Collection, [[Paper]](https://arxiv.org/pdf/2308.09693.pdf)
 
 ## Contact & Feedback
 
