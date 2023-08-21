@@ -1347,6 +1347,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Preserving Locality in Vision Transformers for Class Incremental Learning, [[Paper]](https://arxiv.org/pdf/2304.06971.pdf)
 - (arXiv 2023.05) BiRT: Bio-inspired Replay in Vision Transformers for Continual Learning, [[Paper]](https://arxiv.org/pdf/2305.04769.pdf), [[Code]](https://github.com/NeurAI-Lab/BiRT)
 - (arXiv 2023.06) TADIL: Task-Agnostic Domain-Incremental Learning through Task-ID Inference using Transformer Nearest-Centroid Embeddings, [[Paper]](https://arxiv.org/pdf/2306.11955.pdf)
+- (arXiv 2023.08) On the Effectiveness of LayerNorm Tuning for Continual Learning in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.09372.pdf), [[Code]](https://github.com/tdemin16/Continual-LayerNorm-Tuning)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
