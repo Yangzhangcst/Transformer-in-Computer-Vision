@@ -1181,6 +1181,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
 - (arXiv 2023.06) FeSViBS: Federated Split Learning of Vision Transformer with Block Sampling, [[Paper]](https://arxiv.org/pdf/2306.14638.pdf),[[Code]](https://github.com/faresmalik/FeSViBS)
 - (arXiv 2023.08) Pelta: Shielding Transformers to Mitigate Evasion Attacks in Federated Learning, [[Paper]](https://arxiv.org/pdf/2308.04373.pdf)
+- (arXiv 2023.08) FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning, [[Paper]](https://arxiv.org/pdf/2308.09160.pdf), [[Code]](https://github.com/imguangyu/FedPerfix)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -2503,6 +2504,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) CryoFormer: Continuous Reconstruction of 3D Structures from Cryo-EM Data using Transformer-based Neural Representations, [[Paper]](https://arxiv.org/pdf/2303.16254.pdf), [[Project]](https://cryoformer.github.io/)
 - (arXiv 2023.04) CornerFormer: Boosting Corner Representation for Fine-Grained Structured Reconstruction, [[Paper]](https://arxiv.org/pdf/2304.07072.pdf)
 - (arXiv 2023.07) Image Reconstruction using Enhanced Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.05616.pdf)
+- (arXiv 2023.08) Long-Range Grouping Transformer for Multi-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.08724.pdf),[[Code]](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)
 
 ### Registration
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
@@ -2565,6 +2567,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) RAMiT: Reciprocal Attention Mixing Transformer for Lightweight Image Restoration, [[Paper]](https://arxiv.org/pdf/2305.11474.pdf)
 - (arXiv 2023.05) GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions, [[Paper]](https://arxiv.org/pdf/2305.17863.pdf)
 - (arXiv 2023.07) On the unreasonable vulnerability of transformers for image restoration – and an easy fix, [[Paper]](https://arxiv.org/pdf/2307.13856.pdf)
+- (arXiv 2023.08) Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2308.08730.pdf), [[Code]](https://github.com/wlydlut/C2F-DFT)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
@@ -2647,6 +2650,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) InvPT++: Inverted Pyramid Multi-Task Transformer for Visual Scene Understanding, [[Paper]](https://arxiv.org/pdf/2306.04842.pdf), [[Code]](https://github.com/prismformore/Multi-Task-Transformer/tree/main/InvPT)
 - (arXiv 2023.06) ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining, [[Paper]](https://arxiv.org/pdf/2306.12106.pdf), [[Code]](https://github.com/shannanyinxiang/ViTEraser)
 - (arXiv 2023.08) Generalized Unbiased Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2308.04802.pdf)
+- (arXiv 2023.08) Vision Relation Transformer for Unbiased Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2308.09472.pdf),[[Code]](https://github.com/visinf/veto)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -2992,7 +2996,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Robust Object Modeling for Visual Tracking, [[Paper]](https://arxiv.org/pdf/2308.05140.pdf), [[Code]](https://github.com/dawnyc/ROMTrack)
 - (arXiv 2023.08) Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking, [[Paper]](https://arxiv.org/pdf/2308.06904.pdf), [[Code]](https://github.com/kangben258/HiT)
 - (arXiv 2023.08) 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2308.06635.pdf), [[Code]](https://github.com/dsx0511/3DMOTFormer)
-
+- (arXiv 2023.08) BOTT: Box Only Transformer Tracker for 3D Object Tracking, [[Paper]](https://arxiv.org/pdf/2308.08753.pdf)
+  
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
 - (arXiv 2021.11) DetectorNet: Transformer-enhanced Spatial Temporal Graph Neural Network for Traffic Prediction, [[Paper]](https://arxiv.org/pdf/2111.00869.pdf)
@@ -3222,6 +3227,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) ViGT: Proposal-free Video Grounding with Learnable Token in Transformer, [[Paper]](https://arxiv.org/pdf/2308.06009.pdf)
 - (arXiv 2023.08) Efficient Temporal Sentence Grounding in Videos with Multi-Teacher Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2308.03725.pdf)
 - (arXiv 2023.08) Knowing Where to Focus: Event-aware Transformer for Video Grounding, [[Paper]](https://arxiv.org/pdf/2308.06947.pdf), [[Code]](https://github.com/jinhyunj/SANet)
+- (arXiv 2023.08) Language-Guided Diffusion Model for Visual Grounding, [[Paper]](https://arxiv.org/pdf/2308.09599.pdf), [[Code]](https://github.com/iQua/vgbase/tree/DiffusionVG)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
@@ -3287,6 +3293,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Vision Transformer-based Feature Extraction for Generalized Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2302.00875.pdf)
 - (arXiv 2023.03) Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers, [[Paper]](https://arxiv.org/pdf/2305.17328.pdf)
 - (arXiv 2023.08) Isomer: Isomerous Transformer for Zero-shot Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2308.06693.pdf), [[Code]](https://github.com/DLUT-yyc/Isomer)
+- (arXiv 2023.08) Meta-ZSDETR: Zero-shot DETR with Meta-learning, [[Paper]](https://arxiv.org/pdf/2308.09540.pdf), [[Code]](https://github.com/DLUT-yyc/Isomer)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
