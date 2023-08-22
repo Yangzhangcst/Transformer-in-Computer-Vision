@@ -1082,6 +1082,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2308.04409.pdf), [[Code]](https://github.com/yichaoshen-MS/V-DETR)
 - (arXiv 2023.08) SODFormer: Streaming Object Detection with Transformer Using Events and Frames, [[Paper]](https://arxiv.org/pdf/2308.04047.pdf), [[Code]](https://github.com/dianzl/SODFormer)
 - (arXiv 2023.08) Spatial Transform Decoupling for Oriented Object Detection, [[Paper]](https://arxiv.org/pdf/2308.10561.pdf), [[Code]](https://github.com/yuhongtian17/Spatial-Transform-Decoupling)
+- (arXiv 2023.08) Towards a High-Performance Object Detector: Insights from Drone Detection Using ViT and CNN-based Deep Learning Models, [[Paper]](https://arxiv.org/pdf/2308.09899.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1179,6 +1180,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Robust face anti-spoofing framework with Convolutional Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.12459.pdf)
 - (arXiv 2023.08) RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs, [[Paper]](https://arxiv.org/pdf/2308.07279.pdf)
 - (arXiv 2023.08) Dual-path TokenLearner for Remote Photoplethysmography-based Physiological Measurement with Facial Videos, [[Paper]](https://arxiv.org/pdf/2308.07771.pdf),[[Code]](https://github.com/VUT-HFUT/Dual-TL)
+- (arXiv 2023.08) TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective, [[Paper]](https://arxiv.org/pdf/2308.10133.pdf),[[Code]](https://github.com/DanJun6737/TransFace)
+- (arXiv 2023.08) Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer, [[Paper]](https://arxiv.org/pdf/2308.10196.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1238,6 +1241,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) In the Eye of Transformer: Global-Local Correlation for Egocentric Gaze Estimation, [[Paper]](https://arxiv.org/pdf/2208.04464.pdf), [[Code]](https://bolinlai.github.io/GLC-EgoGazeEst)
 - (arXiv 2022.09) MGTR: End-to-End Mutual Gaze Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2209.10930.pdf), [[Code]](https://github.com/Gmbition/MGTR)
 - (arXiv 2023.08) Interaction-aware Joint Attention Estimation Using People Attributes, [[Paper]](https://arxiv.org/pdf/2308.05382.pdf), [[Code]](https://github.com/chihina/PJAE)
+- (arXiv 2023.08) DVGaze: Dual-View Gaze Estimation, [[Paper]](https://arxiv.org/pdf/2308.10310.pdf), [[Code]](https://github.com/yihuacheng/DVGaze)
 
 ### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -1854,6 +1858,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) SDLFormer: A Sparse and Dense Locality-enhanced Transformer for Accelerated MR Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.04262.pdf),[[Code]](https://github.com/rahul-gs-16/sdlformer.git)
 - (arXiv 2023.08) SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification, [[Paper]](https://arxiv.org/pdf/2308.07874.pdf)
 - (arXiv 2023.08) SkinDistilViT: Lightweight Vision Transformer for Skin Lesion Classification, [[Paper]](https://arxiv.org/pdf/2308.08669.pdf),[[Code]](https://github.com/Longman-Stan/SkinDistilVit)
+- (arXiv 2023.08) Dense Error Map Estimation for MRI-Ultrasound Registration in Brain Tumor Surgery Using Swin UNETR, [[Paper]](https://arxiv.org/pdf/2308.10784.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -1865,6 +1870,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) MeT: A Graph Transformer for Semantic Segmentation of 3D Meshes, [[Paper]](https://arxiv.org/pdf/2307.01115.pdf), [[Project]](https://osx-ubody.github.io/)
 - (arXiv 2023.07) 3Deformer: A Common Framework for Image-Guided Mesh Deformation, [[Paper]](https://arxiv.org/pdf/2307.09892.pdf), [[Project]](https://osx-ubody.github.io/)
 - (arXiv 2023.07) JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2307.16377.pdf), [[Code]](https://github.com/xljh0520/JOTR)
+- (arXiv 2023.08) Coordinate Transformer: Achieving Single-stage Multi-person Mesh Recovery from Videos, [[Paper]](https://arxiv.org/pdf/2308.10334.pdf), [[Code]](https://github.com/Li-Hao-yuan/CoordFormer)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -2193,6 +2199,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) A Transformer-based Approach for Arabic Offline Handwritten Text Recognition, [[Paper]](https://arxiv.org/pdf/2307.15045.pdf)
 - (arXiv 2023.08) ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition, [[Paper]](https://arxiv.org/pdf/2308.07743.pdf)
 - (arXiv 2023.08) SRFormer: Empowering Regression-Based Text Detection Transformer with Segmentation, [[Paper]](https://arxiv.org/pdf/2308.10531.pdf), [[Code]](https://github.com/retsuh-bqw/SRFormer-Text-Det)
+- (arXiv 2023.08) ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer, [[Paper]](https://arxiv.org/pdf/2308.10147.pdf), [[Code]](https://github.com/mxin262/ESTextSpotter)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -3032,6 +3039,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) OCTraN: 3D Occupancy Convolutional Transformer Network in Unstructured Traffic Scenarios, [[Paper]](https://arxiv.org/pdf/2307.10934.pdf)
 - (arXiv 2023.07) ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation, [[Paper]](https://arxiv.org/pdf/2307.14187.pdf), [[Code]](https://kuis-ai.github.io/adapt)
 - (arXiv 2023.08) SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory, [[Paper]](https://arxiv.org/pdf/2308.07555.pdf)
+- (arXiv 2023.08) MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2308.10280.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
@@ -3303,6 +3311,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers, [[Paper]](https://arxiv.org/pdf/2305.17328.pdf)
 - (arXiv 2023.08) Isomer: Isomerous Transformer for Zero-shot Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2308.06693.pdf), [[Code]](https://github.com/DLUT-yyc/Isomer)
 - (arXiv 2023.08) Meta-ZSDETR: Zero-shot DETR with Meta-learning, [[Paper]](https://arxiv.org/pdf/2308.09540.pdf), [[Code]](https://github.com/DLUT-yyc/Isomer)
+- (arXiv 2023.08) ViT-Lens: Towards Omni-modal Representations, [[Paper]](https://arxiv.org/pdf/2308.10185.pdf)
 
 ### Others
 - (CVPR'21') Transformer Interpretability Beyond Attention Visualization, [[Paper]](https://arxiv.org/abs/2012.09838), [[Code]](https://github.com/hila-chefer/Transformer-Explainability)
@@ -3528,6 +3537,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) LEFormer: A Hybrid CNN-Transformer Architecture for Accurate Lake Extraction from Remote Sensing Imagery, [[Paper]](https://arxiv.org/pdf/2308.04397.pdf)
 - (arXiv 2023.08) A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer, [[Paper]](https://arxiv.org/pdf/2308.07279.pdf)
 - (arXiv 2023.08) A Lightweight Transformer for Faster and Robust EBSD Data Collection, [[Paper]](https://arxiv.org/pdf/2308.09693.pdf)
+- (arXiv 2023.08) WMFormer++: Nested Transformer for Visible Watermark Removal via Implict Joint Learning, [[Paper]](https://arxiv.org/pdf/2308.10195.pdf)
+- (arXiv 2023.08) SwinLSTM: Improving Spatiotemporal Prediction Accuracy using Swin Transformer and LSTM, [[Paper]](https://arxiv.org/pdf/2308.09891.pdf), [[Code]](https://github.com/SongTang-x/SwinLSTM)
 
 ## Contact & Feedback
 
