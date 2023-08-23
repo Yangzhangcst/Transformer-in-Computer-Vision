@@ -750,6 +750,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Revisiting Vision Transformer from the View of Path Ensemble, [[Paper]](https://arxiv.org/pdf/2308.06548.pdf)
 - (arXiv 2023.08) Patch Is Not All You Need, [[Paper]](https://arxiv.org/pdf/2308.10729.pdf)
 - (arXiv 2023.08) ConcatPlexer: Additional Dim1 Batching for Faster ViTs, [[Paper]](https://arxiv.org/pdf/2308.11199.pdf), [[Code]](https://github.com/Maycbj/DiT)
+- (arXiv 2023.08) SPANet: Frequency-balancing Token Mixer using Spectral Pooling Aggregation Modulation, [[Paper]](https://arxiv.org/pdf/2308.11568.pdf), [[Code]](https://doranlyong.github.io/projects/spanet/)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2570,6 +2571,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2303.06819.pdf), [[Code]](https://github.com/Kali-Hac/TranSG)
 - (arXiv 2023.04) Deeply-Coupled Convolution-Transformer with Spatial-temporal Complementary Learning for Video-based Person Re-identification, [[Paper]](https://arxiv.org/pdf/2304.14122.pdf), [[Code]](https://github.com/Kali-Hac/TranSG)
 - (arXiv 2023.08) Part-Aware Transformer for Generalizable Person Re-identification, [[Paper]](https://arxiv.org/pdf/2308.03322.pdf), [[Code]](https://github.com/liyuke65535/Part-Aware-Transformer)
+
+### Remote Sensing
+- (arXiv 2023.08) SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection, [[Paper]](https://arxiv.org/pdf/2308.11159.pdf), [[Code]](https://github.com/DalongZ/SwinV2DNet)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
