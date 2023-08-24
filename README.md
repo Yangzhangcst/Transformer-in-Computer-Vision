@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/23
+**Last updated: 2023/08/24
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -228,7 +228,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) ST360IQ: No-Reference Omnidirectional Image Quality Assessment with Spherical Vision Transformers, [[Paper]](https://arxiv.org/pdf/2303.06907.pdf), [[Code]](https://github.com/Nafiseh-Tofighi/ST360IQ)
 - (arXiv 2023.03) MRET: Multi-resolution Transformer for Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2303.07489.pdf)
 - (arXiv 2023.05) Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token, [[Paper]](https://arxiv.org/pdf/2305.09353.pdf), [[Code]](https://github.com/Srache/TempQT)
-
+- (arXiv 2023.08) Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2308.12001.pdf)
+  
 ### Augmentation 
 - (arXiv 2022.10) TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers, [[Paper]](https://arxiv.org/pdf/2210.07562.pdf), [[Code]](https://github.com/mlvlab/TokenMixup)
 - (arXiv 2022.12) SMMix: Self-Motivated Image Mixing for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.12977.pdf), [[Code]](https://github.com/ChenMnZ/SMMix)
@@ -751,6 +752,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Patch Is Not All You Need, [[Paper]](https://arxiv.org/pdf/2308.10729.pdf)
 - (arXiv 2023.08) ConcatPlexer: Additional Dim1 Batching for Faster ViTs, [[Paper]](https://arxiv.org/pdf/2308.11199.pdf), [[Code]](https://github.com/Maycbj/DiT)
 - (arXiv 2023.08) SPANet: Frequency-balancing Token Mixer using Spectral Pooling Aggregation Modulation, [[Paper]](https://arxiv.org/pdf/2308.11568.pdf), [[Code]](https://doranlyong.github.io/projects/spanet/)
+- (arXiv 2023.08) SG-Former: Self-guided Transformer with Evolving Token Reallocation, [[Paper]](https://arxiv.org/pdf/2308.12216.pdf), [[Code]](https://github.com/OliverRensu/SG-Former)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1275,6 +1277,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) A Conditional Generative Chatbot using Transformer Model, [[Paper]](https://arxiv.org/pdf/2306.02074.pdf)
 - (arXiv 2023.07) StylePrompter: All Styles Need Is Attention, [[Paper]](https://arxiv.org/pdf/2307.16151.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/StylePrompter)
 - (arXiv 2023.07) Enhancing Object Detection in Ancient Documents with Synthetic Data Generation and Transformer-Based Models, [[Paper]](https://arxiv.org/pdf/2307.16005.pdf)
+- (arXiv 2023.08) Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts, [[Paper]](https://arxiv.org/pdf/2308.11793.pdf), [[Code]](https://github.com/VITA-Group/GNT-MOVE)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
@@ -2445,6 +2448,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Double-chain Constraints for 3D Human Pose Estimation in Images and Videos, [[Paper]](https://arxiv.org/pdf/2308.05298.pdf), [[Code]](https://github.com/KHB1698/DC-GCT)
 - (arXiv 2023.08) Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation, [[Paper]](https://arxiv.org/pdf/2308.07313.pdf), [[Code1]](https://github.com/Michel-liu/GroupPose), [[Code2]](https://github.com/Michel-liu/GroupPose-Paddle)
 - (arXiv 2023.08) EgoPoser: Robust Real-Time Ego-Body Pose Estimation in Large Scenes, [[Paper]](https://arxiv.org/pdf/2308.06493.pdf)
+- (arXiv 2023.08) Coarse-to-Fine Multi-Scene Pose Regression with Transformers, [[Paper]](https://arxiv.org/pdf/2308.11783.pdf), [[Code]](https://github.com/yolish/c2f-ms-transformer)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3302,6 +3306,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams, [[Paper]](https://arxiv.org/pdf/2303.03856.pdf)
 - (arXiv 2023.03) SnakeVoxFormer: Transformer-based Single Image Voxel Reconstruction with Run Length Encoding, [[Paper]](https://arxiv.org/pdf/2303.16293.pdf)
 - (arXiv 2023.05) PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer, [[Paper]](https://arxiv.org/pdf/2305.06621.pdf), [[Code]](https://github.com/Nightmare-n/PVT-SSD)
+- (arXiv 2023.08) Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification, [[Paper]](https://arxiv.org/pdf/2308.11937.pdf), [[Code]](https://github.com/Event-AHU/EFV_event_classification)
 
 ### Weakly Supervised Learning
 - (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
