@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/24
+**Last updated: 2023/08/25
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1452,6 +1452,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer, [[Paper]](https://arxiv.org/pdf/2303.03755.pdf)
 - (arXiv 2023.04) GUILGET: GUI Layout GEneration with Transformer, [[Paper]](https://arxiv.org/pdf/2304.09012.pdf)
 - (arXiv 2023.05) LayoutDM: Transformer-based Diffusion Model for Layout Generation, [[Paper]](https://arxiv.org/pdf/2305.02567.pdf)
+- (arXiv 2023.08) MapPrior: Bird’s-Eye View Map Layout Estimation with Generative Models, [[Paper]](https://arxiv.org/pdf/2308.12963.pdf), [[Code]](https://mapprior.github.io/)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -1478,6 +1479,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) VMFormer: End-to-End Video Matting with Transformer, [[Paper]](https://arxiv.org/pdf/2208.12801.pdf), [[Project]](https://chrisjuniorli.github.io/project/VMFormer/)
 - (arXiv 2023.03) TransMatting: Tri-token Equipped Transformer Model for Image Matting, [[Paper]](https://arxiv.org/pdf/2303.06476.pdf), [[Project]](https://github.com/AceCHQ/TransMatting)
 - (arXiv 2023.05) ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.15272.pdf)
+- (arXiv 2023.08) EFormer: Enhanced Transformer towards Semantic-Contour Features of Foreground for Portraits Matting, [[Paper]](https://arxiv.org/pdf/2308.12831.pdf)
 
 ### Medical
 - (arXiv 2021.02) TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2102.04306), [[Code]](https://github.com/Beckschen/TransUNet)
@@ -1867,6 +1869,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification, [[Paper]](https://arxiv.org/pdf/2308.07874.pdf)
 - (arXiv 2023.08) SkinDistilViT: Lightweight Vision Transformer for Skin Lesion Classification, [[Paper]](https://arxiv.org/pdf/2308.08669.pdf),[[Code]](https://github.com/Longman-Stan/SkinDistilVit)
 - (arXiv 2023.08) Dense Error Map Estimation for MRI-Ultrasound Registration in Brain Tumor Surgery Using Swin UNETR, [[Paper]](https://arxiv.org/pdf/2308.10784.pdf)
+- (arXiv 2023.08) Towards Hierarchical Regional Transformer-based Multiple Instance Learning, [[Paper]](https://arxiv.org/pdf/2308.12634.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2100,6 +2103,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Multimodal Neurons in Pretrained Text-Only Transformers, [[Paper]](https://arxiv.org/pdf/2308.01544.pdf), [[Project]](https://mmns.csail.mit.edu/)
 - (arXiv 2023.08) A vision transformer-based framework for knowledge transfer from multi-modal to mono-modal lymphoma subtyping models, [[Paper]](https://arxiv.org/pdf/2308.01328.pdf)
 - (arXiv 2023.08) 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment, [[Paper]](https://arxiv.org/pdf/2308.04352.pdf), [[Project]](https://3d-vista.github.io/)
+- (arXiv 2023.08) Vision Transformer Adapters for Generalizable Multitask Learning, [[Paper]](https://arxiv.org/pdf/2308.12372.pdf), [[Code]](https://ivrl.github.io/VTAGML)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
