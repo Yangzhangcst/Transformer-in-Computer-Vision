@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/25
+**Last updated: 2023/08/28
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -753,6 +753,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) ConcatPlexer: Additional Dim1 Batching for Faster ViTs, [[Paper]](https://arxiv.org/pdf/2308.11199.pdf), [[Code]](https://github.com/Maycbj/DiT)
 - (arXiv 2023.08) SPANet: Frequency-balancing Token Mixer using Spectral Pooling Aggregation Modulation, [[Paper]](https://arxiv.org/pdf/2308.11568.pdf), [[Code]](https://doranlyong.github.io/projects/spanet/)
 - (arXiv 2023.08) SG-Former: Self-guided Transformer with Evolving Token Reallocation, [[Paper]](https://arxiv.org/pdf/2308.12216.pdf), [[Code]](https://github.com/OliverRensu/SG-Former)
+- (arXiv 2023.08) Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.13494.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1870,6 +1871,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) SkinDistilViT: Lightweight Vision Transformer for Skin Lesion Classification, [[Paper]](https://arxiv.org/pdf/2308.08669.pdf),[[Code]](https://github.com/Longman-Stan/SkinDistilVit)
 - (arXiv 2023.08) Dense Error Map Estimation for MRI-Ultrasound Registration in Brain Tumor Surgery Using Swin UNETR, [[Paper]](https://arxiv.org/pdf/2308.10784.pdf)
 - (arXiv 2023.08) Towards Hierarchical Regional Transformer-based Multiple Instance Learning, [[Paper]](https://arxiv.org/pdf/2308.12634.pdf)
+- (arXiv 2023.08) ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis, [[Paper]](https://arxiv.org/pdf/2308.13324.pdf)
+- (arXiv 2023.08) GEMTrans: A General, Echocardiography-based, Multi-Level Transformer Framework for Cardiovascular Diagnosis, [[Paper]](https://arxiv.org/pdf/2308.13217.pdf)
+- (arXiv 2023.08) Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers, [[Paper]](https://arxiv.org/pdf/2308.13442.pdf),[[Code]](https://github.com/mindflow-institue/WaveFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2855,6 +2859,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.04829.pdf)
 - (arXiv 2023.08) MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.03005.pdf), [[Project]](https://github.com/xulianuwa/MCTformer)
 - (arXiv 2023.08) Graph-Segmenter: Graph Transformer with Boundary-aware Attention for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.07592.pdf), [[Code]](https://github.com/addmu/Graph-Segmenter)
+- (arXiv 2023.08) A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.13331.pdf), [[Code]](https://github.com/ifnspaml/ReVT)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -3244,6 +3249,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Temporally-Adaptive Models for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2308.05787.pdf), [[Code]](https://github.com/alibaba-mmai-research/TAdaConv)
 - (arXiv 2023.08) EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2308.04162.pdf), [[Code]](https://github.com/lab206/EPCFormer)
 - (arXiv 2023.08) Video OWL-ViT: Temporally-consistent open-world localization in video, [[Paper]](https://arxiv.org/pdf/2308.11062.pdf), [[Code]](https://github.com/google-research/scenic)
+- (arXiv 2023.08) Spherical Vision Transformer for 360-degree Video Saliency Prediction, [[Paper]](https://arxiv.org/pdf/2308.13004.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
