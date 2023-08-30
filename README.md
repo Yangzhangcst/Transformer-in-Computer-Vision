@@ -1422,6 +1422,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Exploring Transformers for Open-world Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2308.04206.pdf)
 - (arXiv 2023.08) Mask Frozen-DETR: High Quality Instance Segmentation with One GPU, [[Paper]](https://arxiv.org/pdf/2308.03747.pdf)
 - (arXiv 2023.08) A Unified Query-based Paradigm for Camouflaged Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2308.07392.pdf), [[Code]](https://github.com/dongbo811/UQFormer)
+- (arXiv 2023.08) NOVIS: A Case for End-to-End Near-Online Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2308.15266.pdf), [[Code]](https://github.com/dongbo811/UQFormer)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -1462,6 +1463,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) GUILGET: GUI Layout GEneration with Transformer, [[Paper]](https://arxiv.org/pdf/2304.09012.pdf)
 - (arXiv 2023.05) LayoutDM: Transformer-based Diffusion Model for Layout Generation, [[Paper]](https://arxiv.org/pdf/2305.02567.pdf)
 - (arXiv 2023.08) MapPrior: Bird’s-Eye View Map Layout Estimation with Generative Models, [[Paper]](https://arxiv.org/pdf/2308.12963.pdf), [[Code]](https://mapprior.github.io/)
+- (arXiv 2023.08) Vision Grid Transformer for Document Layout Analysis, [[Paper]](https://arxiv.org/pdf/2308.14978.pdf), [[Code]](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -2227,6 +2229,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition, [[Paper]](https://arxiv.org/pdf/2308.07743.pdf)
 - (arXiv 2023.08) SRFormer: Empowering Regression-Based Text Detection Transformer with Segmentation, [[Paper]](https://arxiv.org/pdf/2308.10531.pdf), [[Code]](https://github.com/retsuh-bqw/SRFormer-Text-Det)
 - (arXiv 2023.08) ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer, [[Paper]](https://arxiv.org/pdf/2308.10147.pdf), [[Code]](https://github.com/mxin262/ESTextSpotter)
+- (arXiv 2023.08) PBFormer: Capturing Complex Scene Text Shape with Polynomial Band Transformer, [[Paper]](https://arxiv.org/pdf/2308.15004.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
