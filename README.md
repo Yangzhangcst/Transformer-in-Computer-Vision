@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/29
+**Last updated: 2023/08/30
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1093,6 +1093,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) SODFormer: Streaming Object Detection with Transformer Using Events and Frames, [[Paper]](https://arxiv.org/pdf/2308.04047.pdf), [[Code]](https://github.com/dianzl/SODFormer)
 - (arXiv 2023.08) Spatial Transform Decoupling for Oriented Object Detection, [[Paper]](https://arxiv.org/pdf/2308.10561.pdf), [[Code]](https://github.com/yuhongtian17/Spatial-Transform-Decoupling)
 - (arXiv 2023.08) Towards a High-Performance Object Detector: Insights from Drone Detection Using ViT and CNN-based Deep Learning Models, [[Paper]](https://arxiv.org/pdf/2308.09899.pdf)
+- (arXiv 2023.08) Enhancing Landmark Detection in Cluttered Real-World Scenarios with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.13671.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2115,6 +2116,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) A vision transformer-based framework for knowledge transfer from multi-modal to mono-modal lymphoma subtyping models, [[Paper]](https://arxiv.org/pdf/2308.01328.pdf)
 - (arXiv 2023.08) 3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment, [[Paper]](https://arxiv.org/pdf/2308.04352.pdf), [[Project]](https://3d-vista.github.io/)
 - (arXiv 2023.08) Vision Transformer Adapters for Generalizable Multitask Learning, [[Paper]](https://arxiv.org/pdf/2308.12372.pdf), [[Code]](https://ivrl.github.io/VTAGML)
+- (arXiv 2023.08) UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization, [[Paper]](https://arxiv.org/pdf/2308.14395.pdf), [[Code]](https://github.com/ymhzyj/UMMAFormer/)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2548,6 +2550,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) CornerFormer: Boosting Corner Representation for Fine-Grained Structured Reconstruction, [[Paper]](https://arxiv.org/pdf/2304.07072.pdf)
 - (arXiv 2023.07) Image Reconstruction using Enhanced Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.05616.pdf)
 - (arXiv 2023.08) Long-Range Grouping Transformer for Multi-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.08724.pdf),[[Code]](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)
+- (arXiv 2023.08) A Transformer-Conditioned Neural Fields Pipeline with Polar Coordinate Representation for Astronomical Radio Interferometric Data Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.14610.pdf)
 
 ### Registration
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
@@ -3048,6 +3051,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) CiteTracker: Correlating Image and Text for Visual Tracking, [[Paper]](https://arxiv.org/pdf/2308.11322.pdf), [[Code]](https://github.com/NorahGreen/CiteTracker)
 - (arXiv 2023.08) Fixating on Attention: Integrating Human Eye Tracking into Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.13969.pdf), [[Code]](https://github.com/schko/fixatt)
 - (arXiv 2023.08) Unified Single-Stage Transformer Network for Efficient RGB-T Tracking, [[Paper]](https://arxiv.org/pdf/2308.13764.pdf)
+- (arXiv 2023.08) Group Regression for Query Based Object Detection and Tracking, [[Paper]](https://arxiv.org/pdf/2308.14481.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
