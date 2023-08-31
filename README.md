@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/30
+**Last updated: 2023/08/31
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -175,6 +175,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Memory-and-Anticipation Transformer for Online Action Understanding, [[Paper]](https://arxiv.org/pdf/2308.07893.pdf), [[Code]](https://github.com/Echo0125/)
 - (arXiv 2023.08) Self-Feedback DETR for Temporal Action Detection, [[Paper]](https://arxiv.org/pdf/2308.10570.pdf), [[Code]](https://github.com/Echo0125/)
 - (arXiv 2023.08) EventTransAct: A video transformer-based framework for Event-camera based action recognition, [[Paper]](https://arxiv.org/pdf/2308.13711.pdf), [[Code]](https://tristandb8.github.io/EventTransAct_webpage/)
+- (arXiv 2023.08) Topology-aware MLP for Skeleton-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2308.16018.pdf), [[Code]](https://github.com/BUPTSJZhang/Ta-MLP)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1374,6 +1375,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) TADIL: Task-Agnostic Domain-Incremental Learning through Task-ID Inference using Transformer Nearest-Centroid Embeddings, [[Paper]](https://arxiv.org/pdf/2306.11955.pdf)
 - (arXiv 2023.08) On the Effectiveness of LayerNorm Tuning for Continual Learning in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.09372.pdf), [[Code]](https://github.com/tdemin16/Continual-LayerNorm-Tuning)
 - (arXiv 2023.08) Exemplar-Free Continual Transformer with Convolutions, [[Paper]](https://arxiv.org/pdf/2308.11357.pdf), [[Projet]](https://cvir.github.io/projects/contracon)
+- (arXiv 2023.08) Introducing Language Guidance in Prompt-based Continual Learning, [[Paper]](https://arxiv.org/pdf/2308.15827.pdf)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -1464,6 +1466,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) LayoutDM: Transformer-based Diffusion Model for Layout Generation, [[Paper]](https://arxiv.org/pdf/2305.02567.pdf)
 - (arXiv 2023.08) MapPrior: Bird’s-Eye View Map Layout Estimation with Generative Models, [[Paper]](https://arxiv.org/pdf/2308.12963.pdf), [[Code]](https://mapprior.github.io/)
 - (arXiv 2023.08) Vision Grid Transformer for Document Layout Analysis, [[Paper]](https://arxiv.org/pdf/2308.14978.pdf), [[Code]](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
+- (arXiv 2023.08) Document AI: A Comparative Study of Transformer-Based, Graph-Based Models, and Convolutional Neural Networks For Document Layout Analysis, [[Paper]](https://arxiv.org/pdf/2308.15517.pdf)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -1884,6 +1887,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis, [[Paper]](https://arxiv.org/pdf/2308.13324.pdf)
 - (arXiv 2023.08) GEMTrans: A General, Echocardiography-based, Multi-Level Transformer Framework for Cardiovascular Diagnosis, [[Paper]](https://arxiv.org/pdf/2308.13217.pdf)
 - (arXiv 2023.08) Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers, [[Paper]](https://arxiv.org/pdf/2308.13442.pdf),[[Code]](https://github.com/mindflow-institue/WaveFormer)
+- (arXiv 2023.08) CircleFormer: Circular Nuclei Detection in Whole Slide Images with Circle Queries and Attention, [[Paper]](https://arxiv.org/pdf/2308.16145.pdf),[[Code]](https://github.com/zhanghx-iim-ahu/CircleFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2230,6 +2234,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) SRFormer: Empowering Regression-Based Text Detection Transformer with Segmentation, [[Paper]](https://arxiv.org/pdf/2308.10531.pdf), [[Code]](https://github.com/retsuh-bqw/SRFormer-Text-Det)
 - (arXiv 2023.08) ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer, [[Paper]](https://arxiv.org/pdf/2308.10147.pdf), [[Code]](https://github.com/mxin262/ESTextSpotter)
 - (arXiv 2023.08) PBFormer: Capturing Complex Scene Text Shape with Polynomial Band Transformer, [[Paper]](https://arxiv.org/pdf/2308.15004.pdf)
+- (arXiv 2023.08) DTrOCR: Decoder-only Transformer for Optical Character Recognition, [[Paper]](https://arxiv.org/pdf/2308.15996.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
