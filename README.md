@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/08/31
+**Last updated: 2023/09/01
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -176,6 +176,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Self-Feedback DETR for Temporal Action Detection, [[Paper]](https://arxiv.org/pdf/2308.10570.pdf), [[Code]](https://github.com/Echo0125/)
 - (arXiv 2023.08) EventTransAct: A video transformer-based framework for Event-camera based action recognition, [[Paper]](https://arxiv.org/pdf/2308.13711.pdf), [[Code]](https://tristandb8.github.io/EventTransAct_webpage/)
 - (arXiv 2023.08) Topology-aware MLP for Skeleton-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2308.16018.pdf), [[Code]](https://github.com/BUPTSJZhang/Ta-MLP)
+- (arXiv 2023.08) Prompt-enhanced Hierarchical Transformer Elevating Cardiopulmonary Resuscitation Instruction via Temporal Action Segmentation, [[Paper]](https://arxiv.org/pdf/2308.16552.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -756,6 +757,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) SPANet: Frequency-balancing Token Mixer using Spectral Pooling Aggregation Modulation, [[Paper]](https://arxiv.org/pdf/2308.11568.pdf), [[Code]](https://doranlyong.github.io/projects/spanet/)
 - (arXiv 2023.08) SG-Former: Self-guided Transformer with Evolving Token Reallocation, [[Paper]](https://arxiv.org/pdf/2308.12216.pdf), [[Code]](https://github.com/OliverRensu/SG-Former)
 - (arXiv 2023.08) Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.13494.pdf)
+- (arXiv 2023.08) Learning Diverse Features in Vision Transformers for Improved Generalization, [[Paper]](https://arxiv.org/pdf/2308.16274.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1888,6 +1890,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) GEMTrans: A General, Echocardiography-based, Multi-Level Transformer Framework for Cardiovascular Diagnosis, [[Paper]](https://arxiv.org/pdf/2308.13217.pdf)
 - (arXiv 2023.08) Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers, [[Paper]](https://arxiv.org/pdf/2308.13442.pdf),[[Code]](https://github.com/mindflow-institue/WaveFormer)
 - (arXiv 2023.08) CircleFormer: Circular Nuclei Detection in Whole Slide Images with Circle Queries and Attention, [[Paper]](https://arxiv.org/pdf/2308.16145.pdf),[[Code]](https://github.com/zhanghx-iim-ahu/CircleFormer)
+- (arXiv 2023.08) Towards Optimal Patch Size in Vision Transformers for Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2308.16598.pdf),[[Code]](https://github.com/Ramtin-Mojtahedi/OVTPS)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2475,6 +2478,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation, [[Paper]](https://arxiv.org/pdf/2308.07313.pdf), [[Code1]](https://github.com/Michel-liu/GroupPose), [[Code2]](https://github.com/Michel-liu/GroupPose-Paddle)
 - (arXiv 2023.08) EgoPoser: Robust Real-Time Ego-Body Pose Estimation in Large Scenes, [[Paper]](https://arxiv.org/pdf/2308.06493.pdf)
 - (arXiv 2023.08) Coarse-to-Fine Multi-Scene Pose Regression with Transformers, [[Paper]](https://arxiv.org/pdf/2308.11783.pdf), [[Code]](https://github.com/yolish/c2f-ms-transformer)
+- (arXiv 2023.08) Two-Stage Violence Detection Using ViTPose and Classification Models at Smart Airports, [[Paper]](https://arxiv.org/pdf/2308.16325.pdf), [[Code]](https://github.com/Asami-1/GDP)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2759,6 +2763,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) DenseDINO: Boosting Dense Self-Supervised Learning with Token-Based Point-Level Consistency, [[Paper]](https://arxiv.org/pdf/2306.04654.pdf)
 - (arXiv 2023.07) Distilling Self-Supervised Vision Transformers for Weakly-Supervised Few-Shot Classification & Segmentation, [[Paper]](https://arxiv.org/pdf/2307.03407.pdf)
 - (arXiv 2023.07) Self-supervised Representation Learning by Predicting Masked Online Codebook Assignments, [[Paper]](https://arxiv.org/pdf/2307.09361.pdf)
+- (arXiv 2023.08) Emergence of Segmentation with Minimalistic White-Box Transformers, [[Paper]](https://arxiv.org/pdf/2308.16271.pdf), [[Code]](https://ma-lab-berkeley.github.io/CRATE)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -3060,6 +3065,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Fixating on Attention: Integrating Human Eye Tracking into Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.13969.pdf), [[Code]](https://github.com/schko/fixatt)
 - (arXiv 2023.08) Unified Single-Stage Transformer Network for Efficient RGB-T Tracking, [[Paper]](https://arxiv.org/pdf/2308.13764.pdf)
 - (arXiv 2023.08) Group Regression for Query Based Object Detection and Tracking, [[Paper]](https://arxiv.org/pdf/2308.14481.pdf)
+- (arXiv 2023.08) RGB-T Tracking via Multi-Modal Mutual Prompt Learning, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2308/2308.16386.pdf), [[Code]](https://github.com/HusterYoung/MPLT)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
