@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/01
+**Last updated: 2023/09/04
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1891,6 +1891,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers, [[Paper]](https://arxiv.org/pdf/2308.13442.pdf),[[Code]](https://github.com/mindflow-institue/WaveFormer)
 - (arXiv 2023.08) CircleFormer: Circular Nuclei Detection in Whole Slide Images with Circle Queries and Attention, [[Paper]](https://arxiv.org/pdf/2308.16145.pdf),[[Code]](https://github.com/zhanghx-iim-ahu/CircleFormer)
 - (arXiv 2023.08) Towards Optimal Patch Size in Vision Transformers for Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2308.16598.pdf),[[Code]](https://github.com/Ramtin-Mojtahedi/OVTPS)
+- (arXiv 2023.08) Interpretable Medical Imagery Diagnosis with Self-Attentive Transformers: A Review of Explainable AI for Health Care, [[Paper]](https://arxiv.org/pdf/2309.00252.pdf)
+- (arXiv 2023.08) Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.00121.pdf),[[Code]](https://github.com/mindflow-institue/deformableLKA)
+- (arXiv 2023.08) Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection, [[Paper]](https://arxiv.org/pdf/2309.00108.pdf),[[Code]](https://github.com/mindflow-institue/Laplacian-Former)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
