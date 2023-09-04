@@ -864,6 +864,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) CompletionFormer: Depth Completion with Convolutions and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2304.13030.pdf), [[Code]](https://github.com/youmi-zym/CompletionFormer)
 - (arXiv 2023.08) Improving Depth Gradient Continuity in Transformers: A Comparative Study on Monocular Depth Estimation with CNN, [[Paper]](https://arxiv.org/pdf/2308.08333.pdf)
 - (arXiv 2023.08) Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation, [[Paper]](https://arxiv.org/pdf/2308.14400.pdf)
+- (arXiv 2023.09) SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2309.00526.pdf), [[Code]](https://github.com/hisfog/SQLdepth-Impl)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -1891,9 +1892,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers, [[Paper]](https://arxiv.org/pdf/2308.13442.pdf),[[Code]](https://github.com/mindflow-institue/WaveFormer)
 - (arXiv 2023.08) CircleFormer: Circular Nuclei Detection in Whole Slide Images with Circle Queries and Attention, [[Paper]](https://arxiv.org/pdf/2308.16145.pdf),[[Code]](https://github.com/zhanghx-iim-ahu/CircleFormer)
 - (arXiv 2023.08) Towards Optimal Patch Size in Vision Transformers for Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2308.16598.pdf),[[Code]](https://github.com/Ramtin-Mojtahedi/OVTPS)
-- (arXiv 2023.08) Interpretable Medical Imagery Diagnosis with Self-Attentive Transformers: A Review of Explainable AI for Health Care, [[Paper]](https://arxiv.org/pdf/2309.00252.pdf)
-- (arXiv 2023.08) Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.00121.pdf),[[Code]](https://github.com/mindflow-institue/deformableLKA)
-- (arXiv 2023.08) Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection, [[Paper]](https://arxiv.org/pdf/2309.00108.pdf),[[Code]](https://github.com/mindflow-institue/Laplacian-Former)
+- (arXiv 2023.09) Interpretable Medical Imagery Diagnosis with Self-Attentive Transformers: A Review of Explainable AI for Health Care, [[Paper]](https://arxiv.org/pdf/2309.00252.pdf)
+- (arXiv 2023.09) Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.00121.pdf),[[Code]](https://github.com/mindflow-institue/deformableLKA)
+- (arXiv 2023.09) Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection, [[Paper]](https://arxiv.org/pdf/2309.00108.pdf),[[Code]](https://github.com/mindflow-institue/Laplacian-Former)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
