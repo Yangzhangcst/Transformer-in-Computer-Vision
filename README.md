@@ -2245,6 +2245,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) ESTextSpotter: Towards Better Scene Text Spotting with Explicit Synergy in Transformer, [[Paper]](https://arxiv.org/pdf/2308.10147.pdf), [[Code]](https://github.com/mxin262/ESTextSpotter)
 - (arXiv 2023.08) PBFormer: Capturing Complex Scene Text Shape with Polynomial Band Transformer, [[Paper]](https://arxiv.org/pdf/2308.15004.pdf)
 - (arXiv 2023.08) DTrOCR: Decoder-only Transformer for Optical Character Recognition, [[Paper]](https://arxiv.org/pdf/2308.15996.pdf)
+- (arXiv 2023.09) Character Queries: A Transformer-based Approach to On-Line Handwritten Character Segmentation, [[Paper]](https://arxiv.org/pdf/2309.03072.pdf), [[Code]](https://github.com/jungomi/character-queries)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -2659,6 +2660,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) GridFormer: Residual Dense Transformer with Grid Structure for Image Restoration in Adverse Weather Conditions, [[Paper]](https://arxiv.org/pdf/2305.17863.pdf)
 - (arXiv 2023.07) On the unreasonable vulnerability of transformers for image restoration – and an easy fix, [[Paper]](https://arxiv.org/pdf/2307.13856.pdf)
 - (arXiv 2023.08) Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2308.08730.pdf), [[Code]](https://github.com/wlydlut/C2F-DFT)
+- (arXiv 2023.09) Prompt-based All-in-One Image Restoration using CNNs and Transformer, [[Paper]](https://arxiv.org/pdf/2309.03063.pdf), [[Code]](https://github.com/wlydlut/C2F-DFT)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
