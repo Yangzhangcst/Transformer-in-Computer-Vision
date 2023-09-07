@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/06
+**Last updated: 2023/09/07
 
 ## Survey: 
 - (arXiv 2023.07) A Survey of Techniques for Optimizing Transformer Inference. [[Paper]](https://arxiv.org/pdf/2307.07982.pdf)
@@ -1101,6 +1101,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Spatial Transform Decoupling for Oriented Object Detection, [[Paper]](https://arxiv.org/pdf/2308.10561.pdf), [[Code]](https://github.com/yuhongtian17/Spatial-Transform-Decoupling)
 - (arXiv 2023.08) Towards a High-Performance Object Detector: Insights from Drone Detection Using ViT and CNN-based Deep Learning Models, [[Paper]](https://arxiv.org/pdf/2308.09899.pdf)
 - (arXiv 2023.08) Enhancing Landmark Detection in Cluttered Real-World Scenarios with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.13671.pdf)
+- (arXiv 2023.09) Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2309.00928.pdf), [[Code]](https://github.com/mikasa3lili/S3-MonoDETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1901,6 +1902,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.00121.pdf),[[Code]](https://github.com/mindflow-institue/deformableLKA)
 - (arXiv 2023.09) Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection, [[Paper]](https://arxiv.org/pdf/2309.00108.pdf),[[Code]](https://github.com/mindflow-institue/Laplacian-Former)
 - (arXiv 2023.09) Leveraging Self-Supervised Vision Transformers for Neural Transfer Function Design, [[Paper]](https://arxiv.org/pdf/2309.01408.pdf)
+- (arXiv 2023.09) Multi-dimension unified Swin Transformer for 3D Lesion Segmentation in Multiple Anatomical Locations, [[Paper]](https://arxiv.org/pdf/2309.01823.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2267,6 +2269,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Prompt-Guided Transformers for End-to-End Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2303.14386.pdf)
 - (arXiv 2023.05) Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.07011.pdf)
 - (arXiv 2023.08) SegPrompt: Boosting Open-World Segmentation via Category-level Prompt Learning, [[Paper]](https://arxiv.org/pdf/2308.06531.pdf), [[Code]](https://github.com/aim-uofa/SegPrompt)
+- (arXiv 2023.09) Contrastive Feature Masking Open-Vocabulary Vision Transformer, [[Paper]](https://arxiv.org/pdf/2309.00775.pdf)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
@@ -2575,6 +2578,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Image Reconstruction using Enhanced Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.05616.pdf)
 - (arXiv 2023.08) Long-Range Grouping Transformer for Multi-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.08724.pdf),[[Code]](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)
 - (arXiv 2023.08) A Transformer-Conditioned Neural Fields Pipeline with Polar Coordinate Representation for Astronomical Radio Interferometric Data Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.14610.pdf)
+
+### Referring
+- (arXiv 2023.09) Contrastive Grouping with Transformer for Referring Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.01017.pdf),[[Code]](https://github.com/Toneyaya/CGFormer)
 
 ### Registration
 - (arXiv 2021.04) ViT-V-Net: Vision Transformer for Unsupervised Volumetric Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2104.06468.pdf), [[Code]](https://bit.ly/3bWDynR)
