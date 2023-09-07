@@ -3617,6 +3617,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) WMFormer++: Nested Transformer for Visible Watermark Removal via Implict Joint Learning, [[Paper]](https://arxiv.org/pdf/2308.10195.pdf)
 - (arXiv 2023.08) SwinLSTM: Improving Spatiotemporal Prediction Accuracy using Swin Transformer and LSTM, [[Paper]](https://arxiv.org/pdf/2308.09891.pdf), [[Code]](https://github.com/SongTang-x/SwinLSTM)
 - (arXiv 2023.08) SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation, [[Paper]](https://arxiv.org/pdf/2308.14191.pdf), [[Code]](https://github.com/WinKawaks/SketchDreamer)
+- (arXiv 2023.09) Fearless Luminance Adaptation: A Macro-Micro-Hierarchical Transformer for Exposure Correction, [[Paper]](https://arxiv.org/pdf/2309.00872.pdf)
 
 ## Contact & Feedback
 
