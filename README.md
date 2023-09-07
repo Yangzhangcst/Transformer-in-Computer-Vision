@@ -3383,6 +3383,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) Re-Attention Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2208.01838), [[Code]](https://github.com/su-hui-zz/ReAttentionTransformer)
 - (arXiv 2022.09) Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2209.09209), [[Code]](https://github.com/shakeebmurtaza/dips)
 - (arXiv 2022.09) PicT: A Slim Weakly Supervised Vision Transformer for Pavement Distress Classification, [[Paper]](https://arxiv.org/abs/2209.10074), [[Code]](https://github.com/DearCaat/PicT)
+- (arXiv 2023.09) Semantic-Constraint Matching Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2309.01331)
 
 ### Zero-Shot Learning
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
