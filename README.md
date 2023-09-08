@@ -802,6 +802,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Efficient Contextformer: Spatio-Channel Window Attention for Fast Context Modeling in Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2306.14287.pdf)
 - (arXiv 2023.07) AICT: An Adaptive Image Compression Transformer, [[Paper]](https://arxiv.org/pdf/2307.06091.pdf)
 - (arXiv 2023.07) JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer, [[Paper]](https://arxiv.org/pdf/2308.09110.pdf)
+- (arXiv 2023.09) Compressing Vision Transformers for Low-Resource Visual Learning, [[Paper]](https://arxiv.org/pdf/2309.02617.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
