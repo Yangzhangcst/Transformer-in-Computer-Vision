@@ -306,6 +306,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Embedded Heterogeneous Attention Transformer for Cross-lingual Image Captioning, [[Paper]](https://arxiv.org/pdf/2307.09915.pdf)
 - (arXiv 2023.08) RegionBLIP: A Unified Multi-modal Pre-training Framework for Holistic and Regional Comprehension, [[Paper]](https://arxiv.org/pdf/2308.02299.pdf), [[Code]](https://github.com/mightyzau/RegionBLIP)
 - (arXiv 2023.08) Enhancing image captioning with depth information using a Transformer-based framework, [[Paper]](https://arxiv.org/pdf/2308.03767.pdf)
+- (arXiv 2023.09) Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning, [[Paper]](https://arxiv.org/pdf/2309.02999.pdf), [[Code]](https://github.com/ch3cook-fdu/Vote2Cap-DETR)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -1900,6 +1901,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection, [[Paper]](https://arxiv.org/pdf/2309.00108.pdf),[[Code]](https://github.com/mindflow-institue/Laplacian-Former)
 - (arXiv 2023.09) Leveraging Self-Supervised Vision Transformers for Neural Transfer Function Design, [[Paper]](https://arxiv.org/pdf/2309.01408.pdf)
 - (arXiv 2023.09) Multi-dimension unified Swin Transformer for 3D Lesion Segmentation in Multiple Anatomical Locations, [[Paper]](https://arxiv.org/pdf/2309.01823.pdf)
+- (arXiv 2023.09) Improving diagnosis and prognosis of lung cancer using vision transformers: A scoping review, [[Paper]](https://arxiv.org/pdf/2309.02783.pdf)
+- (arXiv 2023.09) Evaluation Kidney Layer Segmentation on Whole Slide Imaging using Convolutional Neural Networks and Transformers, [[Paper]](https://arxiv.org/pdf/2309.02563.pdf)
+- (arXiv 2023.09) 3D Transformer based on deformable patch location for differential diagnosis between Alzheimer's disease and Frontotemporal dementia, [[Paper]](https://arxiv.org/pdf/2309.03183.pdf)
+
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2265,6 +2270,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Region-Aware Pretraining for Open-Vocabulary Object Detection with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2305.07011.pdf)
 - (arXiv 2023.08) SegPrompt: Boosting Open-World Segmentation via Category-level Prompt Learning, [[Paper]](https://arxiv.org/pdf/2308.06531.pdf), [[Code]](https://github.com/aim-uofa/SegPrompt)
 - (arXiv 2023.09) Contrastive Feature Masking Open-Vocabulary Vision Transformer, [[Paper]](https://arxiv.org/pdf/2309.00775.pdf)
+- (arXiv 2023.09) Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter, [[Paper]](https://arxiv.org/pdf/2309.02773.pdf)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
@@ -3095,6 +3101,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Unified Single-Stage Transformer Network for Efficient RGB-T Tracking, [[Paper]](https://arxiv.org/pdf/2308.13764.pdf)
 - (arXiv 2023.08) Group Regression for Query Based Object Detection and Tracking, [[Paper]](https://arxiv.org/pdf/2308.14481.pdf)
 - (arXiv 2023.08) RGB-T Tracking via Multi-Modal Mutual Prompt Learning, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2308/2308.16386.pdf), [[Code]](https://github.com/HusterYoung/MPLT)
+- (arXiv 2023.09) Efficient Training for Visual Tracking with Deformable Transformer, [[Paper]](https://arxiv.org/pdf/2309.02676.pdf), [[Code]](https://github.com/HusterYoung/MPLT)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -3149,6 +3156,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Domain Generalisation with Bidirectional Encoder Representations from Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.08117.pdf)
 - (arXiv 2023.08) Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2308.14023.pdf), [[Code]](http://val.cds.iisc.ac.in/DSiT-SFDA/)
 - (arXiv 2023.08) Transfer Learning for Microstructure Segmentation with CS-UNet: A Hybrid Algorithm with Transformer and CNN Encoders, [[Paper]](https://arxiv.org/pdf/2308.13917.pdf)
+- (arXiv 2023.09) Domain Adaptation for Efficiently Fine-tuning Vision Transformer with Encrypted Images, [[Paper]](https://arxiv.org/pdf/2309.02556.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
@@ -3308,6 +3316,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) EPCFormer: Expression Prompt Collaboration Transformer for Universal Referring Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2308.04162.pdf), [[Code]](https://github.com/lab206/EPCFormer)
 - (arXiv 2023.08) Video OWL-ViT: Temporally-consistent open-world localization in video, [[Paper]](https://arxiv.org/pdf/2308.11062.pdf), [[Code]](https://github.com/google-research/scenic)
 - (arXiv 2023.08) Spherical Vision Transformer for 360-degree Video Saliency Prediction, [[Paper]](https://arxiv.org/pdf/2308.13004.pdf)
+- (arXiv 2023.09) Self-Supervised Video Transformers for Isolated Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2309.02450.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
