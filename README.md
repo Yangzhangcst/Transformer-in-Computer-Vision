@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/07
+**Last updated: 2023/09/08
 
 ## Survey: 
 - (arXiv 2023.09) A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking. [[Paper]](https://arxiv.org/pdf/2309.02031.pdf)
@@ -1125,6 +1125,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2303.06705.pdf)
 - (arXiv 2023.06) Unsupervised Low Light Image Enhancement Using SNR-Aware Swin Transformer, [[Paper]](https://arxiv.org/pdf/2306.02082.pdf)
 - (arXiv 2023.06) Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network, [[Paper]](https://arxiv.org/pdf/2308.08220.pdf)
+- (arXiv 2023.09) Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy, [[Paper]](https://arxiv.org/pdf/2309.03445.pdf), [[Code]](https://github.com/piggy2009/DM_underwater)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -1401,6 +1402,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) T-former: An Efficient Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2305.07239.pdf), [[Code]](https://github.com/dengyecode/T-former_image_inpainting)
 - (arXiv 2023.06) TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting, [[Paper]](https://arxiv.org/pdf/2306.11528.pdf), [[Code]](https://github.com/Cameltr/TransRef)
 - (arXiv 2023.07) Deficiency-Aware Masked Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2307.08629.pdf), [[Code]](http://github.com/yeates/DMT)
+- (arXiv 2023.09) ProPainter: Improving Propagation and Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2309.03897.pdf), [[Code]](https://github.com/sczhou/ProPainter)
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
@@ -3633,6 +3635,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) SwinLSTM: Improving Spatiotemporal Prediction Accuracy using Swin Transformer and LSTM, [[Paper]](https://arxiv.org/pdf/2308.09891.pdf), [[Code]](https://github.com/SongTang-x/SwinLSTM)
 - (arXiv 2023.08) SketchDreamer: Interactive Text-Augmented Creative Sketch Ideation, [[Paper]](https://arxiv.org/pdf/2308.14191.pdf), [[Code]](https://github.com/WinKawaks/SketchDreamer)
 - (arXiv 2023.09) Fearless Luminance Adaptation: A Macro-Micro-Hierarchical Transformer for Exposure Correction, [[Paper]](https://arxiv.org/pdf/2309.00872.pdf)
+- (arXiv 2023.09) DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions, [[Paper]](https://arxiv.org/pdf/2309.03576.pdf), [[Code]](https://github.com/Haochen-Wang409/DropPos)
 
 ## Contact & Feedback
 
