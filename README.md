@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/11
+**Last updated: 2023/09/12
 
 ## Survey: 
 - (arXiv 2023.09) A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking. [[Paper]](https://arxiv.org/pdf/2309.02031.pdf)
@@ -765,6 +765,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) DAT++: Spatially Dynamic Vision Transformer with Deformable Attention, [[Paper]](https://arxiv.org/pdf/2309.01430.pdf), [[Code]](https://github.com/LeapLabTHU/DAT)
 - (arXiv 2023.09) ExMobileViT: Lightweight Classifier Extension for Mobile Vision Transformer, [[Paper]](https://arxiv.org/pdf/2309.01310.pdf)
 - (arXiv 2023.09) Mobile V-MoEs: Scaling Down Vision Transformers via Sparse Mixture-of-Experts, [[Paper]](https://arxiv.org/pdf/2309.04354.pdf)
+- (arXiv 2023.09) CNN or ViT? Revisiting Vision Transformers Through the Lens of Convolution, [[Paper]](https://arxiv.org/pdf/2309.05375.pdf), [[Code]](https://github.com/CatworldLee/Gaussian-Mixture-Mask-Attention)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
