@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/12
+**Last updated: 2023/09/13
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -200,6 +200,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Pre-trained transformer for adversarial purification, [[Paper]](https://arxiv.org/pdf/2306.01762.pdf)
 - (arXiv 2023.07) Random Position Adversarial Patch for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.04066.pdf)
 - (arXiv 2023.07) Enhanced Security against Adversarial Examples Using a Random Ensemble of Encrypted Vision Transformer Models, [[Paper]](https://arxiv.org/pdf/2307.13985.pdf)
+- (arXiv 2023.09) Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks, [[Paper]](https://arxiv.org/pdf/2309.06438.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -1923,6 +1924,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Enhancing Hierarchical Transformers for Whole Brain Segmentation with Intracranial Measurements Integration, [[Paper]](https://arxiv.org/pdf/2309.04071.pdf),[[Code]](https://github.com/MASILab/UNesT/wholebrainSeg)
 - (arXiv 2023.09) Phase-Specific Augmented Reality Guidance for Microscopic Cataract Surgery Using Long-Short Spatiotemporal Aggregation Transformer, [[Paper]](https://arxiv.org/pdf/2309.05209.pdf)
 - (arXiv 2023.09) Few-Shot Medical Image Segmentation via a Region-enhanced Prototypical Transformer, [[Paper]](https://arxiv.org/pdf/2309.04825.pdf),[[Code]](https://github.com/YazhouZhu19/RPT)
+- (arXiv 2023.09) ConvFormer: Plug-and-Play CNN-Style Transformers for Improving Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.05674.pdf),[[Code]](https://github.com/xianlin7/ConvFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2941,6 +2943,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.03005.pdf), [[Project]](https://github.com/xulianuwa/MCTformer)
 - (arXiv 2023.08) Graph-Segmenter: Graph Transformer with Boundary-aware Attention for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.07592.pdf), [[Code]](https://github.com/addmu/Graph-Segmenter)
 - (arXiv 2023.08) A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.13331.pdf), [[Code]](https://github.com/ifnspaml/ReVT)
+- (arXiv 2023.09) IBAFormer: Intra-batch Attention Transformer for Domain Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.06282.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -3151,6 +3154,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) ADAPT: Efficient Multi-Agent Trajectory Prediction with Adaptation, [[Paper]](https://arxiv.org/pdf/2307.14187.pdf), [[Code]](https://kuis-ai.github.io/adapt)
 - (arXiv 2023.08) SST: A Simplified Swin Transformer-based Model for Taxi Destination Prediction based on Existing Trajectory, [[Paper]](https://arxiv.org/pdf/2308.07555.pdf)
 - (arXiv 2023.08) MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2308.10280.pdf)
+- (arXiv 2023.09) Mobile Vision Transformer-based Visual Object Tracking, [[Paper]](https://arxiv.org/pdf/2309.05829.pdf), [[Code]](https://github.com/goutamyg/MVT)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
