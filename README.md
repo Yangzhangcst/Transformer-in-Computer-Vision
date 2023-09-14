@@ -899,6 +899,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) Deepfake Detection with Deep Learning: Convolutional Neural Networks versus Transformers, [[Paper]](https://arxiv.org/pdf/2304.03698.pdf)
 - (arXiv 2023.07) Deepfake Video Detection Using Generative Convolutional Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.07036.pdf), [[Code]](https://github.com/erprogs/GenConViT)
 - (arXiv 2023.07) Self-Supervised Graph Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2307.15019.pdf)
+- (arXiv 2023.09) DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention, [[Paper]](https://arxiv.org/pdf/2309.06511.pdf)
 
 ### Diffusion
 - (arXiv 2022.12) Scalable Diffusion Models with Transformers, [[Paper]](https://arxiv.org/pdf/2212.09748.pdf), [[Code]](https://www.wpeebles.com/DiT)
@@ -2277,6 +2278,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) PBFormer: Capturing Complex Scene Text Shape with Polynomial Band Transformer, [[Paper]](https://arxiv.org/pdf/2308.15004.pdf)
 - (arXiv 2023.08) DTrOCR: Decoder-only Transformer for Optical Character Recognition, [[Paper]](https://arxiv.org/pdf/2308.15996.pdf)
 - (arXiv 2023.09) Character Queries: A Transformer-based Approach to On-Line Handwritten Character Segmentation, [[Paper]](https://arxiv.org/pdf/2309.03072.pdf), [[Code]](https://github.com/jungomi/character-queries)
+- (arXiv 2023.09) ShaDocFormer: A Shadow-attentive Threshold Detector with Cascaded Fusion Refiner for document shadow removal' to the ICASSP 2024 online submission system, [[Paper]](https://arxiv.org/pdf/2309.06670.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -3132,6 +3134,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) RGB-T Tracking via Multi-Modal Mutual Prompt Learning, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2308/2308.16386.pdf), [[Code]](https://github.com/HusterYoung/MPLT)
 - (arXiv 2023.09) Efficient Training for Visual Tracking with Deformable Transformer, [[Paper]](https://arxiv.org/pdf/2309.02676.pdf), [[Code]](https://github.com/HusterYoung/MPLT)
 - (arXiv 2023.09) Separable Self and Mixed Attention Transformers for Efficient Object Tracking, [[Paper]](https://arxiv.org/pdf/2309.03979.pdf), [[Code]](https://github.com/goutamyg/SMAT)
+- (arXiv 2023.09) Transparent Object Tracking with Enhanced Fusion Module, [[Paper]](https://arxiv.org/pdf/2309.06701.pdf), [[Code]](https://github.com/kalyan0510/TOTEM)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
