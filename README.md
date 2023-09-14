@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/13
+**Last updated: 2023/09/14
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -774,6 +774,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) CNN or ViT? Revisiting Vision Transformers Through the Lens of Convolution, [[Paper]](https://arxiv.org/pdf/2309.05375.pdf), [[Code]](https://github.com/CatworldLee/Gaussian-Mixture-Mask-Attention)
 - (arXiv 2023.09) SparseSwin: Swin Transformer with Sparse Transformer Block, [[Paper]](https://arxiv.org/pdf/2309.05224.pdf), [[Code]](https://github.com/KrisnaPinasthika/SparseSwin)
 - (arXiv 2023.09) DeViT: Decomposing Vision Transformers for Collaborative Inference in Edge Devices, [[Paper]](https://arxiv.org/pdf/2309.05015.pdf)
+- (arXiv 2023.09) Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit, [[Paper]](https://arxiv.org/pdf/2309.06891.pdf), [[Code]](https://github.com/billpsomas/simpool)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -842,6 +843,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) DMTNet: Dynamic Multi-scale Network for Dual-pixel Images Defocus Deblurring with Transformer, [[Paper]](https://arxiv.org/pdf/2209.06040.pdf)
 - (arXiv 2022.11) Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring, [[Paper]](https://arxiv.org/pdf/2211.12250.pdf), [[Code]](https://github.com/kkkls/FFTformer)
 - (arXiv 2023.03) Image Deblurring by Exploring In-depth Properties of Transformer, [[Paper]](https://arxiv.org/pdf/2303.15198.pdf)
+- (arXiv 2023.09) Aggregating Long-term Sharp Features via Hybrid Transformers for Video Deblurring, [[Paper]](https://arxiv.org/pdf/2309.07054.pdf), [[Code]](https://github.com/shangwei5/STGTN)
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
@@ -1136,6 +1138,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Unsupervised Low Light Image Enhancement Using SNR-Aware Swin Transformer, [[Paper]](https://arxiv.org/pdf/2306.02082.pdf)
 - (arXiv 2023.06) Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network, [[Paper]](https://arxiv.org/pdf/2308.08220.pdf)
 - (arXiv 2023.09) Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy, [[Paper]](https://arxiv.org/pdf/2309.03445.pdf), [[Code]](https://github.com/piggy2009/DM_underwater)
+- (arXiv 2023.09) DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision, [[Paper]](https://arxiv.org/pdf/2309.06941.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -1925,6 +1928,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Phase-Specific Augmented Reality Guidance for Microscopic Cataract Surgery Using Long-Short Spatiotemporal Aggregation Transformer, [[Paper]](https://arxiv.org/pdf/2309.05209.pdf)
 - (arXiv 2023.09) Few-Shot Medical Image Segmentation via a Region-enhanced Prototypical Transformer, [[Paper]](https://arxiv.org/pdf/2309.04825.pdf),[[Code]](https://github.com/YazhouZhu19/RPT)
 - (arXiv 2023.09) ConvFormer: Plug-and-Play CNN-Style Transformers for Improving Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.05674.pdf),[[Code]](https://github.com/xianlin7/ConvFormer)
+- (arXiv 2023.09) UniBrain: Universal Brain MRI Diagnosis with Hierarchical Knowledge-enhanced Pre-training, [[Paper]](https://arxiv.org/pdf/2309.06828.pdf)
+- (arXiv 2023.09) SAMUS: Adapting Segment Anything Model for Clinically-Friendly and Generalizable Ultrasound Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.06824.pdf),[[Code]](https://github.com/xianlin7/SAMUS)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
