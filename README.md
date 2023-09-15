@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/14
+**Last updated: 2023/09/15
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -907,7 +907,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis, [[Paper]](https://arxiv.org/pdf/2304.01053.pdf)
 - (arXiv 2023.06) DFormer: Diffusion-guided Transformer for Universal Image Segmentation, [[Paper]](https://arxiv.org/pdf/2306.03437.pdf), [[Code]](https://github.com/cp3wan/DFormer)
 - (arXiv 2023.08) Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers, [[Paper]](https://arxiv.org/pdf/2308.14152.pdf)
-
+- (arXiv 2023.09) Large-Vocabulary 3D Diffusion Model with Transformer, [[Paper]](https://arxiv.org/pdf/2309.07920.pdf), [[Project]](https://ziangcao0312.github.io/difftf_pages/)
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
 - (arXiv 2022.04) Vision Transformers for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2204.03883.pdf)
@@ -1931,6 +1931,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) ConvFormer: Plug-and-Play CNN-Style Transformers for Improving Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.05674.pdf),[[Code]](https://github.com/xianlin7/ConvFormer)
 - (arXiv 2023.09) UniBrain: Universal Brain MRI Diagnosis with Hierarchical Knowledge-enhanced Pre-training, [[Paper]](https://arxiv.org/pdf/2309.06828.pdf)
 - (arXiv 2023.09) SAMUS: Adapting Segment Anything Model for Clinically-Friendly and Generalizable Ultrasound Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.06824.pdf),[[Code]](https://github.com/xianlin7/SAMUS)
+- (arXiv 2023.09) HIGT: Hierarchical Interaction Graph-Transformer for Whole Slide Image Analysis, [[Paper]](https://arxiv.org/pdf/2309.07400.pdf),[[Code]](https://github.com/HKU-MedAI/HIGT)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2438,6 +2439,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2307.14777.pdf)
 - (arXiv 2023.08) Self-supervised Learning of Rotation-invariant 3D Point Set Features using Transformer and its Self-distillation, [[Paper]](https://arxiv.org/pdf/2308.04725.pdf)
 - (arXiv 2023.09) Weakly Supervised Point Clouds Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2309.04105.pdf)
+- (arXiv 2023.09) Research on self-cross transformer model of point cloud change detecter, [[Paper]](https://arxiv.org/pdf/2309.07444.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3191,6 +3193,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Domain-Specificity Inducing Transformers for Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2308.14023.pdf), [[Code]](http://val.cds.iisc.ac.in/DSiT-SFDA/)
 - (arXiv 2023.08) Transfer Learning for Microstructure Segmentation with CS-UNet: A Hybrid Algorithm with Transformer and CNN Encoders, [[Paper]](https://arxiv.org/pdf/2308.13917.pdf)
 - (arXiv 2023.09) Domain Adaptation for Efficiently Fine-tuning Vision Transformer with Encrypted Images, [[Paper]](https://arxiv.org/pdf/2309.02556.pdf)
+- (arXiv 2023.09) Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning, [[Paper]](https://arxiv.org/pdf/2309.07911.pdf), [[Code]](https://github.com/alibaba-mmai-research/DiST)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
