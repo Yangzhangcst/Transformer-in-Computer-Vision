@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/15
+**Last updated: 2023/09/18
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -2166,6 +2166,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) UMMAFormer: A Universal Multimodal-adaptive Transformer Framework for Temporal Forgery Localization, [[Paper]](https://arxiv.org/pdf/2308.14395.pdf), [[Code]](https://github.com/ymhzyj/UMMAFormer/)
 - (arXiv 2023.09) Exchanging-based Multimodal Fusion with Transformer, [[Paper]](https://arxiv.org/pdf/2309.02190.pdf), [[Code]](https://github.com/RecklessRonan/MuSE)
 - (arXiv 2023.09) Multimodal Transformer for Material Segmentation, [[Paper]](https://arxiv.org/pdf/2309.04001.pdf), [[Code]](https://github.com/csiplab/MMSFormer)
+- (arXiv 2023.09) Towards Practical and Efficient Image-to-Speech Captioning with Vision-Language Pre-training and Multi-modal Tokens, [[Paper]](https://arxiv.org/pdf/2309.08531.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
