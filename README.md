@@ -778,6 +778,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit, [[Paper]](https://arxiv.org/pdf/2309.06891.pdf), [[Code]](https://github.com/billpsomas/simpool)
 - (arXiv 2023.09) Interpretability-Aware Vision Transformer, [[Paper]](https://arxiv.org/pdf/2309.08035.pdf)
 - (arXiv 2023.09) Replacing softmax with ReLU in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.08586.pdf)
+- (arXiv 2023.09) Interpret Vision Transformers as ConvNets with Dynamic Convolutions, [[Paper]](https://arxiv.org/pdf/2309.10713.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1337,6 +1338,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning, [[Paper]](https://arxiv.org/pdf/2306.10792.pdf)
 - (arXiv 2023.08) Geometric Learning-Based Transformer Network for Estimation of Segmentation Errors, [[Paper]](https://arxiv.org/pdf/2308.05068.pdf)
 - (arXiv 2023.08) Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images, [[Paper]](https://arxiv.org/pdf/2308.11015.pdf)
+- (arXiv 2023.08) Deep Prompt Tuning for Graph Transformers, [[Paper]](https://arxiv.org/pdf/2309.10131.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -1943,6 +1945,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Cross-Modal Synthesis of Structural MRI and Functional Connectivity Networks via Conditional ViT-GANs, [[Paper]](https://arxiv.org/pdf/2309.08160.pdf)
 - (arXiv 2023.09) Image-level supervision and self-training for transformer-based cross-modality tumor segmentation, [[Paper]](https://arxiv.org/pdf/2309.09246.pdf)
 - (arXiv 2023.09) MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.08842.pdf),[[Code]](https://github.com/cchen-cc/MA-SAM)
+- (arXiv 2023.09) Learning Dynamic MRI Reconstruction with Convolutional Network Assisted Reconstruction Swin Transformer, [[Paper]](https://arxiv.org/pdf/2309.10227.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2602,6 +2605,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition, [[Paper]](https://arxiv.org/pdf/2305.18013.pdf)
 - (arXiv 2023.07) Convolutional Transformer for Autonomous Recognition and Grading of Tomatoes Under Various Lighting, Occlusion, and Ripeness Conditions, [[Paper]](https://arxiv.org/pdf/2307.01530.pdf)
 - (arXiv 2023.08) M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition, [[Paper]](https://arxiv.org/pdf/2308.02161.pdf)
+- (arXiv 2023.09) Parameter-Efficient Long-Tailed Recognition, [[Paper]](https://arxiv.org/pdf/2309.10019.pdf), [[Code]](https://github.com/shijxcs/PEL)
+- (arXiv 2023.09) MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings, [[Paper]](https://arxiv.org/pdf/2309.10765.pdf), [[Code]](https://github.com/surbhimadan92/MAGIC-TBR)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -2772,7 +2777,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Recurrent Multi-scale Transformer for High-Resolution Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2308.03826.pdf),[[Code]](https://github.com/DrowsyMon/RMFormer)
 - (arXiv 2023.08) Distortion-aware Transformer in 360° Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2308.03359.pdf),[[Code]](https://github.com/yjzhao19981027/DATFormer/)
 - (arXiv 2023.09) UniST: Towards Unifying Saliency Transformer for Video Saliency Prediction and Detection, [[Paper]](https://arxiv.org/pdf/2309.08220.pdf)
-- (arXiv 2023.09) Salient Object Detection in Optical Remote Sensing Images Driven by Transformer, [[Paper]](https://arxiv.org/pdf/2309.08206.pdf), [[Code]](https://github.com/MathLee/GeleNet)
+- (arXiv 2023.09) Salient Object Detection in Optical Remote Sensing Images Driven by Transformer, [[Paper]](https://arxiv.org/pdf/2309.08206.pdf), [[Code]](https://github.com/LiJiahang617/Road-Former)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
@@ -2801,6 +2806,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) ViTEraser: Harnessing the Power of Vision Transformers for Scene Text Removal with SegMIM Pretraining, [[Paper]](https://arxiv.org/pdf/2306.12106.pdf), [[Code]](https://github.com/shannanyinxiang/ViTEraser)
 - (arXiv 2023.08) Generalized Unbiased Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2308.04802.pdf)
 - (arXiv 2023.08) Vision Relation Transformer for Unbiased Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2308.09472.pdf),[[Code]](https://github.com/visinf/veto)
+- (arXiv 2023.09) RoadFormer: Duplex Transformer for RGB-Normal Semantic Road Scene Parsing, [[Paper]](https://arxiv.org/pdf/2309.10356.pdf),[[Code]](https://github.com/visinf/veto)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
