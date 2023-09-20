@@ -1942,6 +1942,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) HIGT: Hierarchical Interaction Graph-Transformer for Whole Slide Image Analysis, [[Paper]](https://arxiv.org/pdf/2309.07400.pdf),[[Code]](https://github.com/HKU-MedAI/HIGT)
 - (arXiv 2023.09) Cross-Modal Synthesis of Structural MRI and Functional Connectivity Networks via Conditional ViT-GANs, [[Paper]](https://arxiv.org/pdf/2309.08160.pdf)
 - (arXiv 2023.09) Image-level supervision and self-training for transformer-based cross-modality tumor segmentation, [[Paper]](https://arxiv.org/pdf/2309.09246.pdf)
+- (arXiv 2023.09) MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.08842.pdf),[[Code]](https://github.com/cchen-cc/MA-SAM)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
