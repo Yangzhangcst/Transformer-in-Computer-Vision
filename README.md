@@ -1389,6 +1389,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) SST-ReversibleNet: Reversible-prior-based Spectral-Spatial Transformer for Efficient Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2305.04054.pdf), [[Code]](https://github.com/caizeyu1992/SST)
 - (arXiv 2023.06) SaaFormer: Spectral-spatial Axial Aggregation Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2306.16759.pdf)
 - (arXiv 2023.08) Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.10820.pdf), [[Code]](https://github.com/MyuLi/PADUT)
+- (arXiv 2023.09) FactoFormer: Factorized Hyperspectral Transformers with Self-Supervised Pre-Training, [[Paper]](https://arxiv.org/pdf/2309.09431.pdf), [[Code]](https://github.com/csiro-robotics/factoformer)
 
 ### Illumination
 - (arXiv 2022.05) Illumination Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
