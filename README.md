@@ -183,6 +183,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Prompt-enhanced Hierarchical Transformer Elevating Cardiopulmonary Resuscitation Instruction via Temporal Action Segmentation, [[Paper]](https://arxiv.org/pdf/2308.16552.pdf)
 - (arXiv 2023.09) COMEDIAN: Self-Supervised Learning and Knowledge Distillation for Action Spotting using Transformers, [[Paper]](https://arxiv.org/pdf/2309.01270.pdf), [[Code]](https://github.com/juliendenize/eztorch)
 - (arXiv 2023.09) Unified Contrastive Fusion Transformer for Multimodal Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2309.05032.pdf)
+- (arXiv 2023.09) SkeleTR: Towrads Skeleton-based Action Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2309.11445.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1229,6 +1230,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) A Unified Transformer-based Network for multimodal Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2308.14160.pdf)
 - (arXiv 2023.09) S-Adapter: Generalizing Vision Transformer for Face Anti-Spoofing with Statistical Tokens, [[Paper]](https://arxiv.org/pdf/2309.04038.pdf)
 - (arXiv 2023.09) Self-Supervised Transformer with Domain Adaptive Reconstruction for General Face Forgery Video Detection, [[Paper]](https://arxiv.org/pdf/2309.04795.pdf)
+- (arXiv 2023.09) Forgery-aware Adaptive Vision Transformer for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2309.11092.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -3699,6 +3701,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions, [[Paper]](https://arxiv.org/pdf/2309.03576.pdf), [[Code]](https://github.com/Haochen-Wang409/DropPos)
 - (arXiv 2023.09) CNN Injected Transformer for Image Exposure Correction, [[Paper]](https://arxiv.org/pdf/2309.04366.pdf), [[Code]](https://github.com/rebeccaeexu/CIT-EC/)
 - (arXiv 2023.09) Effective Image Tampering Localization via Enhanced Transformer and Co-attention Fusion, [[Paper]](https://arxiv.org/pdf/2309.09306.pdf), [[Code]](https://github.com/multimediaFor/EITLNet)
+- (arXiv 2023.09) Automatic Bat Call Classification using Transformer Networks, [[Paper]](https://arxiv.org/pdf/2309.11218.pdf)
 
 ## Contact & Feedback
 
