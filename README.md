@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/21
+**Last updated: 2023/09/22
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -780,6 +780,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Interpretability-Aware Vision Transformer, [[Paper]](https://arxiv.org/pdf/2309.08035.pdf)
 - (arXiv 2023.09) Replacing softmax with ReLU in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.08586.pdf)
 - (arXiv 2023.09) Interpret Vision Transformers as ConvNets with Dynamic Convolutions, [[Paper]](https://arxiv.org/pdf/2309.10713.pdf)
+- (arXiv 2023.09) RMT: Retentive Networks Meet Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.11523.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1465,6 +1466,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) A Unified Query-based Paradigm for Camouflaged Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2308.07392.pdf), [[Code]](https://github.com/dongbo811/UQFormer)
 - (arXiv 2023.08) NOVIS: A Case for End-to-End Near-Online Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2308.15266.pdf)
 - (arXiv 2023.09) Mask-Attention-Free Transformer for 3D Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2309.01692.pdf), [[Code]](https://github.com/dvlab-research/Mask-Attention-Free-Transformer)
+- (arXiv 2023.09) TCOVIS: Temporally Consistent Online Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2309.11857.pdf), [[Code]](https://github.com/jun-long-li/TCOVIS)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -2546,6 +2548,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Coarse-to-Fine Multi-Scene Pose Regression with Transformers, [[Paper]](https://arxiv.org/pdf/2308.11783.pdf), [[Code]](https://github.com/yolish/c2f-ms-transformer)
 - (arXiv 2023.08) Two-Stage Violence Detection Using ViTPose and Classification Models at Smart Airports, [[Paper]](https://arxiv.org/pdf/2308.16325.pdf), [[Code]](https://github.com/Asami-1/GDP)
 - (arXiv 2023.09) Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2309.01365.pdf), [[Code]](https://github.com/hbing-l/RTPCA)
+- (arXiv 2023.09) ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.11986.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3385,6 +3388,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Spherical Vision Transformer for 360-degree Video Saliency Prediction, [[Paper]](https://arxiv.org/pdf/2308.13004.pdf)
 - (arXiv 2023.09) Self-Supervised Video Transformers for Isolated Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2309.02450.pdf)
 - (arXiv 2023.09) CATR: Combinatorial-Dependence Audio-Queried Transformer for Audio-Visual Video Segmentation, [[Paper]](https://arxiv.org/pdf/2309.09709.pdf), [[Code]](https://github.com/aspirinone/CATR.github.io)
+- (arXiv 2023.09) PanoVOS:Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation, [[Paper]](https://arxiv.org/pdf/2309.12303.pdf), [[Code]](https://github.com/shilinyan99/PanoVOS)
+- (arXiv 2023.09) Fully Transformer-Equipped Architecture for End-to-End Referring Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2309.11933.pdf)
+- (arXiv 2023.09) Spatial-Temporal Transformer based Video Compression Framework, [[Paper]](https://arxiv.org/pdf/2309.11913.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
