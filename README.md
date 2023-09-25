@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/22
+**Last updated: 2023/09/25
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -317,6 +317,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Enhancing image captioning with depth information using a Transformer-based framework, [[Paper]](https://arxiv.org/pdf/2308.03767.pdf)
 - (arXiv 2023.09) Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning, [[Paper]](https://arxiv.org/pdf/2309.02999.pdf), [[Code]](https://github.com/ch3cook-fdu/Vote2Cap-DETR)
 - (arXiv 2023.09) Collaborative Three-Stream Transformers for Video Captioning, [[Paper]](https://arxiv.org/pdf/2309.09611.pdf), [[Code]](https://github.com/ch3cook-fdu/Vote2Cap-DETR)
+- (arXiv 2023.09) Accurate and Fast Compressed Video Captioning, [[Paper]](https://arxiv.org/pdf/2309.12867.pdf), [[Code]](https://github.com/acherstyx/CoCap)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -781,6 +782,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Replacing softmax with ReLU in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.08586.pdf)
 - (arXiv 2023.09) Interpret Vision Transformers as ConvNets with Dynamic Convolutions, [[Paper]](https://arxiv.org/pdf/2309.10713.pdf)
 - (arXiv 2023.09) RMT: Retentive Networks Meet Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.11523.pdf)
+- (arXiv 2023.09) DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion, [[Paper]](https://arxiv.org/pdf/2309.12424.pdf)
+- (arXiv 2023.09) Associative Transformer Is A Sparse Representation Learner, [[Paper]](https://arxiv.org/pdf/2309.12862.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2983,6 +2986,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Graph-Segmenter: Graph Transformer with Boundary-aware Attention for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.07592.pdf), [[Code]](https://github.com/addmu/Graph-Segmenter)
 - (arXiv 2023.08) A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.13331.pdf), [[Code]](https://github.com/ifnspaml/ReVT)
 - (arXiv 2023.09) IBAFormer: Intra-batch Attention Transformer for Domain Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.06282.pdf)
+- (arXiv 2023.09) CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation, [[Paper]](https://arxiv.org/pdf/2309.12639.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -2990,6 +2994,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation, [[Paper]](https://arxiv.org/pdf/2210.12381.pdf)
 - (arXiv 2022.10) mm-Wave Radar Hand Shape Classification Using Deformable Transformers, [[Paper]](https://arxiv.org/pdf/2210.13079.pdf)
 - (arxiv 2023.07) DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation, [[Paper]](https://arxiv.org/pdf/2307.01831.pdf)
+- (arxiv 2023.09) DeFormer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from a Single Image, [[Paper]](https://arxiv.org/pdf/2309.12594.pdf)
 
 ### SLAM
 - (arXiv 2022.06) AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation,  [[Paper]](https://arxiv.org/abs/2206.12946)
