@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/25
+**Last updated: 2023/09/26
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -184,6 +184,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) COMEDIAN: Self-Supervised Learning and Knowledge Distillation for Action Spotting using Transformers, [[Paper]](https://arxiv.org/pdf/2309.01270.pdf), [[Code]](https://github.com/juliendenize/eztorch)
 - (arXiv 2023.09) Unified Contrastive Fusion Transformer for Multimodal Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2309.05032.pdf)
 - (arXiv 2023.09) SkeleTR: Towrads Skeleton-based Action Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2309.11445.pdf)
+- (arXiv 2023.09) Egocentric RGB+Depth Action Recognition in Industry-Like Settings, [[Paper]](https://arxiv.org/pdf/2309.13962.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -784,6 +785,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) RMT: Retentive Networks Meet Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.11523.pdf)
 - (arXiv 2023.09) DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion, [[Paper]](https://arxiv.org/pdf/2309.12424.pdf)
 - (arXiv 2023.09) Associative Transformer Is A Sparse Representation Learner, [[Paper]](https://arxiv.org/pdf/2309.12862.pdf)
+- (arXiv 2023.09) Masked Image Residual Learning for Scaling Deeper Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.14136.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1470,6 +1472,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) NOVIS: A Case for End-to-End Near-Online Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2308.15266.pdf)
 - (arXiv 2023.09) Mask-Attention-Free Transformer for 3D Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2309.01692.pdf), [[Code]](https://github.com/dvlab-research/Mask-Attention-Free-Transformer)
 - (arXiv 2023.09) TCOVIS: Temporally Consistent Online Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2309.11857.pdf), [[Code]](https://github.com/jun-long-li/TCOVIS)
+- (arXiv 2023.09) 3D Indoor Instance Segmentation in an Open-World, [[Paper]](https://arxiv.org/pdf/2309.14338.pdf), [[Code]](https://github.com/aminebdj/3D-OWIS)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -2987,6 +2990,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2308.13331.pdf), [[Code]](https://github.com/ifnspaml/ReVT)
 - (arXiv 2023.09) IBAFormer: Intra-batch Attention Transformer for Domain Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.06282.pdf)
 - (arXiv 2023.09) CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation, [[Paper]](https://arxiv.org/pdf/2309.12639.pdf)
+- (arXiv 2023.09) AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.14065.pdf), [[Code]](https://github.com/Fourier7754/AsymFormer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
