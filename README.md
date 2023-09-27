@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/26
+**Last updated: 2023/09/27
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -203,6 +203,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Random Position Adversarial Patch for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.04066.pdf)
 - (arXiv 2023.07) Enhanced Security against Adversarial Examples Using a Random Ensemble of Encrypted Vision Transformer Models, [[Paper]](https://arxiv.org/pdf/2307.13985.pdf)
 - (arXiv 2023.09) Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks, [[Paper]](https://arxiv.org/pdf/2309.06438.pdf)
+- (arXiv 2023.09) RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias, [[Paper]](https://arxiv.org/pdf/2309.13245.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -2641,6 +2642,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Image Reconstruction using Enhanced Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.05616.pdf)
 - (arXiv 2023.08) Long-Range Grouping Transformer for Multi-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.08724.pdf),[[Code]](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)
 - (arXiv 2023.08) A Transformer-Conditioned Neural Fields Pipeline with Polar Coordinate Representation for Astronomical Radio Interferometric Data Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.14610.pdf)
+- (arXiv 2023.09) Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction, [[Paper]](https://arxiv.org/pdf/2309.13524.pdf),[[Code]](https://github.com/River-Zhang/GTA)
 
 ### Referring
 - (arXiv 2021.08) Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
@@ -2818,6 +2820,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Generalized Unbiased Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2308.04802.pdf)
 - (arXiv 2023.08) Vision Relation Transformer for Unbiased Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2308.09472.pdf),[[Code]](https://github.com/visinf/veto)
 - (arXiv 2023.09) RoadFormer: Duplex Transformer for RGB-Normal Semantic Road Scene Parsing, [[Paper]](https://arxiv.org/pdf/2309.10356.pdf),[[Code]](https://github.com/visinf/veto)
+- (arXiv 2023.09) Spatial-Temporal Knowledge-Embedded Transformer for Video Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2309.13237.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -3717,6 +3720,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) CNN Injected Transformer for Image Exposure Correction, [[Paper]](https://arxiv.org/pdf/2309.04366.pdf), [[Code]](https://github.com/rebeccaeexu/CIT-EC/)
 - (arXiv 2023.09) Effective Image Tampering Localization via Enhanced Transformer and Co-attention Fusion, [[Paper]](https://arxiv.org/pdf/2309.09306.pdf), [[Code]](https://github.com/multimediaFor/EITLNet)
 - (arXiv 2023.09) Automatic Bat Call Classification using Transformer Networks, [[Paper]](https://arxiv.org/pdf/2309.11218.pdf)
+- (arXiv 2023.09) Beyond Grids: Exploring Elastic Input Sampling for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.13353.pdf)
 
 ## Contact & Feedback
 
