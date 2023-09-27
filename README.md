@@ -1363,6 +1363,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) SpiderMesh: Spatial-aware Demand-guided Recursive Meshing for RGB-T Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2303.08704.pdf)
 - (arXiv 2023.04) High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2304.04416.pdf)
 - (arXiv 2023.05) Alignment-free HDR Deghosting with Semantics Consistent Transformer, [[Paper]](https://arxiv.org/pdf/2305.18135.pdf), [[Code]](https://steven-tel.github.io/sctnet)
+- (arXiv 2023.09) IFT: Image Fusion Transformer for Ghost-free High Dynamic Range Imaging, [[Paper]](https://arxiv.org/pdf/2309.15019.pdf)
 
 ### HOI
 - (CVPR'21) HOTR: End-to-End Human-Object Interaction Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2104.13682.pdf), [[Code]](https://github.com/bbepoch/HoiTransformer)
@@ -1961,6 +1962,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Image-level supervision and self-training for transformer-based cross-modality tumor segmentation, [[Paper]](https://arxiv.org/pdf/2309.09246.pdf)
 - (arXiv 2023.09) MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2309.08842.pdf),[[Code]](https://github.com/cchen-cc/MA-SAM)
 - (arXiv 2023.09) Learning Dynamic MRI Reconstruction with Convolutional Network Assisted Reconstruction Swin Transformer, [[Paper]](https://arxiv.org/pdf/2309.10227.pdf)
+- (arXiv 2023.09) Speech Audio Synthesis from Tagged MRI and Non-Negative Matrix Factorization via Plastic Transformer, [[Paper]](https://arxiv.org/pdf/2309.14586.pdf)
+- (arXiv 2023.09) AiAReSeg: Catheter Detection and Segmentation in Interventional Ultrasound using Transformers, [[Paper]](https://arxiv.org/pdf/2309.14492.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2008,7 +2011,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) ModeT: Learning Deformable Image Registration via Motion Decomposition Transformer, [[Paper]](https://arxiv.org/pdf/2306.05688.pdf), [[Code]](https://github.com/ZAX130/SmileCode)
 - (arXiv 2023.07) TransFusion: A Practical and Effective Transformer-based Diffusion Model for 3D Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2307.16106.pdf)
 - (arXiv 2023.08) Joint-Relation Transformer for Multi-Person Motion Prediction, [[Paper]](https://arxiv.org/pdf/2308.04808.pdf), [[Code]](https://github.com/MediaBrain-SJTU/JRTransformer)
-- (arXiv 2023.08) A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis, [[Paper]](https://arxiv.org/pdf/2308.07301.pdf)
+- (arXiv 2023.08) A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis, [[Paper]](https://arxiv.org/pdf/2308.07301.pdf), [[Code]](https://github.com/Sadegh28/ATR)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2017,6 +2020,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2020.11) General Multi-label Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14027)
 - (arXiv 2022.03) Graph Attention Transformer Network for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2203.04049.pdf)
 - (arXiv 2022.03) Incomplete Multi-View Multi-Label Learning via Label-Guided Masked Viewand Category-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2303.07180.pdf)
+- (arXiv 2023.09) Multi-Label Feature Selection Using Adaptive and Transformed Relevance, [[Paper]](https://arxiv.org/pdf/2309.14768.pdf)
 
 ### Multi-task/modal
 - (arXiv 2021.02) Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer, [[Paper]](https://arxiv.org/abs/2102.10772), [[Code]](https://mmf.sh/)
@@ -2198,7 +2202,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Towards Practical and Efficient Image-to-Speech Captioning with Vision-Language Pre-training and Multi-modal Tokens, [[Paper]](https://arxiv.org/pdf/2309.08531.pdf)
 - (arXiv 2023.09) MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer, [[Paper]](https://arxiv.org/pdf/2309.09067.pdf), [[Code]](https://github.com/fudong03/MMST-ViT)
 - (arXiv 2023.09) Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation, [[Paper]](https://arxiv.org/pdf/2309.09667.pdf)
-  
+- (arXiv 2023.09) Tile Classification Based Viewport Prediction with Multi-modal Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2309.14704.pdf)
+
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
 - (arXiv 2021.12) Multi-View Stereo with Transformer, [[Paper]](https://arxiv.org/pdf/2112.00336.pdf)
@@ -3103,6 +3108,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) Exploring Vision Transformers as Diffusion Learners, [[Paper]](https://arxiv.org/pdf/2212.13771.pdf)
 - (arXiv 2023.01) Muse: Text-To-Image Generation via Masked Generative Transformers, [[Paper]](https://arxiv.org/pdf/2301.00704.pdf),[[Code]](http://muse-model.github.io/)
 - (arXiv 2023.03) Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding, [[Paper]](https://arxiv.org/pdf/2303.03800.pdf)
+- (arXiv 2023.09) A Simple Text to Video Model via Transformer, [[Paper]](https://arxiv.org/pdf/2309.14683.pdf)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
