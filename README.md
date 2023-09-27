@@ -321,6 +321,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Collaborative Three-Stream Transformers for Video Captioning, [[Paper]](https://arxiv.org/pdf/2309.09611.pdf), [[Code]](https://github.com/ch3cook-fdu/Vote2Cap-DETR)
 - (arXiv 2023.09) Accurate and Fast Compressed Video Captioning, [[Paper]](https://arxiv.org/pdf/2309.12867.pdf), [[Code]](https://github.com/acherstyx/CoCap)
 
+### Change Detection
+- (arXiv 2022.01) A Transformer-Based Siamese Network for Change Detection, [[Paper]](https://arxiv.org/pdf/2201.01293.pdf), [[Code]](https://github.com/wgcban/ChangeFormer)
+- (arXiv 2022.07) IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection, [[Paper]](https://arxiv.org/pdf/2207.09240.pdf)
+- (arXiv 2023.08) UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation, [[Paper]](https://arxiv.org/pdf/2308.01146.pdf), [[Code]](https://github.com/zhu-xlab/UCDFormer)
+- (arXiv 2023.09) Changes-Aware Transformer: Learning Generalized Changes Representation, [[Paper]](https://arxiv.org/pdf/2309.13619.pdf)
+
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
 - (CVPR'20) Feature Pyramid Transformer, [[Paper]](https://arxiv.org/pdf/2007.09451), [[Code]](https://github.com/ZHANGDONG-NJUST/FPT)
@@ -1042,7 +1048,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) Transformer-based Context Condensation for Boosting Feature Pyramids in Object Detection, [[Paper]](https://arxiv.org/pdf/2207.06603.pdf)
 - (arXiv 2022.07) Defect Transformer: An Efficient Hybrid Transformer Architecture for Surface Defect Detection, [[Paper]](https://arxiv.org/pdf/2207.08319.pdf)
 - (arXiv 2022.07) Conditional DETR V2: Efficient Detection Transformer with Box Queries, [[Paper]](https://arxiv.org/pdf/2207.08914.pdf)
-- (arXiv 2022.07) IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection, [[Paper]](https://arxiv.org/pdf/2207.09240.pdf)
 - (arXiv 2022.07) Group DETR: Fast Training Convergence with Decoupled One-to-Many Label Assignment, [[Paper]](https://arxiv.org/pdf/2207.13085.pdf)
 - (arXiv 2022.07) DETRs with Hybrid Matching, [[Paper]](https://arxiv.org/pdf/2207.13080.pdf), [[Code]](https://github.com/HDETR)
 - (arXiv 2022.07) Semantic-Aligned Matching for Enhanced DETR Convergence and Multi-Scale Feature Fusion, [[Paper]](https://arxiv.org/pdf/2207.14172.pdf),[[Code]](https://github.com/ZhangGongjie/SAM-DETR)
@@ -1122,7 +1127,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) RecursiveDet: End-to-End Region-based Recursive Object Detection, [[Paper]](https://arxiv.org/pdf/2307.13619.pdf), [[Code]](https://github.com/bravezzzzzz/RecursiveDet)
 - (arXiv 2023.07) SimDETR: Simplifying self-supervised pretraining for DETR, [[Paper]](https://arxiv.org/pdf/2307.15697.pdf)
 - (arXiv 2023.08) Revisiting DETR Pre-training for Object Detection, [[Paper]](https://arxiv.org/pdf/2308.01300.pdf)
-- (arXiv 2023.08) UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation, [[Paper]](https://arxiv.org/pdf/2308.01146.pdf), [[Code]](https://github.com/zhu-xlab/UCDFormer)
 - (arXiv 2023.08) DETR Doesn’t Need Multi-Scale or Locality Design, [[Paper]](https://arxiv.org/pdf/2308.01904.pdf), [[Code]](https://github.com/impiga/Plain-DETR)
 - (arXiv 2023.08) FocalFormer3D : Focusing on Hard Instance for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2308.04556.pdf), [[Code]](https://github.com/NVlabs/FocalFormer3D)
 - (arXiv 2023.08) V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2308.04409.pdf), [[Code]](https://github.com/yichaoshen-MS/V-DETR)
@@ -3551,7 +3555,6 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.12) Nonlinear Transform Source-Channel Coding for Semantic Communications, [[Paper]](https://arxiv.org/pdf/2112.10961.pdf)
 - (arXiv 2021.12) APRIL: Finding the Achilles' Heel on Privacy for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2112.14087.pdf)
 - (arXiv 2022.01) Splicing ViT Features for Semantic Appearance Transfer, [[Paper]](https://arxiv.org/pdf/2201.00424.pdf), [[Project]](https://splice-vit.github.io/)
-- (arXiv 2022.01) A Transformer-Based Siamese Network for Change Detection, [[Paper]](https://arxiv.org/pdf/2201.01293.pdf), [[Code]](https://github.com/wgcban/ChangeFormer)
 - (arXiv 2022.01) Learning class prototypes from Synthetic InSAR with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2201.03016.pdf)
 - (arXiv 2022.01) Swin transformers make strong contextual encoders for VHR image road extraction, [[Paper]](https://arxiv.org/pdf/2201.03178.pdf)
 - (arXiv 2022.01) Technical Report for ICCV 2021 Challenge SSLAD-Track3B: Transformers Are Better Continual Learners, [[Paper]](https://arxiv.org/pdf/2201.04924.pdf)
