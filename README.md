@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/27
+**Last updated: 2023/09/28
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -793,6 +793,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion, [[Paper]](https://arxiv.org/pdf/2309.12424.pdf)
 - (arXiv 2023.09) Associative Transformer Is A Sparse Representation Learner, [[Paper]](https://arxiv.org/pdf/2309.12862.pdf)
 - (arXiv 2023.09) Masked Image Residual Learning for Scaling Deeper Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.14136.pdf)
+- (arXiv 2023.09) Efficient Low-rank Backpropagation for Vision Transformer Adaptation, [[Paper]](https://arxiv.org/pdf/2309.15275.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -834,6 +835,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) AICT: An Adaptive Image Compression Transformer, [[Paper]](https://arxiv.org/pdf/2307.06091.pdf)
 - (arXiv 2023.07) JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer, [[Paper]](https://arxiv.org/pdf/2308.09110.pdf)
 - (arXiv 2023.09) Compressing Vision Transformers for Low-Resource Visual Learning, [[Paper]](https://arxiv.org/pdf/2309.02617.pdf)
+- (arXiv 2023.09) CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs, [[Paper]](https://arxiv.org/pdf/2309.15755.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -2772,6 +2774,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.12) RT-1: Robotics Transformer for Real-World Control at Scale, [[Paper]](https://arxiv.org/pdf/2212.06817.pdf), [[Project]](http://robotics-transformer.github.io/)
 - (arXiv 2023.06) RVT: Robotic View Transformer for 3D Object Manipulation, [[Paper]](https://arxiv.org/pdf/2306.14896.pdf), [[Project]](https://robotic-view-transformer.github.io/)
 - (arXiv 2023.09) AnyOKP: One-Shot and Instance-Aware Object Keypoint Extraction with Pretrained ViT, [[Paper]](https://arxiv.org/pdf/2309.08134.pdf)
+- (arXiv 2023.09) PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2309.15596.pdf), [[Project]](https://www.di.ens.fr/willow/research/polarnet/)
 
 ### Salient Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
@@ -3220,6 +3223,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2308.10280.pdf)
 - (arXiv 2023.09) Mobile Vision Transformer-based Visual Object Tracking, [[Paper]](https://arxiv.org/pdf/2309.05829.pdf), [[Code]](https://github.com/goutamyg/MVT)
 - (arXiv 2023.09) DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2309.09777.pdf), [[Project]](https://drivedreamer.github.io/)
+- (arXiv 2023.09) HPL-ViT: A Unified Perception Framework for Heterogeneous Parallel LiDARs in V2V, [[Paper]](https://arxiv.org/pdf/2309.15572.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
@@ -3730,6 +3734,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Effective Image Tampering Localization via Enhanced Transformer and Co-attention Fusion, [[Paper]](https://arxiv.org/pdf/2309.09306.pdf), [[Code]](https://github.com/multimediaFor/EITLNet)
 - (arXiv 2023.09) Automatic Bat Call Classification using Transformer Networks, [[Paper]](https://arxiv.org/pdf/2309.11218.pdf)
 - (arXiv 2023.09) Beyond Grids: Exploring Elastic Input Sampling for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.13353.pdf)
+- (arXiv 2023.09) Improving Facade Parsing with Vision Transformers and Line Integration, [[Paper]](https://arxiv.org/pdf/2309.15523.pdf), [[Code]](https://github.com/wbw520/RTFP)
 
 ## Contact & Feedback
 
