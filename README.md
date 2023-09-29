@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/28
+**Last updated: 2023/09/29
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -794,6 +794,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Associative Transformer Is A Sparse Representation Learner, [[Paper]](https://arxiv.org/pdf/2309.12862.pdf)
 - (arXiv 2023.09) Masked Image Residual Learning for Scaling Deeper Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.14136.pdf)
 - (arXiv 2023.09) Efficient Low-rank Backpropagation for Vision Transformer Adaptation, [[Paper]](https://arxiv.org/pdf/2309.15275.pdf)
+- (arXiv 2023.09) Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words, [[Paper]](https://arxiv.org/pdf/2309.16108.pdf)
+- (arXiv 2023.09) Vision Transformers Need Registers, [[Paper]](https://arxiv.org/pdf/2309.16588.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1966,6 +1968,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Learning Dynamic MRI Reconstruction with Convolutional Network Assisted Reconstruction Swin Transformer, [[Paper]](https://arxiv.org/pdf/2309.10227.pdf)
 - (arXiv 2023.09) Speech Audio Synthesis from Tagged MRI and Non-Negative Matrix Factorization via Plastic Transformer, [[Paper]](https://arxiv.org/pdf/2309.14586.pdf)
 - (arXiv 2023.09) AiAReSeg: Catheter Detection and Segmentation in Interventional Ultrasound using Transformers, [[Paper]](https://arxiv.org/pdf/2309.14492.pdf)
+- (arXiv 2023.09) Cross-Modal Transformer GAN: Brain Structural-Functional Deep Fusing Network for Alzheimer's Disease Analysis, [[Paper]](https://arxiv.org/pdf/2309.16206.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2370,6 +2373,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning, [[Paper]](https://arxiv.org/pdf/2307.14786.pdf)
 - (arXiv 2023.08) LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment, [[Paper]](https://arxiv.org/pdf/2308.01686.pdf), [[Code]](https://github.com/zhangzw12319/lcps.git)
 - (arXiv 2023.08) PanoSwin: a Pano-style Swin Transformer for Panorama Understanding, [[Paper]](https://arxiv.org/pdf/2308.14726.pdf)
+- (arXiv 2023.09) MASK4D: Mask Transformer for 4D Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.16133.pdf), [[Code]](https://vision.rwth-aachen.de/mask4d)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
@@ -2480,6 +2484,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Self-supervised Learning of Rotation-invariant 3D Point Set Features using Transformer and its Self-distillation, [[Paper]](https://arxiv.org/pdf/2308.04725.pdf)
 - (arXiv 2023.09) Weakly Supervised Point Clouds Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2309.04105.pdf)
 - (arXiv 2023.09) Research on self-cross transformer model of point cloud change detecter, [[Paper]](https://arxiv.org/pdf/2309.07444.pdf)
+- (arXiv 2023.09) Radar Instance Transformer: Reliable Moving Instance Segmentation in Sparse Radar Point Clouds, [[Paper]](https://arxiv.org/pdf/2309.16435.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2602,6 +2607,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Variation-aware Vision Transformer Quantization, [[Paper]](https://arxiv.org/pdf/2307.00331.pdf), [[Code]](https://github.com/HuangOwen/VVTQ)
 - (arXiv 2023.08) Jumping through Local Minima: Quantization in the Loss Landscape of Vision Transformers,  [[Paper]](https://arxiv.org/pdf/2308.10814.pdf), [[Code]](https://github.com/enyac-group/evol-q)
 - (arXiv 2023.08) Vision Transformer Pruning Via Matrix Decomposition,  [[Paper]](https://arxiv.org/pdf/2308.10839.pdf)
+- (arXiv 2023.09) Transformer-VQ: Linear-Time Transformers via Vector Quantization,  [[Paper]](https://arxiv.org/pdf/2309.16354.pdf), [[Code]](https://github.com/transformer-vq/transformer_vq)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
