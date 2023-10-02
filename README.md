@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/09/29
+**Last updated: 2023/10/02
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -906,6 +906,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Improving Depth Gradient Continuity in Transformers: A Comparative Study on Monocular Depth Estimation with CNN, [[Paper]](https://arxiv.org/pdf/2308.08333.pdf)
 - (arXiv 2023.08) Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation, [[Paper]](https://arxiv.org/pdf/2308.14400.pdf)
 - (arXiv 2023.09) SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2309.00526.pdf), [[Code]](https://github.com/hisfog/SQLdepth-Impl)
+- (arXiv 2023.10) GSDC Transformer: An Efficient and Effective Cue Fusion for Monocular Multi-Frame Depth Estimation, [[Paper]](https://arxiv.org/pdf/2309.17059.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -2660,6 +2661,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Long-Range Grouping Transformer for Multi-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.08724.pdf),[[Code]](https://github.com/LiyingCV/Long-Range-Grouping-Transformer)
 - (arXiv 2023.08) A Transformer-Conditioned Neural Fields Pipeline with Polar Coordinate Representation for Astronomical Radio Interferometric Data Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.14610.pdf)
 - (arXiv 2023.09) Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction, [[Paper]](https://arxiv.org/pdf/2309.13524.pdf),[[Code]](https://github.com/River-Zhang/GTA)
+- (arXiv 2023.10) Sketch2CADScript: 3D Scene Reconstruction from 2D Sketch using Visual Transformer and Rhino Grasshopper, [[Paper]](https://arxiv.org/pdf/2309.16850.pdf)
 
 ### Referring
 - (arXiv 2021.08) Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
@@ -3012,6 +3014,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) IBAFormer: Intra-batch Attention Transformer for Domain Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.06282.pdf)
 - (arXiv 2023.09) CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation, [[Paper]](https://arxiv.org/pdf/2309.12639.pdf)
 - (arXiv 2023.09) AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.14065.pdf), [[Code]](https://github.com/Fourier7754/AsymFormer)
+- (arXiv 2023.10) Superpixel Transformers for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.16889.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
