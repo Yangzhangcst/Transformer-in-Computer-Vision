@@ -1973,6 +1973,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Speech Audio Synthesis from Tagged MRI and Non-Negative Matrix Factorization via Plastic Transformer, [[Paper]](https://arxiv.org/pdf/2309.14586.pdf)
 - (arXiv 2023.09) AiAReSeg: Catheter Detection and Segmentation in Interventional Ultrasound using Transformers, [[Paper]](https://arxiv.org/pdf/2309.14492.pdf)
 - (arXiv 2023.09) Cross-Modal Transformer GAN: Brain Structural-Functional Deep Fusing Network for Alzheimer's Disease Analysis, [[Paper]](https://arxiv.org/pdf/2309.16206.pdf)
+- (arXiv 2023.10) MVC: A Multi-Task Vision Transformer Network for COVID-19 Diagnosis from Chest X-ray Images, [[Paper]](https://arxiv.org/pdf/2310.00418.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3020,6 +3021,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation, [[Paper]](https://arxiv.org/pdf/2309.12639.pdf)
 - (arXiv 2023.09) AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.14065.pdf), [[Code]](https://github.com/Fourier7754/AsymFormer)
 - (arXiv 2023.10) Superpixel Transformers for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.16889.pdf)
+- (arXiv 2023.10) Dual-Augmented Transformer Network for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.00307.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -3126,6 +3128,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) Muse: Text-To-Image Generation via Masked Generative Transformers, [[Paper]](https://arxiv.org/pdf/2301.00704.pdf),[[Code]](http://muse-model.github.io/)
 - (arXiv 2023.03) Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding, [[Paper]](https://arxiv.org/pdf/2303.03800.pdf)
 - (arXiv 2023.09) A Simple Text to Video Model via Transformer, [[Paper]](https://arxiv.org/pdf/2309.14683.pdf)
+- (arXiv 2023.10) Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis, [[Paper]](https://arxiv.org/pdf/2310.00426.pdf)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
