@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/02
+**Last updated: 2023/10/03
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -1141,6 +1141,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Enhancing Landmark Detection in Cluttered Real-World Scenarios with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.13671.pdf)
 - (arXiv 2023.09) Supervised Shape&Scale-perceptive Deformable Transformer for Monocular 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2309.00928.pdf), [[Code]](https://github.com/mikasa3lili/S3-MonoDETR)
 - (arXiv 2023.09) OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection, [[Paper]](https://arxiv.org/pdf/2309.08504.pdf), [[Code]](https://github.com/jypjypjypjyp/OccupancyDETR)
+- (arXiv 2023.10) Pixel-Aligned Recurrent Queries for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2310.01401.pdf), [[Code]](https://github.com/ymingxie/parq)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1309,6 +1310,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) MGTR: End-to-End Mutual Gaze Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2209.10930.pdf), [[Code]](https://github.com/Gmbition/MGTR)
 - (arXiv 2023.08) Interaction-aware Joint Attention Estimation Using People Attributes, [[Paper]](https://arxiv.org/pdf/2308.05382.pdf), [[Code]](https://github.com/chihina/PJAE)
 - (arXiv 2023.08) DVGaze: Dual-View Gaze Estimation, [[Paper]](https://arxiv.org/pdf/2308.10310.pdf), [[Code]](https://github.com/yihuacheng/DVGaze)
+- (arXiv 2023.10) Sharingan: A Transformer-based Architecture for Gaze Following, [[Paper]](https://arxiv.org/pdf/2310.00816)
 
 ### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -1502,6 +1504,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Vision Transformers for Small Histological Datasets Learned through Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2305.17370.pdf)
 - (arXiv 2023.05) Are Large Kernels Better Teachers than Transformers for ConvNets?, [[Paper]](https://arxiv.org/pdf/2305.19412.pdf), [[Code]](https://github.com/VITA-Group/SLaK)
 - (arXiv 2023.07) Cumulative Spatial Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.08500.pdf)
+- (arXiv 2023.10) CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction, [[Paper]](https://arxiv.org/pdf/2310.01403.pdf), [[Code]](https://github.com/wusize/CLIPSelf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -2573,6 +2576,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Two-Stage Violence Detection Using ViTPose and Classification Models at Smart Airports, [[Paper]](https://arxiv.org/pdf/2308.16325.pdf), [[Code]](https://github.com/Asami-1/GDP)
 - (arXiv 2023.09) Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2309.01365.pdf), [[Code]](https://github.com/hbing-l/RTPCA)
 - (arXiv 2023.09) ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.11986.pdf)
+- (arXiv 2023.10) LEAP: Liberate Sparse-view 3D Modeling from Camera Poses, [[Paper]](https://arxiv.org/pdf/2310.01410.pdf), [[Code]](https://github.com/hwjiang1510/LEAP)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2730,6 +2734,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) LEFormer: A Hybrid CNN-Transformer Architecture for Accurate Lake Extraction from Remote Sensing Imagery, [[Paper]](https://arxiv.org/pdf/2308.04397.pdf)
 - (arXiv 2023.08) SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection, [[Paper]](https://arxiv.org/pdf/2308.11159.pdf), [[Code]](https://github.com/DalongZ/SwinV2DNet)
 - (arXiv 2023.08) RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework, [[Paper]](https://arxiv.org/pdf/2309.09003.pdf), [[Code]](https://github.com/DalongZ/SwinV2DNet)
+- (arXiv 2023.10) Efficient Remote Sensing Segmentation With Generative Adversarial Transformer, [[Paper]](https://arxiv.org/pdf/2310.01292.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
