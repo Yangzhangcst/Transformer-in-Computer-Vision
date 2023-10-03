@@ -1974,6 +1974,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) AiAReSeg: Catheter Detection and Segmentation in Interventional Ultrasound using Transformers, [[Paper]](https://arxiv.org/pdf/2309.14492.pdf)
 - (arXiv 2023.09) Cross-Modal Transformer GAN: Brain Structural-Functional Deep Fusing Network for Alzheimer's Disease Analysis, [[Paper]](https://arxiv.org/pdf/2309.16206.pdf)
 - (arXiv 2023.10) MVC: A Multi-Task Vision Transformer Network for COVID-19 Diagnosis from Chest X-ray Images, [[Paper]](https://arxiv.org/pdf/2310.00418.pdf)
+- (arXiv 2023.10) Pubic Symphysis-Fetal Head Segmentation Using Full Transformer with Bi-level Routing Attention, [[Paper]](https://arxiv.org/pdf/2310.00289.pdf),[[Code]](https://github.com/Caipengzhou/BRAU-Net)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3022,6 +3023,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.14065.pdf), [[Code]](https://github.com/Fourier7754/AsymFormer)
 - (arXiv 2023.10) Superpixel Transformers for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.16889.pdf)
 - (arXiv 2023.10) Dual-Augmented Transformer Network for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.00307.pdf)
+- (arXiv 2023.10) Win-Win: Training High-Resolution Vision Transformers from Two Windows, [[Paper]](https://arxiv.org/pdf/2310.00632.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -3270,6 +3272,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Transfer Learning for Microstructure Segmentation with CS-UNet: A Hybrid Algorithm with Transformer and CNN Encoders, [[Paper]](https://arxiv.org/pdf/2308.13917.pdf)
 - (arXiv 2023.09) Domain Adaptation for Efficiently Fine-tuning Vision Transformer with Encrypted Images, [[Paper]](https://arxiv.org/pdf/2309.02556.pdf)
 - (arXiv 2023.09) Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning, [[Paper]](https://arxiv.org/pdf/2309.07911.pdf), [[Code]](https://github.com/alibaba-mmai-research/DiST)
+- (arXiv 2023.10) ZeroI2V: Zero-Cost Adaptation of Pre-trained Transformers from Image to Video, [[Paper]](https://arxiv.org/pdf/2310.01324.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
