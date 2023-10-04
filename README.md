@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/03
+**Last updated: 2023/10/04
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -796,6 +796,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Efficient Low-rank Backpropagation for Vision Transformer Adaptation, [[Paper]](https://arxiv.org/pdf/2309.15275.pdf)
 - (arXiv 2023.09) Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words, [[Paper]](https://arxiv.org/pdf/2309.16108.pdf)
 - (arXiv 2023.09) Vision Transformers Need Registers, [[Paper]](https://arxiv.org/pdf/2309.16588.pdf)
+- (arXiv 2023.10) PPT: Token Pruning and Pooling for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.01812.pdf)
+- (arXiv 2023.10) Selective Feature Adapter for Dense Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.01843.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1975,6 +1977,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Cross-Modal Transformer GAN: Brain Structural-Functional Deep Fusing Network for Alzheimer's Disease Analysis, [[Paper]](https://arxiv.org/pdf/2309.16206.pdf)
 - (arXiv 2023.10) MVC: A Multi-Task Vision Transformer Network for COVID-19 Diagnosis from Chest X-ray Images, [[Paper]](https://arxiv.org/pdf/2310.00418.pdf)
 - (arXiv 2023.10) Pubic Symphysis-Fetal Head Segmentation Using Full Transformer with Bi-level Routing Attention, [[Paper]](https://arxiv.org/pdf/2310.00289.pdf),[[Code]](https://github.com/Caipengzhou/BRAU-Net)
+- (arXiv 2023.10) RoFormer for Position Aware Multiple Instance Learning in Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2310.01924.pdf),[[Code]](https://github.com/Sanofi-Public/DDS-RoFormerMIL)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2579,6 +2582,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2309.01365.pdf), [[Code]](https://github.com/hbing-l/RTPCA)
 - (arXiv 2023.09) ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.11986.pdf)
 - (arXiv 2023.10) LEAP: Liberate Sparse-view 3D Modeling from Camera Poses, [[Paper]](https://arxiv.org/pdf/2310.01410.pdf), [[Code]](https://github.com/hwjiang1510/LEAP)
+- (arXiv 2023.10) MFOS: Model-Free & One-Shot Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2310.01897.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3024,6 +3028,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Superpixel Transformers for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.16889.pdf)
 - (arXiv 2023.10) Dual-Augmented Transformer Network for Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.00307.pdf)
 - (arXiv 2023.10) Win-Win: Training High-Resolution Vision Transformers from Two Windows, [[Paper]](https://arxiv.org/pdf/2310.00632.pdf)
+- (arXiv 2023.10) TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.02260.pdf), [[Code]](https://github.com/YahiDar/TransRadar)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -3437,6 +3442,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) PanoVOS:Bridging Non-panoramic and Panoramic Views with Transformer for Video Segmentation, [[Paper]](https://arxiv.org/pdf/2309.12303.pdf), [[Code]](https://github.com/shilinyan99/PanoVOS)
 - (arXiv 2023.09) Fully Transformer-Equipped Architecture for End-to-End Referring Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2309.11933.pdf)
 - (arXiv 2023.09) Spatial-Temporal Transformer based Video Compression Framework, [[Paper]](https://arxiv.org/pdf/2309.11913.pdf)
+- (arXiv 2023.10) Video Transformers under Occlusion: How Physics and Background Attributes Impact Large Models for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2310.02044.pdf), [[Code]](https://github.com/ShutongJIN/OccluManip.git)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
