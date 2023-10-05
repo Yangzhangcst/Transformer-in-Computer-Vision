@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/04
+**Last updated: 2023/10/05
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -798,6 +798,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Vision Transformers Need Registers, [[Paper]](https://arxiv.org/pdf/2309.16588.pdf)
 - (arXiv 2023.10) PPT: Token Pruning and Pooling for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.01812.pdf)
 - (arXiv 2023.10) Selective Feature Adapter for Dense Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.01843.pdf)
+- (arXiv 2023.10) GET: Group Event Transformer for Event-Based Vision, [[Paper]](https://arxiv.org/pdf/2310.02642.pdf), [[Code]](https://github.com/Peterande/GET-Group-Event-Transformer)
+- (arXiv 2023.10) ViT-ReciproCAM: Gradient and Attention-Free Visual Explanations for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2310.02588.pdf)
+- (arXiv 2023.10) SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.02544.pdf), [[Code]](https://github.com/UCDvision/SlowFormer)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1978,6 +1981,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) MVC: A Multi-Task Vision Transformer Network for COVID-19 Diagnosis from Chest X-ray Images, [[Paper]](https://arxiv.org/pdf/2310.00418.pdf)
 - (arXiv 2023.10) Pubic Symphysis-Fetal Head Segmentation Using Full Transformer with Bi-level Routing Attention, [[Paper]](https://arxiv.org/pdf/2310.00289.pdf),[[Code]](https://github.com/Caipengzhou/BRAU-Net)
 - (arXiv 2023.10) RoFormer for Position Aware Multiple Instance Learning in Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2310.01924.pdf),[[Code]](https://github.com/Sanofi-Public/DDS-RoFormerMIL)
+- (arXiv 2023.10) Multi-Dimension-Embedding-Aware Modality Fusion Transformer for Psychiatric Disorder Clasification, [[Paper]](https://arxiv.org/pdf/2310.02690.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2352,6 +2356,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Contrastive Feature Masking Open-Vocabulary Vision Transformer, [[Paper]](https://arxiv.org/pdf/2309.00775.pdf)
 - (arXiv 2023.09) Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter, [[Paper]](https://arxiv.org/pdf/2309.02773.pdf)
 - (arXiv 2023.09) Unsupervised Open-Vocabulary Object Localization in Videos, [[Paper]](https://arxiv.org/pdf/2309.09858.pdf), [[Code]](https://github.com/aim-uofa/SegPrompt)
+- (arXiv 2023.10) CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2310.02960.pdf), [[Code]](https://github.com/yangcaoai/CoDA_NeurIPS2023)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
