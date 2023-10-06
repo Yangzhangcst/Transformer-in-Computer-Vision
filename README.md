@@ -1291,6 +1291,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Vision Transformer Off-the-Shelf: A Surprising Baseline for Few-Shot Class-Agnostic Counting, [[Paper]](https://arxiv.org/pdf/2305.04440.pdf)
 - (arXiv 2023.07) Multiscale Memory Comparator Transformer for Few-Shot Video Segmentation, [[Paper]](https://arxiv.org/pdf/2307.07812.pdf), [[Code]](https://github.com/MSiam/MMC-MultiscaleMemory)
 - (arXiv 2023.07) Target-aware Bi-Transformer for Few-shot Segmentation, [[Paper]](https://arxiv.org/pdf/2309.09492.pdf)
+- (arXiv 2023.10) PrototypeFormer: Learning to Explore Prototype Relationships for Few-shot Image Classification, [[Paper]](https://arxiv.org/pdf/2310.03517.pdf)
 
 ### Fusion
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
@@ -1982,6 +1983,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Pubic Symphysis-Fetal Head Segmentation Using Full Transformer with Bi-level Routing Attention, [[Paper]](https://arxiv.org/pdf/2310.00289.pdf),[[Code]](https://github.com/Caipengzhou/BRAU-Net)
 - (arXiv 2023.10) RoFormer for Position Aware Multiple Instance Learning in Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2310.01924.pdf),[[Code]](https://github.com/Sanofi-Public/DDS-RoFormerMIL)
 - (arXiv 2023.10) Multi-Dimension-Embedding-Aware Modality Fusion Transformer for Psychiatric Disorder Clasification, [[Paper]](https://arxiv.org/pdf/2310.02690.pdf)
+- (arXiv 2023.10) Swin-Tempo: Temporal-Aware Lung Nodule Detection in CT Scans as Video Sequences Using Swin Transformer-Enhanced UNet, [[Paper]](https://arxiv.org/pdf/2310.03365.pdf)
+- (arXiv 2023.10) Blind CT Image Quality Assessment Using DDPM-derived Content and Transformer-based Evaluator, [[Paper]](https://arxiv.org/pdf/2310.03118.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3448,6 +3451,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Fully Transformer-Equipped Architecture for End-to-End Referring Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2309.11933.pdf)
 - (arXiv 2023.09) Spatial-Temporal Transformer based Video Compression Framework, [[Paper]](https://arxiv.org/pdf/2309.11913.pdf)
 - (arXiv 2023.10) Video Transformers under Occlusion: How Physics and Background Attributes Impact Large Models for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2310.02044.pdf), [[Code]](https://github.com/ShutongJIN/OccluManip.git)
+- (arXiv 2023.10) Reinforcement Learning-based Mixture of Vision Transformers for Video Violence Recognition, [[Paper]](https://arxiv.org/pdf/2310.03108.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
