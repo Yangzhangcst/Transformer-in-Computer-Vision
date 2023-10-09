@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/06
+**Last updated: 2023/10/09
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -801,6 +801,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) GET: Group Event Transformer for Event-Based Vision, [[Paper]](https://arxiv.org/pdf/2310.02642.pdf), [[Code]](https://github.com/Peterande/GET-Group-Event-Transformer)
 - (arXiv 2023.10) ViT-ReciproCAM: Gradient and Attention-Free Visual Explanations for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2310.02588.pdf)
 - (arXiv 2023.10) SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.02544.pdf), [[Code]](https://github.com/UCDvision/SlowFormer)
+- (arXiv 2023.10) TiC: Exploring Vision Transformer in Convolution, [[Paper]](https://arxiv.org/pdf/2310.04134.pdf), [[Code]](https://github.com/zs670980918/MSA-Conv)
+- (arXiv 2023.10) Sub-token ViT Embedding via Stochastic Resonance Transformers, [[Paper]](https://arxiv.org/pdf/2310.03967.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2655,6 +2657,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) M2Former: Multi-Scale Patch Selection for Fine-Grained Visual Recognition, [[Paper]](https://arxiv.org/pdf/2308.02161.pdf)
 - (arXiv 2023.09) Parameter-Efficient Long-Tailed Recognition, [[Paper]](https://arxiv.org/pdf/2309.10019.pdf), [[Code]](https://github.com/shijxcs/PEL)
 - (arXiv 2023.09) MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings, [[Paper]](https://arxiv.org/pdf/2309.10765.pdf), [[Code]](https://github.com/surbhimadan92/MAGIC-TBR)
+- (arXiv 2023.10) ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer, [[Paper]](https://arxiv.org/pdf/2310.04099.pdf), [[Code]](https://github.com/surbhimadan92/MAGIC-TBR)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -3117,6 +3120,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Dual Aggregation Transformer for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.03364.pdf), [[Code]](https://github.com/zhengchen1999/DAT)
 - (arXiv 2023.08) Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.02794.pdf), [[Code]](https://github.com/yongliuy/DITN)
 - (arXiv 2023.08) S2R: Exploring a Double-Win Transformer-Based Framework for Ideal and Blind Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.08142.pdf), [[Code]](https://github.com/berumotto-vermouth/S2R.12)
+- (arXiv 2023.10) Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2310.04180.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/DSAT/tree/main)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
