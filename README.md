@@ -1154,6 +1154,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection, [[Paper]](https://arxiv.org/pdf/2309.08504.pdf), [[Code]](https://github.com/jypjypjypjyp/OccupancyDETR)
 - (arXiv 2023.10) Pixel-Aligned Recurrent Queries for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2310.01401.pdf), [[Code]](https://github.com/ymingxie/parq)
 - (arXiv 2023.10) Uni3DETR: Unified 3D Detection Transformer, [[Paper]](https://arxiv.org/pdf/2310.05699.pdf), [[Code]](https://github.com/zhenyuw16/Uni3DETR)
+- (arXiv 2023.10) SimPLR: A Simple and Plain Transformer for Object Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2310.05920.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
