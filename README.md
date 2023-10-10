@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/09
+**Last updated: 2023/10/10
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -1987,6 +1987,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Multi-Dimension-Embedding-Aware Modality Fusion Transformer for Psychiatric Disorder Clasification, [[Paper]](https://arxiv.org/pdf/2310.02690.pdf)
 - (arXiv 2023.10) Swin-Tempo: Temporal-Aware Lung Nodule Detection in CT Scans as Video Sequences Using Swin Transformer-Enhanced UNet, [[Paper]](https://arxiv.org/pdf/2310.03365.pdf)
 - (arXiv 2023.10) Blind CT Image Quality Assessment Using DDPM-derived Content and Transformer-based Evaluator, [[Paper]](https://arxiv.org/pdf/2310.03118.pdf)
+- (arXiv 2023.10) A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.05572.pdf),[[Code]](https://github.com/matteo-bastico/MI-Seg)
+- (arXiv 2023.10) TransCC: Transformer Network for Coronary Artery CCTA Segmentation, [[Paper]](https://arxiv.org/pdf/2310.04779.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
