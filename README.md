@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/11
+**Last updated: 2023/10/12
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -809,6 +809,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Hierarchical Side-Tuning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.05393.pdf), [[Code]](https://github.com/AFeng-x/HST)
 - (arXiv 2023.10) EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention, [[Paper]](https://arxiv.org/pdf/2310.06629.pdf), [[Code]](https://github.com/nkusyl)
 - (arXiv 2023.10) Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing, [[Paper]](https://arxiv.org/pdf/2310.06234.pdf), [[Code]](https://github.com/DavidYanAnDe/ARC)
+- (arXiv 2023.10) Accelerating Vision Transformers Based on Heterogeneous Attention Patterns, [[Paper]](https://arxiv.org/pdf/2310.07664.pdf)
+- (arXiv 2023.10) MatFormer: Nested Transformer for Elastic Inference, [[Paper]](https://arxiv.org/pdf/2310.07707.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -821,6 +823,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) FishDreamer: Towards Fisheye Semantic Completion via Unified Image Outpainting and Segmentation, [[Paper]](https://arxiv.org/pdf/2303.13842.pdf), [[Code]](https://github.com/MasterHow/FishDreamer)
 - (arXiv 2023.04) Contour Completion by Transformers and Its Application to Vector Font Data, [[Paper]](https://arxiv.org/pdf/2304.13988.pdf)
 - (arXiv 2023.07) CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2307.07938.pdf)
+- (arXiv 2023.10) Distance-based Weighted Transformer Network for Image Completion, [[Paper]](https://arxiv.org/pdf/2310.07440.pdf)
 
 ### Compression
 - (arXiv 2021.10) Accelerating Framework of Transformer by hardware Design and Model Compression Co-Optimization, [[Paper]](https://arxiv.org/pdf/2110.10030.pdf)
@@ -1381,6 +1384,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
 - (arXiv 2023.07) Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting, [[Paper]](https://arxiv.org/pdf/2307.08243.pdf), [[Code]](https://github.com/Cogito2012/USST)
 - (arXiv 2023.08) Nonrigid Object Contact Estimation With Regional Unwrapping Transformer, [[Paper]](https://arxiv.org/pdf/2308.14074.pdf)
+- (arXiv 2023.10) BodyFormer: Semantics-guided 3D Body Gesture Synthesis with Transformer, [[Paper]](https://arxiv.org/pdf/2310.06851.pdf)
 
 ### High Dynamic Range Imaging
 - (arXiv 2022.08) Ghost-free High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
@@ -1430,6 +1434,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) SaaFormer: Spectral-spatial Axial Aggregation Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2306.16759.pdf)
 - (arXiv 2023.08) Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.10820.pdf), [[Code]](https://github.com/MyuLi/PADUT)
 - (arXiv 2023.09) FactoFormer: Factorized Hyperspectral Transformers with Self-Supervised Pre-Training, [[Paper]](https://arxiv.org/pdf/2309.09431.pdf), [[Code]](https://github.com/csiro-robotics/factoformer)
+- (arXiv 2023.10) Multiview Transformer: Rethinking Spatial Information in Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2310.07186.pdf)
 
 ### Illumination
 - (arXiv 2022.05) Illumination Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
@@ -1522,6 +1527,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Are Large Kernels Better Teachers than Transformers for ConvNets?, [[Paper]](https://arxiv.org/pdf/2305.19412.pdf), [[Code]](https://github.com/VITA-Group/SLaK)
 - (arXiv 2023.07) Cumulative Spatial Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.08500.pdf)
 - (arXiv 2023.10) CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction, [[Paper]](https://arxiv.org/pdf/2310.01403.pdf), [[Code]](https://github.com/wusize/CLIPSelf)
+- (arXiv 2023.10) Distilling Efficient Vision Transformers from CNNs for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.07265.pdf), [[Code]](https://vlislab22.github.io/C2VKD/)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -3057,6 +3063,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Win-Win: Training High-Resolution Vision Transformers from Two Windows, [[Paper]](https://arxiv.org/pdf/2310.00632.pdf)
 - (arXiv 2023.10) TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.02260.pdf), [[Code]](https://github.com/YahiDar/TransRadar)
 - (arXiv 2023.10) Low-Resolution Self-Attention for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.05026.pdf)
+- (arXiv 2023.10) CLIP for Lightweight Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.07394.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
