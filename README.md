@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/12
+**Last updated: 2023/10/13
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -1435,6 +1435,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Pixel Adaptive Deep Unfolding Transformer for Hyperspectral Image Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.10820.pdf), [[Code]](https://github.com/MyuLi/PADUT)
 - (arXiv 2023.09) FactoFormer: Factorized Hyperspectral Transformers with Self-Supervised Pre-Training, [[Paper]](https://arxiv.org/pdf/2309.09431.pdf), [[Code]](https://github.com/csiro-robotics/factoformer)
 - (arXiv 2023.10) Multiview Transformer: Rethinking Spatial Information in Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2310.07186.pdf)
+- (arXiv 2023.10) MLP-AMDC: An MLP Architecture for Adaptive-Mask-based Dual-Camera snapshot hyperspectral imaging, [[Paper]](https://arxiv.org/pdf/2310.08002.pdf), [[Code]](https://github.com/caizeyu1992/MLP-AMDC)
 
 ### Illumination
 - (arXiv 2022.05) Illumination Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
@@ -2005,6 +2006,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.05572.pdf),[[Code]](https://github.com/matteo-bastico/MI-Seg)
 - (arXiv 2023.10) TransCC: Transformer Network for Coronary Artery CCTA Segmentation, [[Paper]](https://arxiv.org/pdf/2310.04779.pdf)
 - (arXiv 2023.10) HydraViT: Adaptive Multi-Branch Transformer for Multi-Label Disease Classification from Chest X-ray Images, [[Paper]](https://arxiv.org/pdf/2310.06143.pdf)
+- (arXiv 2023.10) COVID-19 Detection Using Swin Transformer Approach from Computed Tomography Images, [[Paper]](https://arxiv.org/pdf/2310.08165.pdf)
+- (arXiv 2023.10) 3D TransUNet: Advancing Medical Image Segmentation through Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.07781.pdf),[[Code]](https://github.com/Beckschen/3D-TransUNet)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2613,6 +2616,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.11986.pdf)
 - (arXiv 2023.10) LEAP: Liberate Sparse-view 3D Modeling from Camera Poses, [[Paper]](https://arxiv.org/pdf/2310.01410.pdf), [[Code]](https://github.com/hwjiang1510/LEAP)
 - (arXiv 2023.10) MFOS: Model-Free & One-Shot Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2310.01897.pdf)
+- (arXiv 2023.10) UniPose: Detecting Any Keypoints, [[Paper]](https://arxiv.org/pdf/2310.08530.pdf), [[Code]](https://github.com/IDEA-Research/UniPose)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2772,6 +2776,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) SwinV2DNet: Pyramid and Self-Supervision Compounded Feature Learning for Remote Sensing Images Change Detection, [[Paper]](https://arxiv.org/pdf/2308.11159.pdf), [[Code]](https://github.com/DalongZ/SwinV2DNet)
 - (arXiv 2023.08) RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework, [[Paper]](https://arxiv.org/pdf/2309.09003.pdf), [[Code]](https://github.com/DalongZ/SwinV2DNet)
 - (arXiv 2023.10) Efficient Remote Sensing Segmentation With Generative Adversarial Transformer, [[Paper]](https://arxiv.org/pdf/2310.01292.pdf)
+- (arXiv 2023.10) HeightFormer: A Multilevel Interaction and Image-adaptive Classification-regression Network for Monocular Height Estimation with Aerial Images, [[Paper]](https://arxiv.org/pdf/2310.07995.pdf), [[Code]](https://github.com/qbxfcz/HeightFormer)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
