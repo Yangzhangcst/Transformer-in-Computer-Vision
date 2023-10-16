@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/13
+**Last updated: 2023/10/16
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -327,6 +327,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.07) IDET: Iterative Difference-Enhanced Transformers for High-Quality Change Detection, [[Paper]](https://arxiv.org/pdf/2207.09240.pdf)
 - (arXiv 2023.08) UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation, [[Paper]](https://arxiv.org/pdf/2308.01146.pdf), [[Code]](https://github.com/zhu-xlab/UCDFormer)
 - (arXiv 2023.09) Changes-Aware Transformer: Learning Generalized Changes Representation, [[Paper]](https://arxiv.org/pdf/2309.13619.pdf)
+- (arXiv 2023.10) Transformer-based Multimodal Change Detection with Multitask Consistency Constraints, [[Paper]](https://arxiv.org/pdf/2310.09276.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -983,6 +984,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) NoiseTrans: Point Cloud Denoising with Transformers, [[Paper]](https://arxiv.org/pdf/2304.11812.pdf)
 - (arXiv 2023.05) RViDeformer: Efficient Raw Video Denoising Transformer with a Larger Benchmark Dataset, [[Paper]](https://arxiv.org/pdf/2305.00767.pdf)
 - (arXiv 2023.05) Degradation-Noise-Aware Deep Unfolding Transformer for Hyperspectral Image Denoising, [[Paper]](https://arxiv.org/pdf/2305.04047.pdf)
+- (arXiv 2023.10) Physics-guided Noise Neural Proxy for Low-light Raw Image Denoising, [[Paper]](https://arxiv.org/pdf/2310.09126.pdf)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -1160,6 +1162,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Pixel-Aligned Recurrent Queries for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2310.01401.pdf), [[Code]](https://github.com/ymingxie/parq)
 - (arXiv 2023.10) Uni3DETR: Unified 3D Detection Transformer, [[Paper]](https://arxiv.org/pdf/2310.05699.pdf), [[Code]](https://github.com/zhenyuw16/Uni3DETR)
 - (arXiv 2023.10) SimPLR: A Simple and Plain Transformer for Object Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2310.05920.pdf)
+- (arXiv 2023.10) Rank-DETR for High Quality Object Detection, [[Paper]](https://arxiv.org/pdf/2310.08854.pdf), [[Code]](https://github.com/LeapLabTHU/Rank-DETR)
+- (arXiv 2023.10) Investigating the Robustness and Properties of Detection Transformers (DETR) Toward Difficult Images, [[Paper]](https://arxiv.org/pdf/2310.08772.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2008,6 +2012,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) HydraViT: Adaptive Multi-Branch Transformer for Multi-Label Disease Classification from Chest X-ray Images, [[Paper]](https://arxiv.org/pdf/2310.06143.pdf)
 - (arXiv 2023.10) COVID-19 Detection Using Swin Transformer Approach from Computed Tomography Images, [[Paper]](https://arxiv.org/pdf/2310.08165.pdf)
 - (arXiv 2023.10) 3D TransUNet: Advancing Medical Image Segmentation through Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.07781.pdf),[[Code]](https://github.com/Beckschen/3D-TransUNet)
+- (arXiv 2023.10) Faster 3D cardiac CT segmentation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.09099.pdf),[[Code]](http://github.com/ljollans/TRUNet)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
