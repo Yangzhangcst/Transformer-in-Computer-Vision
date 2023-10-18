@@ -926,6 +926,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation, [[Paper]](https://arxiv.org/pdf/2308.14400.pdf)
 - (arXiv 2023.09) SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2309.00526.pdf), [[Code]](https://github.com/hisfog/SQLdepth-Impl)
 - (arXiv 2023.10) GSDC Transformer: An Efficient and Effective Cue Fusion for Monocular Multi-Frame Depth Estimation, [[Paper]](https://arxiv.org/pdf/2309.17059.pdf)
+- (arXiv 2023.10) FocDepthFormer: Transformer with LSTM for Depth Estimation from Focus, [[Paper]](https://arxiv.org/pdf/2309.17059.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -987,6 +988,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) RViDeformer: Efficient Raw Video Denoising Transformer with a Larger Benchmark Dataset, [[Paper]](https://arxiv.org/pdf/2305.00767.pdf)
 - (arXiv 2023.05) Degradation-Noise-Aware Deep Unfolding Transformer for Hyperspectral Image Denoising, [[Paper]](https://arxiv.org/pdf/2305.04047.pdf)
 - (arXiv 2023.10) Physics-guided Noise Neural Proxy for Low-light Raw Image Denoising, [[Paper]](https://arxiv.org/pdf/2310.09126.pdf)
+- (arXiv 2023.10) A cross Transformer for image denoising, [[Paper]](https://arxiv.org/pdf/2310.10408.pdf), [[Code]](https://github.com/hellloxiaotian/CTNet)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -1166,6 +1168,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) SimPLR: A Simple and Plain Transformer for Object Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2310.05920.pdf)
 - (arXiv 2023.10) Rank-DETR for High Quality Object Detection, [[Paper]](https://arxiv.org/pdf/2310.08854.pdf), [[Code]](https://github.com/LeapLabTHU/Rank-DETR)
 - (arXiv 2023.10) Investigating the Robustness and Properties of Detection Transformers (DETR) Toward Difficult Images, [[Paper]](https://arxiv.org/pdf/2310.08772.pdf)
+- (arXiv 2023.10) Multi Self-supervised Pre-fine-tuned Transformer Fusion for Better Intelligent Transportation Detection, [[Paper]](https://arxiv.org/pdf/2310.11307.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2015,6 +2018,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) COVID-19 Detection Using Swin Transformer Approach from Computed Tomography Images, [[Paper]](https://arxiv.org/pdf/2310.08165.pdf)
 - (arXiv 2023.10) 3D TransUNet: Advancing Medical Image Segmentation through Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.07781.pdf),[[Code]](https://github.com/Beckschen/3D-TransUNet)
 - (arXiv 2023.10) Faster 3D cardiac CT segmentation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.09099.pdf),[[Code]](http://github.com/ljollans/TRUNet)
+- (arXiv 2023.10) Tackling Heterogeneity in Medical Federated learning via Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.09444.pdf)
+- (arXiv 2023.10) A Multi-Scale Spatial Transformer U-Net for Simultaneously Automatic Reorientation and Segmentation of 3D Nuclear Cardiac Images, [[Paper]](https://arxiv.org/pdf/2310.10095.pdf)
+- (arXiv 2023.10) SeUNet-Trans: A Simple yet Effective UNet-Transformer Model for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2310.09998.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2625,6 +2631,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) LEAP: Liberate Sparse-view 3D Modeling from Camera Poses, [[Paper]](https://arxiv.org/pdf/2310.01410.pdf), [[Code]](https://github.com/hwjiang1510/LEAP)
 - (arXiv 2023.10) MFOS: Model-Free & One-Shot Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2310.01897.pdf)
 - (arXiv 2023.10) UniPose: Detecting Any Keypoints, [[Paper]](https://arxiv.org/pdf/2310.08530.pdf), [[Code]](https://github.com/IDEA-Research/UniPose)
+- (arXiv 2023.10) MoEmo Vision Transformer: Integrating Cross-Attention and Movement Vectors in 3D Pose Estimation for HRI Emotion Detection, [[Paper]](https://arxiv.org/pdf/2310.09757.pdf), [[Code]](https://github.com/IDEA-Research/UniPose)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2733,6 +2740,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Non-iterative Coarse-to-fine Transformer Networks for Joint Affine and Deformable Image Registration, [[Paper]](https://arxiv.org/pdf/2307.03421.pdf)
 - (arXiv 2023.08) 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds, [[Paper]](https://arxiv.org/pdf/2308.05667.pdf), [[Code]](https://github.com/minhaolee/2D3DMATR)
 - (arXiv 2023.08) GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer, [[Paper]](https://arxiv.org/pdf/2308.03768.pdf), [[Code]](https://github.com/qinzheng93/GeoTransformer)
+- (arXiv 2023.10) OAAFormer: Robust and Efficient Point Cloud Registration Through Overlapping-Aware Attention in Transformer, [[Paper]](https://arxiv.org/pdf/2310.09817.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
