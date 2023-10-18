@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/16
+**Last updated: 2023/10/18
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -276,6 +276,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) HeightFormer: Explicit Height Modeling without Extra Data for Camera-only 3D Object Detection in Bird’s Eye View, [[Paper]](https://arxiv.org/pdf/2307.13510.pdf)
 - (arXiv 2023.08) UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation, [[Paper]](https://arxiv.org/pdf/2308.07732.pdf), [[Code]](https://github.com/Haiyang-W/UniTR)
 - (arXiv 2023.09) FusionFormer: A Multi-sensory Fusion in Bird's-Eye-View and Temporal Consistent Transformer for 3D Objection, [[Paper]](https://arxiv.org/pdf/2309.05257.pdf)
+- (arXiv 2023.10) Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing, [[Paper]](https://arxiv.org/pdf/2310.11346.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -855,6 +856,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) JPEG Quantized Coefficient Recovery via DCT Domain Spatial-Frequential Transformer, [[Paper]](https://arxiv.org/pdf/2308.09110.pdf)
 - (arXiv 2023.09) Compressing Vision Transformers for Low-Resource Visual Learning, [[Paper]](https://arxiv.org/pdf/2309.02617.pdf)
 - (arXiv 2023.09) CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs, [[Paper]](https://arxiv.org/pdf/2309.15755.pdf)
+- (arXiv 2023.10) USDC: Unified Static and Dynamic Compression for Visual Transformer, [[Paper]](https://arxiv.org/pdf/2310.11117.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -2262,6 +2264,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.08) A Light Touch Approach to Teaching Transformers Multi-view Geometry, [[Paper]](https://arxiv.org/pdf/2211.15107.pdf)
 - (arXiv 2023.03) Implicit Ray-Transformers for Multi-view Remote Sensing Image Segmentation, [[Paper]](https://arxiv.org/pdf/2303.08401.pdf)
 - (arXiv 2023.05) CostFormer:Cost Transformer for Cost Aggregation in Multi-view Stereo, [[Paper]](https://arxiv.org/pdf/2305.10320.pdf)
+- (arXiv 2023.10) GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers, [[Paper]](https://arxiv.org/pdf/2310.10375.pdf)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -2782,6 +2785,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework, [[Paper]](https://arxiv.org/pdf/2309.09003.pdf), [[Code]](https://github.com/DalongZ/SwinV2DNet)
 - (arXiv 2023.10) Efficient Remote Sensing Segmentation With Generative Adversarial Transformer, [[Paper]](https://arxiv.org/pdf/2310.01292.pdf)
 - (arXiv 2023.10) HeightFormer: A Multilevel Interaction and Image-adaptive Classification-regression Network for Monocular Height Estimation with Aerial Images, [[Paper]](https://arxiv.org/pdf/2310.07995.pdf), [[Code]](https://github.com/qbxfcz/HeightFormer)
+- (arXiv 2023.10) VcT: Visual change Transformer for Remote Sensing Image Change Detection, [[Paper]](https://arxiv.org/pdf/2310.11417.pdf), [[Code]](https://github.com/Event-AHU/VcT_Remote_Sensing_Change_Detection)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -3336,6 +3340,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Unsupervised learning
 - (arXiv 2022.02) Handcrafted Histological Transformer (H2T): Unsupervised Representation of Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2202.07001.pdf)
 - (arXiv 2022.07) SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery, [[Paper]](https://arxiv.org/pdf/2207.08051.pdf)
+
+### UAV
+- (arXiv 2023.10) SoybeanNet: Transformer-Based Convolutional Neural Network for Soybean Pod Counting from Unmanned Aerial Vehicle (UAV) Images, [[Paper]](https://arxiv.org/pdf/2310.10861.pdf), [[Code]](https://github.com/JiajiaLi04/Soybean-Pod-Counting-from-UAV-Images)
 
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
