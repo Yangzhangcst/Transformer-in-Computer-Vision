@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/18
+**Last updated: 2023/10/19
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -2722,6 +2722,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) A Transformer-Conditioned Neural Fields Pipeline with Polar Coordinate Representation for Astronomical Radio Interferometric Data Reconstruction, [[Paper]](https://arxiv.org/pdf/2308.14610.pdf)
 - (arXiv 2023.09) Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction, [[Paper]](https://arxiv.org/pdf/2309.13524.pdf),[[Code]](https://github.com/River-Zhang/GTA)
 - (arXiv 2023.10) Sketch2CADScript: 3D Scene Reconstruction from 2D Sketch using Visual Transformer and Rhino Grasshopper, [[Paper]](https://arxiv.org/pdf/2309.16850.pdf)
+- (arXiv 2023.10) ShapeGraFormer: GraFormer-Based Network for Hand-Object Reconstruction from a Single Depth Map, [[Paper]](https://arxiv.org/pdf/2310.11811.pdf)
+- (arXiv 2023.10) DIAR: Deep Image Alignment and Reconstruction using Swin Transformers, [[Paper]](https://arxiv.org/pdf/2310.11605.pdf)
 
 ### Referring
 - (arXiv 2021.08) Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
@@ -2877,6 +2879,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Distortion-aware Transformer in 360° Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2308.03359.pdf),[[Code]](https://github.com/yjzhao19981027/DATFormer/)
 - (arXiv 2023.09) UniST: Towards Unifying Saliency Transformer for Video Saliency Prediction and Detection, [[Paper]](https://arxiv.org/pdf/2309.08220.pdf)
 - (arXiv 2023.09) Salient Object Detection in Optical Remote Sensing Images Driven by Transformer, [[Paper]](https://arxiv.org/pdf/2309.08206.pdf), [[Code]](https://github.com/LiJiahang617/Road-Former)
+- (arXiv 2023.10) VST++: Efficient and Stronger Visual Saliency Transformer, [[Paper]](https://arxiv.org/pdf/2310.11725.pdf), [[Code]](https://github.com/LiJiahang617/Road-Former)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
@@ -3086,6 +3089,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.02260.pdf), [[Code]](https://github.com/YahiDar/TransRadar)
 - (arXiv 2023.10) Low-Resolution Self-Attention for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.05026.pdf)
 - (arXiv 2023.10) CLIP for Lightweight Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.07394.pdf)
+- (arXiv 2023.10) SegmATRon: Embodied Adaptive Semantic Segmentation for Indoor Environment, [[Paper]](https://arxiv.org/pdf/2310.12031.pdf), [[Code]](https://github.com/wingrune/SegmATRon)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -3825,6 +3829,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Automatic Bat Call Classification using Transformer Networks, [[Paper]](https://arxiv.org/pdf/2309.11218.pdf)
 - (arXiv 2023.09) Beyond Grids: Exploring Elastic Input Sampling for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.13353.pdf)
 - (arXiv 2023.09) Improving Facade Parsing with Vision Transformers and Line Integration, [[Paper]](https://arxiv.org/pdf/2309.15523.pdf), [[Code]](https://github.com/wbw520/RTFP)
+- (arXiv 2023.10) Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness, [[Paper]](https://arxiv.org/pdf/2310.12076.pdf)
 
 ## Contact & Feedback
 
