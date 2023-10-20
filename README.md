@@ -4,6 +4,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 **Last updated: 2023/10/20
 
 ## Survey: 
+- (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
+
+- (arXiv 2023.10) Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey. [[Paper]](https://arxiv.org/pdf/2310.12904.pdf), [[Awesome]](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)
+
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
 
 - (arXiv 2023.09) A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking. [[Paper]](https://arxiv.org/pdf/2309.02031.pdf)
@@ -813,6 +817,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing, [[Paper]](https://arxiv.org/pdf/2310.06234.pdf), [[Code]](https://github.com/DavidYanAnDe/ARC)
 - (arXiv 2023.10) Accelerating Vision Transformers Based on Heterogeneous Attention Patterns, [[Paper]](https://arxiv.org/pdf/2310.07664.pdf)
 - (arXiv 2023.10) MatFormer: Nested Transformer for Elastic Inference, [[Paper]](https://arxiv.org/pdf/2310.07707.pdf)
+- (arXiv 2023.10) Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems, [[Paper]](https://arxiv.org/pdf/2310.12956.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
