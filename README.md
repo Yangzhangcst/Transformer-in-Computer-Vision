@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/19
+**Last updated: 2023/10/20
 
 ## Survey: 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
@@ -2021,6 +2021,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Tackling Heterogeneity in Medical Federated learning via Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.09444.pdf)
 - (arXiv 2023.10) A Multi-Scale Spatial Transformer U-Net for Simultaneously Automatic Reorientation and Segmentation of 3D Nuclear Cardiac Images, [[Paper]](https://arxiv.org/pdf/2310.10095.pdf)
 - (arXiv 2023.10) SeUNet-Trans: A Simple yet Effective UNet-Transformer Model for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2310.09998.pdf)
+- (arXiv 2023.10) Heart Disease Detection using Vision-Based Transformer Models from ECG Images, [[Paper]](https://arxiv.org/pdf/2310.12630.pdf)
+- (arXiv 2023.10) Predicting Ovarian Cancer Treatment Response in Histopathology using Hierarchical Vision Transformers and Multiple Instance Learning, [[Paper]](https://arxiv.org/pdf/2310.12866.pdf)
+- (arXiv 2023.10) DA-TransUNet: Integrating Spatial and Channel Dual Attention with Transformer U-Net for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2310.12570.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2069,6 +2072,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) TransFusion: A Practical and Effective Transformer-based Diffusion Model for 3D Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2307.16106.pdf)
 - (arXiv 2023.08) Joint-Relation Transformer for Multi-Person Motion Prediction, [[Paper]](https://arxiv.org/pdf/2308.04808.pdf), [[Code]](https://github.com/MediaBrain-SJTU/JRTransformer)
 - (arXiv 2023.08) A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis, [[Paper]](https://arxiv.org/pdf/2308.07301.pdf), [[Code]](https://github.com/Sadegh28/ATR)
+- (arXiv 2023.10) Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding, [[Paper]](https://arxiv.org/pdf/2310.12970.pdf), [[Code]](https://github.com/zhejz/HPTR)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2541,6 +2545,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Research on self-cross transformer model of point cloud change detecter, [[Paper]](https://arxiv.org/pdf/2309.07444.pdf)
 - (arXiv 2023.09) Radar Instance Transformer: Reliable Moving Instance Segmentation in Sparse Radar Point Clouds, [[Paper]](https://arxiv.org/pdf/2309.16435.pdf)
 - (arXiv 2023.10) Uni3D: Exploring Unified 3D Representation at Scale, [[Paper]](https://arxiv.org/pdf/2310.06773.pdf), [[Code]](https://github.com/baaivision/Uni3D)
+- (arXiv 2023.10) 2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision, [[Paper]](https://arxiv.org/pdf/2310.12817.pdf), [[Code]](https://jimmy15923.github.io/mit_web/)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3090,6 +3095,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Low-Resolution Self-Attention for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.05026.pdf)
 - (arXiv 2023.10) CLIP for Lightweight Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.07394.pdf)
 - (arXiv 2023.10) SegmATRon: Embodied Adaptive Semantic Segmentation for Indoor Environment, [[Paper]](https://arxiv.org/pdf/2310.12031.pdf), [[Code]](https://github.com/wingrune/SegmATRon)
+- (arXiv 2023.10) Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.12755.pdf), [[Code]](https://github.com/ydhongHIT/PlainSeg)
+- (arXiv 2023.10) Cross-attention Spatio-temporal Context Transformer for Semantic Segmentation of Historical Maps, [[Paper]](https://arxiv.org/pdf/2310.12616.pdf), [[Code]](https://github.com/chenyizi086/wu.2023.sigspatial.git)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
