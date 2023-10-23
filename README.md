@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/20
+**Last updated: 2023/10/23
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -189,6 +189,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Unified Contrastive Fusion Transformer for Multimodal Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2309.05032.pdf)
 - (arXiv 2023.09) SkeleTR: Towrads Skeleton-based Action Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2309.11445.pdf)
 - (arXiv 2023.09) Egocentric RGB+Depth Action Recognition in Industry-Like Settings, [[Paper]](https://arxiv.org/pdf/2309.13962.pdf)
+- (arXiv 2023.10) POTLoc: Pseudo-Label Oriented Transformer for Point-Supervised Temporal Action Localization, [[Paper]](https://arxiv.org/pdf/2310.13585.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1586,6 +1587,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) Adaptive Spot-Guided Transformer for Consistent Local Feature Matching, [[Paper]](https://arxiv.org/pdf/2303.16624.pdf), [[Code]](https://astr2023.github.io/)
 - (arXiv 2023.05) AMatFormer: Efficient Feature Matching via Anchor Matching Transformer, [[Paper]](https://arxiv.org/pdf/2305.19205.pdf)
 - (arXiv 2023.08) Multi-scale Alternated Attention Transformer for Generalized Stereo Matching, [[Paper]](https://arxiv.org/pdf/2308.03048.pdf)
+- (arXiv 2023.10) FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer, [[Paper]](https://arxiv.org/pdf/2310.13605.pdf)
 
 ### Matting
 - (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
@@ -2029,6 +2031,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Heart Disease Detection using Vision-Based Transformer Models from ECG Images, [[Paper]](https://arxiv.org/pdf/2310.12630.pdf)
 - (arXiv 2023.10) Predicting Ovarian Cancer Treatment Response in Histopathology using Hierarchical Vision Transformers and Multiple Instance Learning, [[Paper]](https://arxiv.org/pdf/2310.12866.pdf)
 - (arXiv 2023.10) DA-TransUNet: Integrating Spatial and Channel Dual Attention with Transformer U-Net for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2310.12570.pdf)
+- (arXiv 2023.10) Skin Lesion Segmentation Improved by Transformer-based Networks with Inter-scale Dependency Modeling, [[Paper]](https://arxiv.org/pdf/2310.13604.pdf),[[Code]](https://github.com/saniaesk/skin-lesion-segmentation)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2269,6 +2272,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer, [[Paper]](https://arxiv.org/pdf/2309.09067.pdf), [[Code]](https://github.com/fudong03/MMST-ViT)
 - (arXiv 2023.09) Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation, [[Paper]](https://arxiv.org/pdf/2309.09667.pdf)
 - (arXiv 2023.09) Tile Classification Based Viewport Prediction with Multi-modal Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2309.14704.pdf)
+- (arXiv 2023.10) LeTFuser: Light-weight End-to-end Transformer-Based Sensor Fusion for Autonomous Driving with Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2310.13135.pdf), [[Code]](https://github.com/pagand/e2etransfuser/tree/cvpr-w)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
