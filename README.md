@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/23
+**Last updated: 2023/10/24
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -3106,6 +3106,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) SegmATRon: Embodied Adaptive Semantic Segmentation for Indoor Environment, [[Paper]](https://arxiv.org/pdf/2310.12031.pdf), [[Code]](https://github.com/wingrune/SegmATRon)
 - (arXiv 2023.10) Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.12755.pdf), [[Code]](https://github.com/ydhongHIT/PlainSeg)
 - (arXiv 2023.10) Cross-attention Spatio-temporal Context Transformer for Semantic Segmentation of Historical Maps, [[Paper]](https://arxiv.org/pdf/2310.12616.pdf), [[Code]](https://github.com/chenyizi086/wu.2023.sigspatial.git)
+- (arXiv 2023.10) P2AT: Pyramid Pooling Axial Transformer for Real-time Semantic Segmentation, [[Paper]](https://arxiv.org/abs/2310.15025)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
