@@ -210,6 +210,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks, [[Paper]](https://arxiv.org/pdf/2309.06438.pdf)
 - (arXiv 2023.09) RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias, [[Paper]](https://arxiv.org/pdf/2309.13245.pdf)
 - (arXiv 2023.10) Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2310.04655.pdf)
+- (arXiv 2023.10) ConViViT -- A Deep Neural Network Combining Convolutions and Factorized Self-Attention for Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2310.14416.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -2037,6 +2038,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Skin Lesion Segmentation Improved by Transformer-based Networks with Inter-scale Dependency Modeling, [[Paper]](https://arxiv.org/pdf/2310.13604.pdf),[[Code]](https://github.com/saniaesk/skin-lesion-segmentation)
 - (arXiv 2023.10) Prompt-based Grouping Transformer for Nucleus Detection and Classification, [[Paper]](https://arxiv.org/pdf/2310.14176.pdf)
 - (arXiv 2023.10) Affine-Consistent Transformer for Multi-Class Cell Nuclei Detection, [[Paper]](https://arxiv.org/pdf/2310.14154.pdf), [[Code]](https://github.com/lhaof/PGT)
+- (arXiv 2023.10) Inter-Scale Dependency Modeling for Skin Lesion Segmentation with Transformer-based Networks, [[Paper]](https://arxiv.org/pdf/2310.13727.pdf)
+- (arXiv 2023.10) Ophthalmic Biomarker Detection Using Ensembled Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.14005.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
