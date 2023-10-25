@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/24
+**Last updated: 2023/10/25
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -885,6 +885,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.01) RGB-T Multi-Modal Crowd Counting Based on Transformer, [[Paper]](https://arxiv.org/pdf/2301.03033.pdf), [[Code]](https://github.com/liuzywen/RGBTCC)
 - (arXiv 2023.03) InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views, [[Paper]](https://arxiv.org/pdf/2303.09534.pdf)
 - (arXiv 2023.05) Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2305.10801.pdf)
+- (arXiv 2023.10) Query-adaptive DETR for Crowded Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2310.15725.pdf)
 
 ### Deblurring
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
@@ -1178,6 +1179,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Rank-DETR for High Quality Object Detection, [[Paper]](https://arxiv.org/pdf/2310.08854.pdf), [[Code]](https://github.com/LeapLabTHU/Rank-DETR)
 - (arXiv 2023.10) Investigating the Robustness and Properties of Detection Transformers (DETR) Toward Difficult Images, [[Paper]](https://arxiv.org/pdf/2310.08772.pdf)
 - (arXiv 2023.10) Multi Self-supervised Pre-fine-tuned Transformer Fusion for Better Intelligent Transportation Detection, [[Paper]](https://arxiv.org/pdf/2310.11307.pdf)
+- (arXiv 2023.10) Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection, [[Paper]](https://arxiv.org/pdf/2310.15955.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -3369,6 +3371,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Domain Adaptation for Efficiently Fine-tuning Vision Transformer with Encrypted Images, [[Paper]](https://arxiv.org/pdf/2309.02556.pdf)
 - (arXiv 2023.09) Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning, [[Paper]](https://arxiv.org/pdf/2309.07911.pdf), [[Code]](https://github.com/alibaba-mmai-research/DiST)
 - (arXiv 2023.10) ZeroI2V: Zero-Cost Adaptation of Pre-trained Transformers from Image to Video, [[Paper]](https://arxiv.org/pdf/2310.01324.pdf)
+- (arXiv 2023.10) Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework, [[Paper]](https://arxiv.org/pdf/2310.15646.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
