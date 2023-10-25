@@ -231,6 +231,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) SelFormaly: Towards Task-Agnostic Unified Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2307.12540.pdf)
 - (arXiv 2023.08) Patch-wise Auto-Encoder for Visual Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2308.00429.pdf)
 - (arXiv 2023.09) Mask2Anomaly: Mask Transformer for Universal Open-set Segmentation, [[Paper]](https://arxiv.org/pdf/2309.04579.pdf)
+- (arXiv 2023.10) Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2310.14228.pdf), [[Code]](https://github.com/RuiyingLu/HVQ-Trans)
 
 ### Assessment
 - (arXiv 2021.01) Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
@@ -334,6 +335,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation, [[Paper]](https://arxiv.org/pdf/2308.01146.pdf), [[Code]](https://github.com/zhu-xlab/UCDFormer)
 - (arXiv 2023.09) Changes-Aware Transformer: Learning Generalized Changes Representation, [[Paper]](https://arxiv.org/pdf/2309.13619.pdf)
 - (arXiv 2023.10) Transformer-based Multimodal Change Detection with Multitask Consistency Constraints, [[Paper]](https://arxiv.org/pdf/2310.09276.pdf)
+- (arXiv 2023.10) TransY-Net:Learning Fully Transformer Networks for Change Detection of Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2310.14214.pdf), [[Code]](https://github.com/Drchip61/TransYNet)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -1524,7 +1526,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Mask-Attention-Free Transformer for 3D Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2309.01692.pdf), [[Code]](https://github.com/dvlab-research/Mask-Attention-Free-Transformer)
 - (arXiv 2023.09) TCOVIS: Temporally Consistent Online Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2309.11857.pdf), [[Code]](https://github.com/jun-long-li/TCOVIS)
 - (arXiv 2023.09) 3D Indoor Instance Segmentation in an Open-World, [[Paper]](https://arxiv.org/pdf/2309.14338.pdf), [[Code]](https://github.com/aminebdj/3D-OWIS)
-
+- (arXiv 2023.10) MSFormer: A Skeleton-multiview Fusion Method For Tooth Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2310.14489.pdf)
+  
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
 - (arXiv 2022.05) Knowledge Distillation via the Target-aware Transformer, [[Paper]](https://arxiv.org/pdf/2205.10793.pdf)
@@ -2032,6 +2035,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Predicting Ovarian Cancer Treatment Response in Histopathology using Hierarchical Vision Transformers and Multiple Instance Learning, [[Paper]](https://arxiv.org/pdf/2310.12866.pdf)
 - (arXiv 2023.10) DA-TransUNet: Integrating Spatial and Channel Dual Attention with Transformer U-Net for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2310.12570.pdf)
 - (arXiv 2023.10) Skin Lesion Segmentation Improved by Transformer-based Networks with Inter-scale Dependency Modeling, [[Paper]](https://arxiv.org/pdf/2310.13604.pdf),[[Code]](https://github.com/saniaesk/skin-lesion-segmentation)
+- (arXiv 2023.10) Prompt-based Grouping Transformer for Nucleus Detection and Classification, [[Paper]](https://arxiv.org/pdf/2310.14176.pdf)
+- (arXiv 2023.10) Affine-Consistent Transformer for Multi-Class Cell Nuclei Detection, [[Paper]](https://arxiv.org/pdf/2310.14154.pdf), [[Code]](https://github.com/lhaof/PGT)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2273,6 +2278,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation, [[Paper]](https://arxiv.org/pdf/2309.09667.pdf)
 - (arXiv 2023.09) Tile Classification Based Viewport Prediction with Multi-modal Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2309.14704.pdf)
 - (arXiv 2023.10) LeTFuser: Light-weight End-to-end Transformer-Based Sensor Fusion for Autonomous Driving with Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2310.13135.pdf), [[Code]](https://github.com/pagand/e2etransfuser/tree/cvpr-w)
+- (arXiv 2023.10) 3M-TRANSFORMER: A Multi-Stage Multi-Stream Multimodal Transformer for Embodied Turn-Taking Prediction, [[Paper]](https://arxiv.org/pdf/2310.14859.pdf)
+- (arXiv 2023.10) MMTF-DES: A Fusion of Multimodal Transformer Models for Desire, Emotion, and Sentiment Analysis of Social Media Data, [[Paper]](https://arxiv.org/pdf/2310.14143.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2810,6 +2817,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Efficient Remote Sensing Segmentation With Generative Adversarial Transformer, [[Paper]](https://arxiv.org/pdf/2310.01292.pdf)
 - (arXiv 2023.10) HeightFormer: A Multilevel Interaction and Image-adaptive Classification-regression Network for Monocular Height Estimation with Aerial Images, [[Paper]](https://arxiv.org/pdf/2310.07995.pdf), [[Code]](https://github.com/qbxfcz/HeightFormer)
 - (arXiv 2023.10) VcT: Visual change Transformer for Remote Sensing Image Change Detection, [[Paper]](https://arxiv.org/pdf/2310.11417.pdf), [[Code]](https://github.com/Event-AHU/VcT_Remote_Sensing_Change_Detection)
+- (arXiv 2023.10) Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2310.13876.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
