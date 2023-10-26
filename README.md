@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/25
+**Last updated: 2023/10/26
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -866,6 +866,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Compressing Vision Transformers for Low-Resource Visual Learning, [[Paper]](https://arxiv.org/pdf/2309.02617.pdf)
 - (arXiv 2023.09) CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs, [[Paper]](https://arxiv.org/pdf/2309.15755.pdf)
 - (arXiv 2023.10) USDC: Unified Static and Dynamic Compression for Visual Transformer, [[Paper]](https://arxiv.org/pdf/2310.11117.pdf)
+- (arXiv 2023.10) Frequency-Aware Transformer for Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2310.16387.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -937,6 +938,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2309.00526.pdf), [[Code]](https://github.com/hisfog/SQLdepth-Impl)
 - (arXiv 2023.10) GSDC Transformer: An Efficient and Effective Cue Fusion for Monocular Multi-Frame Depth Estimation, [[Paper]](https://arxiv.org/pdf/2309.17059.pdf)
 - (arXiv 2023.10) FocDepthFormer: Transformer with LSTM for Depth Estimation from Focus, [[Paper]](https://arxiv.org/pdf/2309.17059.pdf)
+- (arXiv 2023.10) Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots, [[Paper]](https://arxiv.org/pdf/2310.16750.pdf), [[Code]](https://github.com/ebnerluca/uw_depth)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -999,6 +1001,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) Degradation-Noise-Aware Deep Unfolding Transformer for Hyperspectral Image Denoising, [[Paper]](https://arxiv.org/pdf/2305.04047.pdf)
 - (arXiv 2023.10) Physics-guided Noise Neural Proxy for Low-light Raw Image Denoising, [[Paper]](https://arxiv.org/pdf/2310.09126.pdf)
 - (arXiv 2023.10) A cross Transformer for image denoising, [[Paper]](https://arxiv.org/pdf/2310.10408.pdf), [[Code]](https://github.com/hellloxiaotian/CTNet)
+- (arXiv 2023.10) Complex Image Generation SwinTransformer Network for Audio Denoising, [[Paper]](https://arxiv.org/pdf/2310.16109.pdf)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -1574,6 +1577,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) MapPrior: Bird’s-Eye View Map Layout Estimation with Generative Models, [[Paper]](https://arxiv.org/pdf/2308.12963.pdf), [[Code]](https://mapprior.github.io/)
 - (arXiv 2023.08) Vision Grid Transformer for Document Layout Analysis, [[Paper]](https://arxiv.org/pdf/2308.14978.pdf), [[Code]](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
 - (arXiv 2023.08) Document AI: A Comparative Study of Transformer-Based, Graph-Based Models, and Convolutional Neural Networks For Document Layout Analysis, [[Paper]](https://arxiv.org/pdf/2308.15517.pdf)
+- (arXiv 2023.10) Dolfin: Diffusion Layout Transformers without Autoencoder, [[Paper]](https://arxiv.org/pdf/2310.16305.pdf)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -2658,6 +2662,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) MFOS: Model-Free & One-Shot Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2310.01897.pdf)
 - (arXiv 2023.10) UniPose: Detecting Any Keypoints, [[Paper]](https://arxiv.org/pdf/2310.08530.pdf), [[Code]](https://github.com/IDEA-Research/UniPose)
 - (arXiv 2023.10) MoEmo Vision Transformer: Integrating Cross-Attention and Movement Vectors in 3D Pose Estimation for HRI Emotion Detection, [[Paper]](https://arxiv.org/pdf/2310.09757.pdf), [[Code]](https://github.com/IDEA-Research/UniPose)
+- (arXiv 2023.10) MotionAGFormer: Enhancing 3D Human Pose Estimation with a Transformer-GCNFormer Network, [[Paper]](https://arxiv.org/pdf/2310.16288.pdf), [[Code]](https://github.com/TaatiTeam/MotionAGFormer)
+- (arXiv 2023.10) TransPose: 6D Object Pose Estimation with Geometry-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2310.16279.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -2694,6 +2700,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Jumping through Local Minima: Quantization in the Loss Landscape of Vision Transformers,  [[Paper]](https://arxiv.org/pdf/2308.10814.pdf), [[Code]](https://github.com/enyac-group/evol-q)
 - (arXiv 2023.08) Vision Transformer Pruning Via Matrix Decomposition,  [[Paper]](https://arxiv.org/pdf/2308.10839.pdf)
 - (arXiv 2023.09) Transformer-VQ: Linear-Time Transformers via Vector Quantization,  [[Paper]](https://arxiv.org/pdf/2309.16354.pdf), [[Code]](https://github.com/transformer-vq/transformer_vq)
+- (arXiv 2023.10) LLM-FP4: 4-Bit Floating-Point Quantized Transformers, [[Paper]](https://arxiv.org/pdf/2310.16836.pdf), [[Code]](https://github.com/nbasyl/LLM-FP4)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -3541,6 +3548,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Spatial-Temporal Transformer based Video Compression Framework, [[Paper]](https://arxiv.org/pdf/2309.11913.pdf)
 - (arXiv 2023.10) Video Transformers under Occlusion: How Physics and Background Attributes Impact Large Models for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2310.02044.pdf), [[Code]](https://github.com/ShutongJIN/OccluManip.git)
 - (arXiv 2023.10) Reinforcement Learning-based Mixture of Vision Transformers for Video Violence Recognition, [[Paper]](https://arxiv.org/pdf/2310.03108.pdf)
+- (arXiv 2023.10) Video Referring Expression Comprehension via Transformer with Content-conditioned Query, [[Paper]](https://arxiv.org/pdf/2310.16402.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
