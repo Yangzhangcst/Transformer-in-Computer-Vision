@@ -822,6 +822,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Accelerating Vision Transformers Based on Heterogeneous Attention Patterns, [[Paper]](https://arxiv.org/pdf/2310.07664.pdf)
 - (arXiv 2023.10) MatFormer: Nested Transformer for Elastic Inference, [[Paper]](https://arxiv.org/pdf/2310.07707.pdf)
 - (arXiv 2023.10) Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems, [[Paper]](https://arxiv.org/pdf/2310.12956.pdf)
+- (arXiv 2023.10) ConvNets Match Vision Transformers at Scale, [[Paper]](https://arxiv.org/pdf/2310.16764.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
