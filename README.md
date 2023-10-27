@@ -1,12 +1,12 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/26
+**Last updated: 2023/10/27
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
 
-- (arXiv 2023.10) Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey. [[Paper]](https://arxiv.org/pdf/2310.12904.pdf), [[Awesome]](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)
+- (arXiv 2023.10) Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey. [[Paper]](https://arxiv.org/pdf/2310.12904. pdf), [[Awesome]](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)
 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
 
@@ -823,6 +823,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) MatFormer: Nested Transformer for Elastic Inference, [[Paper]](https://arxiv.org/pdf/2310.07707.pdf)
 - (arXiv 2023.10) Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems, [[Paper]](https://arxiv.org/pdf/2310.12956.pdf)
 - (arXiv 2023.10) ConvNets Match Vision Transformers at Scale, [[Paper]](https://arxiv.org/pdf/2310.16764.pdf)
+- (arXiv 2023.10) MCUFormer: Deploying Vision Tranformers on Microcontrollers with Limited Memory, [[Paper]](https://arxiv.org/pdf/2310.16898.pdf), [[Code]](https://github.com/liangyn22/MCUFormer)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1344,6 +1345,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.10) Multi-view Gait Recognition based on Siamese Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.10421.pdf)
 - (arXiv 2023.07) GaitFormer: Revisiting Intrinsic Periodicity for Gait Recognition, [[Paper]](https://arxiv.org/pdf/2307.13259.pdf)
 - (arXiv 2023.08) GaitPT: Skeletons Are All You Need For Gait Recognition, [[Paper]](https://arxiv.org/pdf/2308.10623.pdf)
+- (arXiv 2023.10) HCT: Hybrid Convnet-Transformer for Parkinson’s disease detection and severity prediction from gait, [[Paper]](https://arxiv.org/pdf/2310.17078.pdf), [[Code]](https://github.com/SafwenNaimi/HCT-Hybrid-Convnet-Transformer-for-Parkinson-s-disease-detection-and-severity-prediction-from-gait)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
@@ -2809,6 +2811,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2303.06819.pdf), [[Code]](https://github.com/Kali-Hac/TranSG)
 - (arXiv 2023.04) Deeply-Coupled Convolution-Transformer with Spatial-temporal Complementary Learning for Video-based Person Re-identification, [[Paper]](https://arxiv.org/pdf/2304.14122.pdf), [[Code]](https://github.com/Kali-Hac/TranSG)
 - (arXiv 2023.08) Part-Aware Transformer for Generalizable Person Re-identification, [[Paper]](https://arxiv.org/pdf/2308.03322.pdf), [[Code]](https://github.com/liyuke65535/Part-Aware-Transformer)
+- (arXiv 2023.10) GraFT: Gradual Fusion Transformer for Multimodal Re-Identification, [[Paper]](https://arxiv.org/pdf/2310.16856.pdf)
 
 ### Remote Sensing
 - (arXiv 2021.07) Looking Outside the Window: Wider-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2106.15754.pdf)
@@ -3319,6 +3322,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Leveraging the Power of Data Augmentation for Transformer-based Tracking, [[Paper]](https://arxiv.org/pdf/2309.08264.pdf)
 - (arXiv 2023.09) LiteTrack: Layer Pruning with Asynchronous Feature Extraction for Lightweight and Efficient Visual Tracking, [[Paper]](https://arxiv.org/pdf/2309.09249.pdf), [[Code]](https://github.com/TsingWei/LiteTrack)
 - (arXiv 2023.10) Lightweight Full-Convolutional Siamese Tracker, [[Paper]](https://arxiv.org/pdf/2310.05392.pdf), [[Code]](https://github.com/LiYunfengLYF/LightFC)
+- (arXiv 2023.10) MO-YOLO: End-to-End Multiple-Object Tracking Method with YOLO and MOTR, [[Paper]](https://arxiv.org/pdf/2310.17170.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
