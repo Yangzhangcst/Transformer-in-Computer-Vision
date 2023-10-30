@@ -2407,6 +2407,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) DTrOCR: Decoder-only Transformer for Optical Character Recognition, [[Paper]](https://arxiv.org/pdf/2308.15996.pdf)
 - (arXiv 2023.09) Character Queries: A Transformer-based Approach to On-Line Handwritten Character Segmentation, [[Paper]](https://arxiv.org/pdf/2309.03072.pdf), [[Code]](https://github.com/jungomi/character-queries)
 - (arXiv 2023.09) ShaDocFormer: A Shadow-attentive Threshold Detector with Cascaded Fusion Refiner for document shadow removal' to the ICASSP 2024 online submission system, [[Paper]](https://arxiv.org/pdf/2309.06670.pdf)
+- (arXiv 2023.10) DocStormer: Revitalizing Multi-Degraded Colored Document Images to Pristine PDF, [[Paper]](https://arxiv.org/pdf/2310.17910.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -2733,6 +2734,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Parameter-Efficient Long-Tailed Recognition, [[Paper]](https://arxiv.org/pdf/2309.10019.pdf), [[Code]](https://github.com/shijxcs/PEL)
 - (arXiv 2023.09) MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings, [[Paper]](https://arxiv.org/pdf/2309.10765.pdf), [[Code]](https://github.com/surbhimadan92/MAGIC-TBR)
 - (arXiv 2023.10) ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer, [[Paper]](https://arxiv.org/pdf/2310.04099.pdf), [[Code]](https://github.com/surbhimadan92/MAGIC-TBR)
+- (arXiv 2023.10) FaultSeg Swin-UNETR: Transformer-Based Self-Supervised Pretraining Model for Fault Recognition, [[Paper]](https://arxiv.org/pdf/2310.17974.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -3131,6 +3133,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.12755.pdf), [[Code]](https://github.com/ydhongHIT/PlainSeg)
 - (arXiv 2023.10) Cross-attention Spatio-temporal Context Transformer for Semantic Segmentation of Historical Maps, [[Paper]](https://arxiv.org/pdf/2310.12616.pdf), [[Code]](https://github.com/chenyizi086/wu.2023.sigspatial.git)
 - (arXiv 2023.10) P2AT: Pyramid Pooling Axial Transformer for Real-time Semantic Segmentation, [[Paper]](https://arxiv.org/abs/2310.15025)
+- (arXiv 2023.10) SmooSeg: Smoothness Prior for Unsupervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.17874.pdf), [[Code]](https://github.com/mc-lan/SmooSeg)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -3323,6 +3326,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) LiteTrack: Layer Pruning with Asynchronous Feature Extraction for Lightweight and Efficient Visual Tracking, [[Paper]](https://arxiv.org/pdf/2309.09249.pdf), [[Code]](https://github.com/TsingWei/LiteTrack)
 - (arXiv 2023.10) Lightweight Full-Convolutional Siamese Tracker, [[Paper]](https://arxiv.org/pdf/2310.05392.pdf), [[Code]](https://github.com/LiYunfengLYF/LightFC)
 - (arXiv 2023.10) MO-YOLO: End-to-End Multiple-Object Tracking Method with YOLO and MOTR, [[Paper]](https://arxiv.org/pdf/2310.17170.pdf)
+- (arXiv 2023.10) Siamese-DETR for Generic Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2310.17875.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
