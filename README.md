@@ -6,7 +6,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
 
-- (arXiv 2023.10) Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey. [[Paper]](https://arxiv.org/pdf/2310.12904. pdf), [[Awesome]](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)
+- (arXiv 2023.10) Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey. [[Paper]](https://arxiv.org/pdf/2310.12904.pdf), [[Awesome]](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)
 
 - (arXiv 2023.09) Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art. [[Paper]](https://arxiv.org/pdf/2309.04902.pdf)
 
