@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/30
+**Last updated: 2023/10/31
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -211,6 +211,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias, [[Paper]](https://arxiv.org/pdf/2309.13245.pdf)
 - (arXiv 2023.10) Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2310.04655.pdf)
 - (arXiv 2023.10) ConViViT -- A Deep Neural Network Combining Convolutions and Factorized Self-Attention for Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2310.14416.pdf)
+- (arXiv 2023.10) Blacksmith: Fast Adversarial Training of Vision Transformers via a Mixture of Single-step and Multi-step Methods, [[Paper]](https://arxiv.org/pdf/2310.18975.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -824,6 +825,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Eureka-Moments in Transformers: Multi-Step Tasks Reveal Softmax Induced Optimization Problems, [[Paper]](https://arxiv.org/pdf/2310.12956.pdf)
 - (arXiv 2023.10) ConvNets Match Vision Transformers at Scale, [[Paper]](https://arxiv.org/pdf/2310.16764.pdf)
 - (arXiv 2023.10) MCUFormer: Deploying Vision Tranformers on Microcontrollers with Limited Memory, [[Paper]](https://arxiv.org/pdf/2310.16898.pdf), [[Code]](https://github.com/liangyn22/MCUFormer)
+- (arXiv 2023.10) Analyzing Vision Transformers for Image Classification in Class Embedding Space, [[Paper]](https://arxiv.org/pdf/2310.18969.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1346,6 +1348,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) GaitFormer: Revisiting Intrinsic Periodicity for Gait Recognition, [[Paper]](https://arxiv.org/pdf/2307.13259.pdf)
 - (arXiv 2023.08) GaitPT: Skeletons Are All You Need For Gait Recognition, [[Paper]](https://arxiv.org/pdf/2308.10623.pdf)
 - (arXiv 2023.10) HCT: Hybrid Convnet-Transformer for Parkinson’s disease detection and severity prediction from gait, [[Paper]](https://arxiv.org/pdf/2310.17078.pdf), [[Code]](https://github.com/SafwenNaimi/HCT-Hybrid-Convnet-Transformer-for-Parkinson-s-disease-detection-and-severity-prediction-from-gait)
+- (arXiv 2023.10) GaitFormer: Learning Gait Representations with Noisy Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2310.19418.pdf), [[Code]](https://github.com/SafwenNaimi/HCT-Hybrid-Convnet-Transformer-for-Parkinson-s-disease-detection-and-severity-prediction-from-gait)
 
 ### Gaze
 - (arXiv 2021.06) Gaze Estimation using Transformer, [[Paper]](https://arxiv.org/pdf/2105.14424.pdf), [[Code]](https://github.com/yihuacheng/GazeTR)
@@ -1556,6 +1559,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Cumulative Spatial Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.08500.pdf)
 - (arXiv 2023.10) CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction, [[Paper]](https://arxiv.org/pdf/2310.01403.pdf), [[Code]](https://github.com/wusize/CLIPSelf)
 - (arXiv 2023.10) Distilling Efficient Vision Transformers from CNNs for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.07265.pdf), [[Code]](https://vlislab22.github.io/C2VKD/)
+- (arXiv 2023.10) One-for-All: Bridge the Gap Between Heterogeneous Architectures in Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2310.19444.pdf), [[Code]](https://github.com/Hao840/OFAKD)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -3134,6 +3138,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Cross-attention Spatio-temporal Context Transformer for Semantic Segmentation of Historical Maps, [[Paper]](https://arxiv.org/pdf/2310.12616.pdf), [[Code]](https://github.com/chenyizi086/wu.2023.sigspatial.git)
 - (arXiv 2023.10) P2AT: Pyramid Pooling Axial Transformer for Real-time Semantic Segmentation, [[Paper]](https://arxiv.org/abs/2310.15025)
 - (arXiv 2023.10) SmooSeg: Smoothness Prior for Unsupervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.17874.pdf), [[Code]](https://github.com/mc-lan/SmooSeg)
+- (arXiv 2023.10) Mask Propagation for Efficient Video Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.18954.pdf), [[Code]](https://github.com/ziplab/MPVSS)
+- (arXiv 2023.10) Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.19001.pdf), [[Code]](https://github.com/Ferenas/PGSeg)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
