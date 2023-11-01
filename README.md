@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/10/31
+**Last updated: 2023/11/01
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -2954,6 +2954,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Vision Relation Transformer for Unbiased Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2308.09472.pdf),[[Code]](https://github.com/visinf/veto)
 - (arXiv 2023.09) RoadFormer: Duplex Transformer for RGB-Normal Semantic Road Scene Parsing, [[Paper]](https://arxiv.org/pdf/2309.10356.pdf),[[Code]](https://github.com/visinf/veto)
 - (arXiv 2023.09) Spatial-Temporal Knowledge-Embedded Transformer for Video Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2309.13237.pdf)
+- (arXiv 2023.10) Towards Grouping in Large Scenes with Occlusion-aware Spatio-temporal Transformers, [[Paper]](https://arxiv.org/pdf/2310.19447.pdf),[[Code]](http://cic.tju.edu.cn/faculty/likun/projects/GroupTrans)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -3884,6 +3885,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Beyond Grids: Exploring Elastic Input Sampling for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2309.13353.pdf)
 - (arXiv 2023.09) Improving Facade Parsing with Vision Transformers and Line Integration, [[Paper]](https://arxiv.org/pdf/2309.15523.pdf), [[Code]](https://github.com/wbw520/RTFP)
 - (arXiv 2023.10) Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness, [[Paper]](https://arxiv.org/pdf/2310.12076.pdf)
+- (arXiv 2023.10) Transformer-based nowcasting of radar composites from satellite images for severe weather, [[Paper]](https://arxiv.org/pdf/2310.19515.pdf)
+- (arXiv 2023.10) Triplet Attention Transformer for Spatiotemporal Predictive Learning, [[Paper]](https://arxiv.org/pdf/2310.18698.pdf)
 
 ## Contact & Feedback
 
