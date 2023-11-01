@@ -1187,6 +1187,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Investigating the Robustness and Properties of Detection Transformers (DETR) Toward Difficult Images, [[Paper]](https://arxiv.org/pdf/2310.08772.pdf)
 - (arXiv 2023.10) Multi Self-supervised Pre-fine-tuned Transformer Fusion for Better Intelligent Transportation Detection, [[Paper]](https://arxiv.org/pdf/2310.11307.pdf)
 - (arXiv 2023.10) Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection, [[Paper]](https://arxiv.org/pdf/2310.15955.pdf)
+- (arXiv 2023.10) Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient, [[Paper]](https://arxiv.org/pdf/2310.19936.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1210,6 +1211,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.06) Low-Light Image Enhancement with Illumination-Aware Gamma Correction and Complete Image Modelling Network, [[Paper]](https://arxiv.org/pdf/2308.08220.pdf)
 - (arXiv 2023.09) Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy, [[Paper]](https://arxiv.org/pdf/2309.03445.pdf), [[Code]](https://github.com/piggy2009/DM_underwater)
 - (arXiv 2023.09) DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision, [[Paper]](https://arxiv.org/pdf/2309.06941.pdf)
+- (arXiv 2023.10) UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2310.20210.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -2053,6 +2055,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Affine-Consistent Transformer for Multi-Class Cell Nuclei Detection, [[Paper]](https://arxiv.org/pdf/2310.14154.pdf), [[Code]](https://github.com/lhaof/PGT)
 - (arXiv 2023.10) Inter-Scale Dependency Modeling for Skin Lesion Segmentation with Transformer-based Networks, [[Paper]](https://arxiv.org/pdf/2310.13727.pdf)
 - (arXiv 2023.10) Ophthalmic Biomarker Detection Using Ensembled Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.14005.pdf)
+- (arXiv 2023.10) What a Whole Slide Image Can Tell? Subtype-guided Masked Transformer for Pathological Image Captioning, [[Paper]](https://arxiv.org/pdf/2310.20607.pdf)
+- (arXiv 2023.10) MIST: Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder, [[Paper]](https://arxiv.org/pdf/2310.19898.pdf), [[Code]](https://github.com/Rahman-Motiur/MIST)
+- (arXiv 2023.10) Muscle volume quantification: guiding transformers with anatomical priors, [[Paper]](https://arxiv.org/pdf/2310.20355.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2840,6 +2845,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) HeightFormer: A Multilevel Interaction and Image-adaptive Classification-regression Network for Monocular Height Estimation with Aerial Images, [[Paper]](https://arxiv.org/pdf/2310.07995.pdf), [[Code]](https://github.com/qbxfcz/HeightFormer)
 - (arXiv 2023.10) VcT: Visual change Transformer for Remote Sensing Image Change Detection, [[Paper]](https://arxiv.org/pdf/2310.11417.pdf), [[Code]](https://github.com/Event-AHU/VcT_Remote_Sensing_Change_Detection)
 - (arXiv 2023.10) Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2310.13876.pdf)
+- (arXiv 2023.10) SolarFormer: Multi-scale Transformer for Solar PV Profiling, [[Paper]](https://arxiv.org/pdf/2310.20057.pdf)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -3007,6 +3013,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Distilling Self-Supervised Vision Transformers for Weakly-Supervised Few-Shot Classification & Segmentation, [[Paper]](https://arxiv.org/pdf/2307.03407.pdf)
 - (arXiv 2023.07) Self-supervised Representation Learning by Predicting Masked Online Codebook Assignments, [[Paper]](https://arxiv.org/pdf/2307.09361.pdf)
 - (arXiv 2023.08) Emergence of Segmentation with Minimalistic White-Box Transformers, [[Paper]](https://arxiv.org/pdf/2308.16271.pdf), [[Code]](https://ma-lab-berkeley.github.io/CRATE)
+- (arXiv 2023.10) Limited Data, Unlimited Potential:A Study on ViTs Augmented by Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2310.20704.pdf), [[Code]](https://github.com/dominickrei/Limited-data-vits)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
