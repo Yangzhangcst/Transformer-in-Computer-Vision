@@ -826,6 +826,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) ConvNets Match Vision Transformers at Scale, [[Paper]](https://arxiv.org/pdf/2310.16764.pdf)
 - (arXiv 2023.10) MCUFormer: Deploying Vision Tranformers on Microcontrollers with Limited Memory, [[Paper]](https://arxiv.org/pdf/2310.16898.pdf), [[Code]](https://github.com/liangyn22/MCUFormer)
 - (arXiv 2023.10) Analyzing Vision Transformers for Image Classification in Class Embedding Space, [[Paper]](https://arxiv.org/pdf/2310.18969.pdf)
+- (arXiv 2023.11) Improving Robustness for Vision Transformer with a Simple Dynamic Scanning Augmentation, [[Paper]](https://arxiv.org/pdf/2311.00441.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
