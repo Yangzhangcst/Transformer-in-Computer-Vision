@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/02
+**Last updated: 2023/11/03
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -1191,7 +1191,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Multi Self-supervised Pre-fine-tuned Transformer Fusion for Better Intelligent Transportation Detection, [[Paper]](https://arxiv.org/pdf/2310.11307.pdf)
 - (arXiv 2023.10) Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection, [[Paper]](https://arxiv.org/pdf/2310.15955.pdf)
 - (arXiv 2023.10) Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient, [[Paper]](https://arxiv.org/pdf/2310.19936.pdf)
-- (arXiv 2023.10) AiluRus: A Scalable ViT Framework for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2311.01197.pdf), [[Code]](https://github.com/caddyless/ailurus/tree/main)
+- (arXiv 2023.11) AiluRus: A Scalable ViT Framework for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2311.01197.pdf), [[Code]](https://github.com/caddyless/ailurus/tree/main)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
