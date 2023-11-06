@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/03
+**Last updated: 2023/11/06
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -2065,6 +2065,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Muscle volume quantification: guiding transformers with anatomical priors, [[Paper]](https://arxiv.org/pdf/2310.20355.pdf)
 - (arXiv 2023.10) fMRI-PTE: A Large-scale fMRI Pretrained Transformer Encoder for Multi-Subject Brain Activity Decoding, [[Paper]](https://arxiv.org/pdf/2311.00342.pdf)
 - (arXiv 2023.11) Hybrid-Fusion Transformer for Multisequence MRI, [[Paper]](https://arxiv.org/pdf/2311.01308.pdf)
+- (arXiv 2023.11) Capturing Local and Global Features in Medical Images by Using Ensemble CNN-Transformer, [[Paper]](https://arxiv.org/pdf/2311.01731.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2479,6 +2480,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) PanoSwin: a Pano-style Swin Transformer for Panorama Understanding, [[Paper]](https://arxiv.org/pdf/2308.14726.pdf)
 - (arXiv 2023.09) MASK4D: Mask Transformer for 4D Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2309.16133.pdf), [[Code]](https://vision.rwth-aachen.de/mask4d)
 - (arXiv 2023.10) Hierarchical Mask2Former: Panoptic Segmentation of Crops, Weeds and Leaves, [[Paper]](https://arxiv.org/pdf/2310.06582.pdf), [[Code]](https://github.com/madeleinedarbyshire/HierarchicalMask2Former)
+- (arXiv 2023.11) 4D-Former: Multimodal 4D Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2311.01520.pdf), [[Code]](https://waabi.ai/4dformer)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
@@ -2971,6 +2973,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) RoadFormer: Duplex Transformer for RGB-Normal Semantic Road Scene Parsing, [[Paper]](https://arxiv.org/pdf/2309.10356.pdf),[[Code]](https://github.com/visinf/veto)
 - (arXiv 2023.09) Spatial-Temporal Knowledge-Embedded Transformer for Video Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2309.13237.pdf)
 - (arXiv 2023.10) Towards Grouping in Large Scenes with Occlusion-aware Spatio-temporal Transformers, [[Paper]](https://arxiv.org/pdf/2310.19447.pdf),[[Code]](http://cic.tju.edu.cn/faculty/likun/projects/GroupTrans)
+- (arXiv 2023.10) Towards a Unified Transformer-based Framework for Scene Graph Generation and Human-object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2311.01755.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
