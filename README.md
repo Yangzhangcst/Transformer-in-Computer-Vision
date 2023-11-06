@@ -2973,7 +2973,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) RoadFormer: Duplex Transformer for RGB-Normal Semantic Road Scene Parsing, [[Paper]](https://arxiv.org/pdf/2309.10356.pdf),[[Code]](https://github.com/visinf/veto)
 - (arXiv 2023.09) Spatial-Temporal Knowledge-Embedded Transformer for Video Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2309.13237.pdf)
 - (arXiv 2023.10) Towards Grouping in Large Scenes with Occlusion-aware Spatio-temporal Transformers, [[Paper]](https://arxiv.org/pdf/2310.19447.pdf),[[Code]](http://cic.tju.edu.cn/faculty/likun/projects/GroupTrans)
-- (arXiv 2023.10) Towards a Unified Transformer-based Framework for Scene Graph Generation and Human-object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2311.01755.pdf)
+- (arXiv 2023.11) Towards a Unified Transformer-based Framework for Scene Graph Generation and Human-object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2311.01755.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
