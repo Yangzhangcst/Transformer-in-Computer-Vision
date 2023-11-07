@@ -3921,6 +3921,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness, [[Paper]](https://arxiv.org/pdf/2310.12076.pdf)
 - (arXiv 2023.10) Transformer-based nowcasting of radar composites from satellite images for severe weather, [[Paper]](https://arxiv.org/pdf/2310.19515.pdf)
 - (arXiv 2023.10) Triplet Attention Transformer for Spatiotemporal Predictive Learning, [[Paper]](https://arxiv.org/pdf/2310.18698.pdf)
+- (arXiv 2023.11) FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data, [[Paper]](https://arxiv.org/pdf/2311.03314.pdf), [[Code]](https://github.com/lisaweijler/FATE)
 
 ## Contact & Feedback
 
