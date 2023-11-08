@@ -829,6 +829,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Analyzing Vision Transformers for Image Classification in Class Embedding Space, [[Paper]](https://arxiv.org/pdf/2310.18969.pdf)
 - (arXiv 2023.11) Improving Robustness for Vision Transformer with a Simple Dynamic Scanning Augmentation, [[Paper]](https://arxiv.org/pdf/2311.00441.pdf)
 - (arXiv 2023.11) Scattering Vision Transformer: Spectral Mixing Matters, [[Paper]](https://arxiv.org/pdf/2311.01310.pdf), [[Project]](https://badripatro.github.io/svt/)
+- (arXiv 2023.11) GQKVA: Efficient Pre-training of Transformers by Grouping Queries, Keys, and Values, [[Paper]](https://arxiv.org/pdf/2311.03426.pdf)
+- (arXiv 2023.11) Mini but Mighty: Finetuning ViTs with Mini Adapters, [[Paper]](https://arxiv.org/pdf/2311.03873.pdf), [[Code]](https://github.com/IemProg/MiMi)
+- (arXiv 2023.11) A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis, [[Paper]](https://arxiv.org/pdf/2311.04157.pdf), [[Code]](https://github.com/Imageomics/INTR)
+- (arXiv 2023.11) SBCFormer: Lightweight Network Capable of Full-size ImageNet Classification at 1 FPS on Single Board Computers, [[Paper]](https://arxiv.org/pdf/2311.03747.pdf), [[Code]](https://github.com/xyongLu/SBCFormer)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1193,6 +1197,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient, [[Paper]](https://arxiv.org/pdf/2310.19936.pdf)
 - (arXiv 2023.11) AiluRus: A Scalable ViT Framework for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2311.01197.pdf), [[Code]](https://github.com/caddyless/ailurus/tree/main)
 - (arXiv 2023.11) TokenMotion: Motion-Guided Vision Transformer for Video Camouflaged Object Detection Via Learnable Token Selection, [[Paper]](https://arxiv.org/pdf/2311.02535.pdf)
+- (arXiv 2023.11) Cal-DETR: Calibrated Detection Transformer, [[Paper]](https://arxiv.org/pdf/2311.03570.pdf), [[Code]](https://github.com/akhtarvision/cal-detr)
+- (arXiv 2023.11) FusionViT: Hierarchical 3D Object Detection via LiDAR-Camera Vision Transformer Fusion, [[Paper]](https://arxiv.org/pdf/2311.03620.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2315,6 +2321,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) 3M-TRANSFORMER: A Multi-Stage Multi-Stream Multimodal Transformer for Embodied Turn-Taking Prediction, [[Paper]](https://arxiv.org/pdf/2310.14859.pdf)
 - (arXiv 2023.10) MMTF-DES: A Fusion of Multimodal Transformer Models for Desire, Emotion, and Sentiment Analysis of Social Media Data, [[Paper]](https://arxiv.org/pdf/2310.14143.pdf)
 - (arXiv 2023.11) Learning A Multi-Task Transformer Via Unified And Customized Instruction Tuning For Chest Radiograph Interpretation, [[Paper]](https://arxiv.org/pdf/2311.01092.pdf)
+- (arXiv 2023.11) Self-MI: Efficient Multimodal Fusion via Self-Supervised Multi-Task Learning with Auxiliary Mutual Information Maximization, [[Paper]](https://arxiv.org/pdf/2311.03785.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2347,6 +2354,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) HyT-NAS: Hybrid Transformers Neural Architecture Search for Edge Devices, [[Paper]](https://arxiv.org/pdf/2303.04440.pdf), [[Code]](https://anonymous.4open.science/r/HyT-NAS-Search-Algorithm-A864/README.md)
 - (arXiv 2023.07) AutoST: Training-free Neural Architecture Search for Spiking Transformers, [[Paper]](https://arxiv.org/pdf/2307.00293.pdf)
 - (arXiv 2023.08) TurboViT: Generating Fast Vision Transformers via Generative Architecture Search, [[Paper]](https://arxiv.org/pdf/2308.11421.pdf)
+- (arXiv 2023.11) FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.03912.pdf), [[Code]](https://github.com/shadowpa0327/FLORA)
 
 ### Navigation
 - (ICLR'21) VTNet: Visual Transformer Network for Object Goal Navigation, [[Paper]](https://arxiv.org/pdf/2105.09447.pdf)
@@ -2980,6 +2988,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Spatial-Temporal Knowledge-Embedded Transformer for Video Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2309.13237.pdf)
 - (arXiv 2023.10) Towards Grouping in Large Scenes with Occlusion-aware Spatio-temporal Transformers, [[Paper]](https://arxiv.org/pdf/2310.19447.pdf),[[Code]](http://cic.tju.edu.cn/faculty/likun/projects/GroupTrans)
 - (arXiv 2023.11) Towards a Unified Transformer-based Framework for Scene Graph Generation and Human-object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2311.01755.pdf)
+- (arXiv 2023.11) TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding, [[Paper]](https://arxiv.org/pdf/2311.03427.pdf),[[Code]](https://github.com/tb2-sy/TSP-Transformer)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -3033,6 +3042,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Self-supervised Representation Learning by Predicting Masked Online Codebook Assignments, [[Paper]](https://arxiv.org/pdf/2307.09361.pdf)
 - (arXiv 2023.08) Emergence of Segmentation with Minimalistic White-Box Transformers, [[Paper]](https://arxiv.org/pdf/2308.16271.pdf), [[Code]](https://ma-lab-berkeley.github.io/CRATE)
 - (arXiv 2023.10) Limited Data, Unlimited Potential:A Study on ViTs Augmented by Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2310.20704.pdf), [[Code]](https://github.com/dominickrei/Limited-data-vits)
+- (arXiv 2023.11) LISBET: a self-supervised Transformer model for the automatic segmentation of social behavior motifs, [[Paper]](https://arxiv.org/pdf/2311.04069.pdf), [[Code]](https://github.com/dominickrei/Limited-data-vits)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
