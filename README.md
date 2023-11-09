@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/08
+**Last updated: 2023/11/09
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -1606,6 +1606,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
 - (arXiv 2023.05) Ray-Patch: An Efficient Decoder for Light Field Transformers, [[Paper]](https://arxiv.org/abs/2305.09566)
+
+### LLM
+- (arXiv 2023.11) NExT-Chat: An LMM for Chat, Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2311.04498.pdf), [[Code]](https://next-chatv.github.io/)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -3666,6 +3669,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2108.00045.pdf)
 - (arXiv 2021.08) Discovering Spatial Relationships by Transformers for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2108.10046.pdf)
 - (arXiv 2022.06) VReBERT: A Simple and Flexible Transformer for Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2206.09111.pdf)
+- (arXiv 2023.11) Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction, [[Paper]](https://arxiv.org/pdf/2311.04834.pdf), [[Code]](https://github.com/deeplab-ai/SelfSupervisedVRD)
 
 ### Voxel
 - (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
