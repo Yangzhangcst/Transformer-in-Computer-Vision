@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/09
+**Last updated: 2023/11/10
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -1431,6 +1431,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting, [[Paper]](https://arxiv.org/pdf/2307.08243.pdf), [[Code]](https://github.com/Cogito2012/USST)
 - (arXiv 2023.08) Nonrigid Object Contact Estimation With Regional Unwrapping Transformer, [[Paper]](https://arxiv.org/pdf/2308.14074.pdf)
 - (arXiv 2023.10) BodyFormer: Semantics-guided 3D Body Gesture Synthesis with Transformer, [[Paper]](https://arxiv.org/pdf/2310.06851.pdf)
+- (arXiv 2023.11) Improving Hand Recognition in Uncontrolled and Uncooperative Environments using Multiple Spatial Transformers and Loss Functions, [[Paper]](https://arxiv.org/pdf/2311.05383.pdf)
 
 ### High Dynamic Range Imaging
 - (arXiv 2022.08) Ghost-free High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
@@ -1609,6 +1610,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ### LLM
 - (arXiv 2023.11) NExT-Chat: An LMM for Chat, Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2311.04498.pdf), [[Code]](https://next-chatv.github.io/)
+- (arXiv 2023.11) u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.05348.pdf)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2080,6 +2082,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Hybrid-Fusion Transformer for Multisequence MRI, [[Paper]](https://arxiv.org/pdf/2311.01308.pdf)
 - (arXiv 2023.11) Capturing Local and Global Features in Medical Images by Using Ensemble CNN-Transformer, [[Paper]](https://arxiv.org/pdf/2311.01731.pdf)
 - (arXiv 2023.11) Leveraging Transformers to Improve Breast Cancer Classification and Risk Assessment with Multi-modal and Longitudinal Data, [[Paper]](https://arxiv.org/pdf/2311.03217.pdf)
+- (arXiv 2023.11) Transformer-based Model for Oral Epithelial Dysplasia Segmentation, [[Paper]](https://arxiv.org/pdf/2311.05452.pdf)
+- (arXiv 2023.11) TransReg: Cross-transformer as auto-registration module for multi-view mammogram mass detection, [[Paper]](https://arxiv.org/pdf/2311.05192.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2443,6 +2447,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Character Queries: A Transformer-based Approach to On-Line Handwritten Character Segmentation, [[Paper]](https://arxiv.org/pdf/2309.03072.pdf), [[Code]](https://github.com/jungomi/character-queries)
 - (arXiv 2023.09) ShaDocFormer: A Shadow-attentive Threshold Detector with Cascaded Fusion Refiner for document shadow removal' to the ICASSP 2024 online submission system, [[Paper]](https://arxiv.org/pdf/2309.06670.pdf)
 - (arXiv 2023.10) DocStormer: Revitalizing Multi-Degraded Colored Document Images to Pristine PDF, [[Paper]](https://arxiv.org/pdf/2310.17910.pdf)
+- (arXiv 2023.11) High-Performance Transformers for Table Structure Recognition Need Early Convolutions, [[Paper]](https://arxiv.org/pdf/2311.05565.pdf), [[Code]](https://github.com/poloclub/tsr-convstem)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
