@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/10
+**Last updated: 2023/11/13
 
 ## Survey: 
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
@@ -833,6 +833,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Mini but Mighty: Finetuning ViTs with Mini Adapters, [[Paper]](https://arxiv.org/pdf/2311.03873.pdf), [[Code]](https://github.com/IemProg/MiMi)
 - (arXiv 2023.11) A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis, [[Paper]](https://arxiv.org/pdf/2311.04157.pdf), [[Code]](https://github.com/Imageomics/INTR)
 - (arXiv 2023.11) SBCFormer: Lightweight Network Capable of Full-size ImageNet Classification at 1 FPS on Single Board Computers, [[Paper]](https://arxiv.org/pdf/2311.03747.pdf), [[Code]](https://github.com/xyongLu/SBCFormer)
+- (arXiv 2023.11) FMViT: A multiple-frequency mixing Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.05707.pdf), [[Code]](https://github.com/tany0699/FMViT)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1374,7 +1375,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) MGTR: End-to-End Mutual Gaze Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2209.10930.pdf), [[Code]](https://github.com/Gmbition/MGTR)
 - (arXiv 2023.08) Interaction-aware Joint Attention Estimation Using People Attributes, [[Paper]](https://arxiv.org/pdf/2308.05382.pdf), [[Code]](https://github.com/chihina/PJAE)
 - (arXiv 2023.08) DVGaze: Dual-View Gaze Estimation, [[Paper]](https://arxiv.org/pdf/2308.10310.pdf), [[Code]](https://github.com/yihuacheng/DVGaze)
-- (arXiv 2023.10) Sharingan: A Transformer-based Architecture for Gaze Following, [[Paper]](https://arxiv.org/pdf/2310.00816)
+- (arXiv 2023.10) Sharingan: A Transformer-based Architecture for Gaze Following, [[Paper]](https://arxiv.org/pdf/2310.00816.pdf)
+- (arXiv 2023.11) Dual input stream transformer for eye-tracking line assignment, [[Paper]](https://arxiv.org/pdf/2311.06095.pdf)
 
 ### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -1578,6 +1580,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction, [[Paper]](https://arxiv.org/pdf/2310.01403.pdf), [[Code]](https://github.com/wusize/CLIPSelf)
 - (arXiv 2023.10) Distilling Efficient Vision Transformers from CNNs for ation, [[Paper]](https://arxiv.org/pdf/2310.07265.pdf), [[Code]](https://vlislab22.github.io/C2VKD/)
 - (arXiv 2023.10) One-for-All: Bridge the Gap Between Heterogeneous Architectures in Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2310.19444.pdf), [[Code]](https://github.com/Hao840/OFAKD)
+- (arXiv 2023.11) Learning Contrastive Self-Distillation for Ultra-Fine-Grained Visual Categorization Targeting Limited Samples, [[Paper]](https://arxiv.org/pdf/2311.06056.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -2084,6 +2087,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Leveraging Transformers to Improve Breast Cancer Classification and Risk Assessment with Multi-modal and Longitudinal Data, [[Paper]](https://arxiv.org/pdf/2311.03217.pdf)
 - (arXiv 2023.11) Transformer-based Model for Oral Epithelial Dysplasia Segmentation, [[Paper]](https://arxiv.org/pdf/2311.05452.pdf)
 - (arXiv 2023.11) TransReg: Cross-transformer as auto-registration module for multi-view mammogram mass detection, [[Paper]](https://arxiv.org/pdf/2311.05192.pdf)
+- (arXiv 2023.11) Automatic Report Generation for Histopathology images using pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2311.06176.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2329,6 +2333,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) MMTF-DES: A Fusion of Multimodal Transformer Models for Desire, Emotion, and Sentiment Analysis of Social Media Data, [[Paper]](https://arxiv.org/pdf/2310.14143.pdf)
 - (arXiv 2023.11) Learning A Multi-Task Transformer Via Unified And Customized Instruction Tuning For Chest Radiograph Interpretation, [[Paper]](https://arxiv.org/pdf/2311.01092.pdf)
 - (arXiv 2023.11) Self-MI: Efficient Multimodal Fusion via Self-Supervised Multi-Task Learning with Auxiliary Mutual Information Maximization, [[Paper]](https://arxiv.org/pdf/2311.03785.pdf)
+- (arXiv 2023.11) PolyMaX: General Dense Prediction with Mask Transformer, [[Paper]](https://arxiv.org/abs/2311.05770)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
