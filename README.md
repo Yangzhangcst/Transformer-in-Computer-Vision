@@ -2094,6 +2094,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) TransReg: Cross-transformer as auto-registration module for multi-view mammogram mass detection, [[Paper]](https://arxiv.org/pdf/2311.05192.pdf)
 - (arXiv 2023.11) Automatic Report Generation for Histopathology images using pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2311.06176.pdf)
 - (arXiv 2023.11) SynthEnsemble: A Fusion of CNN, Vision Transformer, and Hybrid Models for Multi-Label Chest X-Ray Classification, [[Paper]](https://arxiv.org/pdf/2311.07750.pdf)
+- (arXiv 2023.11) LT-ViT: A Vision Transformer for multi-label Chest X-ray classification, [[Paper]](https://arxiv.org/pdf/2311.07263.pdf)
+- (arXiv 2023.11) Swin UNETR++: Advancing Transformer-Based Dense Dose Prediction Towards Fully Automated Radiation Oncology Treatments, [[Paper]](https://arxiv.org/pdf/2311.06572.pdf)
+- (arXiv 2023.11) TTMFN: Two-stream Transformer-based Multimodal Fusion Network for Survival Prediction, [[Paper]](https://arxiv.org/pdf/2311.07033.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
