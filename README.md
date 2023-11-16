@@ -4,6 +4,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 **Last updated: 2023/11/15
 
 ## Survey: 
+- (arXiv 2023.11) Explainability of Vision Transformers: A Comprehensive Review and New Perspectives. [[Paper]](https://arxiv.org/pdf/2311.06786.pdf)
+
 - (arXiv 2023.10) Understanding Video Transformers for Segmentation: A Survey of Application and Interpretability. [[Paper]](https://arxiv.org/pdf/2310.12296.pdf)
 
 - (arXiv 2023.10) Unsupervised Object Localization in the Era of Self-Supervised ViTs: A Survey. [[Paper]](https://arxiv.org/pdf/2310.12904.pdf), [[Awesome]](https://github.com/valeoai/Awesome-Unsupervised-Object-Localization)
@@ -214,6 +216,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2310.04655.pdf)
 - (arXiv 2023.10) ConViViT -- A Deep Neural Network Combining Convolutions and Factorized Self-Attention for Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2310.14416.pdf)
 - (arXiv 2023.10) Blacksmith: Fast Adversarial Training of Vision Transformers via a Mixture of Single-step and Multi-step Methods, [[Paper]](https://arxiv.org/pdf/2310.18975.pdf)
+- (arXiv 2023.11) DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training, [[Paper]](https://arxiv.org/pdf/2311.06855.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -836,6 +839,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) A Simple Interpretable Transformer for Fine-Grained Image Classification and Analysis, [[Paper]](https://arxiv.org/pdf/2311.04157.pdf), [[Code]](https://github.com/Imageomics/INTR)
 - (arXiv 2023.11) SBCFormer: Lightweight Network Capable of Full-size ImageNet Classification at 1 FPS on Single Board Computers, [[Paper]](https://arxiv.org/pdf/2311.03747.pdf), [[Code]](https://github.com/xyongLu/SBCFormer)
 - (arXiv 2023.11) FMViT: A multiple-frequency mixing Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.05707.pdf), [[Code]](https://github.com/tany0699/FMViT)
+- (arXiv 2023.11) Cross-Axis Transformer with 2D Rotary Embeddings, [[Paper]](https://arxiv.org/pdf/2311.07184.pdf)
+- (arXiv 2023.11) Aggregate, Decompose, and Fine-Tune: A Simple Yet Effective Factor-Tuning Method for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.06749.pdf), [[Code]](https://github.com/Dongping-Chen/EFFT-EFfective-Factor-Tuning)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1610,6 +1615,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Vision Grid Transformer for Document Layout Analysis, [[Paper]](https://arxiv.org/pdf/2308.14978.pdf), [[Code]](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
 - (arXiv 2023.08) Document AI: A Comparative Study of Transformer-Based, Graph-Based Models, and Convolutional Neural Networks For Document Layout Analysis, [[Paper]](https://arxiv.org/pdf/2308.15517.pdf)
 - (arXiv 2023.10) Dolfin: Diffusion Layout Transformers without Autoencoder, [[Paper]](https://arxiv.org/pdf/2310.16305.pdf)
+- (arXiv 2023.11) LayoutPrompter: Awaken the Design Ability of Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.06495.pdf), [[Code]](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -3430,6 +3436,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2309.09777.pdf), [[Project]](https://drivedreamer.github.io/)
 - (arXiv 2023.09) HPL-ViT: A Unified Perception Framework for Heterogeneous Parallel LiDARs in V2V, [[Paper]](https://arxiv.org/pdf/2309.15572.pdf)
 - (arXiv 2023.11) Efficient Vision Transformer for Accurate Traffic Sign Detection, [[Paper]](https://arxiv.org/pdf/2311.01429.pdf)
+- (arXiv 2023.11) DRUformer: Enhancing the driving scene Important object detection with driving relationship self-understanding, [[Paper]](https://arxiv.org/pdf/2311.06497.pdf)
+- (arXiv 2023.11) VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems, [[Paper]](https://arxiv.org/pdf/2311.06623.pdf)
+- (arXiv 2023.11) Traffic Sign Recognition Using Local Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.06651.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
@@ -3958,6 +3967,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Transformer-based nowcasting of radar composites from satellite images for severe weather, [[Paper]](https://arxiv.org/pdf/2310.19515.pdf)
 - (arXiv 2023.10) Triplet Attention Transformer for Spatiotemporal Predictive Learning, [[Paper]](https://arxiv.org/pdf/2310.18698.pdf)
 - (arXiv 2023.11) FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data, [[Paper]](https://arxiv.org/pdf/2311.03314.pdf), [[Code]](https://github.com/lisaweijler/FATE)
+- (arXiv 2023.11) CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer, [[Paper]](https://arxiv.org/pdf/2311.06443.pdf)
 
 ## Contact & Feedback
 
