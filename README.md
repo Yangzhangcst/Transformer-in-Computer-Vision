@@ -1208,6 +1208,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Cal-DETR: Calibrated Detection Transformer, [[Paper]](https://arxiv.org/pdf/2311.03570.pdf), [[Code]](https://github.com/akhtarvision/cal-detr)
 - (arXiv 2023.11) FusionViT: Hierarchical 3D Object Detection via LiDAR-Camera Vision Transformer Fusion, [[Paper]](https://arxiv.org/pdf/2311.03620.pdf)
 - (arXiv 2023.11) Algorithms for Object Detection in Substations, [[Paper]](https://arxiv.org/pdf/2311.07577.pdf)
+- (arXiv 2023.11) Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2311.08747.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2351,6 +2352,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) PolyMaX: General Dense Prediction with Mask Transformer, [[Paper]](https://arxiv.org/abs/2311.05770)
 - (arXiv 2023.11) Vision-Language Integration in Multimodal Video Transformers (Partially) Aligns with the Brain, [[Paper]](https://arxiv.org/pdf/2311.07766.pdf)
 - (arXiv 2023.11) Language Grounded QFormer for Efficient Vision Language Understanding, [[Paper]](https://arxiv.org/pdf/2311.07449.pdf)
+- (arXiv 2023.11) DEED: Dynamic Early Exit on Decoder for Accelerating Encoder-Decoder Transformer Models,  [[Paper]](https://arxiv.org/pdf/2311.08623.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -3227,6 +3229,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arxiv 2023.07) Spike-driven Transformer,  [[Paper]](https://arxiv.org/abs/2307.01694), [[Code]](https://github.com/BICLab/Spike-Driven-Transformer)
 - (arxiv 2023.08) SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition,  [[Paper]](https://arxiv.org/pdf/2308.04369.pdf), [[Code]](https://github.com/Event-AHU/SSTFormer)
 - (arxiv 2023.08) Attention-free Spikformer: Mixing Spike Sequences with Simple Linear Transforms,  [[Paper]](https://arxiv.org/pdf/2308.02557.pdf)
+- (arxiv 2023.11) SparseSpikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer,  [[Paper]](https://arxiv.org/pdf/2311.08806.pdf)
 
 ### Style Transfer
 - (arXiv 2022.10) Fine-Grained Image Style Transfer with Visual Transformers,  [[Paper]](https://arxiv.org/abs/2210.05176), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
