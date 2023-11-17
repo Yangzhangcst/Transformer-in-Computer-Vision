@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/15
+**Last updated: 2023/11/17
 
 ## Survey: 
 - (arXiv 2023.11) Explainability of Vision Transformers: A Comprehensive Review and New Perspectives. [[Paper]](https://arxiv.org/pdf/2311.06786.pdf)
@@ -344,6 +344,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Changes-Aware Transformer: Learning Generalized Changes Representation, [[Paper]](https://arxiv.org/pdf/2309.13619.pdf)
 - (arXiv 2023.10) Transformer-based Multimodal Change Detection with Multitask Consistency Constraints, [[Paper]](https://arxiv.org/pdf/2310.09276.pdf)
 - (arXiv 2023.10) TransY-Net:Learning Fully Transformer Networks for Change Detection of Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2310.14214.pdf), [[Code]](https://github.com/Drchip61/TransYNet)
+- (arXiv 2023.11) MS-Former: Memory-Supported Transformer for Weakly Supervised Change Detection with Patch-Level Annotations, [[Paper]](https://arxiv.org/pdf/2311.09726.pdf), [[Code]](https://github.com/guanyuezhen/MS-Former)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -2104,6 +2105,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) LT-ViT: A Vision Transformer for multi-label Chest X-ray classification, [[Paper]](https://arxiv.org/pdf/2311.07263.pdf)
 - (arXiv 2023.11) Swin UNETR++: Advancing Transformer-Based Dense Dose Prediction Towards Fully Automated Radiation Oncology Treatments, [[Paper]](https://arxiv.org/pdf/2311.06572.pdf)
 - (arXiv 2023.11) TTMFN: Two-stream Transformer-based Multimodal Fusion Network for Survival Prediction, [[Paper]](https://arxiv.org/pdf/2311.07033.pdf)
+- (arXiv 2023.11) MARformer: An Efficient Metal Artifact Reduction Transformer for Dental CBCT Images, [[Paper]](https://arxiv.org/pdf/2311.09590.pdf)
+- (arXiv 2023.11) Harnessing Transformers: A Leap Forward in Lung Cancer Image Detection, [[Paper]](https://arxiv.org/pdf/2311.09942.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2640,6 +2643,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Radar Instance Transformer: Reliable Moving Instance Segmentation in Sparse Radar Point Clouds, [[Paper]](https://arxiv.org/pdf/2309.16435.pdf)
 - (arXiv 2023.10) Uni3D: Exploring Unified 3D Representation at Scale, [[Paper]](https://arxiv.org/pdf/2310.06773.pdf), [[Code]](https://github.com/baaivision/Uni3D)
 - (arXiv 2023.10) 2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision, [[Paper]](https://arxiv.org/pdf/2310.12817.pdf), [[Code]](https://jimmy15923.github.io/mit_web/)
+- (arXiv 2023.11) DeepEMD: A Transformer-based Fast Estimation of the Earth Mover’s Distance, [[Paper]](https://arxiv.org/pdf/2310.09998.pdf), [[Code]](https://github.com/atulkumarin/DeepEMD)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3971,6 +3975,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Triplet Attention Transformer for Spatiotemporal Predictive Learning, [[Paper]](https://arxiv.org/pdf/2310.18698.pdf)
 - (arXiv 2023.11) FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data, [[Paper]](https://arxiv.org/pdf/2311.03314.pdf), [[Code]](https://github.com/lisaweijler/FATE)
 - (arXiv 2023.11) CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer, [[Paper]](https://arxiv.org/pdf/2311.06443.pdf)
+- (arXiv 2023.11) Multi-View Spectrogram Transformer for Respiratory Sound Classification, [[Paper]](https://arxiv.org/pdf/2311.09655.pdf)
 
 ## Contact & Feedback
 
