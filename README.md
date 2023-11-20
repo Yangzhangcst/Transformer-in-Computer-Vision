@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/17
+**Last updated: 2023/11/20
 
 ## Survey: 
 - (arXiv 2023.11) Explainability of Vision Transformers: A Comprehensive Review and New Perspectives. [[Paper]](https://arxiv.org/pdf/2311.06786.pdf)
@@ -1496,6 +1496,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) FactoFormer: Factorized Hyperspectral Transformers with Self-Supervised Pre-Training, [[Paper]](https://arxiv.org/pdf/2309.09431.pdf), [[Code]](https://github.com/csiro-robotics/factoformer)
 - (arXiv 2023.10) Multiview Transformer: Rethinking Spatial Information in Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2310.07186.pdf)
 - (arXiv 2023.10) MLP-AMDC: An MLP Architecture for Adaptive-Mask-based Dual-Camera snapshot hyperspectral imaging, [[Paper]](https://arxiv.org/pdf/2310.08002.pdf), [[Code]](https://github.com/caizeyu1992/MLP-AMDC)
+- (arXiv 2023.11) Learning transformer-based heterogeneously salient graph representation for multimodal fusion classification of hyperspectral image and LiDAR data, [[Paper]](https://arxiv.org/pdf/2311.10320.pdf)
 
 ### Illumination
 - (arXiv 2022.05) Illumination Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
@@ -2107,6 +2108,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) TTMFN: Two-stream Transformer-based Multimodal Fusion Network for Survival Prediction, [[Paper]](https://arxiv.org/pdf/2311.07033.pdf)
 - (arXiv 2023.11) MARformer: An Efficient Metal Artifact Reduction Transformer for Dental CBCT Images, [[Paper]](https://arxiv.org/pdf/2311.09590.pdf)
 - (arXiv 2023.11) Harnessing Transformers: A Leap Forward in Lung Cancer Image Detection, [[Paper]](https://arxiv.org/pdf/2311.09942.pdf)
+- (arXiv 2023.11) Semi-supervised ViT knowledge distillation network with style transfer normalization for colorectal liver metastases survival prediction, [[Paper]](https://arxiv.org/pdf/2311.10305.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
