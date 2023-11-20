@@ -3327,10 +3327,12 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) A Simple Text to Video Model via Transformer, [[Paper]](https://arxiv.org/pdf/2309.14683.pdf)
 - (arXiv 2023.10) Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis, [[Paper]](https://arxiv.org/pdf/2310.00426.pdf)
 - (arXiv 2023.11) VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning, [[Paper]](https://arxiv.org/pdf/2311.00990.pdf),[[Code]](https://videodreamer23.github.io/)
+- (arXiv 2023.11) MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture, [[Paper]](https://arxiv.org/pdf/2311.10123.pdf),[[Code]](https://metadreamer3d.github.io/)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
 - (arXiv 2022.02) Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis, [[Paper]](https://arxiv.org/pdf/2202.11703.pdf)
+- (arXiv 2023.11) 3D-TexSeg: Unsupervised Segmentation of 3D Texture using Mutual Transformer Learning, [[Paper]](https://arxiv.org/pdf/2311.10651.pdf),[[Code]](https://videodreamer23.github.io/)
 
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
