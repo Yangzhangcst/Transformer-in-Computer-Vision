@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/20
+**Last updated: 2023/11/21
 
 ## Survey: 
 - (arXiv 2023.11) Explainability of Vision Transformers: A Comprehensive Review and New Perspectives. [[Paper]](https://arxiv.org/pdf/2311.06786.pdf)
@@ -3653,7 +3653,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Video Transformers under Occlusion: How Physics and Background Attributes Impact Large Models for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2310.02044.pdf), [[Code]](https://github.com/ShutongJIN/OccluManip.git)
 - (arXiv 2023.10) Reinforcement Learning-based Mixture of Vision Transformers for Video Violence Recognition, [[Paper]](https://arxiv.org/pdf/2310.03108.pdf)
 - (arXiv 2023.10) Video Referring Expression Comprehension via Transformer with Content-conditioned Query, [[Paper]](https://arxiv.org/pdf/2310.16402.pdf)
-- (arXiv 2023.10) Concatenated Masked Autoencoders as Spatial-Temporal Learner, [[Paper]](https://arxiv.org/pdf/2311.00961.pdf), [[Code]](https://github.com/minhoooo1/CatMAE)
+- (arXiv 2023.11) Concatenated Masked Autoencoders as Spatial-Temporal Learner, [[Paper]](https://arxiv.org/pdf/2311.00961.pdf), [[Code]](https://github.com/minhoooo1/CatMAE)
+- (arXiv 2023.11) Multi-entity Video Transformers for Fine-Grained Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2311.10873.pdf), [[Code]](https://github.com/facebookresearch/video_rep_learning)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
