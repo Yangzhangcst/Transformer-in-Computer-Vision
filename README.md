@@ -1210,7 +1210,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) FusionViT: Hierarchical 3D Object Detection via LiDAR-Camera Vision Transformer Fusion, [[Paper]](https://arxiv.org/pdf/2311.03620.pdf)
 - (arXiv 2023.11) Algorithms for Object Detection in Substations, [[Paper]](https://arxiv.org/pdf/2311.07577.pdf)
 - (arXiv 2023.11) Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2311.08747.pdf)
-
+- (arXiv 2023.11) Decoupled DETR For Few-shot Object Detection, [[Paper]](https://arxiv.org/pdf/2311.11570.pdf)
+  
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
 - (arXiv 2022.06) XBound-Former: Toward Cross-scale Boundary Modeling in Transformers, [[Paper]](https://arxiv.org/pdf/2206.00806.pdf), [[Code]](https://github.com/jcwang123/xboundformer)
@@ -2109,6 +2110,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) MARformer: An Efficient Metal Artifact Reduction Transformer for Dental CBCT Images, [[Paper]](https://arxiv.org/pdf/2311.09590.pdf)
 - (arXiv 2023.11) Harnessing Transformers: A Leap Forward in Lung Cancer Image Detection, [[Paper]](https://arxiv.org/pdf/2311.09942.pdf)
 - (arXiv 2023.11) Semi-supervised ViT knowledge distillation network with style transfer normalization for colorectal liver metastases survival prediction, [[Paper]](https://arxiv.org/pdf/2311.10305.pdf)
+- (arXiv 2023.11) PMP-Swin: Multi-Scale Patch Message Passing Swin Transformer for Retinal Disease Classification, [[Paper]](https://arxiv.org/pdf/2311.11669.pdf)
+- (arXiv 2023.11) MGCT: Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features, [[Paper]](https://arxiv.org/pdf/2311.11659.pdf)
+- (arXiv 2023.11) Radiology Report Generation Using Transformers Conditioned with Non-imaging Data, [[Paper]](https://arxiv.org/pdf/2311.11097.pdf)
+- (arXiv 2023.11) Enhancing Transformer-Based Segmentation for Breast Cancer Diagnosis using Auto-Augmentation and Search Optimisation Techniques, [[Paper]](https://arxiv.org/pdf/2311.11065.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2740,6 +2745,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) MotionAGFormer: Enhancing 3D Human Pose Estimation with a Transformer-GCNFormer Network, [[Paper]](https://arxiv.org/pdf/2310.16288.pdf), [[Code]](https://github.com/TaatiTeam/MotionAGFormer)
 - (arXiv 2023.10) TransPose: 6D Object Pose Estimation with Geometry-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2310.16279.pdf)
 - (arXiv 2023.10) A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios, [[Paper]](https://arxiv.org/pdf/2311.00401.pdf)
+- (arXiv 2023.11) Multiple View Geometry Transformers for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2311.10983.pdf), [[Code]](https://github.com/XunshanMan/MVGFormer)
+- (arXiv 2023.11) Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2311.12028.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3217,7 +3224,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2310.19001.pdf), [[Code]](https://github.com/Ferenas/PGSeg)
 - (arXiv 2023.10) PAUMER: Patch Pausing Transformer for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2311.00586.pdf), [[Code]](https://github.com/Ferenas/PGSeg)
 - (arXiv 2023.11) Non-Hierarchical Transformers for Pedestrian Segmentation, [[Paper]](https://arxiv.org/pdf/2311.02506.pdf)
-  
+- (arXiv 2023.11) SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints, [[Paper]](https://arxiv.org/pdf/2311.11371.pdf)
+
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
 - (arXiv 2022.01) ShapeFormer: Transformer-based Shape Completion via Sparse Representation,  [[Paper]](https://arxiv.org/abs/2201.10326), [[Project]](https://shapeformer.github.io/)
@@ -3981,6 +3989,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data, [[Paper]](https://arxiv.org/pdf/2311.03314.pdf), [[Code]](https://github.com/lisaweijler/FATE)
 - (arXiv 2023.11) CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer, [[Paper]](https://arxiv.org/pdf/2311.06443.pdf)
 - (arXiv 2023.11) Multi-View Spectrogram Transformer for Respiratory Sound Classification, [[Paper]](https://arxiv.org/pdf/2311.09655.pdf)
+- (arXiv 2023.11) Inspecting Explainability of Transformer Models with Additional Statistical Information, [[Paper]](https://arxiv.org/pdf/2311.11378.pdf)
 
 ## Contact & Feedback
 
