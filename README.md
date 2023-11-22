@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/21
+**Last updated: 2023/11/22
 
 ## Survey: 
 - (arXiv 2023.11) Explainability of Vision Transformers: A Comprehensive Review and New Perspectives. [[Paper]](https://arxiv.org/pdf/2311.06786.pdf)
@@ -2504,6 +2504,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Diffusion Model is Secretly a Training-free Open Vocabulary er, [[Paper]](https://arxiv.org/pdf/2309.02773.pdf)
 - (arXiv 2023.09) Unsupervised Open-Vocabulary Object Localization in Videos, [[Paper]](https://arxiv.org/pdf/2309.09858.pdf), [[Code]](https://github.com/aim-uofa/SegPrompt)
 - (arXiv 2023.10) CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2310.02960.pdf), [[Code]](https://github.com/yangcaoai/CoDA_NeurIPS2023)
+- (arXiv 2023.11) Enhancing Novel Object Detection via Cooperative Foundational Models, [[Paper]](https://arxiv.org/pdf/2311.12068.pdf), [[Code]](https://github.com/rohit901/cooperative-foundational-models)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
