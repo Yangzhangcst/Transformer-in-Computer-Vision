@@ -3993,6 +3993,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer, [[Paper]](https://arxiv.org/pdf/2311.06443.pdf)
 - (arXiv 2023.11) Multi-View Spectrogram Transformer for Respiratory Sound Classification, [[Paper]](https://arxiv.org/pdf/2311.09655.pdf)
 - (arXiv 2023.11) Inspecting Explainability of Transformer Models with Additional Statistical Information, [[Paper]](https://arxiv.org/pdf/2311.11378.pdf)
+- (arXiv 2023.11) Disentangling Structure and Appearance in ViT Feature Space, [[Paper]](https://arxiv.org/pdf/2311.12193.pdf)
 
 ## Contact & Feedback
 
