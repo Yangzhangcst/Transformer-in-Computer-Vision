@@ -2747,6 +2747,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios, [[Paper]](https://arxiv.org/pdf/2311.00401.pdf)
 - (arXiv 2023.11) Multiple View Geometry Transformers for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2311.10983.pdf), [[Code]](https://github.com/XunshanMan/MVGFormer)
 - (arXiv 2023.11) Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2311.12028.pdf)
+- (arXiv 2023.11) Fingerspelling PoseNet: Enhancing Fingerspelling Translation with Pose-Based Transformer Models, [[Paper]](https://arxiv.org/pdf/2311.12128.pdf), [[Code]](https://github.com/pooyafayyaz/Fingerspelling-PoseNet)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3489,6 +3490,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Disentangling Spatial and Temporal Learning for Efficient Image-to-Video Transfer Learning, [[Paper]](https://arxiv.org/pdf/2309.07911.pdf), [[Code]](https://github.com/alibaba-mmai-research/DiST)
 - (arXiv 2023.10) ZeroI2V: Zero-Cost Adaptation of Pre-trained Transformers from Image to Video, [[Paper]](https://arxiv.org/pdf/2310.01324.pdf)
 - (arXiv 2023.10) Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework, [[Paper]](https://arxiv.org/pdf/2310.15646.pdf)
+- (arXiv 2023.11) Improving Source-Free Target Adaptation with Vision Transformers Leveraging Domain Representation Images, [[Paper]](https://arxiv.org/pdf/2311.12589.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
