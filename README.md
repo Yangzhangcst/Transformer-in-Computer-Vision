@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/22
+**Last updated: 2023/11/23
 
 ## Survey: 
 - (arXiv 2023.11) Explainability of Vision Transformers: A Comprehensive Review and New Perspectives. [[Paper]](https://arxiv.org/pdf/2311.06786.pdf)
@@ -217,6 +217,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) ConViViT -- A Deep Neural Network Combining Convolutions and Factorized Self-Attention for Human Activity Recognition, [[Paper]](https://arxiv.org/pdf/2310.14416.pdf)
 - (arXiv 2023.10) Blacksmith: Fast Adversarial Training of Vision Transformers via a Mixture of Single-step and Multi-step Methods, [[Paper]](https://arxiv.org/pdf/2310.18975.pdf)
 - (arXiv 2023.11) DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training, [[Paper]](https://arxiv.org/pdf/2311.06855.pdf)
+- (arXiv 2023.11) Attention Deficit is Ordered! Fooling Deformable Vision Transformers with Collaborative Adversarial Patches, [[Paper]](https://arxiv.org/pdf/2311.12914.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -887,6 +888,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs, [[Paper]](https://arxiv.org/pdf/2309.15755.pdf)
 - (arXiv 2023.10) USDC: Unified Static and Dynamic Compression for Visual Transformer, [[Paper]](https://arxiv.org/pdf/2310.11117.pdf)
 - (arXiv 2023.10) Frequency-Aware Transformer for Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2310.16387.pdf)
+- (arXiv 2023.11) White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is, [[Paper]](https://arxiv.org/pdf/2311.13110.pdf), [[Code]](https://ma-lab-berkeley.github.io/CRATE)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -1519,6 +1521,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) On the Effectiveness of LayerNorm Tuning for Continual Learning in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2308.09372.pdf), [[Code]](https://github.com/tdemin16/Continual-LayerNorm-Tuning)
 - (arXiv 2023.08) Exemplar-Free Continual Transformer with Convolutions, [[Paper]](https://arxiv.org/pdf/2308.11357.pdf), [[Projet]](https://cvir.github.io/projects/contracon)
 - (arXiv 2023.08) Introducing Language Guidance in Prompt-based Continual Learning, [[Paper]](https://arxiv.org/pdf/2308.15827.pdf)
+- (arXiv 2023.11) CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning, [[Paper]](https://arxiv.org/pdf/2311.13263.pdf)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -1620,6 +1623,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Document AI: A Comparative Study of Transformer-Based, Graph-Based Models, and Convolutional Neural Networks For Document Layout Analysis, [[Paper]](https://arxiv.org/pdf/2308.15517.pdf)
 - (arXiv 2023.10) Dolfin: Diffusion Layout Transformers without Autoencoder, [[Paper]](https://arxiv.org/pdf/2310.16305.pdf)
 - (arXiv 2023.11) LayoutPrompter: Awaken the Design Ability of Large Language Models, [[Paper]](https://arxiv.org/pdf/2311.06495.pdf), [[Code]](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter)
+- (arXiv 2023.11) Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation, [[Paper]](https://arxiv.org/pdf/2311.13602.pdf), [[Project]](https://udonda.github.io/RALF/)
 
 ### Lighting
 - (arXiv 2022.02) Spatio-Temporal Outdoor Lighting Aggregation on Image Sequences using Transformer Networks, [[Paper]](https://arxiv.org/abs/2202.09206)
@@ -2114,6 +2118,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) MGCT: Mutual-Guided Cross-Modality Transformer for Survival Outcome Prediction using Integrative Histopathology-Genomic Features, [[Paper]](https://arxiv.org/pdf/2311.11659.pdf)
 - (arXiv 2023.11) Radiology Report Generation Using Transformers Conditioned with Non-imaging Data, [[Paper]](https://arxiv.org/pdf/2311.11097.pdf)
 - (arXiv 2023.11) Enhancing Transformer-Based Segmentation for Breast Cancer Diagnosis using Auto-Augmentation and Search Optimisation Techniques, [[Paper]](https://arxiv.org/pdf/2311.11065.pdf)
+- (arXiv 2023.11) TSegFormer: 3D Tooth Segmentation in Intraoral Scans with Geometry Guided Transformer, [[Paper]](https://arxiv.org/pdf/2311.13234.pdf), [[Code]](https://github.com/huiminxiong/TSegFormer)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3994,6 +3999,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Multi-View Spectrogram Transformer for Respiratory Sound Classification, [[Paper]](https://arxiv.org/pdf/2311.09655.pdf)
 - (arXiv 2023.11) Inspecting Explainability of Transformer Models with Additional Statistical Information, [[Paper]](https://arxiv.org/pdf/2311.11378.pdf)
 - (arXiv 2023.11) Disentangling Structure and Appearance in ViT Feature Space, [[Paper]](https://arxiv.org/pdf/2311.12193.pdf)
+- (arXiv 2023.11) EWasteNet: A Two-Stream Data Efficient Image Transformer Approach for E-Waste Classification, [[Paper]](https://arxiv.org/pdf/2311.12823.pdf)
 
 ## Contact & Feedback
 
