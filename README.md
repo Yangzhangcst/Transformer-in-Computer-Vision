@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/11/27
+**Last updated: 2023/11/28
 
 ## Survey: 
 - (arXiv 2023.11) Explainability of Vision Transformers: A Comprehensive Review and New Perspectives. [[Paper]](https://arxiv.org/pdf/2311.06786.pdf)
@@ -843,6 +843,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) FMViT: A multiple-frequency mixing Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.05707.pdf), [[Code]](https://github.com/tany0699/FMViT)
 - (arXiv 2023.11) Cross-Axis Transformer with 2D Rotary Embeddings, [[Paper]](https://arxiv.org/pdf/2311.07184.pdf)
 - (arXiv 2023.11) Aggregate, Decompose, and Fine-Tune: A Simple Yet Effective Factor-Tuning Method for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.06749.pdf), [[Code]](https://github.com/Dongping-Chen/EFFT-EFfective-Factor-Tuning)
+- (arXiv 2023.11) Advancing Vision Transformers with Group-Mix Attention, [[Paper]](https://arxiv.org/pdf/2311.15157.pdf), [[Code]](https://github.com/AILab-CVC/GroupMixFormer)
+- (arXiv 2023.11) Token Recycling for Efficient Sequential Inference with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2311.15335.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1633,6 +1635,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) NExT-Chat: An LMM for Chat, Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2311.04498.pdf), [[Code]](https://next-chatv.github.io/)
 - (arXiv 2023.11) u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.05348.pdf)
 - (arXiv 2023.11) Towards Open-Ended Visual Recognition with Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.08400.pdf), [[Code]](https://github.com/bytedance/OmniScient-Model)
+- (arXiv 2023.11) Stable Segment Anything Model, [[Paper]](https://arxiv.org/pdf/2311.15776.pdf), [[Code]](https://github.com/fanq15/Stable-SAM)
+- (arXiv 2023.11) Adapter is All You Need for Tuning Visual Tasks, [[Paper]](https://arxiv.org/pdf/2311.15010.pdf), [[Code]](https://github.com/Leiyi-Hu/mona)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2131,6 +2135,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) 3Deformer: A Common Framework for Image-Guided Mesh Deformation, [[Paper]](https://arxiv.org/pdf/2307.09892.pdf), [[Project]](https://osx-ubody.github.io/)
 - (arXiv 2023.07) JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2307.16377.pdf), [[Code]](https://github.com/xljh0520/JOTR)
 - (arXiv 2023.08) Coordinate Transformer: Achieving Single-stage Multi-person Mesh Recovery from Videos, [[Paper]](https://arxiv.org/pdf/2308.10334.pdf), [[Code]](https://github.com/Li-Hao-yuan/CoordFormer)
+- (arXiv 2023.11) MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers, [[Paper]](https://arxiv.org/pdf/2311.15475.pdf), [[Project]](https://nihalsid.github.io/mesh-gpt/)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -2368,6 +2373,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Vision-Language Integration in Multimodal Video Transformers (Partially) Aligns with the Brain, [[Paper]](https://arxiv.org/pdf/2311.07766.pdf)
 - (arXiv 2023.11) Language Grounded QFormer for Efficient Vision Language Understanding, [[Paper]](https://arxiv.org/pdf/2311.07449.pdf)
 - (arXiv 2023.11) DEED: Dynamic Early Exit on Decoder for Accelerating Encoder-Decoder Transformer Models,  [[Paper]](https://arxiv.org/pdf/2311.08623.pdf)
+- (arXiv 2023.11) VIT-LENS-2: Gateway to Omni-modal Intelligence,  [[Paper]](https://arxiv.org/pdf/2311.16081.pdf), [[Code]](https://github.com/TencentARC/ViT-Lens）
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2659,6 +2665,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) 2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision, [[Paper]](https://arxiv.org/pdf/2310.12817.pdf), [[Code]](https://jimmy15923.github.io/mit_web/)
 - (arXiv 2023.11) DeepEMD: A Transformer-based Fast Estimation of the Earth Mover’s Distance, [[Paper]](https://arxiv.org/pdf/2310.09998.pdf), [[Code]](https://github.com/atulkumarin/DeepEMD)
 - (arXiv 2023.11) OneFormer3D: One Transformer for Unified Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2311.14405.pdf)
+- (arXiv 2023.11) CalibFormer: A Transformer-based Automatic LiDAR-Camera Calibration Network, [[Paper]](https://arxiv.org/pdf/2311.15241.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -2757,6 +2764,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2311.12028.pdf)
 - (arXiv 2023.11) Fingerspelling PoseNet: Enhancing Fingerspelling Translation with Pose-Based Transformer Models, [[Paper]](https://arxiv.org/pdf/2311.12128.pdf), [[Code]](https://github.com/pooyafayyaz/Fingerspelling-PoseNet)
 - (arXiv 2023.11) HEViTPose: High-Efficiency Vision Transformer for Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2311.13615.pdf), [[Code]](https://github.com/T1sweet/HEViTPose/tree/main)
+- (arXiv 2023.11) SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2311.15707.pdf), [[Code]](https://github.com/JiehongLin/SAM-6D)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3435,6 +3443,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Siamese-DETR for Generic Multi-Object Tracking, [[Paper]](https://arxiv.org/pdf/2310.17875.pdf)
 - (arXiv 2023.11) LabelFormer: Object Trajectory Refinement for Offboard Perception from LiDAR Point Clouds, [[Paper]](https://arxiv.org/pdf/2311.01444.pdf)
 - (arXiv 2023.11) Contrastive Learning for Multi-Object Tracking with Transformers, [[Paper]](https://arxiv.org/pdf/2311.08043.pdf)
+- (arXiv 2023.11) Single-Model and Any-Modality for Video Object Tracking, [[Paper]](https://arxiv.org/pdf/2311.15851.pdf), [[Code]](https://github.com/Zongwei97/UnTrack)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -4006,6 +4015,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) EWasteNet: A Two-Stream Data Efficient Image Transformer Approach for E-Waste Classification, [[Paper]](https://arxiv.org/pdf/2311.12823.pdf)
 - (arXiv 2023.11) BenthIQ: a Transformer-Based Benthic Classification Model for Coral Restoration, [[Paper]](https://arxiv.org/pdf/2311.13661.pdf)
 - (arXiv 2023.11) GeoViT: A Versatile Vision Transformer Architecture for Geospatial Image Analysis, [[Paper]](https://arxiv.org/pdf/2311.14301.pdf)
+- (arXiv 2023.11) ChAda-ViT : Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images, [[Paper]](https://arxiv.org/pdf/2311.15264.pdf)
 
 ## Contact & Feedback
 
