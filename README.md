@@ -2287,6 +2287,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Radiology Report Generation Using Transformers Conditioned with Non-imaging Data, [[Paper]](https://arxiv.org/pdf/2311.11097.pdf)
 - (arXiv 2023.11) Enhancing Transformer-Based Segmentation for Breast Cancer Diagnosis using Auto-Augmentation and Search Optimisation Techniques, [[Paper]](https://arxiv.org/pdf/2311.11065.pdf)
 - (arXiv 2023.11) TSegFormer: 3D Tooth Segmentation in Intraoral Scans with Geometry Guided Transformer, [[Paper]](https://arxiv.org/pdf/2311.13234.pdf), [[Code]](https://github.com/huiminxiong/TSegFormer)
+- (arXiv 2023.11) Adapting Segment Anything Model (SAM) through Prompt-based Learning for Enhanced Protein Identification in Cryo-EM Micrographs, [[Paper]](https://arxiv.org/pdf/2311.16140.pdf)
 
 ### Mesh
 
@@ -3249,7 +3250,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Towards Grouping in Large Scenes with Occlusion-aware Spatio-temporal Transformers, [[Paper]](https://arxiv.org/pdf/2310.19447.pdf),[[Code]](http://cic.tju.edu.cn/faculty/likun/projects/GroupTrans)
 - (arXiv 2023.11) Towards a Unified Transformer-based Framework for Scene Graph Generation and Human-object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2311.01755.pdf)
 - (arXiv 2023.11) TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding, [[Paper]](https://arxiv.org/pdf/2311.03427.pdf),[[Code]](https://github.com/tb2-sy/TSP-Transformer)
-
+- (arXiv 2023.11) VLPrompt: Vision-Language Prompting for Panoptic Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2311.16492.pdf)
+  
 ### Self-supervised Learning
 
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -4241,6 +4243,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) GeoViT: A Versatile Vision Transformer Architecture for Geospatial Image Analysis, [[Paper]](https://arxiv.org/pdf/2311.14301.pdf)
 - (arXiv 2023.11) ChAda-ViT : Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images, [[Paper]](https://arxiv.org/pdf/2311.15264.pdf)
 - (arXiv 2023.11) Typhoon Intensity Prediction with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.16450.pdf), [[Code]](https://github.com/chen-huanxin/Tint)
+- (arXiv 2023.11) Dual-Stream Attention Transformers for Sewer Defect Classification, [[Paper]](https://arxiv.org/pdf/2311.16145.pdf)
 
 ## Contact & Feedback
 
