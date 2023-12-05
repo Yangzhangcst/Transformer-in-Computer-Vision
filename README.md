@@ -199,6 +199,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) SigFormer: Sparse Signal-Guided Transformer for Multi-Modal Human Action Segmentation, [[Paper]](https://arxiv.org/pdf/2311.17428.pdf), [[Code]](https://github.com/LIUQI-creat/SigFormer)
 - (arXiv 2023.11) GeoDeformer: Geometric Deformable Transformer for Action Recognition, [[Paper]](https://arxiv.org/pdf/2311.17975.pdf)
 - (arXiv 2023.12) REACT: Recognize Every Action Everywhere All At Once, [[Paper]](https://arxiv.org/pdf/2312.00188.pdf)
+- (arXiv 2023.12) Adapting Short-Term Transformers for Action Detection in Untrimmed Videos, [[Paper]](https://arxiv.org/pdf/2312.00188.pdf)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -922,6 +923,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) InCrowdFormer: On-Ground Pedestrian World Model From Egocentric Views, [[Paper]](https://arxiv.org/pdf/2303.09534.pdf)
 - (arXiv 2023.05) Selecting Learnable Training Samples is All DETRs Need in Crowded Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2305.10801.pdf)
 - (arXiv 2023.10) Query-adaptive DETR for Crowded Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2310.15725.pdf)
+- (arXiv 2023.12) Regressor-Segmenter Mutual Prompt Learning for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2312.01711.pdf)
 
 ### Deblurring
 - (arXiv 2022.01) Flow-Guided Sparse Transformer for Video Deblurring,[[Paper]](https://arxiv.org/pdf/2201.01893.pdf)
@@ -999,6 +1001,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers, [[Paper]](https://arxiv.org/pdf/2308.14152.pdf)
 - (arXiv 2023.09) Large-Vocabulary 3D Diffusion Model with Transformer, [[Paper]](https://arxiv.org/pdf/2309.07920.pdf), [[Project]](https://ziangcao0312.github.io/difftf_pages/)
 - (arXiv 2023.09) Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models, [[Paper]](https://arxiv.org/pdf/2309.08251.pdf), [[Project]](https://cartoondiff.github.io/)
+- (arXiv 2023.12) DiffiT: Diffusion Vision Transformers for Image Generation, [[Paper]](https://arxiv.org/pdf/2312.02139.pdf)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -1438,6 +1441,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.07) Enhancing Object Detection in Ancient Documents with Synthetic Data Generation and Transformer-Based Models, [[Paper]](https://arxiv.org/pdf/2307.16005.pdf)
 - (arXiv 2023.08) Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts, [[Paper]](https://arxiv.org/pdf/2308.11793.pdf), [[Code]](https://github.com/VITA-Group/GNT-MOVE)
 - (arXiv 2023.10) Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.05400.pdf)
+- (arXiv 2023.12) GIVT: Generative Infinite-Vocabulary Transformers, [[Paper]](https://arxiv.org/pdf/2312.02116.pdf)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
@@ -1658,6 +1662,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) InstructSeq: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation, [[Paper]](https://arxiv.org/pdf/2311.18835.pdf), [[Code]](https://github.com/rongyaofang/InstructSeq)
 - (arXiv 2023.11) Semantic-Aware Frame-Event Fusion based Pattern Recognition via Large Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2311.18592.pdf), [[Code]](https://github.com/Event-AHU/SAFE_LargeVLM)
 - (arXiv 2023.11) Contrastive Vision-Language Alignment Makes Efficient Instruction Learner, [[Paper]](https://arxiv.org/pdf/2311.17945.pdf), [[Code]](https://github.com/lizhaoliu-Lec/CG-VLM)
+- (arXiv 2023.12) Bootstrapping SparseFormers from Vision Foundation Models, [[Paper]](https://arxiv.org/pdf/2312.01987.pdf), [[Code]](https://github.com/showlab/sparseformer)
+- (arXiv 2023.12) IMProv: Inpainting-based Multimodal Prompting for Computer Vision Tasks, [[Paper]](https://arxiv.org/pdf/2312.01771.pdf), [[Code]](https://jerryxu.net/IMProv)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
