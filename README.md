@@ -1,9 +1,11 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/12/05
+**Last updated: 2023/12/06
 
 ## Survey: 
+- (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
+
 - (arXiv 2023.12) A Recent Survey of Vision Transformers for Medical Image Segmentation. [[Paper]](https://arxiv.org/pdf/2312.00634.pdf)
 
 - (arXiv 2023.11) Explainability of Vision Transformers: A Comprehensive Review and New Perspectives. [[Paper]](https://arxiv.org/pdf/2311.06786.pdf)
@@ -276,6 +278,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) ModEFormer: Modality-Preserving Embedding for Audio-Video Synchronization using Transformers, [[Paper]](https://arxiv.org/pdf/2303.11551.pdf)
 - (arXiv 2023.07) AVSegFormer: Audio-Visual Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2307.01146.pdf), [[Code]](https://github.com/vvvb-github/AVSegFormer)
 - (arXiv 2023.11) Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing, [[Paper]](https://arxiv.org/pdf/2311.08151.pdf)
+- (arXiv 2023.12) Unveiling the Power of Audio-Visual Early Fusion Transformers with Dense Interactions through Masked Modeling, [[Paper]](https://arxiv.org/pdf/2312.01017.pdf)
 
 ### Bird's-Eye-View
 - (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
@@ -299,6 +302,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) FusionFormer: A Multi-sensory Fusion in Bird's-Eye-View and Temporal Consistent Transformer for 3D Objection, [[Paper]](https://arxiv.org/pdf/2309.05257.pdf)
 - (arXiv 2023.10) Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing, [[Paper]](https://arxiv.org/pdf/2310.11346.pdf)
 - (arXiv 2023.12) Towards Efficient 3D Object Detection in Bird's-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach, [[Paper]](https://arxiv.org/pdf/2312.00633.pdf)
+- (arXiv 2023.12) BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2312.01696.pdf)
+- (arXiv 2023.12) COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction, [[Paper]](https://arxiv.org/pdf/2312.01919.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -856,6 +861,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Stochastic Vision Transformers with Wasserstein Distance-Aware Attention, [[Paper]](https://arxiv.org/pdf/2311.18645.pdf)
 - (arXiv 2023.11) Improving Faithfulness for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2311.17983.pdf)
 - (arXiv 2023.11) SCHEME: Scalable Channer Mixer for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.00412.pdf)
+- (arXiv 2023.12) MABViT -- Modified Attention Block Enhances Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.01324.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1664,6 +1670,10 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Contrastive Vision-Language Alignment Makes Efficient Instruction Learner, [[Paper]](https://arxiv.org/pdf/2311.17945.pdf), [[Code]](https://github.com/lizhaoliu-Lec/CG-VLM)
 - (arXiv 2023.12) Bootstrapping SparseFormers from Vision Foundation Models, [[Paper]](https://arxiv.org/pdf/2312.01987.pdf), [[Code]](https://github.com/showlab/sparseformer)
 - (arXiv 2023.12) IMProv: Inpainting-based Multimodal Prompting for Computer Vision Tasks, [[Paper]](https://arxiv.org/pdf/2312.01771.pdf), [[Code]](https://jerryxu.net/IMProv)
+- (arXiv 2023.12) Segment and Caption Anything, [[Paper]](https://arxiv.org/pdf/2312.00869.pdf), [[Code]](https://xk-huang.github.io/segment-caption-anything/)
+- (arXiv 2023.12) EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything, [[Paper]](https://arxiv.org/pdf/2312.00863.pdf)
+- (arXiv 2023.12) Segment Any 3D Gaussians, [[Paper]](https://arxiv.org/pdf/2312.00860.pdf), [[Code]](https://github.com/Jumpat/SegAnyGAussians)
+- (arXiv 2023.12) Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts, [[Paper]](https://arxiv.org/pdf/2312.00968.pdf)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2154,6 +2164,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Adapting Segment Anything Model (SAM) through Prompt-based Learning for Enhanced Protein Identification in Cryo-EM Micrographs, [[Paper]](https://arxiv.org/pdf/2311.16140.pdf)
 - (arXiv 2023.12) Brainformer: Modeling MRI Brain Functions to Machine Vision, [[Paper]](https://arxiv.org/pdf/2312.00236.pdf)
 - (arXiv 2023.12) Event Recognition in Laparoscopic Gynecology Videos with Hybrid Transformers, [[Paper]](https://arxiv.org/pdf/2312.00593.pdf)
+- (arXiv 2023.12) MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation, [[Paper]](https://arxiv.org/pdf/2312.01740.pdf), [[Code]](https://github.com/FengheTan9/MobileUtr)
+- (arXiv 2023.12) Automatic Report Generation for Histopathology images using pre-trained Vision Transformers and BERT, [[Paper]](https://arxiv.org/pdf/2312.01435.pdf), [[Code]](https://github.com/FengheTan9/MobileUtr)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2551,6 +2563,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2310.02960.pdf), [[Code]](https://github.com/yangcaoai/CoDA_NeurIPS2023)
 - (arXiv 2023.11) Enhancing Novel Object Detection via Cooperative Foundational Models, [[Paper]](https://arxiv.org/pdf/2311.12068.pdf), [[Code]](https://github.com/rohit901/cooperative-foundational-models)
 - (arXiv 2023.11) Language-conditioned Detection Transformer, [[Paper]](https://arxiv.org/pdf/2311.17902.pdf), [[Code]](https://github.com/janghyuncho/DECOLA)
+- (arXiv 2023.12) Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2312.02103.pdf)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
@@ -3368,6 +3381,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Unfolding Once is Enough: A Deployment-Friendly Transformer Unit for Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.02794.pdf), [[Code]](https://github.com/yongliuy/DITN)
 - (arXiv 2023.08) S2R: Exploring a Double-Win Transformer-Based Framework for Ideal and Blind Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.08142.pdf), [[Code]](https://github.com/berumotto-vermouth/S2R.12)
 - (arXiv 2023.10) Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2310.04180.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/DSAT/tree/main)
+- (arXiv 2023.12) SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2312.01999.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -3754,6 +3768,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Knowing Where to Focus: Event-aware Transformer for Video Grounding, [[Paper]](https://arxiv.org/pdf/2308.06947.pdf), [[Code]](https://github.com/jinhyunj/SANet)
 - (arXiv 2023.08) Language-Guided Diffusion Model for Visual Grounding, [[Paper]](https://arxiv.org/pdf/2308.09599.pdf), [[Code]](https://github.com/iQua/vgbase/tree/DiffusionVG)
 - (arXiv 2023.12) BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos, [[Paper]](https://arxiv.org/pdf/2312.00083.pdf), [[Code]](https://github.com/Pilhyeon/BAM-DETR)
+- (arXiv 2023.12) Grounding Everything: Emerging Localization Properties in Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2312.00878.pdf), [[Code]](https://github.com/WalBouss/GEM)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
