@@ -862,6 +862,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Improving Faithfulness for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2311.17983.pdf)
 - (arXiv 2023.11) SCHEME: Scalable Channer Mixer for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.00412.pdf)
 - (arXiv 2023.12) MABViT -- Modified Attention Block Enhances Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.01324.pdf)
+- (arXiv 2023.12) Class-Discriminative Attention Maps for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.02364.pdf), [[Code]](https://github.com/lenbrocki/CDAM)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2217,6 +2218,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis, [[Paper]](https://arxiv.org/pdf/2308.07301.pdf), [[Code]](https://github.com/Sadegh28/ATR)
 - (arXiv 2023.10) Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding, [[Paper]](https://arxiv.org/pdf/2310.12970.pdf), [[Code]](https://github.com/zhejz/HPTR)
 - (arXiv 2023.11) Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement, [[Paper]](https://arxiv.org/pdf/2311.16495.pdf)
+- (arXiv 2023.12) MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR, [[Paper]](https://arxiv.org/pdf/2312.02409.pdf), [[Code]](https://waymo.com/open/challenges/2023/motion-prediction/)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2852,6 +2854,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Vision Transformer Pruning Via Matrix Decomposition,  [[Paper]](https://arxiv.org/pdf/2308.10839.pdf)
 - (arXiv 2023.09) Transformer-VQ: Linear-Time Transformers via Vector Quantization,  [[Paper]](https://arxiv.org/pdf/2309.16354.pdf), [[Code]](https://github.com/transformer-vq/transformer_vq)
 - (arXiv 2023.10) LLM-FP4: 4-Bit Floating-Point Quantized Transformers, [[Paper]](https://arxiv.org/pdf/2310.16836.pdf), [[Code]](https://github.com/nbasyl/LLM-FP4)
+- (arXiv 2023.12) QuantAttack: Exploiting Dynamic Quantization to Attack Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.02220.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -2985,6 +2988,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2310.13876.pdf)
 - (arXiv 2023.10) SolarFormer: Multi-scale Transformer for Solar PV Profiling, [[Paper]](https://arxiv.org/pdf/2310.20057.pdf)
 - (arXiv 2023.11) CLiSA: A Hierarchical Hybrid Transformer Model using Orthogonal Cross Attention for Satellite Image Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2311.17475.pdf)
+- (arXiv 2023.11) SAM-Assisted Remote Sensing Imagery Semantic Segmentation with Object and Boundary Constraints, [[Paper]](https://arxiv.org/pdf/2312.02464.pdf), [[Code]](https://github.com/sstary/SSRS)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -3745,6 +3749,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Multi-entity Video Transformers for Fine-Grained Video Representation Learning, [[Paper]](https://arxiv.org/pdf/2311.10873.pdf), [[Code]](https://github.com/facebookresearch/video_rep_learning)
 - (arXiv 2023.11) E-ViLM: Efficient Video-Language Model via Masked Video Modeling with Semantic Vector-Quantized Tokenizer, [[Paper]](https://arxiv.org/pdf/2311.17267.pdf)
 - (arXiv 2023.11) Just Add π! Pose Induced Video Transformers for Understanding Activities of Daily Living, [[Paper]](https://arxiv.org/pdf/2311.18840.pdf), [[Code]](https://github.com/dominickrei/pi-vit)
+- (arXiv 2023.12) DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding, [[Paper]](https://arxiv.org/pdf/2312.02549.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
