@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/12/06
+**Last updated: 2023/12/07
 
 ## Survey: 
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
@@ -1236,7 +1236,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Algorithms for Object Detection in Substations, [[Paper]](https://arxiv.org/pdf/2311.07577.pdf)
 - (arXiv 2023.11) Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2311.08747.pdf)
 - (arXiv 2023.11) Decoupled DETR For Few-shot Object Detection, [[Paper]](https://arxiv.org/pdf/2311.11570.pdf)
-  
+- (arXiv 2023.12) RotaTR: Detection Transformer for Dense and Rotated Object, [[Paper]](https://arxiv.org/pdf/2312.02821.pdf)
+
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
 - (arXiv 2022.06) XBound-Former: Toward Cross-scale Boundary Modeling in Transformers, [[Paper]](https://arxiv.org/pdf/2206.00806.pdf), [[Code]](https://github.com/jcwang123/xboundformer)
@@ -1675,6 +1676,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything, [[Paper]](https://arxiv.org/pdf/2312.00863.pdf)
 - (arXiv 2023.12) Segment Any 3D Gaussians, [[Paper]](https://arxiv.org/pdf/2312.00860.pdf), [[Code]](https://github.com/Jumpat/SegAnyGAussians)
 - (arXiv 2023.12) Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts, [[Paper]](https://arxiv.org/pdf/2312.00968.pdf)
+- (arXiv 2023.12) PixelLM: Pixel Reasoning with Large Multimodal Model, [[Paper]](https://arxiv.org/pdf/2312.02228.pdf), [[Code]](https://github.com/MaverickRen/PixelLM)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2885,6 +2887,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings, [[Paper]](https://arxiv.org/pdf/2309.10765.pdf), [[Code]](https://github.com/surbhimadan92/MAGIC-TBR)
 - (arXiv 2023.10) ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer, [[Paper]](https://arxiv.org/pdf/2310.04099.pdf), [[Code]](https://github.com/surbhimadan92/MAGIC-TBR)
 - (arXiv 2023.10) FaultSeg Swin-UNETR: Transformer-Based Self-Supervised Pretraining Model for Fault Recognition, [[Paper]](https://arxiv.org/pdf/2310.17974.pdf)
+- (arXiv 2023.12) Are Vision Transformers More Data Hungry Than Newborn Visual Systems, [[Paper]](https://arxiv.org/pdf/2312.02843.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
