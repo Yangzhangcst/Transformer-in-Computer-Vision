@@ -202,6 +202,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) GeoDeformer: Geometric Deformable Transformer for Action Recognition, [[Paper]](https://arxiv.org/pdf/2311.17975.pdf)
 - (arXiv 2023.12) REACT: Recognize Every Action Everywhere All At Once, [[Paper]](https://arxiv.org/pdf/2312.00188.pdf)
 - (arXiv 2023.12) Adapting Short-Term Transformers for Action Detection in Untrimmed Videos, [[Paper]](https://arxiv.org/pdf/2312.00188.pdf)
+- (arXiv 2023.12) STEP CATFormer: Spatial-Temporal Effective Body-Part Cross Attention Transformer for Skeleton-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2312.03288.pdf),[[Code]](https://github.com/maclong01/STEP-CATFormer)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -1603,7 +1604,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) TCOVIS: Temporally Consistent Online Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2309.11857.pdf), [[Code]](https://github.com/jun-long-li/TCOVIS)
 - (arXiv 2023.09) 3D Indoor Instance Segmentation in an Open-World, [[Paper]](https://arxiv.org/pdf/2309.14338.pdf), [[Code]](https://github.com/aminebdj/3D-OWIS)
 - (arXiv 2023.10) MSFormer: A Skeleton-multiview Fusion Method For Tooth Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2310.14489.pdf)
-  
+- (arXiv 2023.12) PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation, [[Paper]](https://arxiv.org/pdf/2312.03015.pdf),[[Code]](https://github.com/zyc00/PartSLIP2)
+
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
 - (arXiv 2022.05) Knowledge Distillation via the Target-aware Transformer, [[Paper]](https://arxiv.org/pdf/2205.10793.pdf)
@@ -1677,6 +1679,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) Segment Any 3D Gaussians, [[Paper]](https://arxiv.org/pdf/2312.00860.pdf), [[Code]](https://github.com/Jumpat/SegAnyGAussians)
 - (arXiv 2023.12) Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts, [[Paper]](https://arxiv.org/pdf/2312.00968.pdf)
 - (arXiv 2023.12) PixelLM: Pixel Reasoning with Large Multimodal Model, [[Paper]](https://arxiv.org/pdf/2312.02228.pdf), [[Code]](https://github.com/MaverickRen/PixelLM)
+- (arXiv 2023.12) Foundation Model Assisted Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2312.03585.pdf)
+- (arXiv 2023.12) AI-SAM: Automatic and Interactive Segment Anything Model, [[Paper]](https://arxiv.org/pdf/2312.03119.pdf), [[Code]](https://github.com/ymp5078/AI-SAM)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2169,6 +2173,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) Event Recognition in Laparoscopic Gynecology Videos with Hybrid Transformers, [[Paper]](https://arxiv.org/pdf/2312.00593.pdf)
 - (arXiv 2023.12) MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation, [[Paper]](https://arxiv.org/pdf/2312.01740.pdf), [[Code]](https://github.com/FengheTan9/MobileUtr)
 - (arXiv 2023.12) Automatic Report Generation for Histopathology images using pre-trained Vision Transformers and BERT, [[Paper]](https://arxiv.org/pdf/2312.01435.pdf), [[Code]](https://github.com/FengheTan9/MobileUtr)
+- (arXiv 2023.12) Predicting Bone Degradation Using Vision Transformer and Synthetic Cellular Microstructures Dataset, [[Paper]](https://arxiv.org/pdf/2312.03133.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2543,6 +2548,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) DocStormer: Revitalizing Multi-Degraded Colored Document Images to Pristine PDF, [[Paper]](https://arxiv.org/pdf/2310.17910.pdf)
 - (arXiv 2023.11) High-Performance Transformers for Table Structure Recognition Need Early Convolutions, [[Paper]](https://arxiv.org/pdf/2311.05565.pdf), [[Code]](https://github.com/poloclub/tsr-convstem)
 - (arXiv 2023.11) Vulnerability Analysis of Transformer-based Optical Character Recognition to Adversarial Attacks, [[Paper]](https://arxiv.org/pdf/2311.17128.pdf)
+- (arXiv 2023.12) DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization, [[Paper]](https://arxiv.org/pdf/2312.03568.pdf),[[Code]](https://github.com/RisabBiswas/DocBinFormer)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -2568,6 +2574,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Enhancing Novel Object Detection via Cooperative Foundational Models, [[Paper]](https://arxiv.org/pdf/2311.12068.pdf), [[Code]](https://github.com/rohit901/cooperative-foundational-models)
 - (arXiv 2023.11) Language-conditioned Detection Transformer, [[Paper]](https://arxiv.org/pdf/2311.17902.pdf), [[Code]](https://github.com/janghyuncho/DECOLA)
 - (arXiv 2023.12) Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2312.02103.pdf)
+- (arXiv 2023.12) Boosting Segment Anything Model Towards Open-Vocabulary Learning, [[Paper]](https://arxiv.org/pdf/2312.03628.pdf), [[Code]](https://github.com/ucas-vg/Sambor)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
