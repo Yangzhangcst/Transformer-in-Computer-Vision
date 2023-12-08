@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/12/07
+**Last updated: 2023/12/08
 
 ## Survey: 
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
@@ -3426,6 +3426,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning, [[Paper]](https://arxiv.org/pdf/2311.00990.pdf),[[Code]](https://videodreamer23.github.io/)
 - (arXiv 2023.11) MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture, [[Paper]](https://arxiv.org/pdf/2311.10123.pdf),[[Code]](https://metadreamer3d.github.io/)
 - (arXiv 2023.12) X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation, [[Paper]](https://arxiv.org/pdf/2312.00085.pdf),[[Project]](https://xmuxiaoma666.github.io/Projects/X-Dreamer)
+- (arXiv 2023.12) GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation, [[Paper]](https://arxiv.org/pdf/2312.04557.pdf),[[Code]](https://www.shoufachen.com/gentron_website/)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
