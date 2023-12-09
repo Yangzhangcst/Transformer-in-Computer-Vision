@@ -249,6 +249,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Patch-wise Auto-Encoder for Visual Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2308.00429.pdf)
 - (arXiv 2023.09) Mask2Anomaly: Mask Transformer for Universal Open-set Segmentation, [[Paper]](https://arxiv.org/pdf/2309.04579.pdf)
 - (arXiv 2023.10) Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2310.14228.pdf), [[Code]](https://github.com/RuiyingLu/HVQ-Trans)
+- (arXiv 2023.12) Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning, [[Paper]](https://arxiv.org/pdf/2312.04398.pdf)
 
 ### Assessment
 - (arXiv 2021.01) Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
@@ -1470,6 +1471,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Deep Prompt Tuning for Graph Transformers, [[Paper]](https://arxiv.org/pdf/2309.10131.pdf)
 - (arXiv 2023.11) GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation, [[Paper]](https://arxiv.org/pdf/2311.03035.pdf), [[Code]](https://github.com/Ackesnal/GTP-ViT)
 - (arXiv 2023.11) GMTR: Graph Matching Transformers, [[Paper]](https://arxiv.org/pdf/2311.08141.pdf)
+- (arXiv 2023.12) GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2312.04479.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -2226,6 +2228,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding, [[Paper]](https://arxiv.org/pdf/2310.12970.pdf), [[Code]](https://github.com/zhejz/HPTR)
 - (arXiv 2023.11) Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement, [[Paper]](https://arxiv.org/pdf/2311.16495.pdf)
 - (arXiv 2023.12) MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR, [[Paper]](https://arxiv.org/pdf/2312.02409.pdf), [[Code]](https://waymo.com/open/challenges/2023/motion-prediction/)
+- (arXiv 2023.12) EulerMormer: Robust Eulerian Motion Magnification via Dynamic Filtering within Transformer, [[Paper]](https://arxiv.org/pdf/2312.04152.pdf), [[Code]](https://github.com/VUT-HFUT/EulerMormer)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
