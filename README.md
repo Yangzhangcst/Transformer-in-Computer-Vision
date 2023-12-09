@@ -1263,6 +1263,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy, [[Paper]](https://arxiv.org/pdf/2309.03445.pdf), [[Code]](https://github.com/piggy2009/DM_underwater)
 - (arXiv 2023.09) DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision, [[Paper]](https://arxiv.org/pdf/2309.06941.pdf)
 - (arXiv 2023.10) UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2310.20210.pdf)
+- (arXiv 2023.12) A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement, [[Paper]](https://arxiv.org/pdf/2312.03946.pdf), [[Code]](https://github.com/RisabBiswas/T2T-BinFormer)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
