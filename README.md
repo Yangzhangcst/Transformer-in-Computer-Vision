@@ -227,6 +227,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Blacksmith: Fast Adversarial Training of Vision Transformers via a Mixture of Single-step and Multi-step Methods, [[Paper]](https://arxiv.org/pdf/2310.18975.pdf)
 - (arXiv 2023.11) DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training, [[Paper]](https://arxiv.org/pdf/2311.06855.pdf)
 - (arXiv 2023.11) Attention Deficit is Ordered! Fooling Deformable Vision Transformers with Collaborative Adversarial Patches, [[Paper]](https://arxiv.org/pdf/2311.12914.pdf)
+- (arXiv 2023.12) MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness, [[Paper]](https://arxiv.org/pdf/2312.04960.pdf), [[Code]](https://github.com/xiaoyunxxy/MIMIR)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -360,6 +361,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Transformer-based Multimodal Change Detection with Multitask Consistency Constraints, [[Paper]](https://arxiv.org/pdf/2310.09276.pdf)
 - (arXiv 2023.10) TransY-Net:Learning Fully Transformer Networks for Change Detection of Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2310.14214.pdf), [[Code]](https://github.com/Drchip61/TransYNet)
 - (arXiv 2023.11) MS-Former: Memory-Supported Transformer for Weakly Supervised Change Detection with Patch-Level Annotations, [[Paper]](https://arxiv.org/pdf/2311.09726.pdf), [[Code]](https://github.com/guanyuezhen/MS-Former)
+- (arXiv 2023.12) Adapting Vision Transformer for Efficient Change Detection, [[Paper]](https://arxiv.org/pdf/2312.04869.pdf)
 
 ### Classification (Backbone)
 - (ICLR'21) MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION, [[Paper]](https://openreview.net/pdf?id=xTJEN-ggl1b), [[Code]](https://github.com/lucidrains/lambda-networks)
@@ -1480,6 +1482,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Nonrigid Object Contact Estimation With Regional Unwrapping Transformer, [[Paper]](https://arxiv.org/pdf/2308.14074.pdf)
 - (arXiv 2023.10) BodyFormer: Semantics-guided 3D Body Gesture Synthesis with Transformer, [[Paper]](https://arxiv.org/pdf/2310.06851.pdf)
 - (arXiv 2023.11) Improving Hand Recognition in Uncontrolled and Uncooperative Environments using Multiple Spatial Transformers and Loss Functions, [[Paper]](https://arxiv.org/pdf/2311.05383.pdf)
+- (arXiv 2023.12) Reconstructing Hands in 3D with Transformers, [[Paper]](https://arxiv.org/pdf/2312.05251.pdf), [[Code]](https://geopavlakos.github.io/hamer/)
 
 ### High Dynamic Range Imaging
 - (arXiv 2022.08) Ghost-free High Dynamic Range Imaging with Context-aware Transformer, [[Paper]](https://arxiv.org/pdf/2208.05114.pdf), [[Code]](https://github.com/megvii-research/HDR-Transformer)
