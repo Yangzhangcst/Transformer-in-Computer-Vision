@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/12/11
+**Last updated: 2023/12/13
 
 ## Survey: 
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
@@ -251,6 +251,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Mask2Anomaly: Mask Transformer for Universal Open-set Segmentation, [[Paper]](https://arxiv.org/pdf/2309.04579.pdf)
 - (arXiv 2023.10) Hierarchical Vector Quantized Transformer for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2310.14228.pdf), [[Code]](https://github.com/RuiyingLu/HVQ-Trans)
 - (arXiv 2023.12) Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning, [[Paper]](https://arxiv.org/pdf/2312.04398.pdf)
+- (arXiv 2023.12) Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2312.07495.pdf), [[Code]](https://zhangzjn.github.io/projects/ViTAD)
 
 ### Assessment
 - (arXiv 2021.01) Transformer for Image Quality Assessment, [[Paper]](https://arxiv.org/abs/2101.01097), [[Code]](https://github.com/junyongyou/triq)
@@ -2732,6 +2733,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) DeepEMD: A Transformer-based Fast Estimation of the Earth Mover’s Distance, [[Paper]](https://arxiv.org/pdf/2310.09998.pdf), [[Code]](https://github.com/atulkumarin/DeepEMD)
 - (arXiv 2023.11) OneFormer3D: One Transformer for Unified Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2311.14405.pdf)
 - (arXiv 2023.11) CalibFormer: A Transformer-based Automatic LiDAR-Camera Calibration Network, [[Paper]](https://arxiv.org/pdf/2311.15241.pdf)
+- (arXiv 2023.12) Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation, [[Paper]](https://arxiv.org/pdf/2312.07231.pdf), [[Code]](https://github.com/atulkumarin/DeepEMD)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
