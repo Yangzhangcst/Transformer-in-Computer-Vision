@@ -1014,6 +1014,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Large-Vocabulary 3D Diffusion Model with Transformer, [[Paper]](https://arxiv.org/pdf/2309.07920.pdf), [[Project]](https://ziangcao0312.github.io/difftf_pages/)
 - (arXiv 2023.09) Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models, [[Paper]](https://arxiv.org/pdf/2309.08251.pdf), [[Project]](https://cartoondiff.github.io/)
 - (arXiv 2023.12) DiffiT: Diffusion Vision Transformers for Image Generation, [[Paper]](https://arxiv.org/pdf/2312.02139.pdf)
+- (arXiv 2023.12) DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2312.06400.pdf)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -1353,6 +1354,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) Forgery-aware Adaptive Vision Transformer for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2309.11092.pdf)
 - (arXiv 2023.10) 1DFormer: Learning 1D Landmark Representations via Transformer for Facial Landmark Tracking, [[Paper]](https://arxiv.org/pdf/2311.00241.pdf)
 - (arXiv 2023.11) Fast and Interpretable Face Identification for Out-Of-Distribution Data Using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2311.02803.pdf),[[Code]](https://github.com/anguyen8/face-vit)
+- (arXiv 2023.12) Hypergraph-Guided Disentangled Spectrum Transformer Networks for Near-Infrared Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2312.05907.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -2184,6 +2186,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) Automatic Report Generation for Histopathology images using pre-trained Vision Transformers and BERT, [[Paper]](https://arxiv.org/pdf/2312.01435.pdf), [[Code]](https://github.com/FengheTan9/MobileUtr)
 - (arXiv 2023.12) Predicting Bone Degradation Using Vision Transformer and Synthetic Cellular Microstructures Dataset, [[Paper]](https://arxiv.org/pdf/2312.03133.pdf)
 - (arXiv 2023.12) Adjustable Robust Transformer for High Myopia Screening in Optical Coherence Tomography, [[Paper]](https://arxiv.org/pdf/2312.07052.pdf),[[Code]](https://github.com/maxiao0234/ARTran)
+- (arXiv 2023.12) Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2312.06454.pdf),[[Code]](https://github.com/boyden/PointTransformerFL)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3325,6 +3328,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Non-Hierarchical Transformers for Pedestrian Segmentation, [[Paper]](https://arxiv.org/pdf/2311.02506.pdf)
 - (arXiv 2023.11) SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints, [[Paper]](https://arxiv.org/pdf/2311.11371.pdf)
 - (arXiv 2023.11) GIFT: Generative Interpretable Fine-Tuning Transformers, [[Paper]](https://arxiv.org/pdf/2312.00700.pdf), [[Code]](https://savadikarc.github.io/gift)
+- (arXiv 2023.12) U-MixFormer: UNet-like Transformer with Mix-Attention for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2312.06272.pdf), [[Code]](https://github.com/julian-klitzing/u-mixformer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
