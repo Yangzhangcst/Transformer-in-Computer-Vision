@@ -1267,6 +1267,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) DEFormer: DCT-driven Enhancement Transformer for Low-light Image and Dark Vision, [[Paper]](https://arxiv.org/pdf/2309.06941.pdf)
 - (arXiv 2023.10) UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2310.20210.pdf)
 - (arXiv 2023.12) A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement, [[Paper]](https://arxiv.org/pdf/2312.03946.pdf), [[Code]](https://github.com/RisabBiswas/T2T-BinFormer)
+- (arXiv 2023.12) Transformer-based No-Reference Image Quality Assessment via Supervised Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2312.06995.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/SaTQA)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -1634,6 +1635,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Distilling Efficient Vision Transformers from CNNs for ation, [[Paper]](https://arxiv.org/pdf/2310.07265.pdf), [[Code]](https://vlislab22.github.io/C2VKD/)
 - (arXiv 2023.10) One-for-All: Bridge the Gap Between Heterogeneous Architectures in Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2310.19444.pdf), [[Code]](https://github.com/Hao840/OFAKD)
 - (arXiv 2023.11) Learning Contrastive Self-Distillation for Ultra-Fine-Grained Visual Categorization Targeting Limited Samples, [[Paper]](https://arxiv.org/pdf/2311.06056.pdf)
+- (arXiv 2023.12) GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction, [[Paper]](https://arxiv.org/pdf/2312.07255.pdf)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -2181,6 +2183,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation, [[Paper]](https://arxiv.org/pdf/2312.01740.pdf), [[Code]](https://github.com/FengheTan9/MobileUtr)
 - (arXiv 2023.12) Automatic Report Generation for Histopathology images using pre-trained Vision Transformers and BERT, [[Paper]](https://arxiv.org/pdf/2312.01435.pdf), [[Code]](https://github.com/FengheTan9/MobileUtr)
 - (arXiv 2023.12) Predicting Bone Degradation Using Vision Transformer and Synthetic Cellular Microstructures Dataset, [[Paper]](https://arxiv.org/pdf/2312.03133.pdf)
+- (arXiv 2023.12) Adjustable Robust Transformer for High Myopia Screening in Optical Coherence Tomography, [[Paper]](https://arxiv.org/pdf/2312.07052.pdf),[[Code]](https://github.com/maxiao0234/ARTran)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2733,8 +2736,9 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) DeepEMD: A Transformer-based Fast Estimation of the Earth Mover’s Distance, [[Paper]](https://arxiv.org/pdf/2310.09998.pdf), [[Code]](https://github.com/atulkumarin/DeepEMD)
 - (arXiv 2023.11) OneFormer3D: One Transformer for Unified Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2311.14405.pdf)
 - (arXiv 2023.11) CalibFormer: A Transformer-based Automatic LiDAR-Camera Calibration Network, [[Paper]](https://arxiv.org/pdf/2311.15241.pdf)
-- (arXiv 2023.12) Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation, [[Paper]](https://arxiv.org/pdf/2312.07231.pdf), [[Code]](https://github.com/atulkumarin/DeepEMD)
-
+- (arXiv 2023.12) Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation, [[Paper]](https://arxiv.org/pdf/2312.07231.pdf), [[Code]](https://dit-3d.github.io/FastDiT-3D/)
+- (arXiv 2023.12) TULIP: Transformer for Upsampling of LiDAR Point Cloud, [[Paper]](https://arxiv.org/pdf/2312.07231.pdf)
+  
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
 - (arXiv 2020.12) TransPose: Towards Explainable Human Pose Estimation by Transformer, [[Paper]](https://arxiv.org/pdf/2012.14214)
