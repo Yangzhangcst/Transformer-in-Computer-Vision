@@ -2444,6 +2444,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Language Grounded QFormer for Efficient Vision Language Understanding, [[Paper]](https://arxiv.org/pdf/2311.07449.pdf)
 - (arXiv 2023.11) DEED: Dynamic Early Exit on Decoder for Accelerating Encoder-Decoder Transformer Models,  [[Paper]](https://arxiv.org/pdf/2311.08623.pdf)
 - (arXiv 2023.11) VIT-LENS-2: Gateway to Omni-modal Intelligence,  [[Paper]](https://arxiv.org/pdf/2311.16081.pdf), [[Code]](https://github.com/TencentARC/ViT-Lens）
+- (arXiv 2023.11) You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Human-Centric Perception,  [[Paper]](https://arxiv.org/pdf/2312.05525.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2592,6 +2593,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Language-conditioned Detection Transformer, [[Paper]](https://arxiv.org/pdf/2311.17902.pdf), [[Code]](https://github.com/janghyuncho/DECOLA)
 - (arXiv 2023.12) Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2312.02103.pdf)
 - (arXiv 2023.12) Boosting Segment Anything Model Towards Open-Vocabulary Learning, [[Paper]](https://arxiv.org/pdf/2312.03628.pdf), [[Code]](https://github.com/ucas-vg/Sambor)
+- (arXiv 2023.12) Open World Object Detection in the Era of Foundation Models, [[Paper]](https://arxiv.org/pdf/2312.05745.pdf), [[Code]](https://orrzohar.github.io/projects/fomo/)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
