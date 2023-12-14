@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/12/13
+**Last updated: 2023/12/14
 
 ## Survey: 
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
@@ -270,7 +270,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.03) MRET: Multi-resolution Transformer for Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2303.07489.pdf)
 - (arXiv 2023.05) Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token, [[Paper]](https://arxiv.org/pdf/2305.09353.pdf), [[Code]](https://github.com/Srache/TempQT)
 - (arXiv 2023.08) Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2308.12001.pdf)
-  
+- (arXiv 2023.12) Activating Frequency and ViT for 3D Point Cloud Quality Assessment without Reference, [[Paper]](https://arxiv.org/pdf/2312.05972.pdf), [[Code]](https://github.com/o-messai/3D-PCQA)
+
 ### Augmentation 
 - (arXiv 2022.10) TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers, [[Paper]](https://arxiv.org/pdf/2210.07562.pdf), [[Code]](https://github.com/mlvlab/TokenMixup)
 - (arXiv 2022.12) SMMix: Self-Motivated Image Mixing for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2212.12977.pdf), [[Code]](https://github.com/ChenMnZ/SMMix)
@@ -1615,6 +1616,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.09) 3D Indoor Instance Segmentation in an Open-World, [[Paper]](https://arxiv.org/pdf/2309.14338.pdf), [[Code]](https://github.com/aminebdj/3D-OWIS)
 - (arXiv 2023.10) MSFormer: A Skeleton-multiview Fusion Method For Tooth Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2310.14489.pdf)
 - (arXiv 2023.12) PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation, [[Paper]](https://arxiv.org/pdf/2312.03015.pdf),[[Code]](https://github.com/zyc00/PartSLIP2)
+- (arXiv 2023.12) EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2312.05602.pdf)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -2187,6 +2189,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) Predicting Bone Degradation Using Vision Transformer and Synthetic Cellular Microstructures Dataset, [[Paper]](https://arxiv.org/pdf/2312.03133.pdf)
 - (arXiv 2023.12) Adjustable Robust Transformer for High Myopia Screening in Optical Coherence Tomography, [[Paper]](https://arxiv.org/pdf/2312.07052.pdf),[[Code]](https://github.com/maxiao0234/ARTran)
 - (arXiv 2023.12) Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2312.06454.pdf),[[Code]](https://github.com/boyden/PointTransformerFL)
+- (arXiv 2023.12) SP-DiffDose: A Conditional Diffusion Model for Radiation Dose Prediction Based on Multi-Scale Fusion of Anatomical Structures, Guided by SwinTransformer and Projector, [[Paper]](https://arxiv.org/pdf/2312.06187.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3413,6 +3416,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) S2R: Exploring a Double-Win Transformer-Based Framework for Ideal and Blind Super-Resolution, [[Paper]](https://arxiv.org/pdf/2308.08142.pdf), [[Code]](https://github.com/berumotto-vermouth/S2R.12)
 - (arXiv 2023.10) Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2310.04180.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/DSAT/tree/main)
 - (arXiv 2023.12) SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2312.01999.pdf)
+- (arXiv 2023.12) Transformer-based Selective Super-Resolution for Efficient Image Refinement, [[Paper]](https://arxiv.org/pdf/2312.05803.pdf), [[Code]](https://github.com/destiny301/SSR)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
