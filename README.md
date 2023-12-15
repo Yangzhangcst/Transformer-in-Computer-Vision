@@ -2190,6 +2190,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) Adjustable Robust Transformer for High Myopia Screening in Optical Coherence Tomography, [[Paper]](https://arxiv.org/pdf/2312.07052.pdf),[[Code]](https://github.com/maxiao0234/ARTran)
 - (arXiv 2023.12) Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2312.06454.pdf),[[Code]](https://github.com/boyden/PointTransformerFL)
 - (arXiv 2023.12) SP-DiffDose: A Conditional Diffusion Model for Radiation Dose Prediction Based on Multi-Scale Fusion of Anatomical Structures, Guided by SwinTransformer and Projector, [[Paper]](https://arxiv.org/pdf/2312.06187.pdf)
+- (arXiv 2023.12) Pre-trained Universal Medical Image Transformer, [[Paper]](https://arxiv.org/pdf/2312.07630.pdf),[[Code]](https://github.com/function2-llx/PUMIT)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2746,7 +2747,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) CalibFormer: A Transformer-based Automatic LiDAR-Camera Calibration Network, [[Paper]](https://arxiv.org/pdf/2311.15241.pdf)
 - (arXiv 2023.12) Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation, [[Paper]](https://arxiv.org/pdf/2312.07231.pdf), [[Code]](https://dit-3d.github.io/FastDiT-3D/)
 - (arXiv 2023.12) TULIP: Transformer for Upsampling of LiDAR Point Cloud, [[Paper]](https://arxiv.org/pdf/2312.07231.pdf)
-  
+- (arXiv 2023.12) PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2312.08371.pdf), [[Code]](https://github.com/kuanchihhuang/PTT)
+
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
 - (arXiv 2020.12) TransPose: Towards Explainable Human Pose Estimation by Transformer, [[Paper]](https://arxiv.org/pdf/2012.14214)
@@ -3808,6 +3810,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Language-Guided Diffusion Model for Visual Grounding, [[Paper]](https://arxiv.org/pdf/2308.09599.pdf), [[Code]](https://github.com/iQua/vgbase/tree/DiffusionVG)
 - (arXiv 2023.12) BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos, [[Paper]](https://arxiv.org/pdf/2312.00083.pdf), [[Code]](https://github.com/Pilhyeon/BAM-DETR)
 - (arXiv 2023.12) Grounding Everything: Emerging Localization Properties in Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2312.00878.pdf), [[Code]](https://github.com/WalBouss/GEM)
+- (arXiv 2023.12) Mono3DVG: 3D Visual Grounding in Monocular Images, [[Paper]](https://arxiv.org/pdf/2312.08022.pdf)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
