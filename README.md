@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/12/15
+**Last updated: 2023/12/18
 
 ## Survey: 
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
@@ -871,6 +871,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) MABViT -- Modified Attention Block Enhances Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.01324.pdf)
 - (arXiv 2023.12) Class-Discriminative Attention Maps for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.02364.pdf), [[Code]](https://github.com/lenbrocki/CDAM)
 - (arXiv 2023.12) Factorization Vision Transformer: Modeling Long Range Dependency with Local Window Cost, [[Paper]](https://arxiv.org/pdf/2312.08614.pdf), [[Code]](https://github.com/q2479036243/FaViT)
+- (arXiv 2023.12) Weight Subcloning: Direct Initialization of Transformers Using Larger Pretrained Ones, [[Paper]](https://arxiv.org/pdf/2312.09299.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1027,6 +1028,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.04) A Data-Centric Solution to NonHomogeneous Dehazing via Vision Transformer, [[Paper]](https://arxiv.org/pdf/2304.07874.pdf), [[Code]](https://github.com/yangyiliu21/ntire2023_ITBdehaze)
 - (arXiv 2023.05) NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer, [[Paper]](https://arxiv.org/pdf/2305.09533.pdf)
 - (arXiv 2023.08) MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2308.14036.pdf), [[Code]](https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer)
+- (arXiv 2023.12) DHFormer: A Vision Transformer-Based Attention Module for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2312.09955.pdf)
 
 ### Deraining
 - (arXiv 2022.04) DRT: A Lightweight Single Image Deraining Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.11385.pdf)
@@ -1696,6 +1698,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) PixelLM: Pixel Reasoning with Large Multimodal Model, [[Paper]](https://arxiv.org/pdf/2312.02228.pdf), [[Code]](https://github.com/MaverickRen/PixelLM)
 - (arXiv 2023.12) Foundation Model Assisted Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2312.03585.pdf)
 - (arXiv 2023.12) AI-SAM: Automatic and Interactive Segment Anything Model, [[Paper]](https://arxiv.org/pdf/2312.03119.pdf), [[Code]](https://github.com/ymp5078/AI-SAM)
+- (arXiv 2023.12) MobileSAMv2: Faster Segment Anything to Everything, [[Paper]](https://arxiv.org/abs/2312.09579),[[Code]](https://github.com/ChaoningZhang/MobileSAM)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2755,6 +2758,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation, [[Paper]](https://arxiv.org/pdf/2312.07231.pdf), [[Code]](https://dit-3d.github.io/FastDiT-3D/)
 - (arXiv 2023.12) TULIP: Transformer for Upsampling of LiDAR Point Cloud, [[Paper]](https://arxiv.org/pdf/2312.07231.pdf)
 - (arXiv 2023.12) PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2312.08371.pdf), [[Code]](https://github.com/kuanchihhuang/PTT)
+- (arXiv 2023.12) Point Transformer V3: Simpler, Faster, Stronger, [[Paper]](https://arxiv.org/pdf/2312.10035.pdf), [[Code]](https://github.com/Pointcept/PointTransformerV3)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3880,6 +3884,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2022.09) PicT: A Slim Weakly Supervised Vision Transformer for Pavement Distress Classification, [[Paper]](https://arxiv.org/abs/2209.10074), [[Code]](https://github.com/DearCaat/PicT)
 - (arXiv 2023.09) Semantic-Constraint Matching Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2309.01331)
 - (arXiv 2023.10) DiPS: Discriminative Pseudo-Label Sampling with Self-Supervised Transformers for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2310.06196), [[Code]](https://github.com/shakeebmurtaza/dips)
+- (arXiv 2023.12) Multiscale Vision Transformer With Deep Clustering-Guided Refinement for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2312.09584)
 
 ### Zero-Shot Learning
 - (arXiv 2021.08) Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2108.00205.pdf)
