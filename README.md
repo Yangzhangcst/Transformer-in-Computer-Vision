@@ -919,6 +919,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Frequency-Aware Transformer for Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2310.16387.pdf)
 - (arXiv 2023.11) White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is, [[Paper]](https://arxiv.org/pdf/2311.13110.pdf), [[Code]](https://ma-lab-berkeley.github.io/CRATE)
 - (arXiv 2023.11) Corner-to-Center Long-range Context Model for Efficient Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2311.18103.pdf)
+- (arXiv 2023.12) Input Compression with Positional Consistency for Efficient Training and Inference of Transformer Neural Networks, [[Paper]](https://arxiv.org/pdf/2312.12385.pdf), [[Code]](https://github.com/amrnag/ICPC)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -4146,6 +4147,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Typhoon Intensity Prediction with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.16450.pdf), [[Code]](https://github.com/chen-huanxin/Tint)
 - (arXiv 2023.11) Dual-Stream Attention Transformers for Sewer Defect Classification, [[Paper]](https://arxiv.org/pdf/2311.16145.pdf)
 - (arXiv 2023.11) Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce, [[Paper]](https://arxiv.org/pdf/2311.17954.pdf)
+- (arXiv 2023.11) Integrating Human Vision Perception in Vision Transformers for Classifying Waste Items, [[Paper]](https://arxiv.org/pdf/2312.12143.pdf)
 
 ## Contact & Feedback
 
