@@ -310,6 +310,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) BEVNeXt: Reviving Dense BEV Frameworks for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2312.01696.pdf)
 - (arXiv 2023.12) COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction, [[Paper]](https://arxiv.org/pdf/2312.01919.pdf)
 - (arXiv 2023.12) Learned Fusion: 3D Object Detection using Calibration-Free Transformer Feature Fusion, [[Paper]](https://arxiv.org/pdf/2312.09082.pdf)
+- (arXiv 2023.12) Diffusion-Based Particle-DETR for BEV Perception, [[Paper]](https://arxiv.org/pdf/2312.11578.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -2201,6 +2202,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) Pre-trained Universal Medical Image Transformer, [[Paper]](https://arxiv.org/pdf/2312.07630.pdf),[[Code]](https://github.com/function2-llx/PUMIT)
 - (arXiv 2023.12) Vision Transformer-Based Deep Learning for Histologic Classification of Endometrial Cancer, [[Paper]](https://arxiv.org/pdf/2312.08479.pdf)
 - (arXiv 2023.12) Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, [[Paper]](https://arxiv.org/pdf/2312.09022.pdf)
+- (arXiv 2023.12) Glioblastoma Tumor Segmentation using an Ensemble of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.11467.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3560,6 +3562,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Contrastive Learning for Multi-Object Tracking with Transformers, [[Paper]](https://arxiv.org/pdf/2311.08043.pdf)
 - (arXiv 2023.11) Single-Model and Any-Modality for Video Object Tracking, [[Paper]](https://arxiv.org/pdf/2311.15851.pdf), [[Code]](https://github.com/Zongwei97/UnTrack)
 - (arXiv 2023.12) Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking, [[Paper]](https://arxiv.org/pdf/2312.11051.pdf), [[Code]](https://github.com/liangp/MCSTN-3DSOT)
+- (arXiv 2023.12) Transformer Network for Multi-Person Tracking and Re-Identification in Unconstrained Environment, [[Paper]](https://arxiv.org/pdf/2312.11929.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
