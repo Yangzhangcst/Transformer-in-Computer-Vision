@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/12/18
+**Last updated: 2023/12/20
 
 ## Survey: 
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
@@ -992,6 +992,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) GSDC Transformer: An Efficient and Effective Cue Fusion for Monocular Multi-Frame Depth Estimation, [[Paper]](https://arxiv.org/pdf/2309.17059.pdf)
 - (arXiv 2023.10) FocDepthFormer: Transformer with LSTM for Depth Estimation from Focus, [[Paper]](https://arxiv.org/pdf/2309.17059.pdf)
 - (arXiv 2023.10) Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots, [[Paper]](https://arxiv.org/pdf/2310.16750.pdf), [[Code]](https://github.com/ebnerluca/uw_depth)
+- (arXiv 2023.12) Transformers in Unsupervised Structure-from-Motion, [[Paper]](https://arxiv.org/pdf/2312.10529.pdf), [[Code]](https://github.com/NeurAI-Lab/MT-SfMLearner)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -1716,6 +1717,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Multi-scale Alternated Attention Transformer for Generalized Stereo Matching, [[Paper]](https://arxiv.org/pdf/2308.03048.pdf)
 - (arXiv 2023.10) FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer, [[Paper]](https://arxiv.org/pdf/2310.13605.pdf)
 - (arXiv 2023.11) LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching, [[Paper]](https://arxiv.org/pdf/2311.17571.pdf), [[Code]](https://github.com/zwh0527/LGFCTR)
+- (arXiv 2023.12) Latent Space Editing in Transformer-Based Flow Matching, [[Paper]](https://arxiv.org/pdf/2312.10825.pdf), [[Code]](https://taohu.me/lfm/)
 
 ### Matting
 - (arXiv 2022.03) MatteFormer: Transformer-Based Image Matting via Prior-Tokens, [[Paper]](https://arxiv.org/pdf/2203.15662.pdf), [[Code]](https://github.com/webtoon/matteformer)
@@ -2759,6 +2761,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) TULIP: Transformer for Upsampling of LiDAR Point Cloud, [[Paper]](https://arxiv.org/pdf/2312.07231.pdf)
 - (arXiv 2023.12) PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2312.08371.pdf), [[Code]](https://github.com/kuanchihhuang/PTT)
 - (arXiv 2023.12) Point Transformer V3: Simpler, Faster, Stronger, [[Paper]](https://arxiv.org/pdf/2312.10035.pdf), [[Code]](https://github.com/Pointcept/PointTransformerV3)
+- (arXiv 2023.12) ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2312.11112.pdf), [[Code]](https://github.com/LHDuan/ConDaFormer)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3555,6 +3558,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) LabelFormer: Object Trajectory Refinement for Offboard Perception from LiDAR Point Clouds, [[Paper]](https://arxiv.org/pdf/2311.01444.pdf)
 - (arXiv 2023.11) Contrastive Learning for Multi-Object Tracking with Transformers, [[Paper]](https://arxiv.org/pdf/2311.08043.pdf)
 - (arXiv 2023.11) Single-Model and Any-Modality for Video Object Tracking, [[Paper]](https://arxiv.org/pdf/2311.15851.pdf), [[Code]](https://github.com/Zongwei97/UnTrack)
+- (arXiv 2023.12) Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking, [[Paper]](https://arxiv.org/pdf/2312.11051.pdf), [[Code]](https://github.com/liangp/MCSTN-3DSOT)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -3800,6 +3804,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) E-ViLM: Efficient Video-Language Model via Masked Video Modeling with Semantic Vector-Quantized Tokenizer, [[Paper]](https://arxiv.org/pdf/2311.17267.pdf)
 - (arXiv 2023.11) Just Add π! Pose Induced Video Transformers for Understanding Activities of Daily Living, [[Paper]](https://arxiv.org/pdf/2311.18840.pdf), [[Code]](https://github.com/dominickrei/pi-vit)
 - (arXiv 2023.12) DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding, [[Paper]](https://arxiv.org/pdf/2312.02549.pdf)
+- (arXiv 2023.12) Unleashing the Power of CNN and Transformer for Balanced RGB-Event Video Recognition, [[Paper]](https://arxiv.org/pdf/2312.11128.pdf), [[Code]](https://github.com/Event-AHU/TSCFormer)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
