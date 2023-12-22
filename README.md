@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/12/20
+**Last updated: 2023/12/22
 
 ## Survey: 
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
@@ -1547,6 +1547,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.10) Multiview Transformer: Rethinking Spatial Information in Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2310.07186.pdf)
 - (arXiv 2023.10) MLP-AMDC: An MLP Architecture for Adaptive-Mask-based Dual-Camera snapshot hyperspectral imaging, [[Paper]](https://arxiv.org/pdf/2310.08002.pdf), [[Code]](https://github.com/caizeyu1992/MLP-AMDC)
 - (arXiv 2023.11) Learning transformer-based heterogeneously salient graph representation for multimodal fusion classification of hyperspectral image and LiDAR data, [[Paper]](https://arxiv.org/pdf/2311.10320.pdf)
+- (arXiv 2023.12) Pixel-to-Abundance Translation: Conditional Generative Adversarial Networks Based on Patch Transformer for Hyperspectral Unmixing, [[Paper]](https://arxiv.org/pdf/2312.13127.pdf)
 
 ### Illumination
 - (arXiv 2022.05) Illumination Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
@@ -2203,6 +2204,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) Vision Transformer-Based Deep Learning for Histologic Classification of Endometrial Cancer, [[Paper]](https://arxiv.org/pdf/2312.08479.pdf)
 - (arXiv 2023.12) Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, [[Paper]](https://arxiv.org/pdf/2312.09022.pdf)
 - (arXiv 2023.12) Glioblastoma Tumor Segmentation using an Ensemble of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.11467.pdf)
+- (arXiv 2023.12) Hierarchical Vision Transformers for Context-Aware Prostate Cancer Grading in Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2312.12619.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3809,6 +3811,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Just Add π! Pose Induced Video Transformers for Understanding Activities of Daily Living, [[Paper]](https://arxiv.org/pdf/2311.18840.pdf), [[Code]](https://github.com/dominickrei/pi-vit)
 - (arXiv 2023.12) DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding, [[Paper]](https://arxiv.org/pdf/2312.02549.pdf)
 - (arXiv 2023.12) Unleashing the Power of CNN and Transformer for Balanced RGB-Event Video Recognition, [[Paper]](https://arxiv.org/pdf/2312.11128.pdf), [[Code]](https://github.com/Event-AHU/TSCFormer)
+- (arXiv 2023.12) MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers, [[Paper]](https://arxiv.org/pdf/2312.12468.pdf), [[Code]](https://maskint.github.io/)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
