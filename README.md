@@ -873,6 +873,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) Class-Discriminative Attention Maps for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.02364.pdf), [[Code]](https://github.com/lenbrocki/CDAM)
 - (arXiv 2023.12) Factorization Vision Transformer: Modeling Long Range Dependency with Local Window Cost, [[Paper]](https://arxiv.org/pdf/2312.08614.pdf), [[Code]](https://github.com/q2479036243/FaViT)
 - (arXiv 2023.12) Weight Subcloning: Direct Initialization of Transformers Using Larger Pretrained Ones, [[Paper]](https://arxiv.org/pdf/2312.09299.pdf)
+- (arXiv 2023.12) Cached Transformers: Improving Transformers with Differentiable Memory Cache, [[Paper]](https://arxiv.org/pdf/2312.12742.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2258,6 +2259,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement, [[Paper]](https://arxiv.org/pdf/2311.16495.pdf)
 - (arXiv 2023.12) MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR, [[Paper]](https://arxiv.org/pdf/2312.02409.pdf), [[Code]](https://waymo.com/open/challenges/2023/motion-prediction/)
 - (arXiv 2023.12) EulerMormer: Robust Eulerian Motion Magnification via Dynamic Filtering within Transformer, [[Paper]](https://arxiv.org/pdf/2312.04152.pdf), [[Code]](https://github.com/VUT-HFUT/EulerMormer)
+- (arXiv 2023.12) Sign Language Production with Latent Motion Transformer, [[Paper]](https://arxiv.org/pdf/2312.12917.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2985,6 +2987,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer, [[Paper]](https://arxiv.org/pdf/2308.03768.pdf), [[Code]](https://github.com/qinzheng93/GeoTransformer)
 - (arXiv 2023.10) OAAFormer: Robust and Efficient Point Cloud Registration Through Overlapping-Aware Attention in Transformer, [[Paper]](https://arxiv.org/pdf/2310.09817.pdf)
 - (arXiv 2023.12) VSFormer: Visual-Spatial Fusion Transformer for Correspondence Pruning, [[Paper]](https://arxiv.org/pdf/2312.08774.pdf), [[Code]](https://github.com/sugar-fly/VSFormer)
+- (arXiv 2023.12) D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer,  [[Paper]](https://arxiv.org/pdf/2312.12970.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
