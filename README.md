@@ -1,7 +1,7 @@
 # Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2023/12/22
+**Last updated: 2023/12/25
 
 ## Survey: 
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
@@ -311,6 +311,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.12) COTR: Compact Occupancy TRansformer for Vision-based 3D Occupancy Prediction, [[Paper]](https://arxiv.org/pdf/2312.01919.pdf)
 - (arXiv 2023.12) Learned Fusion: 3D Object Detection using Calibration-Free Transformer Feature Fusion, [[Paper]](https://arxiv.org/pdf/2312.09082.pdf)
 - (arXiv 2023.12) Diffusion-Based Particle-DETR for BEV Perception, [[Paper]](https://arxiv.org/pdf/2312.11578.pdf)
+- (arXiv 2023.12) Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers, [[Paper]](https://arxiv.org/pdf/2312.14919.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -1252,6 +1253,8 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) Improved Dense Nested Attention Network Based on Transformer for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2311.08747.pdf)
 - (arXiv 2023.11) Decoupled DETR For Few-shot Object Detection, [[Paper]](https://arxiv.org/pdf/2311.11570.pdf)
 - (arXiv 2023.12) RotaTR: Detection Transformer for Dense and Rotated Object, [[Paper]](https://arxiv.org/pdf/2312.02821.pdf)
+- (arXiv 2023.12) Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps, [[Paper]](https://arxiv.org/pdf/2312.14606.pdf)
+- (arXiv 2023.12) Context Enhanced Transformer for Single Image Object Detection, [[Paper]](https://arxiv.org/pdf/2312.14492.pdf), [[Code]](https://ku-cvlab.github.io/CETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1571,6 +1574,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Exemplar-Free Continual Transformer with Convolutions, [[Paper]](https://arxiv.org/pdf/2308.11357.pdf), [[Projet]](https://cvir.github.io/projects/contracon)
 - (arXiv 2023.08) Introducing Language Guidance in Prompt-based Continual Learning, [[Paper]](https://arxiv.org/pdf/2308.15827.pdf)
 - (arXiv 2023.11) CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning, [[Paper]](https://arxiv.org/pdf/2311.13263.pdf)
+- (arXiv 2023.12) Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning, [[Paper]](https://arxiv.org/pdf/2312.12722.pdf), [[Code]](https://github.com/scok30/)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -2475,6 +2479,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.05) CostFormer:Cost Transformer for Cost Aggregation in Multi-view Stereo, [[Paper]](https://arxiv.org/pdf/2305.10320.pdf)
 - (arXiv 2023.10) GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers, [[Paper]](https://arxiv.org/pdf/2310.10375.pdf)
 - (arXiv 2023.12) CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer, [[Paper]](https://arxiv.org/pdf/2312.08594.pdf), [[Code]](https://github.com/wscstrive/CT-MVSNet)
+- (arXiv 2023.12) Global Occlusion-Aware Transformer for Robust Stereo Matching, [[Paper]](https://arxiv.org/pdf/2312.14650.pdf), [[Code]](https://github.com/Magicboomliu/GOAT)
 
 ### NAS
 - (CVPR'21) HR-NAS: Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers, [[Paper]](https://arxiv.org/pdf/2106.06560.pdf), [[Code]](https://github.com/dingmyu/HR-NAS)
@@ -2870,6 +2875,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.11) SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2311.15707.pdf), [[Code]](https://github.com/JiehongLin/SAM-6D)
 - (arXiv 2023.11) Pose Anything: A Graph-Based Approach for Category-Agnostic Pose Estimation, [[Paper]](https://arxiv.org/pdf/2311.17891.pdf), [[Code]](https://orhir.github.io/pose-anything/)
 - (arXiv 2023.11) PViT-6D: Overclocking Vision Transformers for 6D Pose Estimation with Confidence-Level Prediction and Pose Tokens, [[Paper]](https://arxiv.org/pdf/2311.17504.pdf)
+- (arXiv 2023.12) PoseViNet: Distracted Driver Action Recognition Framework Using Multi-View Pose Estimation and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2312.14577.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3068,6 +3074,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 - (arXiv 2023.08) Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2308.08730.pdf), [[Code]](https://github.com/wlydlut/C2F-DFT)
 - (arXiv 2023.09) Prompt-based All-in-One Image Restoration using CNNs and Transformer, [[Paper]](https://arxiv.org/pdf/2309.03063.pdf), [[Code]](https://github.com/wlydlut/C2F-DFT)
 - (arXiv 2023.09) HAT: Hybrid Attention Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2309.05239.pdf), [[Code]](https://github.com/XPixelGroup/HAT)
+- (arXiv 2023.12) ViStripformer: A Token-Efficient Transformer for Versatile Video Restoration,  [[Paper]](https://arxiv.org/pdf/2312.14502.pdf)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
