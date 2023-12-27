@@ -987,6 +987,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Factorization Vision Transformer: Modeling Long Range Dependency with Local Window Cost, [[Paper]](https://arxiv.org/pdf/2312.08614.pdf), [[Code]](https://github.com/q2479036243/FaViT)
 - (arXiv 2023.12) Weight Subcloning: Direct Initialization of Transformers Using Larger Pretrained Ones, [[Paper]](https://arxiv.org/pdf/2312.09299.pdf)
 - (arXiv 2023.12) Cached Transformers: Improving Transformers with Differentiable Memory Cache, [[Paper]](https://arxiv.org/pdf/2312.12742.pdf)
+- (arXiv 2023.12) Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.15681.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1479,6 +1480,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) 1DFormer: Learning 1D Landmark Representations via Transformer for Facial Landmark Tracking, [[Paper]](https://arxiv.org/pdf/2311.00241.pdf)
 - (arXiv 2023.11) Fast and Interpretable Face Identification for Out-Of-Distribution Data Using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2311.02803.pdf),[[Code]](https://github.com/anguyen8/face-vit)
 - (arXiv 2023.12) Hypergraph-Guided Disentangled Spectrum Transformer Networks for Near-Infrared Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2312.05907.pdf)
+- (arXiv 2023.12) Modality-Collaborative Transformer with Hybrid Feature Reconstruction for Robust Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2312.15848.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -3959,6 +3961,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos, [[Paper]](https://arxiv.org/pdf/2312.00083.pdf), [[Code]](https://github.com/Pilhyeon/BAM-DETR)
 - (arXiv 2023.12) Grounding Everything: Emerging Localization Properties in Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2312.00878.pdf), [[Code]](https://github.com/WalBouss/GEM)
 - (arXiv 2023.12) Mono3DVG: 3D Visual Grounding in Monocular Images, [[Paper]](https://arxiv.org/pdf/2312.08022.pdf)
+- (arXiv 2023.12) GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2312.15043.pdf), [[Code]](https://github.com/om-ai-lab/GroundVLP)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
