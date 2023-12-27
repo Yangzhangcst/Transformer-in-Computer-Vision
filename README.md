@@ -5,7 +5,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 ## Table of Contents
 
-- [Survey](main/survey)
+- [Survey](main/survey.md)
 - [Recent Papers](#recent-papers)
   - [Action](#action)
   - [Active Learning](#active-learning)
