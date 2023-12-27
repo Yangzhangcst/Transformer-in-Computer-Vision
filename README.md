@@ -1605,6 +1605,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation, [[Paper]](https://arxiv.org/pdf/2311.03035.pdf), [[Code]](https://github.com/Ackesnal/GTP-ViT)
 - (arXiv 2023.11) GMTR: Graph Matching Transformers, [[Paper]](https://arxiv.org/pdf/2311.08141.pdf)
 - (arXiv 2023.12) GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2312.04479.pdf)
+- (arXiv 2023.12) Large-scale Graph Representation Learning of Dynamic Brain Connectome with Transformers, [[Paper]](https://arxiv.org/pdf/2312.14939.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
