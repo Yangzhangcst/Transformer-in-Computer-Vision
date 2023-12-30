@@ -3,7 +3,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2023/12/27
+**Last updated: 2023/12/30
 
 ## Table of Contents
 
@@ -1394,6 +1394,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) UWFormer: Underwater Image Enhancement via a Semi-Supervised Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2310.20210.pdf)
 - (arXiv 2023.12) A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement, [[Paper]](https://arxiv.org/pdf/2312.03946.pdf), [[Code]](https://github.com/RisabBiswas/T2T-BinFormer)
 - (arXiv 2023.12) Transformer-based No-Reference Image Quality Assessment via Supervised Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2312.06995.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/SaTQA)
+- (arXiv 2023.12) A Non-Uniform Low-Light Image Enhancement Method with Multi-Scale Attention Transformer and Luminance Consistency Loss, [[Paper]](https://arxiv.org/pdf/2312.16498.pdf), [[Code]](https://github.com/fang001021/MSATr)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -2991,6 +2992,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) Pose Anything: A Graph-Based Approach for Category-Agnostic Pose Estimation, [[Paper]](https://arxiv.org/pdf/2311.17891.pdf), [[Code]](https://orhir.github.io/pose-anything/)
 - (arXiv 2023.11) PViT-6D: Overclocking Vision Transformers for 6D Pose Estimation with Confidence-Level Prediction and Pose Tokens, [[Paper]](https://arxiv.org/pdf/2311.17504.pdf)
 - (arXiv 2023.12) PoseViNet: Distracted Driver Action Recognition Framework Using Multi-View Pose Estimation and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2312.14577.pdf)
+- (arXiv 2023.12) Geometry-Biased Transformer for Robust Multi-View 3D Human Pose Reconstruction, [[Paper]](https://arxiv.org/pdf/2312.17106.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
