@@ -3484,6 +3484,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) SOccDPT: Semi-Supervised 3D Semantic Occupancy from Dense Prediction Transformers trained under memory constraints, [[Paper]](https://arxiv.org/pdf/2311.11371.pdf)
 - (arXiv 2023.11) GIFT: Generative Interpretable Fine-Tuning Transformers, [[Paper]](https://arxiv.org/pdf/2312.00700.pdf), [[Code]](https://savadikarc.github.io/gift)
 - (arXiv 2023.12) U-MixFormer: UNet-like Transformer with Mix-Attention for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2312.06272.pdf), [[Code]](https://github.com/julian-klitzing/u-mixformer)
+- (arXiv 2023.12) SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation, [[Paper]](https://arxiv.org/pdf/2312.17071.pdf), [[Code]](https://github.com/xzz777/SCTNet)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
