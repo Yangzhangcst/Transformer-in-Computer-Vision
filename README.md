@@ -988,6 +988,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Weight Subcloning: Direct Initialization of Transformers Using Larger Pretrained Ones, [[Paper]](https://arxiv.org/pdf/2312.09299.pdf)
 - (arXiv 2023.12) Cached Transformers: Improving Transformers with Differentiable Memory Cache, [[Paper]](https://arxiv.org/pdf/2312.12742.pdf)
 - (arXiv 2023.12) Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.15681.pdf)
+- (arXiv 2023.12) Merging Vision Transformers from Different Tasks and Domains, [[Paper]](https://arxiv.org/pdf/2312.16240.pdf)
+- (arXiv 2023.12) Universal Pyramid Adversarial Training for Improved ViT Performance, [[Paper]](https://arxiv.org/pdf/2312.16339.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1824,6 +1826,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Foundation Model Assisted Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2312.03585.pdf)
 - (arXiv 2023.12) AI-SAM: Automatic and Interactive Segment Anything Model, [[Paper]](https://arxiv.org/pdf/2312.03119.pdf), [[Code]](https://github.com/ymp5078/AI-SAM)
 - (arXiv 2023.12) MobileSAMv2: Faster Segment Anything to Everything, [[Paper]](https://arxiv.org/abs/2312.09579),[[Code]](https://github.com/ChaoningZhang/MobileSAM)
+- (arXiv 2023.12) MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices, [[Paper]](https://arxiv.org/abs/2312.16886),[[Code]](https://github.com/Meituan-AutoML/MobileVLM)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2890,6 +2893,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2312.08371.pdf), [[Code]](https://github.com/kuanchihhuang/PTT)
 - (arXiv 2023.12) Point Transformer V3: Simpler, Faster, Stronger, [[Paper]](https://arxiv.org/pdf/2312.10035.pdf), [[Code]](https://github.com/Pointcept/PointTransformerV3)
 - (arXiv 2023.12) ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2312.11112.pdf), [[Code]](https://github.com/LHDuan/ConDaFormer)
+- (arXiv 2023.12) Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding, [[Paper]](https://arxiv.org/pdf/2312.16477.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3570,6 +3574,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) Degradation-Aware Self-Attention Based Transformer for Blind Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2310.04180.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/DSAT/tree/main)
 - (arXiv 2023.12) SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2312.01999.pdf)
 - (arXiv 2023.12) Transformer-based Selective Super-Resolution for Efficient Image Refinement, [[Paper]](https://arxiv.org/pdf/2312.05803.pdf), [[Code]](https://github.com/destiny301/SSR)
+- (arXiv 2023.12) Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer, [[Paper]](https://arxiv.org/pdf/2312.16455.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -4282,7 +4287,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) Typhoon Intensity Prediction with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.16450.pdf), [[Code]](https://github.com/chen-huanxin/Tint)
 - (arXiv 2023.11) Dual-Stream Attention Transformers for Sewer Defect Classification, [[Paper]](https://arxiv.org/pdf/2311.16145.pdf)
 - (arXiv 2023.11) Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce, [[Paper]](https://arxiv.org/pdf/2311.17954.pdf)
-- (arXiv 2023.11) Integrating Human Vision Perception in Vision Transformers for Classifying Waste Items, [[Paper]](https://arxiv.org/pdf/2312.12143.pdf)
+- (arXiv 2023.12) Integrating Human Vision Perception in Vision Transformers for Classifying Waste Items, [[Paper]](https://arxiv.org/pdf/2312.12143.pdf)
+- (arXiv 2023.12) ROI-Aware Multiscale Cross-Attention Vision Transformer for Pest Image Identification, [[Paper]](https://arxiv.org/pdf/2312.16914.pdf)
 
 ## Contact & Feedback
 
