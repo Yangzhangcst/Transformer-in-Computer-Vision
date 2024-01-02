@@ -1156,6 +1156,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.03) Learning A Sparse Transformer Network for Effective Image Deraining, [[Paper]](https://arxiv.org/pdf/2303.11950.pdf), [[Code]](https://github.com/cschenxiang/DRSformer)
 - (arXiv 2023.08) Learning Image Deraining Transformer Network with Dynamic Dual Self-Attention, [[Paper]](https://arxiv.org/pdf/2303.11950.pdf)
 - (arXiv 2023.08) Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks, [[Paper]](https://arxiv.org/pdf/2308.14153.pdf)
+- (arXiv 2024.01) NightRain: Nighttime Video Deraining via Adaptive-Rain-Removal and Adaptive-Correction, [[Paper]](https://arxiv.org/pdf/2401.00729.pdf)
 
 ### Denoising
 - (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
@@ -1555,6 +1556,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.08) DVGaze: Dual-View Gaze Estimation, [[Paper]](https://arxiv.org/pdf/2308.10310.pdf), [[Code]](https://github.com/yihuacheng/DVGaze)
 - (arXiv 2023.10) Sharingan: A Transformer-based Architecture for Gaze Following, [[Paper]](https://arxiv.org/pdf/2310.00816.pdf)
 - (arXiv 2023.11) Dual input stream transformer for eye-tracking line assignment, [[Paper]](https://arxiv.org/pdf/2311.06095.pdf)
+- (arXiv 2024.01) GazeCLIP: Towards Enhancing Gaze Estimation via Text Guidance, [[Paper]](https://arxiv.org/pdf/2401.00260.pdf)
 
 ### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -1647,6 +1649,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.08) Exploring Predicate Visual Context in Detecting of Human–Object Interactions, [[Paper]](https://arxiv.org/pdf/2308.06202.pdf), [[Code]](https://github.com/fredzzhang/pvic)
 - (arXiv 2023.08) Compositional Learning in Transformer-Based Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2308.05961.pdf)
 - (arXiv 2023.08) Agglomerative Transformer for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2308.08370.pdf), [[Code]](https://github.com/six6607/AGER.git)
+- (arXiv 2024.01) A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition, [[Paper]](https://arxiv.org/pdf/2401.00409.pdf), [[Code]](https://github.com/six6607/AGER.git)
 
 ### Hyperspectral
 - (arXiv 2021.07) SpectralFormer: Rethinking Hyperspectral Image Classification with Transformers, [[Paper]](https://arxiv.org/pdf/2107.02988.pdf), [[Code]](https://sites.google.com/view/danfeng-hong)
@@ -2329,6 +2332,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, [[Paper]](https://arxiv.org/pdf/2312.09022.pdf)
 - (arXiv 2023.12) Glioblastoma Tumor Segmentation using an Ensemble of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.11467.pdf)
 - (arXiv 2023.12) Hierarchical Vision Transformers for Context-Aware Prostate Cancer Grading in Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2312.12619.pdf)
+- (arXiv 2024.01) BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.00722.pdf)，[[Code]](https://github.com/Caipengzhou/BRAU-Netplusplus)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2997,6 +3001,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) PViT-6D: Overclocking Vision Transformers for 6D Pose Estimation with Confidence-Level Prediction and Pose Tokens, [[Paper]](https://arxiv.org/pdf/2311.17504.pdf)
 - (arXiv 2023.12) PoseViNet: Distracted Driver Action Recognition Framework Using Multi-View Pose Estimation and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2312.14577.pdf)
 - (arXiv 2023.12) Geometry-Biased Transformer for Robust Multi-View 3D Human Pose Reconstruction, [[Paper]](https://arxiv.org/pdf/2312.17106.pdf)
+- (arXiv 2024.01) 6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2401.00029.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3349,6 +3354,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.08) Emergence of Segmentation with Minimalistic White-Box Transformers, [[Paper]](https://arxiv.org/pdf/2308.16271.pdf), [[Code]](https://ma-lab-berkeley.github.io/CRATE)
 - (arXiv 2023.10) Limited Data, Unlimited Potential:A Study on ViTs Augmented by Masked Autoencoders, [[Paper]](https://arxiv.org/pdf/2310.20704.pdf), [[Code]](https://github.com/dominickrei/Limited-data-vits)
 - (arXiv 2023.11) LISBET: a self-supervised Transformer model for the automatic segmentation of social behavior motifs, [[Paper]](https://arxiv.org/pdf/2311.04069.pdf), [[Code]](https://github.com/dominickrei/Limited-data-vits)
+- (arXiv 2024.01) Analyzing Local Representations of Self-supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.00463.pdf)
 
 ### Semantic Segmentation 
 - (arXiv 2020.12) Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2012.15840), [[Code]](https://github.com/fudan-zvg/SETR)
@@ -3575,6 +3581,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2312.01999.pdf)
 - (arXiv 2023.12) Transformer-based Selective Super-Resolution for Efficient Image Refinement, [[Paper]](https://arxiv.org/pdf/2312.05803.pdf), [[Code]](https://github.com/destiny301/SSR)
 - (arXiv 2023.12) Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer, [[Paper]](https://arxiv.org/pdf/2312.16455.pdf)
+- (arXiv 2024.01) Image Super-resolution Reconstruction Network based on Enhanced Swin Transformer via Alternating Aggregation of Local-Global Features, [[Paper]](https://arxiv.org/pdf/2401.00241.pdf)
+- (arXiv 2024.01) Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2401.00740.pdf)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
