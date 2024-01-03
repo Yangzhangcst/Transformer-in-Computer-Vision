@@ -3,7 +3,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/02
+**Last updated: 2024/01/03
 
 ## Table of Contents
 
@@ -2333,6 +2333,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Glioblastoma Tumor Segmentation using an Ensemble of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.11467.pdf)
 - (arXiv 2023.12) Hierarchical Vision Transformers for Context-Aware Prostate Cancer Grading in Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2312.12619.pdf)
 - (arXiv 2024.01) BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.00722.pdf)，[[Code]](https://github.com/Caipengzhou/BRAU-Netplusplus)
+- (arXiv 2024.01) Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases, [[Paper]](https://arxiv.org/pdf/2401.00926.pdf)，[[Code]](https://github.com/JustlfC03/MFDS-DETR)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3979,6 +3980,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Grounding Everything: Emerging Localization Properties in Vision-Language Transformers, [[Paper]](https://arxiv.org/pdf/2312.00878.pdf), [[Code]](https://github.com/WalBouss/GEM)
 - (arXiv 2023.12) Mono3DVG: 3D Visual Grounding in Monocular Images, [[Paper]](https://arxiv.org/pdf/2312.08022.pdf)
 - (arXiv 2023.12) GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2312.15043.pdf), [[Code]](https://github.com/om-ai-lab/GroundVLP)
+- (arXiv 2024.01) Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding, [[Paper]](https://arxiv.org/pdf/2401.00901.pdf), [[Code]](https://github.com/TalalWasim/Video-GroundingDINO)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
@@ -4026,6 +4028,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.03) SnakeVoxFormer: Transformer-based Single Image Voxel Reconstruction with Run Length Encoding, [[Paper]](https://arxiv.org/pdf/2303.16293.pdf)
 - (arXiv 2023.05) PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer, [[Paper]](https://arxiv.org/pdf/2305.06621.pdf), [[Code]](https://github.com/Nightmare-n/PVT-SSD)
 - (arXiv 2023.08) Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification, [[Paper]](https://arxiv.org/pdf/2308.11937.pdf), [[Code]](https://github.com/Event-AHU/EFV_event_classification)
+- (arXiv 2024.01) ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention, [[Paper]](https://arxiv.org/pdf/2401.00912.pdf), [[Code]](https://github.com/skyhehe123/ScatterFormer)
 
 ### Weakly Supervised Learning
 - (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
