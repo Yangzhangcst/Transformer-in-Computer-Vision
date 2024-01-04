@@ -3,7 +3,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/03
+**Last updated: 2024/01/04
 
 ## Table of Contents
 
