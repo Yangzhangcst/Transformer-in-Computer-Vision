@@ -340,6 +340,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) DialMAT: Dialogue-Enabled Transformer with Moment-Based Adversarial Training, [[Paper]](https://arxiv.org/pdf/2311.06855.pdf)
 - (arXiv 2023.11) Attention Deficit is Ordered! Fooling Deformable Vision Transformers with Collaborative Adversarial Patches, [[Paper]](https://arxiv.org/pdf/2311.12914.pdf)
 - (arXiv 2023.12) MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness, [[Paper]](https://arxiv.org/pdf/2312.04960.pdf), [[Code]](https://github.com/xiaoyunxxy/MIMIR)
+- (arXiv 2024.01) FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.01752.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -990,6 +991,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Partial Fine-Tuning: A Successor to Full Fine-Tuning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.15681.pdf)
 - (arXiv 2023.12) Merging Vision Transformers from Different Tasks and Domains, [[Paper]](https://arxiv.org/pdf/2312.16240.pdf)
 - (arXiv 2023.12) Universal Pyramid Adversarial Training for Improved ViT Performance, [[Paper]](https://arxiv.org/pdf/2312.16339.pdf)
+- (arXiv 2024.01) Token Propagation Controller for Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.01470.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1003,6 +1005,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.04) Contour Completion by Transformers and Its Application to Vector Font Data, [[Paper]](https://arxiv.org/pdf/2304.13988.pdf)
 - (arXiv 2023.07) CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2307.07938.pdf)
 - (arXiv 2023.10) Distance-based Weighted Transformer Network for Image Completion, [[Paper]](https://arxiv.org/pdf/2310.07440.pdf)
+- (arXiv 2024.01) CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers, [[Paper]](https://arxiv.org/pdf/2401.01552.pdf),[[Code]](https://github.com/EasyRy/CRA-PCN)
 
 ### Compression
 - (arXiv 2021.10) Accelerating Framework of Transformer by hardware Design and Model Compression Co-Optimization, [[Paper]](https://arxiv.org/pdf/2110.10030.pdf)
@@ -3707,6 +3710,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) Single-Model and Any-Modality for Video Object Tracking, [[Paper]](https://arxiv.org/pdf/2311.15851.pdf), [[Code]](https://github.com/Zongwei97/UnTrack)
 - (arXiv 2023.12) Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking, [[Paper]](https://arxiv.org/pdf/2312.11051.pdf), [[Code]](https://github.com/liangp/MCSTN-3DSOT)
 - (arXiv 2023.12) Transformer Network for Multi-Person Tracking and Re-Identification in Unconstrained Environment, [[Paper]](https://arxiv.org/pdf/2312.11929.pdf)
+- (arXiv 2024.01) Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens, [[Paper]](https://arxiv.org/pdf/2401.01674.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -3791,6 +3795,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) SoybeanNet: Transformer-Based Convolutional Neural Network for Soybean Pod Counting from Unmanned Aerial Vehicle (UAV) Images, [[Paper]](https://arxiv.org/pdf/2310.10861.pdf), [[Code]](https://github.com/JiajiaLi04/Soybean-Pod-Counting-from-UAV-Images)
 - (arXiv 2023.11) Rotation Invariant Transformer for Recognizing Object in UAVs, [[Paper]](https://arxiv.org/pdf/2311.02559.pdf), [[Code]](https://github.com/whucsy/RotTrans)
 - (arXiv 2023.11) SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet, [[Paper]](https://arxiv.org/pdf/2311.03076.pdf), [[Code]](https://github.com/whucsy/RotTrans)
+- (arXiv 2024.01) A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization, [[Paper]](https://arxiv.org/pdf/2401.01574.pdf)
 
 ### Video
 - (ECCV'20) Multi-modal Transformer for Video Retrieval, [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490205.pdf)
