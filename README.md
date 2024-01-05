@@ -2784,7 +2784,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) Hierarchical Mask2Former: Panoptic Segmentation of Crops, Weeds and Leaves, [[Paper]](https://arxiv.org/pdf/2310.06582.pdf), [[Code]](https://github.com/madeleinedarbyshire/HierarchicalMask2Former)
 - (arXiv 2023.11) 4D-Former: Multimodal 4D Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2311.01520.pdf), [[Code]](https://waabi.ai/4dformer)
 - (arXiv 2023.11) MaXTron: Mask Transformer with Trajectory Attention for Video Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2311.18537.pdf), [[Code]](https://github.com/TACJu/MaXTron)
-
+- (arXiv 2024.01) 3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation, [[Paper]](https://arxiv.org/pdf/2401.02281.pdf)
+  
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
 - (arXiv 2020.12) Point Transformer, [[Paper]](https://arxiv.org/pdf/2012.09164)
