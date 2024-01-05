@@ -1,4 +1,5 @@
-# Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+.# Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
@@ -1716,6 +1717,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.06) TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting, [[Paper]](https://arxiv.org/pdf/2306.11528.pdf), [[Code]](https://github.com/Cameltr/TransRef)
 - (arXiv 2023.07) Deficiency-Aware Masked Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2307.08629.pdf), [[Code]](http://github.com/yeates/DMT)
 - (arXiv 2023.09) ProPainter: Improving Propagation and Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2309.03897.pdf), [[Code]](https://github.com/sczhou/ProPainter)
+- (arXiv 2024.01) Federated Class-Incremental Learning with Prototype Guided Transformer, [[Paper]](https://arxiv.org/pdf/2401.02094.pdf), [[Code]](https://github.com/sczhou/ProPainter)
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
@@ -2338,6 +2340,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Hierarchical Vision Transformers for Context-Aware Prostate Cancer Grading in Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2312.12619.pdf)
 - (arXiv 2024.01) BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.00722.pdf)，[[Code]](https://github.com/Caipengzhou/BRAU-Netplusplus)
 - (arXiv 2024.01) Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases, [[Paper]](https://arxiv.org/pdf/2401.00926.pdf)，[[Code]](https://github.com/JustlfC03/MFDS-DETR)
+- (arXiv 2024.01) A novel method to enhance pneumonia detection via a model-level ensembling of CNN and vision transformer, [[Paper]](https://arxiv.org/pdf/2401.02358.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3521,13 +3524,14 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arxiv 2023.08) Attention-free Spikformer: Mixing Spike Sequences with Simple Linear Transforms,  [[Paper]](https://arxiv.org/pdf/2308.02557.pdf)
 - (arxiv 2023.11) SparseSpikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer,  [[Paper]](https://arxiv.org/pdf/2311.08806.pdf)
 - (arxiv 2023.11) Spiking Neural Networks with Dynamic Time Steps for Vision Transformers,  [[Paper]](https://arxiv.org/pdf/2311.16456.pdf)
+- (arxiv 2024.01) Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket,  [[Paper]](https://arxiv.org/pdf/2401.02020.pdf)
 
 ### Style Transfer
 - (arXiv 2022.10) Fine-Grained Image Style Transfer with Visual Transformers,  [[Paper]](https://arxiv.org/abs/2210.05176), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
 - (arXiv 2022.10) S2WAT: Image Style Transfer via Hierarchical Vision Transformer using Strips Window Attention,  [[Paper]](https://arxiv.org/abs/2210.12381), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
 - (arXiv 2022.11) Learning Visual Representation of Underwater Acoustic Imagery Using Transformer-Based Style Transfer Method,  [[Paper]](https://arxiv.org/abs/2211.05396)
 - (arXiv 2023.01) Edge Enhanced Image Style Transfer via Transformers,  [[Paper]](https://arxiv.org/abs/2301.00592)
-- (arXiv 2023.04) Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer,  [[Paper]](https://arxiv.org/abs/2304.11818)
+- (arXiv 2023.04) Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer,  [[Paper]](https://arxiv.org/abs/2304.11818),[[Code]](https://github.com/ZK-Zhou/spikformer)
 
 ### Super-Resolution
 - (CVPR'20) Learning Texture Transformer Network for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2006.04139), [[Code]](https://github.com/researchmm/TTSR)
