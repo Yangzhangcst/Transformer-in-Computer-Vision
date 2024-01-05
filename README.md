@@ -3,7 +3,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/04
+**Last updated: 2024/01/05
 
 ## Table of Contents
 
@@ -1374,6 +1374,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) RotaTR: Detection Transformer for Dense and Rotated Object, [[Paper]](https://arxiv.org/pdf/2312.02821.pdf)
 - (arXiv 2023.12) Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps, [[Paper]](https://arxiv.org/pdf/2312.14606.pdf)
 - (arXiv 2023.12) Context Enhanced Transformer for Single Image Object Detection, [[Paper]](https://arxiv.org/pdf/2312.14492.pdf), [[Code]](https://ku-cvlab.github.io/CETR)
+- (arXiv 2024.01) TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection, [[Paper]](https://arxiv.org/pdf/2401.02309.pdf), [[Code]](https://github.com/mingyao1120/TR-DETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -3103,6 +3104,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) ShapeGraFormer: GraFormer-Based Network for Hand-Object Reconstruction from a Single Depth Map, [[Paper]](https://arxiv.org/pdf/2310.11811.pdf)
 - (arXiv 2023.10) DIAR: Deep Image Alignment and Reconstruction using Swin Transformers, [[Paper]](https://arxiv.org/pdf/2310.11605.pdf)
 - (arXiv 2023.12) Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2312.09147.pdf),[[Project]](https://zouzx.github.io/TriplaneGaussian/)
+- (arXiv 2024.01) GridFormer: Point-Grid Transformer for Surface Reconstruction, [[Paper]](https://arxiv.org/pdf/2401.02292.pdf),[[Code]](https://github.com/list17/GridFormer)
 
 ### Referring
 - (arXiv 2021.08) Vision-Language Transformer and Query Generation for Referring Segmentation, [[Paper]](https://arxiv.org/pdf/2108.05565.pdf), [[Code]](https://github.com/henghuiding/Vision-Language-Transformer)
