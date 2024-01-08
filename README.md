@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/05
+**Last updated: 2024/01/08
 
 ## Table of Contents
 
@@ -1183,6 +1183,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) Physics-guided Noise Neural Proxy for Low-light Raw Image Denoising, [[Paper]](https://arxiv.org/pdf/2310.09126.pdf)
 - (arXiv 2023.10) A cross Transformer for image denoising, [[Paper]](https://arxiv.org/pdf/2310.10408.pdf), [[Code]](https://github.com/hellloxiaotian/CTNet)
 - (arXiv 2023.10) Complex Image Generation SwinTransformer Network for Audio Denoising, [[Paper]](https://arxiv.org/pdf/2310.16109.pdf)
+- (arXiv 2024.01) Denoising Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.02957.pdf), [[Code]](https://jiawei-yang.github.io/DenoisingViT/)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -4312,6 +4313,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce, [[Paper]](https://arxiv.org/pdf/2311.17954.pdf)
 - (arXiv 2023.12) Integrating Human Vision Perception in Vision Transformers for Classifying Waste Items, [[Paper]](https://arxiv.org/pdf/2312.12143.pdf)
 - (arXiv 2023.12) ROI-Aware Multiscale Cross-Attention Vision Transformer for Pest Image Identification, [[Paper]](https://arxiv.org/pdf/2312.16914.pdf)
+- (arXiv 2024.01) SPFormer: Enhancing Vision Transformer with Superpixel Representation, [[Paper]](https://arxiv.org/pdf/2401.02931.pdf)
 
 ## Contact & Feedback
 
