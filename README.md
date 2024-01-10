@@ -1188,6 +1188,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) A cross Transformer for image denoising, [[Paper]](https://arxiv.org/pdf/2310.10408.pdf), [[Code]](https://github.com/hellloxiaotian/CTNet)
 - (arXiv 2023.10) Complex Image Generation SwinTransformer Network for Audio Denoising, [[Paper]](https://arxiv.org/pdf/2310.16109.pdf)
 - (arXiv 2024.01) Denoising Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.02957.pdf), [[Code]](https://jiawei-yang.github.io/DenoisingViT/)
+- (arXiv 2024.01) Hyperspectral Image Denoising via Spatial-Spectral Recurrent Transformer, [[Paper]](https://arxiv.org/pdf/2401.03885.pdf), [[Code]](https://github.com/lronkitty/SSRT)
 
 ### Detection
 - (ECCV'20) DETR: End-to-End Object Detection with Transformers, [[Paper]](https://arxiv.org/pdf/2005.12872), [[Code]](https://github.com/facebookresearch/detr)
@@ -2347,6 +2348,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.00722.pdf)，[[Code]](https://github.com/Caipengzhou/BRAU-Netplusplus)
 - (arXiv 2024.01) Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases, [[Paper]](https://arxiv.org/pdf/2401.00926.pdf)，[[Code]](https://github.com/JustlfC03/MFDS-DETR)
 - (arXiv 2024.01) A novel method to enhance pneumonia detection via a model-level ensembling of CNN and vision transformer, [[Paper]](https://arxiv.org/pdf/2401.02358.pdf)
+- (arXiv 2024.01) Vision Transformers and Bi-LSTM for Alzheimer's Disease Diagnosis from 3D MRI, [[Paper]](https://arxiv.org/pdf/2401.03132.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3975,6 +3977,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Unleashing the Power of CNN and Transformer for Balanced RGB-Event Video Recognition, [[Paper]](https://arxiv.org/pdf/2312.11128.pdf), [[Code]](https://github.com/Event-AHU/TSCFormer)
 - (arXiv 2023.12) MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers, [[Paper]](https://arxiv.org/pdf/2312.12468.pdf), [[Code]](https://maskint.github.io/)
 - (arXiv 2024.01) GloTSFormer: Global Video Text Spotting Transformer, [[Paper]](https://arxiv.org/pdf/2401.03694.pdf)
+- (arXiv 2024.01) Latte: Latent Diffusion Transformer for Video Generation, [[Paper]](https://arxiv.org/pdf/2401.03048.pdf), [[Code]](https://maxin-cn.github.io/latte_project)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
