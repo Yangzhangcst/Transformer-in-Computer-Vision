@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/08
+**Last updated: 2024/01/10
 
 ## Table of Contents
 
@@ -398,6 +398,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.07) AVSegFormer: Audio-Visual Segmentation with Transformer, [[Paper]](https://arxiv.org/pdf/2307.01146.pdf), [[Code]](https://github.com/vvvb-github/AVSegFormer)
 - (arXiv 2023.11) Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing, [[Paper]](https://arxiv.org/pdf/2311.08151.pdf)
 - (arXiv 2023.12) Unveiling the Power of Audio-Visual Early Fusion Transformers with Dense Interactions through Masked Modeling, [[Paper]](https://arxiv.org/pdf/2312.01017.pdf)
+- (arXiv 2024.01) Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classificationg, [[Paper]](https://arxiv.org/pdf/2312.01017.pdf)
 
 ### Bird's-Eye-View
 - (arXiv 2022.03) BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers, [[Paper]](https://arxiv.org/pdf/2203.17270.pdf), [[Code]](https://github.com/zhiqi-li/BEVFormer)
@@ -426,6 +427,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Learned Fusion: 3D Object Detection using Calibration-Free Transformer Feature Fusion, [[Paper]](https://arxiv.org/pdf/2312.09082.pdf)
 - (arXiv 2023.12) Diffusion-Based Particle-DETR for BEV Perception, [[Paper]](https://arxiv.org/pdf/2312.11578.pdf)
 - (arXiv 2023.12) Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers, [[Paper]](https://arxiv.org/pdf/2312.14919.pdf)
+- (arXiv 2024.01) WidthFormer: Toward Efficient Transformer-based BEV View Transformation, [[Paper]](https://arxiv.org/pdf/2401.03836.pdf), [[Code]](https://github.com/ChenhongyiYang/WidthFormer)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -3967,6 +3969,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) DemaFormer: Damped Exponential Moving Average Transformer with Energy-Based Modeling for Temporal Language Grounding, [[Paper]](https://arxiv.org/pdf/2312.02549.pdf)
 - (arXiv 2023.12) Unleashing the Power of CNN and Transformer for Balanced RGB-Event Video Recognition, [[Paper]](https://arxiv.org/pdf/2312.11128.pdf), [[Code]](https://github.com/Event-AHU/TSCFormer)
 - (arXiv 2023.12) MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers, [[Paper]](https://arxiv.org/pdf/2312.12468.pdf), [[Code]](https://maskint.github.io/)
+- (arXiv 2024.01) GloTSFormer: Global Video Text Spotting Transformer, [[Paper]](https://arxiv.org/pdf/2401.03694.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
