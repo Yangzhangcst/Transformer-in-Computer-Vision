@@ -1156,6 +1156,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.05) NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer, [[Paper]](https://arxiv.org/pdf/2305.09533.pdf)
 - (arXiv 2023.08) MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2308.14036.pdf), [[Code]](https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer)
 - (arXiv 2023.12) DHFormer: A Vision Transformer-Based Attention Module for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2312.09955.pdf)
+- (arXiv 2024.01) WaveletFormerNet: A Transformer-based Wavelet Network for Real-world Non-homogeneous and Dense Fog Removal, [[Paper]](https://arxiv.org/pdf/2401.04550.pdf)
 
 ### Deraining
 - (arXiv 2022.04) DRT: A Lightweight Single Image Deraining Recursive Transformer, [[Paper]](https://arxiv.org/pdf/2204.11385.pdf)
@@ -4320,6 +4321,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Integrating Human Vision Perception in Vision Transformers for Classifying Waste Items, [[Paper]](https://arxiv.org/pdf/2312.12143.pdf)
 - (arXiv 2023.12) ROI-Aware Multiscale Cross-Attention Vision Transformer for Pest Image Identification, [[Paper]](https://arxiv.org/pdf/2312.16914.pdf)
 - (arXiv 2024.01) SPFormer: Enhancing Vision Transformer with Superpixel Representation, [[Paper]](https://arxiv.org/pdf/2401.02931.pdf)
+
 
 ## Contact & Feedback
 
