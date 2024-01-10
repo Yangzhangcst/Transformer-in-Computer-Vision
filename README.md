@@ -3018,6 +3018,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) PoseViNet: Distracted Driver Action Recognition Framework Using Multi-View Pose Estimation and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2312.14577.pdf)
 - (arXiv 2023.12) Geometry-Biased Transformer for Robust Multi-View 3D Human Pose Reconstruction, [[Paper]](https://arxiv.org/pdf/2312.17106.pdf)
 - (arXiv 2024.01) 6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2401.00029.pdf)
+- (arXiv 2024.01) Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker, [[Paper]](https://arxiv.org/pdf/2401.04377.pdf), [[Code]](https://github.com/S-JingTao/Categorical_Pose_Tracking)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
