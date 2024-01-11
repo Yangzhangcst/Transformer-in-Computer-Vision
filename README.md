@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/10
+**Last updated: 2024/01/11
 
 ## Table of Contents
 
@@ -1569,6 +1569,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) Sharingan: A Transformer-based Architecture for Gaze Following, [[Paper]](https://arxiv.org/pdf/2310.00816.pdf)
 - (arXiv 2023.11) Dual input stream transformer for eye-tracking line assignment, [[Paper]](https://arxiv.org/pdf/2311.06095.pdf)
 - (arXiv 2024.01) GazeCLIP: Towards Enhancing Gaze Estimation via Text Guidance, [[Paper]](https://arxiv.org/pdf/2401.00260.pdf)
+- (arXiv 2024.01) EmMixformer: Mix transformer for eye movement recognition, [[Paper]](https://arxiv.org/pdf/2401.04956.pdf)
 
 ### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -2349,6 +2350,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases, [[Paper]](https://arxiv.org/pdf/2401.00926.pdf)，[[Code]](https://github.com/JustlfC03/MFDS-DETR)
 - (arXiv 2024.01) A novel method to enhance pneumonia detection via a model-level ensembling of CNN and vision transformer, [[Paper]](https://arxiv.org/pdf/2401.02358.pdf)
 - (arXiv 2024.01) Vision Transformers and Bi-LSTM for Alzheimer's Disease Diagnosis from 3D MRI, [[Paper]](https://arxiv.org/pdf/2401.03132.pdf)
+- (arXiv 2024.01) Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN, [[Paper]](https://arxiv.org/pdf/2401.05159.pdf)
+- (arXiv 2024.01) Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System, [[Paper]](https://arxiv.org/pdf/2401.04746.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2403,6 +2406,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR, [[Paper]](https://arxiv.org/pdf/2312.02409.pdf), [[Code]](https://waymo.com/open/challenges/2023/motion-prediction/)
 - (arXiv 2023.12) EulerMormer: Robust Eulerian Motion Magnification via Dynamic Filtering within Transformer, [[Paper]](https://arxiv.org/pdf/2312.04152.pdf), [[Code]](https://github.com/VUT-HFUT/EulerMormer)
 - (arXiv 2023.12) Sign Language Production with Latent Motion Transformer, [[Paper]](https://arxiv.org/pdf/2312.12917.pdf)
+- (arXiv 2024.01) AdvMT: Adversarial Motion Transformer for Long-term Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2401.05018.pdf)
 
 ### Multi-label
 - (arXiv 2021.06) MlTr: Multi-label Classification with Transformer, [[Paper]](https://arxiv.org/pdf/2106.06195.pdf), [[Code]](https://github.com/starmemda/MlTr/)
@@ -2672,6 +2676,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2022.07) Vision Transformer for NeRF-Based View Synthesis from a Single Input Image, [[Paper]](https://arxiv.org/pdf/2207.05736.pdf), [[Project]](https://cseweb.ucsd.edu/~viscomp/projects/VisionNeRF/)
 - (arXiv 2022.09) NeRF-Loc: Transformer-Based Object Localization Within Neural Radiance Fields, [[Paper]](https://arxiv.org/pdf/2209.12068.pdf)
 - (arXiv 2023.03) Single-view Neural Radiance Fields with Depth Teacher, [[Paper]](https://arxiv.org/pdf/2303.09952.pdf)
+- (arXiv 2024.01) CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video, [[Paper]](https://arxiv.org/pdf/2401.04861.pdf)
 
 ### OCR
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
@@ -3763,6 +3768,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems, [[Paper]](https://arxiv.org/pdf/2311.06623.pdf)
 - (arXiv 2023.11) Traffic Sign Recognition Using Local Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.06651.pdf)
 - (arXiv 2023.11) Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent, [[Paper]](https://arxiv.org/pdf/2311.18307.pdf)
+- (arXiv 2024.01) Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2401.04872.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
@@ -3795,6 +3801,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) ZeroI2V: Zero-Cost Adaptation of Pre-trained Transformers from Image to Video, [[Paper]](https://arxiv.org/pdf/2310.01324.pdf)
 - (arXiv 2023.10) Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework, [[Paper]](https://arxiv.org/pdf/2310.15646.pdf)
 - (arXiv 2023.11) Improving Source-Free Target Adaptation with Vision Transformers Leveraging Domain Representation Images, [[Paper]](https://arxiv.org/pdf/2311.12589.pdf)
+- (arXiv 2024.01) Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.05126.pdf)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
@@ -3978,6 +3985,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers, [[Paper]](https://arxiv.org/pdf/2312.12468.pdf), [[Code]](https://maskint.github.io/)
 - (arXiv 2024.01) GloTSFormer: Global Video Text Spotting Transformer, [[Paper]](https://arxiv.org/pdf/2401.03694.pdf)
 - (arXiv 2024.01) Latte: Latent Diffusion Transformer for Video Generation, [[Paper]](https://arxiv.org/pdf/2401.03048.pdf), [[Code]](https://maxin-cn.github.io/latte_project)
+- (arXiv 2024.01) HaltingVT: Adaptive Token Halting Transformer for Efficient Video Recognition, [[Paper]](https://arxiv.org/pdf/2401.04975.pdf), [[Code]](https://github.com/dun-research/HaltingVT)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -4325,7 +4333,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Integrating Human Vision Perception in Vision Transformers for Classifying Waste Items, [[Paper]](https://arxiv.org/pdf/2312.12143.pdf)
 - (arXiv 2023.12) ROI-Aware Multiscale Cross-Attention Vision Transformer for Pest Image Identification, [[Paper]](https://arxiv.org/pdf/2312.16914.pdf)
 - (arXiv 2024.01) SPFormer: Enhancing Vision Transformer with Superpixel Representation, [[Paper]](https://arxiv.org/pdf/2401.02931.pdf)
-
+- (arXiv 2024.01) DedustNet: A Frequency-dominated Swin Transformer-based Wavelet Network for Agricultural Dust Removal, [[Paper]](https://arxiv.org/pdf/2401.04750.pdf)
 
 ## Contact & Feedback
 
