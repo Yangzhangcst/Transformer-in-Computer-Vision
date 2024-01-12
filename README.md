@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/11
+**Last updated: 2024/01/12
 
 ## Table of Contents
 
@@ -1626,7 +1626,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Large-scale Graph Representation Learning of Dynamic Brain Connectome with Transformers, [[Paper]](https://arxiv.org/pdf/2312.14939.pdf)
 
 ### Hand Gesture
-- (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density Surface EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
+- (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density  EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
 - (arXiv 2023.07) Uncertainty-aware State Space Transformer for Egocentric 3D Hand Trajectory Forecasting, [[Paper]](https://arxiv.org/pdf/2307.08243.pdf), [[Code]](https://github.com/Cogito2012/USST)
 - (arXiv 2023.08) Nonrigid Object Contact Estimation With Regional Unwrapping Transformer, [[Paper]](https://arxiv.org/pdf/2308.14074.pdf)
 - (arXiv 2023.10) BodyFormer: Semantics-guided 3D Body Gesture Synthesis with Transformer, [[Paper]](https://arxiv.org/pdf/2310.06851.pdf)
@@ -2352,6 +2352,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Vision Transformers and Bi-LSTM for Alzheimer's Disease Diagnosis from 3D MRI, [[Paper]](https://arxiv.org/pdf/2401.03132.pdf)
 - (arXiv 2024.01) Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN, [[Paper]](https://arxiv.org/pdf/2401.05159.pdf)
 - (arXiv 2024.01) Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System, [[Paper]](https://arxiv.org/pdf/2401.04746.pdf)
+- (arXiv 2024.01) Transformer-CNN Fused Architecture for Enhanced Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2401.05481.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2737,6 +2738,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) High-Performance Transformers for Table Structure Recognition Need Early Convolutions, [[Paper]](https://arxiv.org/pdf/2311.05565.pdf), [[Code]](https://github.com/poloclub/tsr-convstem)
 - (arXiv 2023.11) Vulnerability Analysis of Transformer-based Optical Character Recognition to Adversarial Attacks, [[Paper]](https://arxiv.org/pdf/2311.17128.pdf)
 - (arXiv 2023.12) DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization, [[Paper]](https://arxiv.org/pdf/2312.03568.pdf),[[Code]](https://github.com/RisabBiswas/DocBinFormer)
+- (arXiv 2024.01) STR-Cert: Robustness Certification for Deep Text Recognition on Deep Learning Pipelines and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.05338.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -3609,6 +3611,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Learn From Orientation Prior for Radiograph Super-Resolution: Orientation Operator Transformer, [[Paper]](https://arxiv.org/pdf/2312.16455.pdf)
 - (arXiv 2024.01) Image Super-resolution Reconstruction Network based on Enhanced Swin Transformer via Alternating Aggregation of Local-Global Features, [[Paper]](https://arxiv.org/pdf/2401.00241.pdf)
 - (arXiv 2024.01) Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2401.00740.pdf)
+- (arXiv 2024.01) Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach, [[Paper]](https://arxiv.org/pdf/2401.05633.pdf),[[Code]](https://github.com/Aitical/CFSR)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -4334,6 +4337,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) ROI-Aware Multiscale Cross-Attention Vision Transformer for Pest Image Identification, [[Paper]](https://arxiv.org/pdf/2312.16914.pdf)
 - (arXiv 2024.01) SPFormer: Enhancing Vision Transformer with Superpixel Representation, [[Paper]](https://arxiv.org/pdf/2401.02931.pdf)
 - (arXiv 2024.01) DedustNet: A Frequency-dominated Swin Transformer-based Wavelet Network for Agricultural Dust Removal, [[Paper]](https://arxiv.org/pdf/2401.04750.pdf)
+- (arXiv 2024.01) Surface Normal Estimation with Transformers, [[Paper]](https://arxiv.org/pdf/2401.05745.pdf)
 
 ## Contact & Feedback
 
