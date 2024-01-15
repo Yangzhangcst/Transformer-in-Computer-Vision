@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/12
+**Last updated: 2024/01/15
 
 ## Table of Contents
 
@@ -1044,6 +1044,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is, [[Paper]](https://arxiv.org/pdf/2311.13110.pdf), [[Code]](https://ma-lab-berkeley.github.io/CRATE)
 - (arXiv 2023.11) Corner-to-Center Long-range Context Model for Efficient Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2311.18103.pdf)
 - (arXiv 2023.12) Input Compression with Positional Consistency for Efficient Training and Inference of Transformer Neural Networks, [[Paper]](https://arxiv.org/pdf/2312.12385.pdf), [[Code]](https://github.com/amrnag/ICPC)
+- (arXiv 2024.01) UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.06426.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -1383,6 +1384,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Context Enhanced Transformer for Single Image Object Detection, [[Paper]](https://arxiv.org/pdf/2312.14492.pdf), [[Code]](https://ku-cvlab.github.io/CETR)
 - (arXiv 2024.01) TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection, [[Paper]](https://arxiv.org/pdf/2401.02309.pdf), [[Code]](https://github.com/mingyao1120/TR-DETR)
 - (arXiv 2024.01) MS-DETR: Efficient DETR Training with Mixed Supervision, [[Paper]](https://arxiv.org/pdf/2401.03989.pdf)
+- (arXiv 2024.01) YOLO-Former: YOLO Shakes Hand With ViT, [[Paper]](https://arxiv.org/pdf/2401.06244.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2354,6 +2356,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN, [[Paper]](https://arxiv.org/pdf/2401.05159.pdf)
 - (arXiv 2024.01) Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System, [[Paper]](https://arxiv.org/pdf/2401.04746.pdf)
 - (arXiv 2024.01) Transformer-CNN Fused Architecture for Enhanced Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2401.05481.pdf)
+- (arXiv 2024.01) MedTransformer: Accurate AD Diagnosis for 3D MRI Images through 2D Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.06349.pdf)
+- (arXiv 2024.01) D-STGCNT: A Dense Spatio-Temporal Graph Conv-GRU Network based on transformer for assessment of patient physical rehabilitation, [[Paper]](https://arxiv.org/pdf/2401.06150.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2803,7 +2807,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) 4D-Former: Multimodal 4D Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2311.01520.pdf), [[Code]](https://waabi.ai/4dformer)
 - (arXiv 2023.11) MaXTron: Mask Transformer with Trajectory Attention for Video Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2311.18537.pdf), [[Code]](https://github.com/TACJu/MaXTron)
 - (arXiv 2024.01) 3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation, [[Paper]](https://arxiv.org/pdf/2401.02281.pdf)
-  
+- (arXiv 2024.01) Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering, [[Paper]](https://arxiv.org/pdf/2401.06704.pdf), [[Code]](https://github.com/drprojects/superpoint_transformer)
+
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
 - (arXiv 2020.12) Point Transformer, [[Paper]](https://arxiv.org/pdf/2012.09164)
@@ -3614,6 +3619,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Image Super-resolution Reconstruction Network based on Enhanced Swin Transformer via Alternating Aggregation of Local-Global Features, [[Paper]](https://arxiv.org/pdf/2401.00241.pdf)
 - (arXiv 2024.01) Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2401.00740.pdf)
 - (arXiv 2024.01) Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach, [[Paper]](https://arxiv.org/pdf/2401.05633.pdf),[[Code]](https://github.com/Aitical/CFSR)
+- (arXiv 2024.01) Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention, [[Paper]](https://arxiv.org/pdf/2401.06312.pdf),[[Code]](https://github.com/LabShuHangGU/MIA-VSR)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -3774,6 +3780,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) Traffic Sign Recognition Using Local Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.06651.pdf)
 - (arXiv 2023.11) Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent, [[Paper]](https://arxiv.org/pdf/2311.18307.pdf)
 - (arXiv 2024.01) Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2401.04872.pdf)
+- (arXiv 2024.01) Hyper-STTN: Social Group-aware Spatial-Temporal Transformer Network for Human Trajectory Prediction with Hypergraph Reasoning, [[Paper]](https://arxiv.org/pdf/2401.06344.pdf)
 
 ### Transfer learning
 - (arXiv 2021.06) Transformer-Based Source-Free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2105.14138.pdf), [[Code]](https://github.com/ygjwd12345/TransDA)
