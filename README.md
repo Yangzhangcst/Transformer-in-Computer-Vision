@@ -1382,7 +1382,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Explainable Multi-Camera 3D Object Detection with Transformer-Based Saliency Maps, [[Paper]](https://arxiv.org/pdf/2312.14606.pdf)
 - (arXiv 2023.12) Context Enhanced Transformer for Single Image Object Detection, [[Paper]](https://arxiv.org/pdf/2312.14492.pdf), [[Code]](https://ku-cvlab.github.io/CETR)
 - (arXiv 2024.01) TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection, [[Paper]](https://arxiv.org/pdf/2401.02309.pdf), [[Code]](https://github.com/mingyao1120/TR-DETR)
-- (arXiv 2024.01) MS-DETR: Efficient DETR Training with Mixed Supervision, [[Paper]](https://arxiv.org/pdf/2401.03989.pdf), [[Code]](https://github.com/mingyao1120/TR-DETR)
+- (arXiv 2024.01) MS-DETR: Efficient DETR Training with Mixed Supervision, [[Paper]](https://arxiv.org/pdf/2401.03989.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1497,6 +1497,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) Fast and Interpretable Face Identification for Out-Of-Distribution Data Using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2311.02803.pdf),[[Code]](https://github.com/anguyen8/face-vit)
 - (arXiv 2023.12) Hypergraph-Guided Disentangled Spectrum Transformer Networks for Near-Infrared Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2312.05907.pdf)
 - (arXiv 2023.12) Modality-Collaborative Transformer with Hybrid Feature Reconstruction for Robust Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2312.15848.pdf)
+- (arXiv 2024.01) CATFace: Cross-Attribute-Guided Transformer with Self-Attention Distillation for Low-Quality Face Recognition, [[Paper]](https://arxiv.org/pdf/2401.03037.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -2612,6 +2613,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Human-Centric Perception,  [[Paper]](https://arxiv.org/pdf/2312.05525.pdf)
 - (arXiv 2023.12) VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation,  [[Paper]](https://arxiv.org/pdf/2312.09251.pdf)
 - (arXiv 2024.01) Multimodal Informative ViT: Information Aggregation and Distribution for Hyperspectral and LiDAR Classification,  [[Paper]](https://arxiv.org/pdf/2401.03179.pdf), [[Code]](https://github.com/icey-zhang/MIViT)
+- (arXiv 2024.01) SeTformer is What You Need for Vision and Language,  [[Paper]](https://arxiv.org/pdf/2401.03540.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
