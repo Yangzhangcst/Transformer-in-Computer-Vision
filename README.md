@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/15
+**Last updated: 2024/01/17
 
 ## Table of Contents
 
@@ -117,6 +117,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - [Contact & Feedback](#contact--feedback)
   
 ## Survey: 
+- (arXiv 2024.01) Transformer for Object Re-Identification: A Survey. [[Paper]](https://arxiv.org/pdf/2401.06960.pdf)
+
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
 
 - (arXiv 2023.12) A Recent Survey of Vision Transformers for Medical Image Segmentation. [[Paper]](https://arxiv.org/pdf/2312.00634.pdf)
@@ -316,6 +318,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) REACT: Recognize Every Action Everywhere All At Once, [[Paper]](https://arxiv.org/pdf/2312.00188.pdf)
 - (arXiv 2023.12) Adapting Short-Term Transformers for Action Detection in Untrimmed Videos, [[Paper]](https://arxiv.org/pdf/2312.00188.pdf)
 - (arXiv 2023.12) STEP CATFormer: Spatial-Temporal Effective Body-Part Cross Attention Transformer for Skeleton-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2312.03288.pdf),[[Code]](https://github.com/maclong01/STEP-CATFormer)
+- (arXiv 2024.01) Multi-view Distillation based on Multi-modal Fusion for Few-shot Action Recognition, [[Paper]](https://arxiv.org/pdf/2401.08345.pdf),[[Code]](https://github.com/cofly2014/MDMF)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -385,6 +388,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.05) Blind Image Quality Assessment via Transformer Predicted Error Map and Perceptual Quality Token, [[Paper]](https://arxiv.org/pdf/2305.09353.pdf), [[Code]](https://github.com/Srache/TempQT)
 - (arXiv 2023.08) Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2308.12001.pdf)
 - (arXiv 2023.12) Activating Frequency and ViT for 3D Point Cloud Quality Assessment without Reference, [[Paper]](https://arxiv.org/pdf/2312.05972.pdf), [[Code]](https://github.com/o-messai/3D-PCQA)
+- (arXiv 2024.01) Video Quality Assessment Based on Swin TransformerV2 and Coarse to Fine Strategy, [[Paper]](https://arxiv.org/pdf/2401.08522.pdf), [[Code]](https://github.com/o-messai/3D-PCQA)
 
 ### Augmentation 
 - (arXiv 2022.10) TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers, [[Paper]](https://arxiv.org/pdf/2210.07562.pdf), [[Code]](https://github.com/mlvlab/TokenMixup)
@@ -1385,6 +1389,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) TR-DETR: Task-Reciprocal Transformer for Joint Moment Retrieval and Highlight Detection, [[Paper]](https://arxiv.org/pdf/2401.02309.pdf), [[Code]](https://github.com/mingyao1120/TR-DETR)
 - (arXiv 2024.01) MS-DETR: Efficient DETR Training with Mixed Supervision, [[Paper]](https://arxiv.org/pdf/2401.03989.pdf)
 - (arXiv 2024.01) YOLO-Former: YOLO Shakes Hand With ViT, [[Paper]](https://arxiv.org/pdf/2401.06244.pdf)
+- (arXiv 2024.01) Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion, [[Paper]](https://arxiv.org/pdf/2401.08017.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1627,6 +1632,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) GMTR: Graph Matching Transformers, [[Paper]](https://arxiv.org/pdf/2311.08141.pdf)
 - (arXiv 2023.12) GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2312.04479.pdf)
 - (arXiv 2023.12) Large-scale Graph Representation Learning of Dynamic Brain Connectome with Transformers, [[Paper]](https://arxiv.org/pdf/2312.14939.pdf)
+- (arXiv 2024.01) Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation, [[Paper]](https://arxiv.org/pdf/2401.07721.pdf)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density  EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -1847,6 +1853,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) AI-SAM: Automatic and Interactive Segment Anything Model, [[Paper]](https://arxiv.org/pdf/2312.03119.pdf), [[Code]](https://github.com/ymp5078/AI-SAM)
 - (arXiv 2023.12) MobileSAMv2: Faster Segment Anything to Everything, [[Paper]](https://arxiv.org/abs/2312.09579),[[Code]](https://github.com/ChaoningZhang/MobileSAM)
 - (arXiv 2023.12) MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices, [[Paper]](https://arxiv.org/abs/2312.16886),[[Code]](https://github.com/Meituan-AutoML/MobileVLM)
+- (arXiv 2024.01) One for All: Toward Unified Foundation Models for Earth Vision, [[Paper]](https://arxiv.org/abs/2401.07527)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2745,6 +2752,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) Vulnerability Analysis of Transformer-based Optical Character Recognition to Adversarial Attacks, [[Paper]](https://arxiv.org/pdf/2311.17128.pdf)
 - (arXiv 2023.12) DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization, [[Paper]](https://arxiv.org/pdf/2312.03568.pdf),[[Code]](https://github.com/RisabBiswas/DocBinFormer)
 - (arXiv 2024.01) STR-Cert: Robustness Certification for Deep Text Recognition on Deep Learning Pipelines and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.05338.pdf)
+- (arXiv 2024.01) SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting, [[Paper]](https://arxiv.org/pdf/2401.07641.pdf),[[Code]](https://github.com/mxin262/SwinTextSpotterv2)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -2930,6 +2938,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Point Transformer V3: Simpler, Faster, Stronger, [[Paper]](https://arxiv.org/pdf/2312.10035.pdf), [[Code]](https://github.com/Pointcept/PointTransformerV3)
 - (arXiv 2023.12) ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2312.11112.pdf), [[Code]](https://github.com/LHDuan/ConDaFormer)
 - (arXiv 2023.12) Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding, [[Paper]](https://arxiv.org/pdf/2312.16477.pdf)
+- (arXiv 2024.01) 3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework, [[Paper]](https://arxiv.org/pdf/2401.07251.pdf)
+- (arXiv 2024.01) CascadeV-Det: Cascade Point Voting for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2401.07477.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3620,6 +3630,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Beyond Subspace Isolation: Many-to-Many Transformer for Light Field Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2401.00740.pdf)
 - (arXiv 2024.01) Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach, [[Paper]](https://arxiv.org/pdf/2401.05633.pdf),[[Code]](https://github.com/Aitical/CFSR)
 - (arXiv 2024.01) Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention, [[Paper]](https://arxiv.org/pdf/2401.06312.pdf),[[Code]](https://github.com/LabShuHangGU/MIA-VSR)
+- (arXiv 2024.01) Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary, [[Paper]](https://arxiv.org/pdf/2401.08209.pdf),[[Code]](https://github.com/LabShuHangGU/Adaptive-Token-Dictionary)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
@@ -3998,6 +4009,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) GloTSFormer: Global Video Text Spotting Transformer, [[Paper]](https://arxiv.org/pdf/2401.03694.pdf)
 - (arXiv 2024.01) Latte: Latent Diffusion Transformer for Video Generation, [[Paper]](https://arxiv.org/pdf/2401.03048.pdf), [[Code]](https://maxin-cn.github.io/latte_project)
 - (arXiv 2024.01) HaltingVT: Adaptive Token Halting Transformer for Efficient Video Recognition, [[Paper]](https://arxiv.org/pdf/2401.04975.pdf), [[Code]](https://github.com/dun-research/HaltingVT)
+- (arXiv 2024.01) Transformer-based Video Saliency Prediction with High Temporal Dimension Decoding, [[Paper]](https://arxiv.org/pdf/2401.07942.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
