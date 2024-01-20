@@ -1612,6 +1612,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.08) Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts, [[Paper]](https://arxiv.org/pdf/2308.11793.pdf), [[Code]](https://github.com/VITA-Group/GNT-MOVE)
 - (arXiv 2023.10) Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2310.05400.pdf)
 - (arXiv 2023.12) GIVT: Generative Infinite-Vocabulary Transformers, [[Paper]](https://arxiv.org/pdf/2312.02116.pdf)
+- (arXiv 2024.01) Efficient generative adversarial networks using linear additive-attention Transformers, [[Paper]](https://arxiv.org/pdf/2401.09596.pdf)
 
 ### Graph
 - (arXiv 2022.09) Graph Reasoning Transformer for Image Parsing, [[Paper]](https://arxiv.org/pdf/2209.09545.pdf)
@@ -1854,7 +1855,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) AI-SAM: Automatic and Interactive Segment Anything Model, [[Paper]](https://arxiv.org/pdf/2312.03119.pdf), [[Code]](https://github.com/ymp5078/AI-SAM)
 - (arXiv 2023.12) MobileSAMv2: Faster Segment Anything to Everything, [[Paper]](https://arxiv.org/abs/2312.09579),[[Code]](https://github.com/ChaoningZhang/MobileSAM)
 - (arXiv 2023.12) MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices, [[Paper]](https://arxiv.org/abs/2312.16886),[[Code]](https://github.com/Meituan-AutoML/MobileVLM)
-- (arXiv 2024.01) One for All: Toward Unified Foundation Models for Earth Vision, [[Paper]](https://arxiv.org/abs/2401.07527)
+- (arXiv 2024.01) One for All: Toward Unified Foundation Models for Earth Vision, [[Paper]](https://arxiv.org/pdf/2401.07527.pdf)
+- (arXiv 2024.01) RAP-SAM: Towards Real-Time All-Purpose Segment Anything, [[Paper]](https://arxiv.org/pdf/2401.10228.pdf), [[Code]](https://github.com/xushilin1/RAP-SAM/)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2367,6 +2369,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) MedTransformer: Accurate AD Diagnosis for 3D MRI Images through 2D Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.06349.pdf)
 - (arXiv 2024.01) D-STGCNT: A Dense Spatio-Temporal Graph Conv-GRU Network based on transformer for assessment of patient physical rehabilitation, [[Paper]](https://arxiv.org/pdf/2401.06150.pdf)
 - (arXiv 2024.01) B-Cos Aligned Transformers Learn Human-Interpretable Features, [[Paper]](https://arxiv.org/pdf/2401.08868.pdf)
+- (arXiv 2024.01) Triamese-ViT: A 3D-Aware Method for Robust Brain Age Estimation from MRIs, [[Paper]](https://arxiv.org/pdf/2401.09475.pdf)
+- (arXiv 2024.01) MedBlindTuner: Towards Privacy-preserving Fine-tuning on Biomedical Images with Transformers and Fully Homomorphic Encryption, [[Paper]](https://arxiv.org/pdf/2401.09604.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
