@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/17
+**Last updated: 2024/01/20
 
 ## Table of Contents
 
@@ -1151,6 +1151,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.09) Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models, [[Paper]](https://arxiv.org/pdf/2309.08251.pdf), [[Project]](https://cartoondiff.github.io/)
 - (arXiv 2023.12) DiffiT: Diffusion Vision Transformers for Image Generation, [[Paper]](https://arxiv.org/pdf/2312.02139.pdf)
 - (arXiv 2023.12) DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2312.06400.pdf)
+- (arXiv 2024.01) SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers, [[Paper]](https://arxiv.org/pdf/2401.08740.pdf), [[Code]](https://github.com/willisma/SiT)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -2365,6 +2366,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Transformer-CNN Fused Architecture for Enhanced Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2401.05481.pdf)
 - (arXiv 2024.01) MedTransformer: Accurate AD Diagnosis for 3D MRI Images through 2D Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.06349.pdf)
 - (arXiv 2024.01) D-STGCNT: A Dense Spatio-Temporal Graph Conv-GRU Network based on transformer for assessment of patient physical rehabilitation, [[Paper]](https://arxiv.org/pdf/2401.06150.pdf)
+- (arXiv 2024.01) B-Cos Aligned Transformers Learn Human-Interpretable Features, [[Paper]](https://arxiv.org/pdf/2401.08868.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2753,6 +2755,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) DocBinFormer: A Two-Level Transformer Network for Effective Document Image Binarization, [[Paper]](https://arxiv.org/pdf/2312.03568.pdf),[[Code]](https://github.com/RisabBiswas/DocBinFormer)
 - (arXiv 2024.01) STR-Cert: Robustness Certification for Deep Text Recognition on Deep Learning Pipelines and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.05338.pdf)
 - (arXiv 2024.01) SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting, [[Paper]](https://arxiv.org/pdf/2401.07641.pdf),[[Code]](https://github.com/mxin262/SwinTextSpotterv2)
+- (arXiv 2024.01) Dynamic Relation Transformer for Contextual Text Block Detection, [[Paper]](https://arxiv.org/pdf/2401.09232.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
