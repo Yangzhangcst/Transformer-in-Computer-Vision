@@ -3832,6 +3832,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) Mean Teacher DETR with Masked Feature Alignment: A Robust Domain Adaptive Detection Transformer Framework, [[Paper]](https://arxiv.org/pdf/2310.15646.pdf)
 - (arXiv 2023.11) Improving Source-Free Target Adaptation with Vision Transformers Leveraging Domain Representation Images, [[Paper]](https://arxiv.org/pdf/2311.12589.pdf)
 - (arXiv 2024.01) Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.05126.pdf)
+- (arXiv 2024.01) BlenDA: Domain Adaptive Object Detection through diffusion-based blending, [[Paper]](https://arxiv.org/pdf/2401.09921.pdf), [[Code]](https://github.com/aiiu-lab/BlenDA)
 
 ### Translation
 - (arXiv 2021.10) Tensor-to-Image: Image-to-Image Translation with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2110.08037.pdf)
