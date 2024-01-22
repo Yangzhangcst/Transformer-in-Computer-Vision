@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/20
+**Last updated: 2024/01/22
 
 ## Table of Contents
 
@@ -2359,7 +2359,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, [[Paper]](https://arxiv.org/pdf/2312.09022.pdf)
 - (arXiv 2023.12) Glioblastoma Tumor Segmentation using an Ensemble of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.11467.pdf)
 - (arXiv 2023.12) Hierarchical Vision Transformers for Context-Aware Prostate Cancer Grading in Whole Slide Images, [[Paper]](https://arxiv.org/pdf/2312.12619.pdf)
-- (arXiv 2024.01) BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.00722.pdf)，[[Code]](https://github.com/Caipengzhou/BRAU-Netplusplus)
+- (arXiv 2024.01) BRAU-Net++: U-Shaped Hybrid CNN-Transformer Network for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.00722.pdf), [[Code]](https://github.com/Caipengzhou/BRAU-Netplusplus)
 - (arXiv 2024.01) Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases, [[Paper]](https://arxiv.org/pdf/2401.00926.pdf)，[[Code]](https://github.com/JustlfC03/MFDS-DETR)
 - (arXiv 2024.01) A novel method to enhance pneumonia detection via a model-level ensembling of CNN and vision transformer, [[Paper]](https://arxiv.org/pdf/2401.02358.pdf)
 - (arXiv 2024.01) Vision Transformers and Bi-LSTM for Alzheimer's Disease Diagnosis from 3D MRI, [[Paper]](https://arxiv.org/pdf/2401.03132.pdf)
@@ -2371,6 +2371,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) B-Cos Aligned Transformers Learn Human-Interpretable Features, [[Paper]](https://arxiv.org/pdf/2401.08868.pdf)
 - (arXiv 2024.01) Triamese-ViT: A 3D-Aware Method for Robust Brain Age Estimation from MRIs, [[Paper]](https://arxiv.org/pdf/2401.09475.pdf)
 - (arXiv 2024.01) MedBlindTuner: Towards Privacy-preserving Fine-tuning on Biomedical Images with Transformers and Fully Homomorphic Encryption, [[Paper]](https://arxiv.org/pdf/2401.09604.pdf)
+- (arXiv 2024.01) M2ORT: Many-To-One Regression Transformer for Spatial Transcriptomics Prediction from Histopathology Images, [[Paper]](https://arxiv.org/pdf/2401.10608.pdf), [[Code]](https://github.com/Dootmaan/M2ORT/)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3351,6 +3352,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding, [[Paper]](https://arxiv.org/pdf/2311.03427.pdf),[[Code]](https://github.com/tb2-sy/TSP-Transformer)
 - (arXiv 2023.11) VLPrompt: Vision-Language Prompting for Panoptic Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2311.16492.pdf)
 - (arXiv 2023.12) Gaussian Grouping: Segment and Edit Anything in 3D Scenes, [[Paper]](https://arxiv.org/pdf/2312.00732.pdf),[[Code]](https://github.com/lkeab/gaussian-grouping)
+- (arXiv 2024.01) Dream360: Diverse and Immersive Outdoor Virtual Scene Creation via Transformer-Based 360 Image Outpainting, [[Paper]](https://arxiv.org/pdf/2401.10564.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -4018,6 +4020,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Latte: Latent Diffusion Transformer for Video Generation, [[Paper]](https://arxiv.org/pdf/2401.03048.pdf), [[Code]](https://maxin-cn.github.io/latte_project)
 - (arXiv 2024.01) HaltingVT: Adaptive Token Halting Transformer for Efficient Video Recognition, [[Paper]](https://arxiv.org/pdf/2401.04975.pdf), [[Code]](https://github.com/dun-research/HaltingVT)
 - (arXiv 2024.01) Transformer-based Video Saliency Prediction with High Temporal Dimension Decoding, [[Paper]](https://arxiv.org/pdf/2401.07942.pdf)
+- (arXiv 2024.01) Understanding Video Transformers via Universal Concept Discovery, [[Paper]](https://arxiv.org/pdf/2401.10831.pdf), [[Code]](https://yorkucvil.github.io/VTCD)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
