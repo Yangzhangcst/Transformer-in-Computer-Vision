@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/22
+**Last updated: 2024/01/24
 
 ## Table of Contents
 
@@ -2372,6 +2372,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Triamese-ViT: A 3D-Aware Method for Robust Brain Age Estimation from MRIs, [[Paper]](https://arxiv.org/pdf/2401.09475.pdf)
 - (arXiv 2024.01) MedBlindTuner: Towards Privacy-preserving Fine-tuning on Biomedical Images with Transformers and Fully Homomorphic Encryption, [[Paper]](https://arxiv.org/pdf/2401.09604.pdf)
 - (arXiv 2024.01) M2ORT: Many-To-One Regression Transformer for Spatial Transcriptomics Prediction from Histopathology Images, [[Paper]](https://arxiv.org/pdf/2401.10608.pdf), [[Code]](https://github.com/Dootmaan/M2ORT/)
+- (arXiv 2024.01) Friends Across Time: Multi-Scale Action Segmentation Transformer for Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2401.11644.pdf)
+- (arXiv 2024.01) MAST: Video Polyp Segmentation with a Mixture-Attention Siamese Transformer, [[Paper]](https://arxiv.org/pdf/2401.12439.pdf), [[Code]](https://github.com/Junqing-Yang/MAST)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3764,6 +3766,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking, [[Paper]](https://arxiv.org/pdf/2312.11051.pdf), [[Code]](https://github.com/liangp/MCSTN-3DSOT)
 - (arXiv 2023.12) Transformer Network for Multi-Person Tracking and Re-Identification in Unconstrained Environment, [[Paper]](https://arxiv.org/pdf/2312.11929.pdf)
 - (arXiv 2024.01) Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens, [[Paper]](https://arxiv.org/pdf/2401.01674.pdf)
+- (arXiv 2024.01) Correlation-Embedded Transformer Tracking: A Single-Branch Framework, [[Paper]](https://arxiv.org/pdf/2401.12743.pdf), [[Code]](https://github.com/phiphiphi31/SBT)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
@@ -4096,6 +4099,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.05) PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer, [[Paper]](https://arxiv.org/pdf/2305.06621.pdf), [[Code]](https://github.com/Nightmare-n/PVT-SSD)
 - (arXiv 2023.08) Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification, [[Paper]](https://arxiv.org/pdf/2308.11937.pdf), [[Code]](https://github.com/Event-AHU/EFV_event_classification)
 - (arXiv 2024.01) ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention, [[Paper]](https://arxiv.org/pdf/2401.00912.pdf), [[Code]](https://github.com/skyhehe123/ScatterFormer)
+- (arXiv 2024.01) MsSVT++: Mixed-scale Sparse Voxel Transformer with Center Voting for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2401.11718.pdf)
 
 ### Weakly Supervised Learning
 - (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
