@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/24
+**Last updated: 2024/01/25
 
 ## Table of Contents
 
@@ -1152,6 +1152,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) DiffiT: Diffusion Vision Transformers for Image Generation, [[Paper]](https://arxiv.org/pdf/2312.02139.pdf)
 - (arXiv 2023.12) DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2312.06400.pdf)
 - (arXiv 2024.01) SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers, [[Paper]](https://arxiv.org/pdf/2401.08740.pdf), [[Code]](https://github.com/willisma/SiT)
+- (arXiv 2024.01) Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2401.11605.pdf), [[Code]](https://crowsonkb.github.io/hourglass-diffusion-transformers)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -1512,6 +1513,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.06) FeSViBS: Federated Split Learning of Vision Transformer with Block Sampling, [[Paper]](https://arxiv.org/pdf/2306.14638.pdf),[[Code]](https://github.com/faresmalik/FeSViBS)
 - (arXiv 2023.08) Pelta: Shielding Transformers to Mitigate Evasion Attacks in Federated Learning, [[Paper]](https://arxiv.org/pdf/2308.04373.pdf)
 - (arXiv 2023.08) FedPerfix: Towards Partial Model Personalization of Vision Transformers in Federated Learning, [[Paper]](https://arxiv.org/pdf/2308.09160.pdf), [[Code]](https://github.com/imguangyu/FedPerfix)
+- (arXiv 2024.01) OnDev-LCT: On-Device Lightweight Convolutional Transformers towards federated learning, [[Paper]](https://arxiv.org/pdf/2401.11652pdf)
 
 ### Few-shot Learning
 - (arXiv 2021.04) Rich Semantics Improve Few-shot Learning, [[Paper]](https://arxiv.org/pdf/2104.12709.pdf), [[Code]](https://github.com/MohamedAfham/RS_FSL)
@@ -2374,6 +2376,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) M2ORT: Many-To-One Regression Transformer for Spatial Transcriptomics Prediction from Histopathology Images, [[Paper]](https://arxiv.org/pdf/2401.10608.pdf), [[Code]](https://github.com/Dootmaan/M2ORT/)
 - (arXiv 2024.01) Friends Across Time: Multi-Scale Action Segmentation Transformer for Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2401.11644.pdf)
 - (arXiv 2024.01) MAST: Video Polyp Segmentation with a Mixture-Attention Siamese Transformer, [[Paper]](https://arxiv.org/pdf/2401.12439.pdf), [[Code]](https://github.com/Junqing-Yang/MAST)
+- (arXiv 2024.01) RTA-Former: Reverse Transformer Attention for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2401.11671.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3093,6 +3096,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.09) Transformer-VQ: Linear-Time Transformers via Vector Quantization,  [[Paper]](https://arxiv.org/pdf/2309.16354.pdf), [[Code]](https://github.com/transformer-vq/transformer_vq)
 - (arXiv 2023.10) LLM-FP4: 4-Bit Floating-Point Quantized Transformers, [[Paper]](https://arxiv.org/pdf/2310.16836.pdf), [[Code]](https://github.com/nbasyl/LLM-FP4)
 - (arXiv 2023.12) QuantAttack: Exploiting Dynamic Quantization to Attack Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.02220.pdf)
+- (arXiv 2024.01) LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation, [[Paper]](https://arxiv.org/pdf/2401.11243.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -3355,6 +3359,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) VLPrompt: Vision-Language Prompting for Panoptic Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2311.16492.pdf)
 - (arXiv 2023.12) Gaussian Grouping: Segment and Edit Anything in 3D Scenes, [[Paper]](https://arxiv.org/pdf/2312.00732.pdf),[[Code]](https://github.com/lkeab/gaussian-grouping)
 - (arXiv 2024.01) Dream360: Diverse and Immersive Outdoor Virtual Scene Creation via Transformer-Based 360 Image Outpainting, [[Paper]](https://arxiv.org/pdf/2401.10564.pdf)
+- (arXiv 2024.01) SGTR+: End-to-end Scene Graph Generation with Transformer, [[Paper]](https://arxiv.org/pdf/2401.12835.pdf),[[Code]](https://github.com/Scarecrow0/SGTR)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -3550,6 +3555,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) GIFT: Generative Interpretable Fine-Tuning Transformers, [[Paper]](https://arxiv.org/pdf/2312.00700.pdf), [[Code]](https://savadikarc.github.io/gift)
 - (arXiv 2023.12) U-MixFormer: UNet-like Transformer with Mix-Attention for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2312.06272.pdf), [[Code]](https://github.com/julian-klitzing/u-mixformer)
 - (arXiv 2023.12) SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation, [[Paper]](https://arxiv.org/pdf/2312.17071.pdf), [[Code]](https://github.com/xzz777/SCTNet)
+- (arXiv 2024.01) DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf//2401.12820.pdf), [[Code]](https://github.com/xzz777/SCTNet)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -3571,6 +3577,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arxiv 2023.11) SparseSpikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer,  [[Paper]](https://arxiv.org/pdf/2311.08806.pdf)
 - (arxiv 2023.11) Spiking Neural Networks with Dynamic Time Steps for Vision Transformers,  [[Paper]](https://arxiv.org/pdf/2311.16456.pdf)
 - (arxiv 2024.01) Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket,  [[Paper]](https://arxiv.org/pdf/2401.02020.pdf)
+- (arxiv 2024.01) TIM: An Efficient Temporal Interaction Module for Spiking Transformer,  [[Paper]](https://arxiv.org/pdf/2401.11687.pdf)
 
 ### Style Transfer
 - (arXiv 2022.10) Fine-Grained Image Style Transfer with Visual Transformers,  [[Paper]](https://arxiv.org/abs/2210.05176), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
@@ -3642,6 +3649,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Transforming Image Super-Resolution: A ConvFormer-based Efficient Approach, [[Paper]](https://arxiv.org/pdf/2401.05633.pdf),[[Code]](https://github.com/Aitical/CFSR)
 - (arXiv 2024.01) Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention, [[Paper]](https://arxiv.org/pdf/2401.06312.pdf),[[Code]](https://github.com/LabShuHangGU/MIA-VSR)
 - (arXiv 2024.01) Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary, [[Paper]](https://arxiv.org/pdf/2401.08209.pdf),[[Code]](https://github.com/LabShuHangGU/Adaptive-Token-Dictionary)
+- (arXiv 2024.01) LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2401.11589.pdf),[[Code]](https://github.com/sad192/large-kernel-Transformer)
 
 ### Synthesis
 - (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
