@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/25
+**Last updated: 2024/01/26
 
 ## Table of Contents
 
@@ -2637,6 +2637,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation,  [[Paper]](https://arxiv.org/pdf/2312.09251.pdf)
 - (arXiv 2024.01) Multimodal Informative ViT: Information Aggregation and Distribution for Hyperspectral and LiDAR Classification,  [[Paper]](https://arxiv.org/pdf/2401.03179.pdf), [[Code]](https://github.com/icey-zhang/MIViT)
 - (arXiv 2024.01) SeTformer is What You Need for Vision and Language,  [[Paper]](https://arxiv.org/pdf/2401.03540.pdf)
+- (arXiv 2024.01) Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities,  [[Paper]](https://arxiv.org/pdf/2401.14405.pdf), [[Code]](https://github.com/AILab-CVC/M2PT)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -3128,6 +3129,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) ClusVPR: Efficient Visual Place Recognition with Clustering-based Weighted Transformer, [[Paper]](https://arxiv.org/pdf/2310.04099.pdf), [[Code]](https://github.com/surbhimadan92/MAGIC-TBR)
 - (arXiv 2023.10) FaultSeg Swin-UNETR: Transformer-Based Self-Supervised Pretraining Model for Fault Recognition, [[Paper]](https://arxiv.org/pdf/2310.17974.pdf)
 - (arXiv 2023.12) Are Vision Transformers More Data Hungry Than Newborn Visual Systems, [[Paper]](https://arxiv.org/pdf/2312.02843.pdf)
+- (arXiv 2024.01) PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion, [[Paper]](https://arxiv.org/pdf/2401.13082.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
