@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/26
+**Last updated: 2024/01/29
 
 ## Table of Contents
 
@@ -1722,6 +1722,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.08) Introducing Language Guidance in Prompt-based Continual Learning, [[Paper]](https://arxiv.org/pdf/2308.15827.pdf)
 - (arXiv 2023.11) CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning, [[Paper]](https://arxiv.org/pdf/2311.13263.pdf)
 - (arXiv 2023.12) Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning, [[Paper]](https://arxiv.org/pdf/2312.12722.pdf), [[Code]](https://github.com/scok30/)
+- (arXiv 2024.01) PL-FSCIL: Harnessing the Power of Prompts for Few-Shot Class-Incremental Learning, [[Paper]](https://arxiv.org/pdf/2401.14807.pdf), [[Code]](https://github.com/TianSongS/PL-FSCIL)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -2954,6 +2955,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding, [[Paper]](https://arxiv.org/pdf/2312.16477.pdf)
 - (arXiv 2024.01) 3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework, [[Paper]](https://arxiv.org/pdf/2401.07251.pdf)
 - (arXiv 2024.01) CascadeV-Det: Cascade Point Voting for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2401.07477.pdf)
+- (arXiv 2024.01) Adaptive Point Transformer, [[Paper]](https://arxiv.org/pdf/2401.14845.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3098,6 +3100,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) LLM-FP4: 4-Bit Floating-Point Quantized Transformers, [[Paper]](https://arxiv.org/pdf/2310.16836.pdf), [[Code]](https://github.com/nbasyl/LLM-FP4)
 - (arXiv 2023.12) QuantAttack: Exploiting Dynamic Quantization to Attack Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.02220.pdf)
 - (arXiv 2024.01) LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation, [[Paper]](https://arxiv.org/pdf/2401.11243.pdf)
+- (arXiv 2024.01) MPTQ-ViT: Mixed-Precision Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.14895.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -3296,6 +3299,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) Knolling bot: A Transformer-based Approach to Organizing a Messy Table, [[Paper]](https://arxiv.org/pdf/2310.04566.pdf)
 - (arXiv 2023.11) M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place, [[Paper]](https://arxiv.org/pdf/2311.00926.pdf), [[Project]](https://m2-t2.github.io/)
 - (arXiv 2023.11) FViT-Grasp: Grasping Objects With Using Fast Vision Transformers, [[Paper]](https://arxiv.org/pdf/2311.13986.pdf)
+- (arXiv 2024.01) MResT: Multi-Resolution Sensing for Real-Time Control with Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2401.14502.pdf), [[Code]](http://tinyurl.com/multi-res-realtime-control)
 
 ### Salient Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
@@ -4034,6 +4038,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) HaltingVT: Adaptive Token Halting Transformer for Efficient Video Recognition, [[Paper]](https://arxiv.org/pdf/2401.04975.pdf), [[Code]](https://github.com/dun-research/HaltingVT)
 - (arXiv 2024.01) Transformer-based Video Saliency Prediction with High Temporal Dimension Decoding, [[Paper]](https://arxiv.org/pdf/2401.07942.pdf)
 - (arXiv 2024.01) Understanding Video Transformers via Universal Concept Discovery, [[Paper]](https://arxiv.org/pdf/2401.10831.pdf), [[Code]](https://yorkucvil.github.io/VTCD)
+- (arXiv 2024.01) VJT: A Video Transformer on Joint Tasks of Deblurring, Low-light Enhancement and Denoising, [[Paper]](https://arxiv.org/pdf/2401.14754.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
