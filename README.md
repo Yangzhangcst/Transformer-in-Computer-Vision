@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/29
+**Last updated: 2024/01/30
 
 ## Table of Contents
 
@@ -999,6 +999,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Merging Vision Transformers from Different Tasks and Domains, [[Paper]](https://arxiv.org/pdf/2312.16240.pdf)
 - (arXiv 2023.12) Universal Pyramid Adversarial Training for Improved ViT Performance, [[Paper]](https://arxiv.org/pdf/2312.16339.pdf)
 - (arXiv 2024.01) Token Propagation Controller for Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.01470.pdf)
+- (arXiv 2024.01) Intriguing Equivalence Structures of the Embedding Space of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.15568.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1392,6 +1393,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) MS-DETR: Efficient DETR Training with Mixed Supervision, [[Paper]](https://arxiv.org/pdf/2401.03989.pdf)
 - (arXiv 2024.01) YOLO-Former: YOLO Shakes Hand With ViT, [[Paper]](https://arxiv.org/pdf/2401.06244.pdf)
 - (arXiv 2024.01) Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion, [[Paper]](https://arxiv.org/pdf/2401.08017.pdf)
+- (arXiv 2024.01) SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2401.15583.pdf), [[Code]](https://github.com/xdFai)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1419,6 +1421,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) A Layer-Wise Tokens-to-Token Transformer Network for Improved Historical Document Image Enhancement, [[Paper]](https://arxiv.org/pdf/2312.03946.pdf), [[Code]](https://github.com/RisabBiswas/T2T-BinFormer)
 - (arXiv 2023.12) Transformer-based No-Reference Image Quality Assessment via Supervised Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2312.06995.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/SaTQA)
 - (arXiv 2023.12) A Non-Uniform Low-Light Image Enhancement Method with Multi-Scale Attention Transformer and Luminance Consistency Loss, [[Paper]](https://arxiv.org/pdf/2312.16498.pdf), [[Code]](https://github.com/fang001021/MSATr)
+- (arXiv 2024.01) LYT-Net: Lightweight YUV Transformer-based Network for Low-Light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2401.15204.pdf), [[Code]](https://github.com/albrateanu/LYT-Net)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -1698,7 +1701,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) Multiview Transformer: Rethinking Spatial Information in Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2310.07186.pdf)
 - (arXiv 2023.10) MLP-AMDC: An MLP Architecture for Adaptive-Mask-based Dual-Camera snapshot hyperspectral imaging, [[Paper]](https://arxiv.org/pdf/2310.08002.pdf), [[Code]](https://github.com/caizeyu1992/MLP-AMDC)
 - (arXiv 2023.11) Learning transformer-based heterogeneously salient graph representation for multimodal fusion classification of hyperspectral image and LiDAR data, [[Paper]](https://arxiv.org/pdf/2311.10320.pdf)
-- (arXiv 2023.12) Pixel-to-Abundance Translation: Conditional Generative Adversarial Networks Based on Patch Transformer for Hyperspectral Unmixing, [[Paper]](https://arxiv.org/pdf/2312.13127.pdf)
+- (arXiv 2023.12) Pixel-to-Abundance Translation: Conditional Generative Adversarial Networks Based on Patch Transformer for Hyperspectral Unmixing, [[Paper]](https://arxiv.org/pdf/2401.15275.pdf)
 
 ### Illumination
 - (arXiv 2022.05) Illumination Adaptive Transformer, [[Paper]](https://arxiv.org/pdf/2205.14871.pdf), [[Code]](https://github.com/caiyuanhao1998/MST-plus-plus)
@@ -1723,6 +1726,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning, [[Paper]](https://arxiv.org/pdf/2311.13263.pdf)
 - (arXiv 2023.12) Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning, [[Paper]](https://arxiv.org/pdf/2312.12722.pdf), [[Code]](https://github.com/scok30/)
 - (arXiv 2024.01) PL-FSCIL: Harnessing the Power of Prompts for Few-Shot Class-Incremental Learning, [[Paper]](https://arxiv.org/pdf/2401.14807.pdf), [[Code]](https://github.com/TianSongS/PL-FSCIL)
+- (arXiv 2024.01) Dynamic Transformer Architecture for Continual Learning of Multimodal Tasks, [[Paper]](https://arxiv.org/pdf/2401.14807.pdf), [[Code]](https://github.com/TianSongS/PL-FSCIL)
 
 ### In-painting
 - (ECCV'20) Learning Joint Spatial-Temporal Transformations for Video Inpainting, [[Paper]](https://arxiv.org/abs/2007.10247), [[Code]](https://github.com/researchmm/STTN)
@@ -3133,6 +3137,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) FaultSeg Swin-UNETR: Transformer-Based Self-Supervised Pretraining Model for Fault Recognition, [[Paper]](https://arxiv.org/pdf/2310.17974.pdf)
 - (arXiv 2023.12) Are Vision Transformers More Data Hungry Than Newborn Visual Systems, [[Paper]](https://arxiv.org/pdf/2312.02843.pdf)
 - (arXiv 2024.01) PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion, [[Paper]](https://arxiv.org/pdf/2401.13082.pdf)
+- (arXiv 2024.01) Regressing Transformers for Data-efficient Visual Place Recognition, [[Paper]](https://arxiv.org/pdf/2401.16304.pdf)
+- (arXiv 2024.01) A New Method for Vehicle Logo Recognition Based on Swin Transformer, [[Paper]](https://arxiv.org/pdf/2401.15458.pdf)
 
 ### Reconstruction 
 - (arXiv 2021.03) Multi-view 3D Reconstruction with Transformer, [[Paper]](https://arxiv.org/pdf/2103.12957.pdf)
@@ -3285,6 +3291,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.04) STIR: Siamese Transformer for Image Retrieval Postprocessing, [[Paper]](https://arxiv.org/pdf/2304.13393.pdf), [[Code]](https://github.com/OML-Team/open-metric-learning/tree/main/pipelines/postprocessing/)
 - (arXiv 2023.08) Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval, [[Paper]](https://arxiv.org/pdf/2308.04343.pdf), [[Code]](https://github.com/LuminosityX/HAT)
 - (arXiv 2023.10) GMMFormer: Gaussian-Mixture-Model based Transformer for Efficient Partially Relevant Video Retrieval, [[Paper]](https://arxiv.org/pdf/2310.05195.pdf)
+- (arXiv 2024.01) Transformer-based Clipped Contrastive Quantization Learning for Unsupervised Image Retrieval, [[Paper]](https://arxiv.org/pdf/2401.15362.pdf)
 
 ### Robotic
 - (arXiv 2022.01) Look Closer: Bridging Egocentric and Third-Person Views with Transformers for Robotic Manipulation, [[Paper]](https://arxiv.org/pdf/2201.07779.pdf), [[Code]](https://github.com/jangirrishabh/look-closer)
