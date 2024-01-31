@@ -1000,6 +1000,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Universal Pyramid Adversarial Training for Improved ViT Performance, [[Paper]](https://arxiv.org/pdf/2312.16339.pdf)
 - (arXiv 2024.01) Token Propagation Controller for Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.01470.pdf)
 - (arXiv 2024.01) Intriguing Equivalence Structures of the Embedding Space of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.15568.pdf)
+- (arXiv 2024.01) SHViT: Single-Head Vision Transformer with Memory Efficient Macro Design, [[Paper]](https://arxiv.org/pdf/2401.16456.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -2382,6 +2383,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Friends Across Time: Multi-Scale Action Segmentation Transformer for Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2401.11644.pdf)
 - (arXiv 2024.01) MAST: Video Polyp Segmentation with a Mixture-Attention Siamese Transformer, [[Paper]](https://arxiv.org/pdf/2401.12439.pdf), [[Code]](https://github.com/Junqing-Yang/MAST)
 - (arXiv 2024.01) RTA-Former: Reverse Transformer Attention for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2401.11671.pdf)
+- (arXiv 2024.01) CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2401.16886.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3065,6 +3067,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Geometry-Biased Transformer for Robust Multi-View 3D Human Pose Reconstruction, [[Paper]](https://arxiv.org/pdf/2312.17106.pdf)
 - (arXiv 2024.01) 6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2401.00029.pdf)
 - (arXiv 2024.01) Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker, [[Paper]](https://arxiv.org/pdf/2401.04377.pdf), [[Code]](https://github.com/S-JingTao/Categorical_Pose_Tracking)
+- (arXiv 2024.01) Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers, [[Paper]](https://arxiv.org/pdf/2401.16700.pdf)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
