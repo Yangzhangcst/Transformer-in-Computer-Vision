@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/01/30
+**Last updated: 2024/02/01
 
 ## Table of Contents
 
@@ -2645,6 +2645,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Multimodal Informative ViT: Information Aggregation and Distribution for Hyperspectral and LiDAR Classification,  [[Paper]](https://arxiv.org/pdf/2401.03179.pdf), [[Code]](https://github.com/icey-zhang/MIViT)
 - (arXiv 2024.01) SeTformer is What You Need for Vision and Language,  [[Paper]](https://arxiv.org/pdf/2401.03540.pdf)
 - (arXiv 2024.01) Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities,  [[Paper]](https://arxiv.org/pdf/2401.14405.pdf), [[Code]](https://github.com/AILab-CVC/M2PT)
+- (arXiv 2024.01) Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition,  [[Paper]](https://arxiv.org/pdf/2401.17604.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -3571,7 +3572,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) GIFT: Generative Interpretable Fine-Tuning Transformers, [[Paper]](https://arxiv.org/pdf/2312.00700.pdf), [[Code]](https://savadikarc.github.io/gift)
 - (arXiv 2023.12) U-MixFormer: UNet-like Transformer with Mix-Attention for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2312.06272.pdf), [[Code]](https://github.com/julian-klitzing/u-mixformer)
 - (arXiv 2023.12) SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation, [[Paper]](https://arxiv.org/pdf/2312.17071.pdf), [[Code]](https://github.com/xzz777/SCTNet)
-- (arXiv 2024.01) DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf//2401.12820.pdf), [[Code]](https://github.com/xzz777/SCTNet)
+- (arXiv 2024.01) DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.12820.pdf)
+- (arXiv 2024.01) Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2401.17828.pdf), [[Code]](https://github.com/RozhanAhmadi/SWTformer)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
