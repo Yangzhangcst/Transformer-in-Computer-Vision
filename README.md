@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/01
+**Last updated: 2024/02/05
 
 ## Table of Contents
 
@@ -1003,6 +1003,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) SHViT: Single-Head Vision Transformer with Memory Efficient Macro Design, [[Paper]](https://arxiv.org/pdf/2401.16456.pdf)
 - (arXiv 2024.02) LF-ViT: Reducing Spatial Redundancy in Vision Transformer for Efficient Image Recognition, [[Paper]](https://arxiv.org/pdf/2402.00033.pdf), [[Code]](https://github.com/edgeai1/LF-ViT.git)
 - (arXiv 2024.02) A Manifold Representation of the Key in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2402.00534.pdf)
+- (arXiv 2024.02) Faster Inference of Integer SWIN Transformer by Removing the GELU Activation, [[Paper]](https://arxiv.org/pdf/2402.01169.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1157,6 +1158,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2312.06400.pdf)
 - (arXiv 2024.01) SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers, [[Paper]](https://arxiv.org/pdf/2401.08740.pdf), [[Code]](https://github.com/willisma/SiT)
 - (arXiv 2024.01) Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2401.11605.pdf), [[Code]](https://crowsonkb.github.io/hourglass-diffusion-transformers)
+- (arXiv 2024.02) Cross-view Masked Diffusion Transformers for Person Image Synthesis, [[Paper]](https://arxiv.org/pdf/2402.01516.pdf)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -1561,6 +1563,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2022.04) SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf), [[Code]](https://github.com/Zhishe-Wang/SwinFuse)
 - (arXiv 2022.07) Array Camera Image Fusion using Physics-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2207.02250.pdf)
 - (arXiv 2023.09) Holistic Dynamic Frequency Transformer for Image Fusion and Exposure Correction, [[Paper]](https://arxiv.org/pdf/2309.01183.pdf)
+- (arXiv 2024.02) FuseFormer: A Transformer for Visual and Thermal Image Fusion, [[Paper]](https://arxiv.org/pdf/2402.00971.pdf), [[Code]](https://github.com/aytekXR/FuseFormer-Infrared-Fusion)
 
 ### Gait
 - (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
