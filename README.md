@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/05
+**Last updated: 2024/02/06
 
 ## Table of Contents
 
@@ -1129,6 +1129,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) FocDepthFormer: Transformer with LSTM for Depth Estimation from Focus, [[Paper]](https://arxiv.org/pdf/2309.17059.pdf)
 - (arXiv 2023.10) Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots, [[Paper]](https://arxiv.org/pdf/2310.16750.pdf), [[Code]](https://github.com/ebnerluca/uw_depth)
 - (arXiv 2023.12) Transformers in Unsupervised Structure-from-Motion, [[Paper]](https://arxiv.org/pdf/2312.10529.pdf), [[Code]](https://github.com/NeurAI-Lab/MT-SfMLearner)
+- (arXiv.2024.02) CLIP Can Understand Depth, [[Paper]](https://arxiv.org/pdf/2402.03251.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
