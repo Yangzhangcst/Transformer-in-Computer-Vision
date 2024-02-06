@@ -117,6 +117,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - [Contact & Feedback](#contact--feedback)
   
 ## Survey: 
+- (arXiv 2024.02) Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey. [[Paper]](https://arxiv.org/pdf/2402.02941.pdf)
+
 - (arXiv 2024.01) Transformer for Object Re-Identification: A Survey. [[Paper]](https://arxiv.org/pdf/2401.06960.pdf)
 
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
@@ -345,6 +347,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) Attention Deficit is Ordered! Fooling Deformable Vision Transformers with Collaborative Adversarial Patches, [[Paper]](https://arxiv.org/pdf/2311.12914.pdf)
 - (arXiv 2023.12) MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness, [[Paper]](https://arxiv.org/pdf/2312.04960.pdf), [[Code]](https://github.com/xiaoyunxxy/MIMIR)
 - (arXiv 2024.01) FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.01752.pdf)
+- (arXiv 2024.02) DeSparsify: Adversarial Attack Against Token Sparsification Mechanisms in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2402.02554.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -1400,6 +1403,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) YOLO-Former: YOLO Shakes Hand With ViT, [[Paper]](https://arxiv.org/pdf/2401.06244.pdf)
 - (arXiv 2024.01) Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion, [[Paper]](https://arxiv.org/pdf/2401.08017.pdf)
 - (arXiv 2024.01) SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2401.15583.pdf), [[Code]](https://github.com/xdFai)
+- (arXiv 2024.01) TCI-Former: Thermal Conduction-Inspired Transformer for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2402.02046.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2391,6 +2395,9 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) RTA-Former: Reverse Transformer Attention for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2401.11671.pdf)
 - (arXiv 2024.01) CAFCT: Contextual and Attentional Feature Fusions of Convolutional Neural Networks and Transformer for Liver Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2401.16886.pdf)
 - (arXiv 2024.02) Disentangled Multimodal Brain MR Image Translation via Transformer-based Modality Infuser, [[Paper]](https://arxiv.org/pdf/2402.00375.pdf)
+- (arXiv 2024.02) Vision Transformer-based Multimodal Feature Fusion Network for Lymphoma Segmentation on PET/CT Images, [[Paper]](https://arxiv.org/pdf/2402.02349.pdf)
+- (arXiv 2024.02) ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.02029.pdf), [[Code]](https://github.com/HUANGLIZI/ScribFormer)
+- (arXiv 2024.02) Hypergraph-Transformer (HGT) for Interactive Event Prediction in Laparoscopic and Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2402.01974.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3281,6 +3288,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.09) Prompt-based All-in-One Image Restoration using CNNs and Transformer, [[Paper]](https://arxiv.org/pdf/2309.03063.pdf), [[Code]](https://github.com/wlydlut/C2F-DFT)
 - (arXiv 2023.09) HAT: Hybrid Attention Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2309.05239.pdf), [[Code]](https://github.com/XPixelGroup/HAT)
 - (arXiv 2023.12) ViStripformer: A Token-Efficient Transformer for Versatile Video Restoration,  [[Paper]](https://arxiv.org/pdf/2312.14502.pdf)
+- (arXiv 2024.02) Key-Graph Transformer for Image Restoration,  [[Paper]](https://arxiv.org/pdf/2402.02634.pdf)
 
 ### Retrieval
 - (CVPR'21') Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers,  [[Paper]](https://arxiv.org/abs/2103.16553)
