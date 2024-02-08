@@ -1878,6 +1878,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) One for All: Toward Unified Foundation Models for Earth Vision, [[Paper]](https://arxiv.org/pdf/2401.07527.pdf)
 - (arXiv 2024.01) RAP-SAM: Towards Real-Time All-Purpose Segment Anything, [[Paper]](https://arxiv.org/pdf/2401.10228.pdf), [[Code]](https://github.com/xushilin1/RAP-SAM/)
 - (arXiv 2024.02) MobileVLM V2: Faster and Stronger Baseline for Vision Language Model, [[Paper]](https://arxiv.org/pdf/2402.03766.pdf), [[Code]](https://github.com/Meituan-AutoML/MobileVLM)
+- (arXiv 2024.02) Data-efficient Large Vision Models through Sequential Autoregression, [[Paper]](https://arxiv.org/pdf/2402.04841.pdf), [[Code]](https://github.com/ggjy/DeLVM)
+- (arXiv 2024.02) EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss, [[Paper]](https://arxiv.org/pdf/2402.05008.pdf), [[Code]](https://github.com/mit-han-lab/efficientvit)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2402,6 +2404,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.02029.pdf), [[Code]](https://github.com/HUANGLIZI/ScribFormer)
 - (arXiv 2024.02) Hypergraph-Transformer (HGT) for Interactive Event Prediction in Laparoscopic and Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2402.01974.pdf)
 - (arXiv 2024.02) ConUNETR: A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation, [[Paper]](https://arxiv.org/pdf/2402.03695.pdf)
+- (arXiv 2024.02) Detection Transformer for Teeth Detection, Segmentation, and Numbering in Oral Rare Diseases: Focus on Data Augmentation and Inpainting Techniques, [[Paper]](https://arxiv.org/pdf/2402.04408.pdf)
+- (arXiv 2024.02) Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy, [[Paper]](https://arxiv.org/pdf/2402.04556.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3615,6 +3619,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arxiv 2023.11) Spiking Neural Networks with Dynamic Time Steps for Vision Transformers,  [[Paper]](https://arxiv.org/pdf/2311.16456.pdf)
 - (arxiv 2024.01) Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket,  [[Paper]](https://arxiv.org/pdf/2401.02020.pdf)
 - (arxiv 2024.01) TIM: An Efficient Temporal Interaction Module for Spiking Transformer,  [[Paper]](https://arxiv.org/pdf/2401.11687.pdf)
+- (arxiv 2024.02) Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer,  [[Paper]](https://arxiv.org/pdf/2402.04798.pdf)
 
 ### Style Transfer
 - (arXiv 2022.10) Fine-Grained Image Style Transfer with Visual Transformers,  [[Paper]](https://arxiv.org/abs/2210.05176), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
@@ -4421,6 +4426,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) SPFormer: Enhancing Vision Transformer with Superpixel Representation, [[Paper]](https://arxiv.org/pdf/2401.02931.pdf)
 - (arXiv 2024.01) DedustNet: A Frequency-dominated Swin Transformer-based Wavelet Network for Agricultural Dust Removal, [[Paper]](https://arxiv.org/pdf/2401.04750.pdf)
 - (arXiv 2024.01) Surface Normal Estimation with Transformers, [[Paper]](https://arxiv.org/pdf/2401.05745.pdf)
+- (arXiv 2024.02) Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention, [[Paper]](https://arxiv.org/pdf/2402.04563.pdf), [[Code]](https://github.com/chen-huanxin/Tint)
+- (arXiv 2024.02) DMAT: A Dynamic Mask-Aware Transformer for Human De-occlusion, [[Paper]](https://arxiv.org/pdf/2402.04558.pdf)
 
 ## Contact & Feedback
 
