@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/06
+**Last updated: 2024/02/07
 
 ## Table of Contents
 
@@ -1007,6 +1007,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) LF-ViT: Reducing Spatial Redundancy in Vision Transformer for Efficient Image Recognition, [[Paper]](https://arxiv.org/pdf/2402.00033.pdf), [[Code]](https://github.com/edgeai1/LF-ViT.git)
 - (arXiv 2024.02) A Manifold Representation of the Key in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2402.00534.pdf)
 - (arXiv 2024.02) Faster Inference of Integer SWIN Transformer by Removing the GELU Activation, [[Paper]](https://arxiv.org/pdf/2402.01169.pdf)
+- (arXiv 2024.02) SpecFormer: Guarding Vision Transformer Robustness via Maximum Singular Value Penalization, [[Paper]](https://arxiv.org/pdf/2402.03317.pdf)
+- (arXiv 2024.02) Pre-training of Lightweight Vision Transformers on Small Datasets with Minimally Scaled Images, [[Paper]](https://arxiv.org/pdf/2402.03752.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1875,6 +1877,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices, [[Paper]](https://arxiv.org/abs/2312.16886),[[Code]](https://github.com/Meituan-AutoML/MobileVLM)
 - (arXiv 2024.01) One for All: Toward Unified Foundation Models for Earth Vision, [[Paper]](https://arxiv.org/pdf/2401.07527.pdf)
 - (arXiv 2024.01) RAP-SAM: Towards Real-Time All-Purpose Segment Anything, [[Paper]](https://arxiv.org/pdf/2401.10228.pdf), [[Code]](https://github.com/xushilin1/RAP-SAM/)
+- (arXiv 2024.02) MobileVLM V2: Faster and Stronger Baseline for Vision Language Model, [[Paper]](https://arxiv.org/pdf/2402.03766.pdf), [[Code]](https://github.com/Meituan-AutoML/MobileVLM)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2398,6 +2401,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Vision Transformer-based Multimodal Feature Fusion Network for Lymphoma Segmentation on PET/CT Images, [[Paper]](https://arxiv.org/pdf/2402.02349.pdf)
 - (arXiv 2024.02) ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.02029.pdf), [[Code]](https://github.com/HUANGLIZI/ScribFormer)
 - (arXiv 2024.02) Hypergraph-Transformer (HGT) for Interactive Event Prediction in Laparoscopic and Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2402.01974.pdf)
+- (arXiv 2024.02) ConUNETR: A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation, [[Paper]](https://arxiv.org/pdf/2402.03695.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
