@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/08
+**Last updated: 2024/02/09
 
 ## Table of Contents
 
@@ -1522,6 +1522,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Hypergraph-Guided Disentangled Spectrum Transformer Networks for Near-Infrared Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2312.05907.pdf)
 - (arXiv 2023.12) Modality-Collaborative Transformer with Hybrid Feature Reconstruction for Robust Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2312.15848.pdf)
 - (arXiv 2024.01) CATFace: Cross-Attribute-Guided Transformer with Self-Attention Distillation for Low-Quality Face Recognition, [[Paper]](https://arxiv.org/pdf/2401.03037.pdf)
+- (arXiv 2024.02) DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2402.05712.pdf),[[Code]](https://github.com/theEricMa/DiffSpeaker)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -2406,6 +2407,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) ConUNETR: A Conditional Transformer Network for 3D Micro-CT Embryonic Cartilage Segmentation, [[Paper]](https://arxiv.org/pdf/2402.03695.pdf)
 - (arXiv 2024.02) Detection Transformer for Teeth Detection, Segmentation, and Numbering in Oral Rare Diseases: Focus on Data Augmentation and Inpainting Techniques, [[Paper]](https://arxiv.org/pdf/2402.04408.pdf)
 - (arXiv 2024.02) Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy, [[Paper]](https://arxiv.org/pdf/2402.04556.pdf)
+- (arXiv 2024.02) Unleashing the Infinity Power of Geometry: A Novel Geometry-Aware Transformer (GOAT) for Whole Slide Histopathology Image Analysis, [[Paper]](https://arxiv.org/pdf/2402.05373.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2668,6 +2670,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) SeTformer is What You Need for Vision and Language,  [[Paper]](https://arxiv.org/pdf/2401.03540.pdf)
 - (arXiv 2024.01) Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities,  [[Paper]](https://arxiv.org/pdf/2401.14405.pdf), [[Code]](https://github.com/AILab-CVC/M2PT)
 - (arXiv 2024.01) Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition,  [[Paper]](https://arxiv.org/pdf/2401.17604.pdf)
+- (arXiv 2024.02) Question Aware Vision Transformer for Multimodal Reasoning,  [[Paper]](https://arxiv.org/pdf/2402.05472.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -3273,6 +3276,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) SolarFormer: Multi-scale Transformer for Solar PV Profiling, [[Paper]](https://arxiv.org/pdf/2310.20057.pdf)
 - (arXiv 2023.11) CLiSA: A Hierarchical Hybrid Transformer Model using Orthogonal Cross Attention for Satellite Image Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2311.17475.pdf)
 - (arXiv 2023.11) SAM-Assisted Remote Sensing Imagery Semantic Segmentation with Object and Boundary Constraints, [[Paper]](https://arxiv.org/pdf/2312.02464.pdf), [[Code]](https://github.com/sstary/SSRS)
+- (arXiv 2024.02) On Convolutional Vision Transformers for Yield Prediction, [[Paper]](https://arxiv.org/pdf/2402.05557.pdf)
+- (arXiv 2024.02) AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers, [[Paper]](https://arxiv.org/pdf/2402.05602.pdf), [[Code]](https://github.com/rachtibat/LRP-for-Transformers)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
