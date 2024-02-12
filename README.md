@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/09
+**Last updated: 2024/02/12
 
 ## Table of Contents
 
@@ -117,6 +117,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - [Contact & Feedback](#contact--feedback)
   
 ## Survey: 
+- (arXiv 2024.02) A Survey on Transformer Compression. [[Paper]](https://arxiv.org/pdf/2402.05964.pdf)
+
 - (arXiv 2024.02) Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey. [[Paper]](https://arxiv.org/pdf/2402.02941.pdf)
 
 - (arXiv 2024.01) Transformer for Object Re-Identification: A Survey. [[Paper]](https://arxiv.org/pdf/2401.06960.pdf)
@@ -1059,6 +1061,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) Corner-to-Center Long-range Context Model for Efficient Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2311.18103.pdf)
 - (arXiv 2023.12) Input Compression with Positional Consistency for Efficient Training and Inference of Transformer Neural Networks, [[Paper]](https://arxiv.org/pdf/2312.12385.pdf), [[Code]](https://github.com/amrnag/ICPC)
 - (arXiv 2024.01) UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.06426.pdf)
+- (arXiv 2024.02) Memory-Efficient Vision Transformers: An Activation-Aware Mixed-Rank Compression Strategy, [[Paper]](https://arxiv.org/pdf/2402.06004.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -1827,6 +1830,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2022.09) PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer, [[Paper]](https://arxiv.org/pdf/2209.06994.pdf), [[Code]](https://github.com/vincentqqb/PriorLane)
 - (arXiv 2022.09) CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention, [[Paper]](https://arxiv.org/pdf/2209.07989.pdf)
 - (arXiv 2023.08) LATR: 3D Lane Detection from Monocular Images with Transformer, [[Paper]](https://arxiv.org/pdf/2308.04583.pdf), [[Code]](https://github.com/JMoonr/LATR)
+- (arXiv 2024.02) CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention, [[Paper]](https://arxiv.org/pdf/2402.06423.pdf), [[Code]](https://github.com/JMoonr/LATR)
 
 ### Layout
 - (CVPR'21) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/abs/2104.02416)
