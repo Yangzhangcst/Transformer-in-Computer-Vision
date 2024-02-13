@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/12
+**Last updated: 2024/02/13
 
 ## Table of Contents
 
@@ -2992,6 +2992,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) 3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework, [[Paper]](https://arxiv.org/pdf/2401.07251.pdf)
 - (arXiv 2024.01) CascadeV-Det: Cascade Point Voting for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2401.07477.pdf)
 - (arXiv 2024.01) Adaptive Point Transformer, [[Paper]](https://arxiv.org/pdf/2401.14845.pdf)
+- (arXiv 2024.02) AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer, [[Paper]](https://arxiv.org/pdf/2402.07680.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -4437,6 +4438,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Surface Normal Estimation with Transformers, [[Paper]](https://arxiv.org/pdf/2401.05745.pdf)
 - (arXiv 2024.02) Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention, [[Paper]](https://arxiv.org/pdf/2402.04563.pdf), [[Code]](https://github.com/chen-huanxin/Tint)
 - (arXiv 2024.02) DMAT: A Dynamic Mask-Aware Transformer for Human De-occlusion, [[Paper]](https://arxiv.org/pdf/2402.04558.pdf)
+- (arXiv 2024.02) GeoFormer: A Vision and Sequence Transformer-based Approach for Greenhouse Gas Monitoring, [[Paper]](https://arxiv.org/pdf/2402.07164.pdf)
+- (arXiv 2024.02) Sheet Music Transformer: End-To-End Optical Music Recognition Beyond Monophonic Transcription, [[Paper]](https://arxiv.org/pdf/2402.07596.pdf)
 
 ## Contact & Feedback
 
