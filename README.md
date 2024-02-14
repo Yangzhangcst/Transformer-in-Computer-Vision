@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/13
+**Last updated: 2024/02/14
 
 ## Table of Contents
 
@@ -1011,6 +1011,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Faster Inference of Integer SWIN Transformer by Removing the GELU Activation, [[Paper]](https://arxiv.org/pdf/2402.01169.pdf)
 - (arXiv 2024.02) SpecFormer: Guarding Vision Transformer Robustness via Maximum Singular Value Penalization, [[Paper]](https://arxiv.org/pdf/2402.03317.pdf)
 - (arXiv 2024.02) Pre-training of Lightweight Vision Transformers on Small Datasets with Minimally Scaled Images, [[Paper]](https://arxiv.org/pdf/2402.03752.pdf)
+- (arXiv 2024.02) Multi-Attribute Vision Transformers are Efficient and Robust Learners, [[Paper]](https://arxiv.org/abs/2402.08070), [[Code]](https://github.com/hananshafi/MTL-ViT)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1885,6 +1886,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) MobileVLM V2: Faster and Stronger Baseline for Vision Language Model, [[Paper]](https://arxiv.org/pdf/2402.03766.pdf), [[Code]](https://github.com/Meituan-AutoML/MobileVLM)
 - (arXiv 2024.02) Data-efficient Large Vision Models through Sequential Autoregression, [[Paper]](https://arxiv.org/pdf/2402.04841.pdf), [[Code]](https://github.com/ggjy/DeLVM)
 - (arXiv 2024.02) EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss, [[Paper]](https://arxiv.org/pdf/2402.05008.pdf), [[Code]](https://github.com/mit-han-lab/efficientvit)
+- (arXiv 2024.02) Intriguing Differences Between Zero-Shot and Systematic Evaluations of Vision-Language Transformer Models, [[Paper]](https://arxiv.org/pdf/2402.08473.pdf)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -3828,6 +3830,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Transformer Network for Multi-Person Tracking and Re-Identification in Unconstrained Environment, [[Paper]](https://arxiv.org/pdf/2312.11929.pdf)
 - (arXiv 2024.01) Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens, [[Paper]](https://arxiv.org/pdf/2401.01674.pdf)
 - (arXiv 2024.01) Correlation-Embedded Transformer Tracking: A Single-Branch Framework, [[Paper]](https://arxiv.org/pdf/2401.12743.pdf), [[Code]](https://github.com/phiphiphi31/SBT)
+- (arXiv 2024.02) Optimized Information Flow for Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2402.08195.pdf), [[Code]](https://github.com/JananiKugaa/OIFTrack)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
