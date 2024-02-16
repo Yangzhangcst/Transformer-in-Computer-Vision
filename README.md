@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/14
+**Last updated: 2024/02/16
 
 ## Table of Contents
 
@@ -2414,6 +2414,9 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Detection Transformer for Teeth Detection, Segmentation, and Numbering in Oral Rare Diseases: Focus on Data Augmentation and Inpainting Techniques, [[Paper]](https://arxiv.org/pdf/2402.04408.pdf)
 - (arXiv 2024.02) Triplet-constraint Transformer with Multi-scale Refinement for Dose Prediction in Radiotherapy, [[Paper]](https://arxiv.org/pdf/2402.04556.pdf)
 - (arXiv 2024.02) Unleashing the Infinity Power of Geometry: A Novel Geometry-Aware Transformer (GOAT) for Whole Slide Histopathology Image Analysis, [[Paper]](https://arxiv.org/pdf/2402.05373.pdf)
+- (arXiv 2024.02) NYCTALE: Neuro-Evidence Transformer for Adaptive and Personalized Lung Nodule Invasiveness Prediction, [[Paper]](https://arxiv.org/pdf/2402.10066.pdf)
+- (arXiv 2024.02) Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals, [[Paper]](https://arxiv.org/pdf/2402.09474.pdf)
+- (arXiv 2024.02) Epilepsy Seizure Detection and Prediction using an Approximate Spiking Convolutional Transformer, [[Paper]](https://arxiv.org/pdf/2402.09424.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
