@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/16
+**Last updated: 2024/02/19
 
 ## Table of Contents
 
@@ -1887,6 +1887,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Data-efficient Large Vision Models through Sequential Autoregression, [[Paper]](https://arxiv.org/pdf/2402.04841.pdf), [[Code]](https://github.com/ggjy/DeLVM)
 - (arXiv 2024.02) EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss, [[Paper]](https://arxiv.org/pdf/2402.05008.pdf), [[Code]](https://github.com/mit-han-lab/efficientvit)
 - (arXiv 2024.02) Intriguing Differences Between Zero-Shot and Systematic Evaluations of Vision-Language Transformer Models, [[Paper]](https://arxiv.org/pdf/2402.08473.pdf)
+- (arXiv 2024.02) PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter, [[Paper]](https://arxiv.org/pdf/2402.10896.pdf)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2417,6 +2418,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) NYCTALE: Neuro-Evidence Transformer for Adaptive and Personalized Lung Nodule Invasiveness Prediction, [[Paper]](https://arxiv.org/pdf/2402.10066.pdf)
 - (arXiv 2024.02) Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals, [[Paper]](https://arxiv.org/pdf/2402.09474.pdf)
 - (arXiv 2024.02) Epilepsy Seizure Detection and Prediction using an Approximate Spiking Convolutional Transformer, [[Paper]](https://arxiv.org/pdf/2402.09424.pdf)
+- (arXiv 2024.02) Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.10887.pdf), [[Code]](https://github.com/ziyangwang007/Mamba-UNet)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3261,6 +3263,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.04) Deeply-Coupled Convolution-Transformer with Spatial-temporal Complementary Learning for Video-based Person Re-identification, [[Paper]](https://arxiv.org/pdf/2304.14122.pdf), [[Code]](https://github.com/Kali-Hac/TranSG)
 - (arXiv 2023.08) Part-Aware Transformer for Generalizable Person Re-identification, [[Paper]](https://arxiv.org/pdf/2308.03322.pdf), [[Code]](https://github.com/liyuke65535/Part-Aware-Transformer)
 - (arXiv 2023.10) GraFT: Gradual Fusion Transformer for Multimodal Re-Identification, [[Paper]](https://arxiv.org/pdf/2310.16856.pdf)
+- (arXiv 2024.02) Dynamic Patch-aware Enrichment Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2402.10435.pdf)
 
 ### Remote Sensing
 - (arXiv 2021.07) Looking Outside the Window: Wider-Context Transformer for the ation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2106.15754.pdf)
