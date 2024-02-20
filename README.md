@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/19
+**Last updated: 2024/02/20
 
 ## Table of Contents
 
@@ -1012,6 +1012,9 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) SpecFormer: Guarding Vision Transformer Robustness via Maximum Singular Value Penalization, [[Paper]](https://arxiv.org/pdf/2402.03317.pdf)
 - (arXiv 2024.02) Pre-training of Lightweight Vision Transformers on Small Datasets with Minimally Scaled Images, [[Paper]](https://arxiv.org/pdf/2402.03752.pdf)
 - (arXiv 2024.02) Multi-Attribute Vision Transformers are Efficient and Robust Learners, [[Paper]](https://arxiv.org/abs/2402.08070), [[Code]](https://github.com/hananshafi/MTL-ViT)
+- (arXiv 2024.02) FViT: A Focal Vision Transformer with Gabor Filter, [[Paper]](https://arxiv.org/pdf/2402.11303.pdf)
+- (arXiv 2024.02) ReViT: Enhancing Vision Transformers with Attention Residual Connections for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2402.11301.pdf)
+- (arXiv 2024.02) Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers, [[Paper]](https://arxiv.org/pdf/2402.12138.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1169,6 +1172,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers, [[Paper]](https://arxiv.org/pdf/2401.08740.pdf), [[Code]](https://github.com/willisma/SiT)
 - (arXiv 2024.01) Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2401.11605.pdf), [[Code]](https://crowsonkb.github.io/hourglass-diffusion-transformers)
 - (arXiv 2024.02) Cross-view Masked Diffusion Transformers for Person Image Synthesis, [[Paper]](https://arxiv.org/pdf/2402.01516.pdf)
+- (arXiv 2024.02) FiT: Flexible Vision Transformer for Diffusion Model, [[Paper]](https://arxiv.org/pdf/2402.12376.pdf), [[Code]](https://github.com/whlzy/FiT)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -2419,6 +2423,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Deciphering Heartbeat Signatures: A Vision Transformer Approach to Explainable Atrial Fibrillation Detection from ECG Signals, [[Paper]](https://arxiv.org/pdf/2402.09474.pdf)
 - (arXiv 2024.02) Epilepsy Seizure Detection and Prediction using an Approximate Spiking Convolutional Transformer, [[Paper]](https://arxiv.org/pdf/2402.09424.pdf)
 - (arXiv 2024.02) Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.10887.pdf), [[Code]](https://github.com/ziyangwang007/Mamba-UNet)
+- (arXiv 2024.02) FOD-Swin-Net: angular super resolution of fiber orientation distribution using a transformer-based deep model, [[Paper]](https://arxiv.org/pdf/2402.11775.pdf), [[Code]](https://github.com/MICLab-Unicamp/FOD-Swin-Net)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3000,6 +3005,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) CascadeV-Det: Cascade Point Voting for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2401.07477.pdf)
 - (arXiv 2024.01) Adaptive Point Transformer, [[Paper]](https://arxiv.org/pdf/2401.14845.pdf)
 - (arXiv 2024.02) AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer, [[Paper]](https://arxiv.org/pdf/2402.07680.pdf)
+- (arXiv 2024.02) DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model, [[Paper]](https://arxiv.org/pdf/2402.11241.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3638,6 +3644,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arxiv 2024.01) Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket,  [[Paper]](https://arxiv.org/pdf/2401.02020.pdf)
 - (arxiv 2024.01) TIM: An Efficient Temporal Interaction Module for Spiking Transformer,  [[Paper]](https://arxiv.org/pdf/2401.11687.pdf)
 - (arxiv 2024.02) Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer,  [[Paper]](https://arxiv.org/pdf/2402.04798.pdf)
+- (arxiv 2024.02) SDiT: Spiking Diffusion Model with Transformer,  [[Paper]](https://arxiv.org/pdf/2402.11588.pdf)
 
 ### Style Transfer
 - (arXiv 2022.10) Fine-Grained Image Style Transfer with Visual Transformers,  [[Paper]](https://arxiv.org/abs/2210.05176), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
