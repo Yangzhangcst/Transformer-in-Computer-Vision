@@ -2690,6 +2690,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities,  [[Paper]](https://arxiv.org/pdf/2401.14405.pdf), [[Code]](https://github.com/AILab-CVC/M2PT)
 - (arXiv 2024.01) Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition,  [[Paper]](https://arxiv.org/pdf/2401.17604.pdf)
 - (arXiv 2024.02) Question Aware Vision Transformer for Multimodal Reasoning,  [[Paper]](https://arxiv.org/pdf/2402.05472.pdf)
+- (arXiv 2024.02) A Touch, Vision, and Language Dataset for Multimodal Alignment,  [[Paper]](https://arxiv.org/pdf/2402.13232.pdf), [[Code]](https://tactile-vlm.github.io/)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
