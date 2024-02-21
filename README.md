@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/20
+**Last updated: 2024/02/21
 
 ## Table of Contents
 
@@ -2424,6 +2424,9 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Epilepsy Seizure Detection and Prediction using an Approximate Spiking Convolutional Transformer, [[Paper]](https://arxiv.org/pdf/2402.09424.pdf)
 - (arXiv 2024.02) Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.10887.pdf), [[Code]](https://github.com/ziyangwang007/Mamba-UNet)
 - (arXiv 2024.02) FOD-Swin-Net: angular super resolution of fiber orientation distribution using a transformer-based deep model, [[Paper]](https://arxiv.org/pdf/2402.11775.pdf), [[Code]](https://github.com/MICLab-Unicamp/FOD-Swin-Net)
+- (arXiv 2024.02) RhythmFormer: Extracting rPPG Signals Based on Hierarchical Temporal Periodic Transformer, [[Paper]](https://arxiv.org/pdf/2402.12788.pdf), [[Code]](https://github.com/zizheng-guo/RhythmFormer)
+- (arXiv 2024.02) Cell Graph Transformer for Nuclei Classification, [[Paper]](https://arxiv.org/pdf/2402.12946.pdf), [[Code]](https://github.com/lhaof/CGT)
+- (arXiv 2024.02) wmh_seg: Transformer based U-Net for Robust and Automatic White Matter Hyperintensity Segmentation across 1.5T, 3T and 7T, [[Paper]](https://arxiv.org/pdf/2402.12701.pdf), [[Code]](https://github.com/lhaof/CGT)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3844,6 +3847,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens, [[Paper]](https://arxiv.org/pdf/2401.01674.pdf)
 - (arXiv 2024.01) Correlation-Embedded Transformer Tracking: A Single-Branch Framework, [[Paper]](https://arxiv.org/pdf/2401.12743.pdf), [[Code]](https://github.com/phiphiphi31/SBT)
 - (arXiv 2024.02) Optimized Information Flow for Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2402.08195.pdf), [[Code]](https://github.com/JananiKugaa/OIFTrack)
+- (arXiv 2024.02) OLViT: Multi-Modal State Tracking via Attention-Based Embeddings for Video-Grounded Dialog, [[Paper]](https://arxiv.org/pdf/2402.13146.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
