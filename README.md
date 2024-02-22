@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/21
+**Last updated: 2024/02/22
 
 ## Table of Contents
 
@@ -1606,6 +1606,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) Dual input stream transformer for eye-tracking line assignment, [[Paper]](https://arxiv.org/pdf/2311.06095.pdf)
 - (arXiv 2024.01) GazeCLIP: Towards Enhancing Gaze Estimation via Text Guidance, [[Paper]](https://arxiv.org/pdf/2401.00260.pdf)
 - (arXiv 2024.01) EmMixformer: Mix transformer for eye movement recognition, [[Paper]](https://arxiv.org/pdf/2401.04956.pdf)
+- (arXiv 2024.02) TransGOP: Transformer-Based Gaze Object Prediction, [[Paper]](https://arxiv.org/pdf/2402.13578.pdf), [[Code]](https://github.com/chenxi-Guo/TransGOP)
 
 ### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -2427,6 +2428,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) RhythmFormer: Extracting rPPG Signals Based on Hierarchical Temporal Periodic Transformer, [[Paper]](https://arxiv.org/pdf/2402.12788.pdf), [[Code]](https://github.com/zizheng-guo/RhythmFormer)
 - (arXiv 2024.02) Cell Graph Transformer for Nuclei Classification, [[Paper]](https://arxiv.org/pdf/2402.12946.pdf), [[Code]](https://github.com/lhaof/CGT)
 - (arXiv 2024.02) wmh_seg: Transformer based U-Net for Robust and Automatic White Matter Hyperintensity Segmentation across 1.5T, 3T and 7T, [[Paper]](https://arxiv.org/pdf/2402.12701.pdf), [[Code]](https://github.com/lhaof/CGT)
+- (arXiv 2024.02) Multi-scale Spatio-temporal Transformer-based Imbalanced Longitudinal Learning for Glaucoma Forecasting from Irregular Time Series Images, [[Paper]](https://arxiv.org/pdf/2402.13475.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3362,6 +3364,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place, [[Paper]](https://arxiv.org/pdf/2311.00926.pdf), [[Project]](https://m2-t2.github.io/)
 - (arXiv 2023.11) FViT-Grasp: Grasping Objects With Using Fast Vision Transformers, [[Paper]](https://arxiv.org/pdf/2311.13986.pdf)
 - (arXiv 2024.01) MResT: Multi-Resolution Sensing for Real-Time Control with Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2401.14502.pdf), [[Code]](http://tinyurl.com/multi-res-realtime-control)
+- (arXiv 2024.02) EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization, [[Paper]](https://arxiv.org/pdf/2402.13537.pdf)
 
 ### Salient Detection
 - (arXiv 2021.04) Transformer Transforms Salient Object Detection and Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2104.10127.pdf)
