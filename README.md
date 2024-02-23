@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/22
+**Last updated: 2024/02/23
 
 ## Table of Contents
 
@@ -1766,7 +1766,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.06) TransRef: Multi-Scale Reference Embedding Transformer for Reference-Guided Image Inpainting, [[Paper]](https://arxiv.org/pdf/2306.11528.pdf), [[Code]](https://github.com/Cameltr/TransRef)
 - (arXiv 2023.07) Deficiency-Aware Masked Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2307.08629.pdf), [[Code]](http://github.com/yeates/DMT)
 - (arXiv 2023.09) ProPainter: Improving Propagation and Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2309.03897.pdf), [[Code]](https://github.com/sczhou/ProPainter)
-- (arXiv 2024.01) Federated Class-Incremental Learning with Prototype Guided Transformer, [[Paper]](https://arxiv.org/pdf/2401.02094.pdf), [[Code]](https://github.com/sczhou/ProPainter)
+- (arXiv 2024.01) Federated Class-Incremental Learning with Prototype Guided Transformer, [[Paper]](https://arxiv.org/pdf/2401.02094.pdf)
+- (arXiv 2024.02) HINT: High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention, [[Paper]](https://arxiv.org/pdf/2402.14185.pdf), [[Code]](https://github.com/ChrisChen1023/HINT)
 
 ### Instance Segmentation
 - (CVPR'21) End-to-End Video Instance Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2011.14503), [[Code]](https://github.com/Epiphqny/VisTR)
@@ -2822,6 +2823,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) STR-Cert: Robustness Certification for Deep Text Recognition on Deep Learning Pipelines and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.05338.pdf)
 - (arXiv 2024.01) SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting, [[Paper]](https://arxiv.org/pdf/2401.07641.pdf),[[Code]](https://github.com/mxin262/SwinTextSpotterv2)
 - (arXiv 2024.01) Dynamic Relation Transformer for Contextual Text Block Detection, [[Paper]](https://arxiv.org/pdf/2401.09232.pdf)
+- (arXiv 2024.02) Text Role Classification in Scientific Charts Using Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2402.14579.pdf),[[Code]](https://github.com/hjkimk/text-role-classification)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -3118,6 +3120,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) 6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2401.00029.pdf)
 - (arXiv 2024.01) Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker, [[Paper]](https://arxiv.org/pdf/2401.04377.pdf), [[Code]](https://github.com/S-JingTao/Categorical_Pose_Tracking)
 - (arXiv 2024.01) Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers, [[Paper]](https://arxiv.org/pdf/2401.16700.pdf)
+- (arXiv 2024.02) Cameras as Rays: Pose Estimation via Ray Diffusion, [[Paper]](https://arxiv.org/pdf/2402.14817.pdf), [[Code]](https://jasonyzhang.com/RayDiffusion)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
@@ -3431,6 +3434,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Gaussian Grouping: Segment and Edit Anything in 3D Scenes, [[Paper]](https://arxiv.org/pdf/2312.00732.pdf),[[Code]](https://github.com/lkeab/gaussian-grouping)
 - (arXiv 2024.01) Dream360: Diverse and Immersive Outdoor Virtual Scene Creation via Transformer-Based 360 Image Outpainting, [[Paper]](https://arxiv.org/pdf/2401.10564.pdf)
 - (arXiv 2024.01) SGTR+: End-to-end Scene Graph Generation with Transformer, [[Paper]](https://arxiv.org/pdf/2401.12835.pdf),[[Code]](https://github.com/Scarecrow0/SGTR)
+- (arXiv 2024.02) S^2Former-OR: Single-Stage Bimodal Transformer for Scene Graph Generation in OR, [[Paper]](https://arxiv.org/pdf/2402.14461.pdf)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
@@ -3756,6 +3760,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture, [[Paper]](https://arxiv.org/pdf/2311.10123.pdf),[[Code]](https://metadreamer3d.github.io/)
 - (arXiv 2023.12) X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation, [[Paper]](https://arxiv.org/pdf/2312.00085.pdf),[[Project]](https://xmuxiaoma666.github.io/Projects/X-Dreamer)
 - (arXiv 2023.12) GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation, [[Paper]](https://arxiv.org/pdf/2312.04557.pdf),[[Code]](https://www.shoufachen.com/gentron_website/)
+- (arXiv 2024.02) Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis, [[Paper]](https://arxiv.org/pdf/2402.14797.pdf),[[Code]](https://snap-research.github.io/snapvideo/)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
