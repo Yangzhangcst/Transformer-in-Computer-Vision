@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/23
+**Last updated: 2024/02/26
 
 ## Table of Contents
 
@@ -2694,6 +2694,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition,  [[Paper]](https://arxiv.org/pdf/2401.17604.pdf)
 - (arXiv 2024.02) Question Aware Vision Transformer for Multimodal Reasoning,  [[Paper]](https://arxiv.org/pdf/2402.05472.pdf)
 - (arXiv 2024.02) A Touch, Vision, and Language Dataset for Multimodal Alignment,  [[Paper]](https://arxiv.org/pdf/2402.13232.pdf), [[Code]](https://tactile-vlm.github.io/)
+- (arXiv 2024.02) Multimodal Transformer With a Low-Computational-Cost Guarantee,  [[Paper]](https://arxiv.org/pdf/2402.15096.pdf), [[Code]](https://tactile-vlm.github.io/)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -2887,6 +2888,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) MaXTron: Mask Transformer with Trajectory Attention for Video Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2311.18537.pdf), [[Code]](https://github.com/TACJu/MaXTron)
 - (arXiv 2024.01) 3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation, [[Paper]](https://arxiv.org/pdf/2401.02281.pdf)
 - (arXiv 2024.01) Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering, [[Paper]](https://arxiv.org/pdf/2401.06704.pdf), [[Code]](https://github.com/drprojects/superpoint_transformer)
+- (arXiv 2024.02) Benchmarking the Robustness of Panoptic Segmentation for Automated Driving, [[Paper]](https://arxiv.org/pdf/2402.15469.pdf)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
