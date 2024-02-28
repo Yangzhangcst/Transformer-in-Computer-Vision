@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/26
+**Last updated: 2024/02/28
 
 ## Table of Contents
 
@@ -3016,6 +3016,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Adaptive Point Transformer, [[Paper]](https://arxiv.org/pdf/2401.14845.pdf)
 - (arXiv 2024.02) AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer, [[Paper]](https://arxiv.org/pdf/2402.07680.pdf)
 - (arXiv 2024.02) DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model, [[Paper]](https://arxiv.org/pdf/2402.11241.pdf)
+- (arXiv 2024.02) CAPT: Category-level Articulation Estimation from a Single Point Cloud Using Transformer, [[Paper]](https://arxiv.org/pdf/2402.17360.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
