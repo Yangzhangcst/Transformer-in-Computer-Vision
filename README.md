@@ -4472,6 +4472,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) DMAT: A Dynamic Mask-Aware Transformer for Human De-occlusion, [[Paper]](https://arxiv.org/pdf/2402.04558.pdf)
 - (arXiv 2024.02) GeoFormer: A Vision and Sequence Transformer-based Approach for Greenhouse Gas Monitoring, [[Paper]](https://arxiv.org/pdf/2402.07164.pdf)
 - (arXiv 2024.02) Sheet Music Transformer: End-To-End Optical Music Recognition Beyond Monophonic Transcription, [[Paper]](https://arxiv.org/pdf/2402.07596.pdf)
+- (arXiv 2024.02) ViTaL: An Advanced Framework for Automated Plant Disease Identification in Leaf Images Using Vision Transformers and Linear Projection For Feature Reduction, [[Paper]](https://arxiv.org/pdf/2402.17424.pdf)
 
 ## Contact & Feedback
 
