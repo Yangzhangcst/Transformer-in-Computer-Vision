@@ -1414,6 +1414,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion, [[Paper]](https://arxiv.org/pdf/2401.08017.pdf)
 - (arXiv 2024.01) SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2401.15583.pdf), [[Code]](https://github.com/xdFai)
 - (arXiv 2024.01) TCI-Former: Thermal Conduction-Inspired Transformer for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2402.02046.pdf)
+- (arXiv 2024.02) Deployment Prior Injection for Run-time Calibratable Object Detection, [[Paper]](https://arxiv.org/pdf/2402.17207.pdf)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1830,6 +1831,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) One-for-All: Bridge the Gap Between Heterogeneous Architectures in Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2310.19444.pdf), [[Code]](https://github.com/Hao840/OFAKD)
 - (arXiv 2023.11) Learning Contrastive Self-Distillation for Ultra-Fine-Grained Visual Categorization Targeting Limited Samples, [[Paper]](https://arxiv.org/pdf/2311.06056.pdf)
 - (arXiv 2023.12) GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction, [[Paper]](https://arxiv.org/pdf/2312.07255.pdf)
+- (arXiv 2024.02) m2mKD: Module-to-Module Knowledge Distillation for Modular Transformers, [[Paper]](https://arxiv.org/pdf/2402.16918.pdf), [[Code]](https://github.com/kamanphoebe/m2mKD)
 
 ### Lane
 - (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
@@ -2430,6 +2432,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Cell Graph Transformer for Nuclei Classification, [[Paper]](https://arxiv.org/pdf/2402.12946.pdf), [[Code]](https://github.com/lhaof/CGT)
 - (arXiv 2024.02) wmh_seg: Transformer based U-Net for Robust and Automatic White Matter Hyperintensity Segmentation across 1.5T, 3T and 7T, [[Paper]](https://arxiv.org/pdf/2402.12701.pdf), [[Code]](https://github.com/lhaof/CGT)
 - (arXiv 2024.02) Multi-scale Spatio-temporal Transformer-based Imbalanced Longitudinal Learning for Glaucoma Forecasting from Irregular Time Series Images, [[Paper]](https://arxiv.org/pdf/2402.13475.pdf)
+- (arXiv 2024.02) SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging, [[Paper]](https://arxiv.org/pdf/2402.17246.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
