@@ -1897,6 +1897,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss, [[Paper]](https://arxiv.org/pdf/2402.05008.pdf), [[Code]](https://github.com/mit-han-lab/efficientvit)
 - (arXiv 2024.02) Intriguing Differences Between Zero-Shot and Systematic Evaluations of Vision-Language Transformer Models, [[Paper]](https://arxiv.org/pdf/2402.08473.pdf)
 - (arXiv 2024.02) PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter, [[Paper]](https://arxiv.org/pdf/2402.10896.pdf)
+- (arXiv 2024.02) GROUNDHOG : Grounding Large Language Models to Holistic Segmentation, [[Paper]](https://arxiv.org/pdf/2402.16846.pdf)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2861,6 +2862,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Learning Pseudo-Labeler beyond Noun Concepts for Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2312.02103.pdf)
 - (arXiv 2023.12) Boosting Segment Anything Model Towards Open-Vocabulary Learning, [[Paper]](https://arxiv.org/pdf/2312.03628.pdf), [[Code]](https://github.com/ucas-vg/Sambor)
 - (arXiv 2023.12) Open World Object Detection in the Era of Foundation Models, [[Paper]](https://arxiv.org/pdf/2312.05745.pdf), [[Code]](https://orrzohar.github.io/projects/fomo/)
+- (arXiv 2024.02) Semi-supervised Open-World Object Detection, [[Paper]](https://arxiv.org/pdf/2402.16013.pdf), [[Code]](https://github.com/sahalshajim/SS-OWFormer)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
