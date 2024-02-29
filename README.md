@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/02/28
+**Last updated: 2024/02/29
 
 ## Table of Contents
 
@@ -1192,6 +1192,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.08) Learning Image Deraining Transformer Network with Dynamic Dual Self-Attention, [[Paper]](https://arxiv.org/pdf/2303.11950.pdf)
 - (arXiv 2023.08) Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks, [[Paper]](https://arxiv.org/pdf/2308.14153.pdf)
 - (arXiv 2024.01) NightRain: Nighttime Video Deraining via Adaptive-Rain-Removal and Adaptive-Correction, [[Paper]](https://arxiv.org/pdf/2401.00729.pdf)
+- (arXiv 2024.02) Diving Deep into Regions: Exploiting Regional Information Transformer for Single Image Deraining, [[Paper]](https://arxiv.org/pdf/2402.16033.pdf), [[Code]](https://github.com/ztMotaLee/Regformer)
 
 ### Denoising
 - (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
@@ -2433,6 +2434,9 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) wmh_seg: Transformer based U-Net for Robust and Automatic White Matter Hyperintensity Segmentation across 1.5T, 3T and 7T, [[Paper]](https://arxiv.org/pdf/2402.12701.pdf), [[Code]](https://github.com/lhaof/CGT)
 - (arXiv 2024.02) Multi-scale Spatio-temporal Transformer-based Imbalanced Longitudinal Learning for Glaucoma Forecasting from Irregular Time Series Images, [[Paper]](https://arxiv.org/pdf/2402.13475.pdf)
 - (arXiv 2024.02) SDR-Former: A Siamese Dual-Resolution Transformer for Liver Lesion Classification Using 3D Multi-Phase Imaging, [[Paper]](https://arxiv.org/pdf/2402.17246.pdf)
+- (arXiv 2024.02) UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images, [[Paper]](https://arxiv.org/pdf/2402.16663.pdf), [[Code]](https://github.com/CUHK-AIM-Group/UN-SAM)
+- (arXiv 2024.02) Investigating the Robustness of Vision Transformers against Label Noise in Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2402.16734.pdf)
+- (arXiv 2024.02) MV-Swin-T: Mammogram Classification with Multi-view Swin Transformer, [[Paper]](https://arxiv.org/pdf/2402.16298.pdf), [[Code]](https://github.com/prithuls/MV-Swin-T)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2446,7 +2450,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.07) JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2307.16377.pdf), [[Code]](https://github.com/xljh0520/JOTR)
 - (arXiv 2023.08) Coordinate Transformer: Achieving Single-stage Multi-person Mesh Recovery from Videos, [[Paper]](https://arxiv.org/pdf/2308.10334.pdf), [[Code]](https://github.com/Li-Hao-yuan/CoordFormer)
 - (arXiv 2023.11) MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers, [[Paper]](https://arxiv.org/pdf/2311.15475.pdf), [[Project]](https://nihalsid.github.io/mesh-gpt/)
-
+- (arXiv 2024.02) Multi-Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2402.16806.pdf)
+  
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
 
@@ -2828,6 +2833,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting, [[Paper]](https://arxiv.org/pdf/2401.07641.pdf),[[Code]](https://github.com/mxin262/SwinTextSpotterv2)
 - (arXiv 2024.01) Dynamic Relation Transformer for Contextual Text Block Detection, [[Paper]](https://arxiv.org/pdf/2401.09232.pdf)
 - (arXiv 2024.02) Text Role Classification in Scientific Charts Using Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2402.14579.pdf),[[Code]](https://github.com/hjkimk/text-role-classification)
+- (arXiv 2024.02) Self-Supervised Pre-Training for Table Structure Recognition Transformer, [[Paper]](https://arxiv.org/pdf/2402.15578.pdf),[[Code]](https://github.com/poloclub/unitable)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -3312,6 +3318,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) SAM-Assisted Remote Sensing Imagery Semantic Segmentation with Object and Boundary Constraints, [[Paper]](https://arxiv.org/pdf/2312.02464.pdf), [[Code]](https://github.com/sstary/SSRS)
 - (arXiv 2024.02) On Convolutional Vision Transformers for Yield Prediction, [[Paper]](https://arxiv.org/pdf/2402.05557.pdf)
 - (arXiv 2024.02) AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers, [[Paper]](https://arxiv.org/pdf/2402.05602.pdf), [[Code]](https://github.com/rachtibat/LRP-for-Transformers)
+- (arXiv 2024.02) Cross-Resolution Land Cover Classification Using Outdated Products and Transformers, [[Paper]](https://arxiv.org/pdf/2402.16001.pdf), [[Code]](https://github.com/yu-ni1989/ANLC-Former)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -3638,6 +3645,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) SCTNet: Single-Branch CNN with Transformer Semantic Information for Real-Time Segmentation, [[Paper]](https://arxiv.org/pdf/2312.17071.pdf), [[Code]](https://github.com/xzz777/SCTNet)
 - (arXiv 2024.01) DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.12820.pdf)
 - (arXiv 2024.01) Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2401.17828.pdf), [[Code]](https://github.com/RozhanAhmadi/SWTformer)
+- (arXiv 2024.02) ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer, [[Paper]](https://arxiv.org/pdf/2402.16674.pdf), [[Code]](https://github.com/DongSky/ConSept)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
