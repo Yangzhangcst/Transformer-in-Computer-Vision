@@ -1445,6 +1445,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Transformer-based No-Reference Image Quality Assessment via Supervised Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2312.06995.pdf), [[Code]](https://github.com/I2-Multimedia-Lab/SaTQA)
 - (arXiv 2023.12) A Non-Uniform Low-Light Image Enhancement Method with Multi-Scale Attention Transformer and Luminance Consistency Loss, [[Paper]](https://arxiv.org/pdf/2312.16498.pdf), [[Code]](https://github.com/fang001021/MSATr)
 - (arXiv 2024.01) LYT-Net: Lightweight YUV Transformer-based Network for Low-Light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2401.15204.pdf), [[Code]](https://github.com/albrateanu/LYT-Net)
+- (arXiv 2024.03) LoLiSRFlow: Joint Single Image Low-light Enhancement and Super-resolution via Cross-scale Transformer-based Conditional Flow, [[Paper]](https://arxiv.org/pdf/2402.18871.pdf)
 
 ### Face
 - (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
@@ -1534,6 +1535,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Modality-Collaborative Transformer with Hybrid Feature Reconstruction for Robust Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2312.15848.pdf)
 - (arXiv 2024.01) CATFace: Cross-Attribute-Guided Transformer with Self-Attention Distillation for Low-Quality Face Recognition, [[Paper]](https://arxiv.org/pdf/2401.03037.pdf)
 - (arXiv 2024.02) DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2402.05712.pdf),[[Code]](https://github.com/theEricMa/DiffSpeaker)
+- (arXiv 2024.03) BFRFormer: Transformer-based generator for Real-World Blind Face Restoration, [[Paper]](https://arxiv.org/pdf/2402.18811.pdf),[[Code]](https://github.com/s8Znk/BFRFormer)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1666,6 +1668,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) GSGFormer: Generative Social Graph Transformer for Multimodal Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2312.04479.pdf)
 - (arXiv 2023.12) Large-scale Graph Representation Learning of Dynamic Brain Connectome with Transformers, [[Paper]](https://arxiv.org/pdf/2312.14939.pdf)
 - (arXiv 2024.01) Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation, [[Paper]](https://arxiv.org/pdf/2401.07721.pdf)
+- (arXiv 2024.02) Stitching Gaps: Fusing Situated Perceptual Knowledge with Vision Transformers for High-Level Image Classification, [[Paper]](https://arxiv.org/pdf/2402.19339.pdf), [[Code]](https://github.com/delfimpandiani/Stitching-Gaps)
 
 ### Hand Gesture
 - (arXiv 2022.01) ViT-HGR: Vision Transformer-based Hand Gesture Recognition from High Density  EMG Signals, [[Paper]](https://arxiv.org/pdf/2201.10060.pdf)
@@ -3413,6 +3416,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.09) UniST: Towards Unifying Saliency Transformer for Video Saliency Prediction and Detection, [[Paper]](https://arxiv.org/pdf/2309.08220.pdf)
 - (arXiv 2023.09) Salient Object Detection in Optical Remote Sensing Images Driven by Transformer, [[Paper]](https://arxiv.org/pdf/2309.08206.pdf), [[Code]](https://github.com/LiJiahang617/Road-Former)
 - (arXiv 2023.10) VST++: Efficient and Stronger Visual Saliency Transformer, [[Paper]](https://arxiv.org/pdf/2310.11725.pdf), [[Code]](https://github.com/LiJiahang617/Road-Former)
+- (arXiv 2024.03) A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2402.18922.pdf), [[Code]](https://github.com/linuxsino/SENet)
 
 ### Scene
 - (arXiv 2020.12) SceneFormer: Indoor Scene Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09793.pdf)
