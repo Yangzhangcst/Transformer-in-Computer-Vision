@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/01
+**Last updated: 2024/03/03
 
 ## Table of Contents
 
@@ -3654,6 +3654,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.12820.pdf)
 - (arXiv 2024.01) Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2401.17828.pdf), [[Code]](https://github.com/RozhanAhmadi/SWTformer)
 - (arXiv 2024.02) ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer, [[Paper]](https://arxiv.org/pdf/2402.16674.pdf), [[Code]](https://github.com/DongSky/ConSept)
+- (arXiv 2024.03) PEM: Prototype-based Efficient MaskFormer for Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.19422.pdf), [[Code]](https://github.com/NiccoloCavagnero/PEM)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
