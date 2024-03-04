@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/03
+**Last updated: 2024/03/04
 
 ## Table of Contents
 
@@ -2904,6 +2904,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) 3D Open-Vocabulary Panoptic Segmentation with 2D-3D Vision-Language Distillation, [[Paper]](https://arxiv.org/pdf/2401.02281.pdf)
 - (arXiv 2024.01) Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering, [[Paper]](https://arxiv.org/pdf/2401.06704.pdf), [[Code]](https://github.com/drprojects/superpoint_transformer)
 - (arXiv 2024.02) Benchmarking the Robustness of Panoptic Segmentation for Automated Driving, [[Paper]](https://arxiv.org/pdf/2402.15469.pdf)
+- (arXiv 2024.03) PEM: Prototype-based Efficient MaskFormer for Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.19422.pdf), [[Code]](https://github.com/NiccoloCavagnero/PEM)
 
 ### Point Cloud
 - (ICRA'21) NDT-Transformer: Large-Scale 3D Point Cloud Localisation using the Normal Distribution Transform Representation, [[Paper]](https://arxiv.org/abs/2103.12292)
