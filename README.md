@@ -1417,6 +1417,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) SCTransNet: Spatial-channel Cross Transformer Network for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2401.15583.pdf), [[Code]](https://github.com/xdFai)
 - (arXiv 2024.01) TCI-Former: Thermal Conduction-Inspired Transformer for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2402.02046.pdf)
 - (arXiv 2024.02) Deployment Prior Injection for Run-time Calibratable Object Detection, [[Paper]](https://arxiv.org/pdf/2402.17207.pdf)
+- (arXiv 2024.03) DAMS-DETR: Dynamic Adaptive Multispectral Detection Transformer with Competitive Query Selection and Adaptive Feature Fusion, [[Paper]](https://arxiv.org/pdf/2403.00326.pdf), [[Code]](https://github.com/gjj45/DAMS-DETR)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -2707,7 +2708,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Computation and Parameter Efficient Multi-Modal Fusion Transformer for Cued Speech Recognition,  [[Paper]](https://arxiv.org/pdf/2401.17604.pdf)
 - (arXiv 2024.02) Question Aware Vision Transformer for Multimodal Reasoning,  [[Paper]](https://arxiv.org/pdf/2402.05472.pdf)
 - (arXiv 2024.02) A Touch, Vision, and Language Dataset for Multimodal Alignment,  [[Paper]](https://arxiv.org/pdf/2402.13232.pdf), [[Code]](https://tactile-vlm.github.io/)
-- (arXiv 2024.02) Multimodal Transformer With a Low-Computational-Cost Guarantee,  [[Paper]](https://arxiv.org/pdf/2402.15096.pdf), [[Code]](https://tactile-vlm.github.io/)
+- (arXiv 2024.02) Multimodal Transformer With a Low-Computational-Cost Guarantee,  [[Paper]](https://arxiv.org/pdf/2402.15096.pdf)
+- (arXiv 2024.03) Task Indicating Transformer for Task-conditional Dense Predictions,  [[Paper]](https://arxiv.org/pdf/2403.00327.pdf)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -3457,6 +3459,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) SGTR+: End-to-end Scene Graph Generation with Transformer, [[Paper]](https://arxiv.org/pdf/2401.12835.pdf),[[Code]](https://github.com/Scarecrow0/SGTR)
 - (arXiv 2024.02) S^2Former-OR: Single-Stage Bimodal Transformer for Scene Graph Generation in OR, [[Paper]](https://arxiv.org/pdf/2402.14461.pdf)
 - (arXiv 2024.02) Vision Transformers with Natural Language Semantics, [[Paper]](https://arxiv.org/pdf/2402.17863.pdf)
+- (arXiv 2024.03) Can Transformers Capture Spatial Relations between Objects, [[Paper]](https://arxiv.org/pdf/2403.00729.pdf),[[Code]](https://sites.google.com/view/spatial-relation)
 
 ### Self-supervised Learning
 - (arXiv 2021.03) Can Vision Transformers Learn without Natural Images? [[Paper]](https://arxiv.org/abs/2103.13023), [[Code]](https://hirokatsukataoka16.github.io/Vision-Transformers-without-Natural-Images/)
