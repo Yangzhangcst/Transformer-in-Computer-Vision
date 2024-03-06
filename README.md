@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/05
+**Last updated: 2024/03/06
 
 ## Table of Contents
 
@@ -1016,6 +1016,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) FViT: A Focal Vision Transformer with Gabor Filter, [[Paper]](https://arxiv.org/pdf/2402.11303.pdf)
 - (arXiv 2024.02) ReViT: Enhancing Vision Transformers with Attention Residual Connections for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2402.11301.pdf)
 - (arXiv 2024.02) Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers, [[Paper]](https://arxiv.org/pdf/2402.12138.pdf)
+- (arXiv 2024.03) LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition, [[Paper]](https://arxiv.org/pdf/2403.01412.pdf), [[Code]](https://github.com/MaxLLF/LUM-ViT)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1143,6 +1144,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) Metrically Scaled Monocular Depth Estimation through Sparse Priors for Underwater Robots, [[Paper]](https://arxiv.org/pdf/2310.16750.pdf), [[Code]](https://github.com/ebnerluca/uw_depth)
 - (arXiv 2023.12) Transformers in Unsupervised Structure-from-Motion, [[Paper]](https://arxiv.org/pdf/2312.10529.pdf), [[Code]](https://github.com/NeurAI-Lab/MT-SfMLearner)
 - (arXiv.2024.02) CLIP Can Understand Depth, [[Paper]](https://arxiv.org/pdf/2402.03251.pdf)
+- (arXiv.2024.03) Depth Estimation Algorithm Based on Transformer-Encoder and Feature Fusion, [[Paper]](https://arxiv.org/pdf/2403.01370.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -1447,9 +1449,10 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) A Non-Uniform Low-Light Image Enhancement Method with Multi-Scale Attention Transformer and Luminance Consistency Loss, [[Paper]](https://arxiv.org/pdf/2312.16498.pdf), [[Code]](https://github.com/fang001021/MSATr)
 - (arXiv 2024.01) LYT-Net: Lightweight YUV Transformer-based Network for Low-Light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2401.15204.pdf), [[Code]](https://github.com/albrateanu/LYT-Net)
 - (arXiv 2024.03) LoLiSRFlow: Joint Single Image Low-light Enhancement and Super-resolution via Cross-scale Transformer-based Conditional Flow, [[Paper]](https://arxiv.org/pdf/2402.18871.pdf)
+- (arXiv 2024.03) Learning A Physical-aware Diffusion Model Based on Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2403.01497.pdf)
 
 ### Face
-- (arXiv 2021.03) Face Transformer for Recognition, [[Paper](https://arxiv.org/abs/2103.14803)]
+- (arXiv 2021.03) Face Transformer for Recognition, [[Paper]](https://arxiv.org/abs/2103.14803)
 - (arXiv 2021.03) Robust Facial Expression Recognition with Convolutional Visual Transformers, [[Paper]](https://arxiv.org/abs/2103.16854)
 - (arXiv 2021.04) TransRPPG: Remote Photoplethysmography Transformer for 3D Mask Face Presentation Attack Detection, [[Paper]](https://arxiv.org/pdf/2104.07419.pdf)
 - (arXiv 2021.04) Facial Attribute Transformers for Precise and Robust Makeup Transfer, [[Paper]](https://arxiv.org/pdf/2104.02894.pdf)
@@ -2841,6 +2844,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Dynamic Relation Transformer for Contextual Text Block Detection, [[Paper]](https://arxiv.org/pdf/2401.09232.pdf)
 - (arXiv 2024.02) Text Role Classification in Scientific Charts Using Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2402.14579.pdf),[[Code]](https://github.com/hjkimk/text-role-classification)
 - (arXiv 2024.02) Self-Supervised Pre-Training for Table Structure Recognition Transformer, [[Paper]](https://arxiv.org/pdf/2402.15578.pdf),[[Code]](https://github.com/poloclub/unitable)
+- (arXiv 2024.03) LOCR: Location-Guided Transformer for Optical Character Recognition, [[Paper]](https://arxiv.org/pdf/2403.02127.pdf)
 
 ### Octree
 - (arXiv 2021.11) Octree Transformer: Autoregressive 3D Shape Generation on Hierarchically Structured Sequences, [[Paper]](https://arxiv.org/pdf/2111.12480.pdf), [[Code]](https://github.com/orrzohar/PROB)
@@ -3035,6 +3039,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer, [[Paper]](https://arxiv.org/pdf/2402.07680.pdf)
 - (arXiv 2024.02) DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model, [[Paper]](https://arxiv.org/pdf/2402.11241.pdf)
 - (arXiv 2024.02) CAPT: Category-level Articulation Estimation from a Single Point Cloud Using Transformer, [[Paper]](https://arxiv.org/pdf/2402.17360.pdf)
+- (arXiv 2024.03) Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2403.01407.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3659,6 +3664,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2401.17828.pdf), [[Code]](https://github.com/RozhanAhmadi/SWTformer)
 - (arXiv 2024.02) ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer, [[Paper]](https://arxiv.org/pdf/2402.16674.pdf), [[Code]](https://github.com/DongSky/ConSept)
 - (arXiv 2024.03) PEM: Prototype-based Efficient MaskFormer for Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.19422.pdf), [[Code]](https://github.com/NiccoloCavagnero/PEM)
+- (arXiv 2024.03) AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2403.01818.pdf), [[Code]](https://github.com/xmed-lab/AllSpark)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
