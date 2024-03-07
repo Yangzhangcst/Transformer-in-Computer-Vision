@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/06
+**Last updated: 2024/03/07
 
 ## Table of Contents
 
@@ -3147,6 +3147,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker, [[Paper]](https://arxiv.org/pdf/2401.04377.pdf), [[Code]](https://github.com/S-JingTao/Categorical_Pose_Tracking)
 - (arXiv 2024.01) Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers, [[Paper]](https://arxiv.org/pdf/2401.16700.pdf)
 - (arXiv 2024.02) Cameras as Rays: Pose Estimation via Ray Diffusion, [[Paper]](https://arxiv.org/pdf/2402.14817.pdf), [[Code]](https://jasonyzhang.com/RayDiffusion)
+- (arXiv 2024.03) FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation, [[Paper]](https://arxiv.org/pdf/2403.03221.pdf), [[Code]](https://crockwell.github.io/far/)
 
 ### Planning
 - (arXiv 2021.12) Differentiable Spatial Planning using Transformers, [[Paper]](https://arxiv.org/pdf/2112.01010.pdf), [[Project]](https://devendrachaplot.github.io/projects/spatial-planning-transformers)
