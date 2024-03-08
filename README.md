@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/07
+**Last updated: 2024/03/08
 
 ## Table of Contents
 
@@ -1017,6 +1017,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) ReViT: Enhancing Vision Transformers with Attention Residual Connections for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2402.11301.pdf)
 - (arXiv 2024.02) Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers, [[Paper]](https://arxiv.org/pdf/2402.12138.pdf)
 - (arXiv 2024.03) LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition, [[Paper]](https://arxiv.org/pdf/2403.01412.pdf), [[Code]](https://github.com/MaxLLF/LUM-ViT)
+- (arXiv 2024.03) NiNformer: A Network in Network Transformer with Token Mixing Generated Gating Function, [[Paper]](https://arxiv.org/pdf/2403.02411.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1068,6 +1069,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Input Compression with Positional Consistency for Efficient Training and Inference of Transformer Neural Networks, [[Paper]](https://arxiv.org/pdf/2312.12385.pdf), [[Code]](https://github.com/amrnag/ICPC)
 - (arXiv 2024.01) UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.06426.pdf)
 - (arXiv 2024.02) Memory-Efficient Vision Transformers: An Activation-Aware Mixed-Rank Compression Strategy, [[Paper]](https://arxiv.org/pdf/2402.06004.pdf)
+- (arXiv 2024.03) Unifying Generation and Compression: Ultra-low bitrate Image Coding Via Multi-stage Transformer, [[Paper]](https://arxiv.org/pdf/2403.03736.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
@@ -1099,6 +1101,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2022.11) Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring, [[Paper]](https://arxiv.org/pdf/2211.12250.pdf), [[Code]](https://github.com/kkkls/FFTformer)
 - (arXiv 2023.03) Image Deblurring by Exploring In-depth Properties of Transformer, [[Paper]](https://arxiv.org/pdf/2303.15198.pdf)
 - (arXiv 2023.09) Aggregating Long-term Sharp Features via Hybrid Transformers for Video Deblurring, [[Paper]](https://arxiv.org/pdf/2309.07054.pdf), [[Code]](https://github.com/shangwei5/STGTN)
+- (arXiv 2024.03) A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2403.02611.pdf), [[Code]](https://github.com/PieceZhang/MPT-CataBlur)
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
@@ -2446,6 +2449,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images, [[Paper]](https://arxiv.org/pdf/2402.16663.pdf), [[Code]](https://github.com/CUHK-AIM-Group/UN-SAM)
 - (arXiv 2024.02) Investigating the Robustness of Vision Transformers against Label Noise in Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2402.16734.pdf)
 - (arXiv 2024.02) MV-Swin-T: Mammogram Classification with Multi-view Swin Transformer, [[Paper]](https://arxiv.org/pdf/2402.16298.pdf), [[Code]](https://github.com/prithuls/MV-Swin-T)
+- (arXiv 2024.03) Redefining cystoscopy with ai: bladder cancer diagnosis using an efficient hybrid cnn-transformer model, [[Paper]](https://arxiv.org/pdf/2403.03879.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2713,6 +2717,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) A Touch, Vision, and Language Dataset for Multimodal Alignment,  [[Paper]](https://arxiv.org/pdf/2402.13232.pdf), [[Code]](https://tactile-vlm.github.io/)
 - (arXiv 2024.02) Multimodal Transformer With a Low-Computational-Cost Guarantee,  [[Paper]](https://arxiv.org/pdf/2402.15096.pdf)
 - (arXiv 2024.03) Task Indicating Transformer for Task-conditional Dense Predictions,  [[Paper]](https://arxiv.org/pdf/2403.00327.pdf)
+- (arXiv 2024.03) Multimodal Transformer for Comics Text-Cloze, [[Paper]](https://arxiv.org/pdf/2403.03719.pdf)
+- (arXiv 2024.03) MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer, [[Paper]](https://arxiv.org/pdf/2403.02991.pdf), [[Code]](https://github.com/double125/MADTP)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -3666,6 +3672,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) ConSept: Continual Semantic Segmentation via Adapter-based Vision Transformer, [[Paper]](https://arxiv.org/pdf/2402.16674.pdf), [[Code]](https://github.com/DongSky/ConSept)
 - (arXiv 2024.03) PEM: Prototype-based Efficient MaskFormer for Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.19422.pdf), [[Code]](https://github.com/NiccoloCavagnero/PEM)
 - (arXiv 2024.03) AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2403.01818.pdf), [[Code]](https://github.com/xmed-lab/AllSpark)
+- (arXiv 2024.03) Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision, [[Paper]](https://arxiv.org/pdf/2403.03707.pdf)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -4149,6 +4156,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Transformer-based Video Saliency Prediction with High Temporal Dimension Decoding, [[Paper]](https://arxiv.org/pdf/2401.07942.pdf)
 - (arXiv 2024.01) Understanding Video Transformers via Universal Concept Discovery, [[Paper]](https://arxiv.org/pdf/2401.10831.pdf), [[Code]](https://yorkucvil.github.io/VTCD)
 - (arXiv 2024.01) VJT: A Video Transformer on Joint Tasks of Deblurring, Low-light Enhancement and Denoising, [[Paper]](https://arxiv.org/pdf/2401.14754.pdf)
+- (arXiv 2024.03) A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Video, [[Paper]](https://arxiv.org/pdf/2403.03461.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -4176,6 +4184,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Mono3DVG: 3D Visual Grounding in Monocular Images, [[Paper]](https://arxiv.org/pdf/2312.08022.pdf)
 - (arXiv 2023.12) GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2312.15043.pdf), [[Code]](https://github.com/om-ai-lab/GroundVLP)
 - (arXiv 2024.01) Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding, [[Paper]](https://arxiv.org/pdf/2401.00901.pdf), [[Code]](https://github.com/TalalWasim/Video-GroundingDINO)
+- (arXiv 2024.03) MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2403.03077.pdf), [[Code]](https://github.com/birdy666/MiKASA-3DVG)
 
 ### Visual Question Answering
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
