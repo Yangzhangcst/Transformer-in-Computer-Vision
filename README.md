@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/08
+**Last updated: 2024/03/11
 
 ## Table of Contents
 
@@ -1018,6 +1018,9 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers, [[Paper]](https://arxiv.org/pdf/2402.12138.pdf)
 - (arXiv 2024.03) LUM-ViT: Learnable Under-sampling Mask Vision Transformer for Bandwidth Limited Optical Signal Acquisition, [[Paper]](https://arxiv.org/pdf/2403.01412.pdf), [[Code]](https://github.com/MaxLLF/LUM-ViT)
 - (arXiv 2024.03) NiNformer: A Network in Network Transformer with Token Mixing Generated Gating Function, [[Paper]](https://arxiv.org/pdf/2403.02411.pdf)
+- (arXiv 2024.03) T-TAME: Trainable Attention Mechanism for Explaining Convolutional Networks and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.04523.pdf)
+- (arXiv 2024.03) ACC-ViT : Atrous Convolution's Comeback in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.04200.pdf)
+- (arXiv 2024.03) Scalable and Robust Transformer Decoders for Interpretable Image Classification with Foundation Models, [[Paper]](https://arxiv.org/pdf/2403.04125.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1423,6 +1426,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) TCI-Former: Thermal Conduction-Inspired Transformer for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2402.02046.pdf)
 - (arXiv 2024.02) Deployment Prior Injection for Run-time Calibratable Object Detection, [[Paper]](https://arxiv.org/pdf/2402.17207.pdf)
 - (arXiv 2024.03) DAMS-DETR: Dynamic Adaptive Multispectral Detection Transformer with Competitive Query Selection and Adaptive Feature Fusion, [[Paper]](https://arxiv.org/pdf/2403.00326.pdf), [[Code]](https://github.com/gjj45/DAMS-DETR)
+- (arXiv 2024.03) AO-DETR: Anti-Overlapping DETR for X-Ray Prohibited Items Detection, [[Paper]](https://arxiv.org/pdf/2403.04309.pdf), [[Code]](https://github.com/Limingyuan001/AO-DETR-test)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1543,6 +1547,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) CATFace: Cross-Attribute-Guided Transformer with Self-Attention Distillation for Low-Quality Face Recognition, [[Paper]](https://arxiv.org/pdf/2401.03037.pdf)
 - (arXiv 2024.02) DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2402.05712.pdf),[[Code]](https://github.com/theEricMa/DiffSpeaker)
 - (arXiv 2024.03) BFRFormer: Transformer-based generator for Real-World Blind Face Restoration, [[Paper]](https://arxiv.org/pdf/2402.18811.pdf),[[Code]](https://github.com/s8Znk/BFRFormer)
+- (arXiv 2024.03) AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors, [[Paper]](https://arxiv.org/pdf/2403.04697.pdf),[[Code]](https://github.com/yuankaishen2001/AUFormer)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -3802,12 +3807,14 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation, [[Paper]](https://arxiv.org/pdf/2312.00085.pdf),[[Project]](https://xmuxiaoma666.github.io/Projects/X-Dreamer)
 - (arXiv 2023.12) GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation, [[Paper]](https://arxiv.org/pdf/2312.04557.pdf),[[Code]](https://www.shoufachen.com/gentron_website/)
 - (arXiv 2024.02) Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis, [[Paper]](https://arxiv.org/pdf/2402.14797.pdf),[[Code]](https://snap-research.github.io/snapvideo/)
+- (arXiv 2024.03) PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2403.04692.pdf),[[Code]](https://pixart-alpha.github.io/PixArt-sigma-project/)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
 - (arXiv 2022.02) Paying U-Attention to Textures: Multi-Stage Hourglass Vision Transformer for Universal Texture Synthesis, [[Paper]](https://arxiv.org/pdf/2202.11703.pdf)
 - (arXiv 2023.11) 3D-TexSeg: Unsupervised Segmentation of 3D Texture using Mutual Transformer Learning, [[Paper]](https://arxiv.org/pdf/2311.10651.pdf),[[Code]](https://videodreamer23.github.io/)
 - (arXiv 2024.02) Dynamic Texture Transfer using PatchMatch and Transformers, [[Paper]](https://arxiv.org/pdf/2402.00606.pdf)
+- (arXiv 2024.03) 3DTextureTransformer: Geometry Aware Texture Generation for Arbitrary Mesh Topology, [[Paper]](https://arxiv.org/pdf/2403.04225.pdf)
 
 ### Tracking
 - (EMNLP'19) Effective Use of Transformer Networks for Entity Tracking, [[Paper]](https://arxiv.org/pdf/1909.02635), [[Code]](https://github.com/aditya2211/transformer-entity-tracking)
