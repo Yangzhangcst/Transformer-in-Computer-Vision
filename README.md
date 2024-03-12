@@ -1914,6 +1914,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Intriguing Differences Between Zero-Shot and Systematic Evaluations of Vision-Language Transformer Models, [[Paper]](https://arxiv.org/pdf/2402.08473.pdf)
 - (arXiv 2024.02) PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter, [[Paper]](https://arxiv.org/pdf/2402.10896.pdf)
 - (arXiv 2024.02) GROUNDHOG : Grounding Large Language Models to Holistic Segmentation, [[Paper]](https://arxiv.org/pdf/2402.16846.pdf)
+- (arXiv 2024.03) VLM-PL: Advanced Pseudo Labeling approach Class Incremental Object Detection with Vision-Language Model, [[Paper]](https://arxiv.org/pdf/2403.05346.pdf)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -3345,6 +3346,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) On Convolutional Vision Transformers for Yield Prediction, [[Paper]](https://arxiv.org/pdf/2402.05557.pdf)
 - (arXiv 2024.02) AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers, [[Paper]](https://arxiv.org/pdf/2402.05602.pdf), [[Code]](https://github.com/rachtibat/LRP-for-Transformers)
 - (arXiv 2024.02) Cross-Resolution Land Cover Classification Using Outdated Products and Transformers, [[Paper]](https://arxiv.org/pdf/2402.16001.pdf), [[Code]](https://github.com/yu-ni1989/ANLC-Former)
+- (arXiv 2024.03) Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery, [[Paper]](https://arxiv.org/pdf/2403.05419.pdf), [[Code]](https://github.com/techmn/satmae_pp)
 
 ### Restoration
 - (arXiv 2021.06) Uformer: A General U-Shaped Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2106.03106.pdf), [[Code]](https://github.com/ZhendongWang6/Uformer)
@@ -3905,6 +3907,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Correlation-Embedded Transformer Tracking: A Single-Branch Framework, [[Paper]](https://arxiv.org/pdf/2401.12743.pdf), [[Code]](https://github.com/phiphiphi31/SBT)
 - (arXiv 2024.02) Optimized Information Flow for Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2402.08195.pdf), [[Code]](https://github.com/JananiKugaa/OIFTrack)
 - (arXiv 2024.02) OLViT: Multi-Modal State Tracking via Attention-Based Embeddings for Video-Grounded Dialog, [[Paper]](https://arxiv.org/pdf/2402.13146.pdf)
+- (arXiv 2024.03) Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, [[Paper]](https://arxiv.org/pdf/2403.05231.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
