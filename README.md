@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/12
+**Last updated: 2024/03/14
 
 ## Table of Contents
 
@@ -1151,6 +1151,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Transformers in Unsupervised Structure-from-Motion, [[Paper]](https://arxiv.org/pdf/2312.10529.pdf), [[Code]](https://github.com/NeurAI-Lab/MT-SfMLearner)
 - (arXiv.2024.02) CLIP Can Understand Depth, [[Paper]](https://arxiv.org/pdf/2402.03251.pdf)
 - (arXiv.2024.03) Depth Estimation Algorithm Based on Transformer-Encoder and Feature Fusion, [[Paper]](https://arxiv.org/pdf/2403.01370.pdf)
+- (arXiv.2024.03) METER: a mobile vision transformer architecture for monocular depth estimation, [[Paper]](https://arxiv.org/pdf/2403.08368.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -1548,6 +1549,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2402.05712.pdf),[[Code]](https://github.com/theEricMa/DiffSpeaker)
 - (arXiv 2024.03) BFRFormer: Transformer-based generator for Real-World Blind Face Restoration, [[Paper]](https://arxiv.org/pdf/2402.18811.pdf),[[Code]](https://github.com/s8Znk/BFRFormer)
 - (arXiv 2024.03) AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors, [[Paper]](https://arxiv.org/pdf/2403.04697.pdf),[[Code]](https://github.com/yuankaishen2001/AUFormer)
+- (arXiv 2024.03) A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product, [[Paper]](https://arxiv.org/pdf/2403.08511.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -4167,6 +4169,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Understanding Video Transformers via Universal Concept Discovery, [[Paper]](https://arxiv.org/pdf/2401.10831.pdf), [[Code]](https://yorkucvil.github.io/VTCD)
 - (arXiv 2024.01) VJT: A Video Transformer on Joint Tasks of Deblurring, Low-light Enhancement and Denoising, [[Paper]](https://arxiv.org/pdf/2401.14754.pdf)
 - (arXiv 2024.03) A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Video, [[Paper]](https://arxiv.org/pdf/2403.03461.pdf)
+- (arXiv 2024.03) OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework, [[Paper]](https://arxiv.org/pdf/2403.08682.pdf)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
@@ -4524,6 +4527,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Sheet Music Transformer: End-To-End Optical Music Recognition Beyond Monophonic Transcription, [[Paper]](https://arxiv.org/pdf/2402.07596.pdf)
 - (arXiv 2024.02) ViTaL: An Advanced Framework for Automated Plant Disease Identification in Leaf Images Using Vision Transformers and Linear Projection For Feature Reduction, [[Paper]](https://arxiv.org/pdf/2402.17424.pdf)
 - (arXiv 2024.02) SFTformer: A Spatial-Frequency-Temporal Correlation-Decoupling Transformer for Radar Echo Extrapolation, [[Paper]](https://arxiv.org/pdf/2402.18044.pdf)
+- (arXiv 2024.03) Pig aggression classification using CNN, Transformers and Recurrent Networks, [[Paper]](https://arxiv.org/pdf/2403.08528.pdf)
+- (arXiv 2024.03) Masked Generative Story Transformer with Character Guidance and Caption Augmentation, [[Paper]](https://arxiv.org/pdf/2403.08502.pdf)
 
 ## Contact & Feedback
 
