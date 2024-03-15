@@ -440,6 +440,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Lift-Attend-Splat: Bird's-eye-view camera-lidar fusion using transformers, [[Paper]](https://arxiv.org/pdf/2312.14919.pdf)
 - (arXiv 2024.01) WidthFormer: Toward Efficient Transformer-based BEV View Transformation, [[Paper]](https://arxiv.org/pdf/2401.03836.pdf), [[Code]](https://github.com/ChenhongyiYang/WidthFormer)
 - (arXiv 2024.02) OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction, [[Paper]](https://arxiv.org/pdf/2402.18140.pdf)
+- (arXiv 2024.03) CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow,  [[Paper]](https://arxiv.org/pdf/2403.08919.pdf)
 
 ### Captioning
 - (arXiv 2021.01)  CPTR: Full Transformer Network for Image Captioning, [[Paper]](https://arxiv.org/pdf/2101.10804.pdf)
@@ -1185,6 +1186,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2401.11605.pdf), [[Code]](https://crowsonkb.github.io/hourglass-diffusion-transformers)
 - (arXiv 2024.02) Cross-view Masked Diffusion Transformers for Person Image Synthesis, [[Paper]](https://arxiv.org/pdf/2402.01516.pdf)
 - (arXiv 2024.02) FiT: Flexible Vision Transformer for Diffusion Model, [[Paper]](https://arxiv.org/pdf/2402.12376.pdf), [[Code]](https://github.com/whlzy/FiT)
+- (arXiv 2024.03) Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts, [[Paper]](https://arxiv.org/pdf/2403.09176.pdf), [[Code]](https://byeongjun-park.github.io/Switch-DiT/)
 
 ### Dehazing
 - (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
@@ -1919,6 +1921,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter, [[Paper]](https://arxiv.org/pdf/2402.10896.pdf)
 - (arXiv 2024.02) GROUNDHOG : Grounding Large Language Models to Holistic Segmentation, [[Paper]](https://arxiv.org/pdf/2402.16846.pdf)
 - (arXiv 2024.03) VLM-PL: Advanced Pseudo Labeling approach Class Incremental Object Detection with Vision-Language Model, [[Paper]](https://arxiv.org/pdf/2403.05346.pdf)
+- (arXiv 2024.03) Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models, [[Paper]](https://arxiv.org/pdf/2403.09635.pdf), [[Code]](https://github.com/akhilkedia/TranformersGetStable)
 
 ### Matching
 - (CVPR'21') LoFTR: Detector-Free Local Feature Matching with Transformers, [[Paper]](https://arxiv.org/abs/2104.00680), [[Code]](https://zju3dv.github.io/loftr/)
@@ -2474,7 +2477,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.08) Coordinate Transformer: Achieving Single-stage Multi-person Mesh Recovery from Videos, [[Paper]](https://arxiv.org/pdf/2308.10334.pdf), [[Code]](https://github.com/Li-Hao-yuan/CoordFormer)
 - (arXiv 2023.11) MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers, [[Paper]](https://arxiv.org/pdf/2311.15475.pdf), [[Project]](https://nihalsid.github.io/mesh-gpt/)
 - (arXiv 2024.02) Multi-Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2402.16806.pdf)
-  
+- (arXiv 2024.03) Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2403.09063.pdf)
+
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
 
