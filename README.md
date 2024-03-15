@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/14
+**Last updated: 2024/03/15
 
 ## Table of Contents
 
@@ -324,6 +324,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Adapting Short-Term Transformers for Action Detection in Untrimmed Videos, [[Paper]](https://arxiv.org/pdf/2312.00188.pdf)
 - (arXiv 2023.12) STEP CATFormer: Spatial-Temporal Effective Body-Part Cross Attention Transformer for Skeleton-based Action Recognition, [[Paper]](https://arxiv.org/pdf/2312.03288.pdf),[[Code]](https://github.com/maclong01/STEP-CATFormer)
 - (arXiv 2024.01) Multi-view Distillation based on Multi-modal Fusion for Few-shot Action Recognition, [[Paper]](https://arxiv.org/pdf/2401.08345.pdf),[[Code]](https://github.com/cofly2014/MDMF)
+- (arXiv 2024.03) SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2403.09508.pdf),[[Code]](https://jeonghyeokdo.github.io/SkateFormer_site/)
 
 ### Active Learning
 - (arXiv 2022.06) Visual Transformer for Task-aware Active Learning, [[Paper]](https://arxiv.org/pdf/2206.06761.pdf), [[Code]](https://github.com/razvancaramalau/Visual-Transformer-for-Task-aware-Active-Learning)
@@ -2728,6 +2729,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) Task Indicating Transformer for Task-conditional Dense Predictions,  [[Paper]](https://arxiv.org/pdf/2403.00327.pdf)
 - (arXiv 2024.03) Multimodal Transformer for Comics Text-Cloze, [[Paper]](https://arxiv.org/pdf/2403.03719.pdf)
 - (arXiv 2024.03) MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer, [[Paper]](https://arxiv.org/pdf/2403.02991.pdf), [[Code]](https://github.com/double125/MADTP)
+- (arXiv 2024.03) GiT: Towards Generalist Vision Transformer through Universal Language Interface, [[Paper]](https://arxiv.org/pdf/2403.09394.pdf), [[Code]](https://github.com/Haiyang-W/GiT)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
