@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/15
+**Last updated: 2024/03/16
 
 ## Table of Contents
 
@@ -1027,6 +1027,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) T-TAME: Trainable Attention Mechanism for Explaining Convolutional Networks and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.04523.pdf)
 - (arXiv 2024.03) ACC-ViT : Atrous Convolution's Comeback in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.04200.pdf)
 - (arXiv 2024.03) Scalable and Robust Transformer Decoders for Interpretable Image Classification with Foundation Models, [[Paper]](https://arxiv.org/pdf/2403.04125.pdf)
+- (arXiv 2024.03) ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions, [[Paper]](https://arxiv.org/pdf/2403.07392.pdf), [[Code]](https://github.com/Traffic-X/ViT-CoMer)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1211,6 +1212,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.08) Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks, [[Paper]](https://arxiv.org/pdf/2308.14153.pdf)
 - (arXiv 2024.01) NightRain: Nighttime Video Deraining via Adaptive-Rain-Removal and Adaptive-Correction, [[Paper]](https://arxiv.org/pdf/2401.00729.pdf)
 - (arXiv 2024.02) Diving Deep into Regions: Exploiting Regional Information Transformer for Single Image Deraining, [[Paper]](https://arxiv.org/pdf/2402.16033.pdf), [[Code]](https://github.com/ztMotaLee/Regformer)
+- (arXiv 2024.03) Gabor-guided transformer for single image deraining, [[Paper]](https://arxiv.org/pdf/2403.07380.pdf)
 
 ### Denoising
 - (arXiv 2021.12) Neuromorphic Camera Denoising using Graph Neural Network-driven Transformers, [[Paper]](https://arxiv.org/pdf/2112.09685.pdf)
