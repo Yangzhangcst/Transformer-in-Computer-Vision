@@ -118,6 +118,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 
   
 ## Survey: 
+- (arXiv 2024.03) A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions. [[Paper]](https://arxiv.org/pdf/2403.07542.pdf)
+
 - (arXiv 2024.02) A Survey on Transformer Compression. [[Paper]](https://arxiv.org/pdf/2402.05964.pdf)
 
 - (arXiv 2024.02) Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey. [[Paper]](https://arxiv.org/pdf/2402.02941.pdf)
@@ -352,6 +354,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness, [[Paper]](https://arxiv.org/pdf/2312.04960.pdf), [[Code]](https://github.com/xiaoyunxxy/MIMIR)
 - (arXiv 2024.01) FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.01752.pdf)
 - (arXiv 2024.02) DeSparsify: Adversarial Attack Against Token Sparsification Mechanisms in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2402.02554.pdf)
+- (arXiv 2024.03) Attacking Transformers with Feature Diversity Adversarial Perturbation, [[Paper]](https://arxiv.org/pdf/2403.07942.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -1076,6 +1079,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.06426.pdf)
 - (arXiv 2024.02) Memory-Efficient Vision Transformers: An Activation-Aware Mixed-Rank Compression Strategy, [[Paper]](https://arxiv.org/pdf/2402.06004.pdf)
 - (arXiv 2024.03) Unifying Generation and Compression: Ultra-low bitrate Image Coding Via Multi-stage Transformer, [[Paper]](https://arxiv.org/pdf/2403.03736.pdf)
+- (arXiv 2024.03) Content-aware Masked Image Modeling Transformer for Stereo Image Compression, [[Paper]](https://arxiv.org/pdf/2403.08505.pdf)
 
 ### Cross-view
 - (arXiv 2022.03) Mutual Generative Transformer Learning for Cross-view Geo-localization, [[Paper]](https://arxiv.org/pdf/2203.09135.pdf)
