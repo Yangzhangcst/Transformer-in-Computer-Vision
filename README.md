@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/16
+**Last updated: 2024/03/18
 
 ## Table of Contents
 
@@ -355,6 +355,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.01752.pdf)
 - (arXiv 2024.02) DeSparsify: Adversarial Attack Against Token Sparsification Mechanisms in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2402.02554.pdf)
 - (arXiv 2024.03) Attacking Transformers with Feature Diversity Adversarial Perturbation, [[Paper]](https://arxiv.org/pdf/2403.07942.pdf)
+- (arXiv 2024.03) Approximate Nullspace Augmented Finetuning for Robust Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.10476.pdf)
 
 ### Anomaly Detection
 - (arXiv 2021.04) VT-ADL: A Vision Transformer Network for Image Anomaly Detection and Localization, [[Paper]](https://arxiv.org/pdf/2104.10036.pdf)
@@ -1028,6 +1029,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) ACC-ViT : Atrous Convolution's Comeback in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.04200.pdf)
 - (arXiv 2024.03) Scalable and Robust Transformer Decoders for Interpretable Image Classification with Foundation Models, [[Paper]](https://arxiv.org/pdf/2403.04125.pdf)
 - (arXiv 2024.03) ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions, [[Paper]](https://arxiv.org/pdf/2403.07392.pdf), [[Code]](https://github.com/Traffic-X/ViT-CoMer)
+- (arXiv 2024.03) Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.10030.pdf), [[Code]](https://github.com/mlvlab/MCTF)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1438,6 +1440,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Deployment Prior Injection for Run-time Calibratable Object Detection, [[Paper]](https://arxiv.org/pdf/2402.17207.pdf)
 - (arXiv 2024.03) DAMS-DETR: Dynamic Adaptive Multispectral Detection Transformer with Competitive Query Selection and Adaptive Feature Fusion, [[Paper]](https://arxiv.org/pdf/2403.00326.pdf), [[Code]](https://github.com/gjj45/DAMS-DETR)
 - (arXiv 2024.03) AO-DETR: Anti-Overlapping DETR for X-Ray Prohibited Items Detection, [[Paper]](https://arxiv.org/pdf/2403.04309.pdf), [[Code]](https://github.com/Limingyuan001/AO-DETR-test)
+- (arXiv 2024.03) SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras, [[Paper]](https://arxiv.org/pdf/2403.10353.pdf), [[Code]](https://github.com/nullmax-vision/SimPB)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
@@ -1560,6 +1563,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) BFRFormer: Transformer-based generator for Real-World Blind Face Restoration, [[Paper]](https://arxiv.org/pdf/2402.18811.pdf),[[Code]](https://github.com/s8Znk/BFRFormer)
 - (arXiv 2024.03) AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors, [[Paper]](https://arxiv.org/pdf/2403.04697.pdf),[[Code]](https://github.com/yuankaishen2001/AUFormer)
 - (arXiv 2024.03) A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product, [[Paper]](https://arxiv.org/pdf/2403.08511.pdf)
+- (arXiv 2024.03) Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2403.10488.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -2469,6 +2473,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Investigating the Robustness of Vision Transformers against Label Noise in Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2402.16734.pdf)
 - (arXiv 2024.02) MV-Swin-T: Mammogram Classification with Multi-view Swin Transformer, [[Paper]](https://arxiv.org/pdf/2402.16298.pdf), [[Code]](https://github.com/prithuls/MV-Swin-T)
 - (arXiv 2024.03) Redefining cystoscopy with ai: bladder cancer diagnosis using an efficient hybrid cnn-transformer model, [[Paper]](https://arxiv.org/pdf/2403.03879.pdf)
+- (arXiv 2024.03) Shifting Focus: From Global Semantics to Local Prominent Features in Swin-Transformer for Knee Osteoarthritis Severity Assessment, [[Paper]](https://arxiv.org/pdf/2403.09947.pdf), [[Code]](https://github.com/mtliba/KOA_NLCS2024)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -2740,7 +2745,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) Multimodal Transformer for Comics Text-Cloze, [[Paper]](https://arxiv.org/pdf/2403.03719.pdf)
 - (arXiv 2024.03) MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer, [[Paper]](https://arxiv.org/pdf/2403.02991.pdf), [[Code]](https://github.com/double125/MADTP)
 - (arXiv 2024.03) GiT: Towards Generalist Vision Transformer through Universal Language Interface, [[Paper]](https://arxiv.org/pdf/2403.09394.pdf), [[Code]](https://github.com/Haiyang-W/GiT)
-
+- (arXiv 2024.03) Uni-SMART: Universal Science Multimodal Analysis and Research Transformer, [[Paper]](https://arxiv.org/pdf/2403.10301.pdf)
+  
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
 - (arXiv 2021.12) Multi-View Stereo with Transformer, [[Paper]](https://arxiv.org/pdf/2112.00336.pdf)
@@ -3067,6 +3073,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model, [[Paper]](https://arxiv.org/pdf/2402.11241.pdf)
 - (arXiv 2024.02) CAPT: Category-level Articulation Estimation from a Single Point Cloud Using Transformer, [[Paper]](https://arxiv.org/pdf/2402.17360.pdf)
 - (arXiv 2024.03) Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2403.01407.pdf)
+- (arXiv 2024.03) FBPT: A Fully Binary Point Transformer, [[Paper]](https://arxiv.org/pdf/2403.09998.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -4240,6 +4247,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2022.04) RelViT: Concept-guided Vision Transformer for Visual Relational Reasoning, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf), [[Code]](https://github.com/NVlabs/RelViT)
 - (arXiv 2022.06) SAViR-T: Spatially Attentive Visual Reasoning with Transformers, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf)
 - (arXiv 2023.01) Pseudo 3D Perception Transformer with Multi-level Confidence Optimization for Visual Commonsense Reasoning, [[Paper]](https://arxiv.org/pdf/2301.13335.pdf)
+- (arXiv 2024.03) ViTCN: Vision Transformer Contrastive Network For Reasoning, [[Paper]](https://arxiv.org/pdf/2403.09962.pdf)
 
 ### Visual Relationship Detection
 - (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
