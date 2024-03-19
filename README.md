@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/18
+**Last updated: 2024/03/19
 
 ## Table of Contents
 
@@ -1030,6 +1030,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) Scalable and Robust Transformer Decoders for Interpretable Image Classification with Foundation Models, [[Paper]](https://arxiv.org/pdf/2403.04125.pdf)
 - (arXiv 2024.03) ViT-CoMer: Vision Transformer with Convolutional Multi-scale Feature Interaction for Dense Predictions, [[Paper]](https://arxiv.org/pdf/2403.07392.pdf), [[Code]](https://github.com/Traffic-X/ViT-CoMer)
 - (arXiv 2024.03) Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.10030.pdf), [[Code]](https://github.com/mlvlab/MCTF)
+- (arXiv 2024.03) HIRI-ViT: Scaling Vision Transformer with High Resolution Inputs, [[Paper]](https://arxiv.org/pdf/2403.11999.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
