@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/19
+**Last updated: 2024/03/20
 
 ## Table of Contents
 
@@ -1566,6 +1566,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors, [[Paper]](https://arxiv.org/pdf/2403.04697.pdf),[[Code]](https://github.com/yuankaishen2001/AUFormer)
 - (arXiv 2024.03) A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product, [[Paper]](https://arxiv.org/pdf/2403.08511.pdf)
 - (arXiv 2024.03) Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2403.10488.pdf)
+- (arXiv 2024.03) Boosting Continuous Emotion Recognition with Self-Pretraining using Masked Autoencoders, Temporal Convolutional Networks, and Transformers, [[Paper]](https://arxiv.org/pdf/2403.11440.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1843,6 +1844,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) MSFormer: A Skeleton-multiview Fusion Method For Tooth Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2310.14489.pdf)
 - (arXiv 2023.12) PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation, [[Paper]](https://arxiv.org/pdf/2312.03015.pdf),[[Code]](https://github.com/zyc00/PartSLIP2)
 - (arXiv 2023.12) EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2312.05602.pdf)
+- (arXiv 2024.03) ShapeFormer: Shape Prior Visible-to-Amodal Transformer-based Amodal Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2403.11376.pdf),[[Code]](https://github.com/UARK-AICV/ShapeFormer)
 
 ### Knowledge Distillation
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
@@ -3834,6 +3836,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation, [[Paper]](https://arxiv.org/pdf/2312.04557.pdf),[[Code]](https://www.shoufachen.com/gentron_website/)
 - (arXiv 2024.02) Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis, [[Paper]](https://arxiv.org/pdf/2402.14797.pdf),[[Code]](https://snap-research.github.io/snapvideo/)
 - (arXiv 2024.03) PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2403.04692.pdf),[[Code]](https://pixart-alpha.github.io/PixArt-sigma-project/)
+- (arXiv 2024.03) BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis, [[Paper]](https://arxiv.org/pdf/2403.11273.pdf),[[Code]](https://vlislab22.github.io/BrightDreamer/)
 
 ### Texture
 - (arXiv 2021.09) 3D Human Texture Estimation from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2109.02563.pdf), [[Code]](https://www.mmlab-ntu.com/project/texformer/)
