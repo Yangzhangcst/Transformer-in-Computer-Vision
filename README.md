@@ -1033,6 +1033,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.10030.pdf), [[Code]](https://github.com/mlvlab/MCTF)
 - (arXiv 2024.03) HIRI-ViT: Scaling Vision Transformer with High Resolution Inputs, [[Paper]](https://arxiv.org/pdf/2403.11999.pdf)
 - (arXiv 2024.03) Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation, [[Paper]](https://arxiv.org/pdf/2403.11808.pdf), [[Code]](https://github.com/NUS-HPC-AI-Lab/Dynamic-Tuning)
+- (arXiv 2024.03) Rotary Position Embedding for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2403.13298.pdf), [[Code]](https://github.com/naver-ai/rope-vit)
+- (arXiv 2024.03) Retina Vision Transformer (RetinaViT): Introducing Scaled Patches into Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.13677.pdf)
 
 ### Clustering
 - (arXiv 2022.06) Vision Transformer for Contrastive Clustering, [[Paper]](https://arxiv.org/pdf/2206.12925.pdf)
@@ -1569,6 +1571,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) A Multimodal Fusion Network For Student Emotion Recognition Based on Transformer and Tensor Product, [[Paper]](https://arxiv.org/pdf/2403.08511.pdf)
 - (arXiv 2024.03) Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2403.10488.pdf)
 - (arXiv 2024.03) Boosting Continuous Emotion Recognition with Self-Pretraining using Masked Autoencoders, Temporal Convolutional Networks, and Transformers, [[Paper]](https://arxiv.org/pdf/2403.11440.pdf)
+- (arXiv 2024.03) Emotion Recognition Using Transformers with Masked Learning, [[Paper]](https://arxiv.org/pdf/2403.13731.pdf),[[Code]](https://github.com/msjae/ABAW)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -2494,6 +2497,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers, [[Paper]](https://arxiv.org/pdf/2311.15475.pdf), [[Project]](https://nihalsid.github.io/mesh-gpt/)
 - (arXiv 2024.02) Multi-Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2402.16806.pdf)
 - (arXiv 2024.03) Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2403.09063.pdf)
+- (arXiv 2024.03) T-Pixel2Mesh: Combining Global and Local Transformer for 3D Mesh Generation from a Single Image, [[Paper]](https://arxiv.org/pdf/2403.13663.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -4207,6 +4211,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) VJT: A Video Transformer on Joint Tasks of Deblurring, Low-light Enhancement and Denoising, [[Paper]](https://arxiv.org/pdf/2401.14754.pdf)
 - (arXiv 2024.03) A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Video, [[Paper]](https://arxiv.org/pdf/2403.03461.pdf)
 - (arXiv 2024.03) OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework, [[Paper]](https://arxiv.org/pdf/2403.08682.pdf)
+- (arXiv 2024.03) vid-TLDR: Training Free Token merging for Light-weight Video Transformer, [[Paper]](https://arxiv.org/pdf/2403.13347.pdf), [[Code]](https://github.com/mlvlab/vid-TLDR)
 
 ### Visual Grounding
 - (arXiv 2021.04) TransVG: End-to-End Visual Grounding with Transformers, [[Paper]](https://arxiv.org/abs/2104.08541)
