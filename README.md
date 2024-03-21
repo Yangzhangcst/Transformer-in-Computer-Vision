@@ -3709,6 +3709,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) PEM: Prototype-based Efficient MaskFormer for Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.19422.pdf), [[Code]](https://github.com/NiccoloCavagnero/PEM)
 - (arXiv 2024.03) AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2403.01818.pdf), [[Code]](https://github.com/xmed-lab/AllSpark)
 - (arXiv 2024.03) Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision, [[Paper]](https://arxiv.org/pdf/2403.03707.pdf)
+- (arXiv 2024.03) DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2403.11184.pdf), [[Code]](https://github.com/Wu0409/DuPL)
 
 ### Shape
 - (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
@@ -3945,6 +3946,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Optimized Information Flow for Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2402.08195.pdf), [[Code]](https://github.com/JananiKugaa/OIFTrack)
 - (arXiv 2024.02) OLViT: Multi-Modal State Tracking via Attention-Based Embeddings for Video-Grounded Dialog, [[Paper]](https://arxiv.org/pdf/2402.13146.pdf)
 - (arXiv 2024.03) Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, [[Paper]](https://arxiv.org/pdf/2403.05231.pdf)
+- (arXiv 2024.03) Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers, [[Paper]](https://arxiv.org/pdf/2403.10574.pdf), [[Code]](https://github.com/orgs/GXNU-ZhongLab)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
