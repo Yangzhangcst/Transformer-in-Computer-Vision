@@ -1120,6 +1120,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.03) Image Deblurring by Exploring In-depth Properties of Transformer, [[Paper]](https://arxiv.org/pdf/2303.15198.pdf)
 - (arXiv 2023.09) Aggregating Long-term Sharp Features via Hybrid Transformers for Video Deblurring, [[Paper]](https://arxiv.org/pdf/2309.07054.pdf), [[Code]](https://github.com/shangwei5/STGTN)
 - (arXiv 2024.03) A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2403.02611.pdf), [[Code]](https://github.com/PieceZhang/MPT-CataBlur)
+- (arXiv 2024.03) DeblurDiNAT: A Lightweight and Effective Transformer for Image Deblurring, [[Paper]](https://arxiv.org/pdf/2403.13163.pdf), [[Code]](https://github.com/HanzhouLiu/DeblurDiNAT.git)
 
 ### Depth
 - (arXiv 2020.11) Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers, [[Paper]](https://arxiv.org/pdf/2011.02910.pdf), [[Code]](https://github.com/mli0603/stereo-transformer)
@@ -2482,6 +2483,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) MV-Swin-T: Mammogram Classification with Multi-view Swin Transformer, [[Paper]](https://arxiv.org/pdf/2402.16298.pdf), [[Code]](https://github.com/prithuls/MV-Swin-T)
 - (arXiv 2024.03) Redefining cystoscopy with ai: bladder cancer diagnosis using an efficient hybrid cnn-transformer model, [[Paper]](https://arxiv.org/pdf/2403.03879.pdf)
 - (arXiv 2024.03) Shifting Focus: From Global Semantics to Local Prominent Features in Swin-Transformer for Knee Osteoarthritis Severity Assessment, [[Paper]](https://arxiv.org/pdf/2403.09947.pdf), [[Code]](https://github.com/mtliba/KOA_NLCS2024)
+- (arXiv 2024.03) Improved EATFormer: A Vision Transformer for Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2403.13167.pdf)
 
 ### Mesh
 - (arXiv 2022.07) Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2207.13820.pdf), [[Code]](https://github.com/postech-ami/FastMETRO)
@@ -3951,6 +3953,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) OLViT: Multi-Modal State Tracking via Attention-Based Embeddings for Video-Grounded Dialog, [[Paper]](https://arxiv.org/pdf/2402.13146.pdf)
 - (arXiv 2024.03) Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, [[Paper]](https://arxiv.org/pdf/2403.05231.pdf)
 - (arXiv 2024.03) Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers, [[Paper]](https://arxiv.org/pdf/2403.10574.pdf), [[Code]](https://github.com/orgs/GXNU-ZhongLab)
+- (arXiv 2024.03) TAPTR: Tracking Any Point with Transformers as Detection, [[Paper]](https://arxiv.org/pdf/2403.13042.pdf), [[Code]](https://github.com/IDEA-Research/TAPTR)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
