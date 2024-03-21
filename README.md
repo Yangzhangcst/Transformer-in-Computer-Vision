@@ -1185,6 +1185,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.07) Deepfake Video Detection Using Generative Convolutional Vision Transformer, [[Paper]](https://arxiv.org/pdf/2307.07036.pdf), [[Code]](https://github.com/erprogs/GenConViT)
 - (arXiv 2023.07) Self-Supervised Graph Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2307.15019.pdf)
 - (arXiv 2023.09) DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention, [[Paper]](https://arxiv.org/pdf/2309.06511.pdf)
+- (arXiv 2024.03) TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer, [[Paper]](https://arxiv.org/pdf/2403.12481.pdf)
 
 ### Diffusion
 - (arXiv 2022.12) Scalable Diffusion Models with Transformers, [[Paper]](https://arxiv.org/pdf/2212.09748.pdf), [[Code]](https://www.wpeebles.com/DiT)
@@ -1574,6 +1575,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) Boosting Continuous Emotion Recognition with Self-Pretraining using Masked Autoencoders, Temporal Convolutional Networks, and Transformers, [[Paper]](https://arxiv.org/pdf/2403.11440.pdf)
 - (arXiv 2024.03) Emotion Recognition Using Transformers with Masked Learning, [[Paper]](https://arxiv.org/pdf/2403.13731.pdf),[[Code]](https://github.com/msjae/ABAW)
 - (arXiv 2024.03) FaceXFormer: A Unified Transformer for Facial Analysis, [[Paper]](https://arxiv.org/pdf/2403.12960.pdf),[[Code]](https://kartik-3004.github.io/facexformer_web/)
+- (arXiv 2024.03) A Hybrid Transformer-Sequencer approach for Age and Gender classification from in-wild facial images, [[Paper]](https://arxiv.org/pdf/2403.12483.pdf)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -2922,6 +2924,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) Boosting Segment Anything Model Towards Open-Vocabulary Learning, [[Paper]](https://arxiv.org/pdf/2312.03628.pdf), [[Code]](https://github.com/ucas-vg/Sambor)
 - (arXiv 2023.12) Open World Object Detection in the Era of Foundation Models, [[Paper]](https://arxiv.org/pdf/2312.05745.pdf), [[Code]](https://orrzohar.github.io/projects/fomo/)
 - (arXiv 2024.02) Semi-supervised Open-World Object Detection, [[Paper]](https://arxiv.org/pdf/2402.16013.pdf), [[Code]](https://github.com/sahalshajim/SS-OWFormer)
+- (arXiv 2024.03) CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2403.12455.pdf), [[Code]](https://github.com/zwq456/CLIP-VIS)
 
 ### Optical Flow
 - (arXiv 2022.03) FlowFormer: A Transformer Architecture for Optical Flow, [[Paper]](https://arxiv.org/pdf/2203.16194.pdf), [[Project]](https://drinkingcoder.github.io/publication/flowformer/)
@@ -3858,6 +3861,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.11) 3D-TexSeg: Unsupervised Segmentation of 3D Texture using Mutual Transformer Learning, [[Paper]](https://arxiv.org/pdf/2311.10651.pdf),[[Code]](https://videodreamer23.github.io/)
 - (arXiv 2024.02) Dynamic Texture Transfer using PatchMatch and Transformers, [[Paper]](https://arxiv.org/pdf/2402.00606.pdf)
 - (arXiv 2024.03) 3DTextureTransformer: Geometry Aware Texture Generation for Arbitrary Mesh Topology, [[Paper]](https://arxiv.org/pdf/2403.04225.pdf)
+- (arXiv 2024.03) TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation, [[Paper]](https://arxiv.org/pdf/2403.12906.pdf),[[Code]](https://ggxxii.github.io/texdreamer/)
 
 ### Time Series
 - (arXiv 2023.03) Time Series as Images: Vision Transformer for Irregularly Sampled Time Series, [[Paper]](https://arxiv.org/pdf/2303.12799.pdf), [[Code]](https://github.com/Leezekun/ViTST)
