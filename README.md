@@ -1165,6 +1165,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv.2024.02) CLIP Can Understand Depth, [[Paper]](https://arxiv.org/pdf/2402.03251.pdf)
 - (arXiv.2024.03) Depth Estimation Algorithm Based on Transformer-Encoder and Feature Fusion, [[Paper]](https://arxiv.org/pdf/2403.01370.pdf)
 - (arXiv.2024.03) METER: a mobile vision transformer architecture for monocular depth estimation, [[Paper]](https://arxiv.org/pdf/2403.08368.pdf)
+- (arXiv.2024.03) SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications, [[Paper]](https://arxiv.org/pdf/2403.11515.pdf)
 
 ### Deepfake Detection
 - (arXiv.2021.02) Deepfake Video Detection Using Convolutional Vision Transformer, [[Paper]](https://arxiv.org/abs/2102.11126)
@@ -3311,6 +3312,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.10) OAAFormer: Robust and Efficient Point Cloud Registration Through Overlapping-Aware Attention in Transformer, [[Paper]](https://arxiv.org/pdf/2310.09817.pdf)
 - (arXiv 2023.12) VSFormer: Visual-Spatial Fusion Transformer for Correspondence Pruning, [[Paper]](https://arxiv.org/pdf/2312.08774.pdf), [[Code]](https://github.com/sugar-fly/VSFormer)
 - (arXiv 2023.12) D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer,  [[Paper]](https://arxiv.org/pdf/2312.12970.pdf)
+- (arXiv 2024.03) EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration,  [[Paper]](https://arxiv.org/pdf/2403.11026.pdf)
 
 ### Re-identification
 - (arXiv 2021.02) TransReID: Transformer-based Object Re-Identification, [[Paper]](https://arxiv.org/abs/2102.04378)
