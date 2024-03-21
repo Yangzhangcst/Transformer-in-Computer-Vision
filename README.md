@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/20
+**Last updated: 2024/03/21
 
 ## Table of Contents
 
@@ -2750,7 +2750,8 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer, [[Paper]](https://arxiv.org/pdf/2403.02991.pdf), [[Code]](https://github.com/double125/MADTP)
 - (arXiv 2024.03) GiT: Towards Generalist Vision Transformer through Universal Language Interface, [[Paper]](https://arxiv.org/pdf/2403.09394.pdf), [[Code]](https://github.com/Haiyang-W/GiT)
 - (arXiv 2024.03) Uni-SMART: Universal Science Multimodal Analysis and Research Transformer, [[Paper]](https://arxiv.org/pdf/2403.10301.pdf)
-  
+- (arXiv 2024.03) Affective Behaviour Analysis via Integrating Multi-Modal Knowledge, [[Paper]](https://arxiv.org/pdf/2403.10825.pdf)
+
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
 - (arXiv 2021.12) Multi-View Stereo with Transformer, [[Paper]](https://arxiv.org/pdf/2112.00336.pdf)
