@@ -1573,6 +1573,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild, [[Paper]](https://arxiv.org/pdf/2403.10488.pdf)
 - (arXiv 2024.03) Boosting Continuous Emotion Recognition with Self-Pretraining using Masked Autoencoders, Temporal Convolutional Networks, and Transformers, [[Paper]](https://arxiv.org/pdf/2403.11440.pdf)
 - (arXiv 2024.03) Emotion Recognition Using Transformers with Masked Learning, [[Paper]](https://arxiv.org/pdf/2403.13731.pdf),[[Code]](https://github.com/msjae/ABAW)
+- (arXiv 2024.03) FaceXFormer: A Unified Transformer for Facial Analysis, [[Paper]](https://arxiv.org/pdf/2403.12960.pdf),[[Code]](https://kartik-3004.github.io/facexformer_web/)
 
 ### Federated Learning 
 - (arXiv 2022.11) FedTune: A Deep Dive into Efficient Federated Fine-Tuning with Pre-trained Transformers, [[Paper]](https://arxiv.org/pdf/2211.08025.pdf)
@@ -1649,6 +1650,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.01) GazeCLIP: Towards Enhancing Gaze Estimation via Text Guidance, [[Paper]](https://arxiv.org/pdf/2401.00260.pdf)
 - (arXiv 2024.01) EmMixformer: Mix transformer for eye movement recognition, [[Paper]](https://arxiv.org/pdf/2401.04956.pdf)
 - (arXiv 2024.02) TransGOP: Transformer-Based Gaze Object Prediction, [[Paper]](https://arxiv.org/pdf/2402.13578.pdf), [[Code]](https://github.com/chenxi-Guo/TransGOP)
+- (arXiv 2024.03) ViTGaze: Gaze Following with Interaction Features in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.12778.pdf), [[Code]](https://github.com/hustvl/ViTGaze)
 
 ### Generative Model
 - (arXiv 2021.02) TransGAN: Two Transformers Can Make One Strong GAN, [[Paper]](https://arxiv.org/pdf/2102.07074.pdf), [[Code]](https://github.com/VITA-Group/TransGAN)
@@ -2500,6 +2502,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) Multi-Human Mesh Recovery with Transformers, [[Paper]](https://arxiv.org/pdf/2402.16806.pdf)
 - (arXiv 2024.03) Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2403.09063.pdf)
 - (arXiv 2024.03) T-Pixel2Mesh: Combining Global and Local Transformer for 3D Mesh Generation from a Single Image, [[Paper]](https://arxiv.org/pdf/2403.13663.pdf)
+- (arXiv 2024.03) PostoMETRO: Pose Token Enhanced Mesh Transformer for Robust 3D Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2403.12473.pdf)
 
 ### Metric learning
 - (arXiv 2022.03) Hyperbolic Vision Transformers: Combining Improvements in Metric Learning, [[Paper]](https://arxiv.org/pdf/2203.10833.pdf),[[Code]](https://github.com/htdt/hyp_metric)
@@ -2758,6 +2761,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) GiT: Towards Generalist Vision Transformer through Universal Language Interface, [[Paper]](https://arxiv.org/pdf/2403.09394.pdf), [[Code]](https://github.com/Haiyang-W/GiT)
 - (arXiv 2024.03) Uni-SMART: Universal Science Multimodal Analysis and Research Transformer, [[Paper]](https://arxiv.org/pdf/2403.10301.pdf)
 - (arXiv 2024.03) Affective Behaviour Analysis via Integrating Multi-Modal Knowledge, [[Paper]](https://arxiv.org/pdf/2403.10825.pdf)
+- (arXiv 2024.03) M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2403.12552.pdf), [[Code]](https://anonymous.4open.science/r/M2DA-4772/)
 
 ### Multi-view Stereo
 - (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
@@ -4572,6 +4576,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) SFTformer: A Spatial-Frequency-Temporal Correlation-Decoupling Transformer for Radar Echo Extrapolation, [[Paper]](https://arxiv.org/pdf/2402.18044.pdf)
 - (arXiv 2024.03) Pig aggression classification using CNN, Transformers and Recurrent Networks, [[Paper]](https://arxiv.org/pdf/2403.08528.pdf)
 - (arXiv 2024.03) Masked Generative Story Transformer with Character Guidance and Caption Augmentation, [[Paper]](https://arxiv.org/pdf/2403.08502.pdf)
+- (arXiv 2024.03) Fusion Transformer with Object Mask Guidance for Image Forgery Analysis, [[Paper]](https://arxiv.org/pdf/2403.12229.pdf)
 
 ## Contact & Feedback
 
