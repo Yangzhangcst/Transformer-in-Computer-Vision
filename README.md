@@ -2934,6 +2934,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.04) TransFlow: Transformer as Flow Learner, [[Paper]](https://arxiv.org/pdf/2304.11523.pdf)
 - (arXiv 2023.05) SSTM: Spatiotemporal Recurrent Transformers for Multi-frame Optical Flow Estimation, [[Paper]](https://arxiv.org/pdf/2304.14418.pdf)
 - (arXiv 2023.06) FlowFormer: A Transformer Architecture and Its Masked Cost Volume Autoencoding for Optical Flow, [[Paper]](https://arxiv.org/pdf/2306.05442.pdf)
+- (arXiv 2024.03) CathFlow: Self-Supervised Segmentation of Catheters in Interventional Ultrasound Using Optical Flow and Transformers, [[Paper]](https://arxiv.org/pdf/2403.14465.pdf)
 
 ### Panoptic Segmentation
 - (arXiv.2020.12) MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, [[Paper]](https://arxiv.org/pdf/2012.00759.pdf)
@@ -3965,6 +3966,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance, [[Paper]](https://arxiv.org/pdf/2403.05231.pdf)
 - (arXiv 2024.03) Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers, [[Paper]](https://arxiv.org/pdf/2403.10574.pdf), [[Code]](https://github.com/orgs/GXNU-ZhongLab)
 - (arXiv 2024.03) TAPTR: Tracking Any Point with Transformers as Detection, [[Paper]](https://arxiv.org/pdf/2403.13042.pdf), [[Code]](https://github.com/IDEA-Research/TAPTR)
+- (arXiv 2024.03) ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer, [[Paper]](https://arxiv.org/pdf/2403.14626.pdf)
 
 ### Traffic
 - (arXiv 2021.05) Novelty Detection and Analysis of Traffic Scenario Infrastructures in the Latent Space of a Vision Transformer-Based Triplet Autoencoder, [[Paper]](https://arxiv.org/pdf/2105.01924.pdf)
