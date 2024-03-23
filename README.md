@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/21
+**Last updated: 2024/03/23
 
 ## Table of Contents
 
@@ -1887,6 +1887,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2022.09) CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention, [[Paper]](https://arxiv.org/pdf/2209.07989.pdf)
 - (arXiv 2023.08) LATR: 3D Lane Detection from Monocular Images with Transformer, [[Paper]](https://arxiv.org/pdf/2308.04583.pdf), [[Code]](https://github.com/JMoonr/LATR)
 - (arXiv 2024.02) CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention, [[Paper]](https://arxiv.org/pdf/2402.06423.pdf), [[Code]](https://github.com/JMoonr/LATR)
+- (arXiv 2024.03) LDTR: Transformer-based Lane Detection with Anchor-chain Representation, [[Paper]](https://arxiv.org/pdf/2403.14354.pdf)
 
 ### Layout
 - (CVPR'21) Variational Transformer Networks for Layout Generation, [[Paper]](https://arxiv.org/abs/2104.02416)
@@ -3093,6 +3094,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.02) CAPT: Category-level Articulation Estimation from a Single Point Cloud Using Transformer, [[Paper]](https://arxiv.org/pdf/2402.17360.pdf)
 - (arXiv 2024.03) Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2403.01407.pdf)
 - (arXiv 2024.03) FBPT: A Fully Binary Point Transformer, [[Paper]](https://arxiv.org/pdf/2403.09998.pdf)
+- (arXiv 2024.03) Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling, [[Paper]](https://arxiv.org/pdf/2403.14124.pdf)
 
 ### Pose 
 - (arXiv 2020.12) End-to-End Human Pose and Mesh Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2012.09760)
@@ -3360,6 +3362,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.08) Part-Aware Transformer for Generalizable Person Re-identification, [[Paper]](https://arxiv.org/pdf/2308.03322.pdf), [[Code]](https://github.com/liyuke65535/Part-Aware-Transformer)
 - (arXiv 2023.10) GraFT: Gradual Fusion Transformer for Multimodal Re-Identification, [[Paper]](https://arxiv.org/pdf/2310.16856.pdf)
 - (arXiv 2024.02) Dynamic Patch-aware Enrichment Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2402.10435.pdf)
+- (arXiv 2024.03) View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network, [[Paper]](https://arxiv.org/pdf/2403.14513.pdf), [[Code]](https://github.com/LinlyAC/VDT-AGPReID)
 
 ### Remote Sensing
 - (arXiv 2021.07) Looking Outside the Window: Wider-Context Transformer for the ation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2106.15754.pdf)
@@ -4289,6 +4292,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2022.06) VReBERT: A Simple and Flexible Transformer for Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2206.09111.pdf)
 - (arXiv 2023.11) Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction, [[Paper]](https://arxiv.org/pdf/2311.04834.pdf), [[Code]](https://github.com/deeplab-ai/SelfSupervisedVRD)
 - (arXiv 2023.11) RelVAE: Generative Pretraining for few-shot Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2311.16261.pdf), [[Code]](https://github.com/deeplab-ai/SelfSupervisedVRD)
+- (arXiv 2024.03) Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2403.14270.pdf)
 
 ### Voxel
 - (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
