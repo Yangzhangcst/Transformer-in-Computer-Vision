@@ -3244,6 +3244,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2023.12) QuantAttack: Exploiting Dynamic Quantization to Attack Vision Transformers, [[Paper]](https://arxiv.org/pdf/2312.02220.pdf)
 - (arXiv 2024.01) LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation, [[Paper]](https://arxiv.org/pdf/2401.11243.pdf)
 - (arXiv 2024.01) MPTQ-ViT: Mixed-Precision Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.14895.pdf)
+- (arXiv 2024.03) Accelerating ViT Inference on FPGA through Static and Dynamic Pruning, [[Paper]](https://arxiv.org/pdf/2403.14047.pdf)
 
 ### Recognition
 - (arXiv 2021.03) Global Self-Attention Networks for Image Recognition, [[Paper]](https://arxiv.org/abs/2010.03019)
@@ -3751,6 +3752,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arxiv 2024.01) TIM: An Efficient Temporal Interaction Module for Spiking Transformer,  [[Paper]](https://arxiv.org/pdf/2401.11687.pdf)
 - (arxiv 2024.02) Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer,  [[Paper]](https://arxiv.org/pdf/2402.04798.pdf)
 - (arxiv 2024.02) SDiT: Spiking Diffusion Model with Transformer,  [[Paper]](https://arxiv.org/pdf/2402.11588.pdf)
+- (arxiv 2024.03) SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks,  [[Paper]](https://arxiv.org/pdf/2403.14302.pdf), [[Code]](https://github.com/xyshi2000/SpikingResformer)
 
 ### Style Transfer
 - (arXiv 2022.10) Fine-Grained Image Style Transfer with Visual Transformers,  [[Paper]](https://arxiv.org/abs/2210.05176), [[Code]](https://yccyenchicheng.github.io/AutoSDF/)
