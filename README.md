@@ -1449,6 +1449,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 - (arXiv 2024.03) DAMS-DETR: Dynamic Adaptive Multispectral Detection Transformer with Competitive Query Selection and Adaptive Feature Fusion, [[Paper]](https://arxiv.org/pdf/2403.00326.pdf), [[Code]](https://github.com/gjj45/DAMS-DETR)
 - (arXiv 2024.03) AO-DETR: Anti-Overlapping DETR for X-Ray Prohibited Items Detection, [[Paper]](https://arxiv.org/pdf/2403.04309.pdf), [[Code]](https://github.com/Limingyuan001/AO-DETR-test)
 - (arXiv 2024.03) SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras, [[Paper]](https://arxiv.org/pdf/2403.10353.pdf), [[Code]](https://github.com/nullmax-vision/SimPB)
+  - (arXiv 2024.03) LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors, [[Paper]](https://arxiv.org/pdf/2403.14625.pdf), [[Project]](https://www.cs.umd.edu/~sakshams/LiFT/)
 
 ### Edge
 - (arXiv 2022.03) EDTER: Edge Detection with Transformer, [[Paper]](https://arxiv.org/pdf/2203.08566.pdf), [[Code]](https://github.com/MengyangPu/EDTER)
