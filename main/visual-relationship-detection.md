@@ -1,0 +1,8 @@
+### Visual Relationship Detection
+- (arXiv 2021.04) RelTransformer: Balancing the Visual Relationship Detection from Local Context, Scene and Memory, [[Paper]](https://arxiv.org/pdf/2104.11934.pdf)
+- (arXiv 2021.05) Visual Composite Set Detection Using Part-and-Sum Transformers, [[Paper]](https://arxiv.org/pdf/2108.00045.pdf)
+- (arXiv 2021.08) Discovering Spatial Relationships by Transformers for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2108.10046.pdf)
+- (arXiv 2022.06) VReBERT: A Simple and Flexible Transformer for Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2206.09111.pdf)
+- (arXiv 2023.11) Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction, [[Paper]](https://arxiv.org/pdf/2311.04834.pdf), [[Code]](https://github.com/deeplab-ai/SelfSupervisedVRD)
+- (arXiv 2023.11) RelVAE: Generative Pretraining for few-shot Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2311.16261.pdf), [[Code]](https://github.com/deeplab-ai/SelfSupervisedVRD)
+- (arXiv 2024.03) Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2403.14270.pdf)
