@@ -1,4 +1,5 @@
 ### UAV
+- (arXiv 2021.11) The self-supervised channel-spatial attention-based transformer network for automated, accurate prediction of crop nitrogen status from UAV imagery, [[Paper]](https://arxiv.org/pdf/2111.06839.pdf)
 - (arXiv 2023.10) SoybeanNet: Transformer-Based Convolutional Neural Network for Soybean Pod Counting from Unmanned Aerial Vehicle (UAV) Images, [[Paper]](https://arxiv.org/pdf/2310.10861.pdf), [[Code]](https://github.com/JiajiaLi04/Soybean-Pod-Counting-from-UAV-Images)
 - (arXiv 2023.11) Rotation Invariant Transformer for Recognizing Object in UAVs, [[Paper]](https://arxiv.org/pdf/2311.02559.pdf), [[Code]](https://github.com/whucsy/RotTrans)
 - (arXiv 2023.11) SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet, [[Paper]](https://arxiv.org/pdf/2311.03076.pdf), [[Code]](https://github.com/whucsy/RotTrans)
