@@ -8,6 +8,7 @@
 - (arXiv 2021.12) Transformer-based Network for RGB-D Saliency Detection, [[Paper]](https://arxiv.org/pdf/2112.00582.pdf)
 - (arXiv 2021.12) MTFNet: Mutual-Transformer Fusion Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2112.01177.pdf)
 - (arXiv 2021.12) Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction, [[Paper]](https://arxiv.org/pdf/2112.13528.pdf)
+- (arXiv 2022.03) A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2203.04708.pdf), [[Code]](https://github.com/suyukun666/UFO)
 - (arXiv 2022.03) DFTR: Depth-supervised Hierarchical Feature Fusion Transformer for Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2112.13528.pdf)
 - (arXiv 2022.03) GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2203.10785.pdf)
 - (arXiv 2022.03) Unsupervised Salient Object Detection with Spectral Cluster Voting, [[Paper]](https://arxiv.org/pdf/2203.12614.pdf), [[Code]](https://github.com/NoelShin/selfmask)
