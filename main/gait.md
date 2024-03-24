@@ -1,0 +1,12 @@
+### Gait
+- (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
+- (arXiv 2022.06) Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition, [[Paper]](https://arxiv.org/pdf/2206.01441.pdf)
+- (arXiv 2022.06) GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation, [[Paper]](https://arxiv.org/pdf/2207.00106.pdf), [[Code]](https://github.com/markendo/GaitForeMer)
+- (arXiv 2022.10) Multi-view Gait Recognition based on Siamese Vision Transformer, [[Paper]](https://arxiv.org/pdf/2210.10421.pdf)
+- (arXiv 2023.07) GaitFormer: Revisiting Intrinsic Periodicity for Gait Recognition, [[Paper]](https://arxiv.org/pdf/2307.13259.pdf)
+- (arXiv 2023.08) GaitPT: Skeletons Are All You Need For Gait Recognition, [[Paper]](https://arxiv.org/pdf/2308.10623.pdf)
+- (arXiv 2023.10) HCT: Hybrid Convnet-Transformer for Parkinson鈥檚 disease detection and severity prediction from gait, [[Paper]](https://arxiv.org/pdf/2310.17078.pdf), [[Code]](https://github.com/SafwenNaimi/HCT-Hybrid-Convnet-Transformer-for-Parkinson-s-disease-detection-and-severity-prediction-from-gait)
+- (arXiv 2023.10) GaitFormer: Learning Gait Representations with Noisy Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2310.19418.pdf)
+- (arXiv 2023.11) 1D-Convolutional transformer for Parkinson disease diagnosis from gait, [[Paper]](https://arxiv.org/pdf/2311.03177.pdf), [[Code]](https://github.com/SafwenNaimi/1D-Convolutional-transformer-for-Parkinson-disease-diagnosis-from-gait)
+- (arXiv 2023.11) GaitContour: Efficient Gait Recognition based on a Contour-Pose Representation, [[Paper]](https://arxiv.org/pdf/2311.16497.pdf)
+- (arXiv 2023.12) Learning to Estimate Critical Gait Parameters from Single-View RGB Videos with Transformer-Based Attention Network, [[Paper]](https://arxiv.org/pdf/2312.00398.pdf), [[Code]](https://github.com/vinuni-vishc/transformer-gait-analysis)
