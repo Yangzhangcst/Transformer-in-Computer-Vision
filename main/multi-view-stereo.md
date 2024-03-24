@@ -1,0 +1,12 @@
+### Multi-view Stereo
+- (arXiv 2021.11) TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, [[Paper]](https://arxiv.org/pdf/2111.14600.pdf), [[Code]](https://github.com/MegviiRobot/TransMVSNet)
+- (arXiv 2021.12) Multi-View Stereo with Transformer, [[Paper]](https://arxiv.org/pdf/2112.00336.pdf)
+- (arXiv 2022.04) MVSTER: Epipolar Transformer for Efficient Multi-View Stereo, [[Paper]](https://arxiv.org/pdf/2204.07346.pdf), [[Code]](https://github.com/JeffWang987)
+- (arXiv 2022.05) WT-MVSNet: Window-based Transformers for Multi-view Stereo, [[Paper]](https://arxiv.org/pdf/2205.14319.pdf), [[Code]](https://github.com/JeffWang987)
+- (arXiv 2022.08) MVSFormer: Learning Robust Image Representations via Transformers and Temperature-based Depth for Multi-View Stereo, [[Paper]](https://arxiv.org/pdf/2208.02541.pdf)
+- (arXiv 2022.08) A Light Touch Approach to Teaching Transformers Multi-view Geometry, [[Paper]](https://arxiv.org/pdf/2211.15107.pdf)
+- (arXiv 2023.03) Implicit Ray-Transformers for Multi-view Remote Sensing Image Segmentation, [[Paper]](https://arxiv.org/pdf/2303.08401.pdf)
+- (arXiv 2023.05) CostFormer:Cost Transformer for Cost Aggregation in Multi-view Stereo, [[Paper]](https://arxiv.org/pdf/2305.10320.pdf)
+- (arXiv 2023.10) GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers, [[Paper]](https://arxiv.org/pdf/2310.10375.pdf)
+- (arXiv 2023.12) CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer, [[Paper]](https://arxiv.org/pdf/2312.08594.pdf), [[Code]](https://github.com/wscstrive/CT-MVSNet)
+- (arXiv 2023.12) Global Occlusion-Aware Transformer for Robust Stereo Matching, [[Paper]](https://arxiv.org/pdf/2312.14650.pdf), [[Code]](https://github.com/Magicboomliu/GOAT)
