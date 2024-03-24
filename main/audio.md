@@ -1,5 +1,6 @@
 ### Audio 
 - (arXiv 2021.08) The Right to Talk: An Audio-Visual Transformer Approach, [[Paper]](https://arxiv.org/pdf/2108.03256.pdf), [[Code]](https://github.com/uark-cviu/Right2Talk)
+- (arXiv 2022.03) SepTr: Separable Transformer for Audio Spectrogram Processing, [[Paper]](https://arxiv.org/pdf/2203.09581.pdf), [[Code]](https://github.com/ristea/septr)
 - (arXiv 2022.11) ASiT: Audio Spectrogram vIsion Transformer for General Audio Representation, [[Paper]](https://arxiv.org/pdf/2211.13189.pdf)
 - (arXiv 2023.03) Multiscale Audio Spectrogram Transformer for Efficient Audio Classification, [[Paper]](https://arxiv.org/pdf/2303.10757.pdf)
 - (arXiv 2023.03) ModEFormer: Modality-Preserving Embedding for Audio-Video Synchronization using Transformers, [[Paper]](https://arxiv.org/pdf/2303.11551.pdf)
