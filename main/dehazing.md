@@ -1,0 +1,10 @@
+### Dehazing
+- (arXiv 2021.09) Hybrid Local-Global Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2109.07100.pdf)
+- (arXiv 2022.04) Vision Transformers for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2204.03883.pdf)
+- (arXiv 2022.10) Semi-UFormer: Semi-supervised Uncertainty-aware Transformer for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2210.16057.pdf)
+- (arXiv 2023.03) SelfPromer: Self-Prompt Dehazing Transformers with Depth-Consistency, [[Paper]](https://arxiv.org/pdf/2210.16057.pdf)
+- (arXiv 2023.04) A Data-Centric Solution to NonHomogeneous Dehazing via Vision Transformer, [[Paper]](https://arxiv.org/pdf/2304.07874.pdf), [[Code]](https://github.com/yangyiliu21/ntire2023_ITBdehaze)
+- (arXiv 2023.05) NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer, [[Paper]](https://arxiv.org/pdf/2305.09533.pdf)
+- (arXiv 2023.08) MB-TaylorFormer: Multi-branch Efficient Transformer Expanded by Taylor Formula for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2308.14036.pdf), [[Code]](https://github.com/FVL2020/ICCV-2023-MB-TaylorFormer)
+- (arXiv 2023.12) DHFormer: A Vision Transformer-Based Attention Module for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2312.09955.pdf)
+- (arXiv 2024.01) WaveletFormerNet: A Transformer-based Wavelet Network for Real-world Non-homogeneous and Dense Fog Removal, [[Paper]](https://arxiv.org/pdf/2401.04550.pdf)
