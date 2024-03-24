@@ -7,6 +7,7 @@
 - (arXiv 2021.09) TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models, [[Paper]](https://arxiv.org/pdf/2109.10282.pdf), [[Code]](https://aka.ms/TrOCR)
 - (arXiv 2021.10) Robustness Evaluation of Transformer-based Form Field Extractors via Form Attacks, [[Paper]](https://arxiv.org/pdf/2110.04413.pdf), [[Code]](https://aka.ms/TrOCR)
 - (arXiv 2021.10) DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction, [[Paper]](https://arxiv.org/pdf/2110.12942.pdf)
+- (arXiv 2021.11) TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance, [[Paper]](https://arxiv.org/pdf/2111.08314.pdf)
 - (arXiv 2021.12) Visual-Semantic Transformer for Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2112.00948.pdf)
 - (arXiv 2021.12) Transformer-Based Approach for Joint Handwriting and Named Entity Recognition in Historical documents, [[Paper]](https://arxiv.org/pdf/2112.04189.pdf)
 - (arXiv 2021.12) SPTS: Single-Point Text Spotting, [[Paper]](https://arxiv.org/pdf/2112.07917.pdf)
