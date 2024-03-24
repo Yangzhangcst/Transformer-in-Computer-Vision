@@ -6,6 +6,7 @@
 - (arXiv 2021.10) ATISS: Autoregressive Transformers for Indoor Scene Synthesis, [[Paper]](https://arxiv.org/pdf/2110.03675.pdf), [[Project]](https://nv-tlabs.github.io/ATISS/)
 - (arXiv 2021.11) Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/pdf/2111.03481.pdf)
 - (arXiv 2022.02) MaskGIT: Masked Generative Image Transformer, [[Paper]](https://arxiv.org/pdf/2202.04200.pdf)
+- (arXiv 2022.05) Synthesized Speech Detection Using Convolutional Transformer-Based Spectrogram Analysis, [[Paper]](https://arxiv.org/pdf/2205.01800.pdf)
 - (arXiv 2022.07) Diverse Dance Synthesis via Keyframes with Transformer Controllers, [[Paper]](https://arxiv.org/pdf/2207.05906.pdf)
 - (arXiv 2022.10) Style-Guided Inference of Transformer for High-resolution Image Synthesis, [[Paper]](https://arxiv.org/pdf/2210.05533.pdf)
 - (arXiv 2022.10) FontTransformer: Few-shot High-resolution Chinese Glyph Image Synthesis via Stacked Transformers, [[Paper]](https://arxiv.org/pdf/2210.06301.pdf)
