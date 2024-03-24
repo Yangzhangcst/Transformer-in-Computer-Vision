@@ -6,6 +6,7 @@
 - (arXiv 2021.11) ProSTformer: Pre-trained Progressive Space-Time Self-attention Model for Traffic Flow Forecasting, [[Paper]](https://arxiv.org/pdf/2111.03459.pdf)
 - (arXiv 2022.01) SwinUNet3D -- A Hierarchical Architecture for Deep Traffic Prediction using Shifted Window Transformers, [[Paper]](https://arxiv.org/pdf/2201.06390.pdf), [[Code]](https://github.com/bojesomo/Traffic4Cast2021-SwinUNet3D)
 - (arXiv 2022.02) TransFollower: Long-Sequence Car-Following Trajectory Prediction through Transformer, [[Paper]](https://arxiv.org/pdf/2202.03183.pdf)
+- (arXiv 2022.03) PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer, [[Paper]](https://arxiv.org/pdf/2203.09293.pdf)
 - (arXiv 2022.03) LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2203.01880.pdf)
 - (arXiv 2022.03) Under the Hood of Transformer Networks for Trajectory Forecasting, [[Paper]](https://arxiv.org/pdf/2203.11878.pdf)
 - (arXiv 2022.05) HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding, [[Paper]](https://arxiv.org/pdf/2205.09753.pdf)
