@@ -9,7 +9,7 @@ The list is too long and unreadable. A version update will be made as soon as po
 ## Table of Contents
 
 - [Survey](main/survey.md)
-- [Recent Papers](#recent-papers)
+- [Recent Papers]
   - [Action](main/action.md)
   - [Active Learning](main/active-learning.md)
   - [Adversarial Attacks](main/adversarial-attacks.md)
