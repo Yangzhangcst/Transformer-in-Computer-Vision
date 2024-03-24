@@ -1,4 +1,5 @@
 ### LLM/LVM
+- (arXiv 2023.07) INT-FP-QSim: Mixed Precision and Formats For Large Language Models and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2307.03712.pdf)
 - (arXiv 2023.11) NExT-Chat: An LMM for Chat, Detection and Segmentation, [[Paper]](https://arxiv.org/pdf/2311.04498.pdf), [[Code]](https://next-chatv.github.io/)
 - (arXiv 2023.11) u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.05348.pdf)
 - (arXiv 2023.11) Towards Open-Ended Visual Recognition with Large Language Model, [[Paper]](https://arxiv.org/pdf/2311.08400.pdf), [[Code]](https://github.com/bytedance/OmniScient-Model)
