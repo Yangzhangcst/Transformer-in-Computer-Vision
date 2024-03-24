@@ -1,6 +1,7 @@
 ### Visual Question Answering
 - (arXiv 2021.06) Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue, [[Paper]](https://arxiv.org/pdf/2106.15550.pdf)
 - (arXiv 2021.12) LaTr: Layout-Aware Transformer for Scene-Text VQA, [[Paper]](https://arxiv.org/pdf/2112.12494.pdf)
+- (arXiv 2021.12) 3D Question Answering,[[Paper]](https://arxiv.org/pdf/2112.08359.pdf)
 - (arXiv 2022.01) On the Efficacy of Co-Attention Transformer Layers in Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.03965.pdf)
 - (arXiv 2022.01) Transformer Module Networks for Systematic Generalization in Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2201.11316.pdf)
 - (arXiv 2022.01) Towards Efficient and Elastic Visual Question Answering with Doubly Slimmable Transformer, [[Paper]](https://arxiv.org/pdf/2203.12814.pdf)
