@@ -2,6 +2,7 @@
 - (arXiv 2021.12) Improving Vision Transformers for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2112.06103.pdf)
 - (arXiv 2022.03) Meta-attention for ViT-backed Continual Learning, [[Paper]](https://arxiv.org/pdf/2203.11684.pdf), [[Code]](https://github.com/zju-vipa/MEAT-TIL)
 - (arXiv 2022.03)Towards Exemplar-Free Continual Learning in Vision Transformers: an Account of Attention, Functional and Weight Regularization, [[Paper]](https://arxiv.org/pdf/2203.13167.pdf)
+- (arXiv 2022.07) Online Continual Learning with Contrastive Vision Transformer, [[Paper]](https://arxiv.org/pdf/2207.13516.pdf)
 - (arXiv 2022.08) D3Former: Debiased Dual Distilled Transformer for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2208.00777.pdf), [[Code]](https://tinyurl.com/d3former)
 - (arXiv 2022.10) A Memory Transformer Network for Incremental Learning, [[Paper]](https://arxiv.org/pdf/2210.04485.pdf)
 - (arXiv 2023.01) Combined Use of Federated Learning and Image Encryption for Privacy-Preserving Image Classification with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2301.09255.pdf)
