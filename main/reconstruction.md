@@ -7,6 +7,7 @@
 - (arXiv 2021.11) Reference-based Magnetic Resonance Image Reconstruction Using Texture Transformer, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
 - (arXiv 2021.11) HEAT: Holistic Edge Attention Transformer for Structured Reconstruction, [[Paper]](https://arxiv.org/pdf/2111.15143.pdf)
 - (arXiv 2021.12) VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion, [[Paper]](https://arxiv.org/pdf/2112.00236.pdf), [[Code]](https://noahstier.github.io/vortx/)
+- (arXiv 2022.01) Spectral Compressive Imaging Reconstruction Using Convolution and Spectral Contextual Transformer, [[Paper]](https://arxiv.org/pdf/2201.05768.pdf)
 - (arXiv 2022.03) RayTran: 3D pose estimation and shape reconstruction of multiple objects from videos with ray-traced transformers, [[Paper]](https://arxiv.org/pdf/2203.13296.pdf)
 - (arXiv 2022.05) 3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2205.14575.pdf)
 - (arXiv 2022.05) HeatER: An Efficient and Unified Network for Human Reconstruction via Heatmap-based TransformER, [[Paper]](https://arxiv.org/pdf/2205.15448.pdf)
