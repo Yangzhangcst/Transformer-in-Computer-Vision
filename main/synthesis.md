@@ -1,0 +1,13 @@
+### Synthesis
+- (arXiv 2020.12) Taming Transformers for High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/abs/2012.09841), [[Code]](https://compvis.github.io/taming-transformers/)
+- (arXiv 2021.04) Geometry-Free View Synthesis: Transformers and no 3D Priors, [[Paper]](https://arxiv.org/pdf/2104.07652.pdf)
+- (arXiv 2021.05) High-Resolution Complex Scene Synthesis with Transformers, [[Paper]](https://arxiv.org/pdf/2105.06458.pdf)
+- (arXiv 2021.06) The Image Local Autoregressive Transformer, [[Paper]](https://arxiv.org/pdf/2106.02514.pdf)
+- (arXiv 2021.10) ATISS: Autoregressive Transformers for Indoor Scene Synthesis, [[Paper]](https://arxiv.org/pdf/2110.03675.pdf), [[Project]](https://nv-tlabs.github.io/ATISS/)
+- (arXiv 2021.11) Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers, [[Paper]](https://arxiv.org/pdf/2111.03481.pdf)
+- (arXiv 2022.02) MaskGIT: Masked Generative Image Transformer, [[Paper]](https://arxiv.org/pdf/2202.04200.pdf)
+- (arXiv 2022.07) Diverse Dance Synthesis via Keyframes with Transformer Controllers, [[Paper]](https://arxiv.org/pdf/2207.05906.pdf)
+- (arXiv 2022.10) Style-Guided Inference of Transformer for High-resolution Image Synthesis, [[Paper]](https://arxiv.org/pdf/2210.05533.pdf)
+- (arXiv 2022.10) FontTransformer: Few-shot High-resolution Chinese Glyph Image Synthesis via Stacked Transformers, [[Paper]](https://arxiv.org/pdf/2210.06301.pdf)
+- (arXiv 2023.01) Geometry-biased Transformers for Novel View Synthesis, [[Paper]](https://arxiv.org/pdf/2301.04650.pdf), [[Project]](https://mayankgrwl97.github.io/gbt)
+- (arXiv 2023.12) NViST: In the Wild New View Synthesis from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2312.08568.pdf), [[Project]](https://wbjang.github.io/nvist_webpage)
