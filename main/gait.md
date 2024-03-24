@@ -1,4 +1,5 @@
 ### Gait
+- (arXiv 2021.10) TNTC: two-stream network with transformer-based complementarity for gait-based emotion recognition, [[Paper]](https://arxiv.org/pdf/2110.13708.pdf)
 - (arXiv 2022.04) Spatial Transformer Network on Skeleton-based Gait Recognition, [[Paper]](https://arxiv.org/pdf/2204.03873.pdf)
 - (arXiv 2022.06) Exploring Transformers for Behavioural Biometrics: A Case Study in Gait Recognition, [[Paper]](https://arxiv.org/pdf/2206.01441.pdf)
 - (arXiv 2022.06) GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation, [[Paper]](https://arxiv.org/pdf/2207.00106.pdf), [[Code]](https://github.com/markendo/GaitForeMer)
