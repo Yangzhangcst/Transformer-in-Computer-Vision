@@ -8,6 +8,7 @@
 - (arXiv 2021.10) A free lunch from ViT: Adaptive Attention Multi-scale Fusion Transformer for Fine-grained Visual Recognition, [[Paper]](https://arxiv.org/pdf/2110.01240.pdf)
 - (arXiv 2021.10) MVT: Multi-view Vision Transformer for 3D Object Recognition, [[Paper]](https://arxiv.org/pdf/2111.09492.pdf)
 - (arXiv 2021.11) AdaViT: Adaptive Vision Transformers for Efficient Image Recognition, [[Paper]](https://arxiv.org/pdf/2111.15668.pdf)
+- (arXiv 2021.11) Grounded Situation Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2111.10135.pdf), [[Code]](https://github.com/jhcho99/gsrtr)
 - (arXiv 2022.01) TransVPR: Transformer-based place recognition with multi-level attention aggregation, [[Paper]](https://arxiv.org/pdf/2201.02001.pdf)
 - (arXiv 2022.03) MetaFormer : A Unified Meta Framework for Fine-Grained Recognition, [[Paper]](https://arxiv.org/pdf/2203.02751.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
 - (arXiv 2022.04) Diverse Instance Discovery: Vision-Transformer for Instance-Aware Multi-Label Image Recognition, [[Paper]](https://arxiv.org/pdf/2204.10731.pdf), [[Code]](https://github.com/dqshuai/MetaFormer)
