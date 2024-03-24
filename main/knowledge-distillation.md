@@ -2,6 +2,7 @@
 - (arXiv 2022.04) DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2204.12997.pdf)
 - (arXiv 2022.05) Knowledge Distillation via the Target-aware Transformer, [[Paper]](https://arxiv.org/pdf/2205.10793.pdf)
 - (arXiv 2022.05) Contrastive Learning Rivals Masked Image Modeling in Fine-tuning via Feature Distillation, [[Paper]](https://arxiv.org/pdf/2208.08037.pdf), [[Code]](https://github.com/SwinTransformer/Feature-Distillation)
+- (arXiv 2022.07) Self-Distilled Vision Transformer for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2207.12392.pdf), [[Code]](https://github.com/maryam089/SDViT)
 - (arXiv 2022.09) ViTKD: Practical Guidelines for ViT feature knowledge distillation, [[Paper]](https://arxiv.org/pdf/2209.02432.pdf), [[Code]](https://github.com/yzd-v/cls_KD)
 - (arXiv 2022.11) Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling, [[Paper]](https://arxiv.org/pdf/2211.08071.pdf)
 - (arXiv 2022.11) D3ETR: Decoder Distillation for Detection Transformer, [[Paper]](https://arxiv.org/pdf/2211.09768.pdf)
