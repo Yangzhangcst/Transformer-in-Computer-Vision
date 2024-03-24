@@ -1,4 +1,5 @@
 ### Fusion
+- (arXiv 2021.07) Image Fusion Transformer, [[Paper]](https://arxiv.org/pdf/2107.09011.pdf), [[Code]](https://github.com/Vibashan/Image-FusionTransformer)
 - (arXiv 2022.01) TransFuse: A Unified Transformer-based Image Fusion Framework using Self-supervised Learning, [[Paper]](https://arxiv.org/pdf/2201.07451.pdf)
 - (arXiv 2022.01) TGFuse: An Infrared and Visible Image Fusion Approach Based on Transformer and Generative Adversarial Network, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf)
 - (arXiv 2022.04) SwinFuse: A Residual Swin Transformer Fusion Network for Infrared and Visible Images, [[Paper]](https://arxiv.org/pdf/2201.10147.pdf), [[Code]](https://github.com/Zhishe-Wang/SwinFuse)
