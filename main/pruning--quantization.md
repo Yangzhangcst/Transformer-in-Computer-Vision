@@ -4,6 +4,7 @@
 - (arXiv 2021.11) PTQ4ViT: Post-Training Quantization Framework for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2111.12293.pdf), [[Code]](https://github.com/hahnyuan/PTQ4ViT)
 - (arXiv 2021.11) FQ-ViT: Fully Quantized Vision Transformer without Retraining, [[Paper]](https://arxiv.org/pdf/2111.15127.pdf)
 - (arXiv 2022.01) Q-ViT: Fully Differentiable Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.07703.pdf)
+- (arXiv 2022.01) VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer, [[Paper]](https://arxiv.org/pdf/2201.06618.pdf)
 - (arXiv 2022.03) Patch Similarity Aware Data-Free Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2203.02250.pdf)
 - (arXiv 2022.03) CP-ViT: Cascade Vision Transformer Pruning via Progressive Sparsity Prediction, [[Paper]](https://arxiv.org/pdf/2203.04570.pdf)
 - (arXiv 2022.07) I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference, [[Paper]](https://arxiv.org/pdf/2207.01405.pdf)
