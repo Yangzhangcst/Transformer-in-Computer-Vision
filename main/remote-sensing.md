@@ -17,6 +17,7 @@
 - (arXiv 2023.08) RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework, [[Paper]](https://arxiv.org/pdf/2309.09003.pdf), [[Code]](https://github.com/DalongZ/SwinV2DNet)
 - (arXiv 2023.10) Efficient Remote Sensing Segmentation With Generative Adversarial Transformer, [[Paper]](https://arxiv.org/pdf/2310.01292.pdf)
 - (arXiv 2023.10) HeightFormer: A Multilevel Interaction and Image-adaptive Classification-regression Network for Monocular Height Estimation with Aerial Images, [[Paper]](https://arxiv.org/pdf/2310.07995.pdf), [[Code]](https://github.com/qbxfcz/HeightFormer)
+- (arXiv 2023.10) Transformer-based nowcasting of radar composites from satellite images for severe weather, [[Paper]](https://arxiv.org/pdf/2310.19515.pdf)
 - (arXiv 2023.10) VcT: Visual change Transformer for Remote Sensing Image Change Detection, [[Paper]](https://arxiv.org/pdf/2310.11417.pdf), [[Code]](https://github.com/Event-AHU/VcT_Remote_Sensing_Change_Detection)
 - (arXiv 2023.10) Multimodal Transformer Using Cross-Channel attention for Object Detection in Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2310.13876.pdf)
 - (arXiv 2023.10) SolarFormer: Multi-scale Transformer for Solar PV Profiling, [[Paper]](https://arxiv.org/pdf/2310.20057.pdf)
