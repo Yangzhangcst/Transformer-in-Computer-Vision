@@ -332,6 +332,7 @@
 - (arXiv 2023.05) HGT: A Hierarchical GCN-Based Transformer for Multimodal Periprosthetic Joint Infection Diagnosis Using CT Images and Text, [[Paper]](https://arxiv.org/pdf/2305.18022.pdf)
 - (arXiv 2023.05) Prompt-based Tuning of Transformer Models for Multi-Center Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2305.18948.pdf)
 - (arXiv 2023.05) XTransCT: Ultra-Fast Volumetric CT Reconstruction using Two Orthogonal X-Ray Projections via a Transformer Network, [[Paper]](https://arxiv.org/pdf/2305.19621.pdf)
+- (arXiv 2023.06) Multi-level Multiple Instance Learning with Transformer for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2306.05029.pdf), [[Code]](https://github.com/hustvl/MMIL-Transformer)
 - (arXiv 2023.06) Prediction of Post-Operative Renal and Pulmonary Complication Using Transformers, [[Paper]](https://arxiv.org/pdf/2306.00698.pdf)
 - (arXiv 2023.06) A Transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics, [[Paper]](https://arxiv.org/pdf/2306.00864.pdf),[[Code]](https://github.com/RL4M/IRENE)
 - (arXiv 2023.06) A Novel Vision Transformer with Residual in Self-attention for Biomedical Image Classification, [[Paper]](https://arxiv.org/pdf/2306.01594.pdf)
