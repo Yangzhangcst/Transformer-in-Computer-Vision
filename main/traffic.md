@@ -10,6 +10,7 @@
 - (arXiv 2022.03) LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2203.01880.pdf)
 - (arXiv 2022.03) Under the Hood of Transformer Networks for Trajectory Forecasting, [[Paper]](https://arxiv.org/pdf/2203.11878.pdf)
 - (arXiv 2022.05) HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding, [[Paper]](https://arxiv.org/pdf/2205.09753.pdf)
+- (arXiv 2022.06) Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2206.05712.pdf), [[Code]](https://github.com/Jacobieee/ST-MR)
 - (arXiv 2022.06) S2TNet: Spatio-Temporal Transformer Networks for Trajectory Prediction in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2206.10902.pdf), [[Code]](https://github.com/chenghuang66/s2tnet)
 - (arXiv 2022.07) Pyramid Transformer for Traffic Sign Detection, [[Paper]](https://arxiv.org/pdf/2207.06067.pdf), [[Code]](https://github.com/chenghuang66/s2tnet)
 - (arXiv 2022.07) Applying Spatiotemporal Attention to Identify Distracted and Drowsy Driving with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2207.12148.pdf)
