@@ -1,0 +1,12 @@
+### Weakly Supervised Learning
+- (arXiv 2021.12) LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2112.05291)
+- (arXiv 2022.01) CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2201.00475)
+- (arXiv 2021.03) TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2103.14862)
+- (arXiv 2022.04) ViTOL: Vision Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2204.06772), [[Code]](https://github.com/Saurav-31/ViTOL)
+- (arXiv 2022.07) Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration, [[Paper]](https://arxiv.org/abs/2207.10447), [[Code]](https://github.com/164140757/SCM)
+- (arXiv 2022.08) Re-Attention Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2208.01838), [[Code]](https://github.com/su-hui-zz/ReAttentionTransformer)
+- (arXiv 2022.09) Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2209.09209), [[Code]](https://github.com/shakeebmurtaza/dips)
+- (arXiv 2022.09) PicT: A Slim Weakly Supervised Vision Transformer for Pavement Distress Classification, [[Paper]](https://arxiv.org/abs/2209.10074), [[Code]](https://github.com/DearCaat/PicT)
+- (arXiv 2023.09) Semantic-Constraint Matching Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2309.01331)
+- (arXiv 2023.10) DiPS: Discriminative Pseudo-Label Sampling with Self-Supervised Transformers for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2310.06196), [[Code]](https://github.com/shakeebmurtaza/dips)
+- (arXiv 2023.12) Multiscale Vision Transformer With Deep Clustering-Guided Refinement for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2312.09584)
