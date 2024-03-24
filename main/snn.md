@@ -1,0 +1,12 @@
+### SNN
+- (arXiv 2022.10) Spikformer: When Spiking Neural Network Meets Transformer,  [[Paper]](https://arxiv.org/abs/2209.15425)
+- (arxiv 2023.07) Spike-driven Transformer,  [[Paper]](https://arxiv.org/abs/2307.01694), [[Code]](https://github.com/BICLab/Spike-Driven-Transformer)
+- (arxiv 2023.08) SSTFormer: Bridging Spiking Neural Network and Memory Support Transformer for Frame-Event based Recognition,  [[Paper]](https://arxiv.org/pdf/2308.04369.pdf), [[Code]](https://github.com/Event-AHU/SSTFormer)
+- (arxiv 2023.08) Attention-free Spikformer: Mixing Spike Sequences with Simple Linear Transforms,  [[Paper]](https://arxiv.org/pdf/2308.02557.pdf)
+- (arxiv 2023.11) SparseSpikformer: A Co-Design Framework for Token and Weight Pruning in Spiking Transformer,  [[Paper]](https://arxiv.org/pdf/2311.08806.pdf)
+- (arxiv 2023.11) Spiking Neural Networks with Dynamic Time Steps for Vision Transformers,  [[Paper]](https://arxiv.org/pdf/2311.16456.pdf)
+- (arxiv 2024.01) Spikformer V2: Join the High Accuracy Club on ImageNet with an SNN Ticket,  [[Paper]](https://arxiv.org/pdf/2401.02020.pdf)
+- (arxiv 2024.01) TIM: An Efficient Temporal Interaction Module for Spiking Transformer,  [[Paper]](https://arxiv.org/pdf/2401.11687.pdf)
+- (arxiv 2024.02) Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer,  [[Paper]](https://arxiv.org/pdf/2402.04798.pdf)
+- (arxiv 2024.02) SDiT: Spiking Diffusion Model with Transformer,  [[Paper]](https://arxiv.org/pdf/2402.11588.pdf)
+- (arxiv 2024.03) SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks,  [[Paper]](https://arxiv.org/pdf/2403.14302.pdf), [[Code]](https://github.com/xyshi2000/SpikingResformer)
