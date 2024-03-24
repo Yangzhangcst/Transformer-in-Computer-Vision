@@ -2,6 +2,8 @@ Transformer-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d73
 
 A paper list of some recent Transformer-based CV works. If you find some ignored papers, please open issues or pull requests.
 
+!!The latest version has been updated, and you can click on the following links to view the list of papers and the code (if available). The old version is only updated to [20240323](action.md)
+
 **Last updated: 2024/03/24
 
 ## Table of Contents
