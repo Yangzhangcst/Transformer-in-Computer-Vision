@@ -1,0 +1,11 @@
+### Voxel
+- (arXiv 2021.05) SVT-Net: A Super Light-Weight Network for Large Scale Place Recognition using Sparse Voxel Transformers, [[Paper]](https://arxiv.org/abs/2105.00149)
+- (arXiv 2021.09) Voxel Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2109.02497.pdf)
+- (arXiv 2022.06) Unifying Voxel-based Representation with Transformer for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2206.00630.pdf), [[Code]](https://github.com/dvlab-research/UVTR)
+- (arXiv 2023.02) VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2302.12251.pdf), [[Code]](https://github.com/NVlabs/VoxFormer)
+- (arXiv 2023.03) Event Voxel Set Transformer for Spatiotemporal Representation Learning on Event Streams, [[Paper]](https://arxiv.org/pdf/2303.03856.pdf)
+- (arXiv 2023.03) SnakeVoxFormer: Transformer-based Single Image Voxel Reconstruction with Run Length Encoding, [[Paper]](https://arxiv.org/pdf/2303.16293.pdf)
+- (arXiv 2023.05) PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer, [[Paper]](https://arxiv.org/pdf/2305.06621.pdf), [[Code]](https://github.com/Nightmare-n/PVT-SSD)
+- (arXiv 2023.08) Learning Bottleneck Transformer for Event Image-Voxel Feature Fusion based Classification, [[Paper]](https://arxiv.org/pdf/2308.11937.pdf), [[Code]](https://github.com/Event-AHU/EFV_event_classification)
+- (arXiv 2024.01) ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention, [[Paper]](https://arxiv.org/pdf/2401.00912.pdf), [[Code]](https://github.com/skyhehe123/ScatterFormer)
+- (arXiv 2024.01) MsSVT++: Mixed-scale Sparse Voxel Transformer with Center Voting for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2401.11718.pdf)
