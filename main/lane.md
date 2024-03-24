@@ -1,0 +1,8 @@
+### Lane
+- (arXiv 2022.03) Laneformer: Object-aware Row-Column Transformers for Lane Detection, [[Paper]](https://arxiv.org/pdf/2203.09830.pdf)
+- (arXiv 2022.03) PersFormer: 3D Lane Detection via Perspective Transformer and the OpenLane Benchmark, [[Paper]](https://arxiv.org/pdf/2203.11089.pdf), [[Project]](https://github.com/OpenPerceptionX/OpenLane)
+- (arXiv 2022.09) PriorLane: A Prior Knowledge Enhanced Lane Detection Approach Based on Transformer, [[Paper]](https://arxiv.org/pdf/2209.06994.pdf), [[Code]](https://github.com/vincentqqb/PriorLane)
+- (arXiv 2022.09) CurveFormer: 3D Lane Detection by Curve Propagation with Curve Queries and Attention, [[Paper]](https://arxiv.org/pdf/2209.07989.pdf)
+- (arXiv 2023.08) LATR: 3D Lane Detection from Monocular Images with Transformer, [[Paper]](https://arxiv.org/pdf/2308.04583.pdf), [[Code]](https://github.com/JMoonr/LATR)
+- (arXiv 2024.02) CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention, [[Paper]](https://arxiv.org/pdf/2402.06423.pdf), [[Code]](https://github.com/JMoonr/LATR)
+- (arXiv 2024.03) LDTR: Transformer-based Lane Detection with Anchor-chain Representation, [[Paper]](https://arxiv.org/pdf/2403.14354.pdf)
