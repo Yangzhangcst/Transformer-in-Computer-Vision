@@ -1,0 +1,7 @@
+### Shape
+- (WACV'21) End-to-end Lane Shape Prediction with Transformers,  [[Paper]](https://arxiv.org/abs/2011.04233), [[Code]](https://github.com/liuruijin17/LSTR)
+- (arXiv 2022.01) ShapeFormer: Transformer-based Shape Completion via Sparse Representation,  [[Paper]](https://arxiv.org/abs/2201.10326), [[Project]](https://shapeformer.github.io/)
+- (arXiv 2022.10) AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation, [[Paper]](https://arxiv.org/pdf/2210.12381.pdf)
+- (arXiv 2022.10) mm-Wave Radar Hand Shape Classification Using Deformable Transformers, [[Paper]](https://arxiv.org/pdf/2210.13079.pdf)
+- (arxiv 2023.07) DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation, [[Paper]](https://arxiv.org/pdf/2307.01831.pdf)
+- (arxiv 2023.09) DeFormer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from a Single Image, [[Paper]](https://arxiv.org/pdf/2309.12594.pdf)
