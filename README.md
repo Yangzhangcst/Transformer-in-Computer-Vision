@@ -4,13 +4,13 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 The list is too long and unreadable. A version update will be made as soon as possible in the future.
 
-**Last updated: 2024/03/23
+**Last updated: 2024/03/24
 
 ## Table of Contents
 
 - [Survey](main/survey.md)
 - [Recent Papers](#recent-papers)
-  - [Action](#action)
+  - [Action](main/action.md)
   - [Active Learning](#active-learning)
   - [Adversarial Attacks](#adversarial-attacks)
   - [Anomaly Detection](#anomaly-detection)
