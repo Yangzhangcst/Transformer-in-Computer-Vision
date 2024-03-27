@@ -128,3 +128,4 @@
 - (arXiv 2024.03) Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2403.01407.pdf)
 - (arXiv 2024.03) FBPT: A Fully Binary Point Transformer, [[Paper]](https://arxiv.org/pdf/2403.09998.pdf)
 - (arXiv 2024.03) Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling, [[Paper]](https://arxiv.org/pdf/2403.14124.pdf)
+- (arXiv 2024.03) DOCTR: Disentangled Object-Centric Transformer for Point Scene Understanding, [[Paper]](https://arxiv.org/pdf/2403.16431.pdf), [[Code]](https://github.com/SAITPublic/DOCTR)
