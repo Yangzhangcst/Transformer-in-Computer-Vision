@@ -15,3 +15,4 @@
 - (arXiv 2023.09) ProPainter: Improving Propagation and Transformer for Video Inpainting, [[Paper]](https://arxiv.org/pdf/2309.03897.pdf), [[Code]](https://github.com/sczhou/ProPainter)
 - (arXiv 2024.01) Federated Class-Incremental Learning with Prototype Guided Transformer, [[Paper]](https://arxiv.org/pdf/2401.02094.pdf)
 - (arXiv 2024.02) HINT: High-quality INPainting Transformer with Mask-Aware Encoding and Enhanced Attention, [[Paper]](https://arxiv.org/pdf/2402.14185.pdf), [[Code]](https://github.com/ChrisChen1023/HINT)
+- (arXiv 2024.03) Towards Online Real-Time Memory-based Video Inpainting Transformers, [[Paper]](https://arxiv.org/pdf/2403.16161.pdf), [[Code]](https://github.com/ChrisChen1023/HINT)
