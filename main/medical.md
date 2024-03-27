@@ -514,3 +514,4 @@
 - (arXiv 2024.03) Redefining cystoscopy with ai: bladder cancer diagnosis using an efficient hybrid cnn-transformer model, [[Paper]](https://arxiv.org/pdf/2403.03879.pdf)
 - (arXiv 2024.03) Shifting Focus: From Global Semantics to Local Prominent Features in Swin-Transformer for Knee Osteoarthritis Severity Assessment, [[Paper]](https://arxiv.org/pdf/2403.09947.pdf), [[Code]](https://github.com/mtliba/KOA_NLCS2024)
 - (arXiv 2024.03) Improved EATFormer: A Vision Transformer for Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2403.13167.pdf)
+- (arXiv 2024.03) ModeTv2: GPU-accelerated Motion Decomposition Transformer for Pairwise Optimization in Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2403.16526.pdf)
