@@ -200,3 +200,4 @@
 - (arXiv 2024.03) AO-DETR: Anti-Overlapping DETR for X-Ray Prohibited Items Detection, [[Paper]](https://arxiv.org/pdf/2403.04309.pdf), [[Code]](https://github.com/Limingyuan001/AO-DETR-test)
 - (arXiv 2024.03) SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras, [[Paper]](https://arxiv.org/pdf/2403.10353.pdf), [[Code]](https://github.com/nullmax-vision/SimPB)
 - (arXiv 2024.03) LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors, [[Paper]](https://arxiv.org/pdf/2403.14625.pdf), [[Project]](https://www.cs.umd.edu/~sakshams/LiFT/)
+- (arXiv 2024.03) Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement, [[Paper]](https://arxiv.org/pdf/2403.16131.pdf), [[Code]](https://github.com/xiuqhou/Salience-DETR)
