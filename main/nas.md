@@ -21,3 +21,4 @@
 - (arXiv 2023.11) FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2311.03912.pdf), [[Code]](https://github.com/shadowpa0327/FLORA)
 - (arXiv 2023.11) TVT: Training-Free Vision Transformer Search on Tiny Datasets, [[Paper]](https://arxiv.org/pdf/2311.14337.pdf)
 - (arXiv 2023.12) Auto-Prox: Training-Free Vision Transformer Architecture Search via Automatic Proxy Discovery, [[Paper]](https://arxiv.org/pdf/2312.09059.pdf)
+- (arXiv.2024.03) Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression, [[Paper]](https://arxiv.org/pdf/2403.15835.pdf)
