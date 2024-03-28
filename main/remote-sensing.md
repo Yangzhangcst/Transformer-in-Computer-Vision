@@ -27,3 +27,4 @@
 - (arXiv 2024.02) AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers, [[Paper]](https://arxiv.org/pdf/2402.05602.pdf), [[Code]](https://github.com/rachtibat/LRP-for-Transformers)
 - (arXiv 2024.02) Cross-Resolution Land Cover Classification Using Outdated Products and Transformers, [[Paper]](https://arxiv.org/pdf/2402.16001.pdf), [[Code]](https://github.com/yu-ni1989/ANLC-Former)
 - (arXiv 2024.03) Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery, [[Paper]](https://arxiv.org/pdf/2403.05419.pdf), [[Code]](https://github.com/techmn/satmae_pp)
+- (arXiv 2024.03) TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes, [[Paper]](https://arxiv.org/pdf/2403.18238.pdf), [[Code]](https://github.com/techmn/satmae_pp)
