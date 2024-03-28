@@ -516,3 +516,6 @@
 - (arXiv 2024.03) Improved EATFormer: A Vision Transformer for Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2403.13167.pdf)
 - (arXiv 2024.03) ModeTv2: GPU-accelerated Motion Decomposition Transformer for Pairwise Optimization in Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2403.16526.pdf)
 - (arXiv 2024.03) Clustering Propagation for Universal Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2403.16646.pdf), [[Code]](https://github.com/dyh127/S2VNet)
+- (arXiv 2024.03) Enhancing MRI-Based Classification of Alzheimer's Disease with Explainable 3D Hybrid Compact Convolutional Transformers, [[Paper]](https://arxiv.org/pdf/2403.16175.pdf)
+- (arXiv 2024.03) 3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2403.16350.pdf), [[Code]](https://github.com/HidNeuron/3D-EffiViTCaps)
+- (arXiv 2024.03) Residual Dense Swin Transformer for Continuous Depth-Independent Ultrasound Imaging, [[Paper]](https://arxiv.org/pdf/2403.16384.pdf)
