@@ -31,3 +31,4 @@
 - (arXiv 2023.11) Improving Source-Free Target Adaptation with Vision Transformers Leveraging Domain Representation Images, [[Paper]](https://arxiv.org/pdf/2311.12589.pdf)
 - (arXiv 2024.01) Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.05126.pdf)
 - (arXiv 2024.01) BlenDA: Domain Adaptive Object Detection through diffusion-based blending, [[Paper]](https://arxiv.org/pdf/2401.09921.pdf), [[Code]](https://github.com/aiiu-lab/BlenDA)
+- (arXiv 2024.03) Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2403.18360.pdf), [[Code]](https://dotrannhattuong.github.io/ECB/website/)
