@@ -91,3 +91,4 @@
 - (arXiv 2024.03) Autoregressive Queries for Adaptive Tracking with Spatio-TemporalTransformers, [[Paper]](https://arxiv.org/pdf/2403.10574.pdf), [[Code]](https://github.com/orgs/GXNU-ZhongLab)
 - (arXiv 2024.03) TAPTR: Tracking Any Point with Transformers as Detection, [[Paper]](https://arxiv.org/pdf/2403.13042.pdf), [[Code]](https://github.com/IDEA-Research/TAPTR)
 - (arXiv 2024.03) ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer, [[Paper]](https://arxiv.org/pdf/2403.14626.pdf)
+- (arXiv 2024.03) Exploring Dynamic Transformer for Efficient Object Tracking, [[Paper]](https://arxiv.org/pdf/2403.17651.pdf)
