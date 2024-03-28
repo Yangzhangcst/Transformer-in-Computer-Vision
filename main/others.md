@@ -215,3 +215,5 @@
 - (arXiv 2024.02) SFTformer: A Spatial-Frequency-Temporal Correlation-Decoupling Transformer for Radar Echo Extrapolation, [[Paper]](https://arxiv.org/pdf/2402.18044.pdf)
 - (arXiv 2024.03) Pig aggression classification using CNN, Transformers and Recurrent Networks, [[Paper]](https://arxiv.org/pdf/2403.08528.pdf)
 - (arXiv 2024.03) Masked Generative Story Transformer with Character Guidance and Caption Augmentation, [[Paper]](https://arxiv.org/pdf/2403.08502.pdf)
+- (arXiv 2024.03) Transformers-based architectures for stroke segmentation: A review, [[Paper]](https://arxiv.org/pdf/2403.18637.pdf)
+- (arXiv 2024.03) ViTAR: Vision Transformer with Any Resolution, [[Paper]](https://arxiv.org/pdf/2403.18361.pdf)
