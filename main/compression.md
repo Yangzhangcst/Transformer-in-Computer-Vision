@@ -36,3 +36,4 @@
 - (arXiv 2024.02) Memory-Efficient Vision Transformers: An Activation-Aware Mixed-Rank Compression Strategy, [[Paper]](https://arxiv.org/pdf/2402.06004.pdf)
 - (arXiv 2024.03) Unifying Generation and Compression: Ultra-low bitrate Image Coding Via Multi-stage Transformer, [[Paper]](https://arxiv.org/pdf/2403.03736.pdf)
 - (arXiv 2024.03) Content-aware Masked Image Modeling Transformer for Stereo Image Compression, [[Paper]](https://arxiv.org/pdf/2403.08505.pdf)
+- (arXiv 2024.03) Dense Vision Transformer Compression with Few Samples, [[Paper]](https://arxiv.org/pdf/2403.18708.pdf)
