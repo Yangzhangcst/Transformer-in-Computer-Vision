@@ -38,3 +38,4 @@
 - (arXiv 2023.11) Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent, [[Paper]](https://arxiv.org/pdf/2311.18307.pdf)
 - (arXiv 2024.01) Knowledge-aware Graph Transformer for Pedestrian Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2401.04872.pdf)
 - (arXiv 2024.01) Hyper-STTN: Social Group-aware Spatial-Temporal Transformer Network for Human Trajectory Prediction with Hypergraph Reasoning, [[Paper]](https://arxiv.org/pdf/2401.06344.pdf)
+- (arXiv 2024.03) Hierarchical Light Transformer Ensembles for Multimodal Trajectory Forecasting, [[Paper]](https://arxiv.org/pdf/2403.17678.pdf)
