@@ -532,3 +532,4 @@
 - (arXiv 2024.03) Rotary Position Embedding for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2403.13298.pdf), [[Code]](https://github.com/naver-ai/rope-vit)
 - (arXiv 2024.03) Retina Vision Transformer (RetinaViT): Introducing Scaled Patches into Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.13677.pdf)
 - (arXiv 2024.03) ParFormer: Vision Transformer Baseline with Parallel Local Global Token Mixer and Convolution Attention Patch Embedding, [[Paper]](https://arxiv.org/pdf/2403.15004.pdf), [[Code]](https://github.com/novendrastywn/ParFormer-CAPE-2024)
+- (arXiv 2024.03) Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2403.18063.pdf), [[Code]](https://github.com/badripatro/sct)
