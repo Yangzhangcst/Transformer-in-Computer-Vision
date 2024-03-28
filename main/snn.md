@@ -10,3 +10,4 @@
 - (arxiv 2024.02) Spiking-PhysFormer: Camera-Based Remote Photoplethysmography with Parallel Spike-driven Transformer,  [[Paper]](https://arxiv.org/pdf/2402.04798.pdf)
 - (arxiv 2024.02) SDiT: Spiking Diffusion Model with Transformer,  [[Paper]](https://arxiv.org/pdf/2402.11588.pdf)
 - (arxiv 2024.03) SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks,  [[Paper]](https://arxiv.org/pdf/2403.14302.pdf), [[Code]](https://github.com/xyshi2000/SpikingResformer)
+- (arxiv 2024.03) QKFormer: Hierarchical Spiking Transformer using Q-K Attention,  [[Paper]](https://arxiv.org/pdf/2403.16552.pdf), [[Code]](https://github.com/zhouchenlin2096/QKFormer)
