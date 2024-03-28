@@ -20,3 +20,4 @@
 - (arXiv 2023.12) Large-scale Graph Representation Learning of Dynamic Brain Connectome with Transformers, [[Paper]](https://arxiv.org/pdf/2312.14939.pdf)
 - (arXiv 2024.01) Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation, [[Paper]](https://arxiv.org/pdf/2401.07721.pdf)
 - (arXiv 2024.02) Stitching Gaps: Fusing Situated Perceptual Knowledge with Vision Transformers for High-Level Image Classification, [[Paper]](https://arxiv.org/pdf/2402.19339.pdf), [[Code]](https://github.com/delfimpandiani/Stitching-Gaps)
+- (arXiv 2024.03) ChebMixer: Efficient Graph Representation Learning with MLP Mixer, [[Paper]](https://arxiv.org/pdf/2403.16358.pdf)
