@@ -31,3 +31,4 @@
 - (arXiv 2023.07) Target-aware Bi-Transformer for Few-shot Segmentation, [[Paper]](https://arxiv.org/pdf/2309.09492.pdf)
 - (arXiv 2023.10) PrototypeFormer: Learning to Explore Prototype Relationships for Few-shot Image Classification, [[Paper]](https://arxiv.org/pdf/2310.03517.pdf)
 - (arXiv 2023.11) Focus on Query: Adversarial Mining Transformer for Few-Shot Segmentation, [[Paper]](https://arxiv.org/pdf/2311.17626.pdf),[[Code]](https://github.com/Wyxdm/AMNet)
+- (arXiv 2024.03) Cross-domain Multi-modal Few-shot Object Detection via Rich Text, [[Paper]](https://arxiv.org/pdf/2403.16188.pdf),[[Code]](https://github.com/zshanggu/CDMM)
