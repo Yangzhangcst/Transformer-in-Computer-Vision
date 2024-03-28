@@ -6,3 +6,4 @@
 - (arXiv 2023.11) Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction, [[Paper]](https://arxiv.org/pdf/2311.04834.pdf), [[Code]](https://github.com/deeplab-ai/SelfSupervisedVRD)
 - (arXiv 2023.11) RelVAE: Generative Pretraining for few-shot Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2311.16261.pdf), [[Code]](https://github.com/deeplab-ai/SelfSupervisedVRD)
 - (arXiv 2024.03) Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2403.14270.pdf)
+- (arXiv 2024.03) Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2403.17709.pdf), [[Code]](https://github.com/mlvlab/SpeaQ)
