@@ -21,3 +21,4 @@
 - (arXiv 2023.12) Open World Object Detection in the Era of Foundation Models, [[Paper]](https://arxiv.org/pdf/2312.05745.pdf), [[Code]](https://orrzohar.github.io/projects/fomo/)
 - (arXiv 2024.02) Semi-supervised Open-World Object Detection, [[Paper]](https://arxiv.org/pdf/2402.16013.pdf), [[Code]](https://github.com/sahalshajim/SS-OWFormer)
 - (arXiv 2024.03) CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2403.12455.pdf), [[Code]](https://github.com/zwq456/CLIP-VIS)
+- (arXiv 2024.03) OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation, [[Paper]](https://arxiv.org/pdf/2403.19580.pdf)
