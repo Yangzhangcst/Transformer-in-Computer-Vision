@@ -6,7 +6,7 @@
 - (arXiv 2022.02) GLPanoDepth: Global-to-Local Panoramic Depth Estimation, [[Paper]](https://arxiv.org/pdf/2202.02796.pdf)
 - (arXiv 2022.02) Transformers in Self-Supervised Monocular Depth Estimation with Unknown Camera Intrinsics, [[Paper]](https://arxiv.org/pdf/2202.03131.pdf)
 - (arXiv 2022.03) OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion, [[Paper]](https://arxiv.org/pdf/2203.00838.pdf)
-- (arXiv 2022.03) PanoFormer: Panorama Transformer for Indoor 360掳 Depth Estimation, [[Paper]](https://arxiv.org/pdf/2203.09283.pdf)
+- (arXiv 2022.03) PanoFormer: Panorama Transformer for Indoor 360 Depth Estimation, [[Paper]](https://arxiv.org/pdf/2203.09283.pdf)
 - (arXiv 2022.03) DepthGAN: GAN-based Depth Generation of Indoor Scenes from Semantic Layouts, [[Paper]](https://arxiv.org/pdf/2203.11453.pdf)
 - (arXiv 2022.03) DepthFormer: Exploiting Long-Range Correlation and Local Information for Accurate Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2203.14211.pdf), [[Code]](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
 - (arXiv 2022.04) BinsFormer: Revisiting Adaptive Bins for Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2204.00987.pdf), [[Code]](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
@@ -45,3 +45,4 @@
 - (arXiv.2024.03) Depth Estimation Algorithm Based on Transformer-Encoder and Feature Fusion, [[Paper]](https://arxiv.org/pdf/2403.01370.pdf)
 - (arXiv.2024.03) METER: a mobile vision transformer architecture for monocular depth estimation, [[Paper]](https://arxiv.org/pdf/2403.08368.pdf)
 - (arXiv.2024.03) SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications, [[Paper]](https://arxiv.org/pdf/2403.11515.pdf)
+- (arXiv.2024.03) UniDepth: Universal Monocular Metric Depth Estimation, [[Paper]](https://arxiv.org/pdf/2403.18913.pdf), [[Code]](https://github.com/lpiccinelli-eth/unidepth)
