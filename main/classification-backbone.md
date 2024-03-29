@@ -533,3 +533,4 @@
 - (arXiv 2024.03) Retina Vision Transformer (RetinaViT): Introducing Scaled Patches into Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.13677.pdf)
 - (arXiv 2024.03) ParFormer: Vision Transformer Baseline with Parallel Local Global Token Mixer and Convolution Attention Patch Embedding, [[Paper]](https://arxiv.org/pdf/2403.15004.pdf), [[Code]](https://github.com/novendrastywn/ParFormer-CAPE-2024)
 - (arXiv 2024.03) Spectral Convolutional Transformer: Harmonizing Real vs. Complex Multi-View Spectral Operators for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2403.18063.pdf), [[Code]](https://github.com/badripatro/sct)
+- (arXiv 2024.03) Low-Rank Rescaled Vision Transformer Fine-Tuning: A Residual Design Approach, [[Paper]](https://arxiv.org/pdf/2403.19067.pdf), [[Code]](https://github.com/zstarN70/RLRR.git)
