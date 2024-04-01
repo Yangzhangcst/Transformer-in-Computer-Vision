@@ -520,3 +520,4 @@
 - (arXiv 2024.03) 3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2403.16350.pdf), [[Code]](https://github.com/HidNeuron/3D-EffiViTCaps)
 - (arXiv 2024.03) Residual Dense Swin Transformer for Continuous Depth-Independent Ultrasound Imaging, [[Paper]](https://arxiv.org/pdf/2403.16384.pdf)
 - (arXiv 2024.03) Benchmarking Image Transformers for Prostate Cancer Detection from Ultrasound Data, [[Paper]](https://arxiv.org/pdf/2403.18233.pdf)
+- (arXiv 2024.03) Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights, [[Paper]](https://arxiv.org/pdf/2403.19882.pdf), [[Code]](https://github.com/xmindflow/Awesome-Attention-Mechanism-in-Medical-Imaging)
