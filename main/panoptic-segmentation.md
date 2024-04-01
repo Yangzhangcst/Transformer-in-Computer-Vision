@@ -27,3 +27,4 @@
 - (arXiv 2024.01) Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering, [[Paper]](https://arxiv.org/pdf/2401.06704.pdf), [[Code]](https://github.com/drprojects/superpoint_transformer)
 - (arXiv 2024.02) Benchmarking the Robustness of Panoptic Segmentation for Automated Driving, [[Paper]](https://arxiv.org/pdf/2402.15469.pdf)
 - (arXiv 2024.03) PEM: Prototype-based Efficient MaskFormer for Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.19422.pdf), [[Code]](https://github.com/NiccoloCavagnero/PEM)
+- (arXiv 2024.03) ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning, [[Paper]](https://arxiv.org/pdf/2403.20126.pdf), [[Code]](https://github.com/clovaai/ECLIPSE)
