@@ -19,4 +19,5 @@
 - (arXiv 2023.11) CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning, [[Paper]](https://arxiv.org/pdf/2311.13263.pdf)
 - (arXiv 2023.12) Fine-Grained Knowledge Selection and Restoration for Non-Exemplar Class Incremental Learning, [[Paper]](https://arxiv.org/pdf/2312.12722.pdf), [[Code]](https://github.com/scok30/)
 - (arXiv 2024.01) PL-FSCIL: Harnessing the Power of Prompts for Few-Shot Class-Incremental Learning, [[Paper]](https://arxiv.org/pdf/2401.14807.pdf), [[Code]](https://github.com/TianSongS/PL-FSCIL)
-- (arXiv 2024.01) Dynamic Transformer Architecture for Continual Learning of Multimodal Tasks, [[Paper]](https://arxiv.org/pdf/2401.14807.pdf), [[Code]](https://github.com/TianSongS/PL-FSCIL)
+- (arXiv 2024.01) Dynamic Transformer Architecture for Continual Learning of Multimodal Tasks, [[Paper]](https://arxiv.org/pdf/2401.14807.pdf)
+- (arXiv 2024.03) Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer, [[Paper]](https://arxiv.org/pdf/2403.19979.pdf), [[Code]](https://github.com/HAIV-Lab/SSIAT)
