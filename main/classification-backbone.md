@@ -537,3 +537,4 @@
 - (arXiv 2024.03) DenseNets Reloaded: Paradigm Shift Beyond ResNets and ViTs, [[Paper]](https://arxiv.org/pdf/2403.19588.pdf), [[Code]](https://github.com/naver-ai/rdnet)
 - (arXiv 2024.03) Sine Activated Low-Rank Matrices for Parameter Efficient Learning, [[Paper]](https://arxiv.org/pdf/2403.19243.pdf)
 - (arXiv 2024.03) Efficient Modulation for Vision Networks, [[Paper]](https://arxiv.org/pdf/2403.19963.pdf), [[Code]](https://github.com/ma-xu/EfficientMod)
+
