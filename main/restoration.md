@@ -22,3 +22,4 @@
 - (arXiv 2023.09) HAT: Hybrid Attention Transformer for Image Restoration, [[Paper]](https://arxiv.org/pdf/2309.05239.pdf), [[Code]](https://github.com/XPixelGroup/HAT)
 - (arXiv 2023.12) ViStripformer: A Token-Efficient Transformer for Versatile Video Restoration,  [[Paper]](https://arxiv.org/pdf/2312.14502.pdf)
 - (arXiv 2024.02) Key-Graph Transformer for Image Restoration,  [[Paper]](https://arxiv.org/pdf/2402.02634.pdf)
+- (arXiv 2024.03) IPT-V2: Efficient Image Processing Transformer using Hierarchical Attentions,  [[Paper]](https://arxiv.org/pdf/2404.00633.pdf)
