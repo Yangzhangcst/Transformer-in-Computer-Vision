@@ -7,3 +7,4 @@
 - (arXiv 2023.07) CVSformer: Cross-View Synthesis Transformer for Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2307.07938.pdf)
 - (arXiv 2023.10) Distance-based Weighted Transformer Network for Image Completion, [[Paper]](https://arxiv.org/pdf/2310.07440.pdf)
 - (arXiv 2024.01) CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers, [[Paper]](https://arxiv.org/pdf/2401.01552.pdf),[[Code]](https://github.com/EasyRy/CRA-PCN)
+- (arXiv 2024.04) Transformer based Pluralistic Image Completion with Reduced Information Loss, [[Paper]](https://arxiv.org/pdf/2404.00513.pdf),[[Code]](https://github.com/liuqk3/PUT)
