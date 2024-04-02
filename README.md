@@ -20,7 +20,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
   - [Bird's-Eye-View](main/birds-eye-view.md)
   - [Captioning](main/captioning.md)
   - [Change Detection](main/change-detection.md)
-  - [Classification (Backbone.md)](main/classification-backbone.md)
+  - [Classification (Backbone)](main/classification-backbone.md)
   - [Clustering](main/clustering.md)
   - [Completion](main/completion.md)
   - [Compression](main/compression.md)
