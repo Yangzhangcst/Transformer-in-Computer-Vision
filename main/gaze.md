@@ -12,3 +12,4 @@
 - (arXiv 2024.01) EmMixformer: Mix transformer for eye movement recognition, [[Paper]](https://arxiv.org/pdf/2401.04956.pdf)
 - (arXiv 2024.02) TransGOP: Transformer-Based Gaze Object Prediction, [[Paper]](https://arxiv.org/pdf/2402.13578.pdf), [[Code]](https://github.com/chenxi-Guo/TransGOP)
 - (arXiv 2024.03) ViTGaze: Gaze Following with Interaction Features in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.12778.pdf), [[Code]](https://github.com/hustvl/ViTGaze)
+- (arXiv 2024.04) Denoising Distillation Makes Event-Frame Transformers as Accurate Gaze Trackers, [[Paper]](https://arxiv.org/pdf/2404.00548.pdf), [[Code]](https://github.com/jdjdli/Denoise_distill_EF_gazetracker)
