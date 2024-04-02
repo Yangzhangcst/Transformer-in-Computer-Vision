@@ -36,3 +36,4 @@
 - (arXiv 2024.01) LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation, [[Paper]](https://arxiv.org/pdf/2401.11243.pdf)
 - (arXiv 2024.01) MPTQ-ViT: Mixed-Precision Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2401.14895.pdf)
 - (arXiv 2024.03) Accelerating ViT Inference on FPGA through Static and Dynamic Pruning, [[Paper]](https://arxiv.org/pdf/2403.14047.pdf)
+- (arXiv 2024.04) Instance-Aware Group Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.00928.pdf), [[Code]](https://cvlab.yonsei.ac.kr/projects/IGQ-ViT/)
