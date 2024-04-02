@@ -115,4 +115,4 @@
 - (arXiv 2024.01) Multi-view Distillation based on Multi-modal Fusion for Few-shot Action Recognition, [[Paper]](https://arxiv.org/pdf/2401.08345.pdf),[[Code]](https://github.com/cofly2014/MDMF)
 - (arXiv 2024.03) SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2403.09508.pdf),[[Code]](https://jeonghyeokdo.github.io/SkateFormer_site/)
 - (arXiv 2024.03) Enhancing Video Transformers for Action Understanding with VLM-aided Training, [[Paper]](https://arxiv.org/pdf/2403.16128.pdf)
-
+- (arXiv 2024.04) Action Detection via an Image Diffusion Process, [[Paper]](https://arxiv.org/pdf/2404.01051.pdf)
