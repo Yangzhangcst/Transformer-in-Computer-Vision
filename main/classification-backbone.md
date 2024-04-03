@@ -538,3 +538,4 @@
 - (arXiv 2024.03) Sine Activated Low-Rank Matrices for Parameter Efficient Learning, [[Paper]](https://arxiv.org/pdf/2403.19243.pdf)
 - (arXiv 2024.03) Efficient Modulation for Vision Networks, [[Paper]](https://arxiv.org/pdf/2403.19963.pdf), [[Code]](https://github.com/ma-xu/EfficientMod)
 - (arXiv 2024.04) Structured Initialization for Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.01139.pdf), [[Code]](https://github.com/osiriszjq/structured_init)
+- (arXiv 2024.04) A General and Efficient Training for Transformer via Token Expansion, [[Paper]](https://arxiv.org/pdf/2404.00672.pdf), [[Code]](https://github.com/Osilly/TokenExpansion)
