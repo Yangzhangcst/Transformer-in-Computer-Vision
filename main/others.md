@@ -217,3 +217,4 @@
 - (arXiv 2024.03) Masked Generative Story Transformer with Character Guidance and Caption Augmentation, [[Paper]](https://arxiv.org/pdf/2403.08502.pdf)
 - (arXiv 2024.03) Transformers-based architectures for stroke segmentation: A review, [[Paper]](https://arxiv.org/pdf/2403.18637.pdf)
 - (arXiv 2024.03) ViTAR: Vision Transformer with Any Resolution, [[Paper]](https://arxiv.org/pdf/2403.18361.pdf)
+- (arXiv 2024.04) Event Camera Demosaicing via Swin Transformer and Pixel-focus Loss, [[Paper]](https://arxiv.org/pdf/2404.02731.pdf), [[Code]](https://github.com/yunfanLu/ev-demosaic)
