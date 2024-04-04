@@ -14,3 +14,4 @@
 - (arXiv 2024.02) FiT: Flexible Vision Transformer for Diffusion Model, [[Paper]](https://arxiv.org/pdf/2402.12376.pdf), [[Code]](https://github.com/whlzy/FiT)
 - (arXiv 2024.03) Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts, [[Paper]](https://arxiv.org/pdf/2403.09176.pdf), [[Code]](https://byeongjun-park.github.io/Switch-DiT/)
 - (arXiv 2024.03) SD-DiT: Unleashing the Power of Self-supervised Discrimination in Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2403.17004.pdf)
+- (arXiv 2024.04) WcDT: World-centric Diffusion Transformer for Traffic Scene Generation, [[Paper]](https://arxiv.org/pdf/2404.02082.pdf)
