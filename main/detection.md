@@ -202,3 +202,6 @@
 - (arXiv 2024.03) LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors, [[Paper]](https://arxiv.org/pdf/2403.14625.pdf), [[Project]](https://www.cs.umd.edu/~sakshams/LiFT/)
 - (arXiv 2024.03) Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement, [[Paper]](https://arxiv.org/pdf/2403.16131.pdf), [[Code]](https://github.com/xiuqhou/Salience-DETR)
 - (arXiv 2024.03) Illicit object detection in X-ray images using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.19043.pdf)
+- (arXiv 2024.04) Scene Adaptive Sparse Transformer for Event-based Object Detection, [[Paper]](https://arxiv.org/pdf/2404.01882.pdf), [[Code]](https://github.com/Peterande/SAST)
+- (arXiv 2024.04) Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection, [[Paper]](https://arxiv.org/pdf/2404.01819.pdf)
+
