@@ -21,3 +21,4 @@
 - (arXiv 2024.01) PL-FSCIL: Harnessing the Power of Prompts for Few-Shot Class-Incremental Learning, [[Paper]](https://arxiv.org/pdf/2401.14807.pdf), [[Code]](https://github.com/TianSongS/PL-FSCIL)
 - (arXiv 2024.01) Dynamic Transformer Architecture for Continual Learning of Multimodal Tasks, [[Paper]](https://arxiv.org/pdf/2401.14807.pdf)
 - (arXiv 2024.03) Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer, [[Paper]](https://arxiv.org/pdf/2403.19979.pdf), [[Code]](https://github.com/HAIV-Lab/SSIAT)
+- (arXiv 2024.04) Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners, [[Paper]](https://arxiv.org/pdf/2404.02117.pdf), [[Code]](https://github.com/KHU-AGI/PriViLege)
