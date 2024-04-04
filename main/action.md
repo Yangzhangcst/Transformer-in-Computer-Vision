@@ -117,3 +117,4 @@
 - (arXiv 2024.03) Enhancing Video Transformers for Action Understanding with VLM-aided Training, [[Paper]](https://arxiv.org/pdf/2403.16128.pdf)
 - (arXiv 2024.04) Action Detection via an Image Diffusion Process, [[Paper]](https://arxiv.org/pdf/2404.01051.pdf)
 - (arXiv 2024.04) Dual DETRs for Multi-Label Temporal Action Detection, [[Paper]](https://arxiv.org/pdf/2404.00653.pdf),[[Code]](https://github.com/MCG-NJU/DualDETR)
+- (arXiv 2024.04) ASTRA: An Action Spotting TRAnsformer for Soccer Videos, [[Paper]](https://arxiv.org/pdf/2404.01891.pdf)
