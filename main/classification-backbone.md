@@ -540,3 +540,4 @@
 - (arXiv 2024.04) Structured Initialization for Attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.01139.pdf), [[Code]](https://github.com/osiriszjq/structured_init)
 - (arXiv 2024.04) A General and Efficient Training for Transformer via Token Expansion, [[Paper]](https://arxiv.org/pdf/2404.00672.pdf), [[Code]](https://github.com/Osilly/TokenExpansion)
 - (arXiv 2024.04) DeiT-LT: Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets, [[Paper]](https://arxiv.org/pdf/2404.02900.pdf), [[Code]](https://github.com/val-iisc/DeiT-LT/tree/main)
+- (arXiv 2024.04) LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity, [[Paper]](https://arxiv.org/pdf/2404.03214.pdf), [[Code]](https://github.com/WalBouss/LeGrad)
