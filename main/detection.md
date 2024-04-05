@@ -204,4 +204,5 @@
 - (arXiv 2024.03) Illicit object detection in X-ray images using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.19043.pdf)
 - (arXiv 2024.04) Scene Adaptive Sparse Transformer for Event-based Object Detection, [[Paper]](https://arxiv.org/pdf/2404.01882.pdf), [[Code]](https://github.com/Peterande/SAST)
 - (arXiv 2024.04) Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection, [[Paper]](https://arxiv.org/pdf/2404.01819.pdf)
+- (arXiv 2024.04) DQ-DETR: DETR with Dynamic Query for Tiny Object Detection, [[Paper]](https://arxiv.org/pdf/2404.03507.pdf)
 
