@@ -523,3 +523,4 @@
 - (arXiv 2024.03) Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights, [[Paper]](https://arxiv.org/pdf/2403.19882.pdf), [[Code]](https://github.com/xmindflow/Awesome-Attention-Mechanism-in-Medical-Imaging)
 - (arXiv 2024.04) AgileFormer: Spatially Agile Transformer UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2404.00122.pdf), [[Code]](https://github.com/sotiraslab/AgileFormer)
 - (arXiv 2024.04) MugenNet: A Novel Combined Convolution Neural Network and Transformer Network with its Application for Colonic Polyp Image Segmentation, [[Paper]](https://arxiv.org/pdf/2404.00726.pdf)
+- (arXiv 2024.04) Effective Lymph Nodes Detection in CT Scans Using Location Debiased Query Selection and Contrastive Query Representation in Transformer, [[Paper]](https://arxiv.org/pdf/2404.03819.pdf)
