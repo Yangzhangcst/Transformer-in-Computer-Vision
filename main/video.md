@@ -169,3 +169,4 @@
 - (arXiv 2024.03) A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Video, [[Paper]](https://arxiv.org/pdf/2403.03461.pdf)
 - (arXiv 2024.03) OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework, [[Paper]](https://arxiv.org/pdf/2403.08682.pdf)
 - (arXiv 2024.03) vid-TLDR: Training Free Token merging for Light-weight Video Transformer, [[Paper]](https://arxiv.org/pdf/2403.13347.pdf), [[Code]](https://github.com/mlvlab/vid-TLDR)
+- (arXiv 2024.04) SleepVST: Sleep Staging from Near-Infrared Video Signals using Pre-Trained Transformers, , [[Paper]](https://arxiv.org/pdf/2404.03831.pdf)
