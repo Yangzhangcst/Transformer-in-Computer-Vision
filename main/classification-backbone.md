@@ -541,3 +541,4 @@
 - (arXiv 2024.04) A General and Efficient Training for Transformer via Token Expansion, [[Paper]](https://arxiv.org/pdf/2404.00672.pdf), [[Code]](https://github.com/Osilly/TokenExpansion)
 - (arXiv 2024.04) DeiT-LT: Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets, [[Paper]](https://arxiv.org/pdf/2404.02900.pdf), [[Code]](https://github.com/val-iisc/DeiT-LT/tree/main)
 - (arXiv 2024.04) LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity, [[Paper]](https://arxiv.org/pdf/2404.03214.pdf), [[Code]](https://github.com/WalBouss/LeGrad)
+- (arXiv 2024.04) Learning Correlation Structures for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.03924.pdf), [[Code]](http://cvlab.postech.ac.kr/research/StructViT/)
