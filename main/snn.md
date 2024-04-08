@@ -12,3 +12,4 @@
 - (arxiv 2024.03) SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks,  [[Paper]](https://arxiv.org/pdf/2403.14302.pdf), [[Code]](https://github.com/xyshi2000/SpikingResformer)
 - (arxiv 2024.03) QKFormer: Hierarchical Spiking Transformer using Q-K Attention,  [[Paper]](https://arxiv.org/pdf/2403.16552.pdf), [[Code]](https://github.com/zhouchenlin2096/QKFormer)
 - (arxiv 2024.03) Fourier or Wavelet bases as counterpart self-attention in spikformer for efficient visual classification,  [[Paper]](https://arxiv.org/pdf/2403.18228.pdf)
+- (arxiv 2024.04) Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips,  [[Paper]](https://arxiv.org/pdf/2404.03663.pdf)
