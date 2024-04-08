@@ -206,3 +206,4 @@
 - (arXiv 2024.04) Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection, [[Paper]](https://arxiv.org/pdf/2404.01819.pdf)
 - (arXiv 2024.04) DQ-DETR: DETR with Dynamic Query for Tiny Object Detection, [[Paper]](https://arxiv.org/pdf/2404.03507.pdf)
 - (arXiv 2024.04) DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection, [[Paper]](https://arxiv.org/pdf/2404.03015.pdf), [[Code]](https://github.com/TUMFTM/DPFT)
+- (arXiv 2024.04) Improving Detection in Aerial Images by Capturing Inter-Object Relationships, [[Paper]](https://arxiv.org/pdf/2404.04140.pdf)
