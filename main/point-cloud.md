@@ -130,3 +130,4 @@
 - (arXiv 2024.03) Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling, [[Paper]](https://arxiv.org/pdf/2403.14124.pdf)
 - (arXiv 2024.03) DOCTR: Disentangled Object-Centric Transformer for Point Scene Understanding, [[Paper]](https://arxiv.org/pdf/2403.16431.pdf), [[Code]](https://github.com/SAITPublic/DOCTR)
 - (arXiv 2024.04) Transfer Learning with Point Transformers, [[Paper]](https://arxiv.org/pdf/2404.00846.pdf)
+- (arXiv 2024.04) Taming Transformers for Realistic Lidar Point Cloud Generation, [[Paper]](https://arxiv.org/pdf/2404.05505.pdf), [[Code]](https://github.com/hamedhaghighi/LidarGRIT)
