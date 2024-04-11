@@ -131,3 +131,4 @@
 - (arXiv 2024.03) DOCTR: Disentangled Object-Centric Transformer for Point Scene Understanding, [[Paper]](https://arxiv.org/pdf/2403.16431.pdf), [[Code]](https://github.com/SAITPublic/DOCTR)
 - (arXiv 2024.04) Transfer Learning with Point Transformers, [[Paper]](https://arxiv.org/pdf/2404.00846.pdf)
 - (arXiv 2024.04) Taming Transformers for Realistic Lidar Point Cloud Generation, [[Paper]](https://arxiv.org/pdf/2404.05505.pdf), [[Code]](https://github.com/hamedhaghighi/LidarGRIT)
+- (arXiv 2024.04) Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data, [[Paper]](https://arxiv.org/pdf/2404.06715.pdf), [[Code]](https://bravocharlie-ai.github.io/Sparce_to_Dense/)
