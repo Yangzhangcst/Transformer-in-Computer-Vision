@@ -15,4 +15,4 @@
 - (arXiv 2024.03) Distribution and Depth-Aware Transformers for 3D Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2403.09063.pdf)
 - (arXiv 2024.03) T-Pixel2Mesh: Combining Global and Local Transformer for 3D Mesh Generation from a Single Image, [[Paper]](https://arxiv.org/pdf/2403.13663.pdf)
 - (arXiv 2024.03) PostoMETRO: Pose Token Enhanced Mesh Transformer for Robust 3D Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2403.12473.pdf)
-- (arXiv 2024.03) InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models, [[Paper]](https://arxiv.org/pdf/2404.06542.pdf), [[Code]](https://aimagelab.github.io/freeda/)
+- (arXiv 2024.03) InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models, [[Paper]](https://arxiv.org/pdf/2404.06542.pdf), [[Code]](https://github.com/TencentARC/InstantMesh)
