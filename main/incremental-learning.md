@@ -23,3 +23,4 @@
 - (arXiv 2024.03) Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer, [[Paper]](https://arxiv.org/pdf/2403.19979.pdf), [[Code]](https://github.com/HAIV-Lab/SSIAT)
 - (arXiv 2024.04) Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners, [[Paper]](https://arxiv.org/pdf/2404.02117.pdf), [[Code]](https://github.com/KHU-AGI/PriViLege)
 - (arXiv 2024.04) Calibrating Higher-Order Statistics for Few-Shot Class-Incremental Learning with Pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.06622.pdf), [[Code]](https://github.com/dipamgoswami/FSCIL-Calibration)
+- (arXiv 2024.04) Remembering Transformer for Continual Learning, [[Paper]](https://arxiv.org/pdf/2404.07518.pdf)
