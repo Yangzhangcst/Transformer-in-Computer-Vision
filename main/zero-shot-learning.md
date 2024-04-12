@@ -12,3 +12,4 @@
 - (arXiv 2023.08) ViT-Lens: Towards Omni-modal Representations, [[Paper]](https://arxiv.org/pdf/2308.10185.pdf)
 - (arXiv 2023.08) Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding, [[Paper]](https://arxiv.org/pdf/2308.11448.pdf)
 - (arXiv 2023.11) SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation, [[Paper]](https://arxiv.org/pdf/2311.17707.pdf), [[Code]](https://mutianxu.github.io/sampro3d/)
+- (arXiv 2024.04) Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2404.07713.pdf)
