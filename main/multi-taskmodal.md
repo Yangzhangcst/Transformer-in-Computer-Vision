@@ -206,3 +206,4 @@
 - (arXiv 2024.03) Affective Behaviour Analysis via Integrating Multi-Modal Knowledge, [[Paper]](https://arxiv.org/pdf/2403.10825.pdf)
 - (arXiv 2024.03) M2DA: Multi-Modal Fusion Transformer Incorporating Driver Attention for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2403.12552.pdf), [[Code]](https://anonymous.4open.science/r/M2DA-4772/)
 - (arXiv 2024.04) ViTamin: Designing Scalable Vision Models in the Vision-Language Era, [[Paper]](https://arxiv.org/pdf/2404.02132.pdf), [[Code]](https://github.com/Beckschen/ViTamin)
+- (arXiv 2024.04) GLID: Pre-training a Generalist Encoder-Decoder Vision Model, [[Paper]](https://arxiv.org/pdf/2404.07603.pdf)
