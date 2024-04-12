@@ -22,3 +22,4 @@
 - (arXiv 2024.01) Denoising Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.02957.pdf), [[Code]](https://jiawei-yang.github.io/DenoisingViT/)
 - (arXiv 2024.01) Hyperspectral Image Denoising via Spatial-Spectral Recurrent Transformer, [[Paper]](https://arxiv.org/pdf/2401.03885.pdf), [[Code]](https://github.com/lronkitty/SSRT)
 - (arXiv 2024.04) SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising, [[Paper]](https://arxiv.org/pdf/2404.00349.pdf)
+- (arXiv 2024.04) TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising, [[Paper]](https://arxiv.org/pdf/2404.07846.pdf), [[Code]](https://github.com/nagejacob/TBSN)
