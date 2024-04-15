@@ -15,3 +15,4 @@
 - (arXiv 2023.10) FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer, [[Paper]](https://arxiv.org/pdf/2310.13605.pdf)
 - (arXiv 2023.11) LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching, [[Paper]](https://arxiv.org/pdf/2311.17571.pdf), [[Code]](https://github.com/zwh0527/LGFCTR)
 - (arXiv 2023.12) Latent Space Editing in Transformer-Based Flow Matching, [[Paper]](https://arxiv.org/pdf/2312.10825.pdf), [[Code]](https://taohu.me/lfm/)
+- (arXiv 2024.04) IFViT: Interpretable Fixed-Length Representation for Fingerprint Matching via Vision Transformer, [[Paper]](https://arxiv.org/pdf/2404.08237.pdf)
