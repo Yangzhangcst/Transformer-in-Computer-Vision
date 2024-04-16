@@ -95,3 +95,4 @@
 - (arXiv 2024.03) FaceXFormer: A Unified Transformer for Facial Analysis, [[Paper]](https://arxiv.org/pdf/2403.12960.pdf),[[Code]](https://kartik-3004.github.io/facexformer_web/)
 - (arXiv 2024.03) A Hybrid Transformer-Sequencer approach for Age and Gender classification from in-wild facial images, [[Paper]](https://arxiv.org/pdf/2403.12483.pdf)
 - (arXiv 2024.04) MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2404.08433.pdf)
+- (arXiv 2024.04) FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features, [[Paper]](https://arxiv.org/pdf/2404.09736.pdf),[[Code]](https://andrerochow.github.io/fsrt)
