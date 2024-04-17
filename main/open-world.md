@@ -22,3 +22,4 @@
 - (arXiv 2024.02) Semi-supervised Open-World Object Detection, [[Paper]](https://arxiv.org/pdf/2402.16013.pdf), [[Code]](https://github.com/sahalshajim/SS-OWFormer)
 - (arXiv 2024.03) CLIP-VIS: Adapting CLIP for Open-Vocabulary Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2403.12455.pdf), [[Code]](https://github.com/zwq456/CLIP-VIS)
 - (arXiv 2024.03) OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation, [[Paper]](https://arxiv.org/pdf/2403.19580.pdf)
+- (arXiv 2024.04) DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2404.09216.pdf)
