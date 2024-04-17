@@ -525,3 +525,4 @@
 - (arXiv 2024.04) MugenNet: A Novel Combined Convolution Neural Network and Transformer Network with its Application for Colonic Polyp Image Segmentation, [[Paper]](https://arxiv.org/pdf/2404.00726.pdf)
 - (arXiv 2024.04) Effective Lymph Nodes Detection in CT Scans Using Location Debiased Query Selection and Contrastive Query Representation in Transformer, [[Paper]](https://arxiv.org/pdf/2404.03819.pdf)
 - (arXiv 2024.04) SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2404.10156.pdf), [[Code]](https://github.com/OSUPCVLab/SegFormer3D.git)
+- (arXiv 2024.04) WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion, [[Paper]](https://arxiv.org/pdf/2404.09533.pdf), [[Code]](https://github.com/woldier/WiTUNet)
