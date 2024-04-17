@@ -172,3 +172,4 @@
 - (arXiv 2024.04) SleepVST: Sleep Staging from Near-Infrared Video Signals using Pre-Trained Transformers, [[Paper]](https://arxiv.org/pdf/2404.03831.pdf)
 - (arXiv 2024.04) PhysPT: Physics-aware Pretrained Transformer for Estimating Human Dynamics from Monocular Videos, [[Paper]](https://arxiv.org/pdf/2404.04430.pdf)
 - (arXiv 2024.04) A Transformer-Based Model for the Prediction of Human Gaze Behavior on Videos, [[Paper]](https://arxiv.org/pdf/2404.07351.pdf)
+- (arXiv 2024.04) Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics, [[Paper]](https://arxiv.org/pdf/2404.09245.pdf)
