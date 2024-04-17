@@ -221,3 +221,4 @@
 - (arXiv 2024.04) On the Faithfulness of Vision Transformer Explanations,[[Paper]](https://arxiv.org/pdf/2404.01415.pdf)
 - (arXiv 2024.04) Dual-Scale Transformer for Large-Scale Single-Pixel Imaging,[[Paper]](https://arxiv.org/pdf/2404.05001.pdf), [[Code]](https://github.com/Gang-Qu/HATNet-SPI)
 - (arXiv 2024.04) EyeFormer: Predicting Personalized Scanpaths with Transformer-Guided Reinforcement Learning,[[Paper]](https://arxiv.org/pdf/2404.10163.pdf)
+- (arXiv 2024.04) HEAT: Head-level Parameter Efficient Adaptation of Vision Transformers with Taylor-expansion Importance Scores,[[Paper]](https://arxiv.org/pdf/2404.08894.pdf)
