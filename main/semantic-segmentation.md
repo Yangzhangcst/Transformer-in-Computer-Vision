@@ -144,3 +144,4 @@
 - (arXiv 2024.03) AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2403.01818.pdf), [[Code]](https://github.com/xmed-lab/AllSpark)
 - (arXiv 2024.03) Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision, [[Paper]](https://arxiv.org/pdf/2403.03707.pdf)
 - (arXiv 2024.03) DuPL: Dual Student with Trustworthy Progressive Learning for Robust Weakly Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2403.11184.pdf), [[Code]](https://github.com/Wu0409/DuPL)
+- (arXiv 2024.04) Learning from Unlabelled Data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images, [[Paper]](https://arxiv.org/pdf/2404.11299.pdf)
