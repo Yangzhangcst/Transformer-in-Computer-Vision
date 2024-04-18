@@ -62,3 +62,4 @@
 - (arXiv 2024.01) Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention, [[Paper]](https://arxiv.org/pdf/2401.06312.pdf),[[Code]](https://github.com/LabShuHangGU/MIA-VSR)
 - (arXiv 2024.01) Transcending the Limit of Local Window: Advanced Super-Resolution Transformer with Adaptive Token Dictionary, [[Paper]](https://arxiv.org/pdf/2401.08209.pdf),[[Code]](https://github.com/LabShuHangGU/Adaptive-Token-Dictionary)
 - (arXiv 2024.01) LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2401.11589.pdf),[[Code]](https://github.com/sad192/large-kernel-Transformer)
+- (arXiv 2024.04) Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2404.11273.pdf)
