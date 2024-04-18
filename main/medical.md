@@ -527,3 +527,4 @@
 - (arXiv 2024.04) SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2404.10156.pdf), [[Code]](https://github.com/OSUPCVLab/SegFormer3D.git)
 - (arXiv 2024.04) WiTUnet: A U-Shaped Architecture Integrating CNN and Transformer for Improved Feature Alignment and Local Information Fusion, [[Paper]](https://arxiv.org/pdf/2404.09533.pdf), [[Code]](https://github.com/woldier/WiTUNet)
 - (arXiv 2024.04) JointViT: Modeling Oxygen Saturation Levels with Joint Supervision on Long-Tailed OCTA, [[Paper]](https://arxiv.org/pdf/2404.11525.pdf), [[Code]](https://github.com/steve-zeyu-zhang/JointViT)
+- (arXiv 2024.04) CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect, [[Paper]](https://arxiv.org/pdf/2404.11429.pdf), [[Code]](https://github.com/UARK-AICV/CarcassFormer)
