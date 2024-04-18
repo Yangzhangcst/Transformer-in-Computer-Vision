@@ -36,3 +36,4 @@
 - (arXiv 2023.12) EulerMormer: Robust Eulerian Motion Magnification via Dynamic Filtering within Transformer, [[Paper]](https://arxiv.org/pdf/2312.04152.pdf), [[Code]](https://github.com/VUT-HFUT/EulerMormer)
 - (arXiv 2023.12) Sign Language Production with Latent Motion Transformer, [[Paper]](https://arxiv.org/pdf/2312.12917.pdf)
 - (arXiv 2024.01) AdvMT: Adversarial Motion Transformer for Long-term Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2401.05018.pdf)
+- (arXiv 2024.04) Neuromorphic Vision-based Motion Segmentation with Graph Transformer Neural Network, [[Paper]](https://arxiv.org/pdf/2404.10940.pdf)
