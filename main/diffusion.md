@@ -17,3 +17,4 @@
 - (arXiv 2024.04) WcDT: World-centric Diffusion Transformer for Traffic Scene Generation, [[Paper]](https://arxiv.org/pdf/2404.02082.pdf)
 - (arXiv 2024.04) Solving Masked Jigsaw Puzzles with Diffusion Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.07292.pdf)
 - (arXiv 2024.04) Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2404.09976.pdf)
+- (arXiv 2024.04) Lazy Diffusion Transformer for Interactive Image Editing, [[Paper]](https://arxiv.org/pdf/2404.12382.pdf), [[Project]](https://lazydiffusion.github.io/)
