@@ -40,3 +40,4 @@
 - (arXiv 2024.01) Hyper-STTN: Social Group-aware Spatial-Temporal Transformer Network for Human Trajectory Prediction with Hypergraph Reasoning, [[Paper]](https://arxiv.org/pdf/2401.06344.pdf)
 - (arXiv 2024.03) Hierarchical Light Transformer Ensembles for Multimodal Trajectory Forecasting, [[Paper]](https://arxiv.org/pdf/2403.17678.pdf)
 - (arXiv 2024.04) HawkDrive: A Transformer-driven Visual Perception System for Autonomous Driving in Night Scene, [[Paper]](https://arxiv.org/pdf/2404.04653.pdf), [[Code]](https://github.com/ZionGo6/HawkDrive)
+- (arXiv 2024.04) FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2404.12867.pdf)
