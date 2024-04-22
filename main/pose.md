@@ -107,3 +107,4 @@
 - (arXiv 2024.03) FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation, [[Paper]](https://arxiv.org/pdf/2403.03221.pdf), [[Code]](https://crockwell.github.io/far/)
 - (arXiv 2024.03) EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2403.18080.pdf)
 - (arXiv 2024.04) KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2404.00658.pdf), [[Code]](https://github.com/JihuaPeng/KTPFormer)
+- (arXiv 2024.04) SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers, [[Paper]](https://arxiv.org/pdf/2404.12625.pdf)
