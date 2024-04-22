@@ -530,3 +530,4 @@
 - (arXiv 2024.04) CarcassFormer: An End-to-end Transformer-based Framework for Simultaneous Localization, Segmentation and Classification of Poultry Carcass Defect, [[Paper]](https://arxiv.org/pdf/2404.11429.pdf), [[Code]](https://github.com/UARK-AICV/CarcassFormer)
 - (arXiv 2024.04) Supervised Contrastive Vision Transformer for Breast Histopathological Image Classification, [[Paper]](https://arxiv.org/pdf/2404.11052.pdf)
 - (arXiv 2024.04) Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture, [[Paper]](https://arxiv.org/pdf/2404.11843.pdf)
+- (arXiv 2024.04) Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment, [[Paper]](https://arxiv.org/pdf/2404.12634.pdf)
