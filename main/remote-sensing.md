@@ -30,3 +30,4 @@
 - (arXiv 2024.03) TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes, [[Paper]](https://arxiv.org/pdf/2403.18238.pdf), [[Code]](https://github.com/techmn/satmae_pp)
 - (arXiv 2024.03) Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding, [[Paper]](https://arxiv.org/pdf/2403.18593.pdf), [[Code]](https://github.com/GeoX-Lab/Hook)
 - (arXiv 2024.04) CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening, [[Paper]](https://arxiv.org/pdf/2404.01121.pdf)
+- (arXiv 2024.04) Linearly-evolved Transformer for Pan-sharpening, [[Paper]](https://arxiv.org/pdf/2404.12804.pdf)
