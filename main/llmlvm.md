@@ -34,3 +34,4 @@
 - (arXiv 2024.03) VLM-PL: Advanced Pseudo Labeling approach Class Incremental Object Detection with Vision-Language Model, [[Paper]](https://arxiv.org/pdf/2403.05346.pdf)
 - (arXiv 2024.03) Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models, [[Paper]](https://arxiv.org/pdf/2403.09635.pdf), [[Code]](https://github.com/akhilkedia/TranformersGetStable)
 - (arXiv 2024.04) Adapting LLaMA Decoder to Vision Transformer, [[Paper]](https://arxiv.org/pdf/2404.06773.pdf), [[Code]](https://github.com/techmonsterwang/iLLaMA)
+- (arXiv 2024.04) Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2404.14040.pdf), [[Code]](https://github.com/YuyangSheng/Surgical-DeSAM)
