@@ -532,3 +532,4 @@
 - (arXiv 2024.04) Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture, [[Paper]](https://arxiv.org/pdf/2404.11843.pdf)
 - (arXiv 2024.04) Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment, [[Paper]](https://arxiv.org/pdf/2404.12634.pdf)
 - (arXiv 2024.04) A Multimodal Feature Distillation with CNN-Transformer Network for Brain Tumor Segmentation with Incomplete Modalities, [[Paper]](https://arxiv.org/pdf/2404.14019.pdf), [[Code]](https://github.com/mkang315/MCTSeg)
+- (arXiv 2024.04) Masked Latent Transformer with the Random Masking Ratio to Advance the Diagnosis of Dental Fluorosis, [[Paper]](https://arxiv.org/pdf/2404.13564.pdf), [[Code]](https://github.com/uxhao-o/MLTrMR)
