@@ -208,3 +208,4 @@
 - (arXiv 2024.04) ViTamin: Designing Scalable Vision Models in the Vision-Language Era, [[Paper]](https://arxiv.org/pdf/2404.02132.pdf), [[Code]](https://github.com/Beckschen/ViTamin)
 - (arXiv 2024.04) GLID: Pre-training a Generalist Encoder-Decoder Vision Model, [[Paper]](https://arxiv.org/pdf/2404.07603.pdf)
 - (arXiv 2024.04) The revenge of BiSeNet: Efficient Multi-Task Image Segmentation, [[Paper]](https://arxiv.org/pdf/2404.09570.pdf)
+- (arXiv 2024.04) HOIST-Former: Hand-held Objects Identification, Segmentation, and Tracking in the Wild, [[Paper]](https://arxiv.org/pdf/2404.13819.pdf), [[Code]](https://supreethn.github.io/research/hoistformer/index.html)
