@@ -545,3 +545,4 @@
 - (arXiv 2024.04) HSViT: Horizontally Scalable Vision Transformer, [[Paper]](https://arxiv.org/pdf/2404.03924.pdf), [[Code]](https://github.com/xuchenhao001/HSViT)
 - (arXiv 2024.04) MLP Can Be A Good Transformer Learner, [[Paper]](https://arxiv.org/pdf/2404.05657.pdf), [[Code]](https://github.com/sihaoevery/lambda_vit)
 - (arXiv 2024.04) Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training, [[Paper]](https://arxiv.org/pdf/2404.12210.pdf), [[Code]](https://github.com/wangsr126/mae-lite)
+- (arXiv 2024.04) Nested-TNT: Hierarchical Vision Transformers with Multi-Scale Feature Processing, [[Paper]](https://arxiv.org/pdf/2404.13434.pdf)
