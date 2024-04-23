@@ -15,3 +15,4 @@
 - (arXiv 2023.09) DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention, [[Paper]](https://arxiv.org/pdf/2309.06511.pdf)
 - (arXiv 2024.03) TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer, [[Paper]](https://arxiv.org/pdf/2403.12481.pdf)
 - (arXiv 2024.03) AVT2-DWF: Improving Deepfake Detection with Audio-Visual Fusion and Dynamic Weighting Strategies, [[Paper]](https://arxiv.org/pdf/2403.14974.pdf), [[Code]](https://github.com/raining-dev/AVT2-DWF)
+- (arXiv 2024.04) Texture-aware and Shape-guided Transformer for Sequential DeepFake Detection, [[Paper]](https://arxiv.org/pdf/2404.13873.pdf)
