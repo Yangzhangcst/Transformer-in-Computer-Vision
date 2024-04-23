@@ -13,3 +13,4 @@
 - (arXiv 2023.12) VSFormer: Visual-Spatial Fusion Transformer for Correspondence Pruning, [[Paper]](https://arxiv.org/pdf/2312.08774.pdf), [[Code]](https://github.com/sugar-fly/VSFormer)
 - (arXiv 2023.12) D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer,  [[Paper]](https://arxiv.org/pdf/2312.12970.pdf)
 - (arXiv 2024.03) EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration,  [[Paper]](https://arxiv.org/pdf/2403.11026.pdf)
+- (arXiv 2024.04) PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer,  [[Paper]](https://arxiv.org/pdf/2404.14034.pdf)
