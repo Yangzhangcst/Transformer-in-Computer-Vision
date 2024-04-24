@@ -21,3 +21,4 @@
 - (arXiv 2023.11) Learning transformer-based heterogeneously salient graph representation for multimodal fusion classification of hyperspectral image and LiDAR data, [[Paper]](https://arxiv.org/pdf/2311.10320.pdf)
 - (arXiv 2023.12) Pixel-to-Abundance Translation: Conditional Generative Adversarial Networks Based on Patch Transformer for Hyperspectral Unmixing, [[Paper]](https://arxiv.org/pdf/2401.15275.pdf)
 - (arXiv 2024.04) 3D-Convolution Guided Spectral-Spatial Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.13252v1.pdf), [[Code]](https://github.com/ShyamVarahagiri/3D-ConvSST)
+- (arXiv 2024.04) Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.14944.pdf), [[Code]](https://github.com/mahmad00/Disjoint-Sampling-for-Hyperspectral-Image-Classification)
