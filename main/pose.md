@@ -108,3 +108,4 @@
 - (arXiv 2024.03) EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2403.18080.pdf)
 - (arXiv 2024.04) KTPFormer: Kinematics and Trajectory Prior Knowledge-Enhanced Transformer for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2404.00658.pdf), [[Code]](https://github.com/JihuaPeng/KTPFormer)
 - (arXiv 2024.04) SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers, [[Paper]](https://arxiv.org/pdf/2404.12625.pdf)
+- (arXiv 2024.04) SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation, [[Paper]](https://arxiv.org/pdf/2404.15276.pdf), [[Code]](https://github.com/xuxy09/SMPLer)
