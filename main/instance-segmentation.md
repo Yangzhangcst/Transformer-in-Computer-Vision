@@ -37,3 +37,4 @@
 - (arXiv 2023.12) PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation, [[Paper]](https://arxiv.org/pdf/2312.03015.pdf),[[Code]](https://github.com/zyc00/PartSLIP2)
 - (arXiv 2023.12) EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2312.05602.pdf)
 - (arXiv 2024.03) ShapeFormer: Shape Prior Visible-to-Amodal Transformer-based Amodal Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2403.11376.pdf),[[Code]](https://github.com/UARK-AICV/ShapeFormer)
+- (arXiv 2024.04) Efficient Transformer Encoders for Mask2Former-style models, [[Paper]](https://arxiv.org/pdf/2404.15244.pdf)
