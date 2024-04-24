@@ -23,3 +23,4 @@
 - (arXiv 2024.04) 3D-Convolution Guided Spectral-Spatial Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.13252v1.pdf), [[Code]](https://github.com/ShyamVarahagiri/3D-ConvSST)
 - (arXiv 2024.04) Importance of Disjoint Sampling in Conventional and Transformer Models for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.14944.pdf), [[Code]](https://github.com/mahmad00/Disjoint-Sampling-for-Hyperspectral-Image-Classification)
 - (arXiv 2024.04) Pyramid Hierarchical Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.14945.pdf), [[Code]](https://github.com/mahmad00/PyFormer)
+- (arXiv 2024.04) Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.14955.pdf)
