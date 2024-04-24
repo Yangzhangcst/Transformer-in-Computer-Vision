@@ -97,3 +97,4 @@
 - (arXiv 2024.04) MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition, [[Paper]](https://arxiv.org/pdf/2404.08433.pdf)
 - (arXiv 2024.04) FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features, [[Paper]](https://arxiv.org/pdf/2404.09736.pdf),[[Code]](https://andrerochow.github.io/fsrt)
 - (arXiv 2024.04) Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer, [[Paper]](https://arxiv.org/pdf/2404.13640.pdf),[[Code]](https://github.com/kepengxu/PGTFormer)
+- (arXiv 2024.04) Cross-Task Multi-Branch Vision Transformer for Facial Expression and Mask Wearing Classification, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2404/2404.14606.pdf)
