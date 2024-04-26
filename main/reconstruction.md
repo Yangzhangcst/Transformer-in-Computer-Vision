@@ -28,3 +28,4 @@
 - (arXiv 2023.12) Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2312.09147.pdf),[[Project]](https://zouzx.github.io/TriplaneGaussian/)
 - (arXiv 2024.01) GridFormer: Point-Grid Transformer for Surface Reconstruction, [[Paper]](https://arxiv.org/pdf/2401.02292.pdf),[[Code]](https://github.com/list17/GridFormer)
 - (arXiv 2024.04) Joint Reconstruction of 3D Human and Object via Contact-Based Refinement Transformer, [[Paper]](https://arxiv.org/pdf/2404.04819.pdf),[[Code]](https://github.com/dqj5182/CONTHO_RELEASE)
+- (arXiv 2024.04) DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2404.16323.pdf)
