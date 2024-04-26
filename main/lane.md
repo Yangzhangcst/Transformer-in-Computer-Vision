@@ -7,3 +7,4 @@
 - (arXiv 2024.02) CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention, [[Paper]](https://arxiv.org/pdf/2402.06423.pdf), [[Code]](https://github.com/JMoonr/LATR)
 - (arXiv 2024.03) LDTR: Transformer-based Lane Detection with Anchor-chain Representation, [[Paper]](https://arxiv.org/pdf/2403.14354.pdf)
 - (arXiv 2024.04) Sparse Laneformer, [[Paper]](https://arxiv.org/pdf/2404.07821.pdf)
+- (arXiv 2024.04) BezierFormer: A Unified Architecture for 2D and 3D Lane Detection, [[Paper]](https://arxiv.org/pdf/2404.16304.pdf)
