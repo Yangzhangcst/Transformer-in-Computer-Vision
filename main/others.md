@@ -224,3 +224,4 @@
 - (arXiv 2024.04) HEAT: Head-level Parameter Efficient Adaptation of Vision Transformers with Taylor-expansion Importance Scores,[[Paper]](https://arxiv.org/pdf/2404.08894.pdf)
 - (arXiv 2024.04) Gasformer: A Transformer-based Architecture for Segmenting Methane Emissions from Livestock in Optical Gas Imaging,[[Paper]](https://arxiv.org/pdf/2404.10841.pdf)
 - (arXiv 2024.04) StrideNET: Swin Transformer for Terrain Recognition with Dynamic Roughness Extraction,[[Paper]](https://arxiv.org/pdf/2404.13270.pdf)
+- (arXiv 2024.04) SFMViT: SlowFast Meet ViT in Chaotic World,[[Paper]](https://arxiv.org/pdf/2404.16609.pdf), [[Code]](https://github.com/jfightyr/SlowFast-Meet-ViT)
