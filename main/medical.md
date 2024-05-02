@@ -535,4 +535,5 @@
 - (arXiv 2024.04) Masked Latent Transformer with the Random Masking Ratio to Advance the Diagnosis of Dental Fluorosis, [[Paper]](https://arxiv.org/pdf/2404.13564.pdf), [[Code]](https://github.com/uxhao-o/MLTrMR)
 - (arXiv 2024.04) SSVT: Self-Supervised Vision Transformer For Eye Disease Diagnosis Based On Fundus Images, [[Paper]](https://arxiv.org/pdf/2404.13386.pdf)
 - (arXiv 2024.04) CFPFormer: Feature-pyramid like Transformer Decoder for Segmentation and Detection, [[Paper]](https://arxiv.org/pdf/2404.15451.pdf)
-- (arXiv 2024.04) Rethinking Attention Gated with Hybrid Dual Pyramid Transformer-CNN for Generalized Segmentation in Medical Imaging, [[Paper]](https://arxiv.org/pdf/2404.18199.pdf)
+- (arXiv 2024.05) Rethinking Attention Gated with Hybrid Dual Pyramid Transformer-CNN for Generalized Segmentation in Medical Imaging, [[Paper]](https://arxiv.org/pdf/2404.18199.pdf)
+- (arXiv 2024.05) Masked Attention as a Mechanism for Improving Interpretability of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.18152.pdf)
