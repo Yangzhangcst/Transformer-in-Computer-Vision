@@ -31,3 +31,4 @@
 - (arXiv 2024.03) Homogeneous Tokenizer Matters: Homogeneous Visual Tokenizer for Remote Sensing Image Understanding, [[Paper]](https://arxiv.org/pdf/2403.18593.pdf), [[Code]](https://github.com/GeoX-Lab/Hook)
 - (arXiv 2024.04) CMT: Cross Modulation Transformer with Hybrid Loss for Pansharpening, [[Paper]](https://arxiv.org/pdf/2404.01121.pdf)
 - (arXiv 2024.04) Linearly-evolved Transformer for Pan-sharpening, [[Paper]](https://arxiv.org/pdf/2404.12804.pdf)
+- (arXiv 2024.04) Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing, [[Paper]](https://arxiv.org/pdf/2404.18924.pdf), [[Code]](https://github.com/IMPLabUniPr/swin2-mose/tree/official_code)
