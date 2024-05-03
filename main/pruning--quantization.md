@@ -38,3 +38,4 @@
 - (arXiv 2024.03) Accelerating ViT Inference on FPGA through Static and Dynamic Pruning, [[Paper]](https://arxiv.org/pdf/2403.14047.pdf)
 - (arXiv 2024.04) Instance-Aware Group Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.00928.pdf), [[Code]](https://cvlab.yonsei.ac.kr/projects/IGQ-ViT/)
 - (arXiv 2024.04) Data-independent Module-aware Pruning for Hierarchical Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.13648.pdf), [[Code]](https://github.com/he-y/Data-independent-Module-Aware-Pruning)
+- (arXiv 2024.05) Model Quantization and Hardware Acceleration for Vision Transformers: A Comprehensive Survey, [[Paper]](https://arxiv.org/pdf/2405.00314.pdf), [[Code]](https://github.com/DD-DuDa/awesome-vit- quantization-acceleration)
