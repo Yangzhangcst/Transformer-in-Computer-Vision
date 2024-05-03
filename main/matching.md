@@ -17,3 +17,4 @@
 - (arXiv 2023.12) Latent Space Editing in Transformer-Based Flow Matching, [[Paper]](https://arxiv.org/pdf/2312.10825.pdf), [[Code]](https://taohu.me/lfm/)
 - (arXiv 2024.04) IFViT: Interpretable Fixed-Length Representation for Fingerprint Matching via Vision Transformer, [[Paper]](https://arxiv.org/pdf/2404.08237.pdf)
 - (arXiv 2024.04) XoFTR: Cross-modal Feature Matching Transformer, [[Paper]](https://arxiv.org/pdf/2404.09692.pdf), [[Code]](https://github.com/OnderT/XoFTR)
+- (arXiv 2024.05) A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images, [[Paper]](https://arxiv.org/pdf/2404.19311.pdf),[[Code]](https://github.com/NUST-Machine- Intelligence-Laboratory/LTFormer)
