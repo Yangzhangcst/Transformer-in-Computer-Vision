@@ -226,3 +226,4 @@
 - (arXiv 2024.04) StrideNET: Swin Transformer for Terrain Recognition with Dynamic Roughness Extraction,[[Paper]](https://arxiv.org/pdf/2404.13270.pdf)
 - (arXiv 2024.04) SFMViT: SlowFast Meet ViT in Chaotic World,[[Paper]](https://arxiv.org/pdf/2404.16609.pdf), [[Code]](https://github.com/jfightyr/SlowFast-Meet-ViT)
 - (arXiv 2024.05) ShadowMaskFormer: Mask Augmented Patch Embedding for Shadow Removal,[[Paper]](https://arxiv.org/pdf/2404.18433.pdf)
+- (arXiv 2024.05) Brighteye: Glaucoma Screening with Color Fundus Photographs based on Vision Transformer,[[Paper]](https://arxiv.org/pdf/2405.00857.pdf), [[Code]](https://github.com/HuiLin0220/brighteye)
