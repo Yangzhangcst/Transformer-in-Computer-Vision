@@ -93,3 +93,4 @@
 - (arXiv 2024.03) ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer, [[Paper]](https://arxiv.org/pdf/2403.14626.pdf)
 - (arXiv 2024.03) Exploring Dynamic Transformer for Efficient Object Tracking, [[Paper]](https://arxiv.org/pdf/2403.17651.pdf)
 - (arXiv 2024.04) PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds, [[Paper]](https://arxiv.org/pdf/2404.07495.pdf), [[Code]](https://github.com/StiphyJay/PillarTrack)
+- (arXiv 2024.04) STT: Stateful Tracking with Transformers for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2405.00236.pdf)
