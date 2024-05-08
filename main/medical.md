@@ -538,3 +538,6 @@
 - (arXiv 2024.05) Rethinking Attention Gated with Hybrid Dual Pyramid Transformer-CNN for Generalized Segmentation in Medical Imaging, [[Paper]](https://arxiv.org/pdf/2404.18199.pdf)
 - (arXiv 2024.05) Masked Attention as a Mechanism for Improving Interpretability of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.18152.pdf)
 - (arXiv 2024.05) Transformer-Based Self-Supervised Learning for Histopathological Classification of Ischemic Stroke Clot Origin, [[Paper]](https://arxiv.org/pdf/2405.00908.pdf)
+ViTALS: Vision Transformer for Action Localization in Surgical Nephrectomy, [[Paper]](https://arxiv.org/pdf/2405.02571.pdf)
+Diffeomorphic Transformer-based Abdomen MRI-CT Deformable Image Registration, [[Paper]](https://arxiv.org/pdf/2405.02692.pdf)
+MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using Magnetic Resonance Imaging, [[Paper]](https://arxiv.org/pdf/2405.02784.pdf)
