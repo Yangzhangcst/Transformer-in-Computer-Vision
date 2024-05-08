@@ -10,3 +10,4 @@
 - (arXiv 2024.01) ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention, [[Paper]](https://arxiv.org/pdf/2401.00912.pdf), [[Code]](https://github.com/skyhehe123/ScatterFormer)
 - (arXiv 2024.01) MsSVT++: Mixed-scale Sparse Voxel Transformer with Center Voting for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2401.11718.pdf)
 - (arXiv 2024.03) CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs, [[Paper]](https://arxiv.org/pdf/2403.16885.pdf), [[Code]](https://zhongyingji.github.io/CVT-xRF/)
+- (arXiv 2024.05) PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2405.02811.pdf)
