@@ -94,3 +94,4 @@
 - (arXiv 2024.03) Exploring Dynamic Transformer for Efficient Object Tracking, [[Paper]](https://arxiv.org/pdf/2403.17651.pdf)
 - (arXiv 2024.04) PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds, [[Paper]](https://arxiv.org/pdf/2404.07495.pdf), [[Code]](https://github.com/StiphyJay/PillarTrack)
 - (arXiv 2024.04) STT: Stateful Tracking with Transformers for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2405.00236.pdf)
+- (arXiv 2024.05) Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion, [[Paper]](https://arxiv.org/abs/2405.03177.pdf), [[Code]](https://github.com/LiYunfengLYF/CSTNet)
