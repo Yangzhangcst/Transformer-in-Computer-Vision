@@ -19,3 +19,4 @@
 - (arXiv 2024.04) Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2404.09976.pdf)
 - (arXiv 2024.04) Lazy Diffusion Transformer for Interactive Image Editing, [[Paper]](https://arxiv.org/pdf/2404.12382.pdf), [[Project]](https://lazydiffusion.github.io/)
 - (arXiv 2024.05) U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2405.02730.pdf), [[Code]](https://github.com/YuchuanTian/U-DiT)
+- (arXiv 2024.05) Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2405.04312.pdf), [[Code]](https://github.com/THUDM/Inf-DiT)
