@@ -10,3 +10,4 @@
 - (arXiv 2023.10) GTA: A Geometry-Aware Attention Mechanism for Multi-View Transformers, [[Paper]](https://arxiv.org/pdf/2310.10375.pdf)
 - (arXiv 2023.12) CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer, [[Paper]](https://arxiv.org/pdf/2312.08594.pdf), [[Code]](https://github.com/wscstrive/CT-MVSNet)
 - (arXiv 2023.12) Global Occlusion-Aware Transformer for Robust Stereo Matching, [[Paper]](https://arxiv.org/pdf/2312.14650.pdf), [[Code]](https://github.com/Magicboomliu/GOAT)
+- (arXiv 2024.05) ViewFormer: Exploring Spatiotemporal Modeling for Multi-View 3D Occupancy Perception via View-Guided Transformers, [[Paper]](https://arxiv.org/pdf/2405.04299.pdf)
