@@ -542,3 +542,4 @@
 - (arXiv 2024.05) Diffeomorphic Transformer-based Abdomen MRI-CT Deformable Image Registration, [[Paper]](https://arxiv.org/pdf/2405.02692.pdf)
 - (arXiv 2024.05) MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using Magnetic Resonance Imaging, [[Paper]](https://arxiv.org/pdf/2405.02784.pdf)
 - (arXiv 2024.05) Boosting 3D Neuron Segmentation with 2D Vision Transformer Pre-trained on Natural Images, [[Paper]](https://arxiv.org/pdf/2405.02686.pdf)
+- (arXiv 2024.05) D-TrAttUnet: Toward Hybrid CNN-Transformer Architecture for Generic and Subtle Segmentation in Medical Images, [[Paper]](https://arxiv.org/pdf/2405.04169.pdf)
