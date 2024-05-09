@@ -10,3 +10,4 @@
 - (arXiv 2023.09) Semantic-Constraint Matching Transformer for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2309.01331)
 - (arXiv 2023.10) DiPS: Discriminative Pseudo-Label Sampling with Self-Supervised Transformers for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2310.06196), [[Code]](https://github.com/shakeebmurtaza/dips)
 - (arXiv 2023.12) Multiscale Vision Transformer With Deep Clustering-Guided Refinement for Weakly Supervised Object Localization, [[Paper]](https://arxiv.org/abs/2312.09584)
+- (arXiv 2024.05) Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection, [[Paper]](https://arxiv.org/abs/2405.05130), [[Code]](https://github.com/shengyangsun/MSBT)
