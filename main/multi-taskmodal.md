@@ -210,3 +210,4 @@
 - (arXiv 2024.04) The revenge of BiSeNet: Efficient Multi-Task Image Segmentation, [[Paper]](https://arxiv.org/pdf/2404.09570.pdf)
 - (arXiv 2024.04) HOIST-Former: Hand-held Objects Identification, Segmentation, and Tracking in the Wild, [[Paper]](https://arxiv.org/pdf/2404.13819.pdf), [[Code]](https://supreethn.github.io/research/hoistformer/index.html)
 - (arXiv 2024.04) UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning, [[Paper]](https://arxiv.org/pdf/2404.17360.pdf), [[Code]](https://github.com/PoTsui99/UniRGB-IR.git)
+- (arXiv 2024.05) Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media, [[Paper]](https://arxiv.org/pdf/2405.05760.pdf)
