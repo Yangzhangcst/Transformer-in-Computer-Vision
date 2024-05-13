@@ -33,3 +33,4 @@
 - (arXiv 2024.04) Linearly-evolved Transformer for Pan-sharpening, [[Paper]](https://arxiv.org/pdf/2404.12804.pdf)
 - (arXiv 2024.04) Swin2-MoSE: A New Single Image Super-Resolution Model for Remote Sensing, [[Paper]](https://arxiv.org/pdf/2404.18924.pdf), [[Code]](https://github.com/IMPLabUniPr/swin2-mose/tree/official_code)
 - (arXiv 2024.05) Spatio-Temporal SwinMAE: A Swin Transformer based Multiscale Representation Learner for Temporal Satellite Imagery, [[Paper]](https://arxiv.org/pdf/2405.02512.pdf)
+- (arXiv 2024.05) A Lightweight Transformer for Remote Sensing Image Change Captioning, [[Paper]](https://arxiv.org/pdf/2405.06598.pdf), [[Code]](https://github.com/sundongwei/Lite_Chag2cap)
