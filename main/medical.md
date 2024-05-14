@@ -543,3 +543,5 @@
 - (arXiv 2024.05) MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using Magnetic Resonance Imaging, [[Paper]](https://arxiv.org/pdf/2405.02784.pdf)
 - (arXiv 2024.05) Boosting 3D Neuron Segmentation with 2D Vision Transformer Pre-trained on Natural Images, [[Paper]](https://arxiv.org/pdf/2405.02686.pdf)
 - (arXiv 2024.05) D-TrAttUnet: Toward Hybrid CNN-Transformer Architecture for Generic and Subtle Segmentation in Medical Images, [[Paper]](https://arxiv.org/pdf/2405.04169.pdf)
+- (arXiv 2024.05) PLUTO: Pathology-Universal Transformer, [[Paper]](https://arxiv.org/pdf/2405.07905.pdf)
+- (arXiv 2024.05) Dual-Task Vision Transformer for Rapid and Accurate Intracerebral Hemorrhage Classification on CT Images, [[Paper]](https://arxiv.org/pdf/2405.06814.pdf), [[Code]](https://github.com/Jialiangfan/ICH-classification)
