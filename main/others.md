@@ -229,3 +229,4 @@
 - (arXiv 2024.05) Brighteye: Glaucoma Screening with Color Fundus Photographs based on Vision Transformer,[[Paper]](https://arxiv.org/pdf/2405.00857.pdf), [[Code]](https://github.com/HuiLin0220/brighteye)
 - (arXiv 2024.05) CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer,[[Paper]](https://arxiv.org/pdf/2405.03376.pdf), [[Code]](https://github.com/taohan10200/CRA5)
 - (arXiv 2024.05) Transformer Architecture for NetsDB,[[Paper]](https://arxiv.org/pdf/2405.04807.pdf)
+- (arXiv 2024.05) Ground-based Image Deconvolution with Swin Transformer UNet,[[Paper]](https://arxiv.org/pdf/2405.07842.pdf)
