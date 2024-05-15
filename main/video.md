@@ -175,3 +175,4 @@
 - (arXiv 2024.04) Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics, [[Paper]](https://arxiv.org/pdf/2404.09245.pdf)
 - (arXiv 2024.04) Multilateral Temporal-view Pyramid Transformer for Video Inpainting Detection, [[Paper]](https://arxiv.org/pdf/2404.11054.pdf)
 - (arXiv 2024.04) Sentiment-oriented Transformer-based Variational Autoencoder Network for Live Video Commenting, [[Paper]](https://arxiv.org/pdf/2404.12782.pdf), [[Code]](https://github.com/fufy1024/So-TVAE)
+- (arXiv 2024.05) DeVOS: Flow-Guided Deformable Transformer for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2405.08715.pdf)
