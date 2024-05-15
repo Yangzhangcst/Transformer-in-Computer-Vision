@@ -17,3 +17,4 @@
 - (arXiv 2024.03) AVT2-DWF: Improving Deepfake Detection with Audio-Visual Fusion and Dynamic Weighting Strategies, [[Paper]](https://arxiv.org/pdf/2403.14974.pdf), [[Code]](https://github.com/raining-dev/AVT2-DWF)
 - (arXiv 2024.04) Texture-aware and Shape-guided Transformer for Sequential DeepFake Detection, [[Paper]](https://arxiv.org/pdf/2404.13873.pdf)
 - (arXiv 2024.05) Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis, [[Paper]](https://arxiv.org/pdf/2405.00355.pdf)
+- (arXiv 2024.05) A Timely Survey on Vision Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2405.08463.pdf)
