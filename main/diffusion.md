@@ -21,3 +21,4 @@
 - (arXiv 2024.05) U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2405.02730.pdf), [[Code]](https://github.com/YuchuanTian/U-DiT)
 - (arXiv 2024.05) Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2405.04312.pdf), [[Code]](https://github.com/THUDM/Inf-DiT)
 - (arXiv 2024.05) Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2405.05945.pdf), [[Code]](https://github.com/THUDM/Inf-DiT)
+- (arXiv 2024.05) DiffTF++: 3D-aware Diffusion Transformer for Large-Vocabulary 3D Generation, [[Paper]](https://arxiv.org/pdf/2405.08055.pdf)
