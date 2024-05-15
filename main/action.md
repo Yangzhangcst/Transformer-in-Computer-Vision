@@ -119,3 +119,4 @@
 - (arXiv 2024.04) Dual DETRs for Multi-Label Temporal Action Detection, [[Paper]](https://arxiv.org/pdf/2404.00653.pdf),[[Code]](https://github.com/MCG-NJU/DualDETR)
 - (arXiv 2024.04) ASTRA: An Action Spotting TRAnsformer for Soccer Videos, [[Paper]](https://arxiv.org/pdf/2404.01891.pdf)
 - (arXiv 2024.04) Design and Analysis of Efficient Attention in Transformers for Social Group Activity Recognition, [[Paper]](https://arxiv.org/pdf/2404.09964.pdf)
+- (arXiv 2024.05) A Semantic and Motion-Aware Spatiotemporal Transformer Network for Action Detection,  [[Paper]](https://arxiv.org/pdf/2405.08204.pdf)
