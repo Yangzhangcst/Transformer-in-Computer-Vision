@@ -17,3 +17,4 @@
 - (arXiv 2023.08) Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2308.12001.pdf)
 - (arXiv 2023.12) Activating Frequency and ViT for 3D Point Cloud Quality Assessment without Reference, [[Paper]](https://arxiv.org/pdf/2312.05972.pdf), [[Code]](https://github.com/o-messai/3D-PCQA)
 - (arXiv 2024.01) Video Quality Assessment Based on Swin TransformerV2 and Coarse to Fine Strategy, [[Paper]](https://arxiv.org/pdf/2401.08522.pdf), [[Code]](https://github.com/o-messai/3D-PCQA)
+- (arXiv 2024.05) RMT-BVQA: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content, [[Paper]](https://arxiv.org/pdf/2405.08621.pdf)
