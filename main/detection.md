@@ -210,4 +210,5 @@
 - (arXiv 2024.05) Towards End-to-End Semi-Supervised Table Detection with Semantic Aligned Matching Transformer, [[Paper]](https://arxiv.org/pdf/2405.00187.pdf)
 - (arXiv 2024.05) C2FDrone: Coarse-to-Fine Drone-to-Drone Detection using Vision Transformer Networks, [[Paper]](https://arxiv.org/pdf/2404.19276.pdf)
 - (arXiv 2024.05) Low-light Object Detection, [[Paper]](https://arxiv.org/pdf/2405.03519.pdf)
-- (arXiv 2024.05) Enhancing DETRs Variants through Improved Content Query and Similar Query Aggregation, [[Paper]](https://arxiv.org/abs/2405.03318.pdf)
+- (arXiv 2024.05) Enhancing DETRs Variants through Improved Content Query and Similar Query Aggregation, [[Paper]](https://arxiv.org/pdf/2405.03318.pdf)
+- (arXiv 2024.05) SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network, [[Paper]](https://arxiv.org/pdf/2405.10148.pdf), [[Code]](https://github.com/ZhaoxuLi123/SpecDETR)
