@@ -546,3 +546,4 @@
 - (arXiv 2024.05) PLUTO: Pathology-Universal Transformer, [[Paper]](https://arxiv.org/pdf/2405.07905.pdf)
 - (arXiv 2024.05) Dual-Task Vision Transformer for Rapid and Accurate Intracerebral Hemorrhage Classification on CT Images, [[Paper]](https://arxiv.org/pdf/2405.06814.pdf), [[Code]](https://github.com/Jialiangfan/ICH-classification)
 - (arXiv 2024.05) Harnessing the power of longitudinal medical imaging for eye disease prognosis using Transformer-based sequence modeling, [[Paper]](https://arxiv.org/pdf/2405.08780.pdf)
+- (arXiv 2024.05) ODFormer: Semantic Fundus Image Segmentation Using Transformer for Optic Nerve Head Detection, [[Paper]](https://arxiv.org/pdf/2405.09552.pdf)
