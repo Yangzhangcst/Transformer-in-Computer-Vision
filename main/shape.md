@@ -5,3 +5,4 @@
 - (arXiv 2022.10) mm-Wave Radar Hand Shape Classification Using Deformable Transformers, [[Paper]](https://arxiv.org/pdf/2210.13079.pdf)
 - (arxiv 2023.07) DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation, [[Paper]](https://arxiv.org/pdf/2307.01831.pdf)
 - (arxiv 2023.09) DeFormer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from a Single Image, [[Paper]](https://arxiv.org/pdf/2309.12594.pdf)
+- (arxiv 2024.05) PT43D: A Probabilistic Transformer for Generating 3D Shapes from Single Highly-Ambiguous RGB Images, [[Paper]](https://arxiv.org/pdf/2405.11914.pdf)
