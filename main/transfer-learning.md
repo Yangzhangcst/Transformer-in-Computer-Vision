@@ -34,3 +34,4 @@
 - (arXiv 2024.03) Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2403.18360.pdf), [[Code]](https://dotrannhattuong.github.io/ECB/website/)
 - (arXiv 2024.04) Vision Transformers in Domain Adaptation and Generalization: A Study of Robustness, [[Paper]](https://arxiv.org/pdf/2404.04452.pdf)
 - (arXiv 2024.04) Vision Transformer-based Adversarial Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2404.15817.pdf), [[Code]](https://github.com/LluckyYH/VT-ADA)
+- (arXiv 2024.05) DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment, [[Paper]](https://arxiv.org/pdf/2405.11765.pdf), [[Code]](https://github.com/h751410234/DATR)
