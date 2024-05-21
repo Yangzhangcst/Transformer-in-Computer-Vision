@@ -64,3 +64,4 @@
 - (arXiv 2024.01) LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2401.11589.pdf),[[Code]](https://github.com/sad192/large-kernel-Transformer)
 - (arXiv 2024.04) Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2404.11273.pdf)
 - (arXiv 2024.05) CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2405.07648.pdf),[[Code]](https://github.com/I2-Multimedia-Lab/CDFormer)
+- (arXiv 2024.05) Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution, [[Paper]](https://arxiv.org/pdf/2405.12202.pdf)
