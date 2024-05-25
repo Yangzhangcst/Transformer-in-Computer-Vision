@@ -23,3 +23,4 @@
 - (arXiv 2024.05) Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2405.05945.pdf), [[Code]](https://github.com/THUDM/Inf-DiT)
 - (arXiv 2024.05) DiffTF++: 3D-aware Diffusion Transformer for Large-Vocabulary 3D Generation, [[Paper]](https://arxiv.org/pdf/2405.08055.pdf)
 - (arXiv 2024.05) Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding, [[Paper]](https://arxiv.org/pdf/2405.08748.pdf),[[Code]](http://github.com/Tencent/HunyuanDiT)
+- (arXiv 2024.05) Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2405.14832.pdf),[[Project]](https://nju-3dv.github.io/projects/Direct3D/)
