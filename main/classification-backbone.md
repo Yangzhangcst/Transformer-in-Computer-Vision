@@ -549,3 +549,4 @@
 - (arXiv 2024.04) SPARO: Selective Attention for Robust and Compositional Transformer Encodings for Vision, [[Paper]](https://arxiv.org/pdf/2404.15721.pdf), [[Code]](https://github.com/ankitkv/sparo-clip)
 - (arXiv 2024.05) SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization, [[Paper]](https://arxiv.org/pdf/2405.11582.pdf), [[Code]](https://github.com/xinghaochen/SLAB), [[Code]](https://github.com/mindspore-lab/models/tree/master/research/huawei-noah/SLAB)
 - (arXiv 2024.05) Block Selective Reprogramming for On-device Training of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2405.10951.pdf)
+- (arXiv 2024.05) Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference, [[Paper]](https://arxiv.org/pdf/2405.14700.pdf), [[Code]](https://github.com/liuting20/Sparse-Tuning)
