@@ -8,3 +8,4 @@
 - (arXiv 2023.10) Distance-based Weighted Transformer Network for Image Completion, [[Paper]](https://arxiv.org/pdf/2310.07440.pdf)
 - (arXiv 2024.01) CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers, [[Paper]](https://arxiv.org/pdf/2401.01552.pdf),[[Code]](https://github.com/EasyRy/CRA-PCN)
 - (arXiv 2024.04) Transformer based Pluralistic Image Completion with Reduced Information Loss, [[Paper]](https://arxiv.org/pdf/2404.00513.pdf),[[Code]](https://github.com/liuqk3/PUT)
+- (arXiv 2024.05) Context and Geometry Aware Voxel Transformer for Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2405.13675.pdf),[[Code]](https://github.com/pkqbajng/CGFormer)
