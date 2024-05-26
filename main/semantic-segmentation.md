@@ -148,3 +148,4 @@
 - (arXiv 2024.04) Progressive Token Length Scaling in Transformer Encoders for Efficient Universal Segmentation, [[Paper]](https://arxiv.org/pdf/2404.14657.pdf)
 - (arXiv 2024.04) Multi-Scale Representations by Varying Window Attention for Semantic Segmentationn, [[Paper]](https://arxiv.org/pdf/2404.16573.pdf)
 - (arXiv 2024.05) CLFT: Camera-LiDAR Fusion Transformer for Semantic Segmentation in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2404.17793.pdf),[[Code]](https://github.com/Claud1234/fcn_transformer_object_segmentation)
+- (arXiv 2024.05) Segformer++: Efficient Token-Merging Strategies for High-Resolution Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2405.14467.pdf)
