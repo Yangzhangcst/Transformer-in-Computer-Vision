@@ -19,3 +19,4 @@
 - (arXiv 2023.08) Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval, [[Paper]](https://arxiv.org/pdf/2308.04343.pdf), [[Code]](https://github.com/LuminosityX/HAT)
 - (arXiv 2023.10) GMMFormer: Gaussian-Mixture-Model based Transformer for Efficient Partially Relevant Video Retrieval, [[Paper]](https://arxiv.org/pdf/2310.05195.pdf)
 - (arXiv 2024.01) Transformer-based Clipped Contrastive Quantization Learning for Unsupervised Image Retrieval, [[Paper]](https://arxiv.org/pdf/2401.15362.pdf)
+- (arXiv 2024.05) GMMFormer v2: An Uncertainty-aware Framework for Partially Relevant Video Retrieval, [[Paper]](https://arxiv.org/pdf/2405.13824.pdf), [[Code]](https://github.com/huangmozhi9527/GMMFormer_v2)
