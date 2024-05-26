@@ -9,3 +9,4 @@
 - (arXiv 2023.12) Unveiling the Power of Audio-Visual Early Fusion Transformers with Dense Interactions through Masked Modeling, [[Paper]](https://arxiv.org/pdf/2312.01017.pdf)
 - (arXiv 2024.01) Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classificationg, [[Paper]](https://arxiv.org/pdf/2312.01017.pdf)
 - (arXiv 2024.01) Siamese Vision Transformers are Scalable Audio-visual Learners, [[Paper]](https://arxiv.org/pdf/2403.19638.pdf), [[Code]](https://github.com/GenjiB/AVSiam）
+- (arXiv 2024.05) A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation, [[Paper]](https://arxiv.org/pdf/2405.13762.pdf), [[Code]](http://avdit2024.github.io/）
