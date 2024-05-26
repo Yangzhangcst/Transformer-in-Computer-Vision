@@ -552,3 +552,5 @@
 - (arXiv 2024.05) Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference, [[Paper]](https://arxiv.org/pdf/2405.14700.pdf), [[Code]](https://github.com/liuting20/Sparse-Tuning)
 - (arXiv 2024.05) TerDiT: Ternary Diffusion Models with Transformers, [[Paper]](https://arxiv.org/pdf/2405.14854.pdf), [[Code]](https://github.com/Lucky-Lance/TerDiT)
 - (arXiv 2024.05) LookHere: Vision Transformers with Directed Attention Generalize and Extrapolate, [[Paper]](https://arxiv.org/pdf/2405.13985.pdf), [[Code]](https://github.com/GreenCUBIC/lookhere)
+- (arXiv 2024.05) DCT-Based Decorrelated Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2405.13901.pdf)
+- (arXiv 2024.05) Configuring Data Augmentations to Reduce Variance Shift in Positional Embedding of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2405.14115.pdf)
