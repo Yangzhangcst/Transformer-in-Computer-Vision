@@ -24,3 +24,4 @@
 - (arXiv 2024.04) Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners, [[Paper]](https://arxiv.org/pdf/2404.02117.pdf), [[Code]](https://github.com/KHU-AGI/PriViLege)
 - (arXiv 2024.04) Calibrating Higher-Order Statistics for Few-Shot Class-Incremental Learning with Pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.06622.pdf), [[Code]](https://github.com/dipamgoswami/FSCIL-Calibration)
 - (arXiv 2024.04) Remembering Transformer for Continual Learning, [[Paper]](https://arxiv.org/pdf/2404.07518.pdf)
+- (arXiv 2024.05) Less is more: Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning,  [[Paper]](https://arxiv.org/pdf/2405.15633.pdf), [[Code]](https://github.com/tdemin16/multi-lane)
