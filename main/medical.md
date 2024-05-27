@@ -554,4 +554,4 @@
 - (arXiv 2024.05) A Novel Feature Map Enhancement Technique Integrating Residual CNN and Transformer for Alzheimer Diseases Diagnosis, [[Paper]](https://arxiv.org/pdf/2405.12986.pdf)
 - (arXiv 2024.05) Trackastra: Transformer-based cell tracking for live-cell microscopy, [[Paper]](https://arxiv.org/pdf/2405.15700.pdf), [[Code]](https://github.com/weigertlab/trackastra)
 - (arXiv 2024.05) Magnetic Resonance Image Processing Transformer for General Reconstruction, [[Paper]](https://arxiv.org/pdf/2405.15098.pdf)
-
+- (arXiv 2024.05) Benchmarking Hierarchical Image Pyramid Transformer for the classification of colon biopsies and polyps in histopathology images, [[Paper]](https://arxiv.org/pdf/2405.15127.pdf)
