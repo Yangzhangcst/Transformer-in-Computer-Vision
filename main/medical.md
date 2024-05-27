@@ -552,3 +552,6 @@
 - (arXiv 2024.05) Self-Supervised Modality-Agnostic Pre-Training of Swin Transformers, [[Paper]](https://arxiv.org/pdf/2405.12781.pdf), [[Code]](https://github.com/devalab/SwinFUSE)
 - (arXiv 2024.05) Attending to Topological Spaces: The Cellular Transformer, [[Paper]](https://arxiv.org/pdf/2405.14094.pdf)
 - (arXiv 2024.05) A Novel Feature Map Enhancement Technique Integrating Residual CNN and Transformer for Alzheimer Diseases Diagnosis, [[Paper]](https://arxiv.org/pdf/2405.12986.pdf)
+- (arXiv 2024.05) Trackastra: Transformer-based cell tracking for live-cell microscopy, [[Paper]](https://arxiv.org/pdf/2405.15700.pdf), [[Code]](https://github.com/weigertlab/trackastra)
+- (arXiv 2024.05) Magnetic Resonance Image Processing Transformer for General Reconstruction, [[Paper]](https://arxiv.org/pdf/2405.15098.pdf)
+
