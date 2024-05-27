@@ -550,3 +550,4 @@
 - (arXiv 2024.05) Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2405.12328.pdf)
 - (arXiv 2024.05) Comprehensive Multimodal Deep Learning Survival Prediction Enabled by a Transformer Architecture: A Multicenter Study in Glioblastoma, [[Paper]](https://arxiv.org/pdf/2405.12963.pdf)
 - (arXiv 2024.05) Self-Supervised Modality-Agnostic Pre-Training of Swin Transformers, [[Paper]](https://arxiv.org/pdf/2405.12781.pdf), [[Code]](https://github.com/devalab/SwinFUSE)
+- (arXiv 2024.05) Attending to Topological Spaces: The Cellular Transformer, [[Paper]](https://arxiv.org/pdf/2405.14094.pdf)
