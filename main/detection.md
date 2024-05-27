@@ -212,3 +212,4 @@
 - (arXiv 2024.05) Low-light Object Detection, [[Paper]](https://arxiv.org/pdf/2405.03519.pdf)
 - (arXiv 2024.05) Enhancing DETRs Variants through Improved Content Query and Similar Query Aggregation, [[Paper]](https://arxiv.org/pdf/2405.03318.pdf)
 - (arXiv 2024.05) SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network, [[Paper]](https://arxiv.org/pdf/2405.10148.pdf), [[Code]](https://github.com/ZhaoxuLi123/SpecDETR)
+- (arXiv 2024.05) MonoDETRNext: Next-generation Accurate and Efficient Monocular 3D Object Detection Method, [[Paper]](https://arxiv.org/pdf/2405.15176.pdf)
