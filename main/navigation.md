@@ -18,3 +18,4 @@
 - (arXiv 2023.08) Target-Grounded Graph-Aware Transformer for Aerial Vision-and-Dialog Navigation, [[Paper]](https://arxiv.org/pdf/2308.11561.pdf), [[Code]](https://github.com/yifeisu/avdn-challenge)
 - (arXiv 2023.11) Navigating Scaling Laws: Accelerating Vision Transformer's Training via Adaptive Strategies, [[Paper]](https://arxiv.org/pdf/2311.03314.pdf)
 - (arXiv 2024.05) Transformers for Image-Goal Navigation, [[Paper]](https://arxiv.org/pdf/2405.14128.pdf)
+- (arXiv 2024.05) Vision-and-Language Navigation Generative Pretrained Transformer, [[Paper]](https://arxiv.org/pdf/2405.16994.pdf)
