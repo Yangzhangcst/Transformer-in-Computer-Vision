@@ -26,3 +26,4 @@
 - (arXiv 2024.05) Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2405.14832.pdf),[[Project]](https://nju-3dv.github.io/projects/Direct3D/)
 - (arXiv 2024.05) PipeFusion: Displaced Patch Pipeline Parallelism for Inference of Diffusion Transformer Models, [[Paper]](https://arxiv.org/pdf/2405.14430.pdf),[[Code]](https://github.com/PipeFusion/PipeFusion)
 - (arXiv 2024.05) Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2405.17405.pdf),[[Code]](https://human4dit.github.io/)
+- (arXiv 2024.05) PTQ4DiT: Post-training Quantization for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2405.16005.pdf)
