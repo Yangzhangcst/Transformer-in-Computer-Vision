@@ -36,3 +36,4 @@
 - (arXiv 2024.04) Adapting LLaMA Decoder to Vision Transformer, [[Paper]](https://arxiv.org/pdf/2404.06773.pdf), [[Code]](https://github.com/techmonsterwang/iLLaMA)
 - (arXiv 2024.04) Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2404.14040.pdf), [[Code]](https://github.com/YuyangSheng/Surgical-DeSAM)
 - (arXiv 2024.04) Dense Connector for MLLMs, [[Paper]](https://arxiv.org/pdf/2405.13800.pdf), [[Code]](https://github.com/HJYao00/DenseConnector)
+- (arXiv 2024.05) Do Vision-Language Transformers Exhibit Visual Commonsense? An Empirical Study of VCR, [[Paper]](https://arxiv.org/pdf/2405.16934.pdf)
