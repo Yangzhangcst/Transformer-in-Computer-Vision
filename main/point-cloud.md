@@ -134,3 +134,4 @@
 - (arXiv 2024.04) Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data, [[Paper]](https://arxiv.org/pdf/2404.06715.pdf), [[Code]](https://bravocharlie-ai.github.io/Sparce_to_Dense/)
 - (arXiv 2024.04) A Point-Based Approach to Efficient LiDAR Multi-Task Perception, [[Paper]](https://arxiv.org/pdf/2404.12798.pdf)
 - (arXiv 2024.05) 3D Learnable Supertoken Transformer for LiDAR Point Cloud Scene Segmentation, [[Paper]](https://arxiv.org/pdf/2405.15826.pdf)
+- (arXiv 2024.05) Efficient Point Transformer with Dynamic Token Aggregating for Point Cloud Processing, [[Paper]](https://arxiv.org/pdf/2405.15827.pdf)
