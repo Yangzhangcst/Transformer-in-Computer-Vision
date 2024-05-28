@@ -231,3 +231,4 @@
 - (arXiv 2024.05) Transformer Architecture for NetsDB,[[Paper]](https://arxiv.org/pdf/2405.04807.pdf)
 - (arXiv 2024.05) Ground-based Image Deconvolution with Swin Transformer UNet,[[Paper]](https://arxiv.org/pdf/2405.07842.pdf)
 - (arXiv 2024.05) Sheet Music Transformer ++: End-to-End Full-Page Optical Music Recognition for Pianoform Sheet Music,[[Paper]](https://arxiv.org/pdf/2405.12105.pdf)
+- (arXiv 2024.05) Enhancing Feature Diversity Boosts Channel-Adaptive Vision Transformers,[[Paper]](https://arxiv.org/pdf/2405.16419.pdf)
