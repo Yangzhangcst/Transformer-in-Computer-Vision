@@ -54,3 +54,4 @@
 - (arXiv 2024.01) Analyzing Local Representations of Self-supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2401.00463.pdf)
 - (arXiv 2024.04) Parameter Efficient Fine-tuning of Self-supervised ViTs without Catastrophic Forgetting, [[Paper]](https://arxiv.org/pdf/2404.17245.pdf), [[Code]](https://github.com/rezaakb/peft-vit)
 - (arXiv 2024.05) S3Former: Self-supervised High-resolution Transformer for Solar PV Profiling, [[Paper]](https://arxiv.org/pdf/2405.04489.pdf)
+- (arXiv 2024.05) Visualizing the loss landscape of Self-supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2405.18042.pdf)
