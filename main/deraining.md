@@ -7,3 +7,4 @@
 - (arXiv 2024.01) NightRain: Nighttime Video Deraining via Adaptive-Rain-Removal and Adaptive-Correction, [[Paper]](https://arxiv.org/pdf/2401.00729.pdf)
 - (arXiv 2024.02) Diving Deep into Regions: Exploiting Regional Information Transformer for Single Image Deraining, [[Paper]](https://arxiv.org/pdf/2402.16033.pdf), [[Code]](https://github.com/ztMotaLee/Regformer)
 - (arXiv 2024.03) Gabor-guided transformer for single image deraining, [[Paper]](https://arxiv.org/pdf/2403.07380.pdf)
+- (arXiv 2024.05) Dual-Path Multi-Scale Transformer for High-Quality Image Deraining, [[Paper]](https://arxiv.org/pdf/2405.18124.pdf)
