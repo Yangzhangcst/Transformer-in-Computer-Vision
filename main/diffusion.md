@@ -28,3 +28,4 @@
 - (arXiv 2024.05) Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2405.17405.pdf),[[Code]](https://human4dit.github.io/)
 - (arXiv 2024.05) PTQ4DiT: Post-training Quantization for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2405.16005.pdf)
 - (arXiv 2024.05) VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2405.18326.pdf),[[Code]](https://zhengjun-ai.github.io/viton-dit-page/)
+- (arXiv 2024.05) DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention, [[Paper]](https://arxiv.org/pdf/2405.18428.pdf),[[Code]](https://github.com/hustvl/DiG)
