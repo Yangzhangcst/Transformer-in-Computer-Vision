@@ -24,3 +24,4 @@
 - (arXiv 2024.03) OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation, [[Paper]](https://arxiv.org/pdf/2403.19580.pdf)
 - (arXiv 2024.04) DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2404.09216.pdf)
 - (arXiv 2024.04) OSR-ViT: A Simple and Modular Framework for Open-Set Object Detection and Discovery, [[Paper]](https://arxiv.org/pdf/2404.10865.pdf)
+- (arXiv 2024.05) OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision, [[Paper]](https://arxiv.org/pdf/2405.17913.pdf)
