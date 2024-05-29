@@ -233,3 +233,4 @@
 - (arXiv 2024.05) Sheet Music Transformer ++: End-to-End Full-Page Optical Music Recognition for Pianoform Sheet Music,[[Paper]](https://arxiv.org/pdf/2405.12105.pdf)
 - (arXiv 2024.05) Enhancing Feature Diversity Boosts Channel-Adaptive Vision Transformers,[[Paper]](https://arxiv.org/pdf/2405.16419.pdf)
 - (arXiv 2024.05) Sequence Length Scaling in Vision Transformers for Scientific Images on Frontier,[[Paper]](https://arxiv.org/pdf/2405.15780.pdf)
+- (arXiv 2024.05) WeatherFormer: A Pretrained Encoder Model for Learning Robust Weather Representations from Small Datasets,[[Paper]](https://arxiv.org/pdf/2405.17455.pdf)
