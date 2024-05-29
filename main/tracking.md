@@ -97,3 +97,4 @@
 - (arXiv 2024.05) Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion, [[Paper]](https://arxiv.org/abs/2405.03177.pdf), [[Code]](https://github.com/LiYunfengLYF/CSTNet)
 - (arXiv 2024.05) PuTR: A Pure Transformer for Decoupled and Online Multi-Object Tracking, [[Paper]](https://arxiv.org/abs/2405.14119.pdf), [[Code]](https://github.com/chongweiliu/PuTR)
 - (arXiv 2024.05) LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking, [[Paper]](https://arxiv.org/abs/2405.17660.pdf), [[Code]](https://github.com/ShaohuaDong2021/LoReTrack)
+- (arXiv 2024.05) Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion, [[Paper]](https://arxiv.org/abs/2405.17903.pdf)
