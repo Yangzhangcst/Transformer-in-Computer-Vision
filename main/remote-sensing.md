@@ -37,3 +37,4 @@
 - (arXiv 2024.05) LeMeViT: Efficient Vision Transformer with Learnable Meta Tokens for Remote Sensing Image Interpretation, [[Paper]](https://arxiv.org/pdf/2405.09789.pdf), [[Code]](https://github.com/ViTAE-Transformer/LeMeViT)
 - (arXiv 2024.05) Global-Local Detail Guided Transformer for Sea Ice Recognition in Optical Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2405.13197.pdf)
 - (arXiv 2024.05) Transformer-based Federated Learning for Multi-Label Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2405.15405.pdf), [[Code]](https://git.tu-berlin.de/rsim/FL-Transformer)
+- (arXiv 2024.05) Near-Infrared and Low-Rank Adaptation of Vision Transformers in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2405.17901.pdf)
