@@ -558,3 +558,4 @@
 - (arXiv 2024.05) Semantic Equitable Clustering: A Simple, Fast and Effective Strategy for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2405.13337.pdf), [[Code]](https://github.com/qhfan/SecViT)
 - (arXiv 2024.05) Dissecting Query-Key Interaction in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2405.14880.pdf)
 - (arXiv 2024.05) MSPE: Multi-Scale Patch Embedding Prompts Vision Transformers to Any Resolution, [[Paper]](https://arxiv.org/pdf/2405.18240.pdf)
+- (arXiv 2024.05) Wavelet-Based Image Tokenizer for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2405.18616v1.pdf)
