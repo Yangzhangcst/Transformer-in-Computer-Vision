@@ -32,3 +32,4 @@
 - (arXiv 2023.12) GIVT: Generative Infinite-Vocabulary Transformers, [[Paper]](https://arxiv.org/pdf/2312.02116.pdf)
 - (arXiv 2024.01) Efficient generative adversarial networks using linear additive-attention Transformers, [[Paper]](https://arxiv.org/pdf/2401.09596.pdf)
 - (arXiv 2024.03) AAPMT: AGI Assessment Through Prompt and Metric Transformer, [[Paper]](https://arxiv.org/pdf/2403.19101.pdf), [[Code]](https://github.com/huskydoge/CS3324-Digital-Image-Processing/tree/main/Assignment1)
+- (arXiv 2024.05) EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture, [[Paper]](https://arxiv.org/pdf/2405.18991.pdf), [[Code]](https://github.com/aigc-apps/EasyAnimate)
