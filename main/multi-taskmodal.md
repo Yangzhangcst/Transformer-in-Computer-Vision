@@ -212,4 +212,4 @@
 - (arXiv 2024.04) UniRGB-IR: A Unified Framework for Visible-Infrared Downstream Tasks via Adapter Tuning, [[Paper]](https://arxiv.org/pdf/2404.17360.pdf), [[Code]](https://github.com/PoTsui99/UniRGB-IR.git)
 - (arXiv 2024.05) Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media, [[Paper]](https://arxiv.org/pdf/2405.05760.pdf)
 - (arXiv 2024.05) CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2405.13195.pdf)
-- (arXiv 2024.06) GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2406.01210.pdf)
+- (arXiv 2024.06) GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2406.01210.pdf), [[Code]](https://github.com/JiaDingCN/GeminiFusion)
