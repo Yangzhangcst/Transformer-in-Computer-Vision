@@ -30,3 +30,4 @@
 - (arXiv 2024.05) VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2405.18326.pdf),[[Code]](https://zhengjun-ai.github.io/viton-dit-page/)
 - (arXiv 2024.05) DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention, [[Paper]](https://arxiv.org/pdf/2405.18428.pdf),[[Code]](https://github.com/hustvl/DiG)
 - (arXiv 2024.06) Δ-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2406.01125)
+- (arXiv 2024.06) Dimba: Transformer-Mamba Diffusion Models, [[Paper]](https://arxiv.org/pdf/2406.01159),[[Code]](https://dimba-project.github.io/)
