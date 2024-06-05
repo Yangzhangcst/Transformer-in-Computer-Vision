@@ -37,4 +37,5 @@
 - (arXiv 2023.12) Sign Language Production with Latent Motion Transformer, [[Paper]](https://arxiv.org/pdf/2312.12917.pdf)
 - (arXiv 2024.01) AdvMT: Adversarial Motion Transformer for Long-term Human Motion Prediction, [[Paper]](https://arxiv.org/pdf/2401.05018.pdf)
 - (arXiv 2024.04) Neuromorphic Vision-based Motion Segmentation with Graph Transformer Neural Network, [[Paper]](https://arxiv.org/pdf/2404.10940.pdf)
-- (arXiv 2024.04) Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches, [[Paper]](https://arxiv.org/pdf/2405.04771。pdf)
+- (arXiv 2024.04) Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches, [[Paper]](https://arxiv.org/pdf/2405.04771.pdf)
+- (arXiv 2024.06) Prototypical Transformer as Unified Motion Learners, [[Paper]](https://arxiv.org/pdf/2406.01559), [[Code]](https://github.com/Alvin0629/ProtoFormer)
