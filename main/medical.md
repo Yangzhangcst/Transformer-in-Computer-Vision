@@ -558,4 +558,5 @@
 - (arXiv 2024.05) UIT-DarkCow team at ImageCLEFmedical Caption 2024: Diagnostic Captioning for Radiology Images Efficiency with Transformer Models, [[Paper]](https://arxiv.org/pdf/2405.17002.pdf)
 - (arXiv 2024.05) Understanding differences in applying DETR to natural and medical images, [[Paper]](https://arxiv.org/pdf/2405.17677.pdf)
 - (arXiv 2024.05) MindFormer: A Transformer Architecture for Multi-Subject Brain Decoding via fMRI, [[Paper]](https://arxiv.org/pdf/2405.17720.pdf)
-- (arXiv 2024.05) DeepUniUSTransformer: Towards A Universal UltraSound Model with Prompted Guidance, [[Paper]](https://arxiv.org/pdf/2406.01154)
+- (arXiv 2024.06) DeepUniUSTransformer: Towards A Universal UltraSound Model with Prompted Guidance, [[Paper]](https://arxiv.org/pdf/2406.01154)
+- (arXiv 2024.06) Compute-Efficient Medical Image Classification with Softmax-Free Transformers and Sequence Normalization, [[Paper]](https://arxiv.org/pdf/2406.01314)
