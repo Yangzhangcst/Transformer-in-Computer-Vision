@@ -25,3 +25,4 @@
 - (arXiv 2024.03) IPT-V2: Efficient Image Processing Transformer using Hierarchical Attentions,  [[Paper]](https://arxiv.org/pdf/2404.00633.pdf)
 - (arXiv 2024.04) Seeing the Unseen: A Frequency Prompt Guided Transformer for Image Restoration,  [[Paper]](https://arxiv.org/pdf/2404.00288.pdf), [[Code]](https://github.com/joshyZhou/FPro)
 - (arXiv 2024.04) Look-Around Before You Leap: High-Frequency Injected Transformer for Image Restoration,  [[Paper]](https://arxiv.org/pdf/2404.00279.pdf), [[Code]](https://github.com/joshyZhou/HIT)
+- (arXiv 2024.06) Correlation Matching Transformation Transformers for UHD Image Restoration,  [[Paper]](https://arxiv.org/pdf/2406.00629.pdf), [[Code]](https://github.com/supersupercong/UHDformer)
