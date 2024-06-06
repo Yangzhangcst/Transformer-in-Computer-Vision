@@ -39,3 +39,4 @@
 - (arXiv 2024.05) Transformer-based Federated Learning for Multi-Label Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2405.15405.pdf), [[Code]](https://git.tu-berlin.de/rsim/FL-Transformer)
 - (arXiv 2024.05) Near-Infrared and Low-Rank Adaptation of Vision Transformers in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2405.17901.pdf)
 - (arXiv 2024.06) Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2406.02385.pdf), [[Code]](https://github.com/fudanxu/LoRA-Det)
+- (arXiv 2024.06) P2PFormer: A Primitive-to-polygon Method for Regular Building Contour Extraction from Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2406.02930)
