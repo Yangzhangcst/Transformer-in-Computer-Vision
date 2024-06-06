@@ -41,3 +41,4 @@
 - (arXiv 2024.05) Model Quantization and Hardware Acceleration for Vision Transformers: A Comprehensive Survey, [[Paper]](https://arxiv.org/pdf/2405.00314.pdf), [[Code]](https://github.com/DD-DuDa/awesome-vit- quantization-acceleration)
 - (arXiv 2024.05) Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2405.03882.pdf)
 - (arXiv 2024.05) MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization, [[Paper]](https://arxiv.org/pdf/2405.17873.pdf)
+- (arXiv 2024.06) ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation, [[Paper]](https://arxiv.org/pdf/2406.02540.pdf), [[Code]](https://github.com/A-suozhang/ViDiT-Q)
