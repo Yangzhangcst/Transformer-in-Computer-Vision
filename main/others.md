@@ -234,5 +234,6 @@
 - (arXiv 2024.05) Enhancing Feature Diversity Boosts Channel-Adaptive Vision Transformers,[[Paper]](https://arxiv.org/pdf/2405.16419.pdf)
 - (arXiv 2024.05) Sequence Length Scaling in Vision Transformers for Scientific Images on Frontier,[[Paper]](https://arxiv.org/pdf/2405.15780.pdf)
 - (arXiv 2024.05) WeatherFormer: A Pretrained Encoder Model for Learning Robust Weather Representations from Small Datasets,[[Paper]](https://arxiv.org/pdf/2405.17455.pdf)
-- (arXiv 2024.06) Diversifying Query: Region-Guided Transformer for Temporal Sentence Grounding,[[Paper]](https://arxiv.org/pdf/2406.00143.pdf)
-- (arXiv 2024.06) ShadowRefiner: Towards Mask-free Shadow Removal via Fast Fourier Transformer,[[Paper]](https://arxiv.org/pdf/2406.02559.pdf), [[Code]](https://github.com/movingforward100/Shadow_R)
+- (arXiv 2024.06) Diversifying Query: Region-Guided Transformer for Temporal Sentence Grounding, [[Paper]](https://arxiv.org/pdf/2406.00143.pdf)
+- (arXiv 2024.06) ShadowRefiner: Towards Mask-free Shadow Removal via Fast Fourier Transformer, [[Paper]](https://arxiv.org/pdf/2406.02559.pdf), [[Code]](https://github.com/movingforward100/Shadow_R)
+- (arXiv 2024.06) Learning Visual Prompts for Guiding the Attention of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.03303.pdf)
