@@ -561,3 +561,4 @@
 - (arXiv 2024.06) DeepUniUSTransformer: Towards A Universal UltraSound Model with Prompted Guidance, [[Paper]](https://arxiv.org/pdf/2406.01154)
 - (arXiv 2024.06) Compute-Efficient Medical Image Classification with Softmax-Free Transformers and Sequence Normalization, [[Paper]](https://arxiv.org/pdf/2406.01314)
 - (arXiv 2024.06) Direct Cardiac Segmentation from Undersampled K-space Using Transformers, [[Paper]](https://arxiv.org/pdf/2406.00192)
+- (arXiv 2024.06) SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution, [[Paper]](https://arxiv.org/pdf/2406.03359), [[Code]](https://github.com/BCV-Uniandes/SuperFormer)
