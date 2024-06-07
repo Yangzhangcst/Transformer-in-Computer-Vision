@@ -214,3 +214,4 @@
 - (arXiv 2024.05) SpecDETR: A Transformer-based Hyperspectral Point Object Detection Network, [[Paper]](https://arxiv.org/pdf/2405.10148.pdf), [[Code]](https://github.com/ZhaoxuLi123/SpecDETR)
 - (arXiv 2024.05) MonoDETRNext: Next-generation Accurate and Efficient Monocular 3D Object Detection Method, [[Paper]](https://arxiv.org/pdf/2405.15176.pdf)
 - (arXiv 2024.06) MMCL: Boosting Deformable DETR-Based Detectors with Multi-Class Min-Margin Contrastive Learning for Superior Prohibited Item Detection, [[Paper]](https://arxiv.org/pdf/2406.03176), [[Code]](https://github.com/anonymity0403/MMCL)
+- (arXiv 2024.06) LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection, [[Paper]](https://arxiv.org/pdf/2406.03459), [[Code]](https://github.com/Atten4Vis/LW-DETR)
