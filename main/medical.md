@@ -562,3 +562,5 @@
 - (arXiv 2024.06) Compute-Efficient Medical Image Classification with Softmax-Free Transformers and Sequence Normalization, [[Paper]](https://arxiv.org/pdf/2406.01314)
 - (arXiv 2024.06) Direct Cardiac Segmentation from Undersampled K-space Using Transformers, [[Paper]](https://arxiv.org/pdf/2406.00192)
 - (arXiv 2024.06) SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution, [[Paper]](https://arxiv.org/pdf/2406.03359), [[Code]](https://github.com/BCV-Uniandes/SuperFormer)
+- (arXiv 2024.06) Use of a Multiscale Vision Transformer to predict Nursing Activities Score from Low Resolution Thermal Videos in an Intensive Care Unit, [[Paper]](https://arxiv.org/pdf/2406.04364)
+- (arXiv 2024.06) Hibou: A Family of Foundational Vision Transformers for Pathology, [[Paper]](https://arxiv.org/pdf/2406.05074), [[Code]](https://github.com/HistAI/hibou)
