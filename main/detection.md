@@ -217,4 +217,4 @@
 - (arXiv 2024.06) LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection, [[Paper]](https://arxiv.org/pdf/2406.03459), [[Code]](https://github.com/Atten4Vis/LW-DETR)
 - (arXiv 2024.06) Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models, [[Paper]](https://arxiv.org/pdf/2406.03229)
 - (arXiv 2024.06) OD-DETR: Online Distillation for Stabilizing Training of Detection Transformer, [[Paper]](https://arxiv.org/pdf/2406.05791)
-- (arXiv 2024.06) A DeNoising FPN With Transformer R-CNN for Tiny Object Detection, [[Paper]](https://arxiv.org/pdf/2406.05755)
+- (arXiv 2024.06) A DeNoising FPN With Transformer R-CNN for Tiny Object Detection, [[Paper]](https://arxiv.org/pdf/2406.05755), [[Code]](https://github.com/hoiliu-0801/DNTR)
