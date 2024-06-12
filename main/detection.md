@@ -216,3 +216,4 @@
 - (arXiv 2024.06) MMCL: Boosting Deformable DETR-Based Detectors with Multi-Class Min-Margin Contrastive Learning for Superior Prohibited Item Detection, [[Paper]](https://arxiv.org/pdf/2406.03176), [[Code]](https://github.com/anonymity0403/MMCL)
 - (arXiv 2024.06) LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection, [[Paper]](https://arxiv.org/pdf/2406.03459), [[Code]](https://github.com/Atten4Vis/LW-DETR)
 - (arXiv 2024.06) Global Clipper: Enhancing Safety and Reliability of Transformer-based Object Detection Models, [[Paper]](https://arxiv.org/pdf/2406.03229)
+- (arXiv 2024.06) OD-DETR: Online Distillation for Stabilizing Training of Detection Transformer, [[Paper]](https://arxiv.org/pdf/2406.05791)
