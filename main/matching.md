@@ -19,3 +19,4 @@
 - (arXiv 2024.04) XoFTR: Cross-modal Feature Matching Transformer, [[Paper]](https://arxiv.org/pdf/2404.09692.pdf), [[Code]](https://github.com/OnderT/XoFTR)
 - (arXiv 2024.05) A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images, [[Paper]](https://arxiv.org/pdf/2404.19311.pdf),[[Code]](https://github.com/NUST-Machine- Intelligence-Laboratory/LTFormer)
 - (arXiv 2024.05) TP3M: Transformer-based Pseudo 3D Image Matching with Reference, [[Paper]](https://arxiv.org/pdf/2405.08434.pdf)
+- (arXiv 2024.06) CorrMAE: Pre-training Correspondence Transformers with Masked Autoencoder, [[Paper]](https://arxiv.org/pdf/2406.05773.pdf)
