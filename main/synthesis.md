@@ -12,3 +12,4 @@
 - (arXiv 2022.10) FontTransformer: Few-shot High-resolution Chinese Glyph Image Synthesis via Stacked Transformers, [[Paper]](https://arxiv.org/pdf/2210.06301.pdf)
 - (arXiv 2023.01) Geometry-biased Transformers for Novel View Synthesis, [[Paper]](https://arxiv.org/pdf/2301.04650.pdf), [[Project]](https://mayankgrwl97.github.io/gbt)
 - (arXiv 2023.12) NViST: In the Wild New View Synthesis from a Single Image with Transformers, [[Paper]](https://arxiv.org/pdf/2312.08568.pdf), [[Project]](https://wbjang.github.io/nvist_webpage)
+- (arXiv 2024.06) Revisiting Non-Autoregressive Transformers for Efficient Image Synthesis, [[Paper]](https://arxiv.org/pdf/2406.05478.pdf), [[Project]](https://github.com/LeapLabTHU/ImprovedNAT)
