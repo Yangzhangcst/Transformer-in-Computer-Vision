@@ -14,3 +14,4 @@
 - (arXiv 2024.01) MResT: Multi-Resolution Sensing for Real-Time Control with Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2401.14502.pdf), [[Code]](http://tinyurl.com/multi-res-realtime-control)
 - (arXiv 2024.02) EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization, [[Paper]](https://arxiv.org/pdf/2402.13537.pdf)
 - (arXiv 2024.05) Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation, [[Paper]](https://arxiv.org/pdf/2405.01527.pdf), [[Project]](https://homangab.github.io/track2act/)
+- (arXiv 2024.06) Adapting Pretrained ViTs with Convolution Injector for Visuo-Motor Control, [[Paper]](https://arxiv.org/pdf/2406.06072.pdf), [[Project]](https://github.com/dojeon-ai/CoIn)
