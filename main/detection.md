@@ -8,7 +8,7 @@
 - (arXiv 2020.12) DETR for Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2012.06785)
 - (arXiv 2021.01) Line Segment Detection Using Transformers without Edges, [[Paper]](https://arxiv.org/abs/2101.01909)
 - (arXiv 2021.01) Fast Convergence of DETR with Spatially Modulated Co-Attention, [[Paper]](https://arxiv.org/pdf/2101.07448.pdf)
-- (arXiv 2021.02) GEM: Glare or Gloom, I Can Still See You 鈥? End-to-End Multimodal Object Detector, [[Paper]](https://arxiv.org/pdf/2102.12319.pdf)
+- (arXiv 2021.02) GEM: Glare or Gloom, I Can Still See You? End-to-End Multimodal Object Detector, [[Paper]](https://arxiv.org/pdf/2102.12319.pdf)
 - (arXiv 2021.03) SSTN: Self-Supervised Domain Adaptation Thermal Object Detection for Autonomous Driving, [[Paper]](https://arxiv.org/abs/2103.03150)
 - (arXiv 2021.03) Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning, [[Paper]](https://arxiv.org/pdf/2103.11731.pdf)
 - (arXiv 2021.03) CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification, [[Paper]](https://arxiv.org/abs/2103.14899)
