@@ -32,3 +32,4 @@
 - (arXiv 2024.06) Δ-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2406.01125)
 - (arXiv 2024.06) Dimba: Transformer-Mamba Diffusion Models, [[Paper]](https://arxiv.org/pdf/2406.01159),[[Code]](https://dimba-project.github.io/)
 - (arXiv 2024.06) AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation, [[Paper]](https://arxiv.org/pdf/2406.07686)
+- (arXiv 2024.06) DiTFastAttn: Attention Compression for Diffusion Transformer Models, [[Paper]](https://arxiv.org/pdf/2406.08552),[[Code]](https://github.com/thu-nics/DiTFastAttn)
