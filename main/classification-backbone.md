@@ -560,3 +560,4 @@
 - (arXiv 2024.05) MSPE: Multi-Scale Patch Embedding Prompts Vision Transformers to Any Resolution, [[Paper]](https://arxiv.org/pdf/2405.18240.pdf)
 - (arXiv 2024.05) Wavelet-Based Image Tokenizer for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2405.18616v1.pdf)
 - (arXiv 2024.06) You Only Need Less Attention at Each Stage in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.00427.pdf)
+- (arXiv 2024.06) An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels, [[Paper]](https://arxiv.org/pdf/2406.09415.pdf)
