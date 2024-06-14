@@ -4,4 +4,4 @@
 - (arXiv 2023.11) Rotation Invariant Transformer for Recognizing Object in UAVs, [[Paper]](https://arxiv.org/pdf/2311.02559.pdf), [[Code]](https://github.com/whucsy/RotTrans)
 - (arXiv 2023.11) SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet, [[Paper]](https://arxiv.org/pdf/2311.03076.pdf), [[Code]](https://github.com/whucsy/RotTrans)
 - (arXiv 2024.01) A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization, [[Paper]](https://arxiv.org/pdf/2401.01574.pdf)
-- (arXiv 2024.06) Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV, [[Paper]](https://arxiv.org/pdf/2406.09260.pdf)
+- (arXiv 2024.06) Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV, [[Paper]](https://arxiv.org/pdf/2406.09260.pdf), [[Code]](https://github.com/fdcl-gwu/TNN-MO)
