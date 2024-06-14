@@ -48,3 +48,4 @@
 - (arXiv.2024.03) UniDepth: Universal Monocular Metric Depth Estimation, [[Paper]](https://arxiv.org/pdf/2403.18913.pdf), [[Code]](https://github.com/lpiccinelli-eth/unidepth)
 - (arXiv.2024.04) WorDepth: Variational Language Prior for Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2404.03635.pdf), [[Code]](https://github.com/Adonis-galaxy/WorDepth)
 - (arXiv.2024.04) SGFormer: Spherical Geometry Transformer for 360 Depth Estimation, [[Paper]](https://arxiv.org/pdf/2404.14979.pdf)
+- (arXiv.2024.06) ToSA: Token Selective Attention for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.08816.pdf)
