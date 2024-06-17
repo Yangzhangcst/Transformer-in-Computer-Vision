@@ -110,3 +110,4 @@
 - (arXiv 2024.04) SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers, [[Paper]](https://arxiv.org/pdf/2404.12625.pdf)
 - (arXiv 2024.04) SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation, [[Paper]](https://arxiv.org/pdf/2404.15276.pdf), [[Code]](https://github.com/xuxy09/SMPLer)
 - (arXiv 2024.05) Multi-hop graph transformer network for 3D human pose estimation, [[Paper]](https://arxiv.org/pdf/2405.03055.pdf)
+- (arXiv 2024.06) AnimalFormer: Multimodal Vision Framework for Behavior-based Precision Livestock Farming, [[Paper]](https://arxiv.org/pdf/2406.09711.pdf)
