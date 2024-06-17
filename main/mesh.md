@@ -17,3 +17,4 @@
 - (arXiv 2024.03) PostoMETRO: Pose Token Enhanced Mesh Transformer for Robust 3D Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2403.12473.pdf)
 - (arXiv 2024.03) InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models, [[Paper]](https://arxiv.org/pdf/2404.06542.pdf), [[Code]](https://github.com/TencentARC/InstantMesh)
 - (arXiv 2024.05) Mesh Denoising Transformer, [[Paper]](https://arxiv.org/pdf/2405.06536v1.pdf)
+- (arXiv 2024.06) MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2406.10163.pdf), [[Code]](https://github.com/buaacyw/MeshAnything)
