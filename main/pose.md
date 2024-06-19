@@ -111,3 +111,4 @@
 - (arXiv 2024.04) SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation, [[Paper]](https://arxiv.org/pdf/2404.15276.pdf), [[Code]](https://github.com/xuxy09/SMPLer)
 - (arXiv 2024.05) Multi-hop graph transformer network for 3D human pose estimation, [[Paper]](https://arxiv.org/pdf/2405.03055.pdf)
 - (arXiv 2024.06) AnimalFormer: Multimodal Vision Framework for Behavior-based Precision Livestock Farming, [[Paper]](https://arxiv.org/pdf/2406.09711.pdf)
+- (arXiv 2024.06) TrafficBots V1.5: Traffic Simulation via Conditional VAEs and Transformers with Relative Pose Encoding, [[Paper]](https://arxiv.org/pdf/2406.10898.pdf), [[Code]](https://github.com/zhejz/TrafficBotsV1.5)
