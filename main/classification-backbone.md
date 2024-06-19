@@ -562,3 +562,4 @@
 - (arXiv 2024.06) You Only Need Less Attention at Each Stage in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.00427.pdf)
 - (arXiv 2024.06) An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels, [[Paper]](https://arxiv.org/pdf/2406.09415.pdf)
 - (arXiv 2024.06) Fusion of regional and sparse attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.08859.pdf)
+- (arXiv 2024.06) Inpainting the Gaps: A Novel Framework for Evaluating Explanation Methods in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.11534.pdf)
