@@ -35,3 +35,4 @@
 - (arXiv 2024.04) Vision Transformers in Domain Adaptation and Generalization: A Study of Robustness, [[Paper]](https://arxiv.org/pdf/2404.04452.pdf)
 - (arXiv 2024.04) Vision Transformer-based Adversarial Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2404.15817.pdf), [[Code]](https://github.com/LluckyYH/VT-ADA)
 - (arXiv 2024.05) DATR: Unsupervised Domain Adaptive Detection Transformer with Dataset-Level Adaptation and Prototypical Alignment, [[Paper]](https://arxiv.org/pdf/2405.11765.pdf), [[Code]](https://github.com/h751410234/DATR)
+- (arXiv 2024.06) ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts, [[Paper]](https://arxiv.org/pdf/2406.10973.pdf)
