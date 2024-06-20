@@ -7,3 +7,4 @@
 - (arXiv 2023.10) TransY-Net:Learning Fully Transformer Networks for Change Detection of Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2310.14214.pdf), [[Code]](https://github.com/Drchip61/TransYNet)
 - (arXiv 2023.11) MS-Former: Memory-Supported Transformer for Weakly Supervised Change Detection with Patch-Level Annotations, [[Paper]](https://arxiv.org/pdf/2311.09726.pdf), [[Code]](https://github.com/guanyuezhen/MS-Former)
 - (arXiv 2023.12) Adapting Vision Transformer for Efficient Change Detection, [[Paper]](https://arxiv.org/pdf/2312.04869.pdf)
+- (arXiv 2024.06) ChangeViT: Unleashing Plain Vision Transformers for Change Detection, [[Paper]](https://arxiv.org/pdf/2406.12847.pdf), [[Code]](https://github.com/zhuduowang/ChangeViT)
