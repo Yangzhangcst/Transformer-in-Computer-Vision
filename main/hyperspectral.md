@@ -25,3 +25,4 @@
 - (arXiv 2024.04) Pyramid Hierarchical Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.14945.pdf), [[Code]](https://github.com/mahmad00/PyFormer)
 - (arXiv 2024.04) Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.14955.pdf)
 - (arXiv 2024.05) Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2405.01095.pdf)
+- (arXiv 2024.06) Boosting Hyperspectral Image Classification with Gate-Shift-Fuse Mechanisms in a Novel CNN-Transformer Approach, [[Paper]](https://arxiv.org/pdf/2406.14120.pdf)
