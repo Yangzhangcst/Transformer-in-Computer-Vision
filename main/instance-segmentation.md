@@ -39,3 +39,4 @@
 - (arXiv 2024.03) ShapeFormer: Shape Prior Visible-to-Amodal Transformer-based Amodal Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2403.11376.pdf),[[Code]](https://github.com/UARK-AICV/ShapeFormer)
 - (arXiv 2024.04) Efficient Transformer Encoders for Mask2Former-style models, [[Paper]](https://arxiv.org/pdf/2404.15244.pdf)
 - (arXiv 2024.06) Extreme Point Supervised Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2405.20729)
+- (arXiv 2024.06) GMT: Guided Mask Transformer for Leaf Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2406.17109)
