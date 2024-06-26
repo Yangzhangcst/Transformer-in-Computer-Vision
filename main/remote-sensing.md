@@ -40,3 +40,5 @@
 - (arXiv 2024.05) Near-Infrared and Low-Rank Adaptation of Vision Transformers in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2405.17901.pdf)
 - (arXiv 2024.06) Low-Rank Adaption on Transformer-based Oriented Object Detector for Satellite Onboard Processing of Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2406.02385.pdf), [[Code]](https://github.com/fudanxu/LoRA-Det)
 - (arXiv 2024.06) P2PFormer: A Primitive-to-polygon Method for Regular Building Contour Extraction from Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2406.02930)
+- (arXiv 2024.06) SRViT: Vision Transformers for Estimating Radar Reflectivity from Satellite Observations at Scale, [[Paper]](https://arxiv.org/pdf/2406.16955)
+- (arXiv 2024.06) Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series, [[Paper]](https://arxiv.org/pdf/2406.16513)
