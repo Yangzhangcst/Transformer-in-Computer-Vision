@@ -135,3 +135,4 @@
 - (arXiv 2024.04) A Point-Based Approach to Efficient LiDAR Multi-Task Perception, [[Paper]](https://arxiv.org/pdf/2404.12798.pdf)
 - (arXiv 2024.05) 3D Learnable Supertoken Transformer for LiDAR Point Cloud Scene Segmentation, [[Paper]](https://arxiv.org/pdf/2405.15826.pdf)
 - (arXiv 2024.05) Efficient Point Transformer with Dynamic Token Aggregating for Point Cloud Processing, [[Paper]](https://arxiv.org/pdf/2405.15827.pdf)
+- (arXiv 2024.06) DMF-Net: Image-Guided Point Cloud Completion with Dual-Channel Modality Fusion and Shape-Aware Upsampling Transformer, [[Paper]](https://arxiv.org/pdf/2406.17319.pdf)
