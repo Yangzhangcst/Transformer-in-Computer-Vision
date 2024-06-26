@@ -567,3 +567,5 @@
 - (arXiv 2024.06) A Robust Pipeline for Classification and Detection of Bleeding Frames in Wireless Capsule Endoscopy using Swin Transformer and RT-DETR, [[Paper]](https://arxiv.org/pdf/2406.08046)
 - (arXiv 2024.06) ProtoS-ViT: Visual foundation models for sparse self-explainable classifications, [[Paper]](https://arxiv.org/pdf/2406.10025), [[Code]](https://github.com/hturbe/protosvit)
 - (arXiv 2024.06) SCKansformer: Fine-Grained Classification of Bone Marrow Cells via Kansformer Backbone and Hierarchical Attention Mechanisms, [[Paper]](https://arxiv.org/pdf/2406.09931), [[Code]](https://github.com/JustlfC03/SCKansformer)
+- (arXiv 2024.06) Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration,[[Paper]](https://arxiv.org/pdf/2406.17670)
+- (arXiv 2024.06) Multi-Aperture Fusion of Transformer-Convolutional Network (MFTC-Net) for 3D Medical Image Segmentation and Visualization,[[Paper]](https://arxiv.org/pdf/2406.17080), [[Code]](https://github.com/Siyavashshabani/MFTC-Net)
