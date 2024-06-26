@@ -23,3 +23,4 @@
 - (arXiv 2024.03) ChebMixer: Efficient Graph Representation Learning with MLP Mixer, [[Paper]](https://arxiv.org/pdf/2403.16358.pdf)
 - (arXiv 2024.04) GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets, [[Paper]](https://arxiv.org/pdf/2404.04924.pdf)
 - (arXiv 2024.06) CYCLO: Cyclic Graph Transformer Approach to Multi-Object Relationship Modeling in Aerial Videos, [[Paper]](https://arxiv.org/pdf/2406.01029.pdf)
+- (arXiv 2024.06) HGTDP-DTA: Hybrid Graph-Transformer with Dynamic Prompt for Drug-Target Binding Affinity Prediction, [[Paper]](https://arxiv.org/pdf/2406.17697.pdf)
