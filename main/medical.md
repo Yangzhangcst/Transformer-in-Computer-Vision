@@ -7,7 +7,7 @@
 - (arXiv 2021.03) U-Net Transformer: Self and Cross Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2103.06104)
 - (arXiv 2021.03) SUNETR: Transformers for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2103.10504)
 - (arXiv 2021.04) DeepProg: A Multi-modal Transformer-based End-to-end Framework for Predicting Disease Prognosis, [[Paper]](https://arxiv.org/pdf/2104.03642.pdf)
-- (arXiv 2021.04) Vision Transformer using Low-level Che st X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification, [[Paper]](https://arxiv.org/pdf/2104.07235.pdf)
+- (arXiv 2021.04) Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification, [[Paper]](https://arxiv.org/pdf/2104.07235.pdf)
 - (arXiv 2021.04) Shoulder Implant X-Ray Manufacturer Classification: Exploring with Vision Transformer, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2104/2104.07667.pdf)
 - (arXiv 2021.04) Medical Transformer: Universal Brain Encoder for 3D MRI Analysis, [[Paper]](https://arxiv.org/pdf/2104.13633.pdf)
 - (arXiv 2021.04) Crossmodal Matching Transformer for Interventional in TEVAR, [[Paper]](https://arxiv.org/pdf/2104.14273.pdf)
@@ -570,3 +570,4 @@
 - (arXiv 2024.06) Brain Tumor Classification using Vision Transformer with Selective Cross-Attention Mechanism and Feature Calibration,[[Paper]](https://arxiv.org/pdf/2406.17670)
 - (arXiv 2024.06) Multi-Aperture Fusion of Transformer-Convolutional Network (MFTC-Net) for 3D Medical Image Segmentation and Visualization,[[Paper]](https://arxiv.org/pdf/2406.17080), [[Code]](https://github.com/Siyavashshabani/MFTC-Net)
 - (arXiv 2024.06) Diff3Dformer: Leveraging Slice Sequence Diffusion for Enhanced 3D CT Classification with Transformer Networks, [[Paper]](https://arxiv.org/pdf/2406.17173)
+- (arXiv 2024.06) EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy, [[Paper]](https://arxiv.org/pdf/2406.13705),[[Code]](https://github.com/longbai1006/EndoUIC)
