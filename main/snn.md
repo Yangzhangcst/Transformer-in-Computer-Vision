@@ -14,3 +14,4 @@
 - (arxiv 2024.03) Fourier or Wavelet bases as counterpart self-attention in spikformer for efficient visual classification,  [[Paper]](https://arxiv.org/pdf/2403.18228.pdf)
 - (arxiv 2024.04) Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips,  [[Paper]](https://arxiv.org/pdf/2404.03663.pdf), [[Code]](https://github.com/BICLab/Spike-Driven-Transformer-V2)
 - (arxiv 2024.04) A Novel Spike Transformer Network for Depth Estimation from Event Cameras via Cross-modality Knowledge Distillation,  [[Paper]](https://arxiv.org/pdf/2404.17335.pdf)
+- (arxiv 2024.06) SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition, [[Paper]](https://arxiv.org/pdf/2406.15034.pdf)
