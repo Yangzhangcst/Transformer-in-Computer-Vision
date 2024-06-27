@@ -571,3 +571,4 @@
 - (arXiv 2024.06) Multi-Aperture Fusion of Transformer-Convolutional Network (MFTC-Net) for 3D Medical Image Segmentation and Visualization,[[Paper]](https://arxiv.org/pdf/2406.17080), [[Code]](https://github.com/Siyavashshabani/MFTC-Net)
 - (arXiv 2024.06) Diff3Dformer: Leveraging Slice Sequence Diffusion for Enhanced 3D CT Classification with Transformer Networks, [[Paper]](https://arxiv.org/pdf/2406.17173)
 - (arXiv 2024.06) EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy, [[Paper]](https://arxiv.org/pdf/2406.13705),[[Code]](https://github.com/longbai1006/EndoUIC)
+- (arXiv 2024.06) M3T: Multi-Modal Medical Transformer to bridge Clinical Context with Visual Insights for Retinal Image Medical Description Generation, [[Paper]](https://arxiv.org/pdf/2406.13129)
