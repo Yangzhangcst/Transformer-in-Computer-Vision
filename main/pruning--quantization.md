@@ -45,3 +45,4 @@
 - (arXiv 2024.06) MGRQ: Post-Training Quantization For Vision Transformer With Mixed Granularity Reconstruction, [[Paper]](https://arxiv.org/pdf/2406.09229.pdf)
 - (arXiv 2024.06) An Analysis on Quantizing Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2406.11100.pdf)
 - (arXiv 2024.06) ViT-1.58b: Mobile Vision Transformers in the 1-bit Era, [[Paper]](https://arxiv.org/pdf/2406.18051)
+- (arXiv 2024.06) Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2406.17343), [[Code]](https://github.com/Juanerx/Q-DiT)
