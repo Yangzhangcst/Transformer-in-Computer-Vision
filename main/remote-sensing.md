@@ -42,3 +42,4 @@
 - (arXiv 2024.06) P2PFormer: A Primitive-to-polygon Method for Regular Building Contour Extraction from Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2406.02930)
 - (arXiv 2024.06) SRViT: Vision Transformers for Estimating Radar Reflectivity from Satellite Observations at Scale, [[Paper]](https://arxiv.org/pdf/2406.16955)
 - (arXiv 2024.06) Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series, [[Paper]](https://arxiv.org/pdf/2406.16513)
+- (arXiv 2024.06) UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery, [[Paper]](https://arxiv.org/pdf/2406.16129)
