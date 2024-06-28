@@ -33,3 +33,4 @@
 - (arXiv 2024.06) Dimba: Transformer-Mamba Diffusion Models, [[Paper]](https://arxiv.org/pdf/2406.01159),[[Code]](https://dimba-project.github.io/)
 - (arXiv 2024.06) AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation, [[Paper]](https://arxiv.org/pdf/2406.07686)
 - (arXiv 2024.06) DiTFastAttn: Attention Compression for Diffusion Transformer Models, [[Paper]](https://arxiv.org/pdf/2406.08552),[[Code]](https://github.com/thu-nics/DiTFastAttn)
+- (arXiv 2024.06) Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT, [[Paper]](https://arxiv.org/pdf/2406.18583),[[Code]](https://github.com/Alpha-VLLM/Lumina-T2X)
