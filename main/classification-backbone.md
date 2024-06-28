@@ -564,3 +564,4 @@
 - (arXiv 2024.06) Fusion of regional and sparse attention in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.08859.pdf)
 - (arXiv 2024.06) Inpainting the Gaps: A Novel Framework for Evaluating Explanation Methods in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.11534.pdf)
 - (arXiv 2024.06) PEANO-ViT: Power-Efficient Approximations of Non-Linearities in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.14854.pdf)
+- (arXiv 2024.06) A Primal-Dual Framework for Transformers and Neural Networks, [[Paper]](https://arxiv.org/pdf/2406.13781.pdf)
