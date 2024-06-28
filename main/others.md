@@ -237,4 +237,5 @@
 - (arXiv 2024.06) Diversifying Query: Region-Guided Transformer for Temporal Sentence Grounding, [[Paper]](https://arxiv.org/pdf/2406.00143.pdf)
 - (arXiv 2024.06) ShadowRefiner: Towards Mask-free Shadow Removal via Fast Fourier Transformer, [[Paper]](https://arxiv.org/pdf/2406.02559.pdf), [[Code]](https://github.com/movingforward100/Shadow_R)
 - (arXiv 2024.06) Learning Visual Prompts for Guiding the Attention of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.03303.pdf)
-- (arXiv 2024.06) DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera, [[Paper]](https://arxiv.org/pdf/2406.07951.pdf), [[Code]](https://github.com/QUEAHREN/DemosaicFormer)
+- (arXiv 2024.06) DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera, [[Paper]](https://arxiv.org/pdf/2406.07951.pdf), [[Code]](https://github.com/alanzjl/t3)
+- (arXiv 2024.06) Transferable Tactile Transformers for Representation Learning Across Diverse Sensors and Tasks, [[Paper]](https://arxiv.org/pdf/2406.13640.pdf), [[Code]](https://github.com/QUEAHREN/DemosaicFormer)
