@@ -19,3 +19,4 @@
 - (arXiv 2023.11) Navigating Scaling Laws: Accelerating Vision Transformer's Training via Adaptive Strategies, [[Paper]](https://arxiv.org/pdf/2311.03314.pdf)
 - (arXiv 2024.05) Transformers for Image-Goal Navigation, [[Paper]](https://arxiv.org/pdf/2405.14128.pdf)
 - (arXiv 2024.05) Vision-and-Language Navigation Generative Pretrained Transformer, [[Paper]](https://arxiv.org/pdf/2405.16994.pdf)
+- (arXiv 2024.07) PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators, [[Paper]](https://arxiv.org/pdf/2406.20083.pdf), [[Code]](https://poliformer.allen.ai/)
