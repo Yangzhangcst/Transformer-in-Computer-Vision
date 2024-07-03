@@ -99,3 +99,4 @@
 - (arXiv 2024.05) LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking, [[Paper]](https://arxiv.org/pdf/2405.17660.pdf), [[Code]](https://github.com/ShaohuaDong2021/LoReTrack)
 - (arXiv 2024.05) Reliable Object Tracking by Multimodal Hybrid Feature Extraction and Transformer-Based Fusion, [[Paper]](https://arxiv.org/pdf/2405.17903.pdf)
 - (arXiv 2024.06) Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking, [[Paper]](https://arxiv.org/pdf/2406.08037.pdf), [[Code]](https://github.com/1HykhqV3rU/ABTrack)
+- (arXiv 2024.07) eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking, [[Paper]](https://arxiv.org/pdf/2406.20024.pdf), [[Code]](https://vlislab22.github.io/eMoE-Tracker/)
