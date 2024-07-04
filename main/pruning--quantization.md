@@ -47,3 +47,4 @@
 - (arXiv 2024.06) ViT-1.58b: Mobile Vision Transformers in the 1-bit Era, [[Paper]](https://arxiv.org/pdf/2406.18051)
 - (arXiv 2024.06) Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2406.17343), [[Code]](https://github.com/Juanerx/Q-DiT)
 - (arXiv 2024.07) ADFQ-ViT: Activation-Distribution-Friendly Post-Training Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.02763)
+- (arXiv 2024.07) LPViT: Low-Power Semi-structured Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.02068)
