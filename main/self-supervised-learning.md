@@ -56,3 +56,4 @@
 - (arXiv 2024.05) S3Former: Self-supervised High-resolution Transformer for Solar PV Profiling, [[Paper]](https://arxiv.org/pdf/2405.04489.pdf)
 - (arXiv 2024.05) Visualizing the loss landscape of Self-supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2405.18042.pdf)
 - (arXiv 2024.06) Self-Supervised Vision Transformer for Enhanced Virtual Clothes Try-On, [[Paper]](https://arxiv.org/pdf/2406.10539.pdf)
+- (arXiv 2024.07) Self-supervised Vision Transformer are Scalable Generative Models for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2407.02900.pdf), [[Code]](https://github.com/sdoerrich97/vits-are-generative-models)
