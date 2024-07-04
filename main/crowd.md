@@ -15,3 +15,4 @@
 - (arXiv 2023.10) Query-adaptive DETR for Crowded Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2310.15725.pdf)
 - (arXiv 2023.12) Regressor-Segmenter Mutual Prompt Learning for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2312.01711.pdf)
 - (arXiv 2024.01) Gramformer: Learning Crowd Counting via Graph-Modulated Transformer, [[Paper]](https://arxiv.org/pdf/2401.03870.pdf), [[Code]](https://github.com/LoraLinH/Gramformer)
+- (arXiv 2024.07) CountFormer: Multi-View Crowd Counting Transformer, [[Paper]](https://arxiv.org/pdf/2407.02047.pdf)
