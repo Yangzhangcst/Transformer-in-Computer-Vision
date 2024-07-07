@@ -27,3 +27,4 @@
 - (arXiv 2024.04) Look-Around Before You Leap: High-Frequency Injected Transformer for Image Restoration,  [[Paper]](https://arxiv.org/pdf/2404.00279.pdf), [[Code]](https://github.com/joshyZhou/HIT)
 - (arXiv 2024.06) Correlation Matching Transformation Transformers for UHD Image Restoration,  [[Paper]](https://arxiv.org/pdf/2406.00629.pdf), [[Code]](https://github.com/supersupercong/UHDformer)
 - (arXiv 2024.07) Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration,  [[Paper]](https://arxiv.org/pdf/2407.01636.pdf)
+- (arXiv 2024.07) Generative Iris Prior Embedded Transformer for Iris Restoration,  [[Paper]](https://arxiv.org/pdf/2407.00261.pdf), [[Code]](https://github.com/sawyercharlton/Gformer)
