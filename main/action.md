@@ -123,3 +123,4 @@
 - (arXiv 2024.05) From CNNs to Transformers in Multimodal Human Action Recognition: A Survey,  [[Paper]](https://arxiv.org/pdf/2405.15813.pdf)
 - (arXiv 2024.06) MALT: Multi-scale Action Learning Transformer for Online Action Detection,  [[Paper]](https://arxiv.org/pdf/2405.20892.pdf)
 - (arXiv 2024.06) Feature Fusion for Human Activity Recognition using Parameter-Optimized Multi-Stage Graph Convolutional Network and Transformer Models,  [[Paper]](https://arxiv.org/pdf/2406.16338.pdf)
+- (arXiv 2024.07) Multi-State-Action Tokenisation in Decision Transformers for Multi-Discrete Action Spaces,  [[Paper]](https://arxiv.org/pdf/2407.01310.pdf)
