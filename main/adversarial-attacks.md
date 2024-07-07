@@ -24,3 +24,4 @@
 - (arXiv 2024.03) Attacking Transformers with Feature Diversity Adversarial Perturbation, [[Paper]](https://arxiv.org/pdf/2403.07942.pdf)
 - (arXiv 2024.03) Approximate Nullspace Augmented Finetuning for Robust Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.10476.pdf)
 - (arXiv 2024.05) Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2405.10612.pdf),[[Code]](https://github.com/20000yshust/SWARM)
+- (arXiv 2024.07) Query-Efficient Hard-Label Black-Box Attack against Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.00389.pdf)
