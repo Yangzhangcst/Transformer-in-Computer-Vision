@@ -573,3 +573,4 @@
 - (arXiv 2024.06) EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy, [[Paper]](https://arxiv.org/pdf/2406.13705),[[Code]](https://github.com/longbai1006/EndoUIC)
 - (arXiv 2024.06) M3T: Multi-Modal Medical Transformer to bridge Clinical Context with Visual Insights for Retinal Image Medical Description Generation, [[Paper]](https://arxiv.org/pdf/2406.13129)
 - (arXiv 2024.06) GVT2RPM: An Empirical Study for General Video Transformer Adaptation to Remote Physiological Measurement, [[Paper]](https://arxiv.org/pdf/2406.13136)
+- (arXiv 2024.07) Diffusion Transformer Model With Compact Prior for Low-dose PET Reconstruction, [[Paper]](https://arxiv.org/pdf/2407.00944)
