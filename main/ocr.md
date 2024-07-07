@@ -64,3 +64,4 @@
 - (arXiv 2024.02) Text Role Classification in Scientific Charts Using Multimodal Transformers, [[Paper]](https://arxiv.org/pdf/2402.14579.pdf),[[Code]](https://github.com/hjkimk/text-role-classification)
 - (arXiv 2024.02) Self-Supervised Pre-Training for Table Structure Recognition Transformer, [[Paper]](https://arxiv.org/pdf/2402.15578.pdf),[[Code]](https://github.com/poloclub/unitable)
 - (arXiv 2024.03) LOCR: Location-Guided Transformer for Optical Character Recognition, [[Paper]](https://arxiv.org/pdf/2403.02127.pdf)
+- (arXiv 2024.07) Mind the Gap Analyzing Lacunae with Transformer-Based Transcription, [[Paper]](https://arxiv.org/pdf/2407.00250.pdf)
