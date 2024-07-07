@@ -44,3 +44,4 @@
 - (arXiv 2024.06) Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series, [[Paper]](https://arxiv.org/pdf/2406.16513)
 - (arXiv 2024.06) UDHF2-Net: An Uncertainty-diffusion-model-based High-Frequency TransFormer Network for High-accuracy Interpretation of Remotely Sensed Imagery, [[Paper]](https://arxiv.org/pdf/2406.16129)
 - (arXiv 2024.07) ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2407.03033)
+- (arXiv 2024.07) SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs, [[Paper]](https://arxiv.org/pdf/2407.00851)
