@@ -1,3 +1,4 @@
+
 ### Pruning & Quantization
 - (arXiv 2021.04) Visual Transformer Pruning, [[Paper]](https://arxiv.org/pdf/2104.08500.pdf)
 - (arXiv 2021.06) Post-Training Quantization for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2106.14156.pdf)
@@ -48,3 +49,4 @@
 - (arXiv 2024.06) Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2406.17343), [[Code]](https://github.com/Juanerx/Q-DiT)
 - (arXiv 2024.07) ADFQ-ViT: Activation-Distribution-Friendly Post-Training Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.02763)
 - (arXiv 2024.07) LPViT: Low-Power Semi-structured Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.02068)
+- (arXiv 2024.07) Isomorphic Pruning for Vision Models, [[Paper]](https://arxiv.org/pdf/2407.04616), [[Code]](https://github.com/VainF/Isomorphic-Pruning)
