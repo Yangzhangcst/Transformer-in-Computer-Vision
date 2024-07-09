@@ -51,3 +51,4 @@
 - (arXiv 2024.07) LPViT: Low-Power Semi-structured Pruning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.02068)
 - (arXiv 2024.07) Isomorphic Pruning for Vision Models, [[Paper]](https://arxiv.org/pdf/2407.04616), [[Code]](https://github.com/VainF/Isomorphic-Pruning)
 - (arXiv 2024.07) LayerShuffle: Enhancing Robustness in Vision Transformers by Randomizing Layer Execution Order, [[Paper]](https://arxiv.org/pdf/2407.04513)
+- (arXiv 2024.07) Fisher-aware Quantization for DETR Detectors with Critical-category Objectives, [[Paper]](https://arxiv.org/pdf/2407.03442)
