@@ -25,3 +25,4 @@
 - (arXiv 2024.04) Calibrating Higher-Order Statistics for Few-Shot Class-Incremental Learning with Pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.06622.pdf), [[Code]](https://github.com/dipamgoswami/FSCIL-Calibration)
 - (arXiv 2024.04) Remembering Transformer for Continual Learning, [[Paper]](https://arxiv.org/pdf/2404.07518.pdf)
 - (arXiv 2024.05) Less is more: Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning,  [[Paper]](https://arxiv.org/pdf/2405.15633.pdf), [[Code]](https://github.com/tdemin16/multi-lane)
+- (arXiv 2024.07) PECTP: Parameter-Efficient Cross-Task Prompts for Incremental Vision Transformer, [[Paper]](https://arxiv.org/pdf/2407.03813.pdf), [[Code]](https://github.com/RAIAN08/PECTP)
