@@ -239,3 +239,4 @@
 - (arXiv 2024.06) Learning Visual Prompts for Guiding the Attention of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.03303.pdf)
 - (arXiv 2024.06) DemosaicFormer: Coarse-to-Fine Demosaicing Network for HybridEVS Camera, [[Paper]](https://arxiv.org/pdf/2406.07951.pdf), [[Code]](https://github.com/alanzjl/t3)
 - (arXiv 2024.06) Transferable Tactile Transformers for Representation Learning Across Diverse Sensors and Tasks, [[Paper]](https://arxiv.org/pdf/2406.13640.pdf), [[Code]](https://github.com/QUEAHREN/DemosaicFormer)
+- (arXiv 2024.07) Neural Garment Dynamics via Manifold-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2407.06101.pdf), [[Code]](https://github.com/PeizhuoLi/manifold-aware-transformers/)
