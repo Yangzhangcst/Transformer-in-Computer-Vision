@@ -178,3 +178,4 @@
 - (arXiv 2024.05) DeVOS: Flow-Guided Deformable Transformer for Video Object Segmentation, [[Paper]](https://arxiv.org/pdf/2405.08715.pdf)
 - (arXiv 2024.06) SViTT-Ego: A Sparse Video-Text Transformer for Egocentric Video,  [[Paper]](https://arxiv.org/pdf/2406.09462.pdf)
 - (arXiv 2024.06) Video Frame Interpolation for Polarization via Swin-Transformer,  [[Paper]](https://arxiv.org/pdf/2406.11371.pdf)
+- (arXiv 2024.07) Leveraging Transformers for Weakly Supervised Object Localization in Unconstrained Videos,  [[Paper]](https://arxiv.org/pdf/2407.06018.pdf), [[Code]](https://github.com/shakeebmurtaza/TrCAM/)
