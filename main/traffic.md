@@ -43,4 +43,5 @@
 - (arXiv 2024.04) FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2404.12867.pdf)
 - (arXiv 2024.05) SemanticFormer: Holistic and Semantic Traffic Scene Representation for Trajectory Prediction using Knowledge Graphs, [[Paper]](https://arxiv.org/pdf/2404.19379.pdf)
 - (arXiv 2024.05) Revolutionizing Traffic Sign Recognition: Unveiling the Potential of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.19066.pdf)
+- (arXiv 2024.07) MSTF: Multiscale Transformer for Incomplete Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2407.05671.pdf)
 
