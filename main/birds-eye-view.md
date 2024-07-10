@@ -28,3 +28,4 @@
 - (arXiv 2024.01) WidthFormer: Toward Efficient Transformer-based BEV View Transformation, [[Paper]](https://arxiv.org/pdf/2401.03836.pdf), [[Code]](https://github.com/ChenhongyiYang/WidthFormer)
 - (arXiv 2024.02) OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction, [[Paper]](https://arxiv.org/pdf/2402.18140.pdf)
 - (arXiv 2024.03) CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow,  [[Paper]](https://arxiv.org/pdf/2403.08919.pdf)
+- (arXiv 2024.07) BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space,  [[Paper]](https://arxiv.org/pdf/2407.05679.pdf), [[Code]](https://github.com/zympsyche/BevWorld)
