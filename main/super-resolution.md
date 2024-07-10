@@ -67,3 +67,4 @@
 - (arXiv 2024.05) Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution, [[Paper]](https://arxiv.org/pdf/2405.12202.pdf)
 - (arXiv 2024.06) Geometric Distortion Guided Transformer for Omnidirectional Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2406.10869.pdf)
 - (arXiv 2024.06) IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2406.13815.pdf)
+- (arXiv 2024.07) HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2407.05878.pdf)
