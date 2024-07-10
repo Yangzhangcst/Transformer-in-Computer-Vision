@@ -9,3 +9,4 @@
 - (arXiv 2023.12) DHFormer: A Vision Transformer-Based Attention Module for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2312.09955.pdf)
 - (arXiv 2024.01) WaveletFormerNet: A Transformer-based Wavelet Network for Real-world Non-homogeneous and Dense Fog Removal, [[Paper]](https://arxiv.org/pdf/2401.04550.pdf)
 - (arXiv 2024.07) Vision Transformer with Key-select Routing Attention for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2406.19703.pdf)
+- (arXiv 2024.07) DehazeDCT: Towards Effective Non-Homogeneous Dehazing via Deformable Convolutional Transformer, [[Paper]](https://arxiv.org/pdf/2407.05169.pdf), [[Code]](https://github.com/movingforward100/Dehazing_R)
