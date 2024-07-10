@@ -53,3 +53,4 @@
 - (arXiv 2024.07) LayerShuffle: Enhancing Robustness in Vision Transformers by Randomizing Layer Execution Order, [[Paper]](https://arxiv.org/pdf/2407.04513)
 - (arXiv 2024.07) Fisher-aware Quantization for DETR Detectors with Critical-category Objectives, [[Paper]](https://arxiv.org/pdf/2407.03442)
 - (arXiv 2024.07) PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference, [[Paper]](https://arxiv.org/pdf/2407.05010), [[Code]](https://github.com/ChildTang/PRANCE)
+- (arXiv 2024.07) CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs, [[Paper]](https://arxiv.org/pdf/2407.05266), [[Code]](https://github.com/georgia-tech-synergy-lab/CLAMP-ViT.git)
