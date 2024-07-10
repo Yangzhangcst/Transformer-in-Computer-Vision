@@ -1,4 +1,6 @@
 ## Survey: 
+- (arXiv 2024.07) RNNs, CNNs and Transformers in Human Action Recognition: A Survey and A Hybrid Model. [[Paper]](https://arxiv.org/pdf/2407.06162.pdf)
+
 - (arXiv 2024.04) Comprehensive Survey of Model Compression and Speed up for Vision Transformers. [[Paper]](https://arxiv.org/pdf/2404.10407.pdf)
 
 - (arXiv 2023.12) A Comprehensive Study of Vision Transformers in Image Classification Tasks. [[Paper]](https://arxiv.org/pdf/2312.01232.pdf)
