@@ -578,3 +578,4 @@
 - (arXiv 2024.07) FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification, [[Paper]](https://arxiv.org/pdf/2407.07340)
 - (arXiv 2024.07) Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2407.07514),[[Code]](https://github.com/MI2DataLab/SwinSMT)
 - (arXiv 2024.07) D-MASTER: Mask Annealed Transformer for Unsupervised Domain Adaptation in Breast Cancer Detection from Mammograms, [[Paper]](https://arxiv.org/pdf/2407.06585),[[Code]](https://github.com/Tajamul21/D-MASTER)
+- (arXiv 2024.07) Brain Tumor Segmentation in MRI Images with 3D U-Net and Contextual Transformer, [[Paper]](https://arxiv.org/pdf/2407.08470)
