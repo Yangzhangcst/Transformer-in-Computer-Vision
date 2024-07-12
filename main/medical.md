@@ -575,3 +575,4 @@
 - (arXiv 2024.06) GVT2RPM: An Empirical Study for General Video Transformer Adaptation to Remote Physiological Measurement, [[Paper]](https://arxiv.org/pdf/2406.13136)
 - (arXiv 2024.07) Diffusion Transformer Model With Compact Prior for Low-dose PET Reconstruction, [[Paper]](https://arxiv.org/pdf/2407.00944)
 - (arXiv 2024.07) R-Trans -- A Recurrent Transformer Model for Clinical Feedback in Surgical Skill Assessment, [[Paper]](https://arxiv.org/pdf/2407.05180)
+- (arXiv 2024.07) FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification, [[Paper]](https://arxiv.org/pdf/2407.07340)
