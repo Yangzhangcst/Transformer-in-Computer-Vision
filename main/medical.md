@@ -577,4 +577,4 @@
 - (arXiv 2024.07) R-Trans -- A Recurrent Transformer Model for Clinical Feedback in Surgical Skill Assessment, [[Paper]](https://arxiv.org/pdf/2407.05180)
 - (arXiv 2024.07) FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification, [[Paper]](https://arxiv.org/pdf/2407.07340)
 - (arXiv 2024.07) Swin SMT: Global Sequential Modeling in 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2407.07514),[[Code]](https://github.com/MI2DataLab/SwinSMT)
-- (arXiv 2024.07) D-MASTER: Mask Annealed Transformer for Unsupervised Domain Adaptation in Breast Cancer Detection from Mammograms, [[Paper]](https://arxiv.org/pdf/2407.06585),[[Code]](https://dmaster-iitd.github.io/webpage/)
+- (arXiv 2024.07) D-MASTER: Mask Annealed Transformer for Unsupervised Domain Adaptation in Breast Cancer Detection from Mammograms, [[Paper]](https://arxiv.org/pdf/2407.06585),[[Code]](https://github.com/Tajamul21/D-MASTER)
