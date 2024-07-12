@@ -55,3 +55,4 @@
 - (arXiv 2024.07) PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference, [[Paper]](https://arxiv.org/pdf/2407.05010), [[Code]](https://github.com/ChildTang/PRANCE)
 - (arXiv 2024.07) CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs, [[Paper]](https://arxiv.org/pdf/2407.05266), [[Code]](https://github.com/georgia-tech-synergy-lab/CLAMP-ViT.git)
 - (arXiv 2024.07) Reducing Vision Transformer Latency on Edge Devices via GPU Tail Effect and Training-free Token Pruning, [[Paper]](https://arxiv.org/pdf/2407.05941)
+- (arXiv 2024.07) ERQ: Error Reduction for Post-Training Quantization of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.06794)
