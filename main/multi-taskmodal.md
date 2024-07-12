@@ -215,3 +215,4 @@
 - (arXiv 2024.06) GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2406.01210.pdf), [[Code]](https://github.com/JiaDingCN/GeminiFusion)
 - (arXiv 2024.07) DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution, [[Paper]](https://arxiv.org/pdf/2407.01230.pdf), [[Code]](https://github.com/crispianm/DaBiT)
 - (arXiv 2024.07) Instruct-IPT: All-in-One Image Processing Transformer via Weight Modulation, [[Paper]](https://arxiv.org/pdf/2407.00676.pdf), [[Code]](https://github.com/huawei-noah/Pretrained-IPT)
+- (arXiv 2024.07) CorMulT: A Semi-supervised Modality Correlation-aware Multimodal Transformer for Sentiment Analysis, [[Paper]](https://arxiv.org/pdf/2407.07046.pdf)
