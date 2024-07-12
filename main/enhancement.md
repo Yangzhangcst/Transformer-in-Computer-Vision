@@ -21,3 +21,4 @@
 - (arXiv 2024.03) LoLiSRFlow: Joint Single Image Low-light Enhancement and Super-resolution via Cross-scale Transformer-based Conditional Flow, [[Paper]](https://arxiv.org/pdf/2402.18871.pdf)
 - (arXiv 2024.03) Learning A Physical-aware Diffusion Model Based on Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2403.01497.pdf)
 - (arXiv 2024.07) Image-Conditional Diffusion Transformer for Underwater Image Enhancement, [[Paper]](https://arxiv.org/pdf/2407.05389.pdf)
+- (arXiv 2024.07) CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2407.07056.pdf)
