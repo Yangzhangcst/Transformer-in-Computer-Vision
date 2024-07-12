@@ -566,3 +566,4 @@
 - (arXiv 2024.06) PEANO-ViT: Power-Efficient Approximations of Non-Linearities in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.14854.pdf)
 - (arXiv 2024.06) A Primal-Dual Framework for Transformers and Neural Networks, [[Paper]](https://arxiv.org/pdf/2406.13781.pdf)
 - (arXiv 2024.06) CTRL-F: Pairing Convolution with Transformer for Image Classification via Multi-Level Feature Cross-Attention and Representation Learning Fusion, [[Paper]](https://arxiv.org/pdf/2407.06673.pdf),[[Code]](https://github.com/hosamsherif/CTRL-F)
+- (arXiv 2024.07) MambaVision: A Hybrid Mamba-Transformer Vision Backbone, [[Paper]](https://arxiv.org/pdf/2407.08083v1.pdf),[[Code]](https://github.com/NVlabs/MambaVision)
