@@ -24,3 +24,4 @@
 - (arXiv 2024.04) SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising, [[Paper]](https://arxiv.org/pdf/2404.00349.pdf)
 - (arXiv 2024.04) TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising, [[Paper]](https://arxiv.org/pdf/2404.07846.pdf), [[Code]](https://github.com/nagejacob/TBSN)
 - (arXiv 2024.07) Heterogeneous window transformer for image denoising, [[Paper]](https://arxiv.org/pdf/2407.05709.pdf)
+- (arXiv 2024.07) Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer, [[Paper]](https://arxiv.org/pdf/2407.09094.pdf), [[Code]](https://github.com/YuanfeiHuang/Condformer)
