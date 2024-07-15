@@ -38,3 +38,4 @@
 - (arXiv 2024.06) ExPLoRA: Parameter-Efficient Extended Pre-Training to Adapt Vision Transformers under Domain Shifts, [[Paper]](https://arxiv.org/pdf/2406.10973.pdf)
 - (arXiv 2024.07) Transfer Learning with Self-Supervised Vision Transformers for Snake Identification, [[Paper]](https://arxiv.org/pdf/2407.06178.pdf), [[Code]](https://github.com/dsgt-kaggle-clef/snakeclef-2024)
 - (arXiv 2024.07) Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach, [[Paper]](https://arxiv.org/pdf/2407.06964.pdf)
+- (arXiv 2024.07) Textual Query-Driven Mask Transformer for Domain Generalized Segmentation, [[Paper]](https://arxiv.org/pdf/2407.09033.pdf)
