@@ -581,3 +581,4 @@
 - (arXiv 2024.07) Brain Tumor Segmentation in MRI Images with 3D U-Net and Contextual Transformer, [[Paper]](https://arxiv.org/pdf/2407.08470)
 - (arXiv 2024.07) DIOR-ViT: Differential Ordinal Learning Vision Transformer for Cancer Classification in Pathology Images, [[Paper]](https://arxiv.org/pdf/2407.08503)
 - (arXiv 2024.07) TractGraphFormer: Anatomically Informed Hybrid Graph CNN-Transformer Network for Classification from Diffusion MRI Tractography, [[Paper]](https://arxiv.org/pdf/2407.08883)
+- (arXiv 2024.07) Region Attention Transformer for Medical Image Restoration, [[Paper]](https://arxiv.org/pdf/2407.09268),[[Code]](https://github.com/Yaziwel/Region-Attention-Transformer-for-Medical-Image-Restoration)
