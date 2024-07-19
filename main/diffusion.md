@@ -36,3 +36,4 @@
 - (arXiv 2024.06) Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT, [[Paper]](https://arxiv.org/pdf/2406.18583),[[Code]](https://github.com/Alpha-VLLM/Lumina-T2X)
 - (arXiv 2024.07) FORA: Fast-Forward Caching in Diffusion Transformer Acceleration, [[Paper]](https://arxiv.org/pdf/2407.01425),[[Code]](https://github.com/prathebaselva/FORA)
 - (arXiv 2024.07) VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control, [[Paper]](https://arxiv.org/pdf/2407.12781)
+- (arXiv 2024.07) Scaling Diffusion Transformers to 16 Billion Parameters, [[Paper]](https://arxiv.org/pdf/2407.11633),[[Code]](https://github.com/feizc/DiT-MoE)
