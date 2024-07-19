@@ -180,3 +180,4 @@
 - (arXiv 2024.06) Video Frame Interpolation for Polarization via Swin-Transformer,  [[Paper]](https://arxiv.org/pdf/2406.11371.pdf)
 - (arXiv 2024.07) Leveraging Transformers for Weakly Supervised Object Localization in Unconstrained Videos,  [[Paper]](https://arxiv.org/pdf/2407.06018.pdf), [[Code]](https://github.com/shakeebmurtaza/TrCAM/)
 - (arXiv 2024.07) Pose-guided multi-task video transformer for driver action recognition,  [[Paper]](https://arxiv.org/pdf/2407.13750.pdf)
+- (arXiv 2024.07) Hierarchical Separable Video Transformer for Snapshot Compressive Imaging,  [[Paper]](https://arxiv.org/pdf/2407.11946.pdf), [[Code]](https://github.com/pwangcs/HiSViT)
