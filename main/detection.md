@@ -220,3 +220,4 @@
 - (arXiv 2024.06) OD-DETR: Online Distillation for Stabilizing Training of Detection Transformer, [[Paper]](https://arxiv.org/pdf/2406.05791)
 - (arXiv 2024.06) A DeNoising FPN With Transformer R-CNN for Tiny Object Detection, [[Paper]](https://arxiv.org/pdf/2406.05755), [[Code]](https://github.com/hoiliu-0801/DNTR)
 - (arXiv 2024.06) CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer, [[Paper]](https://arxiv.org/pdf/2406.08152), [[Code]](https://github.com/hlsheng1/CT3D-plusplus)
+- (arXiv 2024.07) Relation DETR: Exploring Explicit Position Relation Prior for Object Detection, [[Paper]](https://arxiv.org/pdf/2407.11699), [[Code]](https://github.com/xiuqhou/Relation-DETR)
