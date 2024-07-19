@@ -136,3 +136,4 @@
 - (arXiv 2024.05) 3D Learnable Supertoken Transformer for LiDAR Point Cloud Scene Segmentation, [[Paper]](https://arxiv.org/pdf/2405.15826.pdf)
 - (arXiv 2024.05) Efficient Point Transformer with Dynamic Token Aggregating for Point Cloud Processing, [[Paper]](https://arxiv.org/pdf/2405.15827.pdf)
 - (arXiv 2024.06) DMF-Net: Image-Guided Point Cloud Completion with Dual-Channel Modality Fusion and Shape-Aware Upsampling Transformer, [[Paper]](https://arxiv.org/pdf/2406.17319.pdf)
+- (arXiv 2024.07) GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2407.13519.pdf), [[Code]](https://github.com/changshuowang/GPSFormer)
