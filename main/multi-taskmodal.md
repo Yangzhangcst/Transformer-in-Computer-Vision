@@ -216,3 +216,4 @@
 - (arXiv 2024.07) DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution, [[Paper]](https://arxiv.org/pdf/2407.01230.pdf), [[Code]](https://github.com/crispianm/DaBiT)
 - (arXiv 2024.07) Instruct-IPT: All-in-One Image Processing Transformer via Weight Modulation, [[Paper]](https://arxiv.org/pdf/2407.00676.pdf), [[Code]](https://github.com/huawei-noah/Pretrained-IPT)
 - (arXiv 2024.07) CorMulT: A Semi-supervised Modality Correlation-aware Multimodal Transformer for Sentiment Analysis, [[Paper]](https://arxiv.org/pdf/2407.07046.pdf)
+- (arXiv 2024.07) A Multimodal Transformer for Live Streaming Highlight Prediction, [[Paper]](https://arxiv.org/pdf/2407.12002.pdf)
