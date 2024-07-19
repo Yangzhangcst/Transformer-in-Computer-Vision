@@ -24,3 +24,4 @@
 - (arXiv 2023.12) GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction, [[Paper]](https://arxiv.org/pdf/2312.07255.pdf)
 - (arXiv 2024.02) m2mKD: Module-to-Module Knowledge Distillation for Modular Transformers, [[Paper]](https://arxiv.org/pdf/2402.16918.pdf), [[Code]](https://github.com/kamanphoebe/m2mKD)
 - (arXiv 2024.04) Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities, [[Paper]](https://arxiv.org/pdf/2404.16456.pdf)
+- (arXiv 2024.07) Towards Optimal Trade-offs in Knowledge Distillation for CNNs and Vision Transformers at the Edge, [[Paper]](https://arxiv.org/pdf/2407.12808.pdf)
