@@ -14,3 +14,4 @@
 - (arXiv 2024.03) ViTGaze: Gaze Following with Interaction Features in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2403.12778.pdf), [[Code]](https://github.com/hustvl/ViTGaze)
 - (arXiv 2024.04) Denoising Distillation Makes Event-Frame Transformers as Accurate Gaze Trackers, [[Paper]](https://arxiv.org/pdf/2404.00548.pdf), [[Code]](https://github.com/jdjdli/Denoise_distill_EF_gazetracker)
 - (arXiv 2024.05) Gaze-DETR: Using Expert Gaze to Reduce False Positives in Vulvovaginal Candidiasis Screening, [[Paper]](https://arxiv.org/pdf/2405.09463.pdf), [[Code]](https://github.com/YanKong0408/Gaze-DETR)
+- (arXiv 2024.07) OAT: Object-Level Attention Transformer for Gaze Scanpath Prediction, [[Paper]](https://arxiv.org/pdf/2407.13335.pdf), [[Code]](https://github.com/HKUST-NISL/oat_eccv24)
