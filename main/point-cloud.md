@@ -138,3 +138,4 @@
 - (arXiv 2024.06) DMF-Net: Image-Guided Point Cloud Completion with Dual-Channel Modality Fusion and Shape-Aware Upsampling Transformer, [[Paper]](https://arxiv.org/pdf/2406.17319.pdf)
 - (arXiv 2024.07) GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2407.13519.pdf), [[Code]](https://github.com/changshuowang/GPSFormer)
 - (arXiv 2024.07) Adapt PointFormer: 3D Point Cloud Analysis via Adapting 2D Visual Transformers, [[Paper]](https://arxiv.org/pdf/2407.13200.pdf), [[Code]](https://github.com/944104439/APF)
+- (arXiv 2024.07) TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds, [[Paper]](https://arxiv.org/pdf/2407.12702.pdf)
