@@ -32,3 +32,4 @@
 - (arXiv 2024.01) PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion, [[Paper]](https://arxiv.org/pdf/2401.13082.pdf)
 - (arXiv 2024.01) Regressing Transformers for Data-efficient Visual Place Recognition, [[Paper]](https://arxiv.org/pdf/2401.16304.pdf)
 - (arXiv 2024.01) A New Method for Vehicle Logo Recognition Based on Swin Transformer, [[Paper]](https://arxiv.org/pdf/2401.15458.pdf)
+- (arXiv 2024.07) Global-Local Similarity for Efficient Fine-Grained Image Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.12891.pdf), [[Code]](https://github.com/arkel23/GLSim)
