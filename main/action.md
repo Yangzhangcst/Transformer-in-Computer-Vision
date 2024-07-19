@@ -124,3 +124,4 @@
 - (arXiv 2024.06) MALT: Multi-scale Action Learning Transformer for Online Action Detection,  [[Paper]](https://arxiv.org/pdf/2405.20892.pdf)
 - (arXiv 2024.06) Feature Fusion for Human Activity Recognition using Parameter-Optimized Multi-Stage Graph Convolutional Network and Transformer Models,  [[Paper]](https://arxiv.org/pdf/2406.16338.pdf)
 - (arXiv 2024.07) Multi-State-Action Tokenisation in Decision Transformers for Multi-Discrete Action Spaces,  [[Paper]](https://arxiv.org/pdf/2407.01310.pdf)
+- (arXiv 2024.07) Dark Transformer: A Video Transformer for Action Recognition in the Dark,  [[Paper]](https://arxiv.org/pdf/2407.12805.pdf)
