@@ -569,3 +569,4 @@
 - (arXiv 2024.07) MambaVision: A Hybrid Mamba-Transformer Vision Backbone, [[Paper]](https://arxiv.org/pdf/2407.08083v1.pdf),[[Code]](https://github.com/NVlabs/MambaVision)
 - (arXiv 2024.07) Global-Local Similarity for Efficient Fine-Grained Image Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.12891.pdf),[[Code]](https://github.com/arkel23/GLSim)
 - (arXiv 2024.07) LookupViT: Compressing visual information to a limited number of tokens, [[Paper]](https://arxiv.org/pdf/2407.12753.pdf)
+- (arXiv 2024.07) PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2407.11306.pdf)
