@@ -40,3 +40,4 @@
 - (arXiv 2024.04) Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches, [[Paper]](https://arxiv.org/pdf/2405.04771.pdf)
 - (arXiv 2024.06) Prototypical Transformer as Unified Motion Learners, [[Paper]](https://arxiv.org/pdf/2406.01559), [[Code]](https://github.com/Alvin0629/ProtoFormer)
 - (arXiv 2024.07) FootBots: A Transformer-based Architecture for Motion Prediction in Soccer, [[Paper]](https://arxiv.org/pdf/2406.19852), [[Code]](https://github.com/Alvin0629/ProtoFormer)
+- (arXiv 2024.07) InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation, [[Paper]](https://arxiv.org/pdf/2407.10061)
