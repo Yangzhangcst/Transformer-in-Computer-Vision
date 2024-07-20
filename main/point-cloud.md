@@ -139,3 +139,4 @@
 - (arXiv 2024.07) GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding, [[Paper]](https://arxiv.org/pdf/2407.13519.pdf), [[Code]](https://github.com/changshuowang/GPSFormer)
 - (arXiv 2024.07) Adapt PointFormer: 3D Point Cloud Analysis via Adapting 2D Visual Transformers, [[Paper]](https://arxiv.org/pdf/2407.13200.pdf), [[Code]](https://github.com/944104439/APF)
 - (arXiv 2024.07) TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds, [[Paper]](https://arxiv.org/pdf/2407.12702.pdf)
+- (arXiv 2024.07) SEED: A Simple and Effective 3D DETR in Point Clouds, [[Paper]](https://arxiv.org/pdf/2407.10749.pdf), [[Code]](https://github.com/happinesslz/SEED)
