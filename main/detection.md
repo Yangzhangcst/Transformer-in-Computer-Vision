@@ -222,3 +222,4 @@
 - (arXiv 2024.06) CT3D++: Improving 3D Object Detection with Keypoint-induced Channel-wise Transformer, [[Paper]](https://arxiv.org/pdf/2406.08152), [[Code]](https://github.com/hlsheng1/CT3D-plusplus)
 - (arXiv 2024.07) Relation DETR: Exploring Explicit Position Relation Prior for Object Detection, [[Paper]](https://arxiv.org/pdf/2407.11699), [[Code]](https://github.com/xiuqhou/Relation-DETR)
 - (arXiv 2024.07) LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction, [[Paper]](https://arxiv.org/pdf/2407.11335)
+- (arXiv 2024.07) OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer, [[Paper]](https://arxiv.org/pdf/2407.10655), [[Code]](https://github.com/xiuqhou/Relation-DETR)
