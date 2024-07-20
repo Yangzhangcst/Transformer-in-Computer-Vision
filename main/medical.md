@@ -582,3 +582,4 @@
 - (arXiv 2024.07) DIOR-ViT: Differential Ordinal Learning Vision Transformer for Cancer Classification in Pathology Images, [[Paper]](https://arxiv.org/pdf/2407.08503)
 - (arXiv 2024.07) TractGraphFormer: Anatomically Informed Hybrid Graph CNN-Transformer Network for Classification from Diffusion MRI Tractography, [[Paper]](https://arxiv.org/pdf/2407.08883)
 - (arXiv 2024.07) Region Attention Transformer for Medical Image Restoration, [[Paper]](https://arxiv.org/pdf/2407.09268),[[Code]](https://github.com/Yaziwel/Region-Attention-Transformer-for-Medical-Image-Restoration)
+- (arXiv 2024.07) Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classificationn, [[Paper]](https://arxiv.org/pdf/2407.11573)
