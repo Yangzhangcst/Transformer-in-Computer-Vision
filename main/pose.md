@@ -114,3 +114,4 @@
 - (arXiv 2024.06) TrafficBots V1.5: Traffic Simulation via Conditional VAEs and Transformers with Relative Pose Encoding, [[Paper]](https://arxiv.org/pdf/2406.10898.pdf), [[Code]](https://github.com/zhejz/TrafficBotsV1.5)
 - (arXiv 2024.07) Graph and Skipped Transformer: Exploiting Spatial and Temporal Modeling Capacities for Efficient 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2407.02990.pdf)
 - (arXiv 2024.07) GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2407.10756.pdf)
+- (arXiv 2024.07) STGFormer: Spatio-Temporal GraphFormer for 3D Human Pose Estimation in Video, [[Paper]](https://arxiv.org/pdf/2407.10099.pdf)
