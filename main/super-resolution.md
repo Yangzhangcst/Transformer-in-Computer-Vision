@@ -68,3 +68,4 @@
 - (arXiv 2024.06) Geometric Distortion Guided Transformer for Omnidirectional Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2406.10869.pdf)
 - (arXiv 2024.06) IG-CFAT: An Improved GAN-Based Framework for Effectively Exploiting Transformers in Real-World Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2406.13815.pdf)
 - (arXiv 2024.07) HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2407.05878.pdf)
+- (arXiv 2024.07) RealViformer: Investigating Attention for Real-World Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2407.13987.pdf),[[Code]](https://github.com/Yuehan717/RealViformer)
