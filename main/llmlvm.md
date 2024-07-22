@@ -40,3 +40,4 @@
 - (arXiv 2024.05) Matryoshka Query Transformer for Large Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2405.19315.pdf), [[Code]](https://github.com/gordonhu608/MQT-LLaVA)
 - (arXiv 2024.07) A Single Transformer for Scalable Vision-Language Modeling, [[Paper]](https://arxiv.org/pdf/2407.06438.pdf), [[Code]](https://github.com/Yangyi-Chen/SOLO)
 - (arXiv 2024.07) X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs, [[Paper]](https://arxiv.org/pdf/2407.13851.pdf)
+- (arXiv 2024.07) EVLM: An Efficient Vision-Language Model for Visual Understanding, [[Paper]](https://arxiv.org/pdf/2407.14177.pdf)
