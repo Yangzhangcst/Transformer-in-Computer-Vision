@@ -45,3 +45,4 @@
 - (arXiv 2024.05) Revolutionizing Traffic Sign Recognition: Unveiling the Potential of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.19066.pdf)
 - (arXiv 2024.07) MSTF: Multiscale Transformer for Incomplete Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2407.05671.pdf)
 - (arXiv 2024.07) Study on Aspect Ratio Variability toward Robustness of Vision Transformer-based Vehicle Re-identification, [[Paper]](https://arxiv.org/pdf/2407.07842.pdf)
+- (arXiv 2024.07) ViT LoS V2X: Vision Transformers for Environment-aware LoS Blockage Prediction for 6G Vehicular Networks, [[Paper]](https://arxiv.org/pdf/2407.15023.pdf)
