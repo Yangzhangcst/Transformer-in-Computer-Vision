@@ -223,3 +223,4 @@
 - (arXiv 2024.07) Relation DETR: Exploring Explicit Position Relation Prior for Object Detection, [[Paper]](https://arxiv.org/pdf/2407.11699), [[Code]](https://github.com/xiuqhou/Relation-DETR)
 - (arXiv 2024.07) LaMI-DETR: Open-Vocabulary Detection with Language Model Instruction, [[Paper]](https://arxiv.org/pdf/2407.11335)
 - (arXiv 2024.07) OVLW-DETR: Open-Vocabulary Light-Weighted Detection Transformer, [[Paper]](https://arxiv.org/pdf/2407.10655), [[Code]](https://github.com/xiuqhou/Relation-DETR)
+- (arXiv 2024.07) PolyR-CNN: R-CNN for end-to-end polygonal building outline extraction, [[Paper]](https://arxiv.org/pdf/2407.14912), [[Code]](https://github.com/HeinzJiao/PolyR-CNN)
