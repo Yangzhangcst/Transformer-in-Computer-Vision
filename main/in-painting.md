@@ -18,3 +18,4 @@
 - (arXiv 2024.03) Towards Online Real-Time Memory-based Video Inpainting Transformers, [[Paper]](https://arxiv.org/pdf/2403.16161.pdf), [[Code]](https://github.com/ChrisChen1023/HINT)
 - (arXiv 2024.04) Raformer: Redundancy-Aware Transformer for Video Wire Inpainting, [[Paper]](https://arxiv.org/pdf/2404.15802.pdf), [[Code]](https://github.com/Suyimu/WRV2)
 - (arXiv 2024.07) Transformer-based Image and Video Inpainting: Current Challenges and Future Directions, [[Paper]](https://arxiv.org/pdf/2407.00226.pdf)
+- (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
