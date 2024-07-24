@@ -23,3 +23,4 @@
 - (arXiv 2023.12) Auto-Prox: Training-Free Vision Transformer Architecture Search via Automatic Proxy Discovery, [[Paper]](https://arxiv.org/pdf/2312.09059.pdf)
 - (arXiv.2024.03) Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression, [[Paper]](https://arxiv.org/pdf/2403.15835.pdf)
 - (arXiv.2024.05) When Training-Free NAS Meets Vision Transformer: A Neural Tangent Kernel Perspective, [[Paper]](https://arxiv.org/pdf/2405.04536.pdf)
+- (arXiv.2024.07) HyTAS: A Hyperspectral Image Transformer Architecture Search Benchmark and Analysis, [[Paper]](https://arxiv.org/pdf/2407.16269.pdf)
