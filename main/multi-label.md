@@ -6,3 +6,4 @@
 - (arXiv 2022.03) Graph Attention Transformer Network for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2203.04049.pdf)
 - (arXiv 2022.03) Incomplete Multi-View Multi-Label Learning via Label-Guided Masked Viewand Category-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2303.07180.pdf)
 - (arXiv 2023.09) Multi-Label Feature Selection Using Adaptive and Transformed Relevance, [[Paper]](https://arxiv.org/pdf/2309.14768.pdf)
+- (arXiv 2024.07) HSVLT: Hierarchical Scale-Aware Vision-Language Transformer for Multi-Label Image Classification, [[Paper]](https://arxiv.org/pdf/2407.16244.pdf)
