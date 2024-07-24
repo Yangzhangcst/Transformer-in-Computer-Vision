@@ -59,3 +59,4 @@
 - (arXiv 2024.07) Self-supervised Vision Transformer are Scalable Generative Models for Domain Generalization, [[Paper]](https://arxiv.org/pdf/2407.02900.pdf), [[Code]](https://github.com/sdoerrich97/vits-are-generative-models)
 - (arXiv 2024.07) Multi-Label Plant Species Classification with Self-Supervised Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.06298.pdf), [[Code]](https://github.com/dsgt-kaggle-clef/plantclef-2024)
 - (arXiv 2024.07) TreeSBA: Tree-Transformer for Self-Supervised Sequential Brick Assembly, [[Paper]](https://arxiv.org/pdf/2407.15648.pdf), [[Code]](https://dreamguo.github.io/projects/TreeSBA/)
+- (arXiv 2024.07) Self-supervised transformer-based pre-training method with General Plant Infection dataset, [[Paper]](https://arxiv.org/pdf/2407.14911.pdf), [[Code]](https://github.com/WASSER2545/GPID-22)
