@@ -140,3 +140,4 @@
 - (arXiv 2024.07) Adapt PointFormer: 3D Point Cloud Analysis via Adapting 2D Visual Transformers, [[Paper]](https://arxiv.org/pdf/2407.13200.pdf), [[Code]](https://github.com/944104439/APF)
 - (arXiv 2024.07) TransCAD: A Hierarchical Transformer for CAD Sequence Inference from Point Clouds, [[Paper]](https://arxiv.org/pdf/2407.12702.pdf)
 - (arXiv 2024.07) SEED: A Simple and Effective 3D DETR in Point Clouds, [[Paper]](https://arxiv.org/pdf/2407.10749.pdf), [[Code]](https://github.com/happinesslz/SEED)
+- (arXiv 2024.07) Point Transformer V3 Extreme: 1st Place Solution for 2024 Waymo Open Dataset Challenge in Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2407.15282.pdf), [[Code]](https://github.com/Pointcept/Pointcept)
