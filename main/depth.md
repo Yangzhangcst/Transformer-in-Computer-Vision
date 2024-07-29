@@ -50,3 +50,4 @@
 - (arXiv.2024.04) SGFormer: Spherical Geometry Transformer for 360 Depth Estimation, [[Paper]](https://arxiv.org/pdf/2404.14979.pdf)
 - (arXiv.2024.06) ToSA: Token Selective Attention for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.08816.pdf)
 - (arXiv.2024.07) Towards Scale-Aware Full Surround Monodepth with Transformers, [[Paper]](https://arxiv.org/pdf/2407.10406.pdf)
+- (arXiv.2024.07) UMono: Physical Model Informed Hybrid CNN-Transformer Framework for Underwater Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2407.17838.pdf)
