@@ -42,3 +42,4 @@
 - (arXiv 2024.04) From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2404.00906.pdf),[[Code]](https://github.com/SHTUPLUS/Pix2Grp_CVPR2024)
 - (arXiv 2024.04) EGTR: Extracting Graph from Transformer for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2404.02072.pdf),[[Code]](https://github.com/naver-ai/egtr)
 - (arXiv 2024.05) Recasting Generic Pretrained Vision Transformers As Object-Centric Scene Encoders For Manipulation Policies, [[Paper]](https://arxiv.org/pdf/2405.15916.pdf),[[Code]](https://sites.google.com/view/robot-soft/)
+- (arXiv 2024.07) BCTR: Bidirectional Conditioning Transformer for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2407.18715.pdf)
