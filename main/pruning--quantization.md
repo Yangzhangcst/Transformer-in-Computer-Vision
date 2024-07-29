@@ -57,3 +57,4 @@
 - (arXiv 2024.07) Reducing Vision Transformer Latency on Edge Devices via GPU Tail Effect and Training-free Token Pruning, [[Paper]](https://arxiv.org/pdf/2407.05941)
 - (arXiv 2024.07) ERQ: Error Reduction for Post-Training Quantization of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.06794)
 - (arXiv 2024.07) AdaLog: Post-Training Quantization for Vision Transformers with Adaptive Logarithm Quantizer, [[Paper]](https://arxiv.org/pdf/2407.12951), [[Code]](https://github.com/GoatWu/AdaLog)
+- (arXiv 2024.07) Mixed Non-linear Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.18437), [[Code]](https://gitlab.com/ones-ai/mixed-non-linear-quantization)
