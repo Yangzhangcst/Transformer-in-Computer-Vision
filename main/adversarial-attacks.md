@@ -26,3 +26,4 @@
 - (arXiv 2024.05) Not All Prompts Are Secure: A Switchable Backdoor Attack Against Pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2405.10612.pdf),[[Code]](https://github.com/20000yshust/SWARM)
 - (arXiv 2024.07) Query-Efficient Hard-Label Black-Box Attack against Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.00389.pdf)
 - (arXiv 2024.07) TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers, [[Paper]](https://arxiv.org/pdf/2407.03946.pdf)
+- (arXiv 2024.07) S-E Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks, [[Paper]](https://arxiv.org/pdf/2407.17587.pdf)
