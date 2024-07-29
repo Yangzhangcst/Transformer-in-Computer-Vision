@@ -585,3 +585,4 @@
 - (arXiv 2024.07) Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classificationn, [[Paper]](https://arxiv.org/pdf/2407.11573)
 - (arXiv 2024.07) Enhancing Skin Disease Classification Leveraging Transformer-based Deep Learning Architectures and Explainable AI, [[Paper]](https://arxiv.org/pdf/2407.14757)
 - (arXiv 2024.07) MuST: Multi-Scale Transformers for Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2407.17361)
+- (arXiv 2024.07) CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2407.18070)
