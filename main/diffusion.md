@@ -38,3 +38,4 @@
 - (arXiv 2024.07) VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control, [[Paper]](https://arxiv.org/pdf/2407.12781)
 - (arXiv 2024.07) Scaling Diffusion Transformers to 16 Billion Parameters, [[Paper]](https://arxiv.org/pdf/2407.11633),[[Code]](https://github.com/feizc/DiT-MoE)
 - (arXiv 2024.07) DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2407.15661),[[Code]](https://github.com/TtuHamg/DriveDiTFit)
+- (arXiv 2024.07) Diffusion Feedback Helps CLIP See Better, [[Paper]](https://arxiv.org/pdf/2407.20171),[[Code]](https://github.com/baaivision/DIVA)
