@@ -573,3 +573,4 @@
 - (arXiv 2024.07) DuoFormer: Leveraging Hierarchical Visual Representations by Local and Global Attention, [[Paper]](https://arxiv.org/pdf/2407.13920.pdf)
 - (arXiv 2024.07) Towards Robust Vision Transformer via Masked Adaptive Ensemble, [[Paper]](https://arxiv.org/pdf/2407.15385.pdf)
 - (arXiv 2024.07) Efficient Visual Transformer by Learnable Token Merging, [[Paper]](https://arxiv.org/pdf/2407.15219.pdf),[[Code]](https://github.com/Statistical-Deep-Learning/LTM)
+- (arXiv 2024.07) Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets, [[Paper]](https://arxiv.org/pdf/2407.19394.pdf),[[Code]](https://github.com/ZTX-100/Efficient_ViT_with_DW)
