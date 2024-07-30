@@ -100,4 +100,4 @@
 - (arXiv 2024.04) Cross-Task Multi-Branch Vision Transformer for Facial Expression and Mask Wearing Classification, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2404/2404.14606.pdf)
 - (arXiv 2024.06) Liveness Detection in Computer Vision: Transformer-based Self-Supervised Learning for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2406.13860.pdf)
 - (arXiv 2024.07) Batch Transformer: Look for Attention in Batch, [[Paper]](https://arxiv.org/pdf/2407.04218.pdf)
-
+- (arXiv 2024.07) Twins-PainViT: Towards a Modality-Agnostic Vision Transformer Framework for Multimodal Automatic Pain Assessment using Facial Videos and fNIRS, [[Paper]](https://arxiv.org/pdf/2407.19809.pdf)
