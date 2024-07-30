@@ -590,3 +590,4 @@
 - (arXiv 2024.07) Channel Boosted CNN-Transformer-based Multi-Level and MultiScale Nuclei Segmentation, [[Paper]](https://arxiv.org/pdf/2407.19186)
 - (arXiv 2024.07) AResNet-ViT: A Hybrid CNN-Transformer Network for Benign and Malignant Breast Nodule Classification in Ultrasound Images, [[Paper]](https://arxiv.org/pdf/2407.19316)
 - (arXiv 2024.07) Multi-modal Imaging Genomics Transformer: Attentive Integration of Imaging with Genomic Biomarkers for Schizophrenia Classification, [[Paper]](https://arxiv.org/pdf/2407.19385)
+- (arXiv 2024.07) Combined CNN and ViT features off-the-shelf: Another astounding baseline for recognition, [[Paper]](https://arxiv.org/pdf/2407.19472)
