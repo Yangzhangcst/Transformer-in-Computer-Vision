@@ -242,3 +242,4 @@
 - (arXiv 2024.07) Neural Garment Dynamics via Manifold-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2407.06101.pdf), [[Code]](https://github.com/PeizhuoLi/manifold-aware-transformers/)
 - (arXiv 2024.07) A Transformer-Based Multi-Stream Approach for Isolated Iranian Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2407.09544.pdf)
 - (arXiv 2024.07) Pathformer3D: A 3D Scanpath Transformer for 360° Images, [[Paper]](https://arxiv.org/pdf/2407.10563.pdf), [[Code]](https://github.com/lsztzp/Pathformer3D)
+- (arXiv 2024.07) DeTurb: Atmospheric Turbulence Mitigation with Deformable 3D Convolutions and 3D Swin Transformers, [[Paper]](https://arxiv.org/pdf/2407.20855.pdf)
