@@ -101,3 +101,4 @@
 - (arXiv 2024.06) Liveness Detection in Computer Vision: Transformer-based Self-Supervised Learning for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2406.13860.pdf)
 - (arXiv 2024.07) Batch Transformer: Look for Attention in Batch, [[Paper]](https://arxiv.org/pdf/2407.04218.pdf)
 - (arXiv 2024.07) Twins-PainViT: Towards a Modality-Agnostic Vision Transformer Framework for Multimodal Automatic Pain Assessment using Facial Videos and fNIRS, [[Paper]](https://arxiv.org/pdf/2407.19809.pdf)
+- (arXiv 2024.07) SpotFormer: Multi-Scale Spatio-Temporal Transformer for Facial Expression Spotting, [[Paper]](https://arxiv.org/pdf/2407.20799.pdf)
