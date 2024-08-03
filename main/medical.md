@@ -592,3 +592,5 @@
 - (arXiv 2024.07) Multi-modal Imaging Genomics Transformer: Attentive Integration of Imaging with Genomic Biomarkers for Schizophrenia Classification, [[Paper]](https://arxiv.org/pdf/2407.19385)
 - (arXiv 2024.07) Combined CNN and ViT features off-the-shelf: Another astounding baseline for recognition, [[Paper]](https://arxiv.org/pdf/2407.19472)
 - (arXiv 2024.08) SegStitch: Multidimensional Transformer for Robust and Efficient Medical Imaging Segmentation, [[Paper]](https://arxiv.org/pdf/2408.00496),[[Code]](https://github.com/goblin327/SegStitch)
+- (arXiv 2024.08) Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2408.00347)
+- (arXiv 2024.08) Translating Imaging to Genomics: Leveraging Transformers for Predictive Modeling, [[Paper]](https://arxiv.org/pdf/2408.00311)
