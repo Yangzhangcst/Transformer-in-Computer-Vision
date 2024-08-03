@@ -127,3 +127,4 @@
 - (arXiv 2024.07) Dark Transformer: A Video Transformer for Action Recognition in the Dark,  [[Paper]](https://arxiv.org/pdf/2407.12805.pdf)
 - (arXiv 2024.07) Frequency Guidance Matters: Skeletal Action Recognition by Frequency-Aware Mixed Transformer,  [[Paper]](https://arxiv.org/pdf/2407.12322.pdf)
 - (arXiv 2024.07) LORTSAR: Low-Rank Transformer for Skeleton-based Action Recognition,  [[Paper]](https://arxiv.org/pdf/2407.14655.pdf)
+- (arXiv 2024.08) MPT-PAR:Mix-Parameters Transformer for Panoramic Activity Recognition,  [[Paper]](https://arxiv.org/pdf/2408.00420.pdf)
