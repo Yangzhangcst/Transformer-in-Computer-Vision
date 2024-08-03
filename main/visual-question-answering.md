@@ -22,3 +22,4 @@
 - (arXiv 2023.07) Discovering Spatio-Temporal Rationales for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2307.12058.pdf), [[Code]](https://github.com/yl3800/TranSTR)
 - (arXiv 2023.07) BARTPhoBEiT: Pre-trained Sequence-to-Sequence and Image Transformers Models for Vietnamese Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2307.15335.pdf)
 - (arXiv 2023.08) Redundancy-aware Transformer for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2308.03267.pdf)
+- (arXiv 2023.08) Advancing Vietnamese Visual Question Answering with Transformer and Convolutional Integration, [[Paper]](https://arxiv.org/pdf/2407.21229.pdf), [[Code]](https://github.com/nngocson2002/ViVQA)
