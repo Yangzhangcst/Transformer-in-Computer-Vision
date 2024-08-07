@@ -129,3 +129,4 @@
 - (arXiv 2024.07) LORTSAR: Low-Rank Transformer for Skeleton-based Action Recognition,  [[Paper]](https://arxiv.org/pdf/2407.14655.pdf)
 - (arXiv 2024.08) MPT-PAR:Mix-Parameters Transformer for Panoramic Activity Recognition,  [[Paper]](https://arxiv.org/pdf/2408.00420.pdf)
 - (arXiv 2024.08) MultiFuser: Multimodal Fusion Transformer for Enhanced Driver Action Recognition,  [[Paper]](https://arxiv.org/pdf/2408.01766.pdf)
+- (arXiv 2024.08) Online Temporal Action Localization with Memory-Augmented Transformer,  [[Paper]](https://arxiv.org/pdf/2408.02957.pdf)
