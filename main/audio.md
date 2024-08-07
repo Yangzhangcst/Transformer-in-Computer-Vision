@@ -14,3 +14,4 @@
 - (arXiv 2024.06) Taming Data and Transformers for Audio Generation, [[Paper]](https://arxiv.org/pdf/2406.19388.pdf), [[Code]](https://snap-research.github.io/GenAU/）
 - (arXiv 2024.06) Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity, [[Paper]](https://arxiv.org/pdf/2407.10387.pdf), [[Code]](https://snap-research.github.io/GenAU/）
 - (arXiv 2024.07) Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention, [[Paper]](https://arxiv.org/pdf/2407.18552.pdf)
+- (arXiv 2024.08) AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation, [[Paper]](https://arxiv.org/pdf/2408.01708.pdf)
