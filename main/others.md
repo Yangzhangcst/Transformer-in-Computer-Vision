@@ -244,3 +244,5 @@
 - (arXiv 2024.07) Pathformer3D: A 3D Scanpath Transformer for 360° Images, [[Paper]](https://arxiv.org/pdf/2407.10563.pdf), [[Code]](https://github.com/lsztzp/Pathformer3D)
 - (arXiv 2024.07) DeTurb: Atmospheric Turbulence Mitigation with Deformable 3D Convolutions and 3D Swin Transformers, [[Paper]](https://arxiv.org/pdf/2407.20855.pdf)
 - (arXiv 2024.08) Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer, [[Paper]](https://arxiv.org/pdf/2408.00749.pdf)
+- (arXiv 2024.08) FovEx: Human-inspired Explanations for Vision Transformers and Convolutional Neural Networks, [[Paper]](https://arxiv.org/pdf/2408.02123.pdf)
+- (arXiv 2024.08) Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix, [[Paper]](https://arxiv.org/pdf/2408.01040.pdf)
