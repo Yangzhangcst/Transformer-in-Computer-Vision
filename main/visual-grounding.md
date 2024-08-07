@@ -25,3 +25,4 @@
 - (arXiv 2023.12) GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection, [[Paper]](https://arxiv.org/pdf/2312.15043.pdf), [[Code]](https://github.com/om-ai-lab/GroundVLP)
 - (arXiv 2024.01) Video-GroundingDINO: Towards Open-Vocabulary Spatio-Temporal Video Grounding, [[Paper]](https://arxiv.org/pdf/2401.00901.pdf), [[Code]](https://github.com/TalalWasim/Video-GroundingDINO)
 - (arXiv 2024.03) MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding, [[Paper]](https://arxiv.org/pdf/2403.03077.pdf), [[Code]](https://github.com/birdy666/MiKASA-3DVG)
+- (arXiv 2024.08) An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding, [[Paper]](https://arxiv.org/pdf/2408.01120.pdf), [[Code]](https://github.com/chenwei746/EEVG)
