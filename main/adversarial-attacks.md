@@ -27,3 +27,4 @@
 - (arXiv 2024.07) Query-Efficient Hard-Label Black-Box Attack against Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.00389.pdf)
 - (arXiv 2024.07) TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers, [[Paper]](https://arxiv.org/pdf/2407.03946.pdf)
 - (arXiv 2024.07) S-E Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks, [[Paper]](https://arxiv.org/pdf/2407.17587.pdf)
+- (arXiv 2024.08) Downstream Transfer Attack: Adversarial Attacks on Downstream Models with Pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2408.01705.pdf)
