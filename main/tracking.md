@@ -101,3 +101,4 @@
 - (arXiv 2024.06) Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking, [[Paper]](https://arxiv.org/pdf/2406.08037.pdf), [[Code]](https://github.com/1HykhqV3rU/ABTrack)
 - (arXiv 2024.07) eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking, [[Paper]](https://arxiv.org/pdf/2406.20024.pdf), [[Code]](https://vlislab22.github.io/eMoE-Tracker/)
 - (arXiv 2024.07) EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2407.21311.pdf), [[Code]](https://github.com/A-Abedi/EUDA)
+- (arXiv 2024.08) Cross-modulated Attention Transformer for RGBT Tracking, [[Paper]](https://arxiv.org/pdf/2408.02222.pdf)
