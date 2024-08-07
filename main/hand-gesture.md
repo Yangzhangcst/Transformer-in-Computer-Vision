@@ -6,3 +6,4 @@
 - (arXiv 2023.11) Improving Hand Recognition in Uncontrolled and Uncooperative Environments using Multiple Spatial Transformers and Loss Functions, [[Paper]](https://arxiv.org/pdf/2311.05383.pdf)
 - (arXiv 2023.12) Reconstructing Hands in 3D with Transformers, [[Paper]](https://arxiv.org/pdf/2312.05251.pdf), [[Code]](https://geopavlakos.github.io/hamer/)
 - (arXiv 2024.05) GestFormer: Multiscale Wavelet Pooling Transformer Network for Dynamic Hand Gesture Recognition, [[Paper]](https://arxiv.org/pdf/2405.11180.pdf), [[Code]](https://github.com/mallikagarg/GestFormer)
+- (arXiv 2024.08) MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation, [[Paper]](https://arxiv.org/pdf/2408.03312.pdf), [[Code]](https://xiaofenmao.github.io/web-project/MDT-A2G/)
