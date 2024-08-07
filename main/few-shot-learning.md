@@ -34,3 +34,4 @@
 - (arXiv 2024.03) Cross-domain Multi-modal Few-shot Object Detection via Rich Text, [[Paper]](https://arxiv.org/pdf/2403.16188.pdf),[[Code]](https://github.com/zshanggu/CDMM)
 - (arXiv 2024.04) Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.09326.pdf)
 - (arXiv 2024.05) Intra-task Mutual Attention based Vision Transformer for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2405.03109.pdf)
+- (arXiv 2024.08) Siamese Transformer Networks for Few-shot Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01427.pdf)
