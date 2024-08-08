@@ -38,3 +38,4 @@
 - (arXiv 2024.03) Content-aware Masked Image Modeling Transformer for Stereo Image Compression, [[Paper]](https://arxiv.org/pdf/2403.08505.pdf)
 - (arXiv 2024.03) Dense Vision Transformer Compression with Few Samples, [[Paper]](https://arxiv.org/pdf/2403.18708.pdf)
 - (arXiv 2024.06) ReduceFormer: Attention with Tensor Reduction by Summation, [[Paper]](https://arxiv.org/pdf/2406.07488.pdf)
+- (arXiv 2024.08) Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2408.03842.pdf)
