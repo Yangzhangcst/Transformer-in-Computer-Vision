@@ -594,3 +594,4 @@
 - (arXiv 2024.08) SegStitch: Multidimensional Transformer for Robust and Efficient Medical Imaging Segmentation, [[Paper]](https://arxiv.org/pdf/2408.00496),[[Code]](https://github.com/goblin327/SegStitch)
 - (arXiv 2024.08) Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2408.00347)
 - (arXiv 2024.08) Translating Imaging to Genomics: Leveraging Transformers for Predictive Modeling, [[Paper]](https://arxiv.org/pdf/2408.00311)
+- (arXiv 2024.08) Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach, [[Paper]](https://arxiv.org/pdf/2408.04290),[[Code]](https://github.com/amirrezafateh/Multi-Scale-Transformer-Pneumonia)
