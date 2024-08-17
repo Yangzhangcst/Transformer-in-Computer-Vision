@@ -103,3 +103,4 @@
 - (arXiv 2024.07) Twins-PainViT: Towards a Modality-Agnostic Vision Transformer Framework for Multimodal Automatic Pain Assessment using Facial Videos and fNIRS, [[Paper]](https://arxiv.org/pdf/2407.19809.pdf)
 - (arXiv 2024.07) SpotFormer: Multi-Scale Spatio-Temporal Transformer for Facial Expression Spotting, [[Paper]](https://arxiv.org/pdf/2407.20799.pdf)
 - (arXiv 2024.08) GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2408.01826.pdf)
+- (arXiv 2024.08) G2V2former: Graph Guided Video Vision Transformer for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2408.07675.pdf)
