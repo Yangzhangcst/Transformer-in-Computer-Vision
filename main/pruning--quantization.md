@@ -60,3 +60,4 @@
 - (arXiv 2024.07) Mixed Non-linear Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.18437), [[Code]](https://gitlab.com/ones-ai/mixed-non-linear-quantization)
 - (arXiv 2024.07) MimiQ: Low-Bit Data-Free Quantization of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.20021)
 - (arXiv 2024.08) DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2408.03291)
+- (arXiv 2024.08) Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2408.08736)
