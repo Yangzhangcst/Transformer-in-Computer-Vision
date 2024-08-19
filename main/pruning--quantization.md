@@ -61,3 +61,4 @@
 - (arXiv 2024.07) MimiQ: Low-Bit Data-Free Quantization of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.20021)
 - (arXiv 2024.08) DopQ-ViT: Towards Distribution-Friendly and Outlier-Aware Post-Training Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2408.03291)
 - (arXiv 2024.08) Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2408.08736)
+- (arXiv 2024.08) PQV-Mobile: A Combined Pruning and Quantization Toolkit to Optimize Vision Transformers for Mobile Applications, [[Paper]](https://arxiv.org/pdf/2408.08437), [[Code]](https://github.com/kshitij11/PQV-Mobile)
