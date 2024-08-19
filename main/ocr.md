@@ -66,3 +66,4 @@
 - (arXiv 2024.03) LOCR: Location-Guided Transformer for Optical Character Recognition, [[Paper]](https://arxiv.org/pdf/2403.02127.pdf)
 - (arXiv 2024.07) Mind the Gap Analyzing Lacunae with Transformer-Based Transcription, [[Paper]](https://arxiv.org/pdf/2407.00250.pdf)
 - (arXiv 2024.07) PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer, [[Paper]](https://arxiv.org/pdf/2407.07764.pdf),[[Code]](https://github.com/SJTU-DeepVisionLab/PosFormer)
+- (arXiv 2024.08) TAMER: Tree-Aware Transformer for Handwritten Mathematical Expression Recognition, [[Paper]](https://arxiv.org/pdf/2408.08578.pdf)
