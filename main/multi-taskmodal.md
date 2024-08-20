@@ -218,3 +218,4 @@
 - (arXiv 2024.07) CorMulT: A Semi-supervised Modality Correlation-aware Multimodal Transformer for Sentiment Analysis, [[Paper]](https://arxiv.org/pdf/2407.07046.pdf)
 - (arXiv 2024.07) A Multimodal Transformer for Live Streaming Highlight Prediction, [[Paper]](https://arxiv.org/pdf/2407.12002.pdf)
 - (arXiv 2024.07) Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification, [[Paper]](https://arxiv.org/pdf/2407.10105.pdf)
+- (arXiv 2024.08) Algorithm Research of ELMo Word Embedding and Deep Learning Multimodal Transformer in Image Description, [[Paper]](https://arxiv.org/pdf/2408.06357)
