@@ -576,3 +576,4 @@
 - (arXiv 2024.07) Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets, [[Paper]](https://arxiv.org/pdf/2407.19394.pdf),[[Code]](https://github.com/ZTX-100/Efficient_ViT_with_DW)
 - (arXiv 2024.08) CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications, [[Paper]](https://arxiv.org/pdf/2407.03703.pdf),[[Code]](https://github.com/Tianfang-Zhang/CAS-ViT)
 - (arXiv 2024.08) A Spitting Image: Modular Superpixel Tokenization in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2408.07680.pdf),[[Code]](https://github.com/dsb-ifi/SPiT)
+- (arXiv 2024.08) Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning, [[Paper]](https://arxiv.org/pdf/2408.06798.pdf),[[Code]](https://github.com/JieShibo/ToCom)
