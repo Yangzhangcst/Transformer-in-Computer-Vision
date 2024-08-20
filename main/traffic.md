@@ -46,3 +46,4 @@
 - (arXiv 2024.07) MSTF: Multiscale Transformer for Incomplete Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2407.05671.pdf)
 - (arXiv 2024.07) Study on Aspect Ratio Variability toward Robustness of Vision Transformer-based Vehicle Re-identification, [[Paper]](https://arxiv.org/pdf/2407.07842.pdf)
 - (arXiv 2024.07) ViT LoS V2X: Vision Transformers for Environment-aware LoS Blockage Prediction for 6G Vehicular Networks, [[Paper]](https://arxiv.org/pdf/2407.15023.pdf)
+- (arXiv 2024.08) FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2408.06832.pdf)
