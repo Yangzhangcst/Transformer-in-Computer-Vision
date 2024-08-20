@@ -182,3 +182,4 @@
 - (arXiv 2024.07) Pose-guided multi-task video transformer for driver action recognition,  [[Paper]](https://arxiv.org/pdf/2407.13750.pdf)
 - (arXiv 2024.07) Hierarchical Separable Video Transformer for Snapshot Compressive Imaging,  [[Paper]](https://arxiv.org/pdf/2407.11946.pdf), [[Code]](https://github.com/pwangcs/HiSViT)
 - (arXiv 2024.08) GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers,  [[Paper]](https://arxiv.org/pdf/2408.02840.pdf), [[Code]](https://github.com/manupillai308/GAReT)
+- (arXiv 2024.08) Dynamic and Compressive Adaptation of Transformers From Images to Videos,  [[Paper]](https://arxiv.org/pdf/2408.06840.pdf)
