@@ -18,3 +18,4 @@
 - (arXiv 2024.02) Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis, [[Paper]](https://arxiv.org/pdf/2402.14797.pdf),[[Code]](https://snap-research.github.io/snapvideo/)
 - (arXiv 2024.03) PixArt-危: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2403.04692.pdf),[[Code]](https://pixart-alpha.github.io/PixArt-sigma-project/)
 - (arXiv 2024.03) BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis, [[Paper]](https://arxiv.org/pdf/2403.11273.pdf),[[Code]](https://vlislab22.github.io/BrightDreamer/)
+- (arXiv 2024.08) CogVideoX: Text-to-Video Diffusion Models with An Expert Transformers, [[Paper]](https://arxiv.org/pdf/2408.06072.pdf),[[Code]](https://github.com/THUDM/CogVideo)
