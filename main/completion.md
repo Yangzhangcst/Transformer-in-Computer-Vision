@@ -9,3 +9,4 @@
 - (arXiv 2024.01) CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers, [[Paper]](https://arxiv.org/pdf/2401.01552.pdf),[[Code]](https://github.com/EasyRy/CRA-PCN)
 - (arXiv 2024.04) Transformer based Pluralistic Image Completion with Reduced Information Loss, [[Paper]](https://arxiv.org/pdf/2404.00513.pdf),[[Code]](https://github.com/liuqk3/PUT)
 - (arXiv 2024.05) Context and Geometry Aware Voxel Transformer for Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2405.13675.pdf),[[Code]](https://github.com/pkqbajng/CGFormer)
+- (arXiv 2024.06) GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer, [[Paper]](https://arxiv.org/pdf/2406.06596.pdf),[[Code]](https://github.com/Jinpeng-Yu/GeoFormer)
