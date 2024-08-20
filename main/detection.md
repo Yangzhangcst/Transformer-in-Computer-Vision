@@ -227,3 +227,4 @@
 - (arXiv 2024.07) RT-DETRv2: Improved Baseline with Bag-of-Freebies for Real-Time Detection Transformer, [[Paper]](https://arxiv.org/pdf/2407.17140), [[Code]](https://github.com/lyuwenyu/RT-DETR)
 - (arXiv 2024.07) Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images, [[Paper]](https://arxiv.org/pdf/2407.19696), [[Code]](https://github.com/duzw9311/CFPT)
 - (arXiv 2024.08) Spatial Transformer Network YOLO Model for Agricultural Object Detection, [[Paper]](https://arxiv.org/pdf/2407.21652), [[Code]](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO)
+- (arXiv 2024.08) DPDETR: Decoupled Position Detection Transformer for Infrared-Visible Object Detection, [[Paper]](https://arxiv.org/pdf/2408.06123), [[Code]](https://github.com/gjj45/DPDETR)
