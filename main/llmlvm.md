@@ -42,3 +42,4 @@
 - (arXiv 2024.07) X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs, [[Paper]](https://arxiv.org/pdf/2407.13851.pdf)
 - (arXiv 2024.07) EVLM: An Efficient Vision-Language Model for Visual Understanding, [[Paper]](https://arxiv.org/pdf/2407.14177.pdf)
 - (arXiv 2024.07) Hierarchical Generation for Coherent Long Visual Sequences, [[Paper]](https://arxiv.org/pdf/2407.16655.pdf), [[Code]](https://aim-uofa.github.io/MovieDreamer/)
+- (arXiv 2024.08) ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation Using Large Language Models and Transformers, [[Paper]](https://arxiv.org/pdf/2408.0640.pdf)
