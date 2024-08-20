@@ -130,3 +130,4 @@
 - (arXiv 2024.08) MPT-PAR:Mix-Parameters Transformer for Panoramic Activity Recognition,  [[Paper]](https://arxiv.org/pdf/2408.00420.pdf)
 - (arXiv 2024.08) MultiFuser: Multimodal Fusion Transformer for Enhanced Driver Action Recognition,  [[Paper]](https://arxiv.org/pdf/2408.01766.pdf)
 - (arXiv 2024.08) Online Temporal Action Localization with Memory-Augmented Transformer,  [[Paper]](https://arxiv.org/pdf/2408.02957.pdf),[[Code]](https://github.com/skhcjh231/MATR_codebase)
+- (arXiv 2024.08) HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization,  [[Paper]](https://arxiv.org/pdf/2408.06437.pdf),[[Code]](https://github.com/sakibreza/ECCV24-HAT/)
