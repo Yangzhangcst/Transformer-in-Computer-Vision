@@ -26,3 +26,4 @@
 - (arXiv 2024.04) Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities, [[Paper]](https://arxiv.org/pdf/2404.16456.pdf)
 - (arXiv 2024.07) Towards Optimal Trade-offs in Knowledge Distillation for CNNs and Vision Transformers at the Edge, [[Paper]](https://arxiv.org/pdf/2407.12808.pdf)
 - (arXiv 2024.07) Continual Distillation Learning, [[Paper]](https://arxiv.org/pdf/2407.13911v1.pdf), [[Code]](https://github.com/IRVLUTD/CDL)
+- (arXiv 2024.08) Optimizing Vision Transformers with Data-Free Knowledge Transfer, [[Paper]](https://arxiv.org/pdf/2408.05952.pdf)
