@@ -143,3 +143,4 @@
 - (arXiv 2024.07) Point Transformer V3 Extreme: 1st Place Solution for 2024 Waymo Open Dataset Challenge in Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2407.15282.pdf), [[Code]](https://github.com/Pointcept/Pointcept)
 - (arXiv 2024.07) Boosting Cross-Domain Point Classification via Distilling Relational Priors from 2D Transformers, [[Paper]](https://arxiv.org/pdf/2407.18534.pdf), [[Code]](https://github.com/zou-longkun/RPD)
 - (arXiv 2024.07) Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer, [[Paper]](https://arxiv.org/pdf/2407.19628.pdf), [[Code]](https://github.com/wuyang98/Text2LiDAR)
+- (arXiv 2024.08) Multi-view Hand Reconstruction with a Point-Embedded Transformer, [[Paper]](https://arxiv.org/pdf/2408.10581.pdf), [[Code]](https://github.com/JubSteven/POEM-v2)
