@@ -19,3 +19,4 @@
 - (arXiv 2024.05) Mesh Denoising Transformer, [[Paper]](https://arxiv.org/pdf/2405.06536v1.pdf)
 - (arXiv 2024.06) MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2406.10163.pdf), [[Code]](https://github.com/buaacyw/MeshAnything)
 - (arXiv 2024.07) STMR: Spiral Transformer for Hand Mesh Reconstruction, [[Paper]](https://arxiv.org/pdf/2407.05967.pdf), [[Code]](https://github.com/SmallXieGithub/STMR)
+- (arXiv 2024.08) MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model, [[Paper]](https://arxiv.org/pdf/2408.10198.pdf), [[Code]](https://meshformer3d.github.io/)
