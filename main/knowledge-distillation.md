@@ -27,3 +27,4 @@
 - (arXiv 2024.07) Towards Optimal Trade-offs in Knowledge Distillation for CNNs and Vision Transformers at the Edge, [[Paper]](https://arxiv.org/pdf/2407.12808.pdf)
 - (arXiv 2024.07) Continual Distillation Learning, [[Paper]](https://arxiv.org/pdf/2407.13911v1.pdf), [[Code]](https://github.com/IRVLUTD/CDL)
 - (arXiv 2024.08) Optimizing Vision Transformers with Data-Free Knowledge Transfer, [[Paper]](https://arxiv.org/pdf/2408.05952.pdf)
+- (arXiv 2024.08) Adaptive Knowledge Distillation for Classification of Hand Images using Explainable Vision Transformers, [[Paper]](https://arxiv.org/pdf/2408.10503.pdf)
