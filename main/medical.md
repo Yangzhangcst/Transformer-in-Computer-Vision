@@ -599,3 +599,4 @@
 - (arXiv 2024.08) HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.11289),[[Code]](https://github.com/simzhangbest/HMT-Unet)
 - (arXiv 2024.08) TESL-Net: A Transformer-Enhanced CNN for Accurate Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2408.09687)
 - (arXiv 2024.08) Classification of Endoscopy and Video Capsule Images using CNN-Transformer Model, [[Paper]](https://arxiv.org/pdf/2408.10733)
+- (arXiv 2024.08) OU-CoViT: Copula-Enhanced Bi-Channel Multi-Task Vision Transformers with Dual Adaptation for OU-UWF Images, [[Paper]](https://arxiv.org/pdf/2408.09395)
