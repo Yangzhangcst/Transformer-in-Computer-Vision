@@ -598,3 +598,4 @@
 - (arXiv 2024.08) Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2408.03867),[[Code]](https://github.com/isyangshu/Surgformer)
 - (arXiv 2024.08) HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.11289),[[Code]](https://github.com/simzhangbest/HMT-Unet)
 - (arXiv 2024.08) TESL-Net: A Transformer-Enhanced CNN for Accurate Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2408.09687)
+- (arXiv 2024.08) Classification of Endoscopy and Video Capsule Images using CNN-Transformer Model, [[Paper]](https://arxiv.org/pdf/2408.10733)
