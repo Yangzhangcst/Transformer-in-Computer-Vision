@@ -220,3 +220,4 @@
 - (arXiv 2024.07) Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification, [[Paper]](https://arxiv.org/pdf/2407.10105.pdf)
 - (arXiv 2024.08) Algorithm Research of ELMo Word Embedding and Deep Learning Multimodal Transformer in Image Description, [[Paper]](https://arxiv.org/pdf/2408.06357)
 - (arXiv 2024.08) Show-o: One Single Transformer to Unify Multimodal Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2408.12528), [[Code]](https://github.com/showlab/Show-o)
+- (arXiv 2024.08) Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers, [[Paper]](https://arxiv.org/pdf/2408.12575)
