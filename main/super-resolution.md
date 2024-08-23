@@ -71,3 +71,4 @@
 - (arXiv 2024.07) RealViformer: Investigating Attention for Real-World Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2407.13987.pdf),[[Code]](https://github.com/Yuehan717/RealViformer)
 - (arXiv 2024.07) Efficient Multi-disparity Transformer for Light Field Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2407.15329.pdf)
 - (arXiv 2024.08) GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2408.07484.pdf),[[Code]](https://github.com/sisrformer/GRFormer)
+- (arXiv 2024.08) ML-CrAIST: Multi-scale Low-high Frequency Information-based Cross black Attention with Image Super-resolving Transformer, [[Paper]](https://arxiv.org/pdf/2408.09940.pdf),[[Code]](https://github.com/Alik033/ML-CrAIST)
