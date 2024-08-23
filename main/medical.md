@@ -597,3 +597,4 @@
 - (arXiv 2024.08) Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach, [[Paper]](https://arxiv.org/pdf/2408.04290),[[Code]](https://github.com/amirrezafateh/Multi-Scale-Transformer-Pneumonia)
 - (arXiv 2024.08) Surgformer: Surgical Transformer with Hierarchical Temporal Attention for Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2408.03867),[[Code]](https://github.com/isyangshu/Surgformer)
 - (arXiv 2024.08) HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.11289),[[Code]](https://github.com/simzhangbest/HMT-Unet)
+- (arXiv 2024.08) TESL-Net: A Transformer-Enhanced CNN for Accurate Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2408.09687)
