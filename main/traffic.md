@@ -48,3 +48,4 @@
 - (arXiv 2024.07) ViT LoS V2X: Vision Transformers for Environment-aware LoS Blockage Prediction for 6G Vehicular Networks, [[Paper]](https://arxiv.org/pdf/2407.15023.pdf)
 - (arXiv 2024.08) FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2408.06832.pdf)
 - (arXiv 2024.08) Angle of Arrival Estimation with Transformer: A Sparse and Gridless Method with Zero-Shot Capability, [[Paper]](https://arxiv.org/pdf/2408.09362.pdf)
+- (arXiv 2024.08) VFM-Det: Towards High-Performance Vehicle Detection via Large Foundation Models, [[Paper]](https://arxiv.org/pdf/2408.13031.pdf), [[Code]](https://github.com/Event-AHU/VFM-Det)
