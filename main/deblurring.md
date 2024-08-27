@@ -11,3 +11,4 @@
 - (arXiv 2024.04) Spread Your Wings: A Radial Strip Transformer for Image Deblurring, [[Paper]](https://arxiv.org/pdf/2404.00358.pdf), [[Code]](https://github.com/Calvin11311/RST)
 - (arXiv 2024.06) Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring, [[Paper]](https://arxiv.org/pdf/2406.07551.pdf), [[Code]](https://vilab.hit.edu.cn/projects/bsstnet)
 - (arXiv 2024.07) LoFormer: Local Frequency Transformer for Image Deblurring, [[Paper]](https://arxiv.org/pdf/2407.16993.pdf), [[Code]](https://github.com/DeepMed-Lab-ECNU/Single-Image-Deblur)
+- (arXiv 2024.08) Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model, [[Paper]](https://arxiv.org/pdf/2408.13459.pdf), [[Code]](https://github.com/Chen-Rao/VD-Diff)
