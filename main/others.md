@@ -247,3 +247,4 @@
 - (arXiv 2024.08) FovEx: Human-inspired Explanations for Vision Transformers and Convolutional Neural Networks, [[Paper]](https://arxiv.org/pdf/2408.02123.pdf)
 - (arXiv 2024.08) Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix, [[Paper]](https://arxiv.org/pdf/2408.01040.pdf)
 - (arXiv 2024.08) OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal, [[Paper]](https://arxiv.org/pdf/2408.11480.pdf), [[Code]](https://github.com/QMoQ/OAPT)
+- (arXiv 2024.08) GenFormer – Generated Images are All You Need to Improve Robustness of Transformers on Small Datasets, [[Paper]](https://arxiv.org/pdf/2408.14131.pdf)
