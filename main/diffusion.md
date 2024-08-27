@@ -40,3 +40,4 @@
 - (arXiv 2024.07) DriveDiTFit: Fine-tuning Diffusion Transformers for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2407.15661),[[Code]](https://github.com/TtuHamg/DriveDiTFit)
 - (arXiv 2024.07) Diffusion Feedback Helps CLIP See Better, [[Paper]](https://arxiv.org/pdf/2407.20171),[[Code]](https://github.com/baaivision/DIVA)
 - (arXiv 2024.08) Tora: Trajectory-oriented Diffusion Transformer for Video Generation, [[Paper]](https://arxiv.org/pdf/2407.21705),[[Code]](https://github.com/ali-videoai/Tora)
+- (arXiv 2024.08) Latent Space Disentanglement in Diffusion Transformers Enables Zero-shot Fine-grained Semantic Editing, [[Paper]](https://arxiv.org/pdf/2408.13335)
