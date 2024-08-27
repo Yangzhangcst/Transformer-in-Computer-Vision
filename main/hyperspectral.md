@@ -29,3 +29,4 @@
 - (arXiv 2024.06) CMTNet: Convolutional Meets Transformer Network for Hyperspectral Images Classification, [[Paper]](https://arxiv.org/pdf/2406.14080.pdf),[[Code]](https://git.tu-berlin.de/rsim/hycot)
 - (arXiv 2024.07) Transformer for Multitemporal Hyperspectral Image Unmixing, [[Paper]](https://arxiv.org/pdf/2407.10427.pdf)
 - (arXiv 2024.08) HyCoT: Hyperspectral Compression Transformer with an Efficient Training Strategy, [[Paper]](https://arxiv.org/pdf/2408.08700.pdf)
+- (arXiv 2024.08) 3D-RCNet: Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification[[Paper]](https://arxiv.org/pdf/2408.13728.pdf),[[Code]](https://github.com/wanggynpuer/3D-RCNet)
