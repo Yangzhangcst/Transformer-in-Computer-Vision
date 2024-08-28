@@ -602,3 +602,4 @@
 - (arXiv 2024.08) OU-CoViT: Copula-Enhanced Bi-Channel Multi-Task Vision Transformers with Dual Adaptation for OU-UWF Images, [[Paper]](https://arxiv.org/pdf/2408.09395)
 - (arXiv 2024.08) Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection, [[Paper]](https://arxiv.org/pdf/2408.14051)
 - (arXiv 2024.08) CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.13698)
+- (arXiv 2024.08) BreakNet: Discontinuity-Resilient Multi-Scale Transformer Segmentation of Retinal Layers, [[Paper]](https://arxiv.org/pdf/2408.14606)
