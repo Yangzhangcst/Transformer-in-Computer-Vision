@@ -229,3 +229,4 @@
 - (arXiv 2024.08) Spatial Transformer Network YOLO Model for Agricultural Object Detection, [[Paper]](https://arxiv.org/pdf/2407.21652), [[Code]](https://github.com/Advanced-Vision-and-Learning-Lab/STN-YOLO)
 - (arXiv 2024.08) DPDETR: Decoupled Position Detection Transformer for Infrared-Visible Object Detection, [[Paper]](https://arxiv.org/pdf/2408.06123), [[Code]](https://github.com/gjj45/DPDETR)
 - (arXiv 2024.08) OVA-DETR: Open Vocabulary Aerial Object Detection Using Image-Text Alignment and Fusion, [[Paper]](https://arxiv.org/pdf/2408.12246), [[Code]](https://github.com/GT-Wei/OVA-DETR)
+- (arXiv 2024.08) Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2408.15020), [[Code]](https://github.com/Garyson1204/HGINet)
