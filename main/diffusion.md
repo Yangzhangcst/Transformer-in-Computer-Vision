@@ -41,3 +41,4 @@
 - (arXiv 2024.07) Diffusion Feedback Helps CLIP See Better, [[Paper]](https://arxiv.org/pdf/2407.20171),[[Code]](https://github.com/baaivision/DIVA)
 - (arXiv 2024.08) Tora: Trajectory-oriented Diffusion Transformer for Video Generation, [[Paper]](https://arxiv.org/pdf/2407.21705),[[Code]](https://github.com/ali-videoai/Tora)
 - (arXiv 2024.08) Latent Space Disentanglement in Diffusion Transformers Enables Zero-shot Fine-grained Semantic Editing, [[Paper]](https://arxiv.org/pdf/2408.13335)
+- (arXiv 2024.08) DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose, [[Paper]](https://arxiv.org/pdf/2408.14860)
