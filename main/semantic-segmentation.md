@@ -152,3 +152,4 @@
 - (arXiv 2024.06) ALGM: Adaptive Local-then-Global Token Merging for Efficient Semantic Segmentation with Plain Vision Transformers, [[Paper]](https://arxiv.org/pdf/2406.09801.pdf),[[Code]](https://github.com/wangyida/ra-neus)
 - (arXiv 2024.07) Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2407.17261.pdf),[[Code]](https://github.com/hyunwoo137/EDAFormer)
 - (arXiv 2024.07) MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2408.07576.pdf),[[Code]](https://github.com/hyunwoo137/MetaSeg)
+- (arXiv 2024.08) Applying ViT in Generalized Few-shot Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2408.14957.pdf),[[Code]](https://github.com/lygeng0427/ViTSeg)
