@@ -22,4 +22,5 @@
 - (arXiv 2023.12) Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning, [[Paper]](https://arxiv.org/pdf/2312.04398.pdf)
 - (arXiv 2023.12) Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2312.07495.pdf), [[Code]](https://zhangzjn.github.io/projects/ViTAD)
 - (arXiv 2024.06) Prior Normality Prompt Transformer for Multi-class Industrial Image Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2406.11507.pdf)
-Feature Purified Transformer With Cross-level Feature Guiding Decoder For Multi-class OOD and Anomaly Deteciton, [[Paper]](https://arxiv.org/pdf/2406.15396.pdf)
+- (arXiv 2024.08) Feature Purified Transformer With Cross-level Feature Guiding Decoder For Multi-class OOD and Anomaly Deteciton, [[Paper]](https://arxiv.org/pdf/2406.15396.pdf)
+- (arXiv 2024.08) PoseWatch: A Transformer-based Architecture for Human-centric Video Anomaly Detection Using Spatio-temporal Pose Tokenization, [[Paper]](https://arxiv.org/pdf/2408.15185.pdf)
