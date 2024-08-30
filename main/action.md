@@ -133,3 +133,4 @@
 - (arXiv 2024.08) HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization,  [[Paper]](https://arxiv.org/pdf/2408.06437.pdf),[[Code]](https://github.com/sakibreza/ECCV24-HAT/)
  (arXiv 2024.08) Long-Term Pre-training for Temporal Action Detection with Transformers,  [[Paper]](https://arxiv.org/pdf/2408.13152.pdf)
  (arXiv 2024.08) Temporal Divide-and-Conquer Anomaly Actions Localization in Semi-Supervised Videos with Hierarchical Transformer,  [[Paper]](https://arxiv.org/pdf/2408.13643.pdf)
+ (arXiv 2024.08) Prediction-Feedback DETR for Temporal Action Detection,  [[Paper]](https://arxiv.org/pdf/2408.16729.pdf)
