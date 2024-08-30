@@ -33,3 +33,4 @@
 - (arXiv 2024.02) Dynamic Patch-aware Enrichment Transformer for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2402.10435.pdf)
 - (arXiv 2024.03) View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network, [[Paper]](https://arxiv.org/pdf/2403.14513.pdf), [[Code]](https://github.com/LinlyAC/VDT-AGPReID)
 - (arXiv 2024.04) Other Tokens Matter: Exploring Global and Local Features of Vision Transformers for Object Re-Identification, [[Paper]](https://arxiv.org/pdf/2404.14985.pdf)
+- (arXiv 2024.08) PartFormer: Awakening Latent Diverse Representation from Vision Transformer for Object Re-Identification, [[Paper]](https://arxiv.org/pdf/2408.16684.pdf)
