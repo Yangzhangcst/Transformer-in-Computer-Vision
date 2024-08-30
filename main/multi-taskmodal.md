@@ -221,3 +221,4 @@
 - (arXiv 2024.08) Algorithm Research of ELMo Word Embedding and Deep Learning Multimodal Transformer in Image Description, [[Paper]](https://arxiv.org/pdf/2408.06357)
 - (arXiv 2024.08) Show-o: One Single Transformer to Unify Multimodal Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2408.12528), [[Code]](https://github.com/showlab/Show-o)
 - (arXiv 2024.08) Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers, [[Paper]](https://arxiv.org/pdf/2408.12575)
+- (arXiv 2024.08) SITransformer: Shared Information-Guided Transformer for Extreme Multimodal Summarization, [[Paper]](https://arxiv.org/pdf/2408.15829), [[Code]](https://github.com/SichengLeoLiu/MMAsia24-XMSMO)
