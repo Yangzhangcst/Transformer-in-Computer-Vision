@@ -63,3 +63,4 @@
 - (arXiv 2024.08) Task-Aware Dynamic Transformer for Efficient Arbitrary-Scale Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2408.08736)
 - (arXiv 2024.08) PQV-Mobile: A Combined Pruning and Quantization Toolkit to Optimize Vision Transformers for Mobile Applications, [[Paper]](https://arxiv.org/pdf/2408.08437), [[Code]](https://github.com/kshitij11/PQV-Mobile)
 - (arXiv 2024.08) Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers, [[Paper]](https://arxiv.org/pdf/2408.12568), [[Code]](https://github.com/erfanhatefi/Pruning-by-eXplaining-in-PyTorch)
+- (arXiv 2024.08) VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2408.17131)
