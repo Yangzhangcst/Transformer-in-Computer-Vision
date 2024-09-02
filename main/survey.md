@@ -1,4 +1,6 @@
 ## Survey: 
+- (arXiv 2024.09) A Survey of the Self Supervised Learning Mechanisms for Vision Transformers. [[Paper]](https://arxiv.org/pdf/2408.17059.pdf)
+
 - (arXiv 2024.08) A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships. [[Paper]](https://arxiv.org/pdf/2408.15178.pdf)
 
 - (arXiv 2024.07) Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer. [[Paper]](https://arxiv.org/pdf/2407.08460.pdf)
