@@ -9,3 +9,4 @@
 - (arXiv 2024.03) Gabor-guided transformer for single image deraining, [[Paper]](https://arxiv.org/pdf/2403.07380.pdf)
 - (arXiv 2024.05) Dual-Path Multi-Scale Transformer for High-Quality Image Deraining, [[Paper]](https://arxiv.org/pdf/2405.18124.pdf)
 - (arXiv 2024.08) Improving Image De-raining Using Reference-Guided Transformers, [[Paper]](https://arxiv.org/pdf/2408.00258.pdf), [[Code]](https://github.com/ziiihoooYe/RefGT?tab=readme-ov-file)
+- (arXiv 2024.09) A Hybrid Transformer-Mamba Network for Single Image Deraining, [[Paper]](https://arxiv.org/pdf/2409.00410.pdf), [[Code]](https://github.com/sunshangquan/TransMamba)
