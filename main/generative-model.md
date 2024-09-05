@@ -34,3 +34,4 @@
 - (arXiv 2024.03) AAPMT: AGI Assessment Through Prompt and Metric Transformer, [[Paper]](https://arxiv.org/pdf/2403.19101.pdf), [[Code]](https://github.com/huskydoge/CS3324-Digital-Image-Processing/tree/main/Assignment1)
 - (arXiv 2024.05) EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture, [[Paper]](https://arxiv.org/pdf/2405.18991.pdf), [[Code]](https://github.com/aigc-apps/EasyAnimate)
 - (arXiv 2024.06) Generative AI Empowered LiDAR Point Cloud Generation with Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2406.18542.pdf)
+- (arXiv 2024.09) DiVE: DiT-based Video Generation with Enhanced Control, [[Paper]](https://arxiv.org/pdf/2409.01595.pdf)
