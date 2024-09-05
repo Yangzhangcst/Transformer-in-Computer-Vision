@@ -22,3 +22,4 @@
 - (arXiv 2024.05) GMMFormer v2: An Uncertainty-aware Framework for Partially Relevant Video Retrieval, [[Paper]](https://arxiv.org/pdf/2405.13824.pdf), [[Code]](https://github.com/huangmozhi9527/GMMFormer_v2)
 - (arXiv 2024.06) Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP, [[Paper]](https://arxiv.org/pdf/2406.01583.pdf)
 - (arXiv 2024.06) Multi-Scale Temporal Difference Transformer for Video-Text Retrieval, [[Paper]](https://arxiv.org/pdf/2406.16111.pdf)
+- (arXiv 2024.09) Self-Supervised Vision Transformers for Writer Retrieval, [[Paper]](https://arxiv.org/pdf/2409.00751.pdf)
