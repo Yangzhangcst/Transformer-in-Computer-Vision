@@ -606,3 +606,4 @@
 - (arXiv 2024.08) Towards reliable respiratory disease diagnosis based on cough sounds and vision transformers, [[Paper]](https://arxiv.org/pdf/2408.15667)
 - (arXiv 2024.09) SMAFormer: Synergistic Multi-Attention Transformer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.00346),[[Code]](https://github.com/CXH-Research/SMAFormer)
 - (arXiv 2024.09) TransDAE: Dual Attention Mechanism in a Hierarchical Transformer for Efficient Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.02018)
+- (arXiv 2024.09) Dynamic Motion Synthesis: Masked Audio-Text Conditioned Spatio-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2409.01591)
