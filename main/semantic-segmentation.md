@@ -153,3 +153,4 @@
 - (arXiv 2024.07) Embedding-Free Transformer with Inference Spatial Reduction for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2407.17261.pdf),[[Code]](https://github.com/hyunwoo137/EDAFormer)
 - (arXiv 2024.07) MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2408.07576.pdf),[[Code]](https://github.com/hyunwoo137/MetaSeg)
 - (arXiv 2024.08) Applying ViT in Generalized Few-shot Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2408.14957.pdf),[[Code]](https://github.com/lygeng0427/ViTSeg)
+- (arXiv 2024.09) Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure, [[Paper]](https://arxiv.org/pdf/2409.02866.pdf)
