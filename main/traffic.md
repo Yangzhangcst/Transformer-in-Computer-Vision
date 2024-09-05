@@ -49,3 +49,5 @@
 - (arXiv 2024.08) FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2408.06832.pdf)
 - (arXiv 2024.08) Angle of Arrival Estimation with Transformer: A Sparse and Gridless Method with Zero-Shot Capability, [[Paper]](https://arxiv.org/pdf/2408.09362.pdf)
 - (arXiv 2024.08) VFM-Det: Towards High-Performance Vehicle Detection via Large Foundation Models, [[Paper]](https://arxiv.org/pdf/2408.13031.pdf), [[Code]](https://github.com/Event-AHU/VFM-Det)
+- (arXiv 2024.09) Multi-scale Temporal Fusion Transformer for Incomplete Vehicle Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2409.00904.pdf), [[Code]](https://github.com/Event-AHU/VFM-Det)
+- (arXiv 2024.09) Make Your ViT-based Multi-view 3D Detectors Faster via Token Compression, [[Paper]](https://arxiv.org/pdf/2409.00633.pdf), [[Code]](https://github.com/DYZhang09/ToC3D)
