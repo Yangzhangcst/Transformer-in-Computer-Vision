@@ -23,3 +23,4 @@
 - (arXiv 2024.06) Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP, [[Paper]](https://arxiv.org/pdf/2406.01583.pdf)
 - (arXiv 2024.06) Multi-Scale Temporal Difference Transformer for Video-Text Retrieval, [[Paper]](https://arxiv.org/pdf/2406.16111.pdf)
 - (arXiv 2024.09) Self-Supervised Vision Transformers for Writer Retrieval, [[Paper]](https://arxiv.org/pdf/2409.00751.pdf)
+- (arXiv 2024.09) Evidential Transformers for Improved Image Retrieval, [[Paper]](https://arxiv.org/pdf/2409.01082.pdf)
