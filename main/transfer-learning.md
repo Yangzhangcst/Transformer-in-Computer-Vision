@@ -41,3 +41,4 @@
 - (arXiv 2024.07) Textual Query-Driven Mask Transformer for Domain Generalized Segmentation, [[Paper]](https://arxiv.org/pdf/2407.09033.pdf)
 - (arXiv 2024.07) Domain Generalized Recaptured Screen Image Identification Using SWIN Transformer, [[Paper]](https://arxiv.org/pdf/2407.17170.pdf)
 - (arXiv 2024.08) Adaptive Layer Selection for Efficient Vision Transformer Fine-Tuning, [[Paper]](https://arxiv.org/pdf/2408.08670.pdf)
+- (arXiv 2024.09) iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation, [[Paper]](https://arxiv.org/pdf/2409.02838.pdf)
