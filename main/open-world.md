@@ -26,3 +26,4 @@
 - (arXiv 2024.04) OSR-ViT: A Simple and Modular Framework for Open-Set Object Detection and Discovery, [[Paper]](https://arxiv.org/pdf/2404.10865.pdf)
 - (arXiv 2024.05) OV-DQUO: Open-Vocabulary DETR with Denoising Text Query Training and Open-World Unknown Objects Supervision, [[Paper]](https://arxiv.org/pdf/2405.17913.pdf)
 - (arXiv 2024.07) Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2407.07427.pdf), [[Code]](https://github.com/fanghaook/OVFormer)
+- (arXiv 2024.09) FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation, [[Paper]](https://arxiv.org/pdf/2409.03525), [[Code]](https://github.com/chenxi52/FrozenSeg)
