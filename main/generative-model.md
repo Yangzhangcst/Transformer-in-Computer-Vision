@@ -35,3 +35,4 @@
 - (arXiv 2024.05) EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture, [[Paper]](https://arxiv.org/pdf/2405.18991.pdf), [[Code]](https://github.com/aigc-apps/EasyAnimate)
 - (arXiv 2024.06) Generative AI Empowered LiDAR Point Cloud Generation with Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2406.18542.pdf)
 - (arXiv 2024.09) DiVE: DiT-based Video Generation with Enhanced Control, [[Paper]](https://arxiv.org/pdf/2409.01595.pdf)
+- (arXiv 2024.09) GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers, [[Paper]](https://arxiv.org/pdf/2409.04196.pdf), [[Code]](https://github.com/prosperolo/GST)
