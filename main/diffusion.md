@@ -43,3 +43,4 @@
 - (arXiv 2024.08) Latent Space Disentanglement in Diffusion Transformers Enables Zero-shot Fine-grained Semantic Editing, [[Paper]](https://arxiv.org/pdf/2408.13335)
 - (arXiv 2024.08) DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose, [[Paper]](https://arxiv.org/pdf/2408.14860)
 - (arXiv 2024.08) MegActor-Σ: Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2408.14975)
+- (arXiv 2024.09) Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task, [[Paper]](https://arxiv.org/pdf/2409.04005),[[Code]](https://github.com/360CVGroup/Qihoo-T2X)
