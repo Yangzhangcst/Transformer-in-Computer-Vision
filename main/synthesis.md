@@ -15,3 +15,4 @@
 - (arXiv 2024.06) Revisiting Non-Autoregressive Transformers for Efficient Image Synthesis, [[Paper]](https://arxiv.org/pdf/2406.05478.pdf), [[Project]](https://github.com/LeapLabTHU/ImprovedNAT)
 - (arXiv 2024.07) Forest2Seq: Revitalizing Order Prior for Sequential Indoor Scene Synthesis, [[Paper]](https://arxiv.org/pdf/2407.05388.pdf)
 - (arXiv 2024.09) Swin Transformer for Robust Differentiation of Real and Synthetic Images: Intra- and Inter-Dataset Analysis, [[Paper]](https://arxiv.org/pdf/2409.04734.pdf)
+- (arXiv 2024.09) Enhancing Image Authenticity Detection: Swin Transformers and Color Frame Analysis for CGI vs. Real Images, [[Paper]](https://arxiv.org/pdf/2409.04742.pdf)
