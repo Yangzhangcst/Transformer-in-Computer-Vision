@@ -608,3 +608,4 @@
 - (arXiv 2024.09) TransDAE: Dual Attention Mechanism in a Hierarchical Transformer for Efficient Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.02018)
 - (arXiv 2024.09) Dynamic Motion Synthesis: Masked Audio-Text Conditioned Spatio-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2409.01591)
 - (arXiv 2024.09) MobileUNETR: A Lightweight End-To-End Hybrid Vision Transformer For Efficient Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.03062)
+- (arXiv 2024.09) Lung-DETR: Deformable Detection Transformer for Sparse Lung Nodule Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2409.05200)
