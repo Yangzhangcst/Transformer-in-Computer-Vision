@@ -135,3 +135,4 @@
 - (arXiv 2024.08) Temporal Divide-and-Conquer Anomaly Actions Localization in Semi-Supervised Videos with Hierarchical Transformer,  [[Paper]](https://arxiv.org/pdf/2408.13643.pdf)
 - (arXiv 2024.08) Prediction-Feedback DETR for Temporal Action Detection,  [[Paper]](https://arxiv.org/pdf/2408.16729.pdf)
 - (arXiv 2024.08) SITAR: Semi-supervised Image Transformer for Action Recognition,  [[Paper]](https://arxiv.org/pdf/2409.02910.pdf)
+- (arXiv 2024.09) ReL-SAR: Representation Learning for Skeleton Action Recognition with Convolutional Transformers and BYOL,  [[Paper]](https://arxiv.org/pdf/2409.05749.pdf),[[Code]](https://github.com/SafwenNaimi/Representation-Learning-for-Skeleton-Action-Recognition-with-Convolutional-Transformers-and-BYOL)
