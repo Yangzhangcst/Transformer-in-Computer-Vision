@@ -609,3 +609,4 @@
 - (arXiv 2024.09) Dynamic Motion Synthesis: Masked Audio-Text Conditioned Spatio-Temporal Transformers, [[Paper]](https://arxiv.org/pdf/2409.01591)
 - (arXiv 2024.09) MobileUNETR: A Lightweight End-To-End Hybrid Vision Transformer For Efficient Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.03062)
 - (arXiv 2024.09) Lung-DETR: Deformable Detection Transformer for Sparse Lung Nodule Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2409.05200)
+- (arXiv 2024.09) Transformer-Enhanced Iterative Feedback Mechanism for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2409.05875),[[Code]](https://github.com/xxxxx/FANetv2)
