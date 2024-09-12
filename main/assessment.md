@@ -19,3 +19,4 @@
 - (arXiv 2024.01) Video Quality Assessment Based on Swin TransformerV2 and Coarse to Fine Strategy, [[Paper]](https://arxiv.org/pdf/2401.08522.pdf), [[Code]](https://github.com/o-messai/3D-PCQA)
 - (arXiv 2024.05) RMT-BVQA: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content, [[Paper]](https://arxiv.org/pdf/2405.08621.pdf)
 - (arXiv 2024.06) DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer, [[Paper]](https://arxiv.org/pdf/2406.09622.pdf),[[Code]](https://dsl-fiqa.github.io/)
+- (arXiv 2024.09) Attention Down-Sampling Transformer, Relative Ranking and Self-Consistency for Blind Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2409.07115.pdf),[[Code]](https://github.com/mas94/ADTRS)
