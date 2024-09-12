@@ -579,3 +579,4 @@
 - (arXiv 2024.08) Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning, [[Paper]](https://arxiv.org/pdf/2408.06798.pdf),[[Code]](https://github.com/JieShibo/ToCom)
 - (arXiv 2024.09) Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2408.17062.pdf)
 - (arXiv 2024.09) LowFormer: Hardware Efficient Design for Convolutional Transformer Backbones, [[Paper]](https://arxiv.org/pdf/2409.03460.pdf),[[Code]](https://github.com/altair199797/LowFormer)
+- (arXiv 2024.09) Brain-Inspired Stepwise Patch Merging for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2409.06963.pdf)
