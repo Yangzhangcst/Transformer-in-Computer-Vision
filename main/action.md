@@ -136,3 +136,4 @@
 - (arXiv 2024.08) Prediction-Feedback DETR for Temporal Action Detection,  [[Paper]](https://arxiv.org/pdf/2408.16729.pdf)
 - (arXiv 2024.08) SITAR: Semi-supervised Image Transformer for Action Recognition,  [[Paper]](https://arxiv.org/pdf/2409.02910.pdf)
 - (arXiv 2024.09) ReL-SAR: Representation Learning for Skeleton Action Recognition with Convolutional Transformers and BYOL,  [[Paper]](https://arxiv.org/pdf/2409.05749.pdf),[[Code]](https://github.com/SafwenNaimi/Representation-Learning-for-Skeleton-Action-Recognition-with-Convolutional-Transformers-and-BYOL)
+- (arXiv 2024.09) InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation,  [[Paper]](https://arxiv.org/pdf/2409.07914.pdf)
