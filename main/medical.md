@@ -611,3 +611,4 @@
 - (arXiv 2024.09) Lung-DETR: Deformable Detection Transformer for Sparse Lung Nodule Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2409.05200)
 - (arXiv 2024.09) Transformer-Enhanced Iterative Feedback Mechanism for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2409.05875),[[Code]](https://github.com/xxxxx/FANetv2)
 - (arXiv 2024.09) CWT-Net: Super-resolution of Histopathology Images Using a Cross-scale Wavelet-based Transformer, [[Paper]](https://arxiv.org/pdf/2409.07092)
+- (arXiv 2024.09) Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.07793),[[Code]](https://github.com/lzeeorno/Lagrange-Duality-and-CMAformer)
