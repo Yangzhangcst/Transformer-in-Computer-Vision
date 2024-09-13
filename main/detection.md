@@ -233,3 +233,4 @@
 - (arXiv 2024.08) Object Detection for Vehicle Dashcams using Transformers, [[Paper]](https://arxiv.org/pdf/2408.15809)
 - (arXiv 2024.09) Real-Time Indoor Object Detection based on hybrid CNN-Transformer Approach, [[Paper]](https://arxiv.org/pdf/2409.01871)
 - (arXiv 2024.09) Knowledge Distillation via Query Selection for Detection Transformer, [[Paper]](https://arxiv.org/pdf/2409.06443)
+- (arXiv 2024.09) ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers, [[Paper]](https://arxiv.org/pdf/2409.07541)
