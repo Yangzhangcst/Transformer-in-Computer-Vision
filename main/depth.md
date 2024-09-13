@@ -52,3 +52,4 @@
 - (arXiv.2024.07) Towards Scale-Aware Full Surround Monodepth with Transformers, [[Paper]](https://arxiv.org/pdf/2407.10406.pdf)
 - (arXiv.2024.07) UMono: Physical Model Informed Hybrid CNN-Transformer Framework for Underwater Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2407.17838.pdf)
 - (arXiv.2024.09) SDformer: Efficient End-to-End Transformer for Depth Completion, [[Paper]](https://arxiv.org/pdf/2409.08159.pdf), [[Code]](https://github.com/JamesQian11/SDformer-for-Depth-Completion)
+- (arXiv.2024.09) Depth Matters: Exploring Deep Interactions of RGB-D for Semantic Segmentation in Traffic Scenes, [[Paper]](https://arxiv.org/pdf/2409.07995.pdf)
