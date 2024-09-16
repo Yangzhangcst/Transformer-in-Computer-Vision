@@ -46,3 +46,4 @@
 - (arXiv 2024.07) ISWSST: Index-space-wave State Superposition Transformers for Multispectral Remotely Sensed Imagery Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2407.03033)
 - (arXiv 2024.07) SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs, [[Paper]](https://arxiv.org/pdf/2407.00851)
 - (arXiv 2024.09) On-board Satellite Image Classification for Earth Observation: A Comparative Study of Pre-Trained Vision Transformer Models, [[Paper]](https://arxiv.org/pdf/2409.03901)
+- (arXiv 2024.09) VistaFormer: Scalable Vision Transformers for Satellite Image Time Series Segmentation, [[Paper]](https://arxiv.org/pdf/2409.08461)
