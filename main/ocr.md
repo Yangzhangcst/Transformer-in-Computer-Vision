@@ -68,3 +68,4 @@
 - (arXiv 2024.07) PosFormer: Recognizing Complex Handwritten Mathematical Expression with Position Forest Transformer, [[Paper]](https://arxiv.org/pdf/2407.07764.pdf),[[Code]](https://github.com/SJTU-DeepVisionLab/PosFormer)
 - (arXiv 2024.08) TAMER: Tree-Aware Transformer for Handwritten Mathematical Expression Recognition, [[Paper]](https://arxiv.org/pdf/2408.08578.pdf)
 - (arXiv 2024.08) FastTextSpotter: A High-Efficiency Transformer for Multilingual Scene Text Spotting, [[Paper]](https://arxiv.org/pdf/2408.14998.pdf),[[Code]](https://github.com/alloydas/Fast-Textspotter)
+- (arXiv 2024.09) HTR-VT: Handwritten Text Recognition with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2409.08573.pdf),[[Code]](https://github.com/YutingLi0606/HTR-VT)
