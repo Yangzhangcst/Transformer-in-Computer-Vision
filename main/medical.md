@@ -613,3 +613,5 @@
 - (arXiv 2024.09) CWT-Net: Super-resolution of Histopathology Images Using a Cross-scale Wavelet-based Transformer, [[Paper]](https://arxiv.org/pdf/2409.07092)
 - (arXiv 2024.09) Lagrange Duality and Compound Multi-Attention Transformer for Semi-Supervised Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.07793),[[Code]](https://github.com/lzeeorno/Lagrange-Duality-and-CMAformer)
 - (arXiv 2024.09) DS-ViT: Dual-Stream Vision Transformer for Cross-Task Distillation in Alzheimer's Early Diagnosis, [[Paper]](https://arxiv.org/pdf/2409.07584)
+- (arXiv 2024.09) D2-MLP: Dynamic Decomposed MLP Mixer for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.08905)
+- (arXiv 2024.09) SkinFormer: Learning Statistical Texture Representation with Transformer for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2409.08652),[[Code]](https://github.com/Rongtao-Xu/SkinFormer)
