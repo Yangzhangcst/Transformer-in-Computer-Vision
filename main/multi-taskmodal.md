@@ -222,4 +222,5 @@
 - (arXiv 2024.08) Show-o: One Single Transformer to Unify Multimodal Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2408.12528), [[Code]](https://github.com/showlab/Show-o)
 - (arXiv 2024.08) Enhanced Parking Perception by Multi-Task Fisheye Cross-view Transformers, [[Paper]](https://arxiv.org/pdf/2408.12575)
 - (arXiv 2024.08) SITransformer: Shared Information-Guided Transformer for Extreme Multimodal Summarization, [[Paper]](https://arxiv.org/pdf/2408.15829), [[Code]](https://github.com/SichengLeoLiu/MMAsia24-XMSMO)
-- (arXiv 2024.09) Multi-modal Speech Transformer Decoders: When Do Multiple Modalities Improve Accuracy?, [[Paper]](https://arxiv.org/pdf/2409.09221)
+- (arXiv 2024.09) Multi-modal Speech Transformer Decoders: When Do Multiple Modalities Improve Accuracy, [[Paper]](https://arxiv.org/pdf/2409.09221)
+- (arXiv 2024.09) Genetic Information Analysis of Age-Related Macular Degeneration Fellow Eye Using Multi-Modal Selective ViT, [[Paper]](https://arxiv.org/pdf/2409.11128)
