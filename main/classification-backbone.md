@@ -583,3 +583,4 @@
 - (arXiv 2024.09) SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks, [[Paper]](https://arxiv.org/pdf/2409.09649.pdf),[[Code]](https://github.com/LMMMEng/SparX)
 - (arXiv 2024.09) ELSA: Exploiting Layer-wise N:M Sparsity for Vision Transformer Acceleration, [[Paper]](https://arxiv.org/pdf/2409.09708.pdf)
 - (arXiv 2024.09) Kolmogorov–Arnold Transformer, [[Paper]](https://arxiv.org/pdf/2409.10594.pdf),[[Code]](https://github.com/Adamdad/kat)
+- (arXiv 2024.09) Multiple-Exit Tuning: Towards Inference-Efficient Adaptation for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2409.13999.pdf)
