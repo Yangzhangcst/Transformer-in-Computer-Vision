@@ -249,3 +249,4 @@
 - (arXiv 2024.08) OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal, [[Paper]](https://arxiv.org/pdf/2408.11480.pdf), [[Code]](https://github.com/QMoQ/OAPT)
 - (arXiv 2024.08) GenFormer – Generated Images are All You Need to Improve Robustness of Transformers on Small Datasets, [[Paper]](https://arxiv.org/pdf/2408.14131.pdf)
 - (arXiv 2024.09) A Novel Approach to Classify Power Quality Signals Using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2409.00025.pdf)
+- (arXiv 2024.09) On Vision Transformers for Classification Tasks in Side-Scan Sonar Imagery, [[Paper]](https://arxiv.org/pdf/2409.12026.pdf)
