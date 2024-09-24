@@ -7,3 +7,4 @@
 - (arXiv 2023.11) RelVAE: Generative Pretraining for few-shot Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2311.16261.pdf), [[Code]](https://github.com/deeplab-ai/SelfSupervisedVRD)
 - (arXiv 2024.03) Scene-Graph ViT: End-to-End Open-Vocabulary Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2403.14270.pdf)
 - (arXiv 2024.03) Groupwise Query Specialization and Quality-Aware Multi-Assignment for Transformer-based Visual Relationship Detection, [[Paper]](https://arxiv.org/pdf/2403.17709.pdf), [[Code]](https://github.com/mlvlab/SpeaQ)
+- (arXiv 2024.09) End-to-end Open-vocabulary Video Visual Relationship Detection using Multi-modal Prompting, [[Paper]](https://arxiv.org/pdf/2409.12499.pdf)
