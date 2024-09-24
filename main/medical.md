@@ -619,3 +619,4 @@
 - (arXiv 2024.09) Axial Attention Transformer Networks: A New Frontier in Breast Cancer Detection, [[Paper]](https://arxiv.org/pdf/2409.12347)
 - (arXiv 2024.09) TransUKAN:Computing-Efficient Hybrid KAN-Transformer for Enhanced Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.14676),[[Code]](https://github.com/wuyanlin-wyl/TransUKAN)
 - (arXiv 2024.09) Detection of pulmonary pathologies using convolutional neural networks, Data Augmentation, ResNet50 and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2409.14446)
+- (arXiv 2024.09) NT-ViT: Neural Transcoding Vision Transformers for EEG-to-fMRI Synthesis, [[Paper]](https://arxiv.org/pdf/2409.11836),[[Code]](https://github.com/rom42pla/ntvit)
