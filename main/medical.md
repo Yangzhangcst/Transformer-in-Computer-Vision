@@ -617,3 +617,4 @@
 - (arXiv 2024.09) SkinFormer: Learning Statistical Texture Representation with Transformer for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2409.08652),[[Code]](https://github.com/Rongtao-Xu/SkinFormer)
 - (arXiv 2024.09) Self-Supervised Pre-training Tasks for an fMRI Time-series Transformer in Autism Detection, [[Paper]](https://arxiv.org/pdf/2409.12304),[[Code]](https://github.com/ycaris/Self-Supervised_fMRI)
 - (arXiv 2024.09) Axial Attention Transformer Networks: A New Frontier in Breast Cancer Detection, [[Paper]](https://arxiv.org/pdf/2409.12347)
+- (arXiv 2024.09) TransUKAN:Computing-Efficient Hybrid KAN-Transformer for Enhanced Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.14676),[[Code]](https://github.com/wuyanlin-wyl/TransUKAN)
