@@ -27,3 +27,4 @@
 - (arXiv 2024.07) Learning Lane Graphs from Aerial Imagery Using Transformers, [[Paper]](https://arxiv.org/pdf/2407.05687.pdf)
 - (arXiv 2024.07) Video-Language Alignment Pre-training via Spatio-Temporal Graph Transformer, [[Paper]](https://arxiv.org/pdf/2407.11677.pdf), [[Code]](https://github.com/GXYM/STGT)
 - (arXiv 2024.08) Integrating Features for Recognizing Human Activities through Optimized Parameters in Graph Convolutional Networks and Transformer Architectures, [[Paper]](https://arxiv.org/pdf/2408.16442.pdf)
+- (arXiv 2024.09) A Sinkhorn Regularized Adversarial Network for Image Guided DEM Super-resolution using Frequency Selective Hybrid Graph Transformer, [[Paper]](https://arxiv.org/pdf/2409.14198.pdf)
