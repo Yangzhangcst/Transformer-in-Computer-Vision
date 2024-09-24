@@ -29,3 +29,4 @@
 - (arXiv 2024.07) S-E Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks, [[Paper]](https://arxiv.org/pdf/2407.17587.pdf)
 - (arXiv 2024.08) Downstream Transfer Attack: Adversarial Attacks on Downstream Models with Pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2408.01705.pdf)
 - (arXiv 2024.09) ViTGuard: Attention-aware Detection against Adversarial Examples for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2409.13828)
+- (arXiv 2024.09) RoWSFormer: A Robust Watermarking Framework with Swin Transformer for Enhanced Geometric Attack Resilience, [[Paper]](https://arxiv.org/pdf/2409.14829)
