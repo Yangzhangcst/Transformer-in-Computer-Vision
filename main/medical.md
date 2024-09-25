@@ -620,3 +620,4 @@
 - (arXiv 2024.09) TransUKAN:Computing-Efficient Hybrid KAN-Transformer for Enhanced Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.14676),[[Code]](https://github.com/wuyanlin-wyl/TransUKAN)
 - (arXiv 2024.09) Detection of pulmonary pathologies using convolutional neural networks, Data Augmentation, ResNet50 and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2409.14446)
 - (arXiv 2024.09) NT-ViT: Neural Transcoding Vision Transformers for EEG-to-fMRI Synthesis, [[Paper]](https://arxiv.org/pdf/2409.11836),[[Code]](https://github.com/rom42pla/ntvit)
+- (arXiv 2024.09) A Novel Framework for the Automated Characterization of Gram-Stained Blood Culture Slides Using a Large-Scale Vision Transformer, [[Paper]](https://arxiv.org/pdf/2409.15546)
