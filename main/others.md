@@ -251,3 +251,4 @@
 - (arXiv 2024.09) A Novel Approach to Classify Power Quality Signals Using Vision Transformers, [[Paper]](https://arxiv.org/pdf/2409.00025.pdf)
 - (arXiv 2024.09) On Vision Transformers for Classification Tasks in Side-Scan Sonar Imagery, [[Paper]](https://arxiv.org/pdf/2409.12026.pdf)
 - (arXiv 2024.09) MonoFormer: One Transformer for Both Diffusion and Autoregression, [[Paper]](https://arxiv.org/pdf/2409.12026.pdf), [[Code]](https://github.com/MonoFormer/MonoFormer)
+- (arXiv 2024.09) SOFI: Multi-Scale Deformable Transformer for Camera Calibration with Enhanced Line Queries, [[Paper]](https://arxiv.org/pdf/2409.15553.pdf), [[Code]](https://github.com/SebastianJanampa/SOFI)
