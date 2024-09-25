@@ -17,3 +17,4 @@
 - (arxiv 2024.06) SVFormer: A Direct Training Spiking Transformer for Efficient Video Action Recognition, [[Paper]](https://arxiv.org/pdf/2406.15034.pdf)
 - (arxiv 2024.07) Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2407.08130.pdf)
 - (arxiv 2024.08) AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network, [[Paper]](https://arxiv.org/pdf/2408.12293.pdf)
+- (arxiv 2024.09) DS2TA: Denoising Spiking Transformer with Attenuated Spatiotemporal Attention, [[Paper]](https://arxiv.org/pdf/2409.15375.pdf)
