@@ -621,3 +621,5 @@
 - (arXiv 2024.09) Detection of pulmonary pathologies using convolutional neural networks, Data Augmentation, ResNet50 and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2409.14446)
 - (arXiv 2024.09) NT-ViT: Neural Transcoding Vision Transformers for EEG-to-fMRI Synthesis, [[Paper]](https://arxiv.org/pdf/2409.11836),[[Code]](https://github.com/rom42pla/ntvit)
 - (arXiv 2024.09) A Novel Framework for the Automated Characterization of Gram-Stained Blood Culture Slides Using a Large-Scale Vision Transformer, [[Paper]](https://arxiv.org/pdf/2409.15546)
+- (arXiv 2024.09) Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba, [[Paper]](https://arxiv.org/pdf/2409.17122)
+- (arXiv 2024.09) Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis, [[Paper]](https://arxiv.org/pdf/2409.16940)
