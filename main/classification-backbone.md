@@ -584,4 +584,4 @@
 - (arXiv 2024.09) ELSA: Exploiting Layer-wise N:M Sparsity for Vision Transformer Acceleration, [[Paper]](https://arxiv.org/pdf/2409.09708.pdf)
 - (arXiv 2024.09) Kolmogorov–Arnold Transformer, [[Paper]](https://arxiv.org/pdf/2409.10594.pdf),[[Code]](https://github.com/Adamdad/kat)
 - (arXiv 2024.09) Multiple-Exit Tuning: Towards Inference-Efficient Adaptation for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2409.13999.pdf)
-- (arXiv 2024.09) HydraViT: Stacking Heads for a Scalable ViT, [[Paper]](https://arxiv.org/pdf/2409.17978.pdf)
+- (arXiv 2024.09) HydraViT: Stacking Heads for a Scalable ViT, [[Paper]](https://arxiv.org/pdf/2409.17978.pdf),[[Code]](https://github.com/ds-kiel/HydraViT)
