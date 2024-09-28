@@ -31,3 +31,4 @@
 - (arXiv 2024.07) BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space,  [[Paper]](https://arxiv.org/pdf/2407.05679.pdf), [[Code]](https://github.com/zympsyche/BevWorld)
 - (arXiv 2024.07) CarFormer: Self-Driving with Learned Object-Centric Representations,  [[Paper]](https://arxiv.org/pdf/2407.15843.pdf), [[Code]](https://github.com/Shamdan17/CarFormer)
 - (arXiv 2024.07) RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies,  [[Paper]](https://arxiv.org/pdf/2407.14923.pdf)
+- (arXiv 2024.09) CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention,  [[Paper]](https://arxiv.org/pdf/2409.17790.pdf)
