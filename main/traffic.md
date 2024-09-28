@@ -53,3 +53,4 @@
 - (arXiv 2024.09) Make Your ViT-based Multi-view 3D Detectors Faster via Token Compression, [[Paper]](https://arxiv.org/pdf/2409.00633.pdf), [[Code]](https://github.com/DYZhang09/ToC3D)
 - (arXiv 2024.09) Transtreaming: Adaptive Delay-aware Transformer for Real-time Streaming Perception, [[Paper]](https://arxiv.org/pdf/2409.06584.pdf), [[Code]](https://anonymous.4open.science/r/Transtreaming-7333/README.md)
 - (arXiv 2024.09) LMT-Net: Lane Model Transformer Network for Automated HD Mapping from Sparse Vehicle Observations, [[Paper]](https://arxiv.org/pdf/2409.12409.pdf)
+- (arXiv 2024.09) CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention, [[Paper]](https://arxiv.org/pdf/2409.17790.pdf)
