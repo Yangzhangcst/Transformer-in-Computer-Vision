@@ -103,3 +103,4 @@
 - (arXiv 2024.07) EUDA: An Efficient Unsupervised Domain Adaptation via Self-Supervised Vision Transformer, [[Paper]](https://arxiv.org/pdf/2407.21311.pdf), [[Code]](https://github.com/A-Abedi/EUDA)
 - (arXiv 2024.08) Cross-modulated Attention Transformer for RGBT Tracking, [[Paper]](https://arxiv.org/pdf/2408.02222.pdf)
 - (arXiv 2024.08) MCTR: Multi Camera Tracking Transformer, [[Paper]](https://arxiv.org/pdf/2408.13243.pdf)
+- (arXiv 2024.09) General Compression Framework for Efficient Transformer Object Tracking, [[Paper]](https://arxiv.org/pdf/2409.17564.pdf), [[Code]](https://github.com/LingyiHongfd/CompressTracker)
