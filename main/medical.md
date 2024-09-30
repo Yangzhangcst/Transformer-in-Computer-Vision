@@ -624,3 +624,4 @@
 - (arXiv 2024.09) Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba, [[Paper]](https://arxiv.org/pdf/2409.17122)
 - (arXiv 2024.09) Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis, [[Paper]](https://arxiv.org/pdf/2409.16940)
 - (arXiv 2024.09) NeuroPath: A Neural Pathway Transformer for Joining the Dots of Human Connectomes, [[Paper]](https://arxiv.org/pdf/2409.17510)
+- (arXiv 2024.09) Developing a Dual-Stage Vision Transformer Model for Lung Disease Classification, [[Paper]](https://arxiv.org/pdf/2409.18257)
