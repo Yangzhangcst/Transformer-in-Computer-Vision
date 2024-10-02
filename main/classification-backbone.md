@@ -585,4 +585,4 @@
 - (arXiv 2024.09) Kolmogorov–Arnold Transformer, [[Paper]](https://arxiv.org/pdf/2409.10594.pdf),[[Code]](https://github.com/Adamdad/kat)
 - (arXiv 2024.09) Multiple-Exit Tuning: Towards Inference-Efficient Adaptation for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2409.13999.pdf)
 - (arXiv 2024.09) HydraViT: Stacking Heads for a Scalable ViT, [[Paper]](https://arxiv.org/pdf/2409.17978.pdf),[[Code]](https://github.com/ds-kiel/HydraViT)
-- (arXiv 2024.09) MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining, [[Paper]](https://arxiv.org/pdf/2410.00871.pdf)
+- (arXiv 2024.10) MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining, [[Paper]](https://arxiv.org/pdf/2410.00871.pdf)
