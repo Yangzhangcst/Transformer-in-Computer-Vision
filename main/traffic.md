@@ -54,3 +54,4 @@
 - (arXiv 2024.09) Transtreaming: Adaptive Delay-aware Transformer for Real-time Streaming Perception, [[Paper]](https://arxiv.org/pdf/2409.06584.pdf), [[Code]](https://anonymous.4open.science/r/Transtreaming-7333/README.md)
 - (arXiv 2024.09) LMT-Net: Lane Model Transformer Network for Automated HD Mapping from Sparse Vehicle Observations, [[Paper]](https://arxiv.org/pdf/2409.12409.pdf)
 - (arXiv 2024.09) CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention, [[Paper]](https://arxiv.org/pdf/2409.17790.pdf)
+- (arXiv 2024.10) GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2410.00299.pdf), [[Code]](https://github.com/QiZS-BIT/GSPR)
