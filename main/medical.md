@@ -625,3 +625,5 @@
 - (arXiv 2024.09) Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis, [[Paper]](https://arxiv.org/pdf/2409.16940)
 - (arXiv 2024.09) NeuroPath: A Neural Pathway Transformer for Joining the Dots of Human Connectomes, [[Paper]](https://arxiv.org/pdf/2409.17510)
 - (arXiv 2024.09) Developing a Dual-Stage Vision Transformer Model for Lung Disease Classification, [[Paper]](https://arxiv.org/pdf/2409.18257)
+- (arXiv 2024.10) Arges: Spatio-Temporal Transformer for Ulcerative Colitis Severity Assessment in Endoscopy Videos, [[Paper]](https://arxiv.org/pdf/2410.00536)
+- (arXiv 2024.10) Domain Aware Multi-Task Pretraining of 3D Swin Transformer for T1-weighted Brain MRI, [[Paper]](https://arxiv.org/pdf/2410.00410),[[Code]](https://github.com/jongdory/DAMT)
