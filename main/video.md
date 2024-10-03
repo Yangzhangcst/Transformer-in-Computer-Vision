@@ -184,3 +184,4 @@
 - (arXiv 2024.08) GAReT: Cross-view Video Geolocalization with Adapters and Auto-Regressive Transformers,  [[Paper]](https://arxiv.org/pdf/2408.02840.pdf), [[Code]](https://github.com/manupillai308/GAReT)
 - (arXiv 2024.08) Dynamic and Compressive Adaptation of Transformers From Images to Videos,  [[Paper]](https://arxiv.org/pdf/2408.06840.pdf)
 - (arXiv 2024.09) Transformer with Leveraged Masked Autoencoder for video-based Pain Assessment,  [[Paper]](https://arxiv.org/pdf/2409.05088.pdf)
+- (arXiv 2024.10) Saliency-Guided DETR for Moment Retrieval and Highlight Detection,  [[Paper]](https://arxiv.org/pdf/2410.01615.pdf)
