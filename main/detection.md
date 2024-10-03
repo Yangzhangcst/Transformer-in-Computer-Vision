@@ -235,3 +235,4 @@
 - (arXiv 2024.09) Knowledge Distillation via Query Selection for Detection Transformer, [[Paper]](https://arxiv.org/pdf/2409.06443)
 - (arXiv 2024.09) ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers, [[Paper]](https://arxiv.org/pdf/2409.07541), [[Code]](https://github.com/GSavathrakis/ENACT)
 - (arXiv 2024.09) Real-Time Detection of Electronic Components in Waste Printed Circuit Boards: A Transformer-Based Approach, [[Paper]](https://arxiv.org/pdf/2409.16496)
+- (arXiv 2024.10) CBAM-SwinT-BL: Small Rail Surface Defect Detection Method Based on Swin Transformer with Block Level CBAM Enhancement, [[Paper]](https://arxiv.org/pdf/2409.20113)
