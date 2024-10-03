@@ -36,3 +36,4 @@
 - (arXiv 2024.06) Generative AI Empowered LiDAR Point Cloud Generation with Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2406.18542.pdf)
 - (arXiv 2024.09) DiVE: DiT-based Video Generation with Enhanced Control, [[Paper]](https://arxiv.org/pdf/2409.01595.pdf)
 - (arXiv 2024.09) GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers, [[Paper]](https://arxiv.org/pdf/2409.04196.pdf), [[Code]](https://github.com/prosperolo/GST)
+- (arXiv 2024.10) ImageFolder: Autoregressive Image Generation with Folded Tokens, [[Paper]](https://arxiv.org/pdf/2410.01756.pdf), [[Code]](https://github.com/lxa9867/ImageFolder)
