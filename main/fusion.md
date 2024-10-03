@@ -9,3 +9,4 @@
 - (arXiv 2024.02) FuseFormer: A Transformer for Visual and Thermal Image Fusion, [[Paper]](https://arxiv.org/pdf/2402.00971.pdf), [[Code]](https://github.com/aytekXR/FuseFormer-Infrared-Fusion)
 - (arXiv 2024.03) Fusion Transformer with Object Mask Guidance for Image Forgery Analysis, [[Paper]](https://arxiv.org/pdf/2403.12229.pdf)
 - (arXiv 2024.03) An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models, [[Paper]](https://arxiv.org/pdf/2403.16530.pdf)
+- (arXiv 2024.10) IRFusionFormer: Enhancing Pavement Crack Segmentation with RGB-T Fusion and Topological-Based Loss, [[Paper]](https://arxiv.org/pdf/2409.20474.pdf), [[Code]](https://github.com/sheauhuu/IRFusionFormer)
