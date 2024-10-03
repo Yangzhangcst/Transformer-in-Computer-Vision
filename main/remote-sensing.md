@@ -48,3 +48,4 @@
 - (arXiv 2024.09) On-board Satellite Image Classification for Earth Observation: A Comparative Study of Pre-Trained Vision Transformer Models, [[Paper]](https://arxiv.org/pdf/2409.03901)
 - (arXiv 2024.09) VistaFormer: Scalable Vision Transformers for Satellite Image Time Series Segmentation, [[Paper]](https://arxiv.org/pdf/2409.08461)
 - (arXiv 2024.09) AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2409.17453)
+- (arXiv 2024.10) Semantic Segmentation of Unmanned Aerial Vehicle Remote Sensing Images using SegFormer, [[Paper]](https://arxiv.org/pdf/2410.01092)
