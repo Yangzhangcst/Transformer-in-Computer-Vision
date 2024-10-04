@@ -69,3 +69,4 @@
 - (arXiv 2024.08) TAMER: Tree-Aware Transformer for Handwritten Mathematical Expression Recognition, [[Paper]](https://arxiv.org/pdf/2408.08578.pdf)
 - (arXiv 2024.08) FastTextSpotter: A High-Efficiency Transformer for Multilingual Scene Text Spotting, [[Paper]](https://arxiv.org/pdf/2408.14998.pdf),[[Code]](https://github.com/alloydas/Fast-Textspotter)
 - (arXiv 2024.09) HTR-VT: Handwritten Text Recognition with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2409.08573.pdf),[[Code]](https://github.com/YutingLi0606/HTR-VT)
+- (arXiv 2024.10) HATFormer: Historic Handwritten Arabic Text Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2410.02179.pdf)
