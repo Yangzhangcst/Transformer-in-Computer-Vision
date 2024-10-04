@@ -629,3 +629,4 @@
 - (arXiv 2024.10) Domain Aware Multi-Task Pretraining of 3D Swin Transformer for T1-weighted Brain MRI, [[Paper]](https://arxiv.org/pdf/2410.00410),[[Code]](https://github.com/jongdory/DAMT)
 - (arXiv 2024.10) RS-FME-SwinT: A Novel Feature Map Enhancement Framework Integrating Customized SwinT with Residual and Spatial CNN for Monkeypox Diagnosis, [[Paper]](https://arxiv.org/pdf/2410.01216)
 - (arXiv 2024.10) TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting, [[Paper]](https://arxiv.org/pdf/2410.00986),[[Code]](https://github.com/Sharifmhamza/TransResNet)
+- (arXiv 2024.10) HiFiSeg: High-Frequency Information Enhanced Polyp Segmentation with Global-Local Vision Transformer, [[Paper]](https://arxiv.org/pdf/2410.02528)
