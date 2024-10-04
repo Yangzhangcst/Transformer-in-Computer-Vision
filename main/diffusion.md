@@ -48,3 +48,4 @@
 - (arXiv 2024.09) Token Caching for Diffusion Transformer Acceleration, [[Paper]](https://arxiv.org/pdf/2409.18523)
 - (arXiv 2024.10) ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2410.00086),[[Code]](https://github.com/modelscope/scepter)
 - (arXiv 2024.10) HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration, [[Paper]](https://arxiv.org/pdf/2410.01723)
+- (arXiv 2024.10) EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing, [[Paper]](https://arxiv.org/pdf/2410.02098)
