@@ -631,3 +631,4 @@
 - (arXiv 2024.10) TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting, [[Paper]](https://arxiv.org/pdf/2410.00986),[[Code]](https://github.com/Sharifmhamza/TransResNet)
 - (arXiv 2024.10) HiFiSeg: High-Frequency Information Enhanced Polyp Segmentation with Global-Local Vision Transformer, [[Paper]](https://arxiv.org/pdf/2410.02528)
 - (arXiv 2024.10) MECFormer: Multi-task Whole Slide Image Classification with Expert Consultation Network, [[Paper]](https://arxiv.org/pdf/2410.04507)
+- (arXiv 2024.10) Low-Rank Continual Pyramid Vision Transformer: Incrementally Segment Whole-Body Organs in CT with Light-Weighted Adaptation, [[Paper]](https://arxiv.org/pdf/2410.04689)
