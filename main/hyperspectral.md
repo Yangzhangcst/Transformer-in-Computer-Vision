@@ -32,3 +32,4 @@
 - (arXiv 2024.08) 3D-RCNet: Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2408.13728.pdf),[[Code]](https://github.com/wanggynpuer/3D-RCNet)
 - (arXiv 2024.09) AMBER -- Advanced SegFormer for Multi-Band Image Segmentation: an application to Hyperspectral Imaging, [[Paper]](https://arxiv.org/pdf/2409.09386.pdf)
 - (arXiv 2024.09) Investigation of Hierarchical Spectral Vision Transformer Architecture for Classification of Hyperspectral Imagery, [[Paper]](https://arxiv.org/pdf/2409.09244.pdf)
+- (arXiv 2024.10) Selective Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2410.03171.pdf)
