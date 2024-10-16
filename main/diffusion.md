@@ -51,3 +51,4 @@
 - (arXiv 2024.10) EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing, [[Paper]](https://arxiv.org/pdf/2410.02098)
 - (arXiv 2024.10) MDSGen: Fast and Efficient Masked Diffusion Temporal-Aware Transformers for Open-Domain Sound Generation, [[Paper]](https://arxiv.org/pdf/2410.02130)
 - (arXiv 2024.10) Dynamic Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2410.03456),[[Code]](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)
+- (arXiv 2024.10) SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2410.10629)
