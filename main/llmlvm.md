@@ -45,3 +45,4 @@
 - (arXiv 2024.08) ARPA: A Novel Hybrid Model for Advancing Visual Word Disambiguation Using Large Language Models and Transformers, [[Paper]](https://arxiv.org/pdf/2408.0640.pdf)
 - (arXiv 2024.09) VLM-KD: Knowledge Distillation from VLM for Long-Tail Visual Recognition, [[Paper]](https://arxiv.org/pdf/2408.16930.pdf)
 - (arXiv 2024.09) Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling, [[Paper]](https://arxiv.org/pdf/2409.05395.pdf), [[Code]](https://github.com/gpantaz/vl_mamba)
+- (arXiv 2024.09) TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models, [[Paper]](https://arxiv.org/pdf/2410.05239.pdf), [[Code]](https://github.com/naamiinepal/tunevlseg)
