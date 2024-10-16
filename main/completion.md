@@ -11,3 +11,4 @@
 - (arXiv 2024.05) Context and Geometry Aware Voxel Transformer for Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2405.13675.pdf),[[Code]](https://github.com/pkqbajng/CGFormer)
 - (arXiv 2024.06) GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer, [[Paper]](https://arxiv.org/pdf/2406.06596.pdf),[[Code]](https://github.com/Jinpeng-Yu/GeoFormer)
 - (arXiv 2024.10) SurgPointTransformer: Vertebrae Shape Completion with RGB-D Data, [[Paper]](https://arxiv.org/pdf/2410.01443.pdf)
+- (arXiv 2024.10) ET-Former: Efficient Triplane Deformable Attention for 3D Semantic Scene Completion From Monocular Camera, [[Paper]](https://arxiv.org/pdf/2410.11019.pdf)
