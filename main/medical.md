@@ -634,3 +634,4 @@
 - (arXiv 2024.10) Low-Rank Continual Pyramid Vision Transformer: Incrementally Segment Whole-Body Organs in CT with Light-Weighted Adaptation, [[Paper]](https://arxiv.org/pdf/2410.04689)
 - (arXiv 2024.10) An Enhanced Harmonic Densely Connected Hybrid Transformer Network Architecture for Chronic Wound Segmentation Utilising Multi-Colour Space Tensor Merging, [[Paper]](https://arxiv.org/pdf/2410.03359)
 - (arXiv 2024.10) Hybrid Transformer for Early Alzheimer's Detection: Integration of Handwriting-Based 2D Images and 1D Signal Features, [[Paper]](https://arxiv.org/pdf/2410.10547)
+- (arXiv 2024.10) Ensemble of ConvNeXt V2 and MaxViT for Long-Tailed CXR Classification with View-Based Aggregation, [[Paper]](https://arxiv.org/pdf/2410.10710),[[Code]](https://github.com/yamagishi0824/cxrlt24-multiview-pp)
