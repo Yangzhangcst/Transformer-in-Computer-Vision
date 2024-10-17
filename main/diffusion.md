@@ -53,3 +53,4 @@
 - (arXiv 2024.10) Dynamic Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2410.03456),[[Code]](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)
 - (arXiv 2024.10) SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2410.10629)
 - (arXiv 2024.10) Boosting Camera Motion Control for Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2410.10802)
+- (arXiv 2024.10) The Ingredients for Robotic Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2410.10088),[[Code]](https://github.com/sudeepdasari/dit-policy)
