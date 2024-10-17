@@ -586,3 +586,4 @@
 - (arXiv 2024.09) Multiple-Exit Tuning: Towards Inference-Efficient Adaptation for Vision Transformer, [[Paper]](https://arxiv.org/pdf/2409.13999.pdf)
 - (arXiv 2024.09) HydraViT: Stacking Heads for a Scalable ViT, [[Paper]](https://arxiv.org/pdf/2409.17978.pdf),[[Code]](https://github.com/ds-kiel/HydraViT)
 - (arXiv 2024.10) MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining, [[Paper]](https://arxiv.org/pdf/2410.00871.pdf)
+- (arXiv 2024.10) PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners, [[Paper]](https://arxiv.org/pdf/2410.04733.pdf),[[Code]](https://github.com/yyyujintang/PredFormer)
