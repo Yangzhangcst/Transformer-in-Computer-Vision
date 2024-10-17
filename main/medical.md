@@ -637,3 +637,4 @@
 - (arXiv 2024.10) Ensemble of ConvNeXt V2 and MaxViT for Long-Tailed CXR Classification with View-Based Aggregation, [[Paper]](https://arxiv.org/pdf/2410.10710),[[Code]](https://github.com/yamagishi0824/cxrlt24-multiview-pp)
 - (arXiv 2024.10) Brain Mapping with Dense Features: Grounding Cortical Semantic Selectivity in Natural Images With Vision Transformers, [[Paper]](https://arxiv.org/pdf/2410.05266)
 - (arXiv 2024.10) Performance Evaluation of Deep Learning and Transformer Models Using Multimodal Data for Breast Cancer Classification, [[Paper]](https://arxiv.org/pdf/2410.10146)
+- (arXiv 2024.10) EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2410.09674)
