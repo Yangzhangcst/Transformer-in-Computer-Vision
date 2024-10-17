@@ -35,3 +35,4 @@
 - (arXiv 2024.04) Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers, [[Paper]](https://arxiv.org/pdf/2404.09326.pdf)
 - (arXiv 2024.05) Intra-task Mutual Attention based Vision Transformer for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2405.03109.pdf)
 - (arXiv 2024.08) Siamese Transformer Networks for Few-shot Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01427.pdf)
+- (arXiv 2024.10) KNN Transformer with Pyramid Prompts for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2410.10227.pdf)
