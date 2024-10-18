@@ -33,3 +33,4 @@
 - (arXiv 2024.01) Regressing Transformers for Data-efficient Visual Place Recognition, [[Paper]](https://arxiv.org/pdf/2401.16304.pdf)
 - (arXiv 2024.01) A New Method for Vehicle Logo Recognition Based on Swin Transformer, [[Paper]](https://arxiv.org/pdf/2401.15458.pdf)
 - (arXiv 2024.07) Global-Local Similarity for Efficient Fine-Grained Image Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.12891.pdf), [[Code]](https://github.com/arkel23/GLSim)
+- (arXiv 2024.10) big.LITTLE Vision Transformer for Efficient Visual Recognition, [[Paper]](https://arxiv.org/pdf/2410.10267.pdf)
