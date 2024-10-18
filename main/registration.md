@@ -15,4 +15,5 @@
 - (arXiv 2024.03) EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration,  [[Paper]](https://arxiv.org/pdf/2403.11026.pdf)
 - (arXiv 2024.04) PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer,  [[Paper]](https://arxiv.org/pdf/2404.14034.pdf)
 - (arXiv 2024.06) Point Tree Transformer for Point Cloud Registration,  [[Paper]](https://arxiv.org/pdf/2406.17530.pdf)
-- (arXiv 2024.10)TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration,  [[Paper]](https://arxiv.org/pdf/2410.00360.pdf), [[Code]](https://github.com/muyao99/TFCT-I2P)
+- (arXiv 2024.10) TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration,  [[Paper]](https://arxiv.org/pdf/2410.00360.pdf), [[Code]](https://github.com/muyao99/TFCT-I2P)
+- (arXiv 2024.10) A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration,  [[Paper]](https://arxiv.org/pdf/2410.10295.pdf), [[Code]](https://github.com/RenlangHuang/CAST)
