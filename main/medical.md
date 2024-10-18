@@ -639,3 +639,4 @@
 - (arXiv 2024.10) Performance Evaluation of Deep Learning and Transformer Models Using Multimodal Data for Breast Cancer Classification, [[Paper]](https://arxiv.org/pdf/2410.10146)
 - (arXiv 2024.10) EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2410.09674)
 - (arXiv 2024.10) CoTCoNet: An Optimized Coupled Transformer-Convolutional Network with an Adaptive Graph Reconstruction for Leukemia Detection, [[Paper]](https://arxiv.org/pdf/2410.08797)
+- (arXiv 2024.10) Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution, [[Paper]](https://arxiv.org/pdf/2410.10352),[[Code]](https://github.com/Caipengzhou/BRAU-Net)
