@@ -104,3 +104,4 @@
 - (arXiv 2024.08) Cross-modulated Attention Transformer for RGBT Tracking, [[Paper]](https://arxiv.org/pdf/2408.02222.pdf)
 - (arXiv 2024.08) MCTR: Multi Camera Tracking Transformer, [[Paper]](https://arxiv.org/pdf/2408.13243.pdf)
 - (arXiv 2024.09) General Compression Framework for Efficient Transformer Object Tracking, [[Paper]](https://arxiv.org/pdf/2409.17564.pdf), [[Code]](https://github.com/LingyiHongfd/CompressTracker)
+- (arXiv 2024.10) Temporal-Enhanced Multimodal Transformer for Referring Multi-Object Tracking and Segmentation, [[Paper]](https://arxiv.org/pdf/2410.13437.pdf)
