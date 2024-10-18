@@ -640,3 +640,4 @@
 - (arXiv 2024.10) EG-SpikeFormer: Eye-Gaze Guided Transformer on Spiking Neural Networks for Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2410.09674)
 - (arXiv 2024.10) CoTCoNet: An Optimized Coupled Transformer-Convolutional Network with an Adaptive Graph Reconstruction for Leukemia Detection, [[Paper]](https://arxiv.org/pdf/2410.08797)
 - (arXiv 2024.10) Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution, [[Paper]](https://arxiv.org/pdf/2410.10352),[[Code]](https://github.com/Caipengzhou/BRAU-Net)
+- (arXiv 2024.10) DiRecNetV2: A Transformer-Enhanced Network for Aerial Disaster Recognition, [[Paper]](https://arxiv.org/pdf/2410.13663)
