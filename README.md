@@ -4,7 +4,7 @@ A paper list of some recent Transformer-based CV works. If you find some ignored
 
 !!The latest version has been updated, and you can click on the following links to view the list of papers and the codes (if available). The old version is [20240323](list_old_20240323.md).
 
-**Last updated: 2024/10/17
+**Last updated: 2024/10/18
 
 ## Table of Contents
 
