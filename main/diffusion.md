@@ -56,3 +56,4 @@
 - (arXiv 2024.10) The Ingredients for Robotic Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2410.10088),[[Code]](https://github.com/sudeepdasari/dit-policy)
 - (arXiv 2024.10) FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification, [[Paper]](https://arxiv.org/pdf/2410.10356)
 - (arXiv 2024.10) Precipitation Nowcasting Using Diffusion Transformer with Causal Attention, [[Paper]](https://arxiv.org/pdf/2410.13314)
+- (arXiv 2024.10) Group Diffusion Transformers are Unsupervised Multitask Learners, [[Paper]](https://arxiv.org/pdf/2410.15027)
