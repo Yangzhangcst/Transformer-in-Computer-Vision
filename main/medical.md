@@ -642,3 +642,6 @@
 - (arXiv 2024.10) Pubic Symphysis-Fetal Head Segmentation Network Using BiFormer Attention Mechanism and Multipath Dilated Convolution, [[Paper]](https://arxiv.org/pdf/2410.10352),[[Code]](https://github.com/Caipengzhou/BRAU-Net)
 - (arXiv 2024.10) DiRecNetV2: A Transformer-Enhanced Network for Aerial Disaster Recognition, [[Paper]](https://arxiv.org/pdf/2410.13663)
 - (arXiv 2024.10) Rethinking Transformer for Long Contextual Histopathology Whole Slide Image Analysis, [[Paper]](https://arxiv.org/pdf/2410.14195),[[Code]](http://github.com/invoker-LL/Long-MIL)
+- (arXiv 2024.10) An Explainable Contrastive-based Dilated Convolutional Network with Transformer for Pediatric Pneumonia Detection, [[Paper]](https://arxiv.org/pdf/2410.16143)
+- (arXiv 2024.10) EViT-Unet: U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices, [[Paper]](https://arxiv.org/pdf/2410.15036)
+- (arXiv 2024.10) MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report, [[Paper]](https://arxiv.org/pdf/2410.16239),[[Code]](https://github.com/svthapa/MoRE)
