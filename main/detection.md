@@ -238,4 +238,5 @@
 - (arXiv 2024.10) CBAM-SwinT-BL: Small Rail Surface Defect Detection Method Based on Swin Transformer with Block Level CBAM Enhancement, [[Paper]](https://arxiv.org/pdf/2409.20113)
 - (arXiv 2024.10) Cross Resolution Encoding-Decoding For Detection Transformers, [[Paper]](https://arxiv.org/pdf/2410.04088), [[Code]](https://github.com/ashishkumar822/CRED-DETR)
 - (arXiv 2024.10) SeaDATE: Remedy Dual-Attention Transformer with Semantic Alignment via Contrast Learning for Multimodal Object Detection, [[Paper]](https://arxiv.org/pdf/2410.11358)
-- (arXiv 2024.10) D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement, [[Paper]](https://arxiv.org/pdf/2410.13842, [[Code]](https://github.com/Peterande/D-FINE)
+- (arXiv 2024.10) D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement, [[Paper]](https://arxiv.org/pdf/2410.13842), [[Code]](https://github.com/Peterande/D-FINE)
+- (arXiv 2024.10) DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model, [[Paper]](https://arxiv.org/pdf/2410.16707)
