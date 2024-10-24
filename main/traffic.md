@@ -56,3 +56,4 @@
 - (arXiv 2024.09) CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention, [[Paper]](https://arxiv.org/pdf/2409.17790.pdf)
 - (arXiv 2024.10) GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2410.00299.pdf), [[Code]](https://github.com/QiZS-BIT/GSPR)
 - (arXiv 2024.10) t-READi: Transformer-Powered Robust and Efficient Multimodal Inference for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2410.09747.pdf)
+- (arXiv 2024.10) TranSPORTmer: A Holistic Approach to Trajectory Understanding in Multi-Agent Sports, [[Paper]](https://arxiv.org/pdf/2410.17785.pdf)
