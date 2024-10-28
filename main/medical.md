@@ -646,3 +646,4 @@
 - (arXiv 2024.10) EViT-Unet: U-Net Like Efficient Vision Transformer for Medical Image Segmentation on Mobile and Edge Devices, [[Paper]](https://arxiv.org/pdf/2410.15036)
 - (arXiv 2024.10) MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report, [[Paper]](https://arxiv.org/pdf/2410.16239),[[Code]](https://github.com/svthapa/MoRE)
 - (arXiv 2024.10) Surgical Scene Segmentation by Transformer With Asymmetric Feature Enhancement, [[Paper]](https://arxiv.org/pdf/2410.17642),[[Code]](https://github.com/cyuan-sjtu/ViT-asym)
+- (arXiv 2024.10) DCT-HistoTransformer: Efficient Lightweight Vision Transformer with DCT Integration for histopathological image analysis, [[Paper]](https://arxiv.org/pdf/2410.19166)
