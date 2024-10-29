@@ -38,3 +38,4 @@
 - (arXiv 2024.09) GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers, [[Paper]](https://arxiv.org/pdf/2409.04196.pdf), [[Code]](https://github.com/prosperolo/GST)
 - (arXiv 2024.10) ImageFolder: Autoregressive Image Generation with Folded Tokens, [[Paper]](https://arxiv.org/pdf/2410.01756.pdf), [[Code]](https://github.com/lxa9867/ImageFolder)
 - (arXiv 2024.10) A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation, [[Paper]](https://arxiv.org/pdf/2410.01912.pdf), [[Code]](https://github.com/chenllliang/DnD-Transformer)
+- (arXiv 2024.10) ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation, [[Paper]](https://arxiv.org/pdf/2410.20502.pdf), [[Code]](https://arlont2v.github.io/)
