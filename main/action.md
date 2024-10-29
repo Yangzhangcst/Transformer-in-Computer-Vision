@@ -138,3 +138,4 @@
 - (arXiv 2024.09) ReL-SAR: Representation Learning for Skeleton Action Recognition with Convolutional Transformers and BYOL,  [[Paper]](https://arxiv.org/pdf/2409.05749.pdf),[[Code]](https://github.com/SafwenNaimi/Representation-Learning-for-Skeleton-Action-Recognition-with-Convolutional-Transformers-and-BYOL)
 - (arXiv 2024.09) InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation,  [[Paper]](https://arxiv.org/pdf/2409.07914.pdf)
 - (arXiv 2024.10) Deep Learning for Active Region Classification: A Systematic Study from Convolutional Neural Networks to Vision Transformers,  [[Paper]](https://arxiv.org/pdf/2410.17816.pdf)
+- (arXiv 2024.10) LiGAR: LiDAR-Guided Hierarchical Transformer for Multi-Modal Group Activity Recognition,  [[Paper]](https://arxiv.org/pdf/2410.21108.pdf)
