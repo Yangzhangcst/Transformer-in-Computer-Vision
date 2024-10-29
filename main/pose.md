@@ -117,3 +117,4 @@
 - (arXiv 2024.07) STGFormer: Spatio-Temporal GraphFormer for 3D Human Pose Estimation in Video, [[Paper]](https://arxiv.org/pdf/2407.10099.pdf)
 - (arXiv 2024.09) Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry, [[Paper]](https://arxiv.org/pdf/2409.08769.pdf), [[Code]](https://github.com/ybkurt/VIFT)
 - (arXiv 2024.10) Enhancing 3D Human Pose Estimation Amidst Severe Occlusion with Dual Transformer Fusion, [[Paper]](https://arxiv.org/pdf/2410.04574.pdf), [[Code]](https://github.com/MehwishG/DTF)
+- (arXiv 2024.10) YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning, [[Paper]](https://arxiv.org/pdf/2410.19846.pdf)
