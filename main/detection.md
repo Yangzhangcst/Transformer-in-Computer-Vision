@@ -241,3 +241,4 @@
 - (arXiv 2024.10) D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement, [[Paper]](https://arxiv.org/pdf/2410.13842), [[Code]](https://github.com/Peterande/D-FINE)
 - (arXiv 2024.10) DI-MaskDINO: A Joint Object Detection and Instance Segmentation Model, [[Paper]](https://arxiv.org/pdf/2410.16707)
 - (arXiv 2024.10) Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models, [[Paper]](https://arxiv.org/pdf/2410.19635), [[Code]](https://github.com/iSEE-Laboratory/Frozen-DETR)
+- (arXiv 2024.10) PViT: Prior-augmented Vision Transformer for Out-of-distribution Detection, [[Paper]](https://arxiv.org/pdf/2410.20631)
