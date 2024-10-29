@@ -647,3 +647,7 @@
 - (arXiv 2024.10) MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report, [[Paper]](https://arxiv.org/pdf/2410.16239),[[Code]](https://github.com/svthapa/MoRE)
 - (arXiv 2024.10) Surgical Scene Segmentation by Transformer With Asymmetric Feature Enhancement, [[Paper]](https://arxiv.org/pdf/2410.17642),[[Code]](https://github.com/cyuan-sjtu/ViT-asym)
 - (arXiv 2024.10) DCT-HistoTransformer: Efficient Lightweight Vision Transformer with DCT Integration for histopathological image analysis, [[Paper]](https://arxiv.org/pdf/2410.19166)
+- (arXiv 2024.10) Training Compute-Optimal Vision Transformers for Brain Encoding, [[Paper]](https://arxiv.org/pdf/2410.19810)
+- (arXiv 2024.10) Transforming Precision: A Comparative Analysis of Vision Transformers, CNNs, and Traditional ML for Knee Osteoarthritis Severity Diagnosis, [[Paper]](https://arxiv.org/pdf/2410.20062)
+- (arXiv 2024.10) UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2410.20348),[[Code]](https://github.com/Runshi-Zhang/UTSRMorph)
+- (arXiv 2024.10) Transformer-Based Tooth Alignment Prediction With Occlusion And Collision Constraints, [[Paper]](https://arxiv.org/pdf/2410.20806)
