@@ -651,3 +651,4 @@
 - (arXiv 2024.10) Transforming Precision: A Comparative Analysis of Vision Transformers, CNNs, and Traditional ML for Knee Osteoarthritis Severity Diagnosis, [[Paper]](https://arxiv.org/pdf/2410.20062)
 - (arXiv 2024.10) UTSRMorph: A Unified Transformer and Superresolution Network for Unsupervised Medical Image Registration, [[Paper]](https://arxiv.org/pdf/2410.20348),[[Code]](https://github.com/Runshi-Zhang/UTSRMorph)
 - (arXiv 2024.10) Transformer-Based Tooth Alignment Prediction With Occlusion And Collision Constraints, [[Paper]](https://arxiv.org/pdf/2410.20806)
+- (arXiv 2024.10) SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection, [[Paper]](https://arxiv.org/pdf/2410.21813),[[Code]](https://github.com/VVJia/SAM-Swin)
