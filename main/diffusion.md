@@ -60,3 +60,5 @@
 - (arXiv 2024.10) Diffusion Transformer Policy, [[Paper]](https://arxiv.org/pdf/2410.15959)
 - (arXiv 2024.10) On Inductive Biases That Enable Generalization of Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2410.21273)
 - (arXiv 2024.10) GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation, [[Paper]](https://arxiv.org/pdf/2410.20474),[[Code]](https://github.com/KAIST-Visual-AI-Group/GrounDiT/)
+- (arXiv 2024.10) EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching, [[Paper]](https://arxiv.org/pdf/2410.23788),[[Code]](https://github.com/xinwangChen/EDT)
+- (arXiv 2024.10) In-Context LoRA for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2410.23775),[[Code]](https://github.com/ali-vilab/In-Context-LoRA)
