@@ -590,3 +590,4 @@
 - (arXiv 2024.10) DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention, [[Paper]](https://arxiv.org/pdf/2410.08582.pdf),[[Code]](https://github.com/maclong01/DeBiFormer)
 - (arXiv 2024.10) Improving Vision Transformers by Overlapping Heads in Multi-Head Self-Attention, [[Paper]](https://arxiv.org/pdf/2410.14874.pdf)
 - (arXiv 2024.10) Efficient Adaptation of Pre-trained Vision Transformer via Householder Transformation, [[Paper]](https://arxiv.org/pdf/2410.22952.pdf)
+- (arXiv 2024.10) Context-Aware Token Selection and Packing for Enhanced Vision Transformer, [[Paper]](https://arxiv.org/pdf/2410.23608.pdf)
