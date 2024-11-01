@@ -71,3 +71,4 @@
 - (arXiv 2024.09) HTR-VT: Handwritten Text Recognition with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2409.08573.pdf),[[Code]](https://github.com/YutingLi0606/HTR-VT)
 - (arXiv 2024.10) HATFormer: Historic Handwritten Arabic Text Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2410.02179.pdf)
 - (arXiv 2024.10) Transformers Utilization in Chart Understanding: A Review of Recent Advances & Future Trends, [[Paper]](https://arxiv.org/pdf/2410.13883.pdf)
+- (arXiv 2024.10) High-Fidelity Document Stain Removal via A Large-Scale Real-World Dataset and A Memory-Augmented Transformer, [[Paper]](https://arxiv.org/pdf/2410.22922.pdf),[[Code]](https://github.com/CXH-Research/StainRestorer）
