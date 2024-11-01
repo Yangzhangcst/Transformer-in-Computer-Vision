@@ -21,3 +21,4 @@
 - (arXiv 2024.05) TP3M: Transformer-based Pseudo 3D Image Matching with Reference, [[Paper]](https://arxiv.org/pdf/2405.08434.pdf)
 - (arXiv 2024.06) CorrMAE: Pre-training Correspondence Transformers with Masked Autoencoder, [[Paper]](https://arxiv.org/pdf/2409.02545.pdf)
 - (arXiv 2024.10) ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses, [[Paper]](https://arxiv.org/pdf/2410.22733.pdf)
+- (arXiv 2024.10) LoFLAT: Local Feature Matching using Focused Linear Attention Transformer, [[Paper]](https://arxiv.org/pdf/2410.22710.pdf)
