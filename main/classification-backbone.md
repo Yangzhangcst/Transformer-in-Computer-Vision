@@ -589,3 +589,4 @@
 - (arXiv 2024.10) PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners, [[Paper]](https://arxiv.org/pdf/2410.04733.pdf),[[Code]](https://github.com/yyyujintang/PredFormer)
 - (arXiv 2024.10) DeBiFormer: Vision Transformer with Deformable Agent Bi-level Routing Attention, [[Paper]](https://arxiv.org/pdf/2410.08582.pdf),[[Code]](https://github.com/maclong01/DeBiFormer)
 - (arXiv 2024.10) Improving Vision Transformers by Overlapping Heads in Multi-Head Self-Attention, [[Paper]](https://arxiv.org/pdf/2410.14874.pdf)
+- (arXiv 2024.10) Efficient Adaptation of Pre-trained Vision Transformer via Householder Transformation, [[Paper]](https://arxiv.org/pdf/2410.22952.pdf)
