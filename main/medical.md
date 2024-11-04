@@ -654,3 +654,4 @@
 - (arXiv 2024.10) SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection, [[Paper]](https://arxiv.org/pdf/2410.21813),[[Code]](https://github.com/VVJia/SAM-Swin)
 - (arXiv 2024.10) MAPUNetR: A Hybrid Vision Transformer and U-Net Architecture for Efficient and Interpretable Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2410.22223)
 - (arXiv 2024.10) st-DTPM: Spatial-Temporal Guided Diffusion Transformer Probabilistic Model for Delayed Scan PET Image Prediction, [[Paper]](https://arxiv.org/pdf/2410.22732)
+- (arXiv 2024.10) Cross-Fundus Transformer for Multi-modal Diabetic Retinopathy Grading with Cataract, [[Paper]](https://arxiv.org/pdf/2411.00726)
