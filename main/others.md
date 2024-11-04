@@ -254,3 +254,4 @@
 - (arXiv 2024.09) SOFI: Multi-Scale Deformable Transformer for Camera Calibration with Enhanced Line Queries, [[Paper]](https://arxiv.org/pdf/2409.15553.pdf), [[Code]](https://github.com/SebastianJanampa/SOFI)
 - (arXiv 2024.10) Interpretable Image Classification with Adaptive Prototype-based Vision Transformers, [[Paper]](https://arxiv.org/pdf/2410.20722.pdf), [[Code]](https://github.com/Henrymachiyu/ProtoViT)
 - (arXiv 2024.10) Constrained Transformer-Based Porous Media Generation to Spatial Distribution of Rock Properties, [[Paper]](https://arxiv.org/pdf/2410.21462.pdf)
+- (arXiv 2024.10) ResiDual Transformer Alignment with Spectral Decomposition, [[Paper]](https://arxiv.org/pdf/2411.00246.pdf)
