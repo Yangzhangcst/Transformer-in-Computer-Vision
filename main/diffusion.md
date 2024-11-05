@@ -63,3 +63,4 @@
 - (arXiv 2024.10) EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching, [[Paper]](https://arxiv.org/pdf/2410.23788),[[Code]](https://github.com/xinwangChen/EDT)
 - (arXiv 2024.10) In-Context LoRA for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2410.23775),[[Code]](https://github.com/ali-vilab/In-Context-LoRA)
 - (arXiv 2024.11) Learning Where to Edit Vision Transformers, [[Paper]](https://arxiv.org/pdf/2411.01948),[[Code]](https://github.com/hustyyq/Where-to-Edit)
+- (arXiv 2024.11) Adaptive Caching for Faster Video Generation with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2411.02397),[[Code]](https://github.com/AdaCache-DiT/AdaCache)
