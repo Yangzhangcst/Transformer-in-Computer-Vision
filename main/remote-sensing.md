@@ -50,3 +50,4 @@
 - (arXiv 2024.09) AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2409.17453)
 - (arXiv 2024.10) Semantic Segmentation of Unmanned Aerial Vehicle Remote Sensing Images using SegFormer, [[Paper]](https://arxiv.org/pdf/2410.01092)
 - (arXiv 2024.10) SpecSAR-Former: A Lightweight Transformer-based Network for Global LULC Mapping Using Integrated Sentinel-1 and Sentinel-2, [[Paper]](https://arxiv.org/pdf/2410.03962)
+- (arXiv 2024.10) RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2411.01595)
