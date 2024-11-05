@@ -15,3 +15,4 @@
 - (arXiv 2024.02) EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization, [[Paper]](https://arxiv.org/pdf/2402.13537.pdf)
 - (arXiv 2024.05) Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation, [[Paper]](https://arxiv.org/pdf/2405.01527.pdf), [[Project]](https://homangab.github.io/track2act/)
 - (arXiv 2024.06) Adapting Pretrained ViTs with Convolution Injector for Visuo-Motor Control, [[Paper]](https://arxiv.org/pdf/2406.06072.pdf), [[Project]](https://github.com/dojeon-ai/CoIn)
+- (arXiv 2024.11) HiMemFormer: Hierarchical Memory-Aware Transformer for Multi-Agent Action Anticipation, [[Paper]](https://arxiv.org/pdf/2411.01455.pdf)
