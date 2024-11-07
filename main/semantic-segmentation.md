@@ -156,3 +156,4 @@
 - (arXiv 2024.09) Hybrid-Segmentor: A Hybrid Approach to Automated Fine-Grained Crack Segmentation in Civil Infrastructure, [[Paper]](https://arxiv.org/pdf/2409.02866.pdf)
 - (arXiv 2024.09) MSDNet: Multi-Scale Decoder for Few-Shot Semantic Segmentation via Transformer-Guided Prototyping, [[Paper]](https://arxiv.org/pdf/2409.11316.pdf),[[Code]](https://github.com/amirrezafateh/MSDNet)
 - (arXiv 2024.09) Diffusion-based RGB-D Semantic Segmentation with Deformable Attention Transformer, [[Paper]](https://arxiv.org/pdf/2409.15117.pdf),[[Code]](https://github.com/bqm1111/DiffusionMMS)
+- (arXiv 2024.11) Rethinking Decoders for Transformer-based Semantic Segmentation: Compression is All You Need, [[Paper]](https://arxiv.org/pdf/2411.03033.pdf),[[Code]](https://github.com/QishuaiWen/DEPICT)
