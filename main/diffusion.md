@@ -65,3 +65,5 @@
 - (arXiv 2024.11) Learning Where to Edit Vision Transformers, [[Paper]](https://arxiv.org/pdf/2411.01948),[[Code]](https://github.com/hustyyq/Where-to-Edit)
 - (arXiv 2024.11) Adaptive Caching for Faster Video Generation with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2411.02397),[[Code]](https://github.com/AdaCache-DiT/AdaCache)
 - (arXiv 2024.11) DiT4Edit: Diffusion Transformer for Image Editing, [[Paper]](https://arxiv.org/pdf/2411.03286)
+- (arXiv 2024.11) DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for Audio-Driven Dance Motion Reconstruction, [[Paper]](https://arxiv.org/pdf/2411.04646),[[Code]](https://th-mlab.github.io/DanceFusion/)
+- (arXiv 2024.11) DiT4Edit: Diffusion Transformer for Image Editing, [[Paper]](https://arxiv.org/pdf/2411.03286),[[Code]](https://github.com/fkyyyy/DiT4Edit)
