@@ -255,3 +255,4 @@
 - (arXiv 2024.10) Interpretable Image Classification with Adaptive Prototype-based Vision Transformers, [[Paper]](https://arxiv.org/pdf/2410.20722.pdf), [[Code]](https://github.com/Henrymachiyu/ProtoViT)
 - (arXiv 2024.10) Constrained Transformer-Based Porous Media Generation to Spatial Distribution of Rock Properties, [[Paper]](https://arxiv.org/pdf/2410.21462.pdf)
 - (arXiv 2024.10) ResiDual Transformer Alignment with Spectral Decomposition, [[Paper]](https://arxiv.org/pdf/2411.00246.pdf)
+- (arXiv 2024.11) WiFlexFormer: Efficient WiFi-Based Person-Centric Sensing, [[Paper]](https://arxiv.org/pdf/2411.04224.pdf), [[Code]](https://github.com/StrohmayerJ/WiFlexFormer)
