@@ -186,3 +186,4 @@
 - (arXiv 2024.09) Transformer with Leveraged Masked Autoencoder for video-based Pain Assessment,  [[Paper]](https://arxiv.org/pdf/2409.05088.pdf)
 - (arXiv 2024.10) Saliency-Guided DETR for Moment Retrieval and Highlight Detection,  [[Paper]](https://arxiv.org/pdf/2410.01615.pdf)
 - (arXiv 2024.11) SSTAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models,  [[Paper]](https://arxiv.org/pdf/2411.00630.pdf)
+- (arXiv 2024.11) Don't Look Twice: Faster Video Transformers with Run-Length Tokenization,  [[Paper]](https://arxiv.org/pdf/2411.05222.pdf), [[Code]](https://rccchoudhury.github.io/rlt/)
