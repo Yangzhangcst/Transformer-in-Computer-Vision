@@ -140,3 +140,4 @@
 - (arXiv 2024.10) Deep Learning for Active Region Classification: A Systematic Study from Convolutional Neural Networks to Vision Transformers,  [[Paper]](https://arxiv.org/pdf/2410.17816.pdf)
 - (arXiv 2024.10) LiGAR: LiDAR-Guided Hierarchical Transformer for Multi-Modal Group Activity Recognition,  [[Paper]](https://arxiv.org/pdf/2410.21108.pdf)
 - (arXiv 2024.10) Spatio-temporal Transformers for Action Unit Classification with Event Cameras,  [[Paper]](https://arxiv.org/pdf/2410.21958.pdf)
+- (arXiv 2024.11) Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition,  [[Paper]](https://arxiv.org/pdf/2411.05692.pdf)
