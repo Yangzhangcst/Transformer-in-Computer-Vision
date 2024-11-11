@@ -8,3 +8,4 @@
 - (arxiv 2024.05) PT43D: A Probabilistic Transformer for Generating 3D Shapes from Single Highly-Ambiguous RGB Images, [[Paper]](https://arxiv.org/pdf/2405.11914.pdf)
 - (arxiv 2024.07) PASTA: Controllable Part-Aware Shape Generation with Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2407.13677.pdf)
 - (arxiv 2024.09) VSFormer: Mining Correlations in Flexible View Set for Multi-view 3D Shape Understanding, [[Paper]](https://arxiv.org/pdf/2409.09254.pdf), [[Code]](https://github.com/auniquesun/VSFormer)
+- (arxiv 2024.11) POC-SLT: Partial Object Completion with SDF Latent Transformers, [[Paper]](https://arxiv.org/pdf/2411.05419.pdf)
