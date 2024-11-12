@@ -52,3 +52,4 @@
 - (arXiv 2024.10) SpecSAR-Former: A Lightweight Transformer-based Network for Global LULC Mapping Using Integrated Sentinel-1 and Sentinel-2, [[Paper]](https://arxiv.org/pdf/2410.03962)
 - (arXiv 2024.10) RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2411.01595)
 - (arXiv 2024.11) STARS: Sensor-agnostic Transformer Architecture for Remote Sensing, [[Paper]](https://arxiv.org/pdf/2411.05714)
+- (arXiv 2024.11) Pattern Integration and Enhancement Vision Transformer for Self-Supervised Learning in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2411.06091)
