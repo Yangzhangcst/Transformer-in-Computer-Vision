@@ -28,3 +28,4 @@
 - (arXiv 2024.07) Continual Distillation Learning, [[Paper]](https://arxiv.org/pdf/2407.13911v1.pdf), [[Code]](https://github.com/IRVLUTD/CDL)
 - (arXiv 2024.08) Optimizing Vision Transformers with Data-Free Knowledge Transfer, [[Paper]](https://arxiv.org/pdf/2408.05952.pdf)
 - (arXiv 2024.08) Adaptive Knowledge Distillation for Classification of Hand Images using Explainable Vision Transformers, [[Paper]](https://arxiv.org/pdf/2408.10503.pdf)
+- (arXiv 2024.11) ScaleKD: Strong Vision Transformers Could Be Excellent Teachers, [[Paper]](https://arxiv.org/pdf/2411.06786.pdf), [[Code]](https://github.com/deep-optimization/ScaleKD)
