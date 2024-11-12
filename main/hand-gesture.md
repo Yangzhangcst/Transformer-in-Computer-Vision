@@ -8,3 +8,4 @@
 - (arXiv 2024.05) GestFormer: Multiscale Wavelet Pooling Transformer Network for Dynamic Hand Gesture Recognition, [[Paper]](https://arxiv.org/pdf/2405.11180.pdf), [[Code]](https://github.com/mallikagarg/GestFormer)
 - (arXiv 2024.08) MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation, [[Paper]](https://arxiv.org/pdf/2408.03312.pdf), [[Code]](https://xiaofenmao.github.io/web-project/MDT-A2G/)
 - (arXiv 2024.09) MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition, [[Paper]](https://arxiv.org/pdf/2409.03890.pdf), [[Code]](https://github.com/mallikagarg/MVTN)
+- (arXiv 2024.11) ConvMixFormer- A Resource-efficient Convolution Mixer for Transformer-based Dynamic Hand Gesture Recognition, [[Paper]](https://arxiv.org/pdf/2411.07118.pdf), [[Code]](https://github.com/mallikagarg/ConvMixFormer)
