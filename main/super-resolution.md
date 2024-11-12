@@ -75,3 +75,4 @@
 - (arXiv 2024.09) HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution, [[Paper]](https://arxiv.org/pdf/2408.16959.pdf),[[Code]](https://github.com/bia006/HiTSR/tree/main?tab=readme-ov-file)
 - (arXiv 2024.09) LMLT: Low-to-high Multi-Level Vision Transformer for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2409.03516.pdf),[[Code]](https://github.com/jwgdmkj/LMLT)
 - (arXiv 2024.09) Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer, [[Paper]](https://arxiv.org/pdf/2409.06590.pdf)
+- (arXiv 2024.11) Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution, [[Paper]](https://arxiv.org/pdf/2411.06442.pdf),[[Code]](https://github.com/dmhdmhdmh/LIWT)
