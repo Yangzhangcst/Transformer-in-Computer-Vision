@@ -58,3 +58,4 @@
 - (arXiv 2024.10) t-READi: Transformer-Powered Robust and Efficient Multimodal Inference for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2410.09747.pdf)
 - (arXiv 2024.10) TranSPORTmer: A Holistic Approach to Trajectory Understanding in Multi-Agent Sports, [[Paper]](https://arxiv.org/pdf/2410.17785.pdf)
 - (arXiv 2024.11) Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory, [[Paper]](https://arxiv.org/pdf/2411.04501.pdf)
+- (arXiv 2024.11) Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent, [[Paper]](https://arxiv.org/pdf/2411.05898.pdf)
