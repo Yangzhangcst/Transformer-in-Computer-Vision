@@ -36,3 +36,4 @@
 - (arXiv 2024.08) PartFormer: Awakening Latent Diverse Representation from Vision Transformer for Object Re-Identification, [[Paper]](https://arxiv.org/pdf/2408.16684.pdf)
 - (arXiv 2024.09) Tran-GCN: A Transformer-Enhanced Graph Convolutional Network for Person Re-Identification in Monitoring Videos, [[Paper]](https://arxiv.org/pdf/2409.09391.pdf)
 - (arXiv 2024.10) Exploring Stronger Transformer Representation Learning for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2410.15613.pdf)
+- (arXiv 2024.11) Adaptive Aspect Ratios with Patch-Mixup-ViT-based Vehicle ReID, [[Paper]](https://arxiv.org/pdf/2411.06297.pdf), [[Code]](https://github.com/qiumei1101/Adaptive_AR_PM_TransReID)
