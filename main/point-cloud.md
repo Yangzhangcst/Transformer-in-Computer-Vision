@@ -147,3 +147,4 @@
 - (arXiv 2024.09) ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers, [[Paper]](https://arxiv.org/pdf/2409.01216.pdf), [[Code]](https://github.com/lymei-SEU/ESP-PCT)
 - (arXiv 2024.09) UniDet3D: Multi-dataset Indoor 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2409.04234.pdf), [[Code]](https://github.com/filapro/unidet3d)
 - (arXiv 2024.09) HydroVision: LiDAR-Guided Hydrometric Prediction with Vision Transformers and Hybrid Graph Learning, [[Paper]](https://arxiv.org/pdf/2409.15213.pdf)
+- (arXiv 2024.11) Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer, [[Paper]](https://arxiv.org/pdf/2411.07899.pdf)
