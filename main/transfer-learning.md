@@ -43,3 +43,4 @@
 - (arXiv 2024.08) Adaptive Layer Selection for Efficient Vision Transformer Fine-Tuning, [[Paper]](https://arxiv.org/pdf/2408.08670.pdf)
 - (arXiv 2024.09) iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation, [[Paper]](https://arxiv.org/pdf/2409.02838.pdf)
 - (arXiv 2024.10) Advanced Arabic Alphabet Sign Language Recognition Using Transfer Learning and Transformer Models, [[Paper]](https://arxiv.org/pdf/2410.00681.pdf)
+- (arXiv 2024.11) Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2411.07794.pdf)
