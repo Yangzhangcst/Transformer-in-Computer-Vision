@@ -53,3 +53,4 @@
 - (arXiv 2024.10) RS-MoE: Mixture of Experts for Remote Sensing Image Captioning and Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2411.01595)
 - (arXiv 2024.11) STARS: Sensor-agnostic Transformer Architecture for Remote Sensing, [[Paper]](https://arxiv.org/pdf/2411.05714)
 - (arXiv 2024.11) Pattern Integration and Enhancement Vision Transformer for Self-Supervised Learning in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2411.06091)
+- (arXiv 2024.11) CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory, [[Paper]](https://arxiv.org/pdf/2411.07863), [[Code]](https://github.com/xwmaxwma/rschange)
