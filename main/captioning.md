@@ -42,4 +42,4 @@
 - (arXiv 2023.09) Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning, [[Paper]](https://arxiv.org/pdf/2309.02999.pdf), [[Code]](https://github.com/ch3cook-fdu/Vote2Cap-DETR)
 - (arXiv 2023.09) Collaborative Three-Stream Transformers for Video Captioning, [[Paper]](https://arxiv.org/pdf/2309.09611.pdf), [[Code]](https://github.com/ch3cook-fdu/Vote2Cap-DETR)
 - (arXiv 2023.09) Accurate and Fast Compressed Video Captioning, [[Paper]](https://arxiv.org/pdf/2309.12867.pdf), [[Code]](https://github.com/acherstyx/CoCap)
-- (arXiv 2023.11) ViTOC: Vision Transformer and Object-aware Captioner, [[Paper]](https://arxiv.org/pdf/2411.07265.pdf)
+- (arXiv 2024.11) ViTOC: Vision Transformer and Object-aware Captioner, [[Paper]](https://arxiv.org/pdf/2411.07265.pdf)
