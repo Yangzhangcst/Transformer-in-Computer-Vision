@@ -187,3 +187,5 @@
 - (arXiv 2024.10) Saliency-Guided DETR for Moment Retrieval and Highlight Detection,  [[Paper]](https://arxiv.org/pdf/2410.01615.pdf)
 - (arXiv 2024.11) SSTAA: Spatio-Temporal Attention Attribution for Real-Time Interpreting Transformer-based Video Models,  [[Paper]](https://arxiv.org/pdf/2411.00630.pdf)
 - (arXiv 2024.11) Don't Look Twice: Faster Video Transformers with Run-Length Tokenization,  [[Paper]](https://arxiv.org/pdf/2411.05222.pdf), [[Code]](https://rccchoudhury.github.io/rlt/)
+- (arXiv 2024.11) DT-JRD: Deep Transformer based Just Recognizable Difference Prediction Model for Video Coding for Machines,  [[Paper]](https://arxiv.org/pdf/2411.09308)
+
