@@ -54,3 +54,4 @@
 - (arXiv 2024.11) STARS: Sensor-agnostic Transformer Architecture for Remote Sensing, [[Paper]](https://arxiv.org/pdf/2411.05714)
 - (arXiv 2024.11) Pattern Integration and Enhancement Vision Transformer for Self-Supervised Learning in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2411.06091)
 - (arXiv 2024.11) CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory, [[Paper]](https://arxiv.org/pdf/2411.07863), [[Code]](https://github.com/xwmaxwma/rschange)
+- (arXiv 2024.11) Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery, [[Paper]](https://arxiv.org/pdf/2411.09101), [[Code]](https://github.com/ashimdahal/ViT-vs-CNN-ImageSegmentation)
