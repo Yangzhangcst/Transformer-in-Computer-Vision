@@ -67,3 +67,4 @@
 - (arXiv 2024.11) DiT4Edit: Diffusion Transformer for Image Editing, [[Paper]](https://arxiv.org/pdf/2411.03286)
 - (arXiv 2024.11) DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for Audio-Driven Dance Motion Reconstruction, [[Paper]](https://arxiv.org/pdf/2411.04646),[[Code]](https://th-mlab.github.io/DanceFusion/)
 - (arXiv 2024.11) DiT4Edit: Diffusion Transformer for Image Editing, [[Paper]](https://arxiv.org/pdf/2411.03286),[[Code]](https://github.com/fkyyyy/DiT4Edit)
+- (arXiv 2024.11) Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing, [[Paper]](https://arxiv.org/pdf/2411.08196)
