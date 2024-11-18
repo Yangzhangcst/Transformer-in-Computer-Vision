@@ -658,3 +658,4 @@
 - (arXiv 2024.11) AuthFormer: Adaptive Multimodal biometric authentication transformer for middle-aged and elderly people, [[Paper]](https://arxiv.org/pdf/2411.05395)
 - (arXiv 2024.11) ViT Enhanced Privacy-Preserving Secure Medical Data Sharing and Classification, [[Paper]](https://arxiv.org/pdf/2411.05901)
 - (arXiv 2024.11) NACNet: A Histology Context-aware Transformer Graph Convolution Network for Predicting Treatment Response to Neoadjuvant Chemotherapy in Triple Negative Breast Cancer, [[Paper]](https://arxiv.org/pdf/2411.09766)
+- (arXiv 2024.11) TRACE: Transformer-based Risk Assessment for Clinical Evaluation, [[Paper]](https://arxiv.org/pdf/2411.08701)
