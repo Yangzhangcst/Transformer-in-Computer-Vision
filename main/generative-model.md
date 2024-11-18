@@ -40,3 +40,4 @@
 - (arXiv 2024.10) A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation, [[Paper]](https://arxiv.org/pdf/2410.01912.pdf), [[Code]](https://github.com/chenllliang/DnD-Transformer)
 - (arXiv 2024.10) ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation, [[Paper]](https://arxiv.org/pdf/2410.20502.pdf), [[Code]](https://arlont2v.github.io/)
 - (arXiv 2024.11) SplatFormer: Point Transformer for Robust 3D Gaussian Splatting, [[Paper]](https://arxiv.org/pdf/2411.06390.pdf), [[Code]](https://github.com/ChenYutongTHU/SplatFormer)
+- (arXiv 2024.11) CART: Compositional Auto-Regressive Transformer for Image Generation, [[Paper]](https://arxiv.org/pdf/2411.10180.pdf)
