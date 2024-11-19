@@ -69,3 +69,4 @@
 - (arXiv 2024.11) DiT4Edit: Diffusion Transformer for Image Editing, [[Paper]](https://arxiv.org/pdf/2411.03286),[[Code]](https://github.com/fkyyyy/DiT4Edit)
 - (arXiv 2024.11) Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing, [[Paper]](https://arxiv.org/pdf/2411.08196)
 - (arXiv 2024.11) LaVin-DiT: Large Vision Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2411.11505)
+- (arXiv 2024.11) FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on, [[Paper]](https://arxiv.org/pdf/2411.10499),[[Code]](https://github.com/BoyuanJiang/FitDiT)
