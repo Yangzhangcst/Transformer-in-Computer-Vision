@@ -22,3 +22,4 @@
 - (arXiv 2024.08) MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model, [[Paper]](https://arxiv.org/pdf/2408.10198.pdf), [[Code]](https://meshformer3d.github.io/)
 - (arXiv 2024.09) G3PT: Unleash the power of Autoregressive Modeling in 3D Generation via Cross-scale Querying Transformer, [[Paper]](https://arxiv.org/pdf/2409.06322.pdf)
 - (arXiv 2024.10) A Recipe for Geometry-Aware 3D Mesh Transformers, [[Paper]](https://arxiv.org/pdf/2411.00164.pdf)
+- (arXiv 2024.11) DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2411.11214.pdf)
