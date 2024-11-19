@@ -29,3 +29,4 @@
 - (arXiv 2024.07) Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration,  [[Paper]](https://arxiv.org/pdf/2407.01636.pdf)
 - (arXiv 2024.07) Generative Iris Prior Embedded Transformer for Iris Restoration,  [[Paper]](https://arxiv.org/pdf/2407.00261.pdf), [[Code]](https://github.com/sawyercharlton/Gformer)
 - (arXiv 2024.09) Multi-Weather Image Restoration via Histogram-Based Transformer Feature Enhancement,  [[Paper]](https://arxiv.org/pdf/2409.06334.pdf)
+- (arXiv 2024.11) AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations,  [[Paper]](https://arxiv.org/pdf/2411.10708.pdf)
