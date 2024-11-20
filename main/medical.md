@@ -661,3 +661,4 @@
 - (arXiv 2024.11) TRACE: Transformer-based Risk Assessment for Clinical Evaluation, [[Paper]](https://arxiv.org/pdf/2411.08701)
 - (arXiv 2024.11) Freqformer: Frequency-Domain Transformer for 3-D Visualization and Quantification of Human Retinal Circulation, [[Paper]](https://arxiv.org/pdf/2411.11189)
 - (arXiv 2024.11) Lung Disease Detection with Vision Transformers: A Comparative Study of Machine Learning Methods, [[Paper]](https://arxiv.org/pdf/2411.11376)
+- (arXiv 2024.11) S3TU-Net: Structured Convolution and Superpixel Transformer for Lung Nodule Segmentation, [[Paper]](https://arxiv.org/pdf/2411.12547)
