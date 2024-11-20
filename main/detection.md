@@ -243,3 +243,4 @@
 - (arXiv 2024.10) Frozen-DETR: Enhancing DETR with Image Understanding from Frozen Foundation Models, [[Paper]](https://arxiv.org/pdf/2410.19635), [[Code]](https://github.com/iSEE-Laboratory/Frozen-DETR)
 - (arXiv 2024.10) PViT: Prior-augmented Vision Transformer for Out-of-distribution Detection, [[Paper]](https://arxiv.org/pdf/2410.20631)
 - (arXiv 2024.10) Unbiased Regression Loss for DETRs, [[Paper]](https://arxiv.org/pdf/2410.22638)
+- (arXiv 2024.11) RETR: Multi-View Radar Detection Transformer for Indoor Perception, [[Paper]](https://arxiv.org/pdf/2411.10293)
