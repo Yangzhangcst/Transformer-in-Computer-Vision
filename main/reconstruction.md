@@ -31,3 +31,4 @@
 - (arXiv 2024.04) DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2404.16323.pdf)
 - (arXiv 2024.08) TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers, [[Paper]](https://arxiv.org/pdf/2408.13770.pdf),[[Code]](https://xingyoujun.github.io/transplat)
 - (arXiv 2024.10) Disambiguating Monocular Reconstruction of 3D Clothed Human with Spatial-Temporal Transformer, [[Paper]](https://arxiv.org/pdf/2410.16337.pdf)
+- (arXiv 2024.11) TimeFormer: Capturing Temporal Relationships of Deformable 3D Gaussians for Robust Reconstruction, [[Paper]](https://arxiv.org/pdf/2411.11941.pdf)
