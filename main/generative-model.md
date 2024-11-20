@@ -41,3 +41,4 @@
 - (arXiv 2024.10) ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation, [[Paper]](https://arxiv.org/pdf/2410.20502.pdf), [[Code]](https://arlont2v.github.io/)
 - (arXiv 2024.11) SplatFormer: Point Transformer for Robust 3D Gaussian Splatting, [[Paper]](https://arxiv.org/pdf/2411.06390.pdf), [[Code]](https://github.com/ChenYutongTHU/SplatFormer)
 - (arXiv 2024.11) CART: Compositional Auto-Regressive Transformer for Image Generation, [[Paper]](https://arxiv.org/pdf/2411.10180.pdf)
+- (arXiv 2024.11) Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer, [[Paper]](https://arxiv.org/pdf/2411.10781.pdf)
