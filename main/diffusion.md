@@ -70,3 +70,4 @@
 - (arXiv 2024.11) Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing, [[Paper]](https://arxiv.org/pdf/2411.08196)
 - (arXiv 2024.11) LaVin-DiT: Large Vision Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2411.11505)
 - (arXiv 2024.11) FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on, [[Paper]](https://arxiv.org/pdf/2411.10499),[[Code]](https://github.com/BoyuanJiang/FitDiT)
+- (arXiv 2024.11) Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study, [[Paper]](https://arxiv.org/pdf/2411.13588),[[Code]](https://github.com/xdit-project/DiTCacheAnalysis)
