@@ -258,3 +258,4 @@
 - (arXiv 2024.11) WiFlexFormer: Efficient WiFi-Based Person-Centric Sensing, [[Paper]](https://arxiv.org/pdf/2411.04224.pdf), [[Code]](https://github.com/StrohmayerJ/WiFlexFormer)
 - (arXiv 2024.11) Harmformer: Harmonic Networks Meet Transformers for Continuous Roto-Translation Equivariance, [[Paper]](https://arxiv.org/pdf/2411.03794.pdf)
 - (arXiv 2024.11) A Transformer-Based Visual Piano Transcription Algorithm, [[Paper]](https://arxiv.org/pdf/2411.09037.pdf)
+- (arXiv 2024.11) Transforming Engineering Diagrams: A Novel Approach for P&ID Digitization using Transformers, [[Paper]](https://arxiv.org/pdf/2411.13929.pdf)
