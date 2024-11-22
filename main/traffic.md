@@ -60,3 +60,4 @@
 - (arXiv 2024.11) Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory, [[Paper]](https://arxiv.org/pdf/2411.04501.pdf)
 - (arXiv 2024.11) Integrating Object Detection Modality into Visual Language Model for Enhanced Autonomous Driving Agent, [[Paper]](https://arxiv.org/pdf/2411.05898.pdf)
 - (arXiv 2024.11) DT-LSD: Deformable Transformer-based Line Segment Detection, [[Paper]](https://arxiv.org/pdf/2411.13005.pdf), [[Code]](https://github.com/SebastianJanampa/DT-LSD)
+- (arXiv 2024.11) MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control, [[Paper]](https://arxiv.org/pdf/2411.13807.pdf), [[Code]](https://github.com/flymin/MagicDriveDiT)
