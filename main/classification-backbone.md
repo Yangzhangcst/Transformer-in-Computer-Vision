@@ -594,3 +594,4 @@
 - (arXiv 2024.11) IO Transformer: Evaluating SwinV2-Based Reward Models for Computer Vision, [[Paper]](https://arxiv.org/pdf/2411.00252.pdf)
 - (arXiv 2024.11) SAG-ViT: A Scale-Aware, High-Fidelity Patching Approach with Graph Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2411.09420.pdf)
 - (arXiv 2024.11) On the Surprising Effectiveness of Attention Transfer for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2411.09702.pdf),[[Code]](https://github.com/alexlioralexli/attention-transfer)
+- (arXiv 2024.11) CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction, [[Paper]](https://arxiv.org/pdf/2411.16170.pdf)
