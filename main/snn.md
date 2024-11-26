@@ -18,3 +18,4 @@
 - (arxiv 2024.07) Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2407.08130.pdf)
 - (arxiv 2024.08) AT-SNN: Adaptive Tokens for Vision Transformer on Spiking Neural Network, [[Paper]](https://arxiv.org/pdf/2408.12293.pdf)
 - (arxiv 2024.09) DS2TA: Denoising Spiking Transformer with Attenuated Spatiotemporal Attention, [[Paper]](https://arxiv.org/pdf/2409.15375.pdf)
+- (arxiv 2024.11) Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training, [[Paper]](https://arxiv.org/pdf/2411.16061.pdf), [[Code]](https://github.com/BICLab/Spike-Driven-Transformer-V3)
