@@ -71,3 +71,4 @@
 - (arXiv 2024.11) LaVin-DiT: Large Vision Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2411.11505)
 - (arXiv 2024.11) FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on, [[Paper]](https://arxiv.org/pdf/2411.10499),[[Code]](https://github.com/BoyuanJiang/FitDiT)
 - (arXiv 2024.11) Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study, [[Paper]](https://arxiv.org/pdf/2411.13588),[[Code]](https://github.com/xdit-project/DiTCacheAnalysis)
+- (arXiv 2024.11) Accelerating Vision Diffusion Transformers with Skip Branches, [[Paper]](https://arxiv.org/pdf/2411.17616),[[Code]](https://github.com/OpenSparseLLMs/Skip-DiT)
