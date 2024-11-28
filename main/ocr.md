@@ -72,3 +72,4 @@
 - (arXiv 2024.10) HATFormer: Historic Handwritten Arabic Text Recognition with Transformers, [[Paper]](https://arxiv.org/pdf/2410.02179.pdf)
 - (arXiv 2024.10) Transformers Utilization in Chart Understanding: A Review of Recent Advances & Future Trends, [[Paper]](https://arxiv.org/pdf/2410.13883.pdf)
 - (arXiv 2024.10) High-Fidelity Document Stain Removal via A Large-Scale Real-World Dataset and A Memory-Augmented Transformer, [[Paper]](https://arxiv.org/pdf/2410.22922.pdf),[[Code]](https://github.com/CXH-Research/StainRestorer）
+- (arXiv 2024.11) Arabic-Nougat: Fine-Tuning Vision Transformers for Arabic OCR and Markdown Extraction, [[Paper]](https://arxiv.org/pdf/2411.17835.pdf),[[Code]](https://github.com/MohamedAliRashad/arabic-nougat）
