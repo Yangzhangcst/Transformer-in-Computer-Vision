@@ -663,3 +663,4 @@
 - (arXiv 2024.11) Lung Disease Detection with Vision Transformers: A Comparative Study of Machine Learning Methods, [[Paper]](https://arxiv.org/pdf/2411.11376)
 - (arXiv 2024.11) S3TU-Net: Structured Convolution and Superpixel Transformer for Lung Nodule Segmentation, [[Paper]](https://arxiv.org/pdf/2411.12547)
 - (arXiv 2024.11) Residual Vision Transformer (ResViT) Based Self-Supervised Learning Model for Brain Tumor Classification, [[Paper]](https://arxiv.org/pdf/2411.12874)
+- (arXiv 2024.12) PATHS: A Hierarchical Transformer for Efficient Whole Slide Image Analysis, [[Paper]](https://arxiv.org/pdf/2411.18225)
