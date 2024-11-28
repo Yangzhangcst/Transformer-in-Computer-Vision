@@ -9,3 +9,4 @@
 - (arxiv 2024.07) PASTA: Controllable Part-Aware Shape Generation with Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2407.13677.pdf)
 - (arxiv 2024.09) VSFormer: Mining Correlations in Flexible View Set for Multi-view 3D Shape Understanding, [[Paper]](https://arxiv.org/pdf/2409.09254.pdf), [[Code]](https://github.com/auniquesun/VSFormer)
 - (arxiv 2024.11) POC-SLT: Partial Object Completion with SDF Latent Transformers, [[Paper]](https://arxiv.org/pdf/2411.05419.pdf)
+- (arxiv 2024.11) Geometric Point Attention Transformer for 3D Shape Reassembly, [[Paper]](https://arxiv.org/pdf/2411.17788.pdf)
