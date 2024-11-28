@@ -77,3 +77,4 @@
 - (arXiv 2024.09) Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer, [[Paper]](https://arxiv.org/pdf/2409.06590.pdf)
 - (arXiv 2024.11) Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution, [[Paper]](https://arxiv.org/pdf/2411.06442.pdf),[[Code]](https://github.com/dmhdmhdmh/LIWT)
 - (arXiv 2024.11) A Low-Resolution Image is Worth 1x1 Words: Enabling Fine Image Super-Resolution with Transformers and TaylorShift, [[Paper]](https://arxiv.org/pdf/2411.10231.pdf)
+- (arXiv 2024.11) HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2411.18003.pdf)
