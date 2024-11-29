@@ -74,3 +74,4 @@
 - (arXiv 2024.11) Accelerating Vision Diffusion Transformers with Skip Branches, [[Paper]](https://arxiv.org/pdf/2411.17616),[[Code]](https://github.com/OpenSparseLLMs/Skip-DiT)
 - (arXiv 2024.11) Towards Precise Scaling Laws for Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2411.17470)
 - (arXiv 2024.11) On Statistical Rates of Conditional Diffusion Transformers: Approximation, Estimation and Minimax Optimality, [[Paper]](https://arxiv.org/pdf/2411.17522)
+- (arXiv 2024.11) LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis, [[Paper]](https://arxiv.org/pdf/2411.16748),[[Code]](https://github.com/zhang-haojie/letstalk)
