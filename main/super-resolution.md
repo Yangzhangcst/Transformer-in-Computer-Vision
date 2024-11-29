@@ -79,3 +79,4 @@
 - (arXiv 2024.11) A Low-Resolution Image is Worth 1x1 Words: Enabling Fine Image Super-Resolution with Transformers and TaylorShift, [[Paper]](https://arxiv.org/pdf/2411.10231.pdf)
 - (arXiv 2024.11) HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2411.18003.pdf)
 - (arXiv 2024.11) MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2411.17214.pdf)
+- (arXiv 2024.11) ΩSFormer: Dual-Modal Ω-like Super-Resolution Transformer Network for Cross-scale and High-accuracy Terraced Field Vectorization Extraction, [[Paper]](https://arxiv.org/pdf/2411.17088.pdf),[[Code]](https://github.com/choubaoy/DMRVD/tree/master)
