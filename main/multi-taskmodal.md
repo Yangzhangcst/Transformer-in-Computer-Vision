@@ -225,3 +225,4 @@
 - (arXiv 2024.09) Multi-modal Speech Transformer Decoders: When Do Multiple Modalities Improve Accuracy, [[Paper]](https://arxiv.org/pdf/2409.09221)
 - (arXiv 2024.09) Genetic Information Analysis of Age-Related Macular Degeneration Fellow Eye Using Multi-Modal Selective ViT, [[Paper]](https://arxiv.org/pdf/2409.11128)
 - (arXiv 2024.11) UIFormer: A Unified Transformer-based Framework for Incremental Few-Shot Object Detection and Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2411.08569)
+- (arXiv 2024.11) CMAViT: Integrating Climate, Managment, and Remote Sensing Data for Crop Yield Estimation with Multimodel Vision Transformers, [[Paper]](https://arxiv.org/pdf/2411.16989), [[Code]](https://github.com/plant-ai-biophysics-lab/CMAViT)
