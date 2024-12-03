@@ -29,3 +29,4 @@
 - (arXiv 2024.08) Integrating Features for Recognizing Human Activities through Optimized Parameters in Graph Convolutional Networks and Transformer Architectures, [[Paper]](https://arxiv.org/pdf/2408.16442.pdf)
 - (arXiv 2024.09) A Sinkhorn Regularized Adversarial Network for Image Guided DEM Super-resolution using Frequency Selective Hybrid Graph Transformer, [[Paper]](https://arxiv.org/pdf/2409.14198.pdf)
 - (arXiv 2024.10) GTransPDM: A Graph-embedded Transformer with Positional Decoupling for Pedestrian Crossing Intention Prediction, [[Paper]](https://arxiv.org/pdf/2409.20223.pdf)
+- (arXiv 2024.12) Dual-Branch Graph Transformer Network for 3D Human Mesh Reconstruction from Video, [[Paper]](https://arxiv.org/pdf/2412.01179.pdf), [[Code]](https://github.com/TangTao-PKU/DGTR)
