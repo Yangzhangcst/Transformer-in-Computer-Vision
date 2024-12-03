@@ -75,3 +75,4 @@
 - (arXiv 2024.11) Towards Precise Scaling Laws for Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2411.17470)
 - (arXiv 2024.11) On Statistical Rates of Conditional Diffusion Transformers: Approximation, Estimation and Minimax Optimality, [[Paper]](https://arxiv.org/pdf/2411.17522)
 - (arXiv 2024.11) LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis, [[Paper]](https://arxiv.org/pdf/2411.16748),[[Code]](https://github.com/zhang-haojie/letstalk)
+- (arXiv 2024.12) TinyFusion: Diffusion Transformers Learned Shallow, [[Paper]](https://arxiv.org/pdf/2412.01199),[[Code]](https://github.com/VainF/TinyFusion)
