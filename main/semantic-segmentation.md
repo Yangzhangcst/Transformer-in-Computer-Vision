@@ -159,3 +159,4 @@
 - (arXiv 2024.11) Rethinking Decoders for Transformer-based Semantic Segmentation: Compression is All You Need, [[Paper]](https://arxiv.org/pdf/2411.03033.pdf),[[Code]](https://github.com/QishuaiWen/DEPICT)
 - (arXiv 2024.11) DSCformer: A Dual-Branch Network Integrating Enhanced Dynamic Snake Convolution and SegFormer for Crack Segmentation, [[Paper]](https://arxiv.org/pdf/2411.09371.pdf)
 - (arXiv 2024.11) ULTra: Unveiling Latent Token Interpretability in Transformer Based Understanding, [[Paper]](https://arxiv.org/pdf/2411.12589.pdf)
+- (arXiv 2024.12) Global Average Feature Augmentation for Robust Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2412.01941.pdf)
