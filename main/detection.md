@@ -246,3 +246,4 @@
 - (arXiv 2024.11) RETR: Multi-View Radar Detection Transformer for Indoor Perception, [[Paper]](https://arxiv.org/pdf/2411.10293)
 - (arXiv 2024.11) MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2411.13628)
 - (arXiv 2024.12) Identifying Reliable Predictions in Detection Transformers, [[Paper]](https://arxiv.org/pdf/2412.01782), [[Code]](https://github.com/azizanlab/reliable-detr)
+- (arXiv 2024.12) Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable, [[Paper]](https://arxiv.org/pdf/2412.02054), [[Code]](https://github.com/iseri27/Gpq)
