@@ -56,3 +56,4 @@
 - (arXiv 2024.11) CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory, [[Paper]](https://arxiv.org/pdf/2411.07863), [[Code]](https://github.com/xwmaxwma/rschange)
 - (arXiv 2024.11) Heuristical Comparison of Vision Transformers Against Convolutional Neural Networks for Semantic Segmentation on Remote Sensing Imagery, [[Paper]](https://arxiv.org/pdf/2411.09101), [[Code]](https://github.com/ashimdahal/ViT-vs-CNN-ImageSegmentation)
 - (arXiv 2024.11) GeoFormer: A Multi-Polygon Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2411.16616)
+- (arXiv 2024.12) Enhancing Crop Segmentation in Satellite Image Time Series with Transformer Networks, [[Paper]](https://arxiv.org/pdf/2412.01944)
