@@ -6,3 +6,4 @@
 - (arXiv 2024.01) OnDev-LCT: On-Device Lightweight Convolutional Transformers towards federated learning, [[Paper]](https://arxiv.org/pdf/2401.11652.pdf)
 - (arXiv 2024.03) A General and Efficient Federated Split Learning with Pre-trained Image Transformers for Heterogeneous Data, [[Paper]](https://arxiv.org/pdf/2403.16050.pdf)
 - (arXiv 2024.04) Towards Multi-modal Transformers in Federated Learning, [[Paper]](https://arxiv.org/pdf/2404.12467.pdf)
+- (arXiv 2024.12) EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices, [[Paper]](https://arxiv.org/pdf/2412.00334.pdf)
