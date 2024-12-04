@@ -31,3 +31,4 @@
 - (arXiv 2024.09) Multi-Weather Image Restoration via Histogram-Based Transformer Feature Enhancement,  [[Paper]](https://arxiv.org/pdf/2409.06334.pdf)
 - (arXiv 2024.11) AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations,  [[Paper]](https://arxiv.org/pdf/2411.10708.pdf)
 - (arXiv 2024.11) MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers,  [[Paper]](https://arxiv.org/pdf/2411.17226.pdf), [[Code]](https://github.com/taco-group/MWFormer)
+- (arXiv 2024.12) Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond,  [[Paper]](https://arxiv.org/pdf/2412.01456.pdf), [[Code]](https://github.com/Mdraqibkhan/Phaseformer)
