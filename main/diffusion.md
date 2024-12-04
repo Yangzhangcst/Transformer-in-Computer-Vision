@@ -78,3 +78,4 @@
 - (arXiv 2024.12) TinyFusion: Diffusion Transformers Learned Shallow, [[Paper]](https://arxiv.org/pdf/2412.01199),[[Code]](https://github.com/VainF/TinyFusion)
 - (arXiv 2024.12) CPA: Camera-pose-awareness Diffusion Transformer for Video Generation, [[Paper]](https://arxiv.org/pdf/2412.01429)
 - (arXiv 2024.12) Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks, [[Paper]](https://arxiv.org/pdf/2412.00733),[[Code]](https://github.com/fudan-generative-vision/hallo3)
+- (arXiv 2024.12) OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows, [[Paper]](https://arxiv.org/pdf/2412.01169),[[Code]](https://github.com/jacklishufan/OmniFlows)
