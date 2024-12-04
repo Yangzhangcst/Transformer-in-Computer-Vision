@@ -108,3 +108,4 @@
 - (arXiv 2024.10) PESFormer: Boosting Macro- and Micro-expression Spotting with Direct Timestamp Encoding, [[Paper]](https://arxiv.org/pdf/2410.18695.pdf)
 - (arXiv 2024.11) Cascaded Dual Vision Transformer for Accurate Facial Landmark Detection, [[Paper]](https://arxiv.org/pdf/2411.07167.pdf)
 - (arXiv 2024.12) Transformer-Metric Loss for CNN-Based Face Recognition, [[Paper]](https://arxiv.org/pdf/2412.02198.pdf)
+- (arXiv 2024.12) Precise Facial Landmark Detection by Dynamic Semantic Aggregation Transformer, [[Paper]](https://arxiv.org/pdf/2412.00740.pdf),[[Code]](https://github.com/GERMINO-LiuHe/DSAT)
