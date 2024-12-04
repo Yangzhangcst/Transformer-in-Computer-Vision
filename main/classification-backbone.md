@@ -596,3 +596,4 @@
 - (arXiv 2024.11) On the Surprising Effectiveness of Attention Transfer for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2411.09702.pdf),[[Code]](https://github.com/alexlioralexli/attention-transfer)
 - (arXiv 2024.11) CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction, [[Paper]](https://arxiv.org/pdf/2411.16170.pdf)
 - (arXiv 2024.11) UniForm: A Reuse Attention Mechanism Optimized for Efficient Vision Transformers on Edge Devices, [[Paper]](https://arxiv.org/pdf/2412.02344.pdf)
+- (arXiv 2024.12) Token Cropr: Faster ViTs for Quite a Few Tasks, [[Paper]](https://arxiv.org/pdf/2412.00965.pdf)
