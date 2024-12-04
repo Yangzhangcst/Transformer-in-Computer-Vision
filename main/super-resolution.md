@@ -80,3 +80,4 @@
 - (arXiv 2024.11) HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2411.18003.pdf)
 - (arXiv 2024.11) MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2411.17214.pdf)
 - (arXiv 2024.11) ΩSFormer: Dual-Modal Ω-like Super-Resolution Transformer Network for Cross-scale and High-accuracy Terraced Field Vectorization Extraction, [[Paper]](https://arxiv.org/pdf/2411.17088.pdf),[[Code]](https://github.com/choubaoy/DMRVD/tree/master)
+- (arXiv 2024.12) CubeFormer: A Simple yet Effective Baseline for Lightweight Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2412.02234.pdf)
