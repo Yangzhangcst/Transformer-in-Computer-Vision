@@ -665,3 +665,4 @@
 - (arXiv 2024.11) Residual Vision Transformer (ResViT) Based Self-Supervised Learning Model for Brain Tumor Classification, [[Paper]](https://arxiv.org/pdf/2411.12874)
 - (arXiv 2024.11) PATHS: A Hierarchical Transformer for Efficient Whole Slide Image Analysis, [[Paper]](https://arxiv.org/pdf/2411.18225)
 - (arXiv 2024.11) TAFM-Net: A Novel Approach to Skin Lesion Segmentation Using Transformer Attention and Focal Modulation, [[Paper]](https://arxiv.org/pdf/2411.17556)
+- (arXiv 2024.12) Vision Transformers for Weakly-Supervised Microorganism Enumeration, [[Paper]](https://arxiv.org/pdf/2412.02250)
