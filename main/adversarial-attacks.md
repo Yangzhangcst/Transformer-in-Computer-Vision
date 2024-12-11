@@ -32,3 +32,4 @@
 - (arXiv 2024.09) RoWSFormer: A Robust Watermarking Framework with Swin Transformer for Enhanced Geometric Attack Resilience, [[Paper]](https://arxiv.org/pdf/2409.14829)
 - (arXiv 2024.10) Backdoor Attack Against Vision Transformers via Attention Gradient-Based Image Erosion, [[Paper]](https://arxiv.org/pdf/2410.22678)
 - (arXiv 2024.11) Target-Guided Adversarial Point Cloud Transformer Towards Recognition Against Real-world Corruptions, [[Paper]](https://arxiv.org/pdf/2411.00462),[[Code]](https://github.com/Roywangj/APCT)
+- (arXiv 2024.12) Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer, [[Paper]](https://arxiv.org/pdf/2412.04776)
