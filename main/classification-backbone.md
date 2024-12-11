@@ -598,3 +598,4 @@
 - (arXiv 2024.11) UniForm: A Reuse Attention Mechanism Optimized for Efficient Vision Transformers on Edge Devices, [[Paper]](https://arxiv.org/pdf/2412.02344.pdf)
 - (arXiv 2024.12) Token Cropr: Faster ViTs for Quite a Few Tasks, [[Paper]](https://arxiv.org/pdf/2412.00965.pdf)
 - (arXiv 2024.12) Enhancing Parameter-Efficient Fine-Tuning of Vision Transformers through Frequency-Based Adaptation, [[Paper]](https://arxiv.org/pdf/2411.19297.pdf),[[Code]](https://github.com/tsly123/FreqFiT)
+- (arXiv 2024.12) Slicing Vision Transformer for Flexible Inference, [[Paper]](https://arxiv.org/pdf/2412.04786.pdf),[[Code]](https://github.com/BeSpontaneous/Scala-pytorch)
