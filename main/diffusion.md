@@ -80,3 +80,5 @@
 - (arXiv 2024.12) Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks, [[Paper]](https://arxiv.org/pdf/2412.00733),[[Code]](https://github.com/fudan-generative-vision/hallo3)
 - (arXiv 2024.12) OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows, [[Paper]](https://arxiv.org/pdf/2412.01169),[[Code]](https://github.com/jacklishufan/OmniFlows)
 - (arXiv 2024.12) ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2412.07720)
+- (arXiv 2024.12) UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics, [[Paper]](https://arxiv.org/pdf/2412.07774),[[Code]](https://xavierchen34.github.io/UniReal-Page/)
+- (arXiv 2024.12) Video Motion Transfer with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2412.07776),[[Code]](https://github.com/ditflow/ditflow)
