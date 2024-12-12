@@ -82,3 +82,5 @@
 - (arXiv 2024.12) ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2412.07720)
 - (arXiv 2024.12) UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics, [[Paper]](https://arxiv.org/pdf/2412.07774),[[Code]](https://xavierchen34.github.io/UniReal-Page/)
 - (arXiv 2024.12) Video Motion Transfer with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2412.07776),[[Code]](https://github.com/ditflow/ditflow)
+- (arXiv 2024.12) MotionStone: Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2412.05848)
+- (arXiv 2024.12) FlexDiT: Dynamic Token Density Control for Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2412.06028),[[Code]](https://github.com/changsn/FlexDiT)
