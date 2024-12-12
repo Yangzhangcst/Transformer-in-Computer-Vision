@@ -33,3 +33,4 @@
 - (arXiv 2024.10) Backdoor Attack Against Vision Transformers via Attention Gradient-Based Image Erosion, [[Paper]](https://arxiv.org/pdf/2410.22678)
 - (arXiv 2024.11) Target-Guided Adversarial Point Cloud Transformer Towards Recognition Against Real-world Corruptions, [[Paper]](https://arxiv.org/pdf/2411.00462),[[Code]](https://github.com/Roywangj/APCT)
 - (arXiv 2024.12) Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer, [[Paper]](https://arxiv.org/pdf/2412.04776)
+- (arXiv 2024.12) An Effective and Resilient Backdoor Attack Framework against Deep Neural Networks and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.06149)
