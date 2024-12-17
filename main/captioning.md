@@ -43,3 +43,4 @@
 - (arXiv 2023.09) Collaborative Three-Stream Transformers for Video Captioning, [[Paper]](https://arxiv.org/pdf/2309.09611.pdf), [[Code]](https://github.com/ch3cook-fdu/Vote2Cap-DETR)
 - (arXiv 2023.09) Accurate and Fast Compressed Video Captioning, [[Paper]](https://arxiv.org/pdf/2309.12867.pdf), [[Code]](https://github.com/acherstyx/CoCap)
 - (arXiv 2024.11) ViTOC: Vision Transformer and Object-aware Captioner, [[Paper]](https://arxiv.org/pdf/2411.07265.pdf)
+- (arXiv 2024.12) UnMA-CapSumT: Unified and Multi-Head Attention-driven Caption Summarization Transformer, [[Paper]](https://arxiv.org/pdf/2412.11836.pdf), [[Code]](https://github.com/dhruvsharma09/UnMA-CapSumT)
