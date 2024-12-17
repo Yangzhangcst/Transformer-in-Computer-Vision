@@ -85,3 +85,4 @@
 - (arXiv 2024.12) MotionStone: Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2412.05848)
 - (arXiv 2024.12) FlexDiT: Dynamic Token Density Control for Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2412.06028),[[Code]](https://github.com/changsn/FlexDiT)
 - (arXiv 2024.12) Causal Diffusion Transformers for Generative Modeling, [[Paper]](https://arxiv.org/pdf/2412.12095),[[Code]](https://github.com/causalfusion/causalfusion)
+- (arXiv 2024.12) AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration, [[Paper]](https://arxiv.org/pdf/2412.11706)
