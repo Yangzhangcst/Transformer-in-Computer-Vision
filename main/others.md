@@ -259,3 +259,4 @@
 - (arXiv 2024.11) Harmformer: Harmonic Networks Meet Transformers for Continuous Roto-Translation Equivariance, [[Paper]](https://arxiv.org/pdf/2411.03794.pdf)
 - (arXiv 2024.11) A Transformer-Based Visual Piano Transcription Algorithm, [[Paper]](https://arxiv.org/pdf/2411.09037.pdf)
 - (arXiv 2024.11) Transforming Engineering Diagrams: A Novel Approach for P&ID Digitization using Transformers, [[Paper]](https://arxiv.org/pdf/2411.13929.pdf)
+- (arXiv 2024.12) One-Shot Multilingual Font Generation Via ViT, [[Paper]](https://arxiv.org/pdf/2412.11342.pdf)
