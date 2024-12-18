@@ -249,3 +249,4 @@
 - (arXiv 2024.12) Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable, [[Paper]](https://arxiv.org/pdf/2412.02054), [[Code]](https://github.com/iseri27/Gpq)
 - (arXiv 2024.12) Excretion Detection in Pigsties Using Convolutional and Transformerbased Deep Neural Networks, [[Paper]](https://arxiv.org/pdf/2412.06534), [[Code]](https://github.com/wiskott-lab/inversedetection-transformer)
 - (arXiv 2024.12) Elastic-DETR: Making Image Resolution Learnable with Content-Specific Network Prediction, [[Paper]](https://arxiv.org/pdf/2412.06341)
+- (arXiv 2024.12) RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2412.12799)
