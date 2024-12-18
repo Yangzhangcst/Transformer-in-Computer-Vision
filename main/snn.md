@@ -20,3 +20,4 @@
 - (arxiv 2024.09) DS2TA: Denoising Spiking Transformer with Attenuated Spatiotemporal Attention, [[Paper]](https://arxiv.org/pdf/2409.15375.pdf)
 - (arxiv 2024.11) Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training, [[Paper]](https://arxiv.org/pdf/2411.16061.pdf), [[Code]](https://github.com/BICLab/Spike-Driven-Transformer-V3)
 - (arxiv 2024.12) Hybrid Spiking Neural Network -- Transformer Video Classification Model, [[Paper]](https://arxiv.org/pdf/2412.00237.pdf), [[Code]](https://github.com/TheRNB/HyTSSN/tree/main)
+- (arxiv 2024.12) Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks, [[Paper]](https://arxiv.org/pdf/2412.12843.pdf)
