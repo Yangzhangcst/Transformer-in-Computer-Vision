@@ -109,3 +109,4 @@
 - (arXiv 2024.11) Cascaded Dual Vision Transformer for Accurate Facial Landmark Detection, [[Paper]](https://arxiv.org/pdf/2411.07167.pdf)
 - (arXiv 2024.12) Transformer-Metric Loss for CNN-Based Face Recognition, [[Paper]](https://arxiv.org/pdf/2412.02198.pdf)
 - (arXiv 2024.12) Precise Facial Landmark Detection by Dynamic Semantic Aggregation Transformer, [[Paper]](https://arxiv.org/pdf/2412.00740.pdf),[[Code]](https://github.com/GERMINO-LiuHe/DSAT)
+- (arXiv 2024.12) ORFormer: Occlusion-Robust Transformer for Accurate Facial Landmark Detection, [[Paper]](https://arxiv.org/pdf/2412.13174.pdf),[[Code]](https://ben0919.github.io/ORFormer/)
