@@ -120,3 +120,4 @@
 - (arXiv 2024.10) YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning, [[Paper]](https://arxiv.org/pdf/2410.19846.pdf)
 - (arXiv 2024.10) HRPVT: High-Resolution Pyramid Vision Transformer for medium and small-scale human pose estimation, [[Paper]](https://arxiv.org/pdf/2410.22079.pdf)
 - (arXiv 2024.12) AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer, [[Paper]](https://arxiv.org/pdf/2412.00837.pdf), [[Code]](https://github.com/luoxue-star/AniMer)
+- (arXiv 2024.12) Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2412.13454.pdf), [[Code]](https://github.com/AnxQ/dapt)
