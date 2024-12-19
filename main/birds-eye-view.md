@@ -34,3 +34,4 @@
 - (arXiv 2024.09) CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention,  [[Paper]](https://arxiv.org/pdf/2409.17790.pdf)
 - (arXiv 2024.11) Fast and Efficient Transformer-based Method for Bird's Eye View Instance Prediction,  [[Paper]](https://arxiv.org/pdf/2411.06851.pdf), [[Code]](https://github.com/miguelag99/Efficient-Instance-Prediction)
 - (arXiv 2024.12) Epipolar Attention Field Transformers for Bird's Eye View Semantic Segmentation,  [[Paper]](https://arxiv.org/pdf/2412.01595.pdf)
+- (arXiv 2024.12) RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion,  [[Paper]](https://arxiv.org/pdf/2412.12725.pdf)
