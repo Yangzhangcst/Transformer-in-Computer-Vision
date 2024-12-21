@@ -601,3 +601,4 @@
 - (arXiv 2024.12) Slicing Vision Transformer for Flexible Inference, [[Paper]](https://arxiv.org/pdf/2412.04786.pdf),[[Code]](https://github.com/BeSpontaneous/Scala-pytorch)
 - (arXiv 2024.12) Superpixel Tokenization for Vision Transformers: Preserving Semantic Integrity in Visual Tokens, [[Paper]](https://arxiv.org/pdf/2412.04680.pdf),[[Code]](https://github.com/jangsoohyuk/SuiT)
 - (arXiv 2024.12) Beyond Scalars: Concept-Based Alignment Analysis in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.06639.pdf),[[Code]](https://github.com/jvielhaben/NLMCD-ALIGN)
+- (arXiv 2024.12) Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.10569.pdf),[[Code]](https://github.com/movinghoon/dtem)
