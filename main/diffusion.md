@@ -89,3 +89,4 @@
 - (arXiv 2024.12) ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2412.12571),[[Code]](https://github.com/ali-vilab/ChatDiT)
 - (arXiv 2024.12) StyleDiT: A Unified Framework for Diverse Child and Partner Faces Synthesis with Style Latent Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2412.10785)
 - (arXiv 2024.12) Video Diffusion Transformers are In-Context Learners, [[Paper]](https://arxiv.org/pdf/2412.10783),[[Code]](https://github.com/feizc/Video-In-Context)
+- (arXiv 2024.12) Efficient Scaling of Diffusion Transformers for Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2412.12391)
