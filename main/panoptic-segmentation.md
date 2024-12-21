@@ -29,3 +29,4 @@
 - (arXiv 2024.03) PEM: Prototype-based Efficient MaskFormer for Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.19422.pdf), [[Code]](https://github.com/NiccoloCavagnero/PEM)
 - (arXiv 2024.03) ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning, [[Paper]](https://arxiv.org/pdf/2403.20126.pdf), [[Code]](https://github.com/clovaai/ECLIPSE)
 - (arXiv 2024.04) Language-Guided Instance-Aware Domain-Adaptive Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2404.03799.pdf)
+- (arXiv 2024.12) PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2412.10589.pdf), [[Code]](https://github.com/lojzezust/PanSR)
