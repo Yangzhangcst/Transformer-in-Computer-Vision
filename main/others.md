@@ -260,3 +260,5 @@
 - (arXiv 2024.11) A Transformer-Based Visual Piano Transcription Algorithm, [[Paper]](https://arxiv.org/pdf/2411.09037.pdf)
 - (arXiv 2024.11) Transforming Engineering Diagrams: A Novel Approach for P&ID Digitization using Transformers, [[Paper]](https://arxiv.org/pdf/2411.13929.pdf)
 - (arXiv 2024.12) One-Shot Multilingual Font Generation Via ViT, [[Paper]](https://arxiv.org/pdf/2412.11342.pdf)
+- (arXiv 2024.12) SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2412.10488.pdf)
+- (arXiv 2024.12) CrossVIT-augmented Geospatial-Intelligence Visualization System for Tracking Economic Development Dynamics, [[Paper]](https://arxiv.org/pdf/2412.10474.pdf), [[Code]](https://github.com/HubDaniel/Satellite-Imagery-Driven-Geospatial-Intelligence-System-for-Tracking-Economic-Dynamics/tree/main)
