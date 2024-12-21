@@ -44,3 +44,4 @@
 - (arXiv 2023.09) Accurate and Fast Compressed Video Captioning, [[Paper]](https://arxiv.org/pdf/2309.12867.pdf), [[Code]](https://github.com/acherstyx/CoCap)
 - (arXiv 2024.11) ViTOC: Vision Transformer and Object-aware Captioner, [[Paper]](https://arxiv.org/pdf/2411.07265.pdf)
 - (arXiv 2024.12) UnMA-CapSumT: Unified and Multi-Head Attention-driven Caption Summarization Transformer, [[Paper]](https://arxiv.org/pdf/2412.11836.pdf), [[Code]](https://github.com/dhruvsharma09/UnMA-CapSumT)
+- (arXiv 2024.12) Automated Image Captioning with CNNs and Transformers, [[Paper]](https://arxiv.org/pdf/2412.10511.pdf), [[Code]](https://github.com/JeremyNathanJusuf/image-captioning)
