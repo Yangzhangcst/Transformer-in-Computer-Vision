@@ -250,3 +250,5 @@
 - (arXiv 2024.12) Excretion Detection in Pigsties Using Convolutional and Transformerbased Deep Neural Networks, [[Paper]](https://arxiv.org/pdf/2412.06534), [[Code]](https://github.com/wiskott-lab/inversedetection-transformer)
 - (arXiv 2024.12) Elastic-DETR: Making Image Resolution Learnable with Content-Specific Network Prediction, [[Paper]](https://arxiv.org/pdf/2412.06341)
 - (arXiv 2024.12) RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2412.12799)
+- (arXiv 2024.12) UN-DETR: Promoting Objectness Learning via Joint Supervision for Unknown Object Detection, [[Paper]](https://arxiv.org/pdf/2412.10176), [[Code]](https://github.com/ndwxhmzz/UN-DETR/tree/master)
+- (arXiv 2024.12) Mr. DETR: Instructive Multi-Route Training for Detection Transformers, [[Paper]](https://arxiv.org/pdf/2412.10028)
