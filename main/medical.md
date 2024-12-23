@@ -670,3 +670,4 @@
 - (arXiv 2024.12) Multi-scale Feature Enhancement in Multi-task Learning for Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2412.00351),[[Code]](https://github.com/nguyenpbui/ResFormer)
 - (arXiv 2024.12) HResFormer: Hybrid Residual Transformer for Volumetric Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2412.11458)
 - (arXiv 2024.12) Boosting ViT-based MRI Reconstruction from the Perspectives of Frequency Modulation, Spatial Purification, and Scale Diversification, [[Paper]](https://arxiv.org/pdf/2412.10776)
+- (arXiv 2024.12) Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer, [[Paper]](https://arxiv.org/pdf/2412.13908),[[Code]](https://github.com/swedfr/memorizingSAM)
