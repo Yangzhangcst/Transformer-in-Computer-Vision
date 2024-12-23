@@ -262,3 +262,4 @@
 - (arXiv 2024.12) One-Shot Multilingual Font Generation Via ViT, [[Paper]](https://arxiv.org/pdf/2412.11342.pdf)
 - (arXiv 2024.12) SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2412.10488.pdf)
 - (arXiv 2024.12) CrossVIT-augmented Geospatial-Intelligence Visualization System for Tracking Economic Development Dynamics, [[Paper]](https://arxiv.org/pdf/2412.10474.pdf), [[Code]](https://github.com/HubDaniel/Satellite-Imagery-Driven-Geospatial-Intelligence-System-for-Tracking-Economic-Dynamics/tree/main)
+- (arXiv 2024.12) Jet: A Modern Transformer-Based Normalizing Flow, [[Paper]](https://arxiv.org/pdf/2412.15129.pdf)
