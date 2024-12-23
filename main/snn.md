@@ -21,3 +21,4 @@
 - (arxiv 2024.11) Scaling Spike-driven Transformer with Efficient Spike Firing Approximation Training, [[Paper]](https://arxiv.org/pdf/2411.16061.pdf), [[Code]](https://github.com/BICLab/Spike-Driven-Transformer-V3)
 - (arxiv 2024.12) Hybrid Spiking Neural Network -- Transformer Video Classification Model, [[Paper]](https://arxiv.org/pdf/2412.00237.pdf), [[Code]](https://github.com/TheRNB/HyTSSN/tree/main)
 - (arxiv 2024.12) Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks, [[Paper]](https://arxiv.org/pdf/2412.12843.pdf)
+- (arxiv 2024.12) Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation, [[Paper]](https://arxiv.org/pdf/2412.14587.pdf), [[Code]](https://github.com/BICLab/Spike2Former)
