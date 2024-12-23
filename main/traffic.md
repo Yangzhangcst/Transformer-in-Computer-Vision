@@ -62,3 +62,4 @@
 - (arXiv 2024.11) DT-LSD: Deformable Transformer-based Line Segment Detection, [[Paper]](https://arxiv.org/pdf/2411.13005.pdf), [[Code]](https://github.com/SebastianJanampa/DT-LSD)
 - (arXiv 2024.11) MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control, [[Paper]](https://arxiv.org/pdf/2411.13807.pdf), [[Code]](https://github.com/flymin/MagicDriveDiT)
 - (arXiv 2024.12) Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2412.13419.pdf)
+- (arXiv 2024.12) Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2412.15595.pdf)
