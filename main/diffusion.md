@@ -78,7 +78,7 @@
 - (arXiv 2024.12) TinyFusion: Diffusion Transformers Learned Shallow, [[Paper]](https://arxiv.org/pdf/2412.01199),[[Code]](https://github.com/VainF/TinyFusion)
 - (arXiv 2024.12) CPA: Camera-pose-awareness Diffusion Transformer for Video Generation, [[Paper]](https://arxiv.org/pdf/2412.01429)
 - (arXiv 2024.12) Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks, [[Paper]](https://arxiv.org/pdf/2412.00733),[[Code]](https://github.com/fudan-generative-vision/hallo3)
-- (arXiv 2024.12) OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows, [[Paper]](https://arxiv.org/pdf/2412.01169),[[Code]](https://github.com/jacklishufan/OmniFlows)
+- (arXiv 2024.12) OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows, [[Paper]](https://arxiv.org/pdf/2412.16112),[[Code]](https://github.com/Huage001/CLEAR)
 - (arXiv 2024.12) ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2412.07720)
 - (arXiv 2024.12) UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics, [[Paper]](https://arxiv.org/pdf/2412.07774),[[Code]](https://xavierchen34.github.io/UniReal-Page/)
 - (arXiv 2024.12) Video Motion Transfer with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2412.07776),[[Code]](https://github.com/ditflow/ditflow)
@@ -90,3 +90,4 @@
 - (arXiv 2024.12) StyleDiT: A Unified Framework for Diverse Child and Partner Faces Synthesis with Style Latent Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2412.10785)
 - (arXiv 2024.12) Video Diffusion Transformers are In-Context Learners, [[Paper]](https://arxiv.org/pdf/2412.10783),[[Code]](https://github.com/feizc/Video-In-Context)
 - (arXiv 2024.12) Efficient Scaling of Diffusion Transformers for Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2412.12391)
+- (arXiv 2024.12) CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up, [[Paper]](https://arxiv.org/pdf/2412.12391)
