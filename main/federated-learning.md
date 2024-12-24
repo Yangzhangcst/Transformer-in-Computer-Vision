@@ -7,3 +7,4 @@
 - (arXiv 2024.03) A General and Efficient Federated Split Learning with Pre-trained Image Transformers for Heterogeneous Data, [[Paper]](https://arxiv.org/pdf/2403.16050.pdf)
 - (arXiv 2024.04) Towards Multi-modal Transformers in Federated Learning, [[Paper]](https://arxiv.org/pdf/2404.12467.pdf)
 - (arXiv 2024.12) EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices, [[Paper]](https://arxiv.org/pdf/2412.00334.pdf)
+- (arXiv 2024.12) FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities, [[Paper]](https://arxiv.org/pdf/2412.14768.pdf)
