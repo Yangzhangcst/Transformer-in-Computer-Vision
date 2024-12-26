@@ -67,3 +67,4 @@
 - (arXiv 2024.10) ED-ViT: Splitting Vision Transformer for Distributed Inference on Edge Devices, [[Paper]](https://arxiv.org/pdf/2410.11650)
 - (arXiv 2024.10) Token Pruning using a Lightweight Background Aware Vision Transformer, [[Paper]](https://arxiv.org/pdf/2410.09324)
 - (arXiv 2024.12) Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.14633)
+- (arXiv 2024.12) Semantics Prompting Data-Free Quantization for Low-Bit Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.16553)
