@@ -59,3 +59,5 @@
 - (arXiv 2024.12) Enhancing Crop Segmentation in Satellite Image Time Series with Transformer Networks, [[Paper]](https://arxiv.org/pdf/2412.01944)
 - (arXiv 2024.12) Multiclass Post-Earthquake Building Assessment Integrating Optical and SAR Satellite Imagery, Ground Motion, and Soil Data with Transformers, [[Paper]](https://arxiv.org/pdf/2412.04664)
 - (arXiv 2024.12) Sensing for Space Safety and Sustainability: A Deep Learning Approach with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.08931)
+- (arXiv 2024.12) ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval, [[Paper]](https://arxiv.org/pdf/2412.18136), [[Code]](https://github.com/milkyfun0/ERVD)
+- (arXiv 2024.12) STeInFormer: Spatial-Temporal Interaction Transformer Architecture for Remote Sensing Change Detection, [[Paper]](https://arxiv.org/pdf/2412.17247), [[Code]](https://github.com/xwmaxwma/rschange)
