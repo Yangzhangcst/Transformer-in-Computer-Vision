@@ -38,3 +38,4 @@
 - (arXiv 2024.10) Exploring Stronger Transformer Representation Learning for Occluded Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2410.15613.pdf)
 - (arXiv 2024.11) Adaptive Aspect Ratios with Patch-Mixup-ViT-based Vehicle ReID, [[Paper]](https://arxiv.org/pdf/2411.06297.pdf), [[Code]](https://github.com/qiumei1101/Adaptive_AR_PM_TransReID)
 - (arXiv 2024.12) Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2412.09044.pdf), [[Code]](https://github.com/Kali-Hac/MoCos)
+- (arXiv 2024.12) Unity is Strength: Unifying Convolutional and Transformeral Features for Better Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2412.17239.pdf), [[Code]](https://github.com/924973292/FusionReID)
