@@ -63,3 +63,4 @@
 - (arXiv 2024.11) MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control, [[Paper]](https://arxiv.org/pdf/2411.13807.pdf), [[Code]](https://github.com/flymin/MagicDriveDiT)
 - (arXiv 2024.12) Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2412.13419.pdf)
 - (arXiv 2024.12) Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2412.15595.pdf)
+- (arXiv 2024.12) DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2412.18607.pdf)
