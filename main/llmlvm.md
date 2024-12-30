@@ -48,3 +48,4 @@
 - (arXiv 2024.09) TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models, [[Paper]](https://arxiv.org/pdf/2410.05239.pdf), [[Code]](https://github.com/naamiinepal/tunevlseg)
 - (arXiv 2024.10) OMCAT: Omni Context Aware Transformer, [[Paper]](https://arxiv.org/pdf/2410.12109.pdf), [[Code]](https://om-cat.github.io/)
 - (arXiv 2024.11) MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding, [[Paper]](https://arxiv.org/pdf/2411.17762.pdf)
+- (arXiv 2024.12) TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2412.18675.pdf)
