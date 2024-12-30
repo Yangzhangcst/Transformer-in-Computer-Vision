@@ -675,3 +675,4 @@
 - (arXiv 2024.12) Swin fMRI Transformer Predicts Early Neurodevelopmental Outcomes from Neonatal fMRI, [[Paper]](https://arxiv.org/pdf/2412.07783)
 - (arXiv 2024.12) GCS-M3VLT: Guided Context Self-Attention based Multi-modal Medical Vision Language Transformer for Retinal Image Captioning, [[Paper]](https://arxiv.org/pdf/2412.17251)
 - (arXiv 2024.12) PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging, [[Paper]](https://arxiv.org/pdf/2412.17390)
+- (arXiv 2024.12) Transformer-Based Wireless Capsule Endoscopy Bleeding Tissue Detection and Classification, [[Paper]](https://arxiv.org/pdf/2412.19218),[[Code]](https://github.com/BasitAlawode/WCEBleedGen)
