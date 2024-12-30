@@ -34,3 +34,5 @@
 - (arXiv 2024.11) Target-Guided Adversarial Point Cloud Transformer Towards Recognition Against Real-world Corruptions, [[Paper]](https://arxiv.org/pdf/2411.00462),[[Code]](https://github.com/Roywangj/APCT)
 - (arXiv 2024.12) Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer, [[Paper]](https://arxiv.org/pdf/2412.04776)
 - (arXiv 2024.12) An Effective and Resilient Backdoor Attack Framework against Deep Neural Networks and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.06149)
+- (arXiv 2024.12) Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors, [[Paper]](https://arxiv.org/pdf/2412.18815),[[Code]](https://github.com/anonymous20210106/attack_detector)
+- (arXiv 2024.12) Evaluating the Adversarial Robustness of Detection Transformers, [[Paper]](https://arxiv.org/pdf/2412.18718)
