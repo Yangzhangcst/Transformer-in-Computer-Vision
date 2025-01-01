@@ -25,3 +25,4 @@
 - (arXiv 2024.09) Self-Supervised Vision Transformers for Writer Retrieval, [[Paper]](https://arxiv.org/pdf/2409.00751.pdf)
 - (arXiv 2024.09) Evidential Transformers for Improved Image Retrieval, [[Paper]](https://arxiv.org/pdf/2409.01082.pdf)
 - (arXiv 2024.10) PtychoFormer: A Transformer-based Model for Ptychographic Phase Retrieval, [[Paper]](https://arxiv.org/pdf/2410.17377.pdf)
+- (arXiv 2025.01) Length-Aware DETR for Robust Moment Retrieval, [[Paper]](https://arxiv.org/pdf/2412.20816.pdf), [[Code]](https://github.com/sjpark5800/LA-DETR)
