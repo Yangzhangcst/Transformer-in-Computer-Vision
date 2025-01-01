@@ -45,3 +45,4 @@
 - (arXiv 2024.09) Transformer with Controlled Attention for Synchronous Motion Captioning, [[Paper]](https://arxiv.org/pdf/2409.09177), [[Code]](https://github.com/rd20karim/Synch-Transformer)
 - (arXiv 2024.10) DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, [[Paper]](https://arxiv.org/pdf/2410.05260), [[Code]](https://zkf1997.github.io/DART/)
 - (arXiv 2024.12) Mogo: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation, [[Paper]](https://arxiv.org/pdf/2412.07797)
+- (arXiv 2025.01) DiffGrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model, [[Paper]](https://arxiv.org/pdf/2412.20657), [[Code]](https://github.com/iscas3dv/DiffGrasp)
