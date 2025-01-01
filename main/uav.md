@@ -7,3 +7,4 @@
 - (arXiv 2024.06) Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV, [[Paper]](https://arxiv.org/pdf/2406.09260.pdf), [[Code]](https://github.com/fdcl-gwu/TNN-MO)
 - (arXiv 2024.07) PPTFormer: Pseudo Multi-Perspective Transformer for UAV Segmentation, [[Paper]](https://arxiv.org/pdf/2406.19632.pdf)
 - (arXiv 2024.07) Learning Motion Blur Robust Vision Transformers with Dynamic Early Exit for Real-Time UAV Tracking, [[Paper]](https://arxiv.org/pdf/2407.05383.pdf), [[Code]](https://github.com/wuyou3474/BDTrack)
+- (arXiv 2025.01) Learning Adaptive and View-Invariant Vision Transformer with Multi-Teacher Knowledge Distillation for Real-Time UAV Tracking, [[Paper]](https://arxiv.org/pdf/2412.20002.pdf), [[Code]](https://github.com/wuyou3474/AVTrack)
