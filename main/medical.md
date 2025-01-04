@@ -678,3 +678,5 @@
 - (arXiv 2024.12) Transformer-Based Wireless Capsule Endoscopy Bleeding Tissue Detection and Classification, [[Paper]](https://arxiv.org/pdf/2412.19218),[[Code]](https://github.com/BasitAlawode/WCEBleedGen)
 - (arXiv 2024.12) Dual Channel Multi-Attention in ViT for Biometric Authentication using Forehead Subcutaneous Vein Pattern and Periocular Pattern, [[Paper]](https://arxiv.org/pdf/2412.19160)
 - (arXiv 2025.01) Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers, [[Paper]](https://arxiv.org/pdf/2501.01311),[[Code]](https://github.com/BobSun98/Deep-Explain)
+- (arXiv 2025.01) STARFormer: A Novel Spatio-Temporal Aggregation Reorganization Transformer of FMRI for Brain Disorder Diagnosis, [[Paper]](https://arxiv.org/pdf/2501.00378),[[Code]](https://github.com/NZWANG/STARFormer)
+- (arXiv 2025.01) A Study on Context Length and Efficient Transformers for Biomedical Image Analysis, [[Paper]](https://arxiv.org/pdf/2501.00619)
