@@ -22,3 +22,4 @@
 - (arXiv 2024.06) CorrMAE: Pre-training Correspondence Transformers with Masked Autoencoder, [[Paper]](https://arxiv.org/pdf/2409.02545.pdf)
 - (arXiv 2024.10) ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses, [[Paper]](https://arxiv.org/pdf/2410.22733.pdf)
 - (arXiv 2024.10) LoFLAT: Local Feature Matching using Focused Linear Attention Transformer, [[Paper]](https://arxiv.org/pdf/2410.22710.pdf)
+- (arXiv 2025.01) Hadamard Attention Recurrent Transformer: A Strong Baseline for Stereo Matching Transformer, [[Paper]](https://arxiv.org/pdf/2501.01023.pdf),[[Code]](https://github.com/ZYangChen/HART)
