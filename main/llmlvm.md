@@ -49,3 +49,4 @@
 - (arXiv 2024.10) OMCAT: Omni Context Aware Transformer, [[Paper]](https://arxiv.org/pdf/2410.12109.pdf), [[Code]](https://om-cat.github.io/)
 - (arXiv 2024.11) MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding, [[Paper]](https://arxiv.org/pdf/2411.17762.pdf)
 - (arXiv 2024.12) TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2412.18675.pdf)
+- (arXiv 2025.01) 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer, [[Paper]](https://arxiv.org/pdf/2501.01163.pdf)
