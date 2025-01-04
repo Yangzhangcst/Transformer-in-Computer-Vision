@@ -677,3 +677,4 @@
 - (arXiv 2024.12) PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging, [[Paper]](https://arxiv.org/pdf/2412.17390)
 - (arXiv 2024.12) Transformer-Based Wireless Capsule Endoscopy Bleeding Tissue Detection and Classification, [[Paper]](https://arxiv.org/pdf/2412.19218),[[Code]](https://github.com/BasitAlawode/WCEBleedGen)
 - (arXiv 2024.12) Dual Channel Multi-Attention in ViT for Biometric Authentication using Forehead Subcutaneous Vein Pattern and Periocular Pattern, [[Paper]](https://arxiv.org/pdf/2412.19160)
+- (arXiv 2025.01) Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers, [[Paper]](https://arxiv.org/pdf/2501.01311),[[Code]](https://github.com/BobSun98/Deep-Explain)
