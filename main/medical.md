@@ -680,3 +680,4 @@
 - (arXiv 2025.01) Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers, [[Paper]](https://arxiv.org/pdf/2501.01311),[[Code]](https://github.com/BobSun98/Deep-Explain)
 - (arXiv 2025.01) STARFormer: A Novel Spatio-Temporal Aggregation Reorganization Transformer of FMRI for Brain Disorder Diagnosis, [[Paper]](https://arxiv.org/pdf/2501.00378),[[Code]](https://github.com/NZWANG/STARFormer)
 - (arXiv 2025.01) A Study on Context Length and Efficient Transformers for Biomedical Image Analysis, [[Paper]](https://arxiv.org/pdf/2501.00619)
+- (arXiv 2025.01) GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation, [[Paper]](https://arxiv.org/pdf/2501.02598)
