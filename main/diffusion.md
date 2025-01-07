@@ -96,3 +96,4 @@
 - (arXiv 2024.12) DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation, [[Paper]](https://arxiv.org/pdf/2412.18597),[[Code]](https://github.com/TencentARC/DiTCtrl)
 - (arXiv 2024.12) Accelerating Diffusion Transformers with Dual Feature Caching, [[Paper]](https://arxiv.org/pdf/2412.18911),[[Code]](https://github.com/Shenyi-Z/DuCa)
 - (arXiv 2025.01) SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration, [[Paper]](https://arxiv.org/pdf/2501.01320),[[Code]](https://iceclear.github.io/projects/seedvr/)
+- (arXiv 2025.01) Ingredients: Blending Custom Photos with Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2501.01790),[[Code]](https://github.com/feizc/Ingredients)
