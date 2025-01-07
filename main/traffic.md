@@ -64,3 +64,4 @@
 - (arXiv 2024.12) Exploring Transformer-Augmented LSTM for Temporal and Spatial Feature Learning in Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2412.13419.pdf)
 - (arXiv 2024.12) Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2412.15595.pdf)
 - (arXiv 2024.12) DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2412.18607.pdf)
+- (arXiv 2025.01) A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation, [[Paper]](https://arxiv.org/pdf/2501.02858.pdf)
