@@ -111,3 +111,4 @@
 - (arXiv 2024.12) Precise Facial Landmark Detection by Dynamic Semantic Aggregation Transformer, [[Paper]](https://arxiv.org/pdf/2412.00740.pdf),[[Code]](https://github.com/GERMINO-LiuHe/DSAT)
 - (arXiv 2024.12) ORFormer: Occlusion-Robust Transformer for Accurate Facial Landmark Detection, [[Paper]](https://arxiv.org/pdf/2412.13174.pdf),[[Code]](https://ben0919.github.io/ORFormer/)
 - (arXiv 2025.01) Distilled Transformers with Locally Enhanced Global Representations for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2412.20156.pdf)
+- (arXiv 2025.01) VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement, [[Paper]](https://arxiv.org/pdf/2501.01691.pdf)
