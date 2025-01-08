@@ -683,3 +683,4 @@
 - (arXiv 2025.01) GIT-CXR: End-to-End Transformer for Chest X-Ray Report Generation, [[Paper]](https://arxiv.org/pdf/2501.02598)
 - (arXiv 2025.01) PARF-Net: integrating pixel-wise adaptive receptive fields into hybrid Transformer-CNN network for medical image segmentation, [[Paper]](https://arxiv.org/pdf/2501.02882)
 - (arXiv 2025.01) GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2501.02788),[[Code]](https://github.com/HAAIL/GLoG-CSUnet)
+- (arXiv 2025.01) CFFormer: Cross CNN-Transformer Channel Attention and Spatial Feature Fusion for Improved Segmentation of Low Quality Medical Images, [[Paper]](https://arxiv.org/pdf/2501.03629)
