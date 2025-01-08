@@ -98,3 +98,4 @@
 - (arXiv 2025.01) SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration, [[Paper]](https://arxiv.org/pdf/2501.01320),[[Code]](https://iceclear.github.io/projects/seedvr/)
 - (arXiv 2025.01) Ingredients: Blending Custom Photos with Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2501.01790),[[Code]](https://github.com/feizc/Ingredients)
 - (arXiv 2025.01) GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking, [[Paper]](https://arxiv.org/pdf/2501.02690),[[Code]](https://wkbian.github.io/Projects/GS-DiT/)
+- (arXiv 2025.01) Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2501.03931),[[Code]](https://github.com/dvlab-research/MagicMirror/)
