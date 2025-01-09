@@ -228,3 +228,4 @@
 - (arXiv 2024.11) CMAViT: Integrating Climate, Managment, and Remote Sensing Data for Crop Yield Estimation with Multimodel Vision Transformers, [[Paper]](https://arxiv.org/pdf/2411.16989), [[Code]](https://github.com/plant-ai-biophysics-lab/CMAViT)
 - (arXiv 2024.12) VibrantVS: A high-resolution multi-task transformer for forest canopy height estimation, [[Paper]](https://arxiv.org/pdf/2412.10351)
 - (arXiv 2024.12) UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation, [[Paper]](https://arxiv.org/pdf/2412.18928)
+- (arXiv 2025.01) TADFormer : Task-Adaptive Dynamic Transformer for Efficient Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2501.04293)
