@@ -35,3 +35,4 @@
 - (arXiv 2024.10) Selective Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2410.03171.pdf)
 - (arXiv 2024.11) Spectral-Spatial Transformer with Active Transfer Learning for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2411.18115.pdf),[[Code]](https://github.com/mahmad000/ATL-SST)
 - (arXiv 2024.12) DiffFormer: a Differential Spatial-Spectral Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2412.17350.pdf),[[Code]](https://github.com/mahmad000/DiffFormer)
+- (arXiv 2025.01) HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion, [[Paper]](https://arxiv.org/pdf/2501.04665.pdf)
