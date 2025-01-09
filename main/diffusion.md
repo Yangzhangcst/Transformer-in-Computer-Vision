@@ -100,3 +100,4 @@
 - (arXiv 2025.01) GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking, [[Paper]](https://arxiv.org/pdf/2501.02690),[[Code]](https://wkbian.github.io/Projects/GS-DiT/)
 - (arXiv 2025.01) Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2501.03931),[[Code]](https://github.com/dvlab-research/MagicMirror/)
 - (arXiv 2025.01) MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2501.03630)
+- (arXiv 2025.01) ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning, [[Paper]](https://arxiv.org/pdf/2501.04698)
