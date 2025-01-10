@@ -685,3 +685,4 @@
 - (arXiv 2025.01) GLoG-CSUnet: Enhancing Vision Transformers with Adaptable Radiomic Features for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2501.02788),[[Code]](https://github.com/HAAIL/GLoG-CSUnet)
 - (arXiv 2025.01) CFFormer: Cross CNN-Transformer Channel Attention and Spatial Feature Fusion for Improved Segmentation of Low Quality Medical Images, [[Paper]](https://arxiv.org/pdf/2501.03629)
 - (arXiv 2025.01) SplineFormer: An Explainable Transformer-Based Approach for Autonomous Endovascular Navigation, [[Paper]](https://arxiv.org/pdf/2501.04515)
+- (arXiv 2025.01) CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation Models, [[Paper]](https://arxiv.org/pdf/2501.05269),[[Code]](https://github.com/TIO-IKIM/CellViT-plus-plus)
