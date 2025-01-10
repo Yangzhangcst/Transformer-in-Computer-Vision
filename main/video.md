@@ -190,3 +190,4 @@
 - (arXiv 2024.11) DT-JRD: Deep Transformer based Just Recognizable Difference Prediction Model for Video Coding for Machines,  [[Paper]](https://arxiv.org/pdf/2411.09308)
 - (arXiv 2024.12) TRecViT: A Recurrent Video Transformer,  [[Paper]](https://arxiv.org/pdf/2412.14294), [[Code]](https://github.com/google-deepmind/trecvit)
 - (arXiv 2025.01) FullTransNet: Full Transformer with Local-Global Attention for Video Summarization,  [[Paper]](https://arxiv.org/pdf/2501.00882), [[Code]](https://github.com/Chianglu/FullTranNet)
+- (arXiv 2025.01) LongViTU: Instruction Tuning for Long-Form Video Understanding,  [[Paper]](https://arxiv.org/pdf/2501.05037)
