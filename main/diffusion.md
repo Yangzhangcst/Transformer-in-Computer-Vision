@@ -101,3 +101,4 @@
 - (arXiv 2025.01) Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2501.03931),[[Code]](https://github.com/dvlab-research/MagicMirror/)
 - (arXiv 2025.01) MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2501.03630)
 - (arXiv 2025.01) ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning, [[Paper]](https://arxiv.org/pdf/2501.04698)
+- (arXiv 2025.01) 3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering, [[Paper]](https://arxiv.org/pdf/2501.05131),[[Code]](hhttps://github.com/limuloo/3DIS)
