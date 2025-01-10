@@ -264,3 +264,4 @@
 - (arXiv 2024.12) CrossVIT-augmented Geospatial-Intelligence Visualization System for Tracking Economic Development Dynamics, [[Paper]](https://arxiv.org/pdf/2412.10474.pdf), [[Code]](https://github.com/HubDaniel/Satellite-Imagery-Driven-Geospatial-Intelligence-System-for-Tracking-Economic-Dynamics/tree/main)
 - (arXiv 2024.12) Jet: A Modern Transformer-Based Normalizing Flow, [[Paper]](https://arxiv.org/pdf/2412.15129.pdf)
 - (arXiv 2024.12) MiTREE: Multi-input Transformer Ecoregion Encoder for Species Distribution Modelling, [[Paper]](https://arxiv.org/pdf/2412.18995.pdf)
+- (arXiv 2025.01) MHAFF: Multi-Head Attention Feature Fusion of CNN and Transformer for Cattle Identification, [[Paper]](https://arxiv.org/pdf/2501.05209.pdf)
