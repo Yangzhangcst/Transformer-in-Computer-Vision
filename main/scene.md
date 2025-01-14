@@ -44,3 +44,4 @@
 - (arXiv 2024.05) Recasting Generic Pretrained Vision Transformers As Object-Centric Scene Encoders For Manipulation Policies, [[Paper]](https://arxiv.org/pdf/2405.15916.pdf),[[Code]](https://sites.google.com/view/robot-soft/)
 - (arXiv 2024.07) BCTR: Bidirectional Conditioning Transformer for Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2407.18715.pdf)
 - (arXiv 2024.12) GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding, [[Paper]](https://arxiv.org/pdf/2412.13193.pdf)
+- (arXiv 2025.01)  UniQ: Unified Decoder with Task-specific Queries for Efficient Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2501.05687.pdf)
