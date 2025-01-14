@@ -603,3 +603,4 @@
 - (arXiv 2024.12) Beyond Scalars: Concept-Based Alignment Analysis in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.06639.pdf),[[Code]](https://github.com/jvielhaben/NLMCD-ALIGN)
 - (arXiv 2024.12) Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.10569.pdf),[[Code]](https://github.com/movinghoon/dtem)
 - (arXiv 2025.01) SAFER: Sharpness Aware layer-selective Finetuning for Enhanced Robustness in vision transformers, [[Paper]](https://arxiv.org/pdf/2501.01529.pdf)
+- (arXiv 2025.01) MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets, [[Paper]](https://arxiv.org/pdf/2501.06040.pdf)
