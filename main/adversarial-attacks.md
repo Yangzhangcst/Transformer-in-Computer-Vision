@@ -36,3 +36,4 @@
 - (arXiv 2024.12) An Effective and Resilient Backdoor Attack Framework against Deep Neural Networks and Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.06149)
 - (arXiv 2024.12) Distortion-Aware Adversarial Attacks on Bounding Boxes of Object Detectors, [[Paper]](https://arxiv.org/pdf/2412.18815),[[Code]](https://github.com/anonymous20210106/attack_detector)
 - (arXiv 2024.12) Evaluating the Adversarial Robustness of Detection Transformers, [[Paper]](https://arxiv.org/pdf/2412.18718)
+- (arXiv 2025.01) Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities, [[Paper]](https://arxiv.org/pdf/2501.07044)
