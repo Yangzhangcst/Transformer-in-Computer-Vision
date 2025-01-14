@@ -686,3 +686,4 @@
 - (arXiv 2025.01) CFFormer: Cross CNN-Transformer Channel Attention and Spatial Feature Fusion for Improved Segmentation of Low Quality Medical Images, [[Paper]](https://arxiv.org/pdf/2501.03629)
 - (arXiv 2025.01) SplineFormer: An Explainable Transformer-Based Approach for Autonomous Endovascular Navigation, [[Paper]](https://arxiv.org/pdf/2501.04515)
 - (arXiv 2025.01) CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation Models, [[Paper]](https://arxiv.org/pdf/2501.05269),[[Code]](https://github.com/TIO-IKIM/CellViT-plus-plus)
+- (arXiv 2025.01) Swin-X2S: Reconstructing 3D Shape from 2D Biplanar X-ray with Swin Transformers, [[Paper]](https://arxiv.org/pdf/2501.05961),[[Code]](https://github.com/liukuan5625/Swin-X2S)
