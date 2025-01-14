@@ -14,3 +14,4 @@
 - (arXiv 2023.11) SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation, [[Paper]](https://arxiv.org/pdf/2311.17707.pdf), [[Code]](https://mutianxu.github.io/sampro3d/)
 - (arXiv 2024.04) Progressive Semantic-Guided Vision Transformer for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2404.07713.pdf)
 - (arXiv 2024.05) Dual Relation Mining Network for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2405.03613.pdf)
+- (arXiv 2025.01) Super-class guided Transformer for Zero-Shot Attribute Classification, [[Paper]](https://arxiv.org/pdf/2501.05728.pdf), [[Code]](https://github.com/mlvlab/SugaFormer)
