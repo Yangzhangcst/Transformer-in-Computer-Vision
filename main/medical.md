@@ -689,3 +689,4 @@
 - (arXiv 2025.01) Swin-X2S: Reconstructing 3D Shape from 2D Biplanar X-ray with Swin Transformers, [[Paper]](https://arxiv.org/pdf/2501.05961),[[Code]](https://github.com/liukuan5625/Swin-X2S)
 - (arXiv 2025.01) CeViT: Copula-Enhanced Vision Transformer in multi-task learning and bi-group image covariates with an application to myopia screening, [[Paper]](https://arxiv.org/pdf/2501.06540),[[Code]](https://github.com/silent618/CeViT)
 - (arXiv 2025.01) Open-Source Manually Annotated Vocal Tract Database for Automatic Segmentation from 3D MRI Using Deep Learning: Benchmarking 2D and 3D Convolutional and Transformer Networks, [[Paper]](https://arxiv.org/pdf/2501.06229)
+- (arXiv 2025.01) Multi-View Transformers for Airway-To-Lung Ratio Inference on Cardiac CT Scans: The C4R Study, [[Paper]](https://arxiv.org/pdf/2501.08902)
