@@ -66,3 +66,4 @@
 - (arXiv 2024.12) DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2412.18607.pdf)
 - (arXiv 2025.01) A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation, [[Paper]](https://arxiv.org/pdf/2501.02858.pdf)
 - (arXiv 2025.01) BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module, [[Paper]](https://arxiv.org/pdf/2501.08659.pdf), [[Code]](https://github.com/Anastasiawd/BrightVO)
+- (arXiv 2025.01) ASTRA: A Scene-aware TRAnsformer-based model for trajectory prediction, [[Paper]](https://arxiv.org/pdf/2501.09878)
