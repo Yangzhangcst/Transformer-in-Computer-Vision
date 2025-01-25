@@ -9,3 +9,4 @@
 - (arXiv 2024.07) Learning Motion Blur Robust Vision Transformers with Dynamic Early Exit for Real-Time UAV Tracking, [[Paper]](https://arxiv.org/pdf/2407.05383.pdf), [[Code]](https://github.com/wuyou3474/BDTrack)
 - (arXiv 2025.01) Learning Adaptive and View-Invariant Vision Transformer with Multi-Teacher Knowledge Distillation for Real-Time UAV Tracking, [[Paper]](https://arxiv.org/pdf/2412.20002.pdf), [[Code]](https://github.com/wuyou3474/AVTrack)
 - (arXiv 2025.01) UAV-DETR: Efficient End-to-End Object Detection for Unmanned Aerial Vehicle Imagery, [[Paper]](https://arxiv.org/pdf/2501.01855.pdf), [[Code]](https://github.com/ValiantDiligent/UAV-DETR)
+- (arXiv 2025.01) UAV-Assisted Real-Time Disaster Detection Using Optimized Transformer Model, [[Paper]](https://arxiv.org/pdf/2501.12087.pdf)
