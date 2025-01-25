@@ -230,3 +230,4 @@
 - (arXiv 2024.12) UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation, [[Paper]](https://arxiv.org/pdf/2412.18928)
 - (arXiv 2025.01) TADFormer : Task-Adaptive Dynamic Transformer for Efficient Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2501.04293)
 - (arXiv 2025.01) Transforming Vision Transformer: Towards Efficient Multi-Task Asynchronous Learning, [[Paper]](https://arxiv.org/pdf/2501.06884)
+- (arXiv 2025.01) CroMe: Multimodal Fake News Detection using Cross-Modal Tri-Transformer and Metric Learning, [[Paper]](https://arxiv.org/pdf/2501.12422)
