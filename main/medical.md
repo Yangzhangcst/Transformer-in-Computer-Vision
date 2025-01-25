@@ -692,3 +692,4 @@
 - (arXiv 2025.01) Multi-View Transformers for Airway-To-Lung Ratio Inference on Cardiac CT Scans: The C4R Study, [[Paper]](https://arxiv.org/pdf/2501.08902)
 - (arXiv 2025.01) High-throughput digital twin framework for predicting neurite deterioration using MetaFormer attention, [[Paper]](https://arxiv.org/pdf/2501.08334)
 - (arXiv 2025.01) Polyhedra Encoding Transformers: Enhancing Diffusion MRI Analysis Beyond Voxel and Volumetric Embedding, [[Paper]](https://arxiv.org/pdf/2501.13352)
+- (arXiv 2025.01) A CNN-Transformer for Classification of Longitudinal 3D MRI Images -- A Case Study on Hepatocellular Carcinoma Prediction, [[Paper]](https://arxiv.org/pdf/2501.10733)
