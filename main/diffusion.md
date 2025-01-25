@@ -103,3 +103,4 @@
 - (arXiv 2025.01) ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning, [[Paper]](https://arxiv.org/pdf/2501.04698)
 - (arXiv 2025.01) 3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering, [[Paper]](https://arxiv.org/pdf/2501.05131),[[Code]](hhttps://github.com/limuloo/3DIS)
 - (arXiv 2025.01) LiT: Delving into a Simplified Linear Diffusion Transformer for Image Generation, [[Paper]](https://arxiv.org/pdf/2501.12976),[[Code]](https://techmonsterwang.github.io/LiT/)
+- (arXiv 2025.01) CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation, [[Paper]](https://arxiv.org/pdf/2501.11325),[[Code]](https://github.com/Zheng-Chong/CatV2TON)
