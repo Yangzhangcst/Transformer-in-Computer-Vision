@@ -605,3 +605,4 @@
 - (arXiv 2025.01) SAFER: Sharpness Aware layer-selective Finetuning for Enhanced Robustness in vision transformers, [[Paper]](https://arxiv.org/pdf/2501.01529.pdf)
 - (arXiv 2025.01) MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets, [[Paper]](https://arxiv.org/pdf/2501.06040.pdf)
 - (arXiv 2025.01) PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis, [[Paper]](https://arxiv.org/pdf/2501.09333.pdf)
+- (arXiv 2025.01) The Linear Attention Resurrection in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2501.16182.pdf),[[Code]](https://github.com/ChuanyangZheng/L2ViT)
