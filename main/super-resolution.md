@@ -82,3 +82,4 @@
 - (arXiv 2024.11) ΩSFormer: Dual-Modal Ω-like Super-Resolution Transformer Network for Cross-scale and High-accuracy Terraced Field Vectorization Extraction, [[Paper]](https://arxiv.org/pdf/2411.17088.pdf),[[Code]](https://github.com/choubaoy/DMRVD/tree/master)
 - (arXiv 2024.12) CubeFormer: A Simple yet Effective Baseline for Lightweight Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2412.02234.pdf)
 - (arXiv 2025.01) State-of-the-Art Transformer Models for Image Super-Resolution: Techniques, Challenges, and Applications, [[Paper]](https://arxiv.org/pdf/2501.07855.pdf)
+- (arXiv 2025.01) Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2501.15774.pdf),[[Code]](https://github.com/saturnian77/ASID)
