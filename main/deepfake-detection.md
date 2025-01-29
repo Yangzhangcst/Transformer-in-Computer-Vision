@@ -20,3 +20,4 @@
 - (arXiv 2024.05) A Timely Survey on Vision Transformer for Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2405.08463.pdf)
 - (arXiv 2024.09) Tex-ViT: A Generalizable, Robust, Texture-based dual-branch cross-attention deepfake detector, [[Paper]](https://arxiv.org/pdf/2408.16892.pdf)
 - (arXiv 2024.10) FakeFormer: Efficient Vulnerability-Driven Transformers for Generalisable Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2410.21964.pdf), [[Code]](https://github.com/10Ring/FakeFormer)
+- (arXiv 2025.01) Classifying Deepfakes Using Swin Transformers, [[Paper]](https://arxiv.org/pdf/2501.15656.pdf)
