@@ -42,3 +42,4 @@
 - (arXiv 2024.06) GMT: Guided Mask Transformer for Leaf Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2406.17109)
 - (arXiv 2024.07) SGIFormer: Semantic-guided and Geometric-enhanced Interleaving Transformer for 3D Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2407.11564)
 - (arXiv 2024.11) CompetitorFormer: Competitor Transformer for 3D Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2411.14179)
+- (arXiv 2025.01) ContourFormer:Real-Time Contour-Based End-to-End Instance Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2501.17688),[[Code]](https://github.com/talebolano/Contourformer)
