@@ -606,3 +606,4 @@
 - (arXiv 2025.01) MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets, [[Paper]](https://arxiv.org/pdf/2501.06040.pdf)
 - (arXiv 2025.01) PROMPT-CAM: A Simpler Interpretable Transformer for Fine-Grained Analysis, [[Paper]](https://arxiv.org/pdf/2501.09333.pdf)
 - (arXiv 2025.01) The Linear Attention Resurrection in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2501.16182.pdf),[[Code]](https://github.com/ChuanyangZheng/L2ViT)
+- (arXiv 2025.01) PolaFormer: Polarity-aware Linear Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2501.15061.pdf)
