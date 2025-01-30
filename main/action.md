@@ -142,3 +142,4 @@
 - (arXiv 2024.10) Spatio-temporal Transformers for Action Unit Classification with Event Cameras,  [[Paper]](https://arxiv.org/pdf/2410.21958.pdf)
 - (arXiv 2024.11) Autoregressive Adaptive Hypergraph Transformer for Skeleton-based Activity Recognition,  [[Paper]](https://arxiv.org/pdf/2411.05692.pdf)
 - (arXiv 2025.01) FreqMixFormerV2: Lightweight Frequency-aware Mixed Transformer for Human Skeleton Action Recognition,  [[Paper]](https://arxiv.org/pdf/2412.20621.pdf),[[Code]](https://github.com/wenhanwu95/FreqMixFormer)
+- (arXiv 2025.01) Overcoming Semantic Dilution in Transformer-Based Next Frame Prediction,  [[Paper]](https://arxiv.org/pdf/2501.16753.pdf)
