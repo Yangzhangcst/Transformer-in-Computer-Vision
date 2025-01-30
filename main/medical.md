@@ -696,3 +696,4 @@
 - (arXiv 2025.01) Leveraging Video Vision Transformer for Alzheimer's Disease Diagnosis from 3D Brain MRI, [[Paper]](https://arxiv.org/pdf/2501.15733)
 - (arXiv 2025.01) Identifying Critical Tokens for Accurate Predictions in Transformer-based Medical Imaging Models, [[Paper]](https://arxiv.org/pdf/2501.15452)
 - (arXiv 2025.01) Object Detection for Medical Image Analysis: Insights from the RT-DETR Model, [[Paper]](https://arxiv.org/pdf/2501.16469)
+- (arXiv 2025.01) ViT-2SPN: Vision Transformer-based Dual-Stream Self-Supervised Pretraining Networks for Retinal OCT Classification, [[Paper]](https://arxiv.org/pdf/2501.17260),[[Code]](https://github.com/mrsaraei/ViT-2SPN)
