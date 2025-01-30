@@ -9,3 +9,4 @@
 - (arXiv 2023.12) Adapting Vision Transformer for Efficient Change Detection, [[Paper]](https://arxiv.org/pdf/2312.04869.pdf)
 - (arXiv 2024.06) ChangeViT: Unleashing Plain Vision Transformers for Change Detection, [[Paper]](https://arxiv.org/pdf/2406.12847.pdf), [[Code]](https://github.com/zhuduowang/ChangeViT)
 - (arXiv 2024.07) Relating CNN-Transformer Fusion Network for Change Detection, [[Paper]](https://arxiv.org/pdf/2407.03178.pdf), [[Code]](https://github.com/NUST-Machine-Intelligence-Laboratory/RCTNet)
+- (arXiv 2025.01) ME-CPT: Multi-Task Enhanced Cross-Temporal Point Transformer for Urban 3D Change Detection, [[Paper]](https://arxiv.org/pdf/2501.14004.pdf), [[Code]](https://github.com/zhangluqi0209/ME-CPT)
