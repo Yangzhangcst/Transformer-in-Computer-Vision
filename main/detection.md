@@ -254,3 +254,4 @@
 - (arXiv 2024.12) Mr. DETR: Instructive Multi-Route Training for Detection Transformers, [[Paper]](https://arxiv.org/pdf/2412.10028)
 - (arXiv 2024.12) CP-DETR: Concept Prompt Guide DETR Toward Stronger Universal Object Detection, [[Paper]](https://arxiv.org/pdf/2412.09799)
 - (arXiv 2025.01) CSPCL: Category Semantic Prior Contrastive Learning for Deformable DETR-Based Prohibited Item Detectors, [[Paper]](https://arxiv.org/pdf/2501.16665)
+- (arXiv 2025.01) TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection, [[Paper]](https://arxiv.org/pdf/2501.17977), [[Code]](https://github.com/radar-lab/TransRAD)
