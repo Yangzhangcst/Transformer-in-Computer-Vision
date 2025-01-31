@@ -13,3 +13,4 @@
 - (arXiv 2024.07) LoFormer: Local Frequency Transformer for Image Deblurring, [[Paper]](https://arxiv.org/pdf/2407.16993.pdf), [[Code]](https://github.com/DeepMed-Lab-ECNU/Single-Image-Deblur)
 - (arXiv 2024.08) Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model, [[Paper]](https://arxiv.org/pdf/2408.13459.pdf), [[Code]](https://github.com/Chen-Rao/VD-Diff)
 - (arXiv 2024.09) F2former: When Fractional Fourier Meets Deep Wiener Deconvolution and Selective Frequency Transformer for Image Deblurring, [[Paper]](https://arxiv.org/pdf/2409.02056.pdf)
+- (arXiv 2025.01) Efficient Transformer for High Resolution Image Motion Deblurring, [[Paper]](https://arxiv.org/pdf/2501.18403.pdf), [[Code]](https://github.com/hamzafer/image-deblurring)
