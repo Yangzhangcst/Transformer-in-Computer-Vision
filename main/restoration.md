@@ -33,3 +33,4 @@
 - (arXiv 2024.11) MWFormer: Multi-Weather Image Restoration Using Degradation-Aware Transformers,  [[Paper]](https://arxiv.org/pdf/2411.17226.pdf), [[Code]](https://github.com/taco-group/MWFormer)
 - (arXiv 2024.12) Phaseformer: Phase-based Attention Mechanism for Underwater Image Restoration and Beyond,  [[Paper]](https://arxiv.org/pdf/2412.01456.pdf), [[Code]](https://github.com/Mdraqibkhan/Phaseformer)
 - (arXiv 2024.12) Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression,  [[Paper]](https://arxiv.org/pdf/2412.08912.pdf)
+- (arXiv 2025.01) MatIR: A Hybrid Mamba-Transformer Image Restoration Model,  [[Paper]](https://arxiv.org/pdf/2412.08912.pdf)
