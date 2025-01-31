@@ -106,3 +106,4 @@
 - (arXiv 2025.01) CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation, [[Paper]](https://arxiv.org/pdf/2501.11325),[[Code]](https://github.com/Zheng-Chong/CatV2TON)
 - (arXiv 2025.01) PackDiT: Joint Human Motion and Text Generation via Mutual Prompting, [[Paper]](https://arxiv.org/pdf/2501.16551)
 - (arXiv 2025.01) ITVTON:Virtual Try-On Diffusion Transformer Model Based on Integrated Image and Text, [[Paper]](https://arxiv.org/pdf/2501.16757)
+- (arXiv 2025.01) SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2501.18427),[[Code]](https://github.com/NVlabs/Sana)
