@@ -107,3 +107,5 @@
 - (arXiv 2025.01) PackDiT: Joint Human Motion and Text Generation via Mutual Prompting, [[Paper]](https://arxiv.org/pdf/2501.16551)
 - (arXiv 2025.01) ITVTON:Virtual Try-On Diffusion Transformer Model Based on Integrated Image and Text, [[Paper]](https://arxiv.org/pdf/2501.16757)
 - (arXiv 2025.01) SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2501.18427),[[Code]](https://github.com/NVlabs/Sana)
+- (arXiv 2025.02) Accelerating Diffusion Transformer via Error-Optimized Cache, [[Paper]](https://arxiv.org/pdf/2501.19243)
+- (arXiv 2025.02) LayerTracer: Cognitive-Aligned Layered SVG Synthesis via Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2502.01105),[[Code]](https://github.com/showlab/LayerTracer)
