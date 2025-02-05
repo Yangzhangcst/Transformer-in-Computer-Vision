@@ -17,3 +17,4 @@
 - (arXiv 2024.06) Adapting Pretrained ViTs with Convolution Injector for Visuo-Motor Control, [[Paper]](https://arxiv.org/pdf/2406.06072.pdf), [[Project]](https://github.com/dojeon-ai/CoIn)
 - (arXiv 2024.11) HiMemFormer: Hierarchical Memory-Aware Transformer for Multi-Agent Action Anticipation, [[Paper]](https://arxiv.org/pdf/2411.01455.pdf)
 - (arXiv 2025.02) UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent, [[Paper]](https://arxiv.org/pdf/2501.18867.pdf)
+- (arXiv 2025.02) VertiFormer: A Data-Efficient Multi-Task Transformer for Off-Road Robot Mobility, [[Paper]](https://arxiv.org/pdf/2502.00543.pdf), [[Code]](https://github.com/mhnazeri/VertiFormer)
