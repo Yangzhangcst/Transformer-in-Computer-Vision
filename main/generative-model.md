@@ -43,3 +43,4 @@
 - (arXiv 2024.11) CART: Compositional Auto-Regressive Transformer for Image Generation, [[Paper]](https://arxiv.org/pdf/2411.10180.pdf)
 - (arXiv 2024.11) Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer, [[Paper]](https://arxiv.org/pdf/2411.10781.pdf)
 - (arXiv 2024.12) CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image, [[Paper]](https://arxiv.org/pdf/2412.12906.pdf)
+- (arXiv 2025.02) Masked Generative Nested Transformers with Decode Time Scaling, [[Paper]](https://arxiv.org/pdf/2502.00382.pdf)
