@@ -699,3 +699,4 @@
 - (arXiv 2025.01) ViT-2SPN: Vision Transformer-based Dual-Stream Self-Supervised Pretraining Networks for Retinal OCT Classification, [[Paper]](https://arxiv.org/pdf/2501.17260),[[Code]](https://github.com/mrsaraei/ViT-2SPN)
 - (arXiv 2025.01) Post-Training Quantization for 3D Medical Image Segmentation: A Practical Study on Real Inference Engines, [[Paper]](https://arxiv.org/pdf/2501.17343),[[Code]](https://github.com/hrlblab/PTQ)
 - (arXiv 2025.01) Arbitrary Data as Images: Fusion of Patient Data Across Modalities and Irregular Intervals with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2501.18237)
+- (arXiv 2025.02) MedConv: Convolutions Beat Transformers on Long-Tailed Bone Density Prediction, [[Paper]](https://arxiv.org/pdf/2502.00631),[[Code]](https://github.com/Richardqiyi/MedConv)
