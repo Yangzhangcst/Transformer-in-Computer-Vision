@@ -110,3 +110,4 @@
 - (arXiv 2025.02) Accelerating Diffusion Transformer via Error-Optimized Cache, [[Paper]](https://arxiv.org/pdf/2501.19243)
 - (arXiv 2025.02) LayerTracer: Cognitive-Aligned Layered SVG Synthesis via Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2502.01105),[[Code]](https://github.com/showlab/LayerTracer)
 - (arXiv 2025.02) ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features, [[Paper]](https://arxiv.org/pdf/2502.04320)
+- (arXiv 2025.02) UniForm: A Unified Diffusion Transformer for Audio-Video Generation, [[Paper]](https://arxiv.org/pdf/2502.03897)
