@@ -701,3 +701,4 @@
 - (arXiv 2025.01) Arbitrary Data as Images: Fusion of Patient Data Across Modalities and Irregular Intervals with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2501.18237)
 - (arXiv 2025.02) MedConv: Convolutions Beat Transformers on Long-Tailed Bone Density Prediction, [[Paper]](https://arxiv.org/pdf/2502.00631),[[Code]](https://github.com/Richardqiyi/MedConv)
 - (arXiv 2025.02) Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation, [[Paper]](https://arxiv.org/pdf/2502.00630)
+- (arXiv 2025.02) A Retrospective Systematic Study on Hierarchical Sparse Query Transformer-assisted Ultrasound Screening for Early Hepatocellular Carcinoma, [[Paper]](https://arxiv.org/pdf/2502.03772),[[Code]](https://github.com/Asunatan/HSQformer)
