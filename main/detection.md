@@ -256,3 +256,4 @@
 - (arXiv 2025.01) CSPCL: Category Semantic Prior Contrastive Learning for Deformable DETR-Based Prohibited Item Detectors, [[Paper]](https://arxiv.org/pdf/2501.16665)
 - (arXiv 2025.01) TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection, [[Paper]](https://arxiv.org/pdf/2501.17977), [[Code]](https://github.com/radar-lab/TransRAD)
 - (arXiv 2025.02) MonoDINO-DETR: Depth-Enhanced Monocular 3D Object Detection Using a Vision Foundation Model, [[Paper]](https://arxiv.org/pdf/2502.00315), [[Code]](https://github.com/JihyeokKim/MonoDINO-DETR)
+- (arXiv 2025.02) LP-DETR: Layer-wise Progressive Relations for Object Detection, [[Paper]](https://arxiv.org/pdf/2502.05147)
