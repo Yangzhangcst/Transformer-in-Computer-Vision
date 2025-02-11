@@ -69,4 +69,5 @@
 - (arXiv 2024.12) Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.14633)
 - (arXiv 2024.12) Semantics Prompting Data-Free Quantization for Low-Bit Vision Transformers, [[Paper]](https://arxiv.org/pdf/2412.16553)
 - (arXiv 2024.12) MBQ: Modality-Balanced Quantization for Large Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2412.19509), [[Code]](https://github.com/thu-nics/MBQ)
-- (arXiv 2025.01) Mix-QViT: Mixed-Precision Vision Transformer Quantization Driven by Layer Importance and Quantization Sensitivity, [[Paper]](https://arxiv.org/pdf/2501.06357), [[Code]](https://github.com/thu-nics/MBQ)
+- (arXiv 2025.01) Mix-QViT: Mixed-Precision Vision Transformer Quantization Driven by Layer Importance and Quantization Sensitivity, [[Paper]](https://arxiv.org/pdf/2501.06357)
+- (arXiv 2025.02) AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2502.04628)
