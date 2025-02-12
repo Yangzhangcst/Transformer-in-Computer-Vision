@@ -608,3 +608,4 @@
 - (arXiv 2025.01) The Linear Attention Resurrection in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2501.16182.pdf),[[Code]](https://github.com/ChuanyangZheng/L2ViT)
 - (arXiv 2025.01) PolaFormer: Polarity-aware Linear Attention for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2501.15061.pdf)
 - (arXiv 2025.02) Contrastive Forward-Forward: A Training Algorithm of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2502.00571.pdf),[[Code]](https://github.com/HosseinAghagol/ContrastiveFF)
+- (arXiv 2025.02) MicroViT: A Vision Transformer with Low Complexity Self Attention for Edge Device, [[Paper]](https://arxiv.org/pdf/2502.05800.pdf),[[Code]](https://github.com/HosseinAghagol/ContrastiveFF)
