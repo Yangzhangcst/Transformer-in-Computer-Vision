@@ -114,3 +114,4 @@
 - (arXiv 2025.02) HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation, [[Paper]](https://arxiv.org/pdf/2502.04847)
 - (arXiv 2025.02) VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2502.05979),[[Code]](https://vfx-creator0.github.io/)
 - (arXiv 2025.02) Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile, [[Paper]](https://arxiv.org/pdf/2502.06155)
+- (arXiv 2025.02) CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2502.06527)
