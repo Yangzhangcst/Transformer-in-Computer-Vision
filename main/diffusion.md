@@ -112,3 +112,4 @@
 - (arXiv 2025.02) ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features, [[Paper]](https://arxiv.org/pdf/2502.04320)
 - (arXiv 2025.02) UniForm: A Unified Diffusion Transformer for Audio-Video Generation, [[Paper]](https://arxiv.org/pdf/2502.03897)
 - (arXiv 2025.02) HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation, [[Paper]](https://arxiv.org/pdf/2502.04847)
+- (arXiv 2025.02) VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2502.05979),[[Code]](https://vfx-creator0.github.io/)
