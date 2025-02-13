@@ -705,4 +705,5 @@
 - (arXiv 2025.02) Multi-Scale Transformer Architecture for Accurate Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2502.06243)
 - (arXiv 2025.02) Cell Nuclei Detection and Classification in Whole Slide Images with Transformers, [[Paper]](https://arxiv.org/pdf/2502.06307),[[Code]](https://github.com/oscar97pina/celldetr)
 - (arXiv 2025.02) DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation, [[Paper]](https://arxiv.org/pdf/2502.06307),[[Code]](https://github.com/m-kinz/DefTransNet)
+- (arXiv 2025.02) Generalizable automated ischaemic stroke lesion segmentation with vision transformers, [[Paper]](https://arxiv.org/pdf/2502.06939)
 
