@@ -26,3 +26,4 @@
 - (arXiv 2024.07) Heterogeneous window transformer for image denoising, [[Paper]](https://arxiv.org/pdf/2407.05709.pdf)
 - (arXiv 2024.07) Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer, [[Paper]](https://arxiv.org/pdf/2407.09094.pdf), [[Code]](https://github.com/YuanfeiHuang/Condformer)
 - (arXiv 2024.08) A Practical Gated Recurrent Transformer Network Incorporating Multiple Fusions for Video Denoising, [[Paper]](https://arxiv.org/pdf/2409.06603.pdf)
+- (arXiv 2025.02) Residual Transformer Fusion Network for Salt and Pepper Image Denoising, [[Paper]](https://arxiv.org/pdf/2502.09000.pdf)
