@@ -116,3 +116,4 @@
 - (arXiv 2025.02) Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile, [[Paper]](https://arxiv.org/pdf/2502.06155)
 - (arXiv 2025.02) CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2502.06527)
 - (arXiv 2025.02) DSV: Exploiting Dynamic Sparsity to Accelerate Large-Scale Video DiT Training, [[Paper]](https://arxiv.org/pdf/2502.07590)
+- (arXiv 2025.02) E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization, [[Paper]](https://arxiv.org/pdf/2502.09164)
