@@ -112,3 +112,4 @@
 - (arXiv 2024.12) ORFormer: Occlusion-Robust Transformer for Accurate Facial Landmark Detection, [[Paper]](https://arxiv.org/pdf/2412.13174.pdf),[[Code]](https://ben0919.github.io/ORFormer/)
 - (arXiv 2025.01) Distilled Transformers with Locally Enhanced Global Representations for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2412.20156.pdf)
 - (arXiv 2025.01) VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement, [[Paper]](https://arxiv.org/pdf/2501.01691.pdf)
+- (arXiv 2025.02) GVTNet: Graph Vision Transformer For Face Super-Resolution, [[Paper]](https://arxiv.org/pdf/2502.12570.pdf)
