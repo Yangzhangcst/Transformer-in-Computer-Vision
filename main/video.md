@@ -192,3 +192,4 @@
 - (arXiv 2025.01) FullTransNet: Full Transformer with Local-Global Attention for Video Summarization,  [[Paper]](https://arxiv.org/pdf/2501.00882), [[Code]](https://github.com/Chianglu/FullTranNet)
 - (arXiv 2025.01) LongViTU: Instruction Tuning for Long-Form Video Understanding,  [[Paper]](https://arxiv.org/pdf/2501.05037)
 - (arXiv 2025.01) TranStable: Towards Robust Pixel-level Online Video Stabilization by Jointing Transformer and CNN,  [[Paper]](https://arxiv.org/pdf/2501.15138)
+- (arXiv 2025.02) MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation,  [[Paper]](https://arxiv.org/pdf/2502.12632)
