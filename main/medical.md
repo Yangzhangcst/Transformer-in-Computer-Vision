@@ -707,4 +707,5 @@
 - (arXiv 2025.02) DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation, [[Paper]](https://arxiv.org/pdf/2502.06307),[[Code]](https://github.com/m-kinz/DefTransNet)
 - (arXiv 2025.02) Generalizable automated ischaemic stroke lesion segmentation with vision transformers, [[Paper]](https://arxiv.org/pdf/2502.06939)
 - (arXiv 2025.02) Hierarchical Vision Transformer with Prototypes for Interpretable Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2502.08997)
+- (arXiv 2025.02) Transformer-Driven Modeling of Variable Frequency Features for Classifying Student Engagement in Online Learning, [[Paper]](https://arxiv.org/pdf/2502.08997)
 
