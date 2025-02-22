@@ -258,3 +258,4 @@
 - (arXiv 2025.02) MonoDINO-DETR: Depth-Enhanced Monocular 3D Object Detection Using a Vision Foundation Model, [[Paper]](https://arxiv.org/pdf/2502.00315), [[Code]](https://github.com/JihyeokKim/MonoDINO-DETR)
 - (arXiv 2025.02) LP-DETR: Layer-wise Progressive Relations for Object Detection, [[Paper]](https://arxiv.org/pdf/2502.05147)
 - (arXiv 2025.02) SparseFormer: Detecting Objects in HRW Shots via Sparse Vision Transformer, [[Paper]](https://arxiv.org/pdf/2502.07216)
+- (arXiv 2025.02) RT-DEMT: A hybrid real-time acupoint detection model combining mamba and transformer, [[Paper]](https://arxiv.org/pdf/2502.11179)
