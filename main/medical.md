@@ -708,4 +708,5 @@
 - (arXiv 2025.02) Generalizable automated ischaemic stroke lesion segmentation with vision transformers, [[Paper]](https://arxiv.org/pdf/2502.06939)
 - (arXiv 2025.02) Hierarchical Vision Transformer with Prototypes for Interpretable Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2502.08997)
 - (arXiv 2025.02) Transformer-Driven Modeling of Variable Frequency Features for Classifying Student Engagement in Online Learning, [[Paper]](https://arxiv.org/pdf/2502.08997)
+- (arXiv 2025.02) OCT Data is All You Need: How Vision Transformers with and without Pre-training Benefit Imaging, [[Paper]](https://arxiv.org/pdf/2502.12379)
 
