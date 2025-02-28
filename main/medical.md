@@ -711,4 +711,5 @@
 - (arXiv 2025.02) OCT Data is All You Need: How Vision Transformers with and without Pre-training Benefit Imaging, [[Paper]](https://arxiv.org/pdf/2502.12379)
 - (arXiv 2025.02) Medical Image Classification with KAN-Integrated Transformers and Dilated Neighborhood Attention, [[Paper]](https://arxiv.org/pdf/2502.13693),[[Code]](https://github.com/Omid-Nejati/MedViTV2)
 - (arXiv 2025.02) Diagnosing COVID-19 Severity from Chest X-Ray Images Using ViT and CNN Architectures, [[Paper]](https://arxiv.org/pdf/2502.16622),[[Code]](https://github.com/stwhitfield/covid-sev)
+- (arXiv 2025.02) MaxGlaViT: A novel lightweight vision transformer-based approach for early diagnosis of glaucoma stages from fundus images, [[Paper]](https://arxiv.org/pdf/2502.17154)
 
