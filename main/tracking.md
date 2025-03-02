@@ -106,3 +106,4 @@
 - (arXiv 2024.09) General Compression Framework for Efficient Transformer Object Tracking, [[Paper]](https://arxiv.org/pdf/2409.17564.pdf), [[Code]](https://github.com/LingyiHongfd/CompressTracker)
 - (arXiv 2024.10) Temporal-Enhanced Multimodal Transformer for Referring Multi-Object Tracking and Segmentation, [[Paper]](https://arxiv.org/pdf/2410.13437.pdf)
 - (arXiv 2025.01) Track-On: Transformer-based Online Point Tracking with Memory, [[Paper]](https://arxiv.org/pdf/2501.18487.pdf), [[Code]](https://kuis-ai.github.io/track_on)
+- (arXiv 2025.02) Enhanced Transformer-Based Tracking for Skiing Events: Overcoming Multi-Camera Challenges, Scale Variations and Rapid Motion -- SkiTB Visual Tracking Challenge 2025, [[Paper]](https://arxiv.org/pdf/2502.18867.pdf)
