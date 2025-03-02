@@ -162,3 +162,4 @@
 - (arXiv 2024.12) Global Average Feature Augmentation for Robust Semantic Segmentation with Transformers, [[Paper]](https://arxiv.org/pdf/2412.01941.pdf)
 - (arXiv 2024.12) ViTmiX: Vision Transformer Explainability Augmented by Mixed Visualization Methods, [[Paper]](https://arxiv.org/pdf/2412.14231.pdf)
 - (arXiv 2025.02) ContextFormer: Redefining Efficiency in Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2501.19255.pdf)
+- (arXiv 2025.02) VPNeXt -- Rethinking Dense Decoding for Plain Vision Transformer, [[Paper]](https://arxiv.org/pdf/2502.16654.pdf)
