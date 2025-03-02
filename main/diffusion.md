@@ -122,3 +122,4 @@
 - (arXiv 2025.02) RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2502.14377),[[Code]](https://github.com/360CVGroup/RelaCtrl)
 - (arXiv 2025.02) RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2502.15894),[[Code]](https://github.com/thu-ml/RIFLEx)
 - (arXiv 2025.02) VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2502.20108),[[Code]](https://github.com/ZionGo6/VDT-Auto)
+- (arXiv 2025.02) FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute, [[Paper]](https://arxiv.org/pdf/2502.20126)
