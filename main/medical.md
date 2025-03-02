@@ -714,4 +714,4 @@
 - (arXiv 2025.02) MaxGlaViT: A novel lightweight vision transformer-based approach for early diagnosis of glaucoma stages from fundus images, [[Paper]](https://arxiv.org/pdf/2502.17154)
 - (arXiv 2025.02) GS-TransUNet: Integrated 2D Gaussian Splatting and Transformer UNet for Accurate Skin Lesion Analysis, [[Paper]](https://arxiv.org/pdf/2502.16748)
 - (arXiv 2025.02) FedDA-TSformer: Federated Domain Adaptation with Vision TimeSformer for Left Ventricle Segmentation on Gated Myocardial Perfusion SPECT Image, [[Paper]](https://arxiv.org/pdf/2502.16709)
-
+- (arXiv 2025.02) 3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer, [[Paper]](https://arxiv.org/pdf/2502.19623)
