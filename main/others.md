@@ -265,3 +265,5 @@
 - (arXiv 2024.12) Jet: A Modern Transformer-Based Normalizing Flow, [[Paper]](https://arxiv.org/pdf/2412.15129.pdf)
 - (arXiv 2024.12) MiTREE: Multi-input Transformer Ecoregion Encoder for Species Distribution Modelling, [[Paper]](https://arxiv.org/pdf/2412.18995.pdf)
 - (arXiv 2025.01) MHAFF: Multi-Head Attention Feature Fusion of CNN and Transformer for Cattle Identification, [[Paper]](https://arxiv.org/pdf/2501.05209.pdf)
+- (arXiv 2025.02) ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation, [[Paper]](https://arxiv.org/pdf/2502.18364.pdf)
+- (arXiv 2025.02) SentiFormer: Metadata Enhanced Transformerfor Image Sentiment Analysis, [[Paper]](https://arxiv.org/pdf/2502.15322.pdf)
