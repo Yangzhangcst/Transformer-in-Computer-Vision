@@ -39,3 +39,4 @@
 - (arXiv 2024.11) Adaptive Aspect Ratios with Patch-Mixup-ViT-based Vehicle ReID, [[Paper]](https://arxiv.org/pdf/2411.06297.pdf), [[Code]](https://github.com/qiumei1101/Adaptive_AR_PM_TransReID)
 - (arXiv 2024.12) Motif Guided Graph Transformer with Combinatorial Skeleton Prototype Learning for Skeleton-Based Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2412.09044.pdf), [[Code]](https://github.com/Kali-Hac/MoCos)
 - (arXiv 2024.12) Unity is Strength: Unifying Convolutional and Transformeral Features for Better Person Re-Identification, [[Paper]](https://arxiv.org/pdf/2412.17239.pdf), [[Code]](https://github.com/924973292/FusionReID)
+- (arXiv 2025.02) Two-Stream Spatial-Temporal Transformer Framework for Person Identification via Natural Conversational Keypoints, [[Paper]](https://arxiv.org/pdf/2502.20803.pdf)
