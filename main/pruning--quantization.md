@@ -72,3 +72,4 @@
 - (arXiv 2025.01) Mix-QViT: Mixed-Precision Vision Transformer Quantization Driven by Layer Importance and Quantization Sensitivity, [[Paper]](https://arxiv.org/pdf/2501.06357)
 - (arXiv 2025.02) AIQViT: Architecture-Informed Post-Training Quantization for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2502.04628)
 - (arXiv 2025.02) Hardware-Friendly Static Quantization Method for Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2502.15077)
+- (arXiv 2025.03) Oscillation-Reduced MXFP4 Training for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2502.20853), [[Code]](https://github.com/thu-ml/TetraJet-MXFP4Training)
