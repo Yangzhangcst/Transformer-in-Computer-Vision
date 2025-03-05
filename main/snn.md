@@ -26,3 +26,4 @@
 - (arxiv 2025.01) Quantized Spike-driven Transformer, [[Paper]](https://arxiv.org/pdf/2501.13492), [[Code]](https://github.com/bollossom/QSD-Transformer/tree/main)
 - (arxiv 2025.02) Spiking Vision Transformer with Saccadic Attention, [[Paper]](https://arxiv.org/pdf/2502.12677)
 - (arxiv 2025.02) Towards High-performance Spiking Transformers from ANN to SNN Conversion, [[Paper]](https://arxiv.org/pdf/2502.21193), [[Code]](https://github.com/h-z-h-cell/Transformer-to-SNN-ECMT)
+- (arxiv 2025.03) Spiking Transformer:Introducing Accurate Addition-Only Spiking Self-Attention for Transformer, [[Paper]](https://arxiv.org/pdf/2503.00226)
