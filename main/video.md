@@ -193,3 +193,4 @@
 - (arXiv 2025.01) LongViTU: Instruction Tuning for Long-Form Video Understanding,  [[Paper]](https://arxiv.org/pdf/2501.05037)
 - (arXiv 2025.01) TranStable: Towards Robust Pixel-level Online Video Stabilization by Jointing Transformer and CNN,  [[Paper]](https://arxiv.org/pdf/2501.15138)
 - (arXiv 2025.02) MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation,  [[Paper]](https://arxiv.org/pdf/2502.12632)
+- (arXiv 2025.03) CFSum: A Transformer-Based Multi-Modal Video Summarization Framework With Coarse-Fine Fusion,  [[Paper]](https://arxiv.org/pdf/2503.00364)
