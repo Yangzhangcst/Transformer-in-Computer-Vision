@@ -233,3 +233,4 @@
 - (arXiv 2025.01) CroMe: Multimodal Fake News Detection using Cross-Modal Tri-Transformer and Metric Learning, [[Paper]](https://arxiv.org/pdf/2501.12422)
 - (arXiv 2025.02) UniMoD: Efficient Unified Multimodal Transformers with Mixture-of-Depths, [[Paper]](https://arxiv.org/pdf/2502.06474), [[Code]](https://github.com/showlab/UniMoD)
 - (arXiv 2025.03) Solar Multimodal Transformer: Intraday Solar Irradiance Predictor using Public Cameras and Time Series, [[Paper]](https://arxiv.org/pdf/2503.00250)
+- (arXiv 2025.03) CFSum: A Transformer-Based Multi-Modal Video Summarization Framework With Coarse-Fine Fusion, [[Paper]](https://arxiv.org/pdf/2503.00364)
