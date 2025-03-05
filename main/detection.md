@@ -260,3 +260,4 @@
 - (arXiv 2025.02) SparseFormer: Detecting Objects in HRW Shots via Sparse Vision Transformer, [[Paper]](https://arxiv.org/pdf/2502.07216)
 - (arXiv 2025.02) RT-DEMT: A hybrid real-time acupoint detection model combining mamba and transformer, [[Paper]](https://arxiv.org/pdf/2502.11179)
 - (arXiv 2025.02) CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query, [[Paper]](https://arxiv.org/pdf/2502.19313)
+- (arXiv 2025.03) MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism, [[Paper]](https://arxiv.org/pdf/2503.01463)
