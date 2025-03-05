@@ -51,3 +51,4 @@
 - (arXiv 2024.12) TAB: Transformer Attention Bottlenecks enable User Intervention and Debugging in Vision-Language Models, [[Paper]](https://arxiv.org/pdf/2412.18675.pdf)
 - (arXiv 2025.01) 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer, [[Paper]](https://arxiv.org/pdf/2501.01163.pdf)
 - (arXiv 2025.02) NanoVLMs: How small can we go and still make coherent Vision Language Models?, [[Paper]](https://arxiv.org/pdf/2502.07838.pdf)
+- (arXiv 2025.03) Recurrence-Enhanced Vision-and-Language Transformers for Robust Multimodal Document Retrieval, [[Paper]](https://arxiv.org/pdf/2503.01980.pdf),[[Code]](https://github.com/aimagelab/ReT)
