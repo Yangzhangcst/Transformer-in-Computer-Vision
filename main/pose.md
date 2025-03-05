@@ -124,3 +124,4 @@
 - (arXiv 2025.01) Poseidon: A ViT-based Architecture for Multi-Frame Pose Estimation with Adaptive Frame Weighting and Multi-Scale Feature Fusion, [[Paper]](https://arxiv.org/pdf/2501.08446.pdf), [[Code]](https://github.com/CesareDavidePace/poseidon)
 - (arXiv 2025.02) CleanPose: Category-Level Object Pose Estimation via Causal Learning and Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2502.01312.pdf)
 - (arXiv 2025.02) Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation, [[Paper]](https://arxiv.org/pdf/2502.18214.pdf), [[Code]](https://github.com/Raojiyong/KITPose)
+- (arXiv 2025.03) Transformers with Joint Tokens and Local-Global Attention for Efficient Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2503.00232.pdf)
