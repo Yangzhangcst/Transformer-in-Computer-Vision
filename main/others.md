@@ -268,3 +268,4 @@
 - (arXiv 2025.02) ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation, [[Paper]](https://arxiv.org/pdf/2502.18364.pdf)
 - (arXiv 2025.02) SentiFormer: Metadata Enhanced Transformerfor Image Sentiment Analysis, [[Paper]](https://arxiv.org/pdf/2502.15322.pdf)
 - (arXiv 2025.02) Improving Transformer Based Line Segment Detection with Matched Predicting and Re-ranking, [[Paper]](https://arxiv.org/pdf/2502.17766.pdf)
+- (arXiv 2025.03) TReND: Transformer derived features and Regularized NMF for neonatal functional network Delineation, [[Paper]](https://arxiv.org/pdf/2503.02685.pdf)
