@@ -610,3 +610,4 @@
 - (arXiv 2025.02) Contrastive Forward-Forward: A Training Algorithm of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2502.00571.pdf),[[Code]](https://github.com/HosseinAghagol/ContrastiveFF)
 - (arXiv 2025.02) MicroViT: A Vision Transformer with Low Complexity Self Attention for Edge Device, [[Paper]](https://arxiv.org/pdf/2502.05800.pdf),[[Code]](https://github.com/HosseinAghagol/ContrastiveFF)
 - (arXiv 2025.02) Simpler Fast Vision Transformers with a Jumbo CLS Token, [[Paper]](https://arxiv.org/pdf/2502.15021.pdf)
+- (arXiv 2025.03) ViKANformer: Embedding Kolmogorov Arnold Networks in Vision Transformers for Pattern-Based Learning, [[Paper]](https://arxiv.org/pdf/2503.01124.pdf)
