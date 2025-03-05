@@ -613,3 +613,4 @@
 - (arXiv 2025.03) ViKANformer: Embedding Kolmogorov Arnold Networks in Vision Transformers for Pattern-Based Learning, [[Paper]](https://arxiv.org/pdf/2503.01124.pdf)
 - (arXiv 2025.03) SAC-ViT: Semantic-Aware Clustering Vision Transformer with Early Exit, [[Paper]](https://arxiv.org/pdf/2503.00060.pdf)
 - (arXiv 2025.03) Split Adaptation for Pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2503.00441.pdf)
+- (arXiv 2025.03) BHViT: Binarized Hybrid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2503.02394.pdf)
