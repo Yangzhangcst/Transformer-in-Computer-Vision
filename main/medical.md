@@ -716,3 +716,4 @@
 - (arXiv 2025.02) FedDA-TSformer: Federated Domain Adaptation with Vision TimeSformer for Left Ventricle Segmentation on Gated Myocardial Perfusion SPECT Image, [[Paper]](https://arxiv.org/pdf/2502.16709)
 - (arXiv 2025.02) 3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer, [[Paper]](https://arxiv.org/pdf/2502.19623)
 - (arXiv 2025.03) An Integrated Deep Learning Framework Leveraging NASNet and Vision Transformer with MixProcessing for Accurate and Precise Diagnosis of Lung Diseases, [[Paper]](https://arxiv.org/pdf/2502.20570)
+- (arXiv 2025.03) MoSFormer: Augmenting Temporal Context with Memory of Surgery for Surgical Phase Recognition, [[Paper]](https://arxiv.org/pdf/2503.00695)
