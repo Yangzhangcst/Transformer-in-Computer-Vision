@@ -261,3 +261,4 @@
 - (arXiv 2025.02) RT-DEMT: A hybrid real-time acupoint detection model combining mamba and transformer, [[Paper]](https://arxiv.org/pdf/2502.11179)
 - (arXiv 2025.02) CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query, [[Paper]](https://arxiv.org/pdf/2502.19313)
 - (arXiv 2025.03) MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism, [[Paper]](https://arxiv.org/pdf/2503.01463)
+- (arXiv 2025.03) FASTer: Focal Token Acquiring-and-Scaling Transformer for Long-term 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.01899), [[Code]](https://github.com/MSunDYY/FASTer)
