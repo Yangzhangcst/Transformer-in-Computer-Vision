@@ -1,4 +1,6 @@
 ## Survey: 
+- (arXiv 2025.03) Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies. [[Paper]](https://arxiv.org/pdf/2503.02891.pdf)
+
 - (arXiv 2024.09) A Survey of the Self Supervised Learning Mechanisms for Vision Transformers. [[Paper]](https://arxiv.org/pdf/2408.17059.pdf)
 
 - (arXiv 2024.08) A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships. [[Paper]](https://arxiv.org/pdf/2408.15178.pdf)
