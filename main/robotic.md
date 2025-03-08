@@ -18,3 +18,4 @@
 - (arXiv 2024.11) HiMemFormer: Hierarchical Memory-Aware Transformer for Multi-Agent Action Anticipation, [[Paper]](https://arxiv.org/pdf/2411.01455.pdf)
 - (arXiv 2025.02) UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent, [[Paper]](https://arxiv.org/pdf/2501.18867.pdf)
 - (arXiv 2025.02) VertiFormer: A Data-Efficient Multi-Task Transformer for Off-Road Robot Mobility, [[Paper]](https://arxiv.org/pdf/2502.00543.pdf), [[Code]](https://github.com/mhnazeri/VertiFormer)
+- (arXiv 2025.03) ViT-VS: On the Applicability of Pretrained Vision Transformer Features for Generalizable Visual Servoing, [[Paper]](https://arxiv.org/pdf/2503.04545.pdf), [[Code]](https://github.com/AlessandroScherl/ViT-VS)
