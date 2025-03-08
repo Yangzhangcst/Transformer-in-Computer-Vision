@@ -614,3 +614,4 @@
 - (arXiv 2025.03) SAC-ViT: Semantic-Aware Clustering Vision Transformer with Early Exit, [[Paper]](https://arxiv.org/pdf/2503.00060.pdf)
 - (arXiv 2025.03) Split Adaptation for Pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2503.00441.pdf)
 - (arXiv 2025.03) BHViT: Binarized Hybrid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2503.02394.pdf)
+- (arXiv 2025.03) Simple Self Organizing Map with Visual Transformer, [[Paper]](https://arxiv.org/pdf/2503.04121.pdf)
