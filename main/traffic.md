@@ -69,3 +69,4 @@
 - (arXiv 2025.01) ASTRA: A Scene-aware TRAnsformer-based model for trajectory prediction, [[Paper]](https://arxiv.org/pdf/2501.09878)
 - (arXiv 2025.02) Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2502.07417)
 - (arXiv 2025.02) InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer, [[Paper]](https://arxiv.org/pdf/2502.17949)
+- (arXiv 2025.03) Manboformer: Learning Gaussian Representations via Spatial-temporal Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2503.04863)
