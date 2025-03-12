@@ -70,3 +70,4 @@
 - (arXiv 2025.02) Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2502.07417)
 - (arXiv 2025.02) InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer, [[Paper]](https://arxiv.org/pdf/2502.17949)
 - (arXiv 2025.03) Manboformer: Learning Gaussian Representations via Spatial-temporal Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2503.04863)
+- (arXiv 2025.03) TransParking: A Dual-Decoder Transformer Framework with Soft Localization for End-to-End Automatic Parking, [[Paper]](https://arxiv.org/pdf/2503.06071)
