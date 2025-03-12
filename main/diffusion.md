@@ -128,3 +128,4 @@
 - (arXiv 2025.03) Exposure Bias Reduction for Enhancing Diffusion Transformer Feature Caching, [[Paper]](https://arxiv.org/pdf/2503.07120),[[Code]](https://github.com/aSleepyTree/EB-Cache)
 - (arXiv 2025.03) EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2503.07027)
 - (arXiv 2025.03) TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation, [[Paper]](https://arxiv.org/pdf/2503.07050)
+- (arXiv 2025.03) Post-Training Quantization for Diffusion Transformer via Hierarchical Timestep Grouping, [[Paper]](https://arxiv.org/pdf/2503.06930)
