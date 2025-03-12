@@ -129,3 +129,4 @@
 - (arXiv 2025.03) EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2503.07027)
 - (arXiv 2025.03) TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation, [[Paper]](https://arxiv.org/pdf/2503.07050)
 - (arXiv 2025.03) Post-Training Quantization for Diffusion Transformer via Hierarchical Timestep Grouping, [[Paper]](https://arxiv.org/pdf/2503.06930)
+- (arXiv 2025.03) X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation, [[Paper]](https://arxiv.org/pdf/2503.06134),[[Code]](https://github.com/OPPO-Mente-Lab/X2I)
