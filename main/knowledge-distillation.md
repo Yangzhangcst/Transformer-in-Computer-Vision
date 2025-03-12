@@ -30,3 +30,4 @@
 - (arXiv 2024.08) Adaptive Knowledge Distillation for Classification of Hand Images using Explainable Vision Transformers, [[Paper]](https://arxiv.org/pdf/2408.10503.pdf)
 - (arXiv 2024.11) ScaleKD: Strong Vision Transformers Could Be Excellent Teachers, [[Paper]](https://arxiv.org/pdf/2411.06786.pdf), [[Code]](https://github.com/deep-optimization/ScaleKD)
 - (arXiv 2025.02) Optimizing Knowledge Distillation in Transformers: Enabling Multi-Head Attention without Alignment Barriers, [[Paper]](https://arxiv.org/pdf/2502.07436.pdf)
+- (arXiv 2025.03) Distilling Knowledge into Quantum Vision Transformers for Biomedical Image Classification, [[Paper]](https://arxiv.org/pdf/2503.07294.pdf), [[Code]](https://github.com/surgical-vision/QViT-KD)
