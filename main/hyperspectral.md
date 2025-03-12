@@ -37,3 +37,4 @@
 - (arXiv 2024.12) DiffFormer: a Differential Spatial-Spectral Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2412.17350.pdf),[[Code]](https://github.com/mahmad000/DiffFormer)
 - (arXiv 2025.01) HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion, [[Paper]](https://arxiv.org/pdf/2501.04665.pdf)
 - (arXiv 2025.03) DTU-Net: A Multi-Scale Dilated Transformer Network for Nonlinear Hyperspectral Unmixing, [[Paper]](https://arxiv.org/pdf/2503.03465.pdf)
+- (arXiv 2025.03) NukesFormers: Unpaired Hyperspectral Image Generation with Non-Uniform Domain Alignment, [[Paper]](https://arxiv.org/pdf/2503.07004.pdf)
