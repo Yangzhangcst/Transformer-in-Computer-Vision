@@ -145,3 +145,4 @@
 - (arXiv 2025.01) Overcoming Semantic Dilution in Transformer-Based Next Frame Prediction,  [[Paper]](https://arxiv.org/pdf/2501.16753.pdf)
 - (arXiv 2025.02) SelaFD:Seamless Adaptation of Vision Transformer Fine-tuning for Radar-based Human Activity,  [[Paper]](https://arxiv.org/pdf/2502.04740.pdf),[[Code]](https://github.com/wangyijunlyy/SelaFD)
 - (arXiv 2025.02) BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports,  [[Paper]](https://arxiv.org/pdf/2502.21085.pdf)
+- (arXiv 2025.03) End-to-End Action Segmentation Transformer,  [[Paper]](https://arxiv.org/pdf/2503.06316.pdf)
