@@ -6,4 +6,4 @@
 - (arXiv 2024.03) 3DTextureTransformer: Geometry Aware Texture Generation for Arbitrary Mesh Topology, [[Paper]](https://arxiv.org/pdf/2403.04225.pdf)
 - (arXiv 2024.03) TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation, [[Paper]](https://arxiv.org/pdf/2403.12906.pdf),[[Code]](https://ggxxii.github.io/texdreamer/)
 - (arXiv 2024.06) A Comparative Survey of Vision Transformers for Feature Extraction in Texture Analysis, [[Paper]](https://arxiv.org/pdf/2406.06136)
-- (arXiv 2025.03) VORTEX: Challenging CNNs at Texture Recognition by using Vision Transformers with Orderless and Randomized Token Encodings, [[Paper]](https://arxiv.org/pdf/2503.06368)
+- (arXiv 2025.03) VORTEX: Challenging CNNs at Texture Recognition by using Vision Transformers with Orderless and Randomized Token Encodings, [[Paper]](https://arxiv.org/pdf/2503.06368),[[Code]](https://github.com/scabini/VORTEX)
