@@ -234,3 +234,4 @@
 - (arXiv 2025.02) UniMoD: Efficient Unified Multimodal Transformers with Mixture-of-Depths, [[Paper]](https://arxiv.org/pdf/2502.06474), [[Code]](https://github.com/showlab/UniMoD)
 - (arXiv 2025.03) Solar Multimodal Transformer: Intraday Solar Irradiance Predictor using Public Cameras and Time Series, [[Paper]](https://arxiv.org/pdf/2503.00250)
 - (arXiv 2025.03) CFSum: A Transformer-Based Multi-Modal Video Summarization Framework With Coarse-Fine Fusion, [[Paper]](https://arxiv.org/pdf/2503.00364)
+- (arXiv 2025.03) SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2503.06764)
