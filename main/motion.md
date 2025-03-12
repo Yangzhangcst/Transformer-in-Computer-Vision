@@ -47,3 +47,4 @@
 - (arXiv 2024.12) Mogo: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation, [[Paper]](https://arxiv.org/pdf/2412.07797)
 - (arXiv 2025.01) DiffGrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model, [[Paper]](https://arxiv.org/pdf/2412.20657), [[Code]](https://github.com/iscas3dv/DiffGrasp)
 - (arXiv 2025.01) Learning Priors of Human Motion With Vision Transformers, [[Paper]](https://arxiv.org/pdf/2501.18543)
+- (arXiv 2025.03) Motion Anything: Any to Motion Generation, [[Paper]](https://arxiv.org/pdf/2503.06955)
