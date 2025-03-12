@@ -125,3 +125,4 @@
 - (arXiv 2025.02) FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute, [[Paper]](https://arxiv.org/pdf/2502.20126)
 - (arXiv 2025.03) LEDiT: Your Length-Extrapolatable Diffusion Transformer without Positional Encoding, [[Paper]](https://arxiv.org/pdf/2503.04344),[[Code]](https://github.com/ShenZhang-Shin/LEDiT)
 - (arXiv 2025.03) Accelerating Diffusion Transformer via Gradient-Optimized Cache, [[Paper]](https://arxiv.org/pdf/2503.05156) 
+- (arXiv 2025.03) Exposure Bias Reduction for Enhancing Diffusion Transformer Feature Caching, [[Paper]](https://arxiv.org/pdf/2503.07120),[[Code]](https://github.com/aSleepyTree/EB-Cache)
