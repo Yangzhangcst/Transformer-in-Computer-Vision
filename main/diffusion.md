@@ -130,3 +130,5 @@
 - (arXiv 2025.03) TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation, [[Paper]](https://arxiv.org/pdf/2503.07050)
 - (arXiv 2025.03) Post-Training Quantization for Diffusion Transformer via Hierarchical Timestep Grouping, [[Paper]](https://arxiv.org/pdf/2503.06930)
 - (arXiv 2025.03) X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation, [[Paper]](https://arxiv.org/pdf/2503.06134),[[Code]](https://github.com/OPPO-Mente-Lab/X2I)
+- (arXiv 2025.03) U-StyDiT: Ultra-high Quality Artistic Style Transfer Using Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.08157)
+- (arXiv 2025.03) OminiControl2: Efficient Conditioning for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.08280),[[Code]](https://github.com/Yuanshi9815/OminiControl)
