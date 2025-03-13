@@ -71,3 +71,4 @@
 - (arXiv 2025.02) InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer, [[Paper]](https://arxiv.org/pdf/2502.17949)
 - (arXiv 2025.03) Manboformer: Learning Gaussian Representations via Spatial-temporal Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2503.04863)
 - (arXiv 2025.03) TransParking: A Dual-Decoder Transformer Framework with Soft Localization for End-to-End Automatic Parking, [[Paper]](https://arxiv.org/pdf/2503.06071)
+- (arXiv 2025.03) DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2503.07656), [[Code]](https://github.com/Thinklab-SJTU/DriveTransformer/)
