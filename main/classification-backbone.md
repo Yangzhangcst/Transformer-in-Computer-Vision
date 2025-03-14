@@ -618,3 +618,4 @@
 - (arXiv 2025.03) Discovering Influential Neuron Path in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2503.09046.pdf)
 - (arXiv 2025.03) ForAug: Recombining Foregrounds and Backgrounds to Improve Vision Transformer Training with Bias Mitigation, [[Paper]](https://arxiv.org/pdf/2503.09399.pdf)
 - (arXiv 2025.03) Isolated Channel Vision Transformers: From Single-Channel Pretraining to Multi-Channel Finetuning, [[Paper]](https://arxiv.org/pdf/2503.09826.pdf),[[Code]](https://github.com/shermanlian/IC-ViT)
+- (arXiv 2025.03) Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers, [[Paper]](https://arxiv.org/pdf/2503.10632.pdf),[[Code]](https://github.com/MaitySubhajit/KArAt)
