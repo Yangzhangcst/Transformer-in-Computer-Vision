@@ -720,3 +720,4 @@
 - (arXiv 2025.03) An Efficient Approach to Detecting Lung Nodules Using Swin Transformer, [[Paper]](https://arxiv.org/pdf/2503.01592)
 - (arXiv 2025.03) Interactive Gadolinium-Free MRI Synthesis: A Transformer with Localization Prompt Learning, [[Paper]](https://arxiv.org/pdf/2503.01265),[[Code]](https://github.com/ChanghuiSu/TLP)
 - (arXiv 2025.03) Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion, [[Paper]](https://arxiv.org/pdf/2503.08609)
+- (arXiv 2025.03) Evaluating Visual Explanations of Attention Maps for Transformer-based Medical Imaging, [[Paper]](https://arxiv.org/pdf/2503.09535)
