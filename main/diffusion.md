@@ -136,3 +136,4 @@
 - (arXiv 2025.03) UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2503.09277),[[Code]](https://github.com/Xuan-World/UniCombine)
 - (arXiv 2025.03) AudioX: Diffusion Transformer for Anything-to-Audio Generation, [[Paper]](https://arxiv.org/pdf/2503.10522),[[Code]](https://github.com/ZeyueT/AudioX)
 - (arXiv 2025.03) Cosh-DiT: Co-Speech Gesture Video Synthesis via Hybrid Audio-Visual Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.09942)
+- (arXiv 2025.03) NAMI: Efficient Image Generation via Progressive Rectified Flow Transformers, [[Paper]](https://arxiv.org/pdf/2503.09242)
