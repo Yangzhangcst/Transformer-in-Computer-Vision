@@ -20,3 +20,4 @@
 - (arXiv 2024.03) BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis, [[Paper]](https://arxiv.org/pdf/2403.11273.pdf),[[Code]](https://vlislab22.github.io/BrightDreamer/)
 - (arXiv 2024.08) CogVideoX: Text-to-Video Diffusion Models with An Expert Transformers, [[Paper]](https://arxiv.org/pdf/2408.06072.pdf),[[Code]](https://github.com/THUDM/CogVideo)
 - (arXiv 2024.12) Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis, [[Paper]](https://arxiv.org/pdf/2412.01819.pdf),[[Code]](https://github.com/yandex-research/switti)
+- (arXiv 2024.12) DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation, [[Paper]](https://arxiv.org/pdf/2503.10618.pdf)
