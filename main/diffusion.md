@@ -133,3 +133,4 @@
 - (arXiv 2025.03) U-StyDiT: Ultra-high Quality Artistic Style Transfer Using Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.08157)
 - (arXiv 2025.03) OminiControl2: Efficient Conditioning for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.08280),[[Code]](https://github.com/Yuanshi9815/OminiControl)
 - (arXiv 2025.03) Diffusion Transformer Meets Random Masks: An Advanced PET Reconstruction Framework, [[Paper]](https://arxiv.org/pdf/2503.08339),[[Code]](https://github.com/yqx7150/DREAM)
+- (arXiv 2025.03) UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2503.09277),[[Code]](https://github.com/Xuan-World/UniCombine)
