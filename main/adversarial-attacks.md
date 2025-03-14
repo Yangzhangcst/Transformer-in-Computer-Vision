@@ -39,3 +39,4 @@
 - (arXiv 2025.01) Protego: Detecting Adversarial Examples for Vision Transformers via Intrinsic Capabilities, [[Paper]](https://arxiv.org/pdf/2501.07044)
 - (arXiv 2025.01) Generalized Single-Image-Based Morphing Attack Detection Using Deep Representations from Vision Transformer, [[Paper]](https://arxiv.org/pdf/2501.09817)
 - (arXiv 2025.02) Mechanistic Understandings of Representation Vulnerabilities and Engineering Robust Vision Transformers, [[Paper]](https://arxiv.org/pdf/2502.04679)
+- (arXiv 2025.03) Robustness Tokens: Towards Adversarial Robustness of Transformers, [[Paper]](https://arxiv.org/pdf/2503.10191)
