@@ -615,3 +615,6 @@
 - (arXiv 2025.03) Split Adaptation for Pre-trained Vision Transformers, [[Paper]](https://arxiv.org/pdf/2503.00441.pdf)
 - (arXiv 2025.03) BHViT: Binarized Hybrid Vision Transformer, [[Paper]](https://arxiv.org/pdf/2503.02394.pdf)
 - (arXiv 2025.03) Simple Self Organizing Map with Visual Transformer, [[Paper]](https://arxiv.org/pdf/2503.04121.pdf)
+- (arXiv 2025.03) Discovering Influential Neuron Path in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2503.09046.pdf)
+- (arXiv 2025.03) ForAug: Recombining Foregrounds and Backgrounds to Improve Vision Transformer Training with Bias Mitigation, [[Paper]](https://arxiv.org/pdf/2503.09399.pdf)
+- (arXiv 2025.03) Isolated Channel Vision Transformers: From Single-Channel Pretraining to Multi-Channel Finetuning, [[Paper]](https://arxiv.org/pdf/2503.09826.pdf),[[Code]](https://github.com/shermanlian/IC-ViT)
