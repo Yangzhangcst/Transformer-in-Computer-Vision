@@ -108,3 +108,5 @@
 - (arXiv 2025.01) Track-On: Transformer-based Online Point Tracking with Memory, [[Paper]](https://arxiv.org/pdf/2501.18487.pdf), [[Code]](https://kuis-ai.github.io/track_on)
 - (arXiv 2025.02) Enhanced Transformer-Based Tracking for Skiing Events: Overcoming Multi-Camera Challenges, Scale Variations and Rapid Motion -- SkiTB Visual Tracking Challenge 2025, [[Paper]](https://arxiv.org/pdf/2502.18867.pdf)
 - (arXiv 2025.02) Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking, [[Paper]](https://arxiv.org/pdf/2502.18748.pdf)
+- (arXiv 2025.03) Target-aware Bidirectional Fusion Transformer for Aerial Object Tracking, [[Paper]](https://arxiv.org/pdf/2503.09951.pdf)
+- (arXiv 2025.03) OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2503.10616.pdf), [[Code]](https://github.com/jinyanglii/OVTR)
