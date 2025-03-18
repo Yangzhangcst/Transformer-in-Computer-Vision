@@ -12,3 +12,4 @@
 - (arXiv 2024.03) CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs, [[Paper]](https://arxiv.org/pdf/2403.16885.pdf), [[Code]](https://zhongyingji.github.io/CVT-xRF/)
 - (arXiv 2024.05) PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2405.02811.pdf)
 - (arXiv 2025.03) SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.08092.pdf)
+- (arXiv 2025.03) HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer, [[Paper]](https://arxiv.org/pdf/2503.10777.pdf), [[Code]](https://github.com/zhangzhang2024/HeightFormer)
