@@ -52,3 +52,5 @@
 - (arXiv 2025.01) 3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer, [[Paper]](https://arxiv.org/pdf/2501.01163.pdf)
 - (arXiv 2025.02) NanoVLMs: How small can we go and still make coherent Vision Language Models?, [[Paper]](https://arxiv.org/pdf/2502.07838.pdf)
 - (arXiv 2025.03) Recurrence-Enhanced Vision-and-Language Transformers for Robust Multimodal Document Retrieval, [[Paper]](https://arxiv.org/pdf/2503.01980.pdf),[[Code]](https://github.com/aimagelab/ReT)
+- (arXiv 2025.03) HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models, [[Paper]](https://arxiv.org/pdf/2503.11513.pdf)
+- (arXiv 2025.03) Similarity-Aware Token Pruning: Your VLM but Faster, [[Paper]](https://arxiv.org/pdf/2503.11549.pdf)
