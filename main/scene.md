@@ -46,3 +46,4 @@
 - (arXiv 2024.12) GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding, [[Paper]](https://arxiv.org/pdf/2412.13193.pdf)
 - (arXiv 2025.01) UniQ: Unified Decoder with Task-specific Queries for Efficient Scene Graph Generation, [[Paper]](https://arxiv.org/pdf/2501.05687.pdf)
 - (arXiv 2025.02) Hierarchical Context Transformer for Multi-level Semantic Scene Understanding, [[Paper]](https://arxiv.org/pdf/2501.05687.pdf),[[Code]](https://github.com/Aurora-hao/HCT)
+- (arXiv 2025.03) VGGT: Visual Geometry Grounded Transformer, [[Paper]](https://arxiv.org/pdf/2503.11651.pdf),[[Code]](https://github.com/facebookresearch/vggt)
