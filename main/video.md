@@ -196,3 +196,4 @@
 - (arXiv 2025.03) CFSum: A Transformer-Based Multi-Modal Video Summarization Framework With Coarse-Fine Fusion,  [[Paper]](https://arxiv.org/pdf/2503.00364)
 - (arXiv 2025.03) HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding,  [[Paper]](https://arxiv.org/pdf/2503.08585)
 - (arXiv 2025.03) TransiT: Transient Transformer for Non-line-of-sight Videography,  [[Paper]](https://arxiv.org/pdf/2503.11328)
+- (arXiv 2025.03) Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers,  [[Paper]](https://arxiv.org/pdf/2503.11579), [[Code]](https://github.com/TIGER-AI-Lab/Vamba)
