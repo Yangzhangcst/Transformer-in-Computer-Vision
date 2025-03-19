@@ -64,3 +64,4 @@
 - (arXiv 2025.01) EHCTNet: Enhanced Hybrid of CNN and Transformer Network for Remote Sensing Image Change Detection, [[Paper]](https://arxiv.org/pdf/2501.01238)
 - (arXiv 2025.01) A Novel Shape Guided Transformer Network for Instance Segmentation in Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2501.00360)
 - (arXiv 2025.03) ChromaFormer: A Scalable and Accurate Transformer Architecture for Land Cover Classification, [[Paper]](https://arxiv.org/pdf/2503.08534)
+- (arXiv 2025.03) Falcon: A Remote Sensing Vision-Language Foundation Model, [[Paper]](https://arxiv.org/pdf/2503.11070), [[Code]](https://github.com/TianHuiLab/Falcon)
