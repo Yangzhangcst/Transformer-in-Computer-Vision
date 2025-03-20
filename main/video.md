@@ -197,3 +197,4 @@
 - (arXiv 2025.03) HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding,  [[Paper]](https://arxiv.org/pdf/2503.08585)
 - (arXiv 2025.03) TransiT: Transient Transformer for Non-line-of-sight Videography,  [[Paper]](https://arxiv.org/pdf/2503.11328)
 - (arXiv 2025.03) Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers,  [[Paper]](https://arxiv.org/pdf/2503.11579), [[Code]](https://github.com/TIGER-AI-Lab/Vamba)
+- (arXiv 2025.03) TGBFormer: Transformer-GraphFormer Blender Network for Video Object Detection,  [[Paper]](https://arxiv.org/pdf/2503.13903)
