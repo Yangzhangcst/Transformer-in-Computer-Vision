@@ -723,3 +723,4 @@
 - (arXiv 2025.03) Evaluating Visual Explanations of Attention Maps for Transformer-based Medical Imaging, [[Paper]](https://arxiv.org/pdf/2503.09535)
 - (arXiv 2025.03) Alzheimer's Disease Classification Using Retinal OCT: TransnetOCT and Swin Transformer Models, [[Paper]](https://arxiv.org/pdf/2503.11511)
 - (arXiv 2025.03) RoMedFormer: A Rotary-Embedding Transformer Foundation Model for 3D Genito-Pelvic Structure Segmentation in MRI and CT, [[Paper]](https://arxiv.org/pdf/2503.14304)
+- (arXiv 2025.03) Adaptive Transformer Attention and Multi-Scale Fusion for Spine 3D Segmentation, [[Paper]](https://arxiv.org/abs/2503.12853)
