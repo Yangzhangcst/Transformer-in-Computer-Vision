@@ -35,4 +35,5 @@
 - (arXiv 2024.07) Global-Local Similarity for Efficient Fine-Grained Image Recognition with Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.12891.pdf), [[Code]](https://github.com/arkel23/GLSim)
 - (arXiv 2024.10) big.LITTLE Vision Transformer for Efficient Visual Recognition, [[Paper]](https://arxiv.org/pdf/2410.10267.pdf)
 - (arXiv 2024.12) EDTformer: An Efficient Decoder Transformer for Visual Place Recognition, [[Paper]](https://arxiv.org/pdf/2412.00784.pdf), [[Code]](https://github.com/Tong-Jin01/EDTformer)
-- (arXiv 2025.02)  A Transformer-in-Transformer Network Utilizing Knowledge Distillation for Image Recognition, [[Paper]](https://arxiv.org/pdf/2502.16762.pdf)
+- (arXiv 2025.02) A Transformer-in-Transformer Network Utilizing Knowledge Distillation for Image Recognition, [[Paper]](https://arxiv.org/pdf/2502.16762.pdf)
+- (arXiv 2025.03) Fraesormer: Learning Adaptive Sparse Transformer for Efficient Food Recognition, [[Paper]](https://arxiv.org/pdf/2503.11995.pdf), [[Code]](https://github.com/zs1314/Fraesormer)
