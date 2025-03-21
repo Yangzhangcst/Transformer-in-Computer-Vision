@@ -139,3 +139,4 @@
 - (arXiv 2025.03) NAMI: Efficient Image Generation via Progressive Rectified Flow Transformers, [[Paper]](https://arxiv.org/pdf/2503.09242)
 - (arXiv 2025.03) DiffMoE: Dynamic Token Selection for Scalable Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.14487),[[Code]](https://github.com/KwaiVGI/DiffMoE)
 - (arXiv 2025.03) Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection, [[Paper]](https://arxiv.org/pdf/2503.12271),[[Code]](https://github.com/jacklishufan/Reflect-DiT)
+- (arXiv 2025.03) Personalize Anything for Free with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2503.12590),[[Code]](https://github.com/fenghora/personalize-anything)
