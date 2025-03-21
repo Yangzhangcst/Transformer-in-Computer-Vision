@@ -620,3 +620,4 @@
 - (arXiv 2025.03) Isolated Channel Vision Transformers: From Single-Channel Pretraining to Multi-Channel Finetuning, [[Paper]](https://arxiv.org/pdf/2503.09826.pdf),[[Code]](https://github.com/shermanlian/IC-ViT)
 - (arXiv 2025.03) Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers, [[Paper]](https://arxiv.org/pdf/2503.10632.pdf),[[Code]](https://github.com/MaitySubhajit/KArAt)
 - (arXiv 2025.03) APLA: A Simple Adaptation Method for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2503.11335.pdf),[[Code]](https://github.com/MoeinSorkhei/APLA)
+- (arXiv 2025.03) Scaling Semantic Categories: Investigating the Impact on Vision Transformer Labeling Performance, [[Paper]](https://arxiv.org/pdf/2503.12617.pdf)
