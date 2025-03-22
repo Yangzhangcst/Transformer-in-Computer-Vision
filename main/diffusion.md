@@ -140,3 +140,6 @@
 - (arXiv 2025.03) DiffMoE: Dynamic Token Selection for Scalable Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.14487),[[Code]](https://github.com/KwaiVGI/DiffMoE)
 - (arXiv 2025.03) Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection, [[Paper]](https://arxiv.org/pdf/2503.12271),[[Code]](https://github.com/jacklishufan/Reflect-DiT)
 - (arXiv 2025.03) Personalize Anything for Free with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2503.12590),[[Code]](https://github.com/fenghora/personalize-anything)
+- (arXiv 2025.03) FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing, [[Paper]](https://arxiv.org/pdf/2503.16153),[[Code]](https://github.com/wtybest/FreeFlux)
+- (arXiv 2025.03) Expert Race: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2503.16057)
+- (arXiv 2025.03) BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.15927)
