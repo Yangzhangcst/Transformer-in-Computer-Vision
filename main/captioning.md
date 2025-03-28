@@ -46,3 +46,4 @@
 - (arXiv 2024.12) UnMA-CapSumT: Unified and Multi-Head Attention-driven Caption Summarization Transformer, [[Paper]](https://arxiv.org/pdf/2412.11836.pdf), [[Code]](https://github.com/dhruvsharma09/UnMA-CapSumT)
 - (arXiv 2024.12) Automated Image Captioning with CNNs and Transformers, [[Paper]](https://arxiv.org/pdf/2412.10511.pdf), [[Code]](https://github.com/JeremyNathanJusuf/image-captioning)
 - (arXiv 2025.02) Capturing Rich Behavior Representations: A Dynamic Action Semantic-Aware Graph Transformer for Video Captioning, [[Paper]](https://arxiv.org/pdf/2502.13754.pdf)
+- (arXiv 2025.03) SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2503.16825.pdf), [[Code]](https://github.com/gxytcrc/SGFormer)
