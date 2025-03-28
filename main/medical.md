@@ -725,3 +725,4 @@
 - (arXiv 2025.03) RoMedFormer: A Rotary-Embedding Transformer Foundation Model for 3D Genito-Pelvic Structure Segmentation in MRI and CT, [[Paper]](https://arxiv.org/pdf/2503.14304)
 - (arXiv 2025.03) Adaptive Transformer Attention and Multi-Scale Fusion for Spine 3D Segmentation, [[Paper]](https://arxiv.org/abs/2503.12853)
 - (arXiv 2025.03) Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework, [[Paper]](https://arxiv.org/abs/2503.13309)
+- (arXiv 2025.03) MobilePlantViT: A Mobile-friendly Hybrid ViT for Generalized Plant Disease Image Classification, [[Paper]](https://arxiv.org/abs/2503.16628),[[Code]](https://github.com/moshiurtonmoy/MobilePlantViT)
