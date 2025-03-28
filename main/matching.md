@@ -24,3 +24,4 @@
 - (arXiv 2024.10) LoFLAT: Local Feature Matching using Focused Linear Attention Transformer, [[Paper]](https://arxiv.org/pdf/2410.22710.pdf)
 - (arXiv 2025.01) Hadamard Attention Recurrent Transformer: A Strong Baseline for Stereo Matching Transformer, [[Paper]](https://arxiv.org/pdf/2501.01023.pdf),[[Code]](https://github.com/ZYangChen/HART)
 - (arXiv 2025.02) Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion, [[Paper]](https://arxiv.org/pdf/2502.00264.pdf),[[Code]](https://github.com/zhengzaiyi/RotationSymmetry)
+- (arXiv 2025.03) Normalized Matching Transformer, [[Paper]](https://arxiv.org/pdf/2503.17715.pdf),[[Code]](https://github.com/Apollos1301/NormMatchTrans)
