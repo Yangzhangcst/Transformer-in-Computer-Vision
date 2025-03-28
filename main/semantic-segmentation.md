@@ -165,3 +165,4 @@
 - (arXiv 2025.02) VPNeXt -- Rethinking Dense Decoding for Plain Vision Transformer, [[Paper]](https://arxiv.org/pdf/2502.16654.pdf)
 - (arXiv 2025.03) Exploring Token-Level Augmentation in Vision Transformer for Semi-Supervised Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2503.02459.pdf)
 - (arXiv 2025.03) Label-Efficient LiDAR Semantic Segmentation with 2D-3D Vision Transformer Adapters, [[Paper]](https://arxiv.org/pdf/2503.03299.pdf)
+- (arXiv 2025.03) Exploring the Integration of Key-Value Attention Into Pure and Hybrid Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2503.18862.pdf)
