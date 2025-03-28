@@ -146,3 +146,4 @@
 - (arXiv 2025.03) U-REPA: Aligning Diffusion U-Nets to ViTs, [[Paper]](https://arxiv.org/pdf/2503.18414),[[Code]](https://github.com/YuchuanTian/U-REPA)
 - (arXiv 2025.03) Boosting Resolution Generalization of Diffusion Transformers with Randomized Positional Encodings, [[Paper]](https://arxiv.org/pdf/2503.18719)
 - (arXiv 2025.03) Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer, [[Paper]](https://arxiv.org/pdf/2503.17350),[[Code]](https://github.com/Shi-qingyu/DeT)
+- (arXiv 2025.03) EDiT: Efficient Diffusion Transformers with Linear Compressed Attention, [[Paper]](https://arxiv.org/pdf/2503.16726)
