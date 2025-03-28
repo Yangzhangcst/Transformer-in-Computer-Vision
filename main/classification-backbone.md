@@ -624,3 +624,4 @@
 - (arXiv 2025.03) Improving Adversarial Transferability on Vision Transformers via Forward Propagation Refinement, [[Paper]](https://arxiv.org/pdf/2503.15404.pdf),[[Code]](https://github.com/RYC-98/FPR)
 - (arXiv 2025.03) Dynamic Accumulated Attention Map for Interpreting Evolution of Decision-Making in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2503.14640.pdf),[[Code]](https://github.com/ly9802/DynamicAccumulatedAttentionMap)
 - (arXiv 2025.03) Exploring the Limits of KV Cache Compression in Visual Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2503.14881.pdf)
+- (arXiv 2025.03) Serial Low-rank Adaptation of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2503.17750.pdf)
