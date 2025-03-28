@@ -143,3 +143,5 @@
 - (arXiv 2025.03) FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing, [[Paper]](https://arxiv.org/pdf/2503.16153),[[Code]](https://github.com/wtybest/FreeFlux)
 - (arXiv 2025.03) Expert Race: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2503.16057)
 - (arXiv 2025.03) BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.15927)
+- (arXiv 2025.03) U-REPA: Aligning Diffusion U-Nets to ViTs, [[Paper]](https://arxiv.org/pdf/2503.18414),[[Code]](https://github.com/YuchuanTian/U-REPA)
+- (arXiv 2025.03) Boosting Resolution Generalization of Diffusion Transformers with Randomized Positional Encodings, [[Paper]](https://arxiv.org/pdf/2503.18719)
