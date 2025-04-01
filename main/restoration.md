@@ -35,3 +35,4 @@
 - (arXiv 2024.12) Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression,  [[Paper]](https://arxiv.org/pdf/2412.08912.pdf)
 - (arXiv 2025.01) MatIR: A Hybrid Mamba-Transformer Image Restoration Model,  [[Paper]](https://arxiv.org/pdf/2412.08912.pdf)
 - (arXiv 2025.03) Intra and Inter Parser-Prompted Transformers for Effective Image Restoration,  [[Paper]](https://arxiv.org/pdf/2503.14037.pdf), [[Code]](https://github.com/supersupercong/pptformer)
+- (arXiv 2025.03) Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration,  [[Paper]](https://arxiv.org/pdf/2503.20174.pdf), [[Code]](https://github.com/joshyZhou/HINT)
