@@ -37,3 +37,4 @@
 - (arXiv 2024.12) EDTformer: An Efficient Decoder Transformer for Visual Place Recognition, [[Paper]](https://arxiv.org/pdf/2412.00784.pdf), [[Code]](https://github.com/Tong-Jin01/EDTformer)
 - (arXiv 2025.02) A Transformer-in-Transformer Network Utilizing Knowledge Distillation for Image Recognition, [[Paper]](https://arxiv.org/pdf/2502.16762.pdf)
 - (arXiv 2025.03) Fraesormer: Learning Adaptive Sparse Transformer for Efficient Food Recognition, [[Paper]](https://arxiv.org/pdf/2503.11995.pdf), [[Code]](https://github.com/zs1314/Fraesormer)
+- (arXiv 2025.03) Siformer: Feature-isolated Transformer for Efficient Skeleton-based Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2503.20436.pdf)
