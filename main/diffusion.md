@@ -152,3 +152,4 @@
 - (arXiv 2025.03) DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation, [[Paper]](https://arxiv.org/pdf/2503.19881),[[Code]](https://github.com/Tianhao-Qi/Mask2DiT)  
 - (arXiv 2025.03) FullDiT: Multi-Task Video Generative Foundation Model with Full Attention, [[Paper]](https://arxiv.org/pdf/2503.19907)  
 - (arXiv 2025.03) ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On, [[Paper]](https://arxiv.org/pdf/2503.20418),[[Code]](https://github.com/jiwoohong93/ita-mdt_code)  
+- (arXiv 2025.03) Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy, [[Paper]](https://arxiv.org/pdf/2503.19757),[[Code]](https://github.com/RoboDita/Dita)  
