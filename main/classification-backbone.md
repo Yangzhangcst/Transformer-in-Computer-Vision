@@ -625,3 +625,6 @@
 - (arXiv 2025.03) Dynamic Accumulated Attention Map for Interpreting Evolution of Decision-Making in Vision Transformer, [[Paper]](https://arxiv.org/pdf/2503.14640.pdf),[[Code]](https://github.com/ly9802/DynamicAccumulatedAttentionMap)
 - (arXiv 2025.03) Exploring the Limits of KV Cache Compression in Visual Autoregressive Transformers, [[Paper]](https://arxiv.org/pdf/2503.14881.pdf)
 - (arXiv 2025.03) Serial Low-rank Adaptation of Vision Transformer, [[Paper]](https://arxiv.org/pdf/2503.17750.pdf)
+- (arXiv 2025.03) Improved Ear Verification with Vision Transformers and Overlapping Patches, [[Paper]](https://arxiv.org/pdf/2503.23275)
+- (arXiv 2025.03) Efficient Token Compression for Vision Transformer with Spatial Information Preserved, [[Paper]](https://arxiv.org/pdf/2503.23455),[[Code]](https://github.com/NUST-Machine-Intelligence-Laboratory/prune_and_merge)
+
