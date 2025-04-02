@@ -263,3 +263,4 @@
 - (arXiv 2025.03) MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism, [[Paper]](https://arxiv.org/pdf/2503.01463)
 - (arXiv 2025.03) FASTer: Focal Token Acquiring-and-Scaling Transformer for Long-term 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.01899), [[Code]](https://github.com/MSunDYY/FASTer)
 - (arXiv 2025.03) Fractional Correspondence Framework in Detection Transformer, [[Paper]](https://arxiv.org/pdf/2503.04107)
+- (arXiv 2025.03) BOOTPLACE: Bootstrapped Object Placement with Detection Transformers, [[Paper]](https://arxiv.org/pdf/2503.21991), [[Code]](https://github.com/RyanHangZhou/BOOTPLACE)
