@@ -113,3 +113,4 @@
 - (arXiv 2025.01) Distilled Transformers with Locally Enhanced Global Representations for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2412.20156.pdf)
 - (arXiv 2025.01) VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement, [[Paper]](https://arxiv.org/pdf/2501.01691.pdf)
 - (arXiv 2025.02) GVTNet: Graph Vision Transformer For Face Super-Resolution, [[Paper]](https://arxiv.org/pdf/2502.12570.pdf)
+- (arXiv 2025.03) Enhancing Learnable Descriptive Convolutional Vision Transformer for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2503.22936.pdf)
