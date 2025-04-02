@@ -727,3 +727,4 @@
 - (arXiv 2025.03) Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework, [[Paper]](https://arxiv.org/abs/2503.13309)
 - (arXiv 2025.03) MobilePlantViT: A Mobile-friendly Hybrid ViT for Generalized Plant Disease Image Classification, [[Paper]](https://arxiv.org/abs/2503.16628),[[Code]](https://github.com/moshiurtonmoy/MobilePlantViT)
 - (arXiv 2025.03) Retinal Fundus Multi-Disease Image Classification using Hybrid CNN-Transformer-Ensemble Architectures, [[Paper]](https://arxiv.org/abs/2503.21465)
+- (arXiv 2025.03) WaveFormer: A 3D Transformer with Wavelet-Driven Feature Representation for Efficient Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2503.23764)
