@@ -85,3 +85,4 @@
 - (arXiv 2025.01) Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2501.15774.pdf),[[Code]](https://github.com/saturnian77/ASID)
 - (arXiv 2025.03) QUIET-SR: Quantum Image Enhancement Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2503.08759.pdf)
 - (arXiv 2025.03) Progressive Focused Transformer for Single Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2503.20337.pdf),[[Code]](https://github.com/LabShuHangGU/PFT-SR)
+- (arXiv 2025.03) DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2503.23580.pdf)
