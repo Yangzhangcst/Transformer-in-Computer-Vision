@@ -153,3 +153,6 @@
 - (arXiv 2025.03) FullDiT: Multi-Task Video Generative Foundation Model with Full Attention, [[Paper]](https://arxiv.org/pdf/2503.19907)  
 - (arXiv 2025.03) ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On, [[Paper]](https://arxiv.org/pdf/2503.20418),[[Code]](https://github.com/jiwoohong93/ita-mdt_code)  
 - (arXiv 2025.03) Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy, [[Paper]](https://arxiv.org/pdf/2503.19757),[[Code]](https://github.com/RoboDita/Dita)  
+- (arXiv 2025.03) JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization, [[Paper]](https://arxiv.org/pdf/2503.23377),[[Code]](https://javisdit.github.io/)  
+- (arXiv 2025.03) DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.22796)
+- (arXiv 2025.03) DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model, [[Paper]](https://arxiv.org/pdf/2503.23993)
