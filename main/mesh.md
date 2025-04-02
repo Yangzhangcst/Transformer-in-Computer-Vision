@@ -25,3 +25,4 @@
 - (arXiv 2024.11) DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery, [[Paper]](https://arxiv.org/pdf/2411.11214.pdf)
 - (arXiv 2024.12) MeshArt: Generating Articulated Meshes with Structure-guided Transformers, [[Paper]](https://arxiv.org/pdf/2412.11596.pdf), [[Code]](https://daoyig.github.io/Mesh_Art/)
 - (arXiv 2025.03) Fish2Mesh Transformer: 3D Human Mesh Recovery from Egocentric Vision, [[Paper]](https://arxiv.org/pdf/2503.06089.pdf), [[Project]](https://fish2mesh.github.io/)
+- (arXiv 2025.03) MeshCraft: Exploring Efficient and Controllable Mesh Generation with Flow-based DiTs, [[Paper]](https://arxiv.org/pdf/2503.23022.pdf)
