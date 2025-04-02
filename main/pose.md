@@ -125,3 +125,4 @@
 - (arXiv 2025.02) CleanPose: Category-Level Object Pose Estimation via Causal Learning and Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2502.01312.pdf)
 - (arXiv 2025.02) Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation, [[Paper]](https://arxiv.org/pdf/2502.18214.pdf), [[Code]](https://github.com/Raojiyong/KITPose)
 - (arXiv 2025.03) Transformers with Joint Tokens and Local-Global Attention for Efficient Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2503.00232.pdf)
+- (arXiv 2025.03) HiPART: Hierarchical Pose AutoRegressive Transformer for Occluded 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2503.23331.pdf)
