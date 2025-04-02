@@ -77,3 +77,4 @@
 - (arXiv 2025.02) Transformer-Based Vector Font Classification Using Different Font Formats: TrueType versus PostScript, [[Paper]](https://arxiv.org/pdf/2502.00250.pdf)
 - (arXiv 2025.03) Bridging the Gap: Fusing CNNs and Transformers to Decode the Elegance of Handwritten Arabic Script, [[Paper]](https://arxiv.org/pdf/2503.15023.pdf)
 - (arXiv 2025.03) Efficient and Accurate Scene Text Recognition with Cascaded-Transformers, [[Paper]](https://arxiv.org/pdf/2503.18883.pdf)
+- (arXiv 2025.03) Masked Self-Supervised Pre-Training for Text Recognition Transformers on Large-Scale Datasets, [[Paper]](https://arxiv.org/pdf/2503.22513.pdf)
