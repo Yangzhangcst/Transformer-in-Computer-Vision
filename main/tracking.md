@@ -110,3 +110,4 @@
 - (arXiv 2025.02) Spectral-Enhanced Transformers: Leveraging Large-Scale Pretrained Models for Hyperspectral Object Tracking, [[Paper]](https://arxiv.org/pdf/2502.18748.pdf)
 - (arXiv 2025.03) Target-aware Bidirectional Fusion Transformer for Aerial Object Tracking, [[Paper]](https://arxiv.org/pdf/2503.09951.pdf)
 - (arXiv 2025.03) OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer, [[Paper]](https://arxiv.org/pdf/2503.10616.pdf), [[Code]](https://github.com/jinyanglii/OVTR)
+- (arXiv 2025.03) COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking, [[Paper]](https://arxiv.org/pdf/2504.01321.pdf)
