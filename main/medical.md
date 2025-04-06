@@ -729,3 +729,4 @@
 - (arXiv 2025.03) Retinal Fundus Multi-Disease Image Classification using Hybrid CNN-Transformer-Ensemble Architectures, [[Paper]](https://arxiv.org/abs/2503.21465)
 - (arXiv 2025.03) WaveFormer: A 3D Transformer with Wavelet-Driven Feature Representation for Efficient Medical Image Segmentation, [[Paper]](https://arxiv.org/abs/2503.23764)
 - (arXiv 2025.04) Diagnosis of Pulmonary Hypertension by Integrating Multimodal Data with a Hybrid Graph Convolutional and Transformer Network, [[Paper]](https://arxiv.org/abs/2503.23764)
+- (arXiv 2025.04) Beyond Conventional Transformers: The Medical X-ray Attention (MXA) Block for Improved Multi-Label Diagnosis Using Knowledge Distillation, [[Paper]](https://arxiv.org/abs/2504.02277),[[Code]](https://github.com/Hadi-M-Ibrahim/Beyond-Conventional-Transformers/)
