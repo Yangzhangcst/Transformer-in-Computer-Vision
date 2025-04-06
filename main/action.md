@@ -147,3 +147,5 @@
 - (arXiv 2025.02) BST: Badminton Stroke-type Transformer for Skeleton-based Action Recognition in Racket Sports,  [[Paper]](https://arxiv.org/pdf/2502.21085.pdf)
 - (arXiv 2025.03) End-to-End Action Segmentation Transformer,  [[Paper]](https://arxiv.org/pdf/2503.06316.pdf)
 - (arXiv 2025.03) Context-Enhanced Memory-Refined Transformer for Online Action Detection,  [[Paper]](https://arxiv.org/pdf/2503.18359.pdf),[[Code]](https://github.com/pangzhan27/CMeRT)
+- (arXiv 2025.03) MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition,  [[Paper]](https://arxiv.org/pdf/2504.02279)
+- (arXiv 2025.03) MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion,  [[Paper]](https://arxiv.org/pdf/2504.02287) 
