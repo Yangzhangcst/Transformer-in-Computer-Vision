@@ -156,3 +156,4 @@
 - (arXiv 2025.03) JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization, [[Paper]](https://arxiv.org/pdf/2503.23377),[[Code]](https://javisdit.github.io/)  
 - (arXiv 2025.03) DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.22796)
 - (arXiv 2025.03) DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model, [[Paper]](https://arxiv.org/pdf/2503.23993)
+- (arXiv 2025.04) SkyReels-A2: Compose Anything in Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2504.02436),[[Code]](https://github.com/SkyworkAI/SkyReels-A2)  
