@@ -30,3 +30,4 @@
 - (arXiv 2024.09) A Sinkhorn Regularized Adversarial Network for Image Guided DEM Super-resolution using Frequency Selective Hybrid Graph Transformer, [[Paper]](https://arxiv.org/pdf/2409.14198.pdf)
 - (arXiv 2024.10) GTransPDM: A Graph-embedded Transformer with Positional Decoupling for Pedestrian Crossing Intention Prediction, [[Paper]](https://arxiv.org/pdf/2409.20223.pdf)
 - (arXiv 2024.12) Dual-Branch Graph Transformer Network for 3D Human Mesh Reconstruction from Video, [[Paper]](https://arxiv.org/pdf/2412.01179.pdf), [[Code]](https://github.com/TangTao-PKU/DGTR)
+- (arXiv 2025.04) HGFormer: Topology-Aware Vision Transformer with HyperGraph Learning, [[Paper]](https://arxiv.org/pdf/2504.02440)
