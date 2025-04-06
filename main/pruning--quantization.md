@@ -74,3 +74,4 @@
 - (arXiv 2025.02) Hardware-Friendly Static Quantization Method for Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2502.15077)
 - (arXiv 2025.03) Oscillation-Reduced MXFP4 Training for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2502.20853), [[Code]](https://github.com/thu-ml/TetraJet-MXFP4Training)
 - (arXiv 2025.03) FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.15465), [[Code]](https://github.com/cccrrrccc/FP4DiT)
+- (arXiv 2025.04) APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2504.02508), [[Code]](https://github.com/GoatWu/APHQ-ViT)
