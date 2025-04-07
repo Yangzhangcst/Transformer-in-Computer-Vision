@@ -78,3 +78,4 @@
 - (arXiv 2025.03) Bridging the Gap: Fusing CNNs and Transformers to Decode the Elegance of Handwritten Arabic Script, [[Paper]](https://arxiv.org/pdf/2503.15023.pdf)
 - (arXiv 2025.03) Efficient and Accurate Scene Text Recognition with Cascaded-Transformers, [[Paper]](https://arxiv.org/pdf/2503.18883.pdf)
 - (arXiv 2025.03) Masked Self-Supervised Pre-Training for Text Recognition Transformers on Large-Scale Datasets, [[Paper]](https://arxiv.org/pdf/2503.22513.pdf)
+- (arXiv 2025.04) QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free Visual Document Understanding, [[Paper]](https://arxiv.org/pdf/2504.02971.pdf)
