@@ -76,3 +76,4 @@
 - (arXiv 2025.03) FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.15465), [[Code]](https://github.com/cccrrrccc/FP4DiT)
 - (arXiv 2025.04) APHQ-ViT: Post-Training Quantization with Average Perturbation Hessian Based Reconstruction for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2504.02508), [[Code]](https://github.com/GoatWu/APHQ-ViT)
 - (arXiv 2025.04) The Effects of Grouped Structural Global Pruning of Vision Transformers on Domain Generalisation, [[Paper]](https://arxiv.org/pdf/2504.04196)
+- (arXiv 2025.04) NuWa: Deriving Lightweight Task-Specific Vision Transformers for Edge Devices, [[Paper]](https://arxiv.org/pdf/2504.03118), [[Code]](https://anonymous.4open.science/r/Task_Specific-3A5E/README.md)
