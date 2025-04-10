@@ -733,3 +733,5 @@
 - (arXiv 2025.04) Multi-encoder nnU-Net outperforms Transformer models with self-supervised pretraining, [[Paper]](https://arxiv.org/abs/2504.03474)
 - (arXiv 2025.04) AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities, [[Paper]](https://arxiv.org/abs/2504.03589)
 - (arXiv 2025.04) MCAT: Visual Query-Based Localization of Standard Anatomical Clips in Fetal Ultrasound Videos Using Multi-Tier Class-Aware Token Transformer, [[Paper]](https://arxiv.org/abs/2504.06088)
+- (arXiv 2025.04) Artificial intelligence application in lymphoma diagnosis: from Convolutional Neural Network to Vision Transformer, [[Paper]](https://arxiv.org/abs/2504.04025)
+- (arXiv 2025.04) Vision Transformers with Autoencoders and Explainable AI for Cancer Patient Risk Stratification Using Whole Slide Imaging, [[Paper]](https://arxiv.org/abs/2504.04749)
