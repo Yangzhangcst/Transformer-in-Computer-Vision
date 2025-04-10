@@ -159,3 +159,4 @@
 - (arXiv 2025.04) SkyReels-A2: Compose Anything in Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2504.02436),[[Code]](https://github.com/SkyworkAI/SkyReels-A2)  
 - (arXiv 2025.04) DDT: Decoupled Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2504.05741),[[Code]](https://github.com/MCG-NJU/DDT)
 - (arXiv 2025.04) Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing, [[Paper]](https://arxiv.org/pdf/2504.04784)
+- (arXiv 2025.04) DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation, [[Paper]](https://arxiv.org/pdf/2504.06803),[[Code]](https://github.com/alibaba-damo-academy/DyDiT)  
