@@ -732,3 +732,4 @@
 - (arXiv 2025.04) Beyond Conventional Transformers: The Medical X-ray Attention (MXA) Block for Improved Multi-Label Diagnosis Using Knowledge Distillation, [[Paper]](https://arxiv.org/abs/2504.02277),[[Code]](https://github.com/Hadi-M-Ibrahim/Beyond-Conventional-Transformers/)
 - (arXiv 2025.04) Multi-encoder nnU-Net outperforms Transformer models with self-supervised pretraining, [[Paper]](https://arxiv.org/abs/2504.03474)
 - (arXiv 2025.04) AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities, [[Paper]](https://arxiv.org/abs/2504.03589)
+- (arXiv 2025.04) MCAT: Visual Query-Based Localization of Standard Anatomical Clips in Fetal Ultrasound Videos Using Multi-Tier Class-Aware Token Transformer, [[Paper]](https://arxiv.org/abs/2504.06088)
