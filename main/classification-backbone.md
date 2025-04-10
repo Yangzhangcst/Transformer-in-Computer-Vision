@@ -630,3 +630,5 @@
 - (arXiv 2025.04) HQViT: Hybrid Quantum Vision Transformer for Image Classification, [[Paper]](https://arxiv.org/pdf/2504.02730)
 - (arXiv 2025.04) A Sensorimotor Vision Transformer, [[Paper]](https://arxiv.org/pdf/2504.02536)
 - (arXiv 2025.04) Spline-based Transformers, [[Paper]](https://arxiv.org/pdf/2504.02797)
+- (arXiv 2025.04) EDIT: Enhancing Vision Transformers by Mitigating Attention Sink through an Encoder-Decoder Architecture, [[Paper]](https://arxiv.org/pdf/2504.06738)
+- (arXiv 2025.04) CAT: Circular-Convolutional Attention for Sub-Quadratic Transformers, [[Paper]](https://arxiv.org/pdf/2504.06704)
