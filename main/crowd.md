@@ -16,3 +16,4 @@
 - (arXiv 2023.12) Regressor-Segmenter Mutual Prompt Learning for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2312.01711.pdf)
 - (arXiv 2024.01) Gramformer: Learning Crowd Counting via Graph-Modulated Transformer, [[Paper]](https://arxiv.org/pdf/2401.03870.pdf), [[Code]](https://github.com/LoraLinH/Gramformer)
 - (arXiv 2024.07) CountFormer: Multi-View Crowd Counting Transformer, [[Paper]](https://arxiv.org/pdf/2407.02047.pdf)
+- (arXiv 2025.04) RCCFormer: A Robust Crowd Counting Network Based on Transformer, [[Paper]](https://arxiv.org/pdf/2504.04935.pdf), [[Code]](https://github.com/lp-094/RCCFormer)
