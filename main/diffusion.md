@@ -157,3 +157,5 @@
 - (arXiv 2025.03) DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2503.22796)
 - (arXiv 2025.03) DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model, [[Paper]](https://arxiv.org/pdf/2503.23993)
 - (arXiv 2025.04) SkyReels-A2: Compose Anything in Video Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2504.02436),[[Code]](https://github.com/SkyworkAI/SkyReels-A2)  
+- (arXiv 2025.04) DDT: Decoupled Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2504.05741),[[Code]](https://github.com/MCG-NJU/DDT)
+- (arXiv 2025.04) Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing, [[Paper]](https://arxiv.org/pdf/2504.04784)
