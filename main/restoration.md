@@ -37,3 +37,4 @@
 - (arXiv 2025.03) Intra and Inter Parser-Prompted Transformers for Effective Image Restoration,  [[Paper]](https://arxiv.org/pdf/2503.14037.pdf), [[Code]](https://github.com/supersupercong/pptformer)
 - (arXiv 2025.03) Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration,  [[Paper]](https://arxiv.org/pdf/2503.20174.pdf), [[Code]](https://github.com/joshyZhou/HINT)
 - (arXiv 2025.04) Content-Aware Transformer for All-in-one Image Restoration,  [[Paper]](https://arxiv.org/pdf/2504.04869.pdf), [[Code]](https://github.com/Aitical/DSwinIR)
+- (arXiv 2025.04) Rethinking LayerNorm in Image Restoration Transformers,  [[Paper]](https://arxiv.org/pdf/2504.06629.pdf)
