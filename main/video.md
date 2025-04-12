@@ -199,3 +199,4 @@
 - (arXiv 2025.03) Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers,  [[Paper]](https://arxiv.org/pdf/2503.11579), [[Code]](https://github.com/TIGER-AI-Lab/Vamba)
 - (arXiv 2025.03) TGBFormer: Transformer-GraphFormer Blender Network for Video Object Detection,  [[Paper]](https://arxiv.org/pdf/2503.13903)
 - (arXiv 2025.03) RePerformer: Immersive Human-centric Volumetric Videos from Playback to Photoreal Reperformance,  [[Paper]](https://arxiv.org/pdf/2503.12242)
+- (arXiv 2025.04) Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition,  [[Paper]](https://arxiv.org/pdf/2504.07792)
