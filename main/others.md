@@ -271,3 +271,5 @@
 - (arXiv 2025.03) TReND: Transformer derived features and Regularized NMF for neonatal functional network Delineation, [[Paper]](https://arxiv.org/pdf/2503.02685.pdf)
 - (arXiv 2025.03) Panoramic Distortion-Aware Tokenization for Person Detection and Localization Using Transformers in Overhead Fisheye Images, [[Paper]](https://arxiv.org/pdf/2503.14228.pdf)
 - (arXiv 2025.04) Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment, [[Paper]](https://arxiv.org/pdf/2504.02522.pdf), [[Code]](https://github.com/FBehrad/Charm)
+- (arXiv 2025.04) Boundary representation learning via Transformer, [[Paper]](https://arxiv.org/pdf/2504.07134.pdf)
+- (arXiv 2025.04) BRepFormer: Transformer-Based B-rep Geometric Feature Recognition, [[Paper]](https://arxiv.org/pdf/2504.07378.pdf)
