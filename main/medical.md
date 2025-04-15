@@ -735,3 +735,4 @@
 - (arXiv 2025.04) MCAT: Visual Query-Based Localization of Standard Anatomical Clips in Fetal Ultrasound Videos Using Multi-Tier Class-Aware Token Transformer, [[Paper]](https://arxiv.org/abs/2504.06088)
 - (arXiv 2025.04) Artificial intelligence application in lymphoma diagnosis: from Convolutional Neural Network to Vision Transformer, [[Paper]](https://arxiv.org/abs/2504.04025)
 - (arXiv 2025.04) Vision Transformers with Autoencoders and Explainable AI for Cancer Patient Risk Stratification Using Whole Slide Imaging, [[Paper]](https://arxiv.org/abs/2504.04749)
+- (arXiv 2025.04) A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Medical Image Classification, [[Paper]](https://arxiv.org/abs/2504.08481),[[Code]](https://anonymous.4open.science/r/Expl-CNN-Transformer/README.md)
