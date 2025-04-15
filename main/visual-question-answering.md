@@ -24,3 +24,4 @@
 - (arXiv 2023.08) Redundancy-aware Transformer for Video Question Answering, [[Paper]](https://arxiv.org/pdf/2308.03267.pdf)
 - (arXiv 2023.08) Advancing Vietnamese Visual Question Answering with Transformer and Convolutional Integration, [[Paper]](https://arxiv.org/pdf/2407.21229.pdf), [[Code]](https://github.com/nngocson2002/ViVQA)
 - (arXiv 2023.10) ViConsFormer: Constituting Meaningful Phrases of Scene Texts using Transformer-based Method in Vietnamese Text-based Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2410.14132.pdf), [[Code]](https://github.com/hieunghia-pat/ViConsFormer)
+- (arXiv 2025.04) VLMT: Vision-Language Multimodal Transformer for Multimodal Multi-hop Question Answering, [[Paper]](https://arxiv.org/pdf/2504.08269.pdf)
