@@ -273,3 +273,5 @@
 - (arXiv 2025.04) Charm: The Missing Piece in ViT fine-tuning for Image Aesthetic Assessment, [[Paper]](https://arxiv.org/pdf/2504.02522.pdf), [[Code]](https://github.com/FBehrad/Charm)
 - (arXiv 2025.04) Boundary representation learning via Transformer, [[Paper]](https://arxiv.org/pdf/2504.07134.pdf)
 - (arXiv 2025.04) BRepFormer: Transformer-Based B-rep Geometric Feature Recognition, [[Paper]](https://arxiv.org/pdf/2504.07378.pdf)
+- (arXiv 2025.04) SARFormer -- An Acquisition Parameter Aware Vision Transformer for Synthetic Aperture Radar Data, [[Paper]](https://arxiv.org/pdf/2504.08441.pdf)
+- (arXiv 2025.04) Steering CLIP’s vision transformer with sparse autoencoders, [[Paper]](https://arxiv.org/pdf/2504.08729.pdf)
