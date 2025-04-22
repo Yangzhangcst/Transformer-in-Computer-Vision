@@ -632,3 +632,5 @@
 - (arXiv 2025.04) Spline-based Transformers, [[Paper]](https://arxiv.org/pdf/2504.02797)
 - (arXiv 2025.04) EDIT: Enhancing Vision Transformers by Mitigating Attention Sink through an Encoder-Decoder Architecture, [[Paper]](https://arxiv.org/pdf/2504.06738)
 - (arXiv 2025.04) CAT: Circular-Convolutional Attention for Sub-Quadratic Transformers, [[Paper]](https://arxiv.org/pdf/2504.06704)
+- (arXiv 2025.04) ECViT: Efficient Convolutional Vision Transformer with Local-Attention and Multi-scale Stages, [[Paper]](https://arxiv.org/pdf/2504.14825)
+- (arXiv 2025.04) LOOPE: Learnable Optimal Patch Order in Positional Embeddings for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2504.14386)
