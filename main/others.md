@@ -275,3 +275,4 @@
 - (arXiv 2025.04) BRepFormer: Transformer-Based B-rep Geometric Feature Recognition, [[Paper]](https://arxiv.org/pdf/2504.07378.pdf)
 - (arXiv 2025.04) SARFormer -- An Acquisition Parameter Aware Vision Transformer for Synthetic Aperture Radar Data, [[Paper]](https://arxiv.org/pdf/2504.08441.pdf)
 - (arXiv 2025.04) Steering CLIP’s vision transformer with sparse autoencoders, [[Paper]](https://arxiv.org/pdf/2504.08729.pdf)
+- (arXiv 2025.04) Retinex-guided Histogram Transformer for Mask-free Shadow Removal, [[Paper]](https://arxiv.org/pdf/2504.14092.pdf)
