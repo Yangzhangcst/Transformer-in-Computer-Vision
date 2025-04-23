@@ -276,3 +276,4 @@
 - (arXiv 2025.04) SARFormer -- An Acquisition Parameter Aware Vision Transformer for Synthetic Aperture Radar Data, [[Paper]](https://arxiv.org/pdf/2504.08441.pdf)
 - (arXiv 2025.04) Steering CLIP’s vision transformer with sparse autoencoders, [[Paper]](https://arxiv.org/pdf/2504.08729.pdf)
 - (arXiv 2025.04) Retinex-guided Histogram Transformer for Mask-free Shadow Removal, [[Paper]](https://arxiv.org/pdf/2504.14092.pdf)
+- (arXiv 2025.04) SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification, [[Paper]](https://arxiv.org/pdf/2504.13220.pdf)
