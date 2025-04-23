@@ -163,3 +163,5 @@
 - (arXiv 2025.04) DreamFuse: Adaptive Image Fusion with Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2504.08291),[[Code]](https://ll3rd.github.io/DreamFuse/) 
 - (arXiv 2025.04) Insert Anything: Image Insertion via In-Context Editing in DiT, [[Paper]](https://arxiv.org/pdf/2504.15009),[[Code]](https://github.com/song-wensong/insert-anything) 
 - (arXiv 2025.04) RealisDance-DiT: Simple yet Strong Baseline towards Controllable Character Animation in the Wild, [[Paper]](https://arxiv.org/pdf/2504.14977),[[Code]](https://github.com/damo-cv/RealisDance) 
+- (arXiv 2025.04) DiTPainter: Efficient Video Inpainting with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2504.15661)
+- (arXiv 2025.04) RealisDance-DiT: Simple yet Strong Baseline towards Controllable Character Animation in the Wild, [[Paper]](https://arxiv.org/pdf/2504.14977),[[Code]](https://github.com/damo-cv/RealisDance)
