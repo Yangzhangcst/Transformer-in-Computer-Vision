@@ -637,3 +637,5 @@
 - (arXiv 2025.04) RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding, [[Paper]](https://arxiv.org/pdf/2504.12643)
 - (arXiv 2025.04) HMPE:HeatMap Embedding for Efficient Transformer-Based Small Object Detection, [[Paper]](https://arxiv.org/pdf/2504.13469)
 - (arXiv 2025.04) Decoding Vision Transformers: the Diffusion Steering Lens, [[Paper]](https://arxiv.org/pdf/2504.13763)
+- (arXiv 2025.04) ECViT: Efficient Convolutional Vision Transformer with Local-Attention and Multi-scale Stages, [[Paper]](https://arxiv.org/pdf/2504.14825)
+- (arXiv 2025.04) LOOPE: Learnable Optimal Patch Order in Positional Embeddings for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2504.14386)
