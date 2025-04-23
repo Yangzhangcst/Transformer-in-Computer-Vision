@@ -265,3 +265,5 @@
 - (arXiv 2025.03) Fractional Correspondence Framework in Detection Transformer, [[Paper]](https://arxiv.org/pdf/2503.04107)
 - (arXiv 2025.03) BOOTPLACE: Bootstrapped Object Placement with Detection Transformers, [[Paper]](https://arxiv.org/pdf/2503.21991), [[Code]](https://github.com/RyanHangZhou/BOOTPLACE)
 - (arXiv 2025.04) WS-DETR: Robust Water Surface Object Detection through Vision-Radar Fusion with Detection Transformer, [[Paper]](https://arxiv.org/pdf/2504.07441)
+- (arXiv 2025.04) Fighting Fires from Space: Leveraging Vision Transformers for Enhanced Wildfire Detection and Characterization, [[Paper]](https://arxiv.org/pdf/2504.13776)
+- (arXiv 2025.04) DenSe-AdViT: A novel Vision Transformer for Dense SAR Object Detection, [[Paper]](https://arxiv.org/pdf/2504.13638)
