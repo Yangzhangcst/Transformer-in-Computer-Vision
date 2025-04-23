@@ -39,3 +39,4 @@
 - (arXiv 2025.03) DTU-Net: A Multi-Scale Dilated Transformer Network for Nonlinear Hyperspectral Unmixing, [[Paper]](https://arxiv.org/pdf/2503.03465.pdf)
 - (arXiv 2025.03) NukesFormers: Unpaired Hyperspectral Image Generation with Non-Uniform Domain Alignment, [[Paper]](https://arxiv.org/pdf/2503.07004.pdf)
 - (arXiv 2025.03) EnergyFormer: Energy Attention with Fourier Embedding for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2503.08239.pdf)
+- (arXiv 2025.04) Dynamic Memory-enhanced Transformer for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2504.13242.pdf)
