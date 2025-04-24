@@ -740,3 +740,4 @@
 - (arXiv 2025.04) FocusNet: Transformer-enhanced Polyp Segmentation with Local and Pooling Attention, [[Paper]](https://arxiv.org/abs/2504.13597),[[Code]](https://github.com/JunZengz/FocusNet)
 - (arXiv 2025.04) Enhancing DR Classification with Swin Transformer and Shifted Window Attention, [[Paper]](https://arxiv.org/abs/2504.15317)
 - (arXiv 2025.04) Advanced Chest X-Ray Analysis via Transformer-Based Image Descriptors and Cross-Model Attention Mechanism, [[Paper]](https://arxiv.org/abs/2504.16774)
+- (arXiv 2025.04) Local Temporal Feature Enhanced Transformer with ROI-rank Based Masking for Diagnosis of ADHD, [[Paper]](https://arxiv.org/abs/2504.11474)
