@@ -10,3 +10,4 @@
 - (arXiv 2024.05) Dual-Path Multi-Scale Transformer for High-Quality Image Deraining, [[Paper]](https://arxiv.org/pdf/2405.18124.pdf)
 - (arXiv 2024.08) Improving Image De-raining Using Reference-Guided Transformers, [[Paper]](https://arxiv.org/pdf/2408.00258.pdf), [[Code]](https://github.com/ziiihoooYe/RefGT?tab=readme-ov-file)
 - (arXiv 2024.09) A Hybrid Transformer-Mamba Network for Single Image Deraining, [[Paper]](https://arxiv.org/pdf/2409.00410.pdf), [[Code]](https://github.com/sunshangquan/TransMamba)
+- (arXiv 2025.04) Cross Paradigm Representation and Alignment Transformer for Image Deraining, [[Paper]](https://arxiv.org/pdf/2504.16455.pdf)
