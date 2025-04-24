@@ -8,3 +8,4 @@
 - (arXiv 2024.04) Towards Multi-modal Transformers in Federated Learning, [[Paper]](https://arxiv.org/pdf/2404.12467.pdf)
 - (arXiv 2024.12) EFTViT: Efficient Federated Training of Vision Transformers with Masked Images on Resource-Constrained Edge Devices, [[Paper]](https://arxiv.org/pdf/2412.00334.pdf)
 - (arXiv 2024.12) FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities, [[Paper]](https://arxiv.org/pdf/2412.14768.pdf)
+- (arXiv 2025.04) Federated EndoViT: Pretraining Vision Transformers via Federated Learning on Endoscopic Image Collections, [[Paper]](https://arxiv.org/pdf/2504.16612.pdf)
