@@ -237,3 +237,4 @@
 - (arXiv 2025.03) SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation, [[Paper]](https://arxiv.org/pdf/2503.06764)
 - (arXiv 2025.03) CoCMT: Communication-Efficient Cross-Modal Transformer for Collaborative Perception, [[Paper]](https://arxiv.org/pdf/2503.13504), [[Code]](hhttps://anonymous.4open.science/r/CoCMT-29B6/README.md)
 - (arXiv 2025.03) LIAM: Multimodal Transformer for Language Instructions, Images, Actions and Semantic Maps, [[Paper]](https://arxiv.org/pdf/2503.12230), [[Code]](https://github.com/AIS-Bonn/LIAM)
+- (arXiv 2025.04) Audio and Multiscale Visual Cues Driven Cross-modal Transformer for Idling Vehicle Detection, [[Paper]](https://arxiv.org/pdf/2504.16102)
