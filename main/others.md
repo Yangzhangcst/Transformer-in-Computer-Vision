@@ -278,3 +278,5 @@
 - (arXiv 2025.04) Retinex-guided Histogram Transformer for Mask-free Shadow Removal, [[Paper]](https://arxiv.org/pdf/2504.14092.pdf)
 - (arXiv 2025.04) SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification, [[Paper]](https://arxiv.org/pdf/2504.13220.pdf)
 - (arXiv 2025.04) ADAT: Time-Series-Aware Adaptive Transformer Architecture for Sign Language Translation, [[Paper]](https://arxiv.org/pdf/2504.11942.pdf)
+- (arXiv 2025.04) DamageCAT: A Deep Learning Transformer Framework for Typology-Based Post-Disaster Building Damage Categorization, [[Paper]](https://arxiv.org/pdf/2504.11637.pdf)
+- (arXiv 2025.04) ConvShareViT: Enhancing Vision Transformers with Convolutional Attention Mechanisms for Free-Space Optical Accelerators, [[Paper]](https://arxiv.org/pdf/2504.11637.pdf)
