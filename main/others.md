@@ -277,3 +277,4 @@
 - (arXiv 2025.04) Steering CLIP’s vision transformer with sparse autoencoders, [[Paper]](https://arxiv.org/pdf/2504.08729.pdf)
 - (arXiv 2025.04) Retinex-guided Histogram Transformer for Mask-free Shadow Removal, [[Paper]](https://arxiv.org/pdf/2504.14092.pdf)
 - (arXiv 2025.04) SSTAF: Spatial-Spectral-Temporal Attention Fusion Transformer for Motor Imagery Classification, [[Paper]](https://arxiv.org/pdf/2504.13220.pdf)
+- (arXiv 2025.04) ADAT: Time-Series-Aware Adaptive Transformer Architecture for Sign Language Translation, [[Paper]](https://arxiv.org/pdf/2504.11942.pdf)
