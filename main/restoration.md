@@ -40,3 +40,4 @@
 - (arXiv 2025.04) Rethinking LayerNorm in Image Restoration Transformers,  [[Paper]](https://arxiv.org/pdf/2504.06629.pdf)
 - (arXiv 2025.04) ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration,  [[Paper]](https://arxiv.org/pdf/2504.08591.pdf)
 - (arXiv 2025.04) RouteWinFormer: A Route-Window Transformer for Middle-range Attention in Image Restoration,  [[Paper]](https://arxiv.org/pdf/2504.16637.pdf)
+- (arXiv 2025.04) Dual Prompting Image Restoration with Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2504.17825.pdf)
