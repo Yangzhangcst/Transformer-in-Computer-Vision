@@ -13,3 +13,4 @@
 - (arXiv 2024.07) Restoring Images in Adverse Weather Conditions via Histogram Transformer, [[Paper]](https://arxiv.org/pdf/2407.10172.pdf), [[Code]](https://github.com/sunshangquan/Histoformer)
 - (arXiv 2024.12) Distilled Pooling Transformer Encoder for Efficient Realistic Image Dehazing, [[Paper]](https://arxiv.org/pdf/2412.14220.pdf), [[Code]](https://github.com/tranleanh/dpte-net)
 - (arXiv 2025.01) Transformer-Driven Inverse Problem Transform for Fast Blind Hyperspectral Image Dehazing, [[Paper]](https://arxiv.org/pdf/2501.01924.pdf)
+- (arXiv 2025.04) Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing, [[Paper]](https://arxiv.org/pdf/2504.17829.pdf), [[Code]](https://github.com/Vladimirescu/RobustDehazing)
