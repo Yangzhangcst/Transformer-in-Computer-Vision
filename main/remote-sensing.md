@@ -67,3 +67,4 @@
 - (arXiv 2025.03) Falcon: A Remote Sensing Vision-Language Foundation Model, [[Paper]](https://arxiv.org/pdf/2503.11070), [[Code]](https://github.com/TianHuiLab/Falcon)
 - (arXiv 2025.03) Comparative and Interpretative Analysis of CNN and Transformer Models in Predicting Wildfire Spread Using Remote Sensing Data, [[Paper]](https://arxiv.org/pdf/2503.14150), [[Code]](https://github.com/Yng314/xai_for_wildfire)
 - (arXiv 2025.03) CADFormer: Fine-Grained Cross-modal Alignment and Decoding Transformer for Referring Remote Sensing Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.23456)
+- (arXiv 2025.04) A multi-scale vision transformer-based multimodal GeoAI model for mapping Arctic permafrost thaw, [[Paper]](https://arxiv.org/pdf/2504.17822)
