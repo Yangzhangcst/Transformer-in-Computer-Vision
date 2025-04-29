@@ -201,3 +201,4 @@
 - (arXiv 2025.03) RePerformer: Immersive Human-centric Volumetric Videos from Playback to Photoreal Reperformance,  [[Paper]](https://arxiv.org/pdf/2503.12242)
 - (arXiv 2025.04) Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition,  [[Paper]](https://arxiv.org/pdf/2504.07792)
 - (arXiv 2025.04) Towards Explainable AI: Multi-Modal Transformer for Video-based Image Description Generation,  [[Paper]](https://arxiv.org/pdf/2504.16788)
+- (arXiv 2025.04) Learning Streaming Video Representation via Multitask Training,  [[Paper]](https://arxiv.org/pdf/2504.20041), [[Code]](https://go2heart.github.io/streamformer/)
