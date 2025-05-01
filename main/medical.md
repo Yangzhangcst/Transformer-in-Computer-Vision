@@ -744,3 +744,4 @@
 - (arXiv 2025.04) Multi-Stage Boundary-Aware Transformer Network for Action Segmentation in Untrimmed Surgical Videos, [[Paper]](https://arxiv.org/abs/2504.18756)
 - (arXiv 2025.04) Enhancing breast cancer detection on screening mammogram using self-supervised learning and a hybrid deep model of Swin Transformer and Convolutional Neural Network, [[Paper]](https://arxiv.org/abs/2504.19888)
 - (arXiv 2025.04) Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI, [[Paper]](https://arxiv.org/abs/2504.19918)
+- (arXiv 2025.04) Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability, [[Paper]](https://arxiv.org/abs/2504.21340),[[Code]](https://github.com/Khoa-NT/isbi2025_ps3c)
