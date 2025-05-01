@@ -741,3 +741,6 @@
 - (arXiv 2025.04) Enhancing DR Classification with Swin Transformer and Shifted Window Attention, [[Paper]](https://arxiv.org/abs/2504.15317)
 - (arXiv 2025.04) Advanced Chest X-Ray Analysis via Transformer-Based Image Descriptors and Cross-Model Attention Mechanism, [[Paper]](https://arxiv.org/abs/2504.16774)
 - (arXiv 2025.04) Local Temporal Feature Enhanced Transformer with ROI-rank Based Masking for Diagnosis of ADHD, [[Paper]](https://arxiv.org/abs/2504.11474)
+- (arXiv 2025.04) Multi-Stage Boundary-Aware Transformer Network for Action Segmentation in Untrimmed Surgical Videos, [[Paper]](https://arxiv.org/abs/2504.18756)
+- (arXiv 2025.04) Enhancing breast cancer detection on screening mammogram using self-supervised learning and a hybrid deep model of Swin Transformer and Convolutional Neural Network, [[Paper]](https://arxiv.org/abs/2504.19888)
+- (arXiv 2025.04) Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI, [[Paper]](https://arxiv.org/abs/2504.19918)
