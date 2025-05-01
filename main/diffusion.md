@@ -167,3 +167,4 @@
 - (arXiv 2025.04) RealisDance-DiT: Simple yet Strong Baseline towards Controllable Character Animation in the Wild, [[Paper]](https://arxiv.org/pdf/2504.14977),[[Code]](https://github.com/damo-cv/RealisDance)
 - (arXiv 2025.04) Insert Anything: Image Insertion via In-Context Editing in DiT, [[Paper]](https://arxiv.org/pdf/2504.15009),[[Code]](https://github.com/song-wensong/insert-anything)
 - (arXiv 2025.04) DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2504.19614)
+- (arXiv 2025.04) AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation, [[Paper]](https://arxiv.org/pdf/2504.20629),[[Code]](https://mm.kaist.ac.kr/projects/AlignDiT/)
