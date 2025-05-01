@@ -269,3 +269,4 @@
 - (arXiv 2025.04) DenSe-AdViT: A novel Vision Transformer for Dense SAR Object Detection, [[Paper]](https://arxiv.org/pdf/2504.13638)
 - (arXiv 2025.04) DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images, [[Paper]](https://arxiv.org/pdf/2504.19876), [[Code]](https://github.com/Mamadou-Keita/DeeCLIP)
 - (arXiv 2025.04) DG-DETR: Toward Domain Generalized Detection Transformer, [[Paper]](https://arxiv.org/pdf/2504.19574), [[Code]](https://github.com/sminhwang/DG-DETR)
+- (arXiv 2025.04) Style-Adaptive Detection Transformer for Single-Source Domain Generalized Object Detection, [[Paper]](https://arxiv.org/pdf/2504.20498), [[Code]](https://github.com/h751410234/SA-DETR)
