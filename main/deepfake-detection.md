@@ -22,3 +22,4 @@
 - (arXiv 2024.10) FakeFormer: Efficient Vulnerability-Driven Transformers for Generalisable Deepfake Detection, [[Paper]](https://arxiv.org/pdf/2410.21964.pdf), [[Code]](https://github.com/10Ring/FakeFormer)
 - (arXiv 2025.01) Classifying Deepfakes Using Swin Transformers, [[Paper]](https://arxiv.org/pdf/2501.15656.pdf)
 - (arXiv 2025.02) Cross multiscale vision transformer for deep fake detection, [[Paper]](https://arxiv.org/pdf/2502.00833.pdf)
+- (arXiv 2025.04) Advance Fake Video Detection via Vision Transformers, [[Paper]](https://arxiv.org/pdf/2504.20669.pdf)
