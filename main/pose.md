@@ -128,3 +128,4 @@
 - (arXiv 2025.03) HiPART: Hierarchical Pose AutoRegressive Transformer for Occluded 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2503.23331.pdf)
 - (arXiv 2025.04) Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2504.01764.pdf)
 - (arXiv 2025.04) HGMamba: Enhancing 3D Human Pose Estimation with a HyperGCN-Mamba Network, [[Paper]](https://arxiv.org/pdf/2504.06638.pdf), [[Code]](https://github.com/HuCui2022/HGMamba)
+- (arXiv 2025.04) Shopformer: Transformer-Based Framework for Detecting Shoplifting via Human Pose, [[Paper]](https://arxiv.org/pdf/2504.19970.pdf), [[Code]](https://github.com/TeCSAR-UNCC/Shopformer)
