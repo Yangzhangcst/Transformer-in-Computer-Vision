@@ -170,3 +170,4 @@
 - (arXiv 2025.04) AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation, [[Paper]](https://arxiv.org/pdf/2504.20629),[[Code]](https://mm.kaist.ac.kr/projects/AlignDiT/)
 - (arXiv 2025.04) GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2504.21476),[[Code]](https://github.com/Shenfu-Research/Garment-Diffusion)
 - (arXiv 2025.04) In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2504.20690),[[Code]](https://github.com/River-Zhang/ICEdit)
+- (arXiv 2025.05) JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2505.00482),[[Code]](https://byungki-k.github.io/JointDiT/)
