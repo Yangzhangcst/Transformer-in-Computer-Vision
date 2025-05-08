@@ -171,3 +171,4 @@
 - (arXiv 2025.04) GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2504.21476),[[Code]](https://github.com/Shenfu-Research/Garment-Diffusion)
 - (arXiv 2025.04) In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2504.20690),[[Code]](https://github.com/River-Zhang/ICEdit)
 - (arXiv 2025.05) JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2505.00482),[[Code]](https://byungki-k.github.io/JointDiT/)
+- (arXiv 2025.05) FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing,  [[Paper]](https://arxiv.org/pdf/2505.03329)
