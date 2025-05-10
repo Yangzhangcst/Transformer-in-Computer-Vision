@@ -19,3 +19,4 @@
 - (arXiv 2023.11) Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation, [[Paper]](https://arxiv.org/pdf/2311.13602.pdf), [[Project]](https://udonda.github.io/RALF/)
 - (arXiv 2024.05) DLAFormer: An End-to-End Transformer For Document Layout Analysis, [[Paper]](https://arxiv.org/pdf/2405.11757.pdf)
 - (arXiv 2024.07) CGB-DM: Content and Graphic Balance Layout Generation with Transformer-based Diffusion Model, [[Paper]](https://arxiv.org/pdf/2405.11757.pdf), [[Code]](https://github.com/yuli0103/CGB-DM)
+- (arXiv 2025.05) Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2505.04718.pdf)
