@@ -34,3 +34,4 @@
 - (arXiv 2024.11) TimeFormer: Capturing Temporal Relationships of Deformable 3D Gaussians for Robust Reconstruction, [[Paper]](https://arxiv.org/pdf/2411.11941.pdf)
 - (arXiv 2025.02) ViSIR: Vision Transformer Single Image Reconstruction Method for Earth System Models, [[Paper]](https://arxiv.org/pdf/2502.06741.pdf)
 - (arXiv 2025.03) HORT: Monocular Hand-held Objects Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2503.21313.pdf),[[Code]](https://zerchen.github.io/projects/hort.html)
+- (arXiv 2025.05) The Moon's Many Faces: A Single Unified Transformer for Multimodal Lunar Reconstruction, [[Paper]](https://arxiv.org/pdf/2505.05644.pdf)
