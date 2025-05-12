@@ -150,3 +150,4 @@
 - (arXiv 2025.03) MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition,  [[Paper]](https://arxiv.org/pdf/2504.02279)
 - (arXiv 2025.03) MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion,  [[Paper]](https://arxiv.org/pdf/2504.02287) 
 - (arXiv 2025.04) WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks,  [[Paper]](https://arxiv.org/pdf/2504.16655) 
+- (arXiv 2025.05) DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer,  [[Paper]](https://arxiv.org/pdf/2505.05711),[[Code]](https://github.com/Dotori-HJ/DiGIT) 
