@@ -172,3 +172,4 @@
 - (arXiv 2025.04) In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2504.20690),[[Code]](https://github.com/River-Zhang/ICEdit)
 - (arXiv 2025.05) JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2505.00482),[[Code]](https://byungki-k.github.io/JointDiT/)
 - (arXiv 2025.05) FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing,  [[Paper]](https://arxiv.org/pdf/2505.03329)
+- (arXiv 2025.05) Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition,  [[Paper]](https://arxiv.org/pdf/2505.05829),[[Code]](https://github.com/ccccczzy/icc)
