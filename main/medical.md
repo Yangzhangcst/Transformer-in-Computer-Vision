@@ -747,3 +747,4 @@
 - (arXiv 2025.04) Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability, [[Paper]](https://arxiv.org/abs/2504.21340),[[Code]](https://github.com/Khoa-NT/isbi2025_ps3c)
 - (arXiv 2025.05) Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet, [[Paper]](https://arxiv.org/abs/2505.06185)
 - (arXiv 2025.05) VIViT: Variable-Input Vision Transformer Framework for 3D MR Image Segmentation, [[Paper]](https://arxiv.org/abs/2505.08693)
+- (arXiv 2025.05) Multi-Plane Vision Transformer for Hemorrhage Classification Using Axial and Sagittal MRI Data, [[Paper]](https://arxiv.org/abs/2505.07349)
