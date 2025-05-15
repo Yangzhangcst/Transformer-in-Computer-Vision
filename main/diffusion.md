@@ -174,3 +174,4 @@
 - (arXiv 2025.05) FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing,  [[Paper]](https://arxiv.org/pdf/2505.03329)
 - (arXiv 2025.05) Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition,  [[Paper]](https://arxiv.org/pdf/2505.05829),[[Code]](https://github.com/ccccczzy/icc)
 - (arXiv 2025.05) Generative Pre-trained Autoregressive Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2505.07344)
+- (arXiv 2025.05) TopoDiT-3D: Topology-Aware Diffusion Transformer with Bottleneck Structure for 3D Point Cloud Generation,  [[Paper]](https://arxiv.org/pdf/2505.09140),[[Code]](https://github.com/Zechao-Guan/TopoDiT-3D)
