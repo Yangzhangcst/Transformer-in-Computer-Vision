@@ -18,3 +18,4 @@
 - (arXiv 2024.07) CountFormer: Multi-View Crowd Counting Transformer, [[Paper]](https://arxiv.org/pdf/2407.02047.pdf)
 - (arXiv 2025.04) RCCFormer: A Robust Crowd Counting Network Based on Transformer, [[Paper]](https://arxiv.org/pdf/2504.04935.pdf), [[Code]](https://github.com/lp-094/RCCFormer)
 - (arXiv 2025.04) A Transformer-based Multimodal Fusion Model for Efficient Crowd Counting Using Visual and Wireless Signals, [[Paper]](https://arxiv.org/pdf/2504.20178.pdf)
+- (arXiv 2025.05) Transformer-Based Dual-Optical Attention Fusion Crowd Head Point Counting and Localization Network, [[Paper]](https://arxiv.org/pdf/2505.06937.pdf), [[Code]](https://github.com/zz-zik/TAPNet)
