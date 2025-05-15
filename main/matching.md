@@ -26,3 +26,4 @@
 - (arXiv 2025.02) Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion, [[Paper]](https://arxiv.org/pdf/2502.00264.pdf),[[Code]](https://github.com/zhengzaiyi/RotationSymmetry)
 - (arXiv 2025.03) Normalized Matching Transformer, [[Paper]](https://arxiv.org/pdf/2503.17715.pdf),[[Code]](https://github.com/Apollos1301/NormMatchTrans)
 - (arXiv 2025.03) CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching, [[Paper]](https://arxiv.org/pdf/2503.23925.pdf)
+- (arXiv 2025.05) RDD: Robust Feature Detector and Descriptor using Deformable Transformer, [[Paper]](https://arxiv.org/pdf/2505.08013.pdf),[[Code]](https://github.com/xtcpete/rdd)
