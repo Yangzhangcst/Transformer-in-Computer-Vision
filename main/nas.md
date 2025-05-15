@@ -25,3 +25,4 @@
 - (arXiv.2024.05) When Training-Free NAS Meets Vision Transformer: A Neural Tangent Kernel Perspective, [[Paper]](https://arxiv.org/pdf/2405.04536.pdf)
 - (arXiv.2024.07) HyTAS: A Hyperspectral Image Transformer Architecture Search Benchmark and Analysis, [[Paper]](https://arxiv.org/pdf/2407.16269.pdf)
 - (arXiv.2024.07) Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2407.18175.pdf)
+- (arXiv.2025.05) L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers, [[Paper]](https://arxiv.org/pdf/2505.07300.pdf)
