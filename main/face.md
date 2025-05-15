@@ -115,3 +115,4 @@
 - (arXiv 2025.02) GVTNet: Graph Vision Transformer For Face Super-Resolution, [[Paper]](https://arxiv.org/pdf/2502.12570.pdf)
 - (arXiv 2025.03) Enhancing Learnable Descriptive Convolutional Vision Transformer for Face Anti-Spoofing, [[Paper]](https://arxiv.org/pdf/2503.22936.pdf)
 - (arXiv 2025.05) LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention, [[Paper]](https://arxiv.org/pdf/2505.07734.pdf)
+- (arXiv 2025.05) TACFN: Transformer-based Adaptive Cross-modal Fusion Network for Multimodal Emotion Recognition,  [[Paper]](https://arxiv.org/pdf/2505.06536.pdf),[[Code]](https://github.com/shuzihuaiyu/TACFN)
