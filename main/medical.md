@@ -749,3 +749,4 @@
 - (arXiv 2025.05) VIViT: Variable-Input Vision Transformer Framework for 3D MR Image Segmentation, [[Paper]](https://arxiv.org/abs/2505.08693)
 - (arXiv 2025.05) Multi-Plane Vision Transformer for Hemorrhage Classification Using Axial and Sagittal MRI Data, [[Paper]](https://arxiv.org/abs/2505.07349)
 - (arXiv 2025.05) Breast Cancer Classification in Deep Ultraviolet Fluorescence Images Using a Patch-Level Vision Transformer Framework, [[Paper]](https://arxiv.org/abs/2505.07654)
+- (arXiv 2025.05) MIPHEI-ViT: Multiplex Immunofluorescence Prediction from H&E Images using ViT Foundation Models, [[Paper]](https://arxiv.org/abs/2505.10294)
