@@ -642,3 +642,4 @@
 - (arXiv 2025.04) GMAR: Gradient-Driven Multi-Head Attention Rollout for Vision Transformer Interpretability, [[Paper]](https://arxiv.org/pdf/2504.19414)
 - (arXiv 2025.05) Hyb-KAN ViT: Hybrid Kolmogorov-Arnold Networks Augmented Vision Transformer, [[Paper]](https://arxiv.org/pdf/2505.04740)
 - (arXiv 2025.05) Empowering Vision Transformers with Multi-Scale Causal Intervention for Long-Tailed Image Classification, [[Paper]](https://arxiv.org/pdf/2505.08173)
+- (arXiv 2025.05) End-to-End Vision Tokenizer Tuning, [[Paper]](https://arxiv.org/pdf/2505.10562)
