@@ -281,3 +281,4 @@
 - (arXiv 2025.04) DamageCAT: A Deep Learning Transformer Framework for Typology-Based Post-Disaster Building Damage Categorization, [[Paper]](https://arxiv.org/pdf/2504.11637.pdf)
 - (arXiv 2025.04) ConvShareViT: Enhancing Vision Transformers with Convolutional Attention Mechanisms for Free-Space Optical Accelerators, [[Paper]](https://arxiv.org/pdf/2504.11637.pdf)
 - (arXiv 2025.04) RadioFormer: A Multiple-Granularity Radio Map Estimation Transformer with 1\textpertenthousand Spatial Sampling, [[Paper]](https://arxiv.org/pdf/2504.19161.pdf)
+- (arXiv 2025.05) PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer, [[Paper]](https://arxiv.org/pdf/2505.04622.pdf)
