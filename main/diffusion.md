@@ -177,3 +177,4 @@
 - (arXiv 2025.05) TopoDiT-3D: Topology-Aware Diffusion Transformer with Bottleneck Structure for 3D Point Cloud Generation,  [[Paper]](https://arxiv.org/pdf/2505.09140),[[Code]](https://github.com/Zechao-Guan/TopoDiT-3D)
 - (arXiv 2025.05) Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis,  [[Paper]](https://arxiv.org/pdf/2505.10046),[[Code]](https://github.com/tang-bd/fuse-dit)
 - (arXiv 2025.05) No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves,  [[Paper]](https://arxiv.org/pdf/2505.02831),[[Code]](https://github.com/vvvvvjdy/SRA)
+- (arXiv 2025.05) FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation,  [[Paper]](https://arxiv.org/pdf/2505.20353),[[Code]](https://github.com/NoakLiu/FastCache-xDiT)
