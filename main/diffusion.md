@@ -178,3 +178,4 @@
 - (arXiv 2025.05) Exploring the Deep Fusion of Large Language Models and Diffusion Transformers for Text-to-Image Synthesis,  [[Paper]](https://arxiv.org/pdf/2505.10046),[[Code]](https://github.com/tang-bd/fuse-dit)
 - (arXiv 2025.05) No Other Representation Component Is Needed: Diffusion Transformers Can Provide Representation Guidance by Themselves,  [[Paper]](https://arxiv.org/pdf/2505.02831),[[Code]](https://github.com/vvvvvjdy/SRA)
 - (arXiv 2025.05) FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation,  [[Paper]](https://arxiv.org/pdf/2505.20353),[[Code]](https://github.com/NoakLiu/FastCache-xDiT)
+- (arXiv 2025.06) HiDream-I1: A High-Efficient Image Generative Foundation Model with Sparse Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2505.22705),[[Code]](https://github.com/HiDream-ai/HiDream-I1)
