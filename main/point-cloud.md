@@ -148,6 +148,8 @@
 - (arXiv 2024.09) UniDet3D: Multi-dataset Indoor 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2409.04234.pdf), [[Code]](https://github.com/filapro/unidet3d)
 - (arXiv 2024.09) HydroVision: LiDAR-Guided Hydrometric Prediction with Vision Transformers and Hybrid Graph Learning, [[Paper]](https://arxiv.org/pdf/2409.15213.pdf)
 - (arXiv 2024.11) Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer, [[Paper]](https://arxiv.org/pdf/2411.07899.pdf)
+- (arXiv 2025.06) HyperPointFormer: Multimodal Fusion in 3D Space with Dual-Branch Cross-Attention Transformers, [[Paper]](https://arxiv.org/pdf/2505.23206.pdf)
+
 - (arXiv 2024.12) SP2T: Sparse Proxy Attention for Dual-stream Point Transformer, [[Paper]](https://arxiv.org/pdf/2412.11540.pdf), [[Code]](https://github.com/TerenceWallel/Sparse-Proxy-Point-Transformer)
 - (arXiv 2024.12) Flash3D: Super-scaling Point Transformers through Joint Hardware-Geometry Locality, [[Paper]](https://arxiv.org/pdf/2412.16481.pdf)
 - (arXiv 2024.12) DAPoinTr: Domain Adaptive Point Transformer for Point Cloud Completion, [[Paper]](https://arxiv.org/pdf/2412.19062.pdf), [[Code]](https://github.com/Yinghui-Li-New/DAPoinTr)
