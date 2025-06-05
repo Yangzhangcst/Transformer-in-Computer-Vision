@@ -650,3 +650,4 @@
 - (arXiv 2025.06) Frequency-Adaptive Discrete Cosine-ViT-ResNet Architecture for Sparse-Data Vision, [[Paper]](https://arxiv.org/pdf/2505.22701)
 - (arXiv 2025.06) DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2505.23694)
 - (arXiv 2025.06) Taming Transformer Without Using Learning Rate Warmup, [[Paper]](https://arxiv.org/pdf/2505.21910)
+- (arXiv 2025.06) RePaViT: Scalable Vision Transformer Acceleration via Structural Reparameterization on Feedforward Network Layers, [[Paper]](https://arxiv.org/pdf/2505.21847),[[Code]](https://github.com/Ackesnal/RePaViT)
