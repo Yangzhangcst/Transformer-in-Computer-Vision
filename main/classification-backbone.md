@@ -645,3 +645,8 @@
 - (arXiv 2025.05) End-to-End Vision Tokenizer Tuning, [[Paper]](https://arxiv.org/pdf/2505.10562)
 - (arXiv 2025.05) Image Recognition with Online Lightweight Vision Transformer: A Survey, [[Paper]](https://arxiv.org/pdf/2505.03113)
 - (arXiv 2025.06) S2AFormer: Strip Self-Attention for Efficient Vision Transformer, [[Paper]](https://arxiv.org/pdf/2505.22195)
+- (arXiv 2025.06) Is Attention Required for Transformer Inference? Explore Function-preserving Attention Replacement, [[Paper]](https://arxiv.org/pdf/2505.21535)
+- (arXiv 2025.06) Enhancing Vision Transformer Explainability Using Artificial Astrocytes, [[Paper]](https://arxiv.org/pdf/2505.21513)
+- (arXiv 2025.06) Frequency-Adaptive Discrete Cosine-ViT-ResNet Architecture for Sparse-Data Vision, [[Paper]](https://arxiv.org/pdf/2505.22701)
+- (arXiv 2025.06) DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2505.23694)
+- (arXiv 2025.06) Taming Transformer Without Using Learning Rate Warmup, [[Paper]](https://arxiv.org/pdf/2505.21910)
