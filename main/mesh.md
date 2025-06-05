@@ -26,3 +26,4 @@
 - (arXiv 2024.12) MeshArt: Generating Articulated Meshes with Structure-guided Transformers, [[Paper]](https://arxiv.org/pdf/2412.11596.pdf), [[Code]](https://daoyig.github.io/Mesh_Art/)
 - (arXiv 2025.03) Fish2Mesh Transformer: 3D Human Mesh Recovery from Egocentric Vision, [[Paper]](https://arxiv.org/pdf/2503.06089.pdf), [[Project]](https://fish2mesh.github.io/)
 - (arXiv 2025.03) MeshCraft: Exploring Efficient and Controllable Mesh Generation with Flow-based DiTs, [[Paper]](https://arxiv.org/pdf/2503.23022.pdf)
+- (arXiv 2025.06) RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination, [[Paper]](https://arxiv.org/pdf/2505.21925.pdf), [[Project]](https://microsoft.github.io/renderformer/)
