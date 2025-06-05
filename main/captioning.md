@@ -47,3 +47,4 @@
 - (arXiv 2024.12) Automated Image Captioning with CNNs and Transformers, [[Paper]](https://arxiv.org/pdf/2412.10511.pdf), [[Code]](https://github.com/JeremyNathanJusuf/image-captioning)
 - (arXiv 2025.02) Capturing Rich Behavior Representations: A Dynamic Action Semantic-Aware Graph Transformer for Video Captioning, [[Paper]](https://arxiv.org/pdf/2502.13754.pdf)
 - (arXiv 2025.03) SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2503.16825.pdf), [[Code]](https://github.com/gxytcrc/SGFormer)
+- (arXiv 2025.06) Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI, [[Paper]](https://arxiv.org/pdf/2506.03607)
