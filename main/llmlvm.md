@@ -55,3 +55,4 @@
 - (arXiv 2025.03) HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models, [[Paper]](https://arxiv.org/pdf/2503.11513.pdf)
 - (arXiv 2025.03) Similarity-Aware Token Pruning: Your VLM but Faster, [[Paper]](https://arxiv.org/pdf/2503.11549.pdf)
 - (arXiv 2025.03) MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling, [[Paper]](https://arxiv.org/pdf/2503.13440.pdf),[[Code]](https://github.com/hustvl/MaTVLM)
+- (arXiv 2025.06) ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads, [[Paper]](https://arxiv.org/pdf/2506.03433.pdf),[[Code]](https://jackyfl.github.io/vitsplit.github.io/)
