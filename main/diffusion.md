@@ -182,3 +182,4 @@
 - (arXiv 2025.06) DiffDecompose: Layer-Wise Decomposition of Alpha-Composited Images via Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2505.21541),[[Code]](https://github.com/Wangzt1121/DiffDecompose)
 - (arXiv 2025.06) Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas,  [[Paper]](https://arxiv.org/pdf/2506.03275)
 - (arXiv 2025.06) Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2506.03065),[[Code]](https://github.com/Peyton-Chen/Sparse-vDiT)
+- (arXiv 2025.06) Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2506.05096),[[Code]](https://astraea-project.github.io/ASTRAEA/)
