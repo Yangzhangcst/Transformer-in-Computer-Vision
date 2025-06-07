@@ -180,3 +180,5 @@
 - (arXiv 2025.05) FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation,  [[Paper]](https://arxiv.org/pdf/2505.20353),[[Code]](https://github.com/NoakLiu/FastCache-xDiT)
 - (arXiv 2025.06) HiDream-I1: A High-Efficient Image Generative Foundation Model with Sparse Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2505.22705),[[Code]](https://github.com/HiDream-ai/HiDream-I1)
 - (arXiv 2025.06) DiffDecompose: Layer-Wise Decomposition of Alpha-Composited Images via Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2505.21541),[[Code]](https://github.com/Wangzt1121/DiffDecompose)
+- (arXiv 2025.06) Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas,  [[Paper]](https://arxiv.org/pdf/2506.03275)
+- (arXiv 2025.06) Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2506.03065),[[Code]](https://github.com/Peyton-Chen/Sparse-vDiT)
