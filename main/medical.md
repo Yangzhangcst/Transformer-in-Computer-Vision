@@ -752,3 +752,4 @@
 - (arXiv 2025.05) MIPHEI-ViT: Multiplex Immunofluorescence Prediction from H&E Images using ViT Foundation Models, [[Paper]](https://arxiv.org/abs/2505.10294)
 - (arXiv 2025.06) Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2, [[Paper]](https://arxiv.org/abs/2505.21715)
 - (arXiv 2025.06) FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation, [[Paper]](https://arxiv.org/abs/2506.04956v1),[[Code]](https://github.com/Yaziwel/FEAT)
+- (arXiv 2025.06) Stable Vision Concept Transformers for Medical Diagnosis, [[Paper]](https://arxiv.org/abs/2506.05286)
