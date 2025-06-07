@@ -183,3 +183,4 @@
 - (arXiv 2025.06) Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas,  [[Paper]](https://arxiv.org/pdf/2506.03275)
 - (arXiv 2025.06) Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2506.03065),[[Code]](https://github.com/Peyton-Chen/Sparse-vDiT)
 - (arXiv 2025.06) Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2506.05096),[[Code]](https://astraea-project.github.io/ASTRAEA/)
+- (arXiv 2025.06) FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2506.04213),[[Code]](https://fulldit2.github.io/)
