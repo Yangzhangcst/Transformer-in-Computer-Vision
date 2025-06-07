@@ -89,3 +89,4 @@
 - (arXiv 2025.03) A Lightweight Image Super-Resolution Transformer Trained on Low-Resolution Images Only, [[Paper]](https://arxiv.org/pdf/2503.23265.pdf),[[Code]](https://github.com/ifnspaml/SuperResolutionMultiscaleTraining)
 - (arXiv 2025.05) EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution, [[Paper]](https://arxiv.org/pdf/2505.05209.pdf)
 - (arXiv 2025.06) SAAT: Synergistic Alternating Aggregation Transformer for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2506.03740.pdf)
+- (arXiv 2025.06) DualX-VSR: Dual Axial SpatialTemporal Transformer for Real-World Video Super-Resolution without Motion Compensation, [[Paper]](https://arxiv.org/pdf/2506.04830.pdf)
