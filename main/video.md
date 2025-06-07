@@ -203,3 +203,4 @@
 - (arXiv 2025.04) Towards Explainable AI: Multi-Modal Transformer for Video-based Image Description Generation,  [[Paper]](https://arxiv.org/pdf/2504.16788)
 - (arXiv 2025.04) Learning Streaming Video Representation via Multitask Training,  [[Paper]](https://arxiv.org/pdf/2504.20041), [[Code]](https://go2heart.github.io/streamformer/)
 - (arXiv 2025.06) HaploOmni: Unified Single Transformer for Multimodal Video Understanding and Generation,  [[Paper]](https://arxiv.org/pdf/2506.02975), [[Code]](https://github.com/Tencent/HaploVLM)
+- (arXiv 2025.06) Fine-Tuning Video Transformers for Word-Level Bangla Sign Language: A Comparative Analysis for Classification Tasks,  [[Paper]](https://arxiv.org/pdf/2506.04367)
