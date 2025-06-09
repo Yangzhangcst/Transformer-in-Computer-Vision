@@ -653,3 +653,4 @@
 - (arXiv 2025.06) RePaViT: Scalable Vision Transformer Acceleration via Structural Reparameterization on Feedforward Network Layers, [[Paper]](https://arxiv.org/pdf/2505.21847),[[Code]](https://github.com/Ackesnal/RePaViT)
 - (arXiv 2025.06) Speed-up of Vision Transformer Models by Attention-aware Token Filtering, [[Paper]](https://arxiv.org/pdf/2506.01519)
 - (arXiv 2025.06) ViTNF: Leveraging Neural Fields to Boost Vision Transformers in Generalized Category Discovery, [[Paper]](https://arxiv.org/pdf/2506.02367)
+- (arXiv 2025.06) PerFormer: A Permutation Based Vision Transformer for Remaining Useful Life Prediction, [[Paper]](https://arxiv.org/pdf/2506.00259)
