@@ -283,3 +283,4 @@
 - (arXiv 2025.04) RadioFormer: A Multiple-Granularity Radio Map Estimation Transformer with 1\textpertenthousand Spatial Sampling, [[Paper]](https://arxiv.org/pdf/2504.19161.pdf)
 - (arXiv 2025.05) PrimitiveAnything: Human-Crafted 3D Primitive Assembly Generation with Auto-Regressive Transformer, [[Paper]](https://arxiv.org/pdf/2505.04622.pdf)
 - (arXiv 2025.06) Feature-Based Lie Group Transformer for Real-World Applications, [[Paper]](https://arxiv.org/pdf/2506.04668.pdf)
+- (arXiv 2025.06) Applying Vision Transformers on Spectral Analysis of Astronomical Objects, [[Paper]](https://arxiv.org/pdf/2506.00294.pdf)
