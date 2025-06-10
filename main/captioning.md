@@ -48,3 +48,4 @@
 - (arXiv 2025.02) Capturing Rich Behavior Representations: A Dynamic Action Semantic-Aware Graph Transformer for Video Captioning, [[Paper]](https://arxiv.org/pdf/2502.13754.pdf)
 - (arXiv 2025.03) SGFormer: Satellite-Ground Fusion for 3D Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2503.16825.pdf), [[Code]](https://github.com/gxytcrc/SGFormer)
 - (arXiv 2025.06) Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI, [[Paper]](https://arxiv.org/pdf/2506.03607)
+- (arXiv 2025.06) Attention-based transformer models for image captioning across languages: An in-depth survey and evaluation, [[Paper]](https://arxiv.org/pdf/2506.05399)
