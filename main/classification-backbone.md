@@ -654,3 +654,4 @@
 - (arXiv 2025.06) Speed-up of Vision Transformer Models by Attention-aware Token Filtering, [[Paper]](https://arxiv.org/pdf/2506.01519)
 - (arXiv 2025.06) ViTNF: Leveraging Neural Fields to Boost Vision Transformers in Generalized Category Discovery, [[Paper]](https://arxiv.org/pdf/2506.02367)
 - (arXiv 2025.06) PerFormer: A Permutation Based Vision Transformer for Remaining Useful Life Prediction, [[Paper]](https://arxiv.org/pdf/2506.00259)
+- (arXiv 2025.06) Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration, [[Paper]](https://arxiv.org/pdf/2506.05709)
