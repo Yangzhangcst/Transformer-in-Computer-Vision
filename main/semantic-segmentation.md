@@ -168,3 +168,4 @@
 - (arXiv 2025.03) Exploring the Integration of Key-Value Attention Into Pure and Hybrid Transformers for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2503.18862.pdf)
 - (arXiv 2025.03) Your ViT is Secretly an Image Segmentation Model, [[Paper]](https://arxiv.org/pdf/2503.19108.pdf),[[Code]](https://github.com/tue-mps/eomt)
 - (arXiv 2025.06) BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2506.03675.pdf)
+- (arXiv 2025.06) CarboNeXT and CarboFormer: Dual Semantic Segmentation Architectures for Detecting and Quantifying Carbon Dioxide Emissions Using Optical Gas Imaging, [[Paper]](https://arxiv.org/pdf/2506.05360.pdf)
