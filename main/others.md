@@ -285,3 +285,4 @@
 - (arXiv 2025.06) Feature-Based Lie Group Transformer for Real-World Applications, [[Paper]](https://arxiv.org/pdf/2506.04668.pdf)
 - (arXiv 2025.06) Applying Vision Transformers on Spectral Analysis of Astronomical Objects, [[Paper]](https://arxiv.org/pdf/2506.00294.pdf)
 - (arXiv 2025.06) F2T2-HiT: A U-Shaped FFT Transformer and Hierarchical Transformer for Reflection Removal, [[Paper]](https://arxiv.org/pdf/2506.05489.pdf)
+- (arXiv 2025.06) LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer, [[Paper]](https://arxiv.org/pdf/2506.06952.pdf), [[Code]](https://github.com/yingShen-ys/LaTtE-Flow)
