@@ -79,3 +79,5 @@
 - (arXiv 2025.03) Efficient and Accurate Scene Text Recognition with Cascaded-Transformers, [[Paper]](https://arxiv.org/pdf/2503.18883.pdf)
 - (arXiv 2025.03) Masked Self-Supervised Pre-Training for Text Recognition Transformers on Large-Scale Datasets, [[Paper]](https://arxiv.org/pdf/2503.22513.pdf)
 - (arXiv 2025.04) QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free Visual Document Understanding, [[Paper]](https://arxiv.org/pdf/2504.02971.pdf)
+- (arXiv 2025.06) TABLET: Table Structure Recognition using Encoder-only Transformers, [[Paper]](https://arxiv.org/pdf/2506.07015.pdf)
+- (arXiv 2025.06) Dual-view Spatio-Temporal Feature Fusion with CNN-Transformer Hybrid Network for Chinese Isolated Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2506.06966.pdf)
