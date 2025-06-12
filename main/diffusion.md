@@ -187,3 +187,4 @@
 - (arXiv 2025.06) Playing with Transformer at 30+ FPS via Next-Frame Diffusion,  [[Paper]](https://arxiv.org/pdf/2506.01380)
 - (arXiv 2025.06) SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2506.00830)
 - (arXiv 2025.06) EasyText: Controllable Diffusion Transformer for Multilingual Text Rendering,  [[Paper]](https://arxiv.org/pdf/2505.24417),[[Code]](https://github.com/songyiren725/EasyText)
+- (arXiv 2025.06) MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation,  [[Paper]](https://arxiv.org/pdf/2506.07999)
