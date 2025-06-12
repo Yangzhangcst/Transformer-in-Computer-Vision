@@ -188,3 +188,5 @@
 - (arXiv 2025.06) SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2506.00830)
 - (arXiv 2025.06) EasyText: Controllable Diffusion Transformer for Multilingual Text Rendering,  [[Paper]](https://arxiv.org/pdf/2505.24417),[[Code]](https://github.com/songyiren725/EasyText)
 - (arXiv 2025.06) MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation,  [[Paper]](https://arxiv.org/pdf/2506.07999)
+- (arXiv 2025.06) Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2506.07986),[[Code]](https://github.com/Vchitect/TACA)
+- (arXiv 2025.06) Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces,  [[Paper]](https://arxiv.org/pdf/2506.07903)
