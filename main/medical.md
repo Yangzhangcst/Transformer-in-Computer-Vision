@@ -754,3 +754,4 @@
 - (arXiv 2025.06) FEAT: Full-Dimensional Efficient Attention Transformer for Medical Video Generation, [[Paper]](https://arxiv.org/abs/2506.04956v1),[[Code]](https://github.com/Yaziwel/FEAT)
 - (arXiv 2025.06) Stable Vision Concept Transformers for Medical Diagnosis, [[Paper]](https://arxiv.org/abs/2506.05286)
 - (arXiv 2025.06) SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition, [[Paper]](https://arxiv.org/abs/2506.01471),[[Code]](https://github.com/IntraSurge/SemiVT-Surge)
+- (arXiv 2025.06) Exploring Adversarial Watermarking in Transformer-Based Models: Transferability and Robustness Against Defense Mechanism for Medical Images, [[Paper]](https://arxiv.org/abs/2506.06389),[[Code]](https://github.com/IntraSurge/SemiVT-Surge)
