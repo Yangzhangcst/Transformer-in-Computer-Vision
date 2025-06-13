@@ -289,3 +289,4 @@
 - (arXiv 2025.06) Vision Transformers Don't Need Trained Registers, [[Paper]](https://arxiv.org/pdf/2506.08010.pdf), [[Code]](https://github.com/nickjiang2378/test-time-registers/tree/main)
 - (arXiv 2025.06) Revisiting Transformers with Insights from Image Filtering, [[Paper]](https://arxiv.org/pdf/2506.10371.pdf)
 - (arXiv 2025.06) DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba, [[Paper]](https://arxiv.org/pdf/2506.10390.pdf), [[Code]](https://github.com/HCPLab-SYSU/DART)
+- (arXiv 2025.06) ALBERT: Advanced Localization and Bidirectional Encoder Representations from Transformers for Automotive Damage Evaluation, [[Paper]](https://arxiv.org/pdf/2506.10524.pdf), [[Code]](https://kaopanboonyuen.github.io/MARS/)
