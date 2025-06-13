@@ -287,3 +287,4 @@
 - (arXiv 2025.06) F2T2-HiT: A U-Shaped FFT Transformer and Hierarchical Transformer for Reflection Removal, [[Paper]](https://arxiv.org/pdf/2506.05489.pdf)
 - (arXiv 2025.06) LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer, [[Paper]](https://arxiv.org/pdf/2506.06952.pdf), [[Code]](https://github.com/yingShen-ys/LaTtE-Flow)
 - (arXiv 2025.06) Vision Transformers Don't Need Trained Registers, [[Paper]](https://arxiv.org/pdf/2506.08010.pdf), [[Code]](https://github.com/nickjiang2378/test-time-registers/tree/main)
+- (arXiv 2025.06) Revisiting Transformers with Insights from Image Filtering, [[Paper]](https://arxiv.org/pdf/2506.10371.pdf)
