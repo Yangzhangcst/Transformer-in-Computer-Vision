@@ -118,3 +118,4 @@
 - (arXiv 2025.05) TACFN: Transformer-based Adaptive Cross-modal Fusion Network for Multimodal Emotion Recognition,  [[Paper]](https://arxiv.org/pdf/2505.06536.pdf),[[Code]](https://github.com/shuzihuaiyu/TACFN)
 - (arXiv 2025.06) Leveraging Intermediate Features of Vision Transformer for Face Anti-Spoofing,  [[Paper]](https://arxiv.org/pdf/2505.24402.pdf)
 - (arXiv 2025.06) Can Vision Transformers with ResNet's Global Features Fairly Authenticate Demographic Faces,  [[Paper]](https://arxiv.org/pdf/2506.05383.pdf),[[Code]](https://github.com/Sufianlab/FairVitBio)
+- (arXiv 2025.06) FaceLiVT: Face Recognition using Linear Vision Transformer with Structural Reparameterization For Mobile Device,  [[Paper]](https://arxiv.org/pdf/2506.10361.pdf)
