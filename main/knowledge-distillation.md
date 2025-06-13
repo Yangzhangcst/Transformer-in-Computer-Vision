@@ -33,3 +33,4 @@
 - (arXiv 2025.03) Distilling Knowledge into Quantum Vision Transformers for Biomedical Image Classification, [[Paper]](https://arxiv.org/pdf/2503.07294.pdf), [[Code]](https://github.com/surgical-vision/QViT-KD)
 - (arXiv 2025.03) ViT-Linearizer: Distilling Quadratic Knowledge into Linear-Time Vision Models, [[Paper]](https://arxiv.org/pdf/2504.00037.pdf)
 - (arXiv 2025.06) Distill CLIP (DCLIP): Enhancing Image-Text Retrieval via Cross-Modal Transformer Distillation, [[Paper]](https://arxiv.org/pdf/2505.21549.pdf)
+- (arXiv 2025.06) Rethinking Random Masking in Self Distillation on ViT, [[Paper]](https://arxiv.org/pdf/2506.10582.pdf)
