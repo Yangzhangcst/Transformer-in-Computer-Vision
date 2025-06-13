@@ -288,3 +288,4 @@
 - (arXiv 2025.06) LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer, [[Paper]](https://arxiv.org/pdf/2506.06952.pdf), [[Code]](https://github.com/yingShen-ys/LaTtE-Flow)
 - (arXiv 2025.06) Vision Transformers Don't Need Trained Registers, [[Paper]](https://arxiv.org/pdf/2506.08010.pdf), [[Code]](https://github.com/nickjiang2378/test-time-registers/tree/main)
 - (arXiv 2025.06) Revisiting Transformers with Insights from Image Filtering, [[Paper]](https://arxiv.org/pdf/2506.10371.pdf)
+- (arXiv 2025.06) DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba, [[Paper]](https://arxiv.org/pdf/2506.10390.pdf), [[Code]](https://github.com/HCPLab-SYSU/DART)
