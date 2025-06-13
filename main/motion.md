@@ -49,3 +49,4 @@
 - (arXiv 2025.01) Learning Priors of Human Motion With Vision Transformers, [[Paper]](https://arxiv.org/pdf/2501.18543)
 - (arXiv 2025.03) Motion Anything: Any to Motion Generation, [[Paper]](https://arxiv.org/pdf/2503.06955)
 - (arXiv 2025.06) HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions, [[Paper]](https://arxiv.org/pdf/2505.22977), [[Code]](https://github.com/vivoCameraResearch/Hyper-Motion/)
+- (arXiv 2025.06) Transformer IMU Calibrator: Dynamic On-body IMU Calibration for Inertial Motion Capture, [[Paper]](https://arxiv.org/pdf/2506.10580), [[Code]](https://github.com/ZuoCX1996/TIC)
