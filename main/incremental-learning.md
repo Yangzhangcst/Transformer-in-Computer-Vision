@@ -29,3 +29,4 @@
 - (arXiv 2024.08) Dynamic Object Queries for Transformer-based Incremental Object Detection, [[Paper]](https://arxiv.org/pdf/2407.21687.pdf)
 - (arXiv 2025.03) Few-Shot Class-Incremental Model Attribution Using Learnable Representation From CLIP-ViT Features, [[Paper]](https://arxiv.org/pdf/2503.08148.pdf)
 - (arXiv 2025.06) DPFormer: Dynamic Prompt Transformer for Continual Learning, [[Paper]](https://arxiv.org/pdf/2506.07414.pdf)
+- (arXiv 2025.06) Hierarchical Neural Collapse Detection Transformer for Class Incremental Object Detection, [[Paper]](https://arxiv.org/pdf/2506.08562.pdf)
