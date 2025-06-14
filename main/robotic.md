@@ -20,3 +20,4 @@
 - (arXiv 2025.02) VertiFormer: A Data-Efficient Multi-Task Transformer for Off-Road Robot Mobility, [[Paper]](https://arxiv.org/pdf/2502.00543.pdf), [[Code]](https://github.com/mhnazeri/VertiFormer)
 - (arXiv 2025.03) ViT-VS: On the Applicability of Pretrained Vision Transformer Features for Generalizable Visual Servoing, [[Paper]](https://arxiv.org/pdf/2503.04545.pdf), [[Code]](https://github.com/AlessandroScherl/ViT-VS)
 - (arXiv 2025.03) High-Precision Transformer-Based Visual Servoing for Humanoid Robots in Aligning Tiny Objects, [[Paper]](https://arxiv.org/pdf/2503.04862)
+- (arXiv 2025.06) WD-DETR: Wavelet Denoising-Enhanced Real-Time Object Detection Transformer for Robot Perception with Event Cameras, [[Paper]](https://arxiv.org/pdf/2506.09098)
