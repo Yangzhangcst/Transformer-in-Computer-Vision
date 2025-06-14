@@ -27,3 +27,4 @@
 - (arXiv 2024.10) RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2410.01737.pdf), [[Code]](https://anonymous.4open.science/r/RADAR-54F2/README.md)
 - (arXiv 2025.03) Transformer Based Self-Context Aware Prediction for Few-Shot Anomaly Detection in Videos, [[Paper]](https://arxiv.org/pdf/2503.00670.pdf)
 - (arXiv 2025.06) IQE-CLIP: Instance-aware Query Embedding for Zero/Few-shot Anomaly Detection in Medical Domain, [[Paper]](https://arxiv.org/pdf/2506.10730.pdf), [[Code]](https://github.com/hongh0/IQE-CLIP/)
+- (arXiv 2025.06) PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies, [[Paper]](https://arxiv.org/pdf/2506.09237.pdf), [[Code]](https://github.com/rohban-lab/PatchGuard)
