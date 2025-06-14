@@ -1,4 +1,6 @@
 ## Survey: 
+- (arXiv 2025.06) Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems. [[Paper]](https://arxiv.org/pdf/2506.08596.pdf)
+
 - (arXiv 2025.04) Vision Transformers in Precision Agriculture: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2504.21706.pdf)
 
 - (arXiv 2025.03) Vision Transformers on the Edge: A Comprehensive Survey of Model Compression and Acceleration Strategies. [[Paper]](https://arxiv.org/pdf/2503.02891.pdf)
