@@ -32,3 +32,4 @@
 - (arXiv 2024.12) Dual-Branch Graph Transformer Network for 3D Human Mesh Reconstruction from Video, [[Paper]](https://arxiv.org/pdf/2412.01179.pdf), [[Code]](https://github.com/TangTao-PKU/DGTR)
 - (arXiv 2025.04) HGFormer: Topology-Aware Vision Transformer with HyperGraph Learning, [[Paper]](https://arxiv.org/pdf/2504.02440)
 - (arXiv 2025.04) Hypergraph Vision Transformers: Images are More than Nodes, More than Edges, [[Paper]](https://arxiv.org/pdf/2504.08710)
+- (arXiv 2025.06) GraphGSOcc: Semantic and Geometric Graph Transformer for 3D Gaussian Splating-based Occupancy Prediction, [[Paper]](https://arxiv.org/pdf/2506.14825)
