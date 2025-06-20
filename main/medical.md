@@ -759,3 +759,4 @@
 - (arXiv 2025.06) Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention, [[Paper]](https://arxiv.org/pdf/2506.15562)
 - (arXiv 2025.06) NeuroMoE: A Transformer-Based Mixture-of-Experts Framework for Multi-Modal Neurological Disorder Classification, [[Paper]](https://arxiv.org/pdf/2506.14970)
 - (arXiv 2025.06) Improving Prostate Gland Segmenting Using Transformer based Architectures, [[Paper]](https://arxiv.org/pdf/2506.14844)
+- (arXiv 2025.06) ViT-NeBLa: A Hybrid Vision Transformer and Neural Beer-Lambert Framework for Single-View 3D Reconstruction of Oral Anatomy from Panoramic Radiographs, [[Paper]](https://arxiv.org/pdf/2506.13195)
