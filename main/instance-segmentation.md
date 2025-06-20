@@ -44,3 +44,4 @@
 - (arXiv 2024.11) CompetitorFormer: Competitor Transformer for 3D Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2411.14179)
 - (arXiv 2025.01) ContourFormer:Real-Time Contour-Based End-to-End Instance Segmentation Transformer, [[Paper]](https://arxiv.org/pdf/2501.17688),[[Code]](https://github.com/talebolano/Contourformer)
 - (arXiv 2025.02) Beyond the Final Layer: Hierarchical Query Fusion Transformer with Agent-Interpolation Initialization for 3D Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2502.04139)
+- (arXiv 2025.06) O2Former:Direction-Aware and Multi-Scale Query Enhancement for SAR Ship Instance Segmentation, [[Paper]](https://arxiv.org/pdf/2506.11913)
