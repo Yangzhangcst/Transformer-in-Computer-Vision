@@ -23,3 +23,4 @@
 - (arXiv 2024.01) A Two-stream Hybrid CNN-Transformer Network for Skeleton-based Human Interaction Recognition, [[Paper]](https://arxiv.org/pdf/2401.00409.pdf), [[Code]](https://github.com/six6607/AGER.git)
 - (arXiv 2024.05) Bidirectional Progressive Transformer for Interaction Intention Anticipation, [[Paper]](https://arxiv.org/pdf/2405.05552.pdf)
 - (arXiv 2025.03) End-to-End HOI Reconstruction Transformer with Graph-based Encoding, [[Paper]](https://arxiv.org/pdf/2503.06012.pdf), [[Code]](https://github.com/ZhenrongWang/hoitg)
+- (arXiv 2025.06) iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2506.12847.pdf)
