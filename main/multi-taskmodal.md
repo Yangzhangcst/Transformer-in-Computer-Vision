@@ -239,3 +239,4 @@
 - (arXiv 2025.03) LIAM: Multimodal Transformer for Language Instructions, Images, Actions and Semantic Maps, [[Paper]](https://arxiv.org/pdf/2503.12230), [[Code]](https://github.com/AIS-Bonn/LIAM)
 - (arXiv 2025.04) Audio and Multiscale Visual Cues Driven Cross-modal Transformer for Idling Vehicle Detection, [[Paper]](https://arxiv.org/pdf/2504.16102)
 - (arXiv 2025.05) OpenVision : A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning, [[Paper]](https://arxiv.org/pdf/2505.04601), [[Code]](https://github.com/UCSC-VLAA/OpenVision)
+- (arXiv 2025.06) MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution, [[Paper]](https://arxiv.org/pdf/2506.14511), [[Code]](https://github.com/CYF-cuber/MOL)
