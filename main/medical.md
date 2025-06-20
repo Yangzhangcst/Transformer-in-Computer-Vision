@@ -756,3 +756,4 @@
 - (arXiv 2025.06) SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition, [[Paper]](https://arxiv.org/abs/2506.01471),[[Code]](https://github.com/IntraSurge/SemiVT-Surge)
 - (arXiv 2025.06) Exploring Adversarial Watermarking in Transformer-Based Models: Transferability and Robustness Against Defense Mechanism for Medical Images, [[Paper]](https://arxiv.org/abs/2506.06389),[[Code]](https://github.com/IntraSurge/SemiVT-Surge)
 - (arXiv 2025.06) PiPViT: Patch-based Visual Interpretable Prototypes for Retinal Image Analysis, [[Paper]](https://arxiv.org/abs/2506.10669),[[Code]](https://github.com/marziehoghbaie/PiPViT)
+- (arXiv 2025.06) Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention, [[Paper]](https://arxiv.org/pdf/2506.15562)
