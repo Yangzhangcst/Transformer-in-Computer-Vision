@@ -80,4 +80,5 @@
 - (arXiv 2025.06) Q-VDiT: Towards Accurate Quantization and Distillation of Video-Generation Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2505.22167), [[Code]](https://github.com/cantbebetter2/Q-VDiT)
 - (arXiv 2025.06) GPLQ: A General, Practical, and Lightning QAT Method for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2506.11784)
 - (arXiv 2025.06) FIMA-Q: Post-Training Quantization for Vision Transformers by Fisher Information Matrix Approximation, [[Paper]](https://arxiv.org/pdf/2506.11543), [[Code]](https://github.com/ShiheWang/FIMA-Q)
+- (arXiv 2025.06) EfficientQuant: An Efficient Post-Training Quantization for CNN-Transformer Hybrid Models on Edge Devices, [[Paper]](https://arxiv.org/pdf/2506.11543)
 
