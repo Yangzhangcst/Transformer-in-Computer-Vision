@@ -11,3 +11,4 @@
 - (arXiv 2024.11) ConvMixFormer- A Resource-efficient Convolution Mixer for Transformer-based Dynamic Hand Gesture Recognition, [[Paper]](https://arxiv.org/pdf/2411.07118.pdf), [[Code]](https://github.com/mallikagarg/ConvMixFormer)
 - (arXiv 2025.01) Multiscaled Multi-Head Attention-based Video Transformer Network for Hand Gesture Recognition, [[Paper]](https://arxiv.org/pdf/2501.00935.pdf)
 - (arXiv 2025.03) Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Multi-Culture Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2503.16855.pdf)
+- (arXiv 2025.06) WaveFormer: A Lightweight Transformer Model for sEMG-based Gesture Recognition, [[Paper]](https://arxiv.org/pdf/2506.11168.pdf)
