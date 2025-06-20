@@ -290,3 +290,4 @@
 - (arXiv 2025.06) Revisiting Transformers with Insights from Image Filtering, [[Paper]](https://arxiv.org/pdf/2506.10371.pdf)
 - (arXiv 2025.06) DART: Differentiable Dynamic Adaptive Region Tokenizer for Vision Transformer and Mamba, [[Paper]](https://arxiv.org/pdf/2506.10390.pdf), [[Code]](https://github.com/HCPLab-SYSU/DART)
 - (arXiv 2025.06) ALBERT: Advanced Localization and Bidirectional Encoder Representations from Transformers for Automotive Damage Evaluation, [[Paper]](https://arxiv.org/pdf/2506.10524.pdf), [[Code]](https://kaopanboonyuen.github.io/MARS/)
+- (arXiv 2025.06) Vision Transformers for End-to-End Quark-Gluon Jet Classification from Calorimeter Images, [[Paper]](https://arxiv.org/pdf/2506.14934.pdf), [[Code]](https://github.com/Abrar2652/particle_reconstruction/)
