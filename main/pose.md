@@ -131,3 +131,4 @@
 - (arXiv 2025.04) Shopformer: Transformer-Based Framework for Detecting Shoplifting via Human Pose, [[Paper]](https://arxiv.org/pdf/2504.19970.pdf), [[Code]](https://github.com/TeCSAR-UNCC/Shopformer)
 - (arXiv 2025.05) 3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer, [[Paper]](https://arxiv.org/pdf/2505.01003.pdf), [[Code]](https://github.com/adjkamel/GOA_BAT)
 - (arXiv 2025.05) APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression, [[Paper]](https://arxiv.org/pdf/2505.09356.pdf), [[Code]](https://github.com/GT-ARC/APR-Transformer)
+- (arXiv 2025.05) DETRPose: Real-time end-to-end transformer model for multi-person pose estimation, [[Paper]](https://arxiv.org/pdf/2506.13027.pdf), [[Code]](https://github.com/SebastianJanampa/DETRPose)
