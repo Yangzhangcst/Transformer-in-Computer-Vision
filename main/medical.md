@@ -757,3 +757,5 @@
 - (arXiv 2025.06) Exploring Adversarial Watermarking in Transformer-Based Models: Transferability and Robustness Against Defense Mechanism for Medical Images, [[Paper]](https://arxiv.org/abs/2506.06389),[[Code]](https://github.com/IntraSurge/SemiVT-Surge)
 - (arXiv 2025.06) PiPViT: Patch-based Visual Interpretable Prototypes for Retinal Image Analysis, [[Paper]](https://arxiv.org/abs/2506.10669),[[Code]](https://github.com/marziehoghbaie/PiPViT)
 - (arXiv 2025.06) Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention, [[Paper]](https://arxiv.org/pdf/2506.15562)
+- (arXiv 2025.06) NeuroMoE: A Transformer-Based Mixture-of-Experts Framework for Multi-Modal Neurological Disorder Classification, [[Paper]](https://arxiv.org/pdf/2506.14970)
+- (arXiv 2025.06) Improving Prostate Gland Segmenting Using Transformer based Architectures, [[Paper]](https://arxiv.org/pdf/2506.14844)
