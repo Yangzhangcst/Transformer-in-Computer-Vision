@@ -152,3 +152,4 @@
 - (arXiv 2025.04) WiFi based Human Fall and Activity Recognition using Transformer based Encoder Decoder and Graph Neural Networks,  [[Paper]](https://arxiv.org/pdf/2504.16655) 
 - (arXiv 2025.05) DiGIT: Multi-Dilated Gated Encoder and Central-Adjacent Region Integrated Decoder for Temporal Action Detection Transformer,  [[Paper]](https://arxiv.org/pdf/2505.05711),[[Code]](https://github.com/Dotori-HJ/DiGIT) 
 - (arXiv 2025.06) HRTR: A Single-stage Transformer for Fine-grained Sub-second Action Segmentation in Stroke Rehabilitation,  [[Paper]](https://arxiv.org/pdf/2506.02472)
+- (arXiv 2025.06) Pose Matters: Evaluating Vision Transformers and CNNs for Human Action Recognition on Small COCO Subsets,  [[Paper]](https://arxiv.org/pdf/2506.11678)
