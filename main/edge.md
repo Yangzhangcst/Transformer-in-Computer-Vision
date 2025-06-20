@@ -6,3 +6,4 @@
 - (arXiv 2023.07) CT-Net: Arbitrary-Shaped Text Detection via Contour Transformer, [[Paper]](https://arxiv.org/pdf/2307.13310.pdf)
 - (arXiv 2023.07) EAFormer: Scene Text Segmentation with Edge-Aware Transformers, [[Paper]](https://arxiv.org/pdf/2407.17020.pdf), [[Code]](https://hyangyu.github.io/EAFormer/)
 - (arXiv 2023.08) EdgeNAT: Transformer for Efficient Edge Detection, [[Paper]](https://arxiv.org/pdf/2408.10527.pdf), [[Code]](https://github.com/jhjie/EdgeNAT)
+- (arXiv 2025.06) Boundary-Aware Vision Transformer for Angiography Vascular Network Segmentation, [[Paper]](https://arxiv.org/pdf/2506.12980.pdf)
