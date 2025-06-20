@@ -13,3 +13,4 @@
 - (arXiv 2024.05) PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2405.02811.pdf)
 - (arXiv 2025.03) SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.08092.pdf)
 - (arXiv 2025.03) HeightFormer: Learning Height Prediction in Voxel Features for Roadside Vision Centric 3D Object Detection via Transformer, [[Paper]](https://arxiv.org/pdf/2503.10777.pdf), [[Code]](https://github.com/zhangzhang2024/HeightFormer)
+- (arXiv 2025.03) Voxel-Level Brain States Prediction Using Swin Transformer, [[Paper]](https://arxiv.org/pdf/2506.11455.pdf)
