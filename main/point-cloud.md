@@ -155,3 +155,4 @@
 - (arXiv 2024.12) DAPoinTr: Domain Adaptive Point Transformer for Point Cloud Completion, [[Paper]](https://arxiv.org/pdf/2412.19062.pdf), [[Code]](https://github.com/Yinghui-Li-New/DAPoinTr)
 - (arXiv 2025.04) Uni4D: A Unified Self-Supervised Learning Framework for Point Cloud Videos, [[Paper]](https://arxiv.org/pdf/2504.04837.pdf)
 - (arXiv 2025.06) SPPSFormer: High-quality Superpoint-based Transformer for Roof Plane Instance Segmentation from Point Clouds, [[Paper]](https://arxiv.org/pdf/2505.24475.pdf)
+- (arXiv 2025.06) ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds, [[Paper]](https://arxiv.org/pdf/2506.16991.pdf)
