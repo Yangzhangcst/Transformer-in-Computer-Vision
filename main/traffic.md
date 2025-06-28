@@ -73,3 +73,4 @@
 - (arXiv 2025.03) TransParking: A Dual-Decoder Transformer Framework with Soft Localization for End-to-End Automatic Parking, [[Paper]](https://arxiv.org/pdf/2503.06071)
 - (arXiv 2025.03) DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2503.07656), [[Code]](https://github.com/Thinklab-SJTU/DriveTransformer/)
 - (arXiv 2025.06) HiLO: High-Level Object Fusion for Autonomous Driving using Transformers, [[Paper]](https://arxiv.org/pdf/2506.02554), [[Code]](https://github.com/rst-tu-dortmund/HiLO)
+- (arXiv 2025.06) ParkFormer: A Transformer-Based Parking Policy with Goal Embedding and Pedestrian-Aware Control, [[Paper]](https://arxiv.org/pdf/2506.16856), [[Code]](https://github.com/little-snail-f/ParkFormer)
