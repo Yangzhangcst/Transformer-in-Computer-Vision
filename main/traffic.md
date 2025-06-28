@@ -74,3 +74,4 @@
 - (arXiv 2025.03) DriveTransformer: Unified Transformer for Scalable End-to-End Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2503.07656), [[Code]](https://github.com/Thinklab-SJTU/DriveTransformer/)
 - (arXiv 2025.06) HiLO: High-Level Object Fusion for Autonomous Driving using Transformers, [[Paper]](https://arxiv.org/pdf/2506.02554), [[Code]](https://github.com/rst-tu-dortmund/HiLO)
 - (arXiv 2025.06) ParkFormer: A Transformer-Based Parking Policy with Goal Embedding and Pedestrian-Aware Control, [[Paper]](https://arxiv.org/pdf/2506.16856), [[Code]](https://github.com/little-snail-f/ParkFormer)
+- (arXiv 2025.06) Relaxed syntax modeling in Transformers for future-proof license plate recognition, [[Paper]](https://arxiv.org/pdf/2506.17051)
