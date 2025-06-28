@@ -656,4 +656,5 @@
 - (arXiv 2025.06) PerFormer: A Permutation Based Vision Transformer for Remaining Useful Life Prediction, [[Paper]](https://arxiv.org/pdf/2506.00259)
 - (arXiv 2025.06) Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration, [[Paper]](https://arxiv.org/pdf/2506.05709)
 - (arXiv 2025.06) DuoFormer: Leveraging Hierarchical Representations by Local and Global Attention Vision Transformer, [[Paper]](https://arxiv.org/pdf/2506.12982),[[Code]](https://github.com/xiaoyatang/DuoFormer)
-- (arXiv 2025.06) SeqPE: Transformer with Sequential Position Encoding, [[Paper]](https://arxiv.org/pdf/22506.13277),[[Code]](https://github.com/ghrua/seqpe)
+- (arXiv 2025.06) SeqPE: Transformer with Sequential Position Encoding, [[Paper]](https://arxiv.org/pdf/2506.13277),[[Code]](https://github.com/ghrua/seqpe)
+- (arXiv 2025.06) Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers, [[Paper]](https://arxiv.org/pdf/2506.18791),[[Code]](https://github.com/zser092/Focused-Attention-ViT)
