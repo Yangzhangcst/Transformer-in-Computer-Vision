@@ -36,3 +36,4 @@
 - (arXiv 2025.03) HORT: Monocular Hand-held Objects Reconstruction with Transformers, [[Paper]](https://arxiv.org/pdf/2503.21313.pdf),[[Code]](https://zerchen.github.io/projects/hort.html)
 - (arXiv 2025.05) The Moon's Many Faces: A Single Unified Transformer for Multimodal Lunar Reconstruction, [[Paper]](https://arxiv.org/pdf/2505.05644.pdf)
 - (arXiv 2025.06) HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers, [[Paper]](https://arxiv.org/pdf/2506.03118.pdf),[[Code]](https://zju3dv.github.io/humanram/)
+- (arXiv 2025.06) Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications, [[Paper]](https://arxiv.org/pdf/2506.19591.pdf)
