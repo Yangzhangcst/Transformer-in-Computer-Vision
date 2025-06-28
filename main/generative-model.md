@@ -46,3 +46,4 @@
 - (arXiv 2025.02) Masked Generative Nested Transformers with Decode Time Scaling, [[Paper]](https://arxiv.org/pdf/2502.00382.pdf)
 - (arXiv 2025.03) Halton Scheduler For Masked Generative Image Transformer, [[Paper]](https://arxiv.org/pdf/2503.17076.pdf), [[Code]](https://github.com/valeoai/Halton-MaskGIT)
 - (arXiv 2025.04) Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2504.16761.pdf)
+- (arXiv 2025.06) MTSIC: Multi-stage Transformer-based GAN for Spectral Infrared Image Colorization, [[Paper]](https://arxiv.org/pdf/2506.17540.pdf)
