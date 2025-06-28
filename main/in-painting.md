@@ -19,3 +19,4 @@
 - (arXiv 2024.04) Raformer: Redundancy-Aware Transformer for Video Wire Inpainting, [[Paper]](https://arxiv.org/pdf/2404.15802.pdf), [[Code]](https://github.com/Suyimu/WRV2)
 - (arXiv 2024.07) Transformer-based Image and Video Inpainting: Current Challenges and Future Directions, [[Paper]](https://arxiv.org/pdf/2407.00226.pdf)
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
+- (arXiv 2025.06) Frequency-Domain Fusion Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2506.18437.pdf)
