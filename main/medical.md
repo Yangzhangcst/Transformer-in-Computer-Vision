@@ -762,3 +762,4 @@
 - (arXiv 2025.06) ViT-NeBLa: A Hybrid Vision Transformer and Neural Beer-Lambert Framework for Single-View 3D Reconstruction of Oral Anatomy from Panoramic Radiographs, [[Paper]](https://arxiv.org/pdf/2506.13195)
 - (arXiv 2025.06) Prompt-based Dynamic Token Pruning to Guide Transformer Attention in Efficient Segmentation, [[Paper]](https://arxiv.org/pdf/2506.16369)
 - (arXiv 2025.06) A Dual-Transformer Framework for Sparse-View CBCT Reconstruction, [[Paper]](https://arxiv.org/pdf/2506.17425)
+- (arXiv 2025.06) HMSViT: A Hierarchical Masked Self-Supervised Vision Transformer for Corneal Nerve Segmentation and Diabetic Neuropathy Diagnosis, [[Paper]](https://arxiv.org/pdf/2506.19474)
