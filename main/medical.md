@@ -761,3 +761,4 @@
 - (arXiv 2025.06) Improving Prostate Gland Segmenting Using Transformer based Architectures, [[Paper]](https://arxiv.org/pdf/2506.14844)
 - (arXiv 2025.06) ViT-NeBLa: A Hybrid Vision Transformer and Neural Beer-Lambert Framework for Single-View 3D Reconstruction of Oral Anatomy from Panoramic Radiographs, [[Paper]](https://arxiv.org/pdf/2506.13195)
 - (arXiv 2025.06) Prompt-based Dynamic Token Pruning to Guide Transformer Attention in Efficient Segmentation, [[Paper]](https://arxiv.org/pdf/2506.16369)
+- (arXiv 2025.06) A Dual-Transformer Framework for Sparse-View CBCT Reconstruction, [[Paper]](https://arxiv.org/pdf/2506.17425)
