@@ -763,3 +763,4 @@
 - (arXiv 2025.06) Prompt-based Dynamic Token Pruning to Guide Transformer Attention in Efficient Segmentation, [[Paper]](https://arxiv.org/pdf/2506.16369)
 - (arXiv 2025.06) A Dual-Transformer Framework for Sparse-View CBCT Reconstruction, [[Paper]](https://arxiv.org/pdf/2506.17425)
 - (arXiv 2025.06) HMSViT: A Hierarchical Masked Self-Supervised Vision Transformer for Corneal Nerve Segmentation and Diabetic Neuropathy Diagnosis, [[Paper]](https://arxiv.org/pdf/2506.19474)
+- (arXiv 2025.06) U-R-VEDA: Integrating UNET, Residual Links, Edge and Dual Attention, and Vision Transformer for Accurate Semantic Segmentation of CMRs, [[Paper]](https://arxiv.org/pdf/2506.20689)
