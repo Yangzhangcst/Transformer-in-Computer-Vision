@@ -32,3 +32,4 @@
 - (arXiv 2024.12) PanSR: An Object-Centric Mask Transformer for Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2412.10589.pdf), [[Code]](https://github.com/lojzezust/PanSR)
 - (arXiv 2024.12) Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model, [[Paper]](https://arxiv.org/pdf/2412.18917.pdf), [[Code]](https://github.com/AI-Application-and-Integration-Lab/OMTSeg)
 - (arXiv 2025.04) Prior2Former -- Evidential Modeling of Mask Transformers for Assumption-Free Open-World Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2504.04841.pdf)
+- (arXiv 2025.06) PanSt3R: Multi-view Consistent Panoptic Segmentation, [[Paper]](https://arxiv.org/pdf/2506.21348.pdf)
