@@ -194,3 +194,4 @@
 - (arXiv 2025.06) EraserDiT: Fast Video Inpainting with Diffusion Transformer Model,  [[Paper]](https://arxiv.org/pdf/2506.12853),[[Code]](https://jieliu95.github.io/EraserDiT_demo/)
 - (arXiv 2025.06) Emergent Temporal Correspondences from Video Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2506.17220),[[Code]](https://github.com/cvlab-kaist/DiffTrack)
 - (arXiv 2025.06) Video Virtual Try-on with Conditional Diffusion Transformer Inpainter,  [[Paper]](https://arxiv.org/pdf/2506.21270)
+- (arXiv 2025.06) XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation,  [[Paper]](https://arxiv.org/pdf/2506.21416),[[Code]](https://github.com/bytedance/XVerse)
