@@ -43,3 +43,4 @@
 - (arXiv 2025.04) Hyperspectral Vision Transformers for Greenhouse Gas Estimations from Space, [[Paper]](https://arxiv.org/pdf/2504.16851.pdf)
 - (arXiv 2025.06) A TRPCA-Inspired Deep Unfolding Network for Hyperspectral Image Denoising via Thresholded t-SVD and Top-K Sparse Transformer, [[Paper]](https://arxiv.org/pdf/2506.02364.pdf),[[Code]](https://github.com/liangli97/TRPCA-Deep-Unfolding-HSI-Denoising)
 - (arXiv 2025.06) LoLA-SpecViT: Local Attention SwiGLU Vision Transformer with LoRA for Hyperspectral Imaging, [[Paper]](https://arxiv.org/pdf/2506.17759.pdf),[[Code]](https://github.com/FadiZidiDz/LoLA-SpecViT)
+- (arXiv 2025.06) Physical Degradation Model-Guided Interferometric Hyperspectral Reconstruction with Unfolding Transformer, [[Paper]](https://arxiv.org/pdf/2506.21880.pdf)
