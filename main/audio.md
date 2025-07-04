@@ -15,3 +15,4 @@
 - (arXiv 2024.06) Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity, [[Paper]](https://arxiv.org/pdf/2407.10387.pdf), [[Code]](https://snap-research.github.io/GenAU/）
 - (arXiv 2024.07) Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention, [[Paper]](https://arxiv.org/pdf/2407.18552.pdf)
 - (arXiv 2024.08) AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation, [[Paper]](https://arxiv.org/pdf/2408.01708.pdf)
+- (arXiv 2025.06) Revisiting Audio-Visual Segmentation with Vision-Centric Transformer, [[Paper]](https://arxiv.org/pdf/2506.23623.pdf), [[Code]](https://github.com/spyflying/VCT_AVS）
