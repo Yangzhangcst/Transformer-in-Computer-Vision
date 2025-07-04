@@ -658,3 +658,4 @@
 - (arXiv 2025.06) DuoFormer: Leveraging Hierarchical Representations by Local and Global Attention Vision Transformer, [[Paper]](https://arxiv.org/pdf/2506.12982),[[Code]](https://github.com/xiaoyatang/DuoFormer)
 - (arXiv 2025.06) SeqPE: Transformer with Sequential Position Encoding, [[Paper]](https://arxiv.org/pdf/2506.13277),[[Code]](https://github.com/ghrua/seqpe)
 - (arXiv 2025.06) Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers, [[Paper]](https://arxiv.org/pdf/2506.18791),[[Code]](https://github.com/zser092/Focused-Attention-ViT)
+- (arXiv 2025.06) Low-latency vision transformers via large-scale multi-head attention, [[Paper]](https://arxiv.org/pdf/2506.23832)
