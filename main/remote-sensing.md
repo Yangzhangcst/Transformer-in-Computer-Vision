@@ -70,3 +70,4 @@
 - (arXiv 2025.04) A multi-scale vision transformer-based multimodal GeoAI model for mapping Arctic permafrost thaw, [[Paper]](https://arxiv.org/pdf/2504.17822)
 - (arXiv 2025.06) Lightweight Fitness Transformer: A language-vision model for Remote Monitoring of Physical Training, [[Paper]](https://arxiv.org/pdf/2506.06480)
 - (arXiv 2025.06) Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2506.21866), [[Code]](https://github.com/CSYSI/DPU-Former)
+- (arXiv 2025.06) How Can Multimodal Remote Sensing Datasets Transform Classification via SpatialNet-ViT, [[Paper]](https://arxiv.org/pdf/2506.22501)
