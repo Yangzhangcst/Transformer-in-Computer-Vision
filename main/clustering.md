@@ -4,3 +4,4 @@
 - (arXiv 2023.04) Fairness in Visual Clustering: A Novel Transformer Clustering Approach, [[Paper]](https://arxiv.org/pdf/2304.07408.pdf)
 - (arXiv 2023.06) Dynamic Clustering Transformer Network for Point Cloud Segmentation, [[Paper]](https://arxiv.org/pdf/2306.08073.pdf)
 - (arXiv 2024.07) TCFormer: Visual Recognition via Token Clustering Transformer, [[Paper]](https://arxiv.org/pdf/2407.11321.pdf),[[Code]](https://github.com/zengwang430521/TCFormer)
+- (arXiv 2025.07) FTCFormer: Fuzzy Token Clustering Transformer for Image Classification, [[Paper]](https://arxiv.org/pdf/2507.10283.pdf),[[Code]](https://github.com/BaoBao0926/FTCFormer/tree/main)
