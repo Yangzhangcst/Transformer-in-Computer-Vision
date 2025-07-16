@@ -197,4 +197,4 @@
 - (arXiv 2025.06) XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation,  [[Paper]](https://arxiv.org/pdf/2506.21416),[[Code]](https://github.com/bytedance/XVerse)
 - (arXiv 2025.06) TanDiT: Tangent-Plane Diffusion Transformer for High-Quality 360° Panorama Generation,  [[Paper]](https://arxiv.org/pdf/2506.21681)
 - (arXiv 2025.06) OutDreamer: Video Outpainting with a Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2506.22298)
-
+- (arXiv 2025.07) Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2507.08422)
