@@ -40,3 +40,4 @@
 - (arXiv 2024.06) ReduceFormer: Attention with Tensor Reduction by Summation, [[Paper]](https://arxiv.org/pdf/2406.07488.pdf)
 - (arXiv 2024.08) Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2408.03842.pdf)
 - (arXiv 2024.12) Efficient Semantic Communication Through Transformer-Aided Compression, [[Paper]](https://arxiv.org/pdf/2412.01817.pdf)
+- (arXiv 2025.07) MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression, [[Paper]](https://arxiv.org/pdf/2507.09616.pdf)
