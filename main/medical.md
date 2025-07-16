@@ -766,3 +766,8 @@
 - (arXiv 2025.06) U-R-VEDA: Integrating UNET, Residual Links, Edge and Dual Attention, and Vision Transformer for Accurate Semantic Segmentation of CMRs, [[Paper]](https://arxiv.org/pdf/2506.20689)
 - (arXiv 2025.06) MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2506.23700)
 - (arXiv 2025.06) BrainMT: A Hybrid Mamba-Transformer Architecture for Modeling Long-Range Dependencies in Functional MRI Data, [[Paper]](https://arxiv.org/pdf/2506.22591),[[Code]](https://github.com/arunkumar-kannan/BrainMT-fMRI)
+- (arXiv 2025.07) Brain Stroke Detection and Classification Using CT Imaging with Transformer Models and Explainable AI, [[Paper]](https://arxiv.org/pdf/2507.09630)
+- (arXiv 2025.07) DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology, [[Paper]](https://arxiv.org/pdf/2507.10250)
+- (arXiv 2025.07) Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI, [[Paper]](https://arxiv.org/pdf/2507.09996)
+- (arXiv 2025.07) Patient-specific vs Multi-Patient Vision Transformer for Markerless Tumor Motion Forecasting, [[Paper]](https://arxiv.org/pdf/2507.07811),[[Code]](https://github.com/GauthierRotsart/Tracking_tumor)
+- (arXiv 2025.07) Interpretability-Aware Pruning for Efficient Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2507.08330),[[Code]](https://github.com/AryaXAI/interpretability-aware-pruning-healthcare)
