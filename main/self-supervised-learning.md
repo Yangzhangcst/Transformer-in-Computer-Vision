@@ -61,3 +61,4 @@
 - (arXiv 2024.07) TreeSBA: Tree-Transformer for Self-Supervised Sequential Brick Assembly, [[Paper]](https://arxiv.org/pdf/2407.15648.pdf), [[Code]](https://dreamguo.github.io/projects/TreeSBA/)
 - (arXiv 2024.07) Self-supervised transformer-based pre-training method with General Plant Infection dataset, [[Paper]](https://arxiv.org/pdf/2407.14911.pdf), [[Code]](https://github.com/WASSER2545/GPID-22)
 - (arXiv 2025.06) Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features, [[Paper]](https://arxiv.org/pdf/2506.21046.pdf), [[Code]](https://github.com/spencerwooo/dSVA)
+- (arXiv 2025.07) Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding,  [[Paper]](https://arxiv.org/pdf/2507.09513.pdf)
