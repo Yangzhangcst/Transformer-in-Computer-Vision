@@ -37,3 +37,4 @@
 - (arXiv 2024.08) Siamese Transformer Networks for Few-shot Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01427.pdf)
 - (arXiv 2024.10) KNN Transformer with Pyramid Prompts for Few-Shot Learning, [[Paper]](https://arxiv.org/pdf/2410.10227.pdf)
 - (arXiv 2025.05) CDFormer: Cross-Domain Few-Shot Object Detection Transformer Against Feature Confusion, [[Paper]](https://arxiv.org/pdf/2505.00938.pdf),[[Code]](https://longxuanx.github.io/CDFormer/)
+- (arXiv 2025.07) ViT-ProtoNet for Few-Shot Image Classification: A Multi-Benchmark Evaluation, [[Paper]](https://arxiv.org/pdf/2507.09299.pdf)
