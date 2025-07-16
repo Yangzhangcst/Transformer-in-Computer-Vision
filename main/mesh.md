@@ -27,3 +27,4 @@
 - (arXiv 2025.03) Fish2Mesh Transformer: 3D Human Mesh Recovery from Egocentric Vision, [[Paper]](https://arxiv.org/pdf/2503.06089.pdf), [[Project]](https://fish2mesh.github.io/)
 - (arXiv 2025.03) MeshCraft: Exploring Efficient and Controllable Mesh Generation with Flow-based DiTs, [[Paper]](https://arxiv.org/pdf/2503.23022.pdf)
 - (arXiv 2025.06) RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination, [[Paper]](https://arxiv.org/pdf/2505.21925.pdf), [[Project]](https://microsoft.github.io/renderformer/)
+- (arXiv 2025.07) Video Inference for Human Mesh Recovery with Vision Transformer, [[Paper]](https://arxiv.org/pdf/2507.08981.pdf)
