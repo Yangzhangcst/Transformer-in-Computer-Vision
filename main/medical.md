@@ -771,3 +771,5 @@
 - (arXiv 2025.07) Leveraging Swin Transformer for enhanced diagnosis of Alzheimer's disease using multi-shell diffusion MRI, [[Paper]](https://arxiv.org/pdf/2507.09996)
 - (arXiv 2025.07) Patient-specific vs Multi-Patient Vision Transformer for Markerless Tumor Motion Forecasting, [[Paper]](https://arxiv.org/pdf/2507.07811),[[Code]](https://github.com/GauthierRotsart/Tracking_tumor)
 - (arXiv 2025.07) Interpretability-Aware Pruning for Efficient Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2507.08330),[[Code]](https://github.com/AryaXAI/interpretability-aware-pruning-healthcare)
+- (arXiv 2025.07) Generalizable 7T T1-map Synthesis from 1.5T and 3T T1 MRI with an Efficient Transformer Model, [[Paper]](https://arxiv.org/pdf/2507.08655)
+- (arXiv 2025.07) Comparative Analysis of Vision Transformers and Traditional Deep Learning Approaches for Automated Pneumonia Detection in Chest X-Rays, [[Paper]](https://arxiv.org/pdf/2507.10589)
