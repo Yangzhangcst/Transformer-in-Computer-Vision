@@ -242,3 +242,4 @@
 - (arXiv 2025.06) MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution, [[Paper]](https://arxiv.org/pdf/2506.14511), [[Code]](https://github.com/CYF-cuber/MOL)
 - (arXiv 2025.06) RollingQ: Reviving the Cooperation Dynamics in Multimodal Transformer, [[Paper]](https://arxiv.org/pdf/2506.11465), [[Code]](https://github.com/GeWu-Lab/RollingQ_ICML2025)
 - (arXiv 2025.07) CoSMo: A Multimodal Transformer for Page Stream Segmentation in Comic Books, [[Paper]](https://arxiv.org/pdf/2507.10053)
+- (arXiv 2025.07) Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2507.07485), [[Code]](https://github.com/wooseong97/DTME-MTL)
