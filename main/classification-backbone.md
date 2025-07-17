@@ -660,3 +660,4 @@
 - (arXiv 2025.06) Focus Your Attention: Towards Data-Intuitive Lightweight Vision Transformers, [[Paper]](https://arxiv.org/pdf/2506.18791),[[Code]](https://github.com/zser092/Focused-Attention-ViT)
 - (arXiv 2025.06) Low-latency vision transformers via large-scale multi-head attention, [[Paper]](https://arxiv.org/pdf/2506.23832)
 - (arXiv 2025.06) GViT: Representing Images as Gaussians for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2506.23532)
+- (arXiv 2025.07) ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference, [[Paper]](https://arxiv.org/pdf/2507.10800),[[Code]](https://github.com/ds-kiel/ThinkingViT)
