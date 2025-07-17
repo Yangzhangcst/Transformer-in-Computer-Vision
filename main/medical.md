@@ -773,3 +773,4 @@
 - (arXiv 2025.07) Interpretability-Aware Pruning for Efficient Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2507.08330),[[Code]](https://github.com/AryaXAI/interpretability-aware-pruning-healthcare)
 - (arXiv 2025.07) Generalizable 7T T1-map Synthesis from 1.5T and 3T T1 MRI with an Efficient Transformer Model, [[Paper]](https://arxiv.org/pdf/2507.08655)
 - (arXiv 2025.07) Comparative Analysis of Vision Transformers and Traditional Deep Learning Approaches for Automated Pneumonia Detection in Chest X-Rays, [[Paper]](https://arxiv.org/pdf/2507.10589)
+- (arXiv 2025.07) Depth-Sequence Transformer (DST) for Segment-Specific ICA Calcification Mapping on Non-Contrast CT, [[Paper]](https://arxiv.org/pdf/2507.08214)
