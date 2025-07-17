@@ -33,3 +33,4 @@
 - (arXiv 2025.04) HGFormer: Topology-Aware Vision Transformer with HyperGraph Learning, [[Paper]](https://arxiv.org/pdf/2504.02440)
 - (arXiv 2025.04) Hypergraph Vision Transformers: Images are More than Nodes, More than Edges, [[Paper]](https://arxiv.org/pdf/2504.08710)
 - (arXiv 2025.06) GraphGSOcc: Semantic and Geometric Graph Transformer for 3D Gaussian Splating-based Occupancy Prediction, [[Paper]](https://arxiv.org/pdf/2506.14825)
+- (arXiv 2025.07) ST-GRIT: Spatio-Temporal Graph Transformer For Internal Ice Layer Thickness Prediction, [[Paper]](https://arxiv.org/pdf/2507.07389)
