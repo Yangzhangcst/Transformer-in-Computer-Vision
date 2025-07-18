@@ -272,3 +272,4 @@
 - (arXiv 2025.04) Style-Adaptive Detection Transformer for Single-Source Domain Generalized Object Detection, [[Paper]](https://arxiv.org/pdf/2504.20498), [[Code]](https://github.com/h751410234/SA-DETR)
 - (arXiv 2025.06) A Dynamic Transformer Network for Vehicle Detection, [[Paper]](https://arxiv.org/pdf/2506.02765), [[Code]](https://github.com/hellloxiaotian/DTNet)
 - (arXiv 2025.07) MS-DETR: Towards Effective Video Moment Retrieval and Highlight Detection by Joint Motion-Semantic Learning, [[Paper]](https://arxiv.org/pdf/2507.12062), [[Code]](https://github.com/snailma0229/MS-DETR)
+- (arXiv 2025.07) Frequency-Dynamic Attention Modulation for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2507.12006), [[Code]](https://github.com/Linwei-Chen/FDAM)
