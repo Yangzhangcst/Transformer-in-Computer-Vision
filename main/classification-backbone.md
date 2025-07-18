@@ -661,3 +661,4 @@
 - (arXiv 2025.06) Low-latency vision transformers via large-scale multi-head attention, [[Paper]](https://arxiv.org/pdf/2506.23832)
 - (arXiv 2025.06) GViT: Representing Images as Gaussians for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2506.23532)
 - (arXiv 2025.07) ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference, [[Paper]](https://arxiv.org/pdf/2507.10800),[[Code]](https://github.com/ds-kiel/ThinkingViT)
+- (arXiv 2025.07) Block-based Symmetric Pruning and Fusion for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2507.12125)
