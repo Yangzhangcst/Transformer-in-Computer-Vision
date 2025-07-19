@@ -198,3 +198,5 @@
 - (arXiv 2025.06) TanDiT: Tangent-Plane Diffusion Transformer for High-Quality 360° Panorama Generation,  [[Paper]](https://arxiv.org/pdf/2506.21681)
 - (arXiv 2025.06) OutDreamer: Video Outpainting with a Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2506.22298)
 - (arXiv 2025.07) Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2507.08422)
+- (arXiv 2025.07) FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2507.12956),[[Code]](https://github.com/Fantasy-AMAP/fantasy-portrait)
+- (arXiv 2025.07) Taming Diffusion Transformer for Real-Time Mobile Video Generation,  [[Paper]](https://arxiv.org/pdf/2507.13343),[[Code]](https://snap-research.github.io/mobile_video_dit/)
