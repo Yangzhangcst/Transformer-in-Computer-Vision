@@ -1,4 +1,6 @@
 ## Survey: 
+- (arXiv 2025.07) Transformer-based Spatial Grounding: A Comprehensive Survey. [[Paper]](https://arxiv.org/pdf/2507.12739.pdf)
+  
 - (arXiv 2025.07) Token Compression Meets Compact Visio Transformers: A Survey and Comparative Evaluation for Edge AI. [[Paper]](https://arxiv.org/pdf/2507.09702.pdf)
 
 - (arXiv 2025.06) Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems. [[Paper]](https://arxiv.org/pdf/2506.08596.pdf)
