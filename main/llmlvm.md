@@ -56,3 +56,4 @@
 - (arXiv 2025.03) Similarity-Aware Token Pruning: Your VLM but Faster, [[Paper]](https://arxiv.org/pdf/2503.11549.pdf)
 - (arXiv 2025.03) MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling, [[Paper]](https://arxiv.org/pdf/2503.13440.pdf),[[Code]](https://github.com/hustvl/MaTVLM)
 - (arXiv 2025.06) ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads, [[Paper]](https://arxiv.org/pdf/2506.03433.pdf),[[Code]](https://jackyfl.github.io/vitsplit.github.io/)
+- (arXiv 2025.07) VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning, [[Paper]](https://arxiv.org/pdf/2507.13348.pdf),[[Code]](https://github.com/dvlab-research/VisionThink)
