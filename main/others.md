@@ -292,3 +292,5 @@
 - (arXiv 2025.06) ALBERT: Advanced Localization and Bidirectional Encoder Representations from Transformers for Automotive Damage Evaluation, [[Paper]](https://arxiv.org/pdf/2506.10524.pdf), [[Code]](https://kaopanboonyuen.github.io/MARS/)
 - (arXiv 2025.06) Vision Transformers for End-to-End Quark-Gluon Jet Classification from Calorimeter Images, [[Paper]](https://arxiv.org/pdf/2506.14934.pdf), [[Code]](https://github.com/Abrar2652/particle_reconstruction/)
 - (arXiv 2025.07) Streaming 4D Visual Geometry Transformer, [[Paper]](https://arxiv.org/pdf/2507.11539.pdf), [[Code]](https://github.com/wzzheng/StreamVGGT)
+- (arXiv 2025.07) HairFormer: Transformer-Based Dynamic Neural Hair Simulation, [[Paper]](https://arxiv.org/pdf/2507.12600.pdf)
+- (arXiv 2025.07) Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy, [[Paper]](https://arxiv.org/pdf/2507.13260.pdf)
