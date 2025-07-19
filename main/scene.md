@@ -48,3 +48,4 @@
 - (arXiv 2025.02) Hierarchical Context Transformer for Multi-level Semantic Scene Understanding, [[Paper]](https://arxiv.org/pdf/2501.05687.pdf),[[Code]](https://github.com/Aurora-hao/HCT)
 - (arXiv 2025.03) VGGT: Visual Geometry Grounded Transformer, [[Paper]](https://arxiv.org/pdf/2503.11651.pdf),[[Code]](https://github.com/facebookresearch/vggt)
 - (arXiv 2025.06) 4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos, [[Paper]](https://arxiv.org/pdf/2506.08015.pdf),[[Code]](https://4dgt.github.io/)
+- (arXiv 2025.06) Argus: Leveraging Multiview Images for Improved 3-D Scene Understanding With Large Language Models, [[Paper]](https://arxiv.org/pdf/2507.12916.pdf)
