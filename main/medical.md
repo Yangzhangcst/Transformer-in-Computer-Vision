@@ -775,3 +775,5 @@
 - (arXiv 2025.07) Comparative Analysis of Vision Transformers and Traditional Deep Learning Approaches for Automated Pneumonia Detection in Chest X-Rays, [[Paper]](https://arxiv.org/pdf/2507.10589)
 - (arXiv 2025.07) Depth-Sequence Transformer (DST) for Segment-Specific ICA Calcification Mapping on Non-Contrast CT, [[Paper]](https://arxiv.org/pdf/2507.08214)
 - (arXiv 2025.07) Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion, [[Paper]](https://arxiv.org/pdf/2507.12938),[[Code]](https://github.com/d1c2x3/CAseg)
+- (arXiv 2025.07) Enhancing Breast Cancer Detection with Vision Transformers and Graph Neural Networks, [[Paper]](https://arxiv.org/pdf/2507.13372)
+- (arXiv 2025.07) Transformer-Based Framework for Motion Capture Denoising and Anomaly Detection in Medical Rehabilitation, [[Paper]](https://arxiv.org/pdf/2507.13371)
