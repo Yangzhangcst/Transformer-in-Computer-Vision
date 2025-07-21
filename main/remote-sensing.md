@@ -73,3 +73,4 @@
 - (arXiv 2025.06) How Can Multimodal Remote Sensing Datasets Transform Classification via SpatialNet-ViT, [[Paper]](https://arxiv.org/pdf/2506.22501)
 - (arXiv 2025.07) Combining Transformers and CNNs for Efficient Object Detection in High-Resolution Satellite Imagery, [[Paper]](https://arxiv.org/pdf/2507.11040)
 - (arXiv 2025.07) SEMT: Static-Expansion-Mesh Transformer Network Architecture for Remote Sensing Image Captioning, [[Paper]](https://arxiv.org/pdf/2507.12845)
+- (arXiv 2025.07) SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing, [[Paper]](https://arxiv.org/pdf/2507.13812)
