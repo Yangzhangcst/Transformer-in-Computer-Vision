@@ -48,3 +48,4 @@
 - (arXiv 2025.04) Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism, [[Paper]](https://arxiv.org/pdf/2504.16761.pdf)
 - (arXiv 2025.06) MTSIC: Multi-stage Transformer-based GAN for Spectral Infrared Image Colorization, [[Paper]](https://arxiv.org/pdf/2506.17540.pdf)
 - (arXiv 2025.07) Sparse Fine-Tuning of Transformers for Generative Tasks, [[Paper]](https://arxiv.org/pdf/2507.10855.pdf)
+- (arXiv 2025.07) Appearance Harmonization via Bilateral Grid Prediction with Transformers for 3DGS, [[Paper]](https://arxiv.org/pdf/2507.15748.pdf)
