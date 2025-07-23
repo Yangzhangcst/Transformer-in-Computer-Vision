@@ -663,3 +663,5 @@
 - (arXiv 2025.07) ThinkingViT: Matryoshka Thinking Vision Transformer for Elastic Inference, [[Paper]](https://arxiv.org/pdf/2507.10800),[[Code]](https://github.com/ds-kiel/ThinkingViT)
 - (arXiv 2025.07) Block-based Symmetric Pruning and Fusion for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2507.12125)
 - (arXiv 2025.07) Compact Vision Transformer by Reduction of Kernel Complexity, [[Paper]](https://arxiv.org/pdf/2507.12780)
+- (arXiv 2025.07) ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference, [[Paper]](https://arxiv.org/pdf/2507.16260)
+- (arXiv 2025.07) Artifacts and Attention Sinks: Structured Approximations for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2507.16018)
