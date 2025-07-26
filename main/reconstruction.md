@@ -37,3 +37,4 @@
 - (arXiv 2025.05) The Moon's Many Faces: A Single Unified Transformer for Multimodal Lunar Reconstruction, [[Paper]](https://arxiv.org/pdf/2505.05644.pdf)
 - (arXiv 2025.06) HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers, [[Paper]](https://arxiv.org/pdf/2506.03118.pdf),[[Code]](https://zju3dv.github.io/humanram/)
 - (arXiv 2025.06) Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications, [[Paper]](https://arxiv.org/pdf/2506.19591.pdf)
+- (arXiv 2025.07) Transformer Based Building Boundary Reconstruction using Attraction Field Maps, [[Paper]](https://arxiv.org/pdf/2507.17038.pdf)
