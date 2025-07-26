@@ -778,4 +778,4 @@
 - (arXiv 2025.07) Enhancing Breast Cancer Detection with Vision Transformers and Graph Neural Networks, [[Paper]](https://arxiv.org/pdf/2507.13372)
 - (arXiv 2025.07) Transformer-Based Framework for Motion Capture Denoising and Anomaly Detection in Medical Rehabilitation, [[Paper]](https://arxiv.org/pdf/2507.13371)
 - (arXiv 2025.07) A Multimodal Seq2Seq Transformer for Predicting Brain Responses to Naturalistic Stimuli, [[Paper]](https://arxiv.org/pdf/2507.18104), [[Code]](https://github.com/Angelneer926/Algonauts_challenge)
-- (arXiv 2025.07) Q-Former Autoencoder: A Modern Framework for Medical Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2507.18481)
+- (arXiv 2025.07) Q-Former Autoencoder: A Modern Framework for Medical Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2507.18481),[[Code]](https://github.com/emirhanbayar/QFAE)
