@@ -665,3 +665,4 @@
 - (arXiv 2025.07) Compact Vision Transformer by Reduction of Kernel Complexity, [[Paper]](https://arxiv.org/pdf/2507.12780)
 - (arXiv 2025.07) ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference, [[Paper]](https://arxiv.org/pdf/2507.16260)
 - (arXiv 2025.07) Artifacts and Attention Sinks: Structured Approximations for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2507.16018)
+- (arXiv 2025.07) Iwin Transformer: Hierarchical Vision Transformer using Interleaved Windows, [[Paper]](https://arxiv.org/pdf/2507.18405),[[Code]](https://github.com/cominder/Iwin-Transformer)
