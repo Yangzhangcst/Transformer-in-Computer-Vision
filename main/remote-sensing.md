@@ -74,3 +74,4 @@
 - (arXiv 2025.07) Combining Transformers and CNNs for Efficient Object Detection in High-Resolution Satellite Imagery, [[Paper]](https://arxiv.org/pdf/2507.11040)
 - (arXiv 2025.07) SEMT: Static-Expansion-Mesh Transformer Network Architecture for Remote Sensing Image Captioning, [[Paper]](https://arxiv.org/pdf/2507.12845)
 - (arXiv 2025.07) SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing, [[Paper]](https://arxiv.org/pdf/2507.13812)
+- (arXiv 2025.07) Post-Disaster Affected Area Segmentation with a Vision Transformer (ViT)-based EVAP Model using Sentinel-2 and Formosat-5 Imagery, [[Paper]](https://arxiv.org/pdf/2507.16849)
