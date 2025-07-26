@@ -294,3 +294,4 @@
 - (arXiv 2025.07) Streaming 4D Visual Geometry Transformer, [[Paper]](https://arxiv.org/pdf/2507.11539.pdf), [[Code]](https://github.com/wzzheng/StreamVGGT)
 - (arXiv 2025.07) HairFormer: Transformer-Based Dynamic Neural Hair Simulation, [[Paper]](https://arxiv.org/pdf/2507.12600.pdf)
 - (arXiv 2025.07) Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy, [[Paper]](https://arxiv.org/pdf/2507.13260.pdf)
+- (arXiv 2025.07) Vision Transformer attention alignment with human visual perception in aesthetic object evaluation, [[Paper]](https://arxiv.org/pdf/2507.17616.pdf)
