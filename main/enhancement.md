@@ -27,3 +27,4 @@
 - (arXiv 2025.01) DLEN: Dual Branch of Transformer for Low-Light Image Enhancement in Dual Domains, [[Paper]](https://arxiv.org/pdf/2501.12235.pdf), [[Code]](https://github.com/LaLaLoXX/DLEN)
 - (arXiv 2025.04) Structure-guided Diffusion Transformer for Low-Light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2504.15054.pdf)
 - (arXiv 2025.07) SAIGFormer: A Spatially-Adaptive Illumination-Guided Network for Low-Light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2507.15520.pdf), [[Code]](https://github.com/LHTcode/SAIGFormer)
+- (arXiv 2025.07) ModalFormer: Multimodal Transformer for Low-Light Image Enhancement, [[Paper]](https://arxiv.org/pdf/2507.20388.pdf), [[Code]](https://github.com/albrateanu/ModalFormer)
