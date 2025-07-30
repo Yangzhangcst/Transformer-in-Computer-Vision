@@ -667,3 +667,4 @@
 - (arXiv 2025.07) Artifacts and Attention Sinks: Structured Approximations for Efficient Vision Transformers, [[Paper]](https://arxiv.org/pdf/2507.16018)
 - (arXiv 2025.07) Iwin Transformer: Hierarchical Vision Transformer using Interleaved Windows, [[Paper]](https://arxiv.org/pdf/2507.18405),[[Code]](https://github.com/cominder/Iwin-Transformer)
 - (arXiv 2025.07) DNT: a Deeply Normalized Transformer that can be trained by Momentum SGD, [[Paper]](https://arxiv.org/pdf/2507.17501)
+- (arXiv 2025.07) EA-ViT: Efficient Adaptation for Elastic Vision Transformer, [[Paper]](https://arxiv.org/pdf/2507.19360),[[Code]](https://github.com/zcxcf/EA-ViT)
