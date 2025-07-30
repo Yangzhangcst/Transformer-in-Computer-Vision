@@ -13,3 +13,4 @@
 - (arXiv 2025.06) FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion, [[Paper]](https://arxiv.org/pdf/2506.10366.pdf), [[Code]](https://github.com/Lmmh058/FSATFusion)
 - (arXiv 2025.06) GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion, [[Paper]](https://arxiv.org/pdf/2506.14384.pdf), [[Code]](https://github.com/Shaoyun2023)
 - (arXiv 2025.06) PCaM: A Progressive Focus Attention-Based Information Fusion Method for Improving Vision Transformer Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2506.17232.pdf)
+- (arXiv 2025.07) MoCTEFuse: Illumination-Gated Mixture of Chiral Transformer Experts for Multi-Level Infrared and Visible Image Fusion, [[Paper]](https://arxiv.org/pdf/2507.20180.pdf), [[Code]](https://github.com/Bitlijinfu/MoCTEFuse)
