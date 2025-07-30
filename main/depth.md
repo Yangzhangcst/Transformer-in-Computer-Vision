@@ -54,3 +54,4 @@
 - (arXiv.2024.09) SDformer: Efficient End-to-End Transformer for Depth Completion, [[Paper]](https://arxiv.org/pdf/2409.08159.pdf), [[Code]](https://github.com/JamesQian11/SDformer-for-Depth-Completion)
 - (arXiv.2024.09) Depth Matters: Exploring Deep Interactions of RGB-D for Semantic Segmentation in Traffic Scenes, [[Paper]](https://arxiv.org/pdf/2409.07995.pdf)
 - (arXiv.2025.05) DELTA: Dense Depth from Events and LiDAR using Transformer's Attention, [[Paper]](https://arxiv.org/pdf/2505.02593.pdf), [[Code]](https://github.com/heudiasyc/DELTA)
+- (arXiv.2025.07) UniCT Depth: Event-Image Fusion Based Monocular Depth Estimation with Convolution-Compensated ViT Dual SA Block, [[Paper]](https://arxiv.org/pdf/2507.19948.pdf)
