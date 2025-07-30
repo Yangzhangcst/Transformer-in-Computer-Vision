@@ -779,3 +779,4 @@
 - (arXiv 2025.07) Transformer-Based Framework for Motion Capture Denoising and Anomaly Detection in Medical Rehabilitation, [[Paper]](https://arxiv.org/pdf/2507.13371)
 - (arXiv 2025.07) A Multimodal Seq2Seq Transformer for Predicting Brain Responses to Naturalistic Stimuli, [[Paper]](https://arxiv.org/pdf/2507.18104), [[Code]](https://github.com/Angelneer926/Algonauts_challenge)
 - (arXiv 2025.07) Q-Former Autoencoder: A Modern Framework for Medical Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2507.18481),[[Code]](https://github.com/emirhanbayar/QFAE)
+- (arXiv 2025.07) Exemplar Med-DETR: Toward Generalized and Robust Lesion Detection in Mammogram Images and beyond, [[Paper]](https://arxiv.org/pdf/2507.19621)
