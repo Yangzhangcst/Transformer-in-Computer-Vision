@@ -120,3 +120,4 @@
 - (arXiv 2025.06) Can Vision Transformers with ResNet's Global Features Fairly Authenticate Demographic Faces,  [[Paper]](https://arxiv.org/pdf/2506.05383.pdf),[[Code]](https://github.com/Sufianlab/FairVitBio)
 - (arXiv 2025.06) FaceLiVT: Face Recognition using Linear Vision Transformer with Structural Reparameterization For Mobile Device,  [[Paper]](https://arxiv.org/pdf/2506.10361.pdf)
 - (arXiv 2025.07) MGHFT: Multi-Granularity Hierarchical Fusion Transformer for Cross-Modal Sticker Emotion Recognition,  [[Paper]](https://arxiv.org/pdf/2507.18929.pdf),[[Code]](https://github.com/cccccj-03/MGHFT_ACMMM2025)
+- (arXiv 2025.07) Generative Pre-training for Subjective Tasks: A Diffusion Transformer-Based Framework for Facial Beauty Prediction,  [[Paper]](https://arxiv.org/pdf/2507.20363.pdf)
