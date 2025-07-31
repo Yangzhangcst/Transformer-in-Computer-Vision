@@ -668,3 +668,4 @@
 - (arXiv 2025.07) Iwin Transformer: Hierarchical Vision Transformer using Interleaved Windows, [[Paper]](https://arxiv.org/pdf/2507.18405),[[Code]](https://github.com/cominder/Iwin-Transformer)
 - (arXiv 2025.07) DNT: a Deeply Normalized Transformer that can be trained by Momentum SGD, [[Paper]](https://arxiv.org/pdf/2507.17501)
 - (arXiv 2025.07) EA-ViT: Efficient Adaptation for Elastic Vision Transformer, [[Paper]](https://arxiv.org/pdf/2507.19360),[[Code]](https://github.com/zcxcf/EA-ViT)
+- (arXiv 2025.07) MOR-VIT: Efficient Vision Transformer with Mixture-of-Recursions, [[Paper]](https://arxiv.org/pdf/2507.21761)
