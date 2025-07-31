@@ -781,3 +781,4 @@
 - (arXiv 2025.07) Q-Former Autoencoder: A Modern Framework for Medical Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2507.18481),[[Code]](https://github.com/emirhanbayar/QFAE)
 - (arXiv 2025.07) Exemplar Med-DETR: Toward Generalized and Robust Lesion Detection in Mammogram Images and beyond, [[Paper]](https://arxiv.org/pdf/2507.19621)
 - (arXiv 2025.07) SwinECAT: A Transformer-based fundus disease classification model with Shifted Window Attention and Efficient Channel Attention, [[Paper]](https://arxiv.org/pdf/2507.21922)
+- (arXiv 2025.07) Comparative Analysis of Vision Transformers and Convolutional Neural Networks for Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2507.21156)
