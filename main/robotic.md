@@ -21,3 +21,4 @@
 - (arXiv 2025.03) ViT-VS: On the Applicability of Pretrained Vision Transformer Features for Generalizable Visual Servoing, [[Paper]](https://arxiv.org/pdf/2503.04545.pdf), [[Code]](https://github.com/AlessandroScherl/ViT-VS)
 - (arXiv 2025.03) High-Precision Transformer-Based Visual Servoing for Humanoid Robots in Aligning Tiny Objects, [[Paper]](https://arxiv.org/pdf/2503.04862)
 - (arXiv 2025.06) WD-DETR: Wavelet Denoising-Enhanced Real-Time Object Detection Transformer for Robot Perception with Event Cameras, [[Paper]](https://arxiv.org/pdf/2506.09098)
+- (arXiv 2025.08) On-Device Diffusion Transformer Policy for Efficient Robot Manipulation, [[Paper]](https://arxiv.org/pdf/2506.09098)
