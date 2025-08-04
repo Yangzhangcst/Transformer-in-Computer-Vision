@@ -8,11 +8,12 @@
 - (arXiv 2023.11) Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing, [[Paper]](https://arxiv.org/pdf/2311.08151.pdf)
 - (arXiv 2023.12) Unveiling the Power of Audio-Visual Early Fusion Transformers with Dense Interactions through Masked Modeling, [[Paper]](https://arxiv.org/pdf/2312.01017.pdf)
 - (arXiv 2024.01) Efficient Multiscale Multimodal Bottleneck Transformer for Audio-Video Classificationg, [[Paper]](https://arxiv.org/pdf/2312.01017.pdf)
-- (arXiv 2024.01) Siamese Vision Transformers are Scalable Audio-visual Learners, [[Paper]](https://arxiv.org/pdf/2403.19638.pdf), [[Code]](https://github.com/GenjiB/AVSiam）
-- (arXiv 2024.05) A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation, [[Paper]](https://arxiv.org/pdf/2405.13762.pdf), [[Code]](http://avdit2024.github.io/）
-- (arXiv 2024.06) MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers, [[Paper]](https://arxiv.org/pdf/2406.04930.pdf), [[Code]](https://github.com/enyac-group/MA-AVT）
-- (arXiv 2024.06) Taming Data and Transformers for Audio Generation, [[Paper]](https://arxiv.org/pdf/2406.19388.pdf), [[Code]](https://snap-research.github.io/GenAU/）
-- (arXiv 2024.06) Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity, [[Paper]](https://arxiv.org/pdf/2407.10387.pdf), [[Code]](https://snap-research.github.io/GenAU/）
+- (arXiv 2024.01) Siamese Vision Transformers are Scalable Audio-visual Learners, [[Paper]](https://arxiv.org/pdf/2403.19638.pdf), [[Code]](https://github.com/GenjiB/AVSiam)
+- (arXiv 2024.05) A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation, [[Paper]](https://arxiv.org/pdf/2405.13762.pdf), [[Code]](http://avdit2024.github.io/)
+- (arXiv 2024.06) MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers, [[Paper]](https://arxiv.org/pdf/2406.04930.pdf), [[Code]](https://github.com/enyac-group/MA-AVT)
+- (arXiv 2024.06) Taming Data and Transformers for Audio Generation, [[Paper]](https://arxiv.org/pdf/2406.19388.pdf), [[Code]](https://snap-research.github.io/GenAU/)
+- (arXiv 2024.06) Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity, [[Paper]](https://arxiv.org/pdf/2407.10387.pdf), [[Code]](https://snap-research.github.io/GenAU/)
 - (arXiv 2024.07) Multimodal Emotion Recognition using Audio-Video Transformer Fusion with Cross Attention, [[Paper]](https://arxiv.org/pdf/2407.18552.pdf)
 - (arXiv 2024.08) AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation, [[Paper]](https://arxiv.org/pdf/2408.01708.pdf)
-- (arXiv 2025.06) Revisiting Audio-Visual Segmentation with Vision-Centric Transformer, [[Paper]](https://arxiv.org/pdf/2506.23623.pdf), [[Code]](https://github.com/spyflying/VCT_AVS）
+- (arXiv 2025.06) Revisiting Audio-Visual Segmentation with Vision-Centric Transformer, [[Paper]](https://arxiv.org/pdf/2506.23623.pdf), [[Code]](https://github.com/spyflying/VCT_AVS)
+- (arXiv 2025.08) AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation, [[Paper]](https://arxiv.org/pdf/2508.00733.pdf), [[Code]](https://ciyou2.github.io/AudioGen-Omni/)
