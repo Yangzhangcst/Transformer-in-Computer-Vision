@@ -133,3 +133,4 @@
 - (arXiv 2025.05) APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression, [[Paper]](https://arxiv.org/pdf/2505.09356.pdf), [[Code]](https://github.com/GT-ARC/APR-Transformer)
 - (arXiv 2025.05) DETRPose: Real-time end-to-end transformer model for multi-person pose estimation, [[Paper]](https://arxiv.org/pdf/2506.13027.pdf), [[Code]](https://github.com/SebastianJanampa/DETRPose)
 - (arXiv 2025.07) KASportsFormer: Kinematic Anatomy Enhanced Transformer for 3D Human Pose Estimation on Short Sports Scene Video, [[Paper]](https://arxiv.org/pdf/2507.20763.pdf)
+- (arXiv 2025.08) AniMer+: Unified Pose and Shape Estimation Across Mammalia and Aves via Family-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2508.00298.pdf)
