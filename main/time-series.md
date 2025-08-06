@@ -5,3 +5,4 @@
 - (arXiv 2024.02) Multi-scale Spatio-temporal Transformer-based Imbalanced Longitudinal Learning for Glaucoma Forecasting from Irregular Time Series Images, [[Paper]](https://arxiv.org/pdf/2402.13475.pdf)
 - (arXiv 2024.03) From Pixels to Predictions: Spectrogram and Vision Transformer for Better Time Series Forecasting, [[Paper]](https://arxiv.org/pdf/2403.11047.pdf)
 - (arXiv 2024.03) HEAL-ViT: Vision Transformers on a spherical mesh for medium-range weather forecasting, [[Paper]](https://arxiv.org/pdf/2403.17016.pdf)
+- (arXiv 2025.08) HGTS-Former: Hierarchical HyperGraph Transformer for Multivariate Time Series Analysis, [[Paper]](https://arxiv.org/pdf/2508.02411.pdf), [[Code]](https://github.com/Event-AHU/Time_Series_Analysis)
