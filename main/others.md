@@ -296,3 +296,4 @@
 - (arXiv 2025.07) Efficient Adaptation of Pre-trained Vision Transformer underpinned by Approximately Orthogonal Fine-Tuning Strategy, [[Paper]](https://arxiv.org/pdf/2507.13260.pdf)
 - (arXiv 2025.07) Vision Transformer attention alignment with human visual perception in aesthetic object evaluation, [[Paper]](https://arxiv.org/pdf/2507.17616.pdf)
 - (arXiv 2025.07) Evaluating Deep Learning Models for African Wildlife Image Classification: From DenseNet to Vision Transformers, [[Paper]](https://arxiv.org/pdf/2507.21364.pdf)
+- (arXiv 2025.08) LetheViT: Selective Machine Unlearning for Vision Transformers via Attention-Guided Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2508.01569.pdf)
