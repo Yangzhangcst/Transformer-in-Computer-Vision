@@ -113,3 +113,4 @@
 - (arXiv 2025.03) COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking, [[Paper]](https://arxiv.org/pdf/2504.01321.pdf)
 - (arXiv 2025.05) Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking, [[Paper]](https://arxiv.org/pdf/2505.03507.pdf), [[Code]](https://github.com/LiShenglana/GDSTrack)
 - (arXiv 2025.06) Lightweight RGB-T Tracking with Mobile Vision Transformers, [[Paper]](https://arxiv.org/pdf/2506.19154.pdf)
+- (arXiv 2025.08) Vision transformer-based multi-camera multi-object tracking framework for dairy cow monitoring, [[Paper]](https://arxiv.org/pdf/2508.01752.pdf)
