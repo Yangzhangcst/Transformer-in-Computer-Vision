@@ -783,3 +783,4 @@
 - (arXiv 2025.07) SwinECAT: A Transformer-based fundus disease classification model with Shifted Window Attention and Efficient Channel Attention, [[Paper]](https://arxiv.org/pdf/2507.21922)
 - (arXiv 2025.07) Comparative Analysis of Vision Transformers and Convolutional Neural Networks for Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2507.21156)
 - (arXiv 2025.08) Glioblastoma Overall Survival Prediction With Vision Transformers, [[Paper]](https://arxiv.org/pdf/2508.02439)
+- (arXiv 2025.08) Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation, [[Paper]](https://arxiv.org/pdf/2508.01064),[[Code]](https://github.com/FengheTan9/Mobile-U-ViT)
