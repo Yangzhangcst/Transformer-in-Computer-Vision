@@ -41,3 +41,4 @@
 - (arXiv 2024.08) Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2408.03842.pdf)
 - (arXiv 2024.12) Efficient Semantic Communication Through Transformer-Aided Compression, [[Paper]](https://arxiv.org/pdf/2412.01817.pdf)
 - (arXiv 2025.07) MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression, [[Paper]](https://arxiv.org/pdf/2507.09616.pdf)
+- (arXiv 2025.08) Context Guided Transformer Entropy Modeling for Video Compression, [[Paper]](https://arxiv.org/pdf/2508.01852.pdf)
