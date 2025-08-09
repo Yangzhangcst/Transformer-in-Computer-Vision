@@ -203,3 +203,5 @@
 - (arXiv 2025.07) SegDT: A Diffusion Transformer-Based Segmentation Model for Medical Imaging,  [[Paper]](https://arxiv.org/pdf/2507.15595),[[Code]](https://github.com/Bekhouche/SegDT)
 - (arXiv 2025.07) AnimeColor: Reference-based Animation Colorization with Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2507.20158),[[Code]](https://github.com/IamCreateAI/AnimeColor)
 - (arXiv 2025.08) LAMIC: Layout-Aware Multi-Image Composition via Scalability of Multimodal Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2508.00477),[[Code]](https://github.com/Suchenl/LAMIC)
+- (arXiv 2025.08) DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework,  [[Paper]](https://arxiv.org/pdf/2508.02807),[[Code]](https://github.com/Virtu-Lab/DreamVVT)
+- (arXiv 2025.08) Accurate Quantized Video Diffusion Transformer with Salient Data and Sparse Token Distillation,  [[Paper]](https://arxiv.org/pdf/2508.04016),[[Code]](https://github.com/wlfeng0509/s2q-vdit)
