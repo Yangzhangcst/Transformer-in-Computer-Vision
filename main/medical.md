@@ -785,3 +785,4 @@
 - (arXiv 2025.08) Glioblastoma Overall Survival Prediction With Vision Transformers, [[Paper]](https://arxiv.org/pdf/2508.02439)
 - (arXiv 2025.08) Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation, [[Paper]](https://arxiv.org/pdf/2508.01064),[[Code]](https://github.com/FengheTan9/Mobile-U-ViT)
 - (arXiv 2025.08) EfficientGFormer: Graph-Augmented Transformers for Multimodal Brain Tumor Segmentation, [[Paper]](https://arxiv.org/pdf/2508.01465)
+- (arXiv 2025.08) TCSAFormer: Efficient Vision Transformer with Token Compression and Sparse Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2508.04058), [[Code]](https://github.com/XiaZunhui/TCSAFormer)
