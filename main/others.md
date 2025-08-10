@@ -298,3 +298,4 @@
 - (arXiv 2025.07) Evaluating Deep Learning Models for African Wildlife Image Classification: From DenseNet to Vision Transformers, [[Paper]](https://arxiv.org/pdf/2507.21364.pdf)
 - (arXiv 2025.08) LetheViT: Selective Machine Unlearning for Vision Transformers via Attention-Guided Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2508.01569.pdf)
 - (arXiv 2025.08) Length Matters: Length-Aware Transformer for Temporal Sentence Grounding, [[Paper]](https://arxiv.org/pdf/2508.04299.pdf)
+
