@@ -208,3 +208,4 @@
 - (arXiv 2025.08) FLUX-Makeup: High-Fidelity, Identity-Consistent, and Robust Makeup Transfer via Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2508.05069)
 - (arXiv 2025.08) Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off,  [[Paper]](https://arxiv.org/pdf/2508.04825),[[Code]](https://github.com/nxnai/Voost)
 - (arXiv 2025.08) RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2508.05115)
+- (arXiv 2025.08) UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation,  [[Paper]](https://arxiv.org/pdf/2508.05399),[[Code]](https://github.com/furiosa-ai/uncage)
