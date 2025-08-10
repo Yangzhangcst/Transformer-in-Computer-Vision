@@ -84,3 +84,4 @@
 - (arXiv 2025.07) DFQ-ViT: Data-Free Quantization for Vision Transformers without Fine-tuning, [[Paper]](https://arxiv.org/pdf/2507.14481)
 - (arXiv 2025.07) Revisiting Activation Sparsity for Vision Transformers from a Mixed-Precision Quantization Perspective, [[Paper]](https://arxiv.org/pdf/2507.19131)
 - (arXiv 2025.07) Patch Pruning Strategy Based on Robust Statistical Measures of Attention Weight Diversity in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2507.19175)
+- (arXiv 2025.08) LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2508.03485)
