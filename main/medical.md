@@ -788,3 +788,4 @@
 - (arXiv 2025.08) TCSAFormer: Efficient Vision Transformer with Token Compression and Sparse Attention for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2508.04058), [[Code]](https://github.com/XiaZunhui/TCSAFormer)
 - (arXiv 2025.08) InceptoFormer: A Multi-Signal Neural Framework for Parkinson's Disease Severity Evaluation from Gait, [[Paper]](https://arxiv.org/pdf/2508.04540), [[Code]](https://github.com/SafwenNaimi/InceptoFormer-A-Multi-Signal-neural-framework-for-Parkinson-s-Disease-Severity-Evaluation-from-Gait)
 - (arXiv 2025.08) Transformer-Based Explainable Deep Learning for Breast Cancer Detection in Mammography: The MammoFormer Framework, [[Paper]](https://arxiv.org/pdf/2508.06137)
+- (arXiv 2025.08) MDD-Net: Multimodal Depression Detection through Mutual Transformer, [[Paper]](https://arxiv.org/pdf/2508.08093), [[Code]](https://github.com/rezwanh001/Multimodal-Depression-Detection)
