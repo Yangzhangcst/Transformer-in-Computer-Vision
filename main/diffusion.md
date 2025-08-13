@@ -210,3 +210,5 @@
 - (arXiv 2025.08) RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2508.05115)
 - (arXiv 2025.08) UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation,  [[Paper]](https://arxiv.org/pdf/2508.05399),[[Code]](https://github.com/furiosa-ai/uncage)
 - (arXiv 2025.08) KnapFormer: An Online Load Balancer for Efficient Diffusion Transformers Training,  [[Paper]](https://arxiv.org/pdf/2508.06001),[[Code]](https://github.com/Kai-46/KnapFormer/)
+- (arXiv 2025.08) MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization,  [[Paper]](https://arxiv.org/pdf/2508.08488)
+- (arXiv 2025.08) Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2508.09131),[[Code]](https://zxyin.github.io/ColorCtrl/)
