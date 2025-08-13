@@ -212,3 +212,4 @@
 - (arXiv 2025.08) KnapFormer: An Online Load Balancer for Efficient Diffusion Transformers Training,  [[Paper]](https://arxiv.org/pdf/2508.06001),[[Code]](https://github.com/Kai-46/KnapFormer/)
 - (arXiv 2025.08) MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization,  [[Paper]](https://arxiv.org/pdf/2508.08488)
 - (arXiv 2025.08) Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2508.09131),[[Code]](https://zxyin.github.io/ColorCtrl/)
+- (arXiv 2025.08) Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing,  [[Paper]](https://arxiv.org/pdf/2508.07519),[[Code]](https://github.com/SNU-VGILab/exploring-mmdit)
