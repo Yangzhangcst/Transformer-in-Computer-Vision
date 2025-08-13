@@ -670,3 +670,4 @@
 - (arXiv 2025.07) EA-ViT: Efficient Adaptation for Elastic Vision Transformer, [[Paper]](https://arxiv.org/pdf/2507.19360),[[Code]](https://github.com/zcxcf/EA-ViT)
 - (arXiv 2025.07) MOR-VIT: Efficient Vision Transformer with Mixture-of-Recursions, [[Paper]](https://arxiv.org/pdf/2507.21761)
 - (arXiv 2025.08) CoCAViT: Compact Vision Transformer with Robust Global Coordination, [[Paper]](https://arxiv.org/pdf/2508.05307.pdf)
+- (arXiv 2025.08) Calibration Attention: Instance-wise Temperature Scaling for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2508.08547.pdf),[[Code]](https://github.com/EagleAdelaide/CalibrationAttention-CalAttn-)
