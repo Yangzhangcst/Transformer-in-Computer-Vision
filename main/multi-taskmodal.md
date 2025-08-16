@@ -245,3 +245,4 @@
 - (arXiv 2025.07) Resolving Token-Space Gradient Conflicts: Token Space Manipulation for Transformer-Based Multi-Task Learning, [[Paper]](https://arxiv.org/pdf/2507.07485), [[Code]](https://github.com/wooseong97/DTME-MTL)
 - (arXiv 2025.07) OmniVec2 - A Novel Transformer based Network for Large Scale Multimodal and Multitask Learning, [[Paper]](https://arxiv.org/pdf/2507.13364)
 - (arXiv 2025.08) Efficient Inter-Task Attention for Multitask Transformer Models, [[Paper]](https://arxiv.org/pdf/2508.04422)
+- (arXiv 2025.08) MMFformer: Multimodal Fusion Transformer Network for Depression Detection, [[Paper]](https://arxiv.org/pdf/2508.06701), [[Code]](https://github.com/rezwanh001/Large-Scale-Multimodal-Depression-Detection)
