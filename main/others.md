@@ -299,3 +299,4 @@
 - (arXiv 2025.08) LetheViT: Selective Machine Unlearning for Vision Transformers via Attention-Guided Contrastive Learning, [[Paper]](https://arxiv.org/pdf/2508.01569.pdf)
 - (arXiv 2025.08) Length Matters: Length-Aware Transformer for Temporal Sentence Grounding, [[Paper]](https://arxiv.org/pdf/2508.04299.pdf)
 - (arXiv 2025.08) Towards Globally Predictable k-Space Interpolation: A White-box Transformer Approach, [[Paper]](https://arxiv.org/pdf/2508.04051.pdf)
+- (arXiv 2025.08) Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer, [[Paper]](https://arxiv.org/pdf/2402.16868.pdf)
