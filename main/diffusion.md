@@ -214,3 +214,6 @@
 - (arXiv 2025.08) Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2508.09131),[[Code]](https://zxyin.github.io/ColorCtrl/)
 - (arXiv 2025.08) Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing,  [[Paper]](https://arxiv.org/pdf/2508.07519),[[Code]](https://github.com/SNU-VGILab/exploring-mmdit)
 - (arXiv 2025.08) LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation,  [[Paper]](https://arxiv.org/pdf/2508.07603),[[Code]](https://github.com/ssugarwh/LaVieID)
+- (arXiv 2025.08) Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2508.07246),[[Code]](https://maxin-cn.github.io/miramo)
+- (arXiv 2025.08) HiMat: DiT-based Ultra-High Resolution SVBRDF Generation,  [[Paper]](https://arxiv.org/pdf/2508.07011)
+- (arXiv 2025.08) DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation,  [[Paper]](https://arxiv.org/pdf/2508.06511),[[Code]](https://thenameishope.github.io/DiTalker/)
