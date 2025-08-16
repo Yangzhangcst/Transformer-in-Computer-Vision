@@ -206,3 +206,4 @@
 - (arXiv 2025.06) Fine-Tuning Video Transformers for Word-Level Bangla Sign Language: A Comparative Analysis for Classification Tasks,  [[Paper]](https://arxiv.org/pdf/2506.04367)
 - (arXiv 2025.07) ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models,  [[Paper]](https://arxiv.org/pdf/2507.09876)
 - (arXiv 2025.07) VideoITG: Improving Multimodal Video Understanding with Instructed Temporal Grounding,  [[Paper]](https://arxiv.org/pdf/2507.13353), [[Code]](https://nvlabs.github.io/VideoITG/)
+- (arXiv 2025.08) A Framework Combining 3D CNN and Transformer for Video-Based Behavior Recognition,  [[Paper]](https://arxiv.org/pdf/2508.06528)
