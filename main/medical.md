@@ -789,3 +789,5 @@
 - (arXiv 2025.08) InceptoFormer: A Multi-Signal Neural Framework for Parkinson's Disease Severity Evaluation from Gait, [[Paper]](https://arxiv.org/pdf/2508.04540), [[Code]](https://github.com/SafwenNaimi/InceptoFormer-A-Multi-Signal-neural-framework-for-Parkinson-s-Disease-Severity-Evaluation-from-Gait)
 - (arXiv 2025.08) Transformer-Based Explainable Deep Learning for Breast Cancer Detection in Mammography: The MammoFormer Framework, [[Paper]](https://arxiv.org/pdf/2508.06137)
 - (arXiv 2025.08) MDD-Net: Multimodal Depression Detection through Mutual Transformer, [[Paper]](https://arxiv.org/pdf/2508.08093), [[Code]](https://github.com/rezwanh001/Multimodal-Depression-Detection)
+- (arXiv 2025.08) MIND: A Noise-Adaptive Denoising Framework for Medical Images Integrating Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2508.07817)
+- (arXiv 2025.08) On the effectiveness of multimodal privileged knowledge distillation in two vision transformer based diagnostic applications, [[Paper]](https://arxiv.org/pdf/2508.06558)
