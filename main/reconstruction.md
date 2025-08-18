@@ -38,3 +38,4 @@
 - (arXiv 2025.06) HumanRAM: Feed-forward Human Reconstruction and Animation Model using Transformers, [[Paper]](https://arxiv.org/pdf/2506.03118.pdf),[[Code]](https://zju3dv.github.io/humanram/)
 - (arXiv 2025.06) Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications, [[Paper]](https://arxiv.org/pdf/2506.19591.pdf)
 - (arXiv 2025.07) Transformer Based Building Boundary Reconstruction using Attraction Field Maps, [[Paper]](https://arxiv.org/pdf/2507.17038.pdf)
+- (arXiv 2025.08) STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer, [[Paper]](https://arxiv.org/pdf/2508.10893.pdf), [[Code]](https://github.com/NIRVANALAN/STream3R)
