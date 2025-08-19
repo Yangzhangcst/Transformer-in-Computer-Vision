@@ -793,3 +793,4 @@
 - (arXiv 2025.08) On the effectiveness of multimodal privileged knowledge distillation in two vision transformer based diagnostic applications, [[Paper]](https://arxiv.org/pdf/2508.06558)
 - (arXiv 2025.08) Dynamic Survival Prediction using Longitudinal Images based on Transformer, [[Paper]](https://arxiv.org/pdf/2508.09328)
 - (arXiv 2025.08) Hybrid(Transformer+CNN)-based Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2508.09189)
+- (arXiv 2025.08) HistoViT: Vision Transformer for Accurate and Scalable Histopathological Cancer Diagnosis, [[Paper]](https://arxiv.org/pdf/2508.11181)
