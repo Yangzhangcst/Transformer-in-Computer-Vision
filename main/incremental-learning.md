@@ -31,3 +31,4 @@
 - (arXiv 2025.06) DPFormer: Dynamic Prompt Transformer for Continual Learning, [[Paper]](https://arxiv.org/pdf/2506.07414.pdf)
 - (arXiv 2025.06) Hierarchical Neural Collapse Detection Transformer for Class Incremental Object Detection, [[Paper]](https://arxiv.org/pdf/2506.08562.pdf)
 - (arXiv 2025.07) Rethinking Query-based Transformer for Continual Image Segmentation, [[Paper]](https://arxiv.org/pdf/2507.07831.pdf), [[Code]](https://github.com/SooLab/SimCIS)
+- (arXiv 2025.08) Index-Aligned Query Distillation for Transformer-based Incremental Object Detection, [[Paper]](https://arxiv.org/pdf/2508.11339.pdf)
