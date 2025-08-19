@@ -121,3 +121,4 @@
 - (arXiv 2025.06) FaceLiVT: Face Recognition using Linear Vision Transformer with Structural Reparameterization For Mobile Device,  [[Paper]](https://arxiv.org/pdf/2506.10361.pdf)
 - (arXiv 2025.07) MGHFT: Multi-Granularity Hierarchical Fusion Transformer for Cross-Modal Sticker Emotion Recognition,  [[Paper]](https://arxiv.org/pdf/2507.18929.pdf),[[Code]](https://github.com/cccccj-03/MGHFT_ACMMM2025)
 - (arXiv 2025.07) Generative Pre-training for Subjective Tasks: A Diffusion Transformer-Based Framework for Facial Beauty Prediction,  [[Paper]](https://arxiv.org/pdf/2507.20363.pdf)
+- (arXiv 2025.08) Enhancing Diffusion Face Generation with Contrastive Embeddings and SegFormer Guidance,  [[Paper]](https://arxiv.org/pdf/2508.09847.pdf),[[Code]](https://github.com/Tin-Hoang/humanfaces-diffusion-generation)
