@@ -791,3 +791,5 @@
 - (arXiv 2025.08) MDD-Net: Multimodal Depression Detection through Mutual Transformer, [[Paper]](https://arxiv.org/pdf/2508.08093), [[Code]](https://github.com/rezwanh001/Multimodal-Depression-Detection)
 - (arXiv 2025.08) MIND: A Noise-Adaptive Denoising Framework for Medical Images Integrating Multi-Scale Transformer, [[Paper]](https://arxiv.org/pdf/2508.07817)
 - (arXiv 2025.08) On the effectiveness of multimodal privileged knowledge distillation in two vision transformer based diagnostic applications, [[Paper]](https://arxiv.org/pdf/2508.06558)
+- (arXiv 2025.08) Dynamic Survival Prediction using Longitudinal Images based on Transformer, [[Paper]](https://arxiv.org/pdf/2508.09328)
+- (arXiv 2025.08) Hybrid(Transformer+CNN)-based Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2508.09189)
