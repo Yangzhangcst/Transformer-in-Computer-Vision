@@ -40,3 +40,4 @@
 - (arXiv 2025.03) Siformer: Feature-isolated Transformer for Efficient Skeleton-based Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2503.20436.pdf)
 - (arXiv 2025.04) LM-MCVT: A Lightweight Multi-modal Multi-view Convolutional-Vision Transformer Approach for 3D Object Recognition, [[Paper]](https://arxiv.org/pdf/2504.19256.pdf)
 - (arXiv 2025.07) DSFormer: A Dual-Scale Cross-Learning Transformer for Visual Place Recognition, [[Paper]](https://arxiv.org/pdf/2507.18444.pdf), [[Code]](https://github.com/aurorawhisper/dsformer)
+- (arXiv 2025.08) A Signer-Invariant Conformer and Multi-Scale Fusion Transformer for Continuous Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2508.09372.pdf), [[Code]](https://github.com/rezwanh001/MSLR-Pose86K-CSLR-Isharah)
