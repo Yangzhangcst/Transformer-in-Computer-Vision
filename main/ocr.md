@@ -1,4 +1,5 @@
 ### OCR
+
 - (arXiv 2021.04) Handwriting Transformers, [[Paper]](https://arxiv.org/abs/2104.03964)
 - (arXiv 2021.05) I2C2W: Image-to-Character-to-Word Transformers for Accurate Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08383.pdf)
 - (arXiv 2021.05) Vision Transformer for Fast and Efficient Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2105.08582.pdf)
@@ -8,6 +9,7 @@
 - (arXiv 2021.10) Robustness Evaluation of Transformer-based Form Field Extractors via Form Attacks, [[Paper]](https://arxiv.org/pdf/2110.04413.pdf), [[Code]](https://aka.ms/TrOCR)
 - (arXiv 2021.10) DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction, [[Paper]](https://arxiv.org/pdf/2110.12942.pdf)
 - (arXiv 2021.11) TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance, [[Paper]](https://arxiv.org/pdf/2111.08314.pdf)
+- (arXiv 2021.11) OCR-free Document Understanding Transformer (Donut), [[Paper]](https://arxiv.org/pdf/2111.15664.pdf), [[Code]](https://github.com/clovaai/donut)
 - (arXiv 2021.12) Visual-Semantic Transformer for Scene Text Recognition, [[Paper]](https://arxiv.org/pdf/2112.00948.pdf)
 - (arXiv 2021.12) Transformer-Based Approach for Joint Handwriting and Named Entity Recognition in Historical documents, [[Paper]](https://arxiv.org/pdf/2112.04189.pdf)
 - (arXiv 2021.12) SPTS: Single-Point Text Spotting, [[Paper]](https://arxiv.org/pdf/2112.07917.pdf)
