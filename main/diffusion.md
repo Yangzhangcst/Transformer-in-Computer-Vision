@@ -218,3 +218,4 @@
 - (arXiv 2025.08) HiMat: DiT-based Ultra-High Resolution SVBRDF Generation,  [[Paper]](https://arxiv.org/pdf/2508.07011)
 - (arXiv 2025.08) DiTalker: A Unified DiT-based Framework for High-Quality and Speaking Styles Controllable Portrait Animation, [[Paper]](https://arxiv.org/pdf/2508.06511),[[Code]](https://thenameishope.github.io/DiTalker/)
 - (arXiv 2025.08) MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2508.09709)
+- (arXiv 2025.08) MixCache: Mixture-of-Cache for Video Diffusion Transformer Acceleration, [[Paper]](https://arxiv.org/pdf/2508.12691)
