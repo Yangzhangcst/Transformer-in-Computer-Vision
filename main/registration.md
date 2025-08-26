@@ -18,3 +18,4 @@
 - (arXiv 2024.10) TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration,  [[Paper]](https://arxiv.org/pdf/2410.00360.pdf), [[Code]](https://github.com/muyao99/TFCT-I2P)
 - (arXiv 2024.10) A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration,  [[Paper]](https://arxiv.org/pdf/2410.10295.pdf), [[Code]](https://github.com/RenlangHuang/CAST)
 - (arXiv 2025.06) MT-PCR: A Hybrid Mamba-Transformer with Spatial Serialization for Hierarchical Point Cloud Registration,  [[Paper]](https://arxiv.org/pdf/2506.13183.pdf)
+- (arXiv 2025.08) FractMorph: A Fractional Fourier-Based Multi-Domain Transformer for Deformable Image Registration,  [[Paper]](https://arxiv.org/pdf/2508.12445.pdf), [[Code]](https://github.com/shayankebriti/FractMorph)
