@@ -31,3 +31,4 @@
 - (arxiv 2025.05) Hybrid Spiking Vision Transformer for Object Detection with Event Cameras, [[Paper]](https://arxiv.org/pdf/2505.07715)
 - (arxiv 2025.05) SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and  Complexity, [[Paper]](https://arxiv.org/pdf/2505.10352), [[Code]](https://github.com/JimmyZou/SpikeVideoFormer)
 - (arxiv 2025.08) STF: Shallow-Level Temporal Feedback to Enhance Spiking Transformers, [[Paper]](https://arxiv.org/pdf/2508.00387)
+- (arxiv 2025.08) STAS: Spatio-Temporal Adaptive Computation Time for Spiking Transformers, [[Paper]](https://arxiv.org/pdf/2508.14138)
