@@ -275,3 +275,4 @@
 - (arXiv 2025.07) Frequency-Dynamic Attention Modulation for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2507.12006), [[Code]](https://github.com/Linwei-Chen/FDAM)
 - (arXiv 2025.07) Revisiting DETR for Small Object Detection via Noise-Resilient Query Optimization, [[Paper]](https://arxiv.org/pdf/2507.19059)
 - (arXiv 2025.08) Adversarial Attention Perturbations for Large Object Detection Transformers, [[Paper]](https://arxiv.org/pdf/2508.02987), [[Code]](https://github.com/zacharyyahn/AFOG)
+- (arXiv 2025.08) Real-Time Beach Litter Detection and Counting: A Comparative Analysis of RT-DETR Model Variants, [[Paper]](https://arxiv.org/pdf/2508.13101)
