@@ -40,3 +40,4 @@
 - (arXiv 2025.01) Generalized Single-Image-Based Morphing Attack Detection Using Deep Representations from Vision Transformer, [[Paper]](https://arxiv.org/pdf/2501.09817)
 - (arXiv 2025.02) Mechanistic Understandings of Representation Vulnerabilities and Engineering Robust Vision Transformers, [[Paper]](https://arxiv.org/pdf/2502.04679)
 - (arXiv 2025.03) Robustness Tokens: Towards Adversarial Robustness of Transformers, [[Paper]](https://arxiv.org/pdf/2506.128751)
+- (arXiv 2025.08) ViT-EnsembleAttack: Augmenting Ensemble Models for Stronger Adversarial Transferability in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2508.12384),[[Code]](https://github.com/Trustworthy-AI-Group/TransferAttack)
