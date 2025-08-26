@@ -797,3 +797,5 @@
 - (arXiv 2025.08) IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis, [[Paper]](https://arxiv.org/pdf/2508.12381), [[Code]](https://anonymous.4open.science/r/IPGPhormer-6EEB/README.md)
 - (arXiv 2025.08) Skin Cancer Classification: Hybrid CNN-Transformer Models with KAN-Based Fusion, [[Paper]](https://arxiv.org/pdf/2508.12484)
 - (arXiv 2025.08) Vision Transformers for Kidney Stone Image Classification: A Comparative Study with CNNs, [[Paper]](https://arxiv.org/pdf/2508.13461)
+- (arXiv 2025.08) A Fully Transformer Based Multimodal Framework for Explainable Cancer Image Segmentation Using Radiology Reports, [[Paper]](https://arxiv.org/pdf/2508.13796)
+- (arXiv 2025.08) Deep Skin Lesion Segmentation with Transformer-CNN Fusion: Toward Intelligent Skin Cancer Analysis, [[Paper]](https://arxiv.org/pdf/2508.14509)
