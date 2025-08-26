@@ -794,3 +794,6 @@
 - (arXiv 2025.08) Dynamic Survival Prediction using Longitudinal Images based on Transformer, [[Paper]](https://arxiv.org/pdf/2508.09328)
 - (arXiv 2025.08) Hybrid(Transformer+CNN)-based Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2508.09189)
 - (arXiv 2025.08) HistoViT: Vision Transformer for Accurate and Scalable Histopathological Cancer Diagnosis, [[Paper]](https://arxiv.org/pdf/2508.11181)
+- (arXiv 2025.08) IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis, [[Paper]](https://arxiv.org/pdf/2508.12381), [[Code]](https://anonymous.4open.science/r/IPGPhormer-6EEB/README.md)
+- (arXiv 2025.08) Skin Cancer Classification: Hybrid CNN-Transformer Models with KAN-Based Fusion, [[Paper]](https://arxiv.org/pdf/2508.12484)
+- (arXiv 2025.08) Vision Transformers for Kidney Stone Image Classification: A Comparative Study with CNNs, [[Paper]](https://arxiv.org/pdf/2508.13461)
