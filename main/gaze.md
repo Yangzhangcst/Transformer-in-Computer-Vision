@@ -16,3 +16,4 @@
 - (arXiv 2024.05) Gaze-DETR: Using Expert Gaze to Reduce False Positives in Vulvovaginal Candidiasis Screening, [[Paper]](https://arxiv.org/pdf/2405.09463.pdf), [[Code]](https://github.com/YanKong0408/Gaze-DETR)
 - (arXiv 2024.07) OAT: Object-Level Attention Transformer for Gaze Scanpath Prediction, [[Paper]](https://arxiv.org/pdf/2407.13335.pdf), [[Code]](https://github.com/HKUST-NISL/oat_eccv24)
 - (arXiv 2025.07) Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers, [[Paper]](https://arxiv.org/pdf/2507.15833.pdf), [[Code]](https://ian-chuang.github.io/gaze-av-aloha/)
+- (arXiv 2025.08) GazeDETR: Gaze Detection using Disentangled Head and Gaze Representations, [[Paper]](https://arxiv.org/pdf/2508.12966.pdf)
