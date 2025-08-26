@@ -124,3 +124,4 @@
 - (arXiv 2025.08) Enhancing Diffusion Face Generation with Contrastive Embeddings and SegFormer Guidance,  [[Paper]](https://arxiv.org/pdf/2508.09847.pdf),[[Code]](https://github.com/Tin-Hoang/humanfaces-diffusion-generation)
 - (arXiv 2025.08) Taming Transformer for Emotion-Controllable Talking Face Generation,  [[Paper]](https://arxiv.org/pdf/2508.14359.pdf)
 - (arXiv 2025.08) TCFNet: Bidirectional face-bone transformation via a Transformer-based coarse-to-fine point movement network,  [[Paper]](https://arxiv.org/pdf/2508.14373.pdf)
+- (arXiv 2025.08) ViT-FIQA: Assessing Face Image Quality using Vision Transformers,  [[Paper]](https://arxiv.org/pdf/2508.13957.pdf),[[Code]](https://github.com/atzoriandrea/ViT-FIQA-Assessing-Face-Image-Quality-using-Vision-Transformers)
