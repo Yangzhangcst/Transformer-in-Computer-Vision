@@ -122,3 +122,5 @@
 - (arXiv 2025.07) MGHFT: Multi-Granularity Hierarchical Fusion Transformer for Cross-Modal Sticker Emotion Recognition,  [[Paper]](https://arxiv.org/pdf/2507.18929.pdf),[[Code]](https://github.com/cccccj-03/MGHFT_ACMMM2025)
 - (arXiv 2025.07) Generative Pre-training for Subjective Tasks: A Diffusion Transformer-Based Framework for Facial Beauty Prediction,  [[Paper]](https://arxiv.org/pdf/2507.20363.pdf)
 - (arXiv 2025.08) Enhancing Diffusion Face Generation with Contrastive Embeddings and SegFormer Guidance,  [[Paper]](https://arxiv.org/pdf/2508.09847.pdf),[[Code]](https://github.com/Tin-Hoang/humanfaces-diffusion-generation)
+- (arXiv 2025.08) Taming Transformer for Emotion-Controllable Talking Face Generation,  [[Paper]](https://arxiv.org/pdf/2508.14359.pdf)
+- (arXiv 2025.08) TCFNet: Bidirectional face-bone transformation via a Transformer-based coarse-to-fine point movement network,  [[Paper]](https://arxiv.org/pdf/2508.14373.pdf)
