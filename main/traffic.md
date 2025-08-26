@@ -78,3 +78,4 @@
 - (arXiv 2025.06) Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2506.23523)
 - (arXiv 2025.07) CaSTFormer: Causal Spatio-Temporal Transformer for Driving Intention Prediction, [[Paper]](https://arxiv.org/pdf/2507.13425)
 - (arXiv 2025.08) SpaRC-AD: A Baseline for Radar-Camera Fusion in End-to-End Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2508.10567), [[Code]](https://phi-wol.github.io/sparcad/)
+- (arXiv 2025.08) Multiscale Video Transformers for Class Agnostic Segmentation in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2508.14729)
