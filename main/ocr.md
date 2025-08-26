@@ -82,3 +82,4 @@
 - (arXiv 2025.06) TABLET: Table Structure Recognition using Encoder-only Transformers, [[Paper]](https://arxiv.org/pdf/2506.07015.pdf)
 - (arXiv 2025.06) Dual-view Spatio-Temporal Feature Fusion with CNN-Transformer Hybrid Network for Chinese Isolated Sign Language Recognition, [[Paper]](https://arxiv.org/pdf/2506.06966.pdf)
 - (arXiv 2025.06) Hyper-Local Deformable Transformers for Text Spotting on Historical Maps, [[Paper]](https://arxiv.org/pdf/2506.15010.pdf),[[Code]](https://github.com/kartta-foundation/mapkurator-palette-doc)
+- (arXiv 2025.08) Handwritten Text Recognition of Historical Manuscripts Using Transformer-Based Models, [[Paper]](https://arxiv.org/pdf/2508.11499.pdf)
