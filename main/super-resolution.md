@@ -90,4 +90,4 @@
 - (arXiv 2025.05) EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution, [[Paper]](https://arxiv.org/pdf/2505.05209.pdf)
 - (arXiv 2025.06) SAAT: Synergistic Alternating Aggregation Transformer for Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2506.03740.pdf)
 - (arXiv 2025.06) DualX-VSR: Dual Axial SpatialTemporal Transformer for Real-World Video Super-Resolution without Motion Compensation, [[Paper]](https://arxiv.org/pdf/2506.04830.pdf)
-- (arXiv 2025.09) Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution, [[Paper]](https://arxiv.org/pdf/2509.04824.pdf)
+- (arXiv 2025.09) Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution, [[Paper]](https://arxiv.org/pdf/2509.04824.pdf),[[Code]](https://github.com/hsliu01/LFMT)
