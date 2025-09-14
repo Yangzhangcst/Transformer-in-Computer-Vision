@@ -19,3 +19,4 @@
 - (arXiv 2025.04) RCCFormer: A Robust Crowd Counting Network Based on Transformer, [[Paper]](https://arxiv.org/pdf/2504.04935.pdf), [[Code]](https://github.com/lp-094/RCCFormer)
 - (arXiv 2025.04) A Transformer-based Multimodal Fusion Model for Efficient Crowd Counting Using Visual and Wireless Signals, [[Paper]](https://arxiv.org/pdf/2504.20178.pdf)
 - (arXiv 2025.05) Transformer-Based Dual-Optical Attention Fusion Crowd Head Point Counting and Localization Network, [[Paper]](https://arxiv.org/pdf/2505.06937.pdf), [[Code]](https://github.com/zz-zik/TAPNet)
+- (arXiv 2025.09) CrowdQuery: Density-Guided Query Module for Enhanced 2D and 3D Detection in Crowded Scenes, [[Paper]](https://arxiv.org/pdf/2509.08738.pdf)
