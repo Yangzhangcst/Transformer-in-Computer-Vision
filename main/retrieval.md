@@ -27,3 +27,4 @@
 - (arXiv 2024.10) PtychoFormer: A Transformer-based Model for Ptychographic Phase Retrieval, [[Paper]](https://arxiv.org/pdf/2410.17377.pdf)
 - (arXiv 2025.01) Length-Aware DETR for Robust Moment Retrieval, [[Paper]](https://arxiv.org/pdf/2412.20816.pdf), [[Code]](https://github.com/sjpark5800/LA-DETR)
 - (arXiv 2025.01) LD-DETR: Loop Decoder DEtection TRansformer for Video Moment Retrieval and Highlight Detection, [[Paper]](https://arxiv.org/pdf/2501.10787.pdf), [[Code]](https://github.com/qingchen239/ld-detr)
+- (arXiv 2025.09) Recurrence Meets Transformers for Universal Multimodal Retrieval, [[Paper]](https://arxiv.org/pdf/2509.08897.pdf), [[Code]](https://github.com/aimagelab/ReT-2)
