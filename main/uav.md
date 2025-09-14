@@ -14,3 +14,4 @@
 - (arXiv 2025.02) AeroReformer: Aerial Referring Transformer for UAV-based Referring Image Segmentation, [[Paper]](https://arxiv.org/pdf/2502.16680.pdf), [[Code]](https://github.com/lironui/AeroReformer)
 - (arXiv 2025.03) Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking, [[Paper]](https://arxiv.org/pdf/2503.06625.pdf), [[Code]](https://github.com/GXNU-ZhongLab/SGLATrack)
 - (arXiv 2025.06) From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications, [[Paper]](https://arxiv.org/pdf/2506.22360.pdf)
+- (arXiv 2025.09) RT-DETR++ for UAV Object Detection, [[Paper]](https://arxiv.org/pdf/2509.09157.pdf)
