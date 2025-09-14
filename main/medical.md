@@ -800,3 +800,7 @@
 - (arXiv 2025.08) A Fully Transformer Based Multimodal Framework for Explainable Cancer Image Segmentation Using Radiology Reports, [[Paper]](https://arxiv.org/pdf/2508.13796)
 - (arXiv 2025.08) Deep Skin Lesion Segmentation with Transformer-CNN Fusion: Toward Intelligent Skin Cancer Analysis, [[Paper]](https://arxiv.org/pdf/2508.14509)
 - (arXiv 2025.09) CNN-ViT Hybrid for Pneumonia Detection: Theory and Empiric on Limited Data without Pretraining, [[Paper]](https://arxiv.org/pdf/2509.08586)
+- (arXiv 2025.09) Symmetry Interactive Transformer with CNN Framework for Diagnosis of Alzheimer's Disease Using Structural MRI, [[Paper]](https://arxiv.org/pdf/2509.08243)
+- (arXiv 2025.09) RepViT-CXR: A Channel Replication Strategy for Vision Transformers in Chest X-ray Tuberculosis and Pneumonia Classification, [[Paper]](https://arxiv.org/pdf/2509.08234)
+- (arXiv 2025.09) CoAtNeXt:An Attention-Enhanced ConvNeXtV2-Transformer Hybrid Model for Gastric Tissue Classification, [[Paper]](https://arxiv.org/pdf/2509.09242)
+- (arXiv 2025.09) Barlow-Swin: Toward a novel siamese-based segmentation architecture using Swin-Transformers, [[Paper]](https://arxiv.org/pdf/2509.06885)
