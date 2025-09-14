@@ -79,3 +79,4 @@
 - (arXiv 2025.08) Fusion of Pervasive RF Data with Spatial Images via Vision Transformers for Enhanced Mapping in Smart Cities, [[Paper]](https://arxiv.org/pdf/2508.03736)
 - (arXiv 2025.08) TEFormer: Texture-Aware and Edge-Guided Transformer for Semantic Segmentation of Urban Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2508.06224)
 - (arXiv 2025.08) VFM-Guided Semi-Supervised Detection Transformer for Source-Free Object Detection in Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2508.11167), [[Code]](https://github.com/h751410234/VG-DETR)
+- (arXiv 2025.09) PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection, [[Paper]](https://arxiv.org/pdf/2509.09572), [[Code]](https://github.com/dyzy41/PeftCD)
