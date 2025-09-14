@@ -209,3 +209,4 @@
 - (arXiv 2025.08) A Framework Combining 3D CNN and Transformer for Video-Based Behavior Recognition,  [[Paper]](https://arxiv.org/pdf/2508.06528)
 - (arXiv 2025.08) RelayFormer: A Unified Local-Global Attention Framework for Scalable Image and Video Manipulation Localization,  [[Paper]](https://arxiv.org/pdf/2508.09459), [[Code]](https://github.com/WenOOI/RelayFormer)
 - (arXiv 2025.08) MoCHA-former: Moiré-Conditioned Hybrid Adaptive Transformer for Video Demoiréing,  [[Paper]](https://arxiv.org/pdf/2508.14423)
+- (arXiv 2025.09) Sparse Transformer for Ultra-sparse Sampled Video Compressive Sensing,  [[Paper]](https://arxiv.org/pdf/2509.08228), [[Code]](https://github.com/mcao92/BSTFormer)
