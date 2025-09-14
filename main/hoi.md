@@ -24,3 +24,4 @@
 - (arXiv 2024.05) Bidirectional Progressive Transformer for Interaction Intention Anticipation, [[Paper]](https://arxiv.org/pdf/2405.05552.pdf)
 - (arXiv 2025.03) End-to-End HOI Reconstruction Transformer with Graph-based Encoding, [[Paper]](https://arxiv.org/pdf/2503.06012.pdf), [[Code]](https://github.com/ZhenrongWang/hoitg)
 - (arXiv 2025.06) iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2506.12847.pdf)
+- (arXiv 2025.09) Pointing-Guided Target Estimation via Transformer-Based Attention, [[Paper]](https://arxiv.org/pdf/2509.05031.pdf), [[Code]](https://github.com/lucamuellercode/MMITF)
