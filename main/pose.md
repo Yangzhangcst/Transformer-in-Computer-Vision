@@ -136,3 +136,4 @@
 - (arXiv 2025.08) AniMer+: Unified Pose and Shape Estimation Across Mammalia and Aves via Family-Aware Transformer, [[Paper]](https://arxiv.org/pdf/2508.00298.pdf)
 - (arXiv 2025.08) MVTOP: Multi-View Transformer-based Object Pose-Estimation, [[Paper]](https://arxiv.org/pdf/2508.03243.pdf)
 - (arXiv 2025.08) PyCAT4: A Hierarchical Vision Transformer-based Framework for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2508.02806.pdf)
+- (arXiv 2025.09) Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers, [[Paper]](https://arxiv.org/pdf/2509.06956.pdf), [[Code]](https://github.com/NationalGAILab/HoT)
