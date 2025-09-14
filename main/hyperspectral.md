@@ -46,3 +46,4 @@
 - (arXiv 2025.06) Physical Degradation Model-Guided Interferometric Hyperspectral Reconstruction with Unfolding Transformer, [[Paper]](https://arxiv.org/pdf/2506.21880.pdf)
 - (arXiv 2025.07) Hybrid-Domain Synergistic Transformer for Hyperspectral Image Denoising, [[Paper]](https://arxiv.org/pdf/2507.20099.pdf),[[Code]](https://github.com/lhy-cn/HDST-HSIDenoise)
 - (arXiv 2025.07) THAT: Token-wise High-frequency Augmentation Transformer for Hyperspectral Pansharpening, [[Paper]](https://arxiv.org/pdf/2508.08183.pdf),[[Code]](https://github.com/kailuo93/THAT)
+- (arXiv 2025.09) SpecSwin3D: Generating Hyperspectral Imagery from Multispectral Data via Transformer Networks, [[Paper]](https://arxiv.org/pdf/2509.06122.pdf),[[Code]](https://github.com/kailuo93/THAT)
