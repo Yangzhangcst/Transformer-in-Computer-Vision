@@ -799,3 +799,4 @@
 - (arXiv 2025.08) Vision Transformers for Kidney Stone Image Classification: A Comparative Study with CNNs, [[Paper]](https://arxiv.org/pdf/2508.13461)
 - (arXiv 2025.08) A Fully Transformer Based Multimodal Framework for Explainable Cancer Image Segmentation Using Radiology Reports, [[Paper]](https://arxiv.org/pdf/2508.13796)
 - (arXiv 2025.08) Deep Skin Lesion Segmentation with Transformer-CNN Fusion: Toward Intelligent Skin Cancer Analysis, [[Paper]](https://arxiv.org/pdf/2508.14509)
+- (arXiv 2025.09) CNN-ViT Hybrid for Pneumonia Detection: Theory and Empiric on Limited Data without Pretraining, [[Paper]](https://arxiv.org/pdf/2509.08586)
