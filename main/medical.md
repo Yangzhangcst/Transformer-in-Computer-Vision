@@ -804,3 +804,4 @@
 - (arXiv 2025.09) RepViT-CXR: A Channel Replication Strategy for Vision Transformers in Chest X-ray Tuberculosis and Pneumonia Classification, [[Paper]](https://arxiv.org/pdf/2509.08234)
 - (arXiv 2025.09) CoAtNeXt:An Attention-Enhanced ConvNeXtV2-Transformer Hybrid Model for Gastric Tissue Classification, [[Paper]](https://arxiv.org/pdf/2509.09242)
 - (arXiv 2025.09) Barlow-Swin: Toward a novel siamese-based segmentation architecture using Swin-Transformers, [[Paper]](https://arxiv.org/pdf/2509.06885)
+- (arXiv 2025.09) An Autoencoder and Vision Transformer-based Interpretability Analysis of the Differences in Automated Staging of Second and Third Molars, [[Paper]](https://arxiv.org/pdf/2509.09911)
