@@ -16,3 +16,4 @@
 - (arXiv 2025.06) From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications, [[Paper]](https://arxiv.org/pdf/2506.22360.pdf)
 - (arXiv 2025.09) RT-DETR++ for UAV Object Detection, [[Paper]](https://arxiv.org/pdf/2509.09157.pdf)
 - (arXiv 2025.09) TinyDef-DETR: A DETR-based Framework for Defect Detection in Transmission Lines from UAV Imagery, [[Paper]](https://arxiv.org/pdf/2509.06035.pdf)
+- (arXiv 2025.09) WAVE-DETR Multi-Modal Visible and Acoustic Real-Life Drone Detector, [[Paper]](https://arxiv.org/pdf/2509.09859.pdf)
