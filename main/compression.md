@@ -42,3 +42,4 @@
 - (arXiv 2024.12) Efficient Semantic Communication Through Transformer-Aided Compression, [[Paper]](https://arxiv.org/pdf/2412.01817.pdf)
 - (arXiv 2025.07) MLoRQ: Bridging Low-Rank and Quantization for Transformer Compression, [[Paper]](https://arxiv.org/pdf/2507.09616.pdf)
 - (arXiv 2025.08) Context Guided Transformer Entropy Modeling for Video Compression, [[Paper]](https://arxiv.org/pdf/2508.01852.pdf)
+- (arXiv 2025.09) Communication Efficient Split Learning of ViTs with Attention-based Double Compression, [[Paper]](https://arxiv.org/pdf/2509.15058.pdf)
