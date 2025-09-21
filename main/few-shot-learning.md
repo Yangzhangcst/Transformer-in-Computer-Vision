@@ -39,3 +39,4 @@
 - (arXiv 2025.05) CDFormer: Cross-Domain Few-Shot Object Detection Transformer Against Feature Confusion, [[Paper]](https://arxiv.org/pdf/2505.00938.pdf),[[Code]](https://longxuanx.github.io/CDFormer/)
 - (arXiv 2025.07) ViT-ProtoNet for Few-Shot Image Classification: A Multi-Benchmark Evaluation, [[Paper]](https://arxiv.org/pdf/2507.09299.pdf)
 - (arXiv 2025.07) Efficient Masked Attention Transformer for Few-Shot Classification and Segmentation, [[Paper]](https://arxiv.org/pdf/2507.23642.pdf)
+- (arXiv 2025.09) BATR-FST: Bi-Level Adaptive Token Refinement for Few-Shot Transformers, [[Paper]](https://arxiv.org/pdf/2509.12768.pdf)
