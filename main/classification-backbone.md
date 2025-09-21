@@ -673,3 +673,4 @@
 - (arXiv 2025.08) Calibration Attention: Instance-wise Temperature Scaling for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2508.08547.pdf),[[Code]](https://github.com/EagleAdelaide/CalibrationAttention-CalAttn-)
 - (arXiv 2025.08) Exploiting Layer Normalization Fine-tuning in Visual Transformer Foundation Models for Classification, [[Paper]](https://arxiv.org/pdf/2508.07577.pdf)
 - (arXiv 2025.08) Learning Spatial Decay for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2508.09525.pdf)
+- (arXiv 2025.09) Adaptive Token Merging for Efficient Transformer Semantic Communication at the Edge, [[Paper]](https://arxiv.org/pdf/2509.09955.pdf)
