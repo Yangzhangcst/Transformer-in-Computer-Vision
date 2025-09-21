@@ -220,3 +220,5 @@
 - (arXiv 2025.08) MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2508.09709)
 - (arXiv 2025.08) MixCache: Mixture-of-Cache for Video Diffusion Transformer Acceleration, [[Paper]](https://arxiv.org/pdf/2508.12691)
 - (arXiv 2025.09) Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders, [[Paper]](https://arxiv.org/pdf/2509.09547)
+- (arXiv 2025.09) SpeCa: Accelerating Diffusion Transformers with Speculative Feature Caching, [[Paper]](https://arxiv.org/pdf/2509.11628),[[Code]](https://github.com/Shenyi-Z/Cache4Diffusion)
+- (arXiv 2025.09) BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching, [[Paper]](https://arxiv.org/pdf/2509.13789)
