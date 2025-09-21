@@ -210,3 +210,4 @@
 - (arXiv 2025.08) RelayFormer: A Unified Local-Global Attention Framework for Scalable Image and Video Manipulation Localization,  [[Paper]](https://arxiv.org/pdf/2508.09459), [[Code]](https://github.com/WenOOI/RelayFormer)
 - (arXiv 2025.08) MoCHA-former: Moiré-Conditioned Hybrid Adaptive Transformer for Video Demoiréing,  [[Paper]](https://arxiv.org/pdf/2508.14423)
 - (arXiv 2025.09) Sparse Transformer for Ultra-sparse Sampled Video Compressive Sensing,  [[Paper]](https://arxiv.org/pdf/2509.08228), [[Code]](https://github.com/mcao92/BSTFormer)
+- (arXiv 2025.09) ResidualViT for Efficient Temporally Dense Video Encoding,  [[Paper]](https://arxiv.org/pdf/2509.13255)
