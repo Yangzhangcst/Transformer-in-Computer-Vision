@@ -13,3 +13,4 @@
 - (arXiv 2023.11) GaitContour: Efficient Gait Recognition based on a Contour-Pose Representation, [[Paper]](https://arxiv.org/pdf/2311.16497.pdf)
 - (arXiv 2023.12) Learning to Estimate Critical Gait Parameters from Single-View RGB Videos with Transformer-Based Attention Network, [[Paper]](https://arxiv.org/pdf/2312.00398.pdf), [[Code]](https://github.com/vinuni-vishc/transformer-gait-analysis)
 - (arXiv 2025.01) Quantitative Gait Analysis from Single RGB Videos Using a Dual-Input Transformer-Based Network, [[Paper]](https://arxiv.org/pdf/2501.01689.pdf), [[Code]](https://github.com/lmtszrl/Quantitative-Gait-Analysis-From-RGB-Videos-Using-a-Dual-Input-Transformer-Based-Network)
+- (arXiv 2025.09) CGTGait: Collaborative Graph and Transformer for Gait Emotion Recognition, [[Paper]](https://arxiv.org/pdf/2509.16623.pdf), [[Code]](https://github.com/githubzjj1/CGTGait)
