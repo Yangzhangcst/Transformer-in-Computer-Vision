@@ -223,3 +223,4 @@
 - (arXiv 2025.09) SpeCa: Accelerating Diffusion Transformers with Speculative Feature Caching, [[Paper]](https://arxiv.org/pdf/2509.11628),[[Code]](https://github.com/Shenyi-Z/Cache4Diffusion)
 - (arXiv 2025.09) BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching, [[Paper]](https://arxiv.org/pdf/2509.13789)
 - (arXiv 2025.09) LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence, [[Paper]](https://arxiv.org/pdf/2509.12203)
+- (arXiv 2025.09) FG-Attn: Leveraging Fine-Grained Sparsity In Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2509.16518),[[Code]](https://github.com/sankeerth95/FG-Attn)
