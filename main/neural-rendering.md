@@ -7,3 +7,4 @@
 - (arXiv 2022.09) NeRF-Loc: Transformer-Based Object Localization Within Neural Radiance Fields, [[Paper]](https://arxiv.org/pdf/2209.12068.pdf)
 - (arXiv 2023.03) Single-view Neural Radiance Fields with Depth Teacher, [[Paper]](https://arxiv.org/pdf/2303.09952.pdf)
 - (arXiv 2024.01) CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video, [[Paper]](https://arxiv.org/pdf/2401.04861.pdf)
+- (arXiv 2025.09) DT-NeRF: A Diffusion and Transformer-Based Optimization Approach for Neural Radiance Fields in 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2509.17232.pdf)
