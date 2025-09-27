@@ -158,3 +158,4 @@
 - (arXiv 2025.06) ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds, [[Paper]](https://arxiv.org/pdf/2506.16991.pdf)
 - (arXiv 2025.08) HyPCV-Former: Hyperbolic Spatio-Temporal Transformer for 3D Point Cloud Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2508.00473.pdf)
 - (arXiv 2025.09) Point Linguist Model: Segment Any Object via Bridged Large 3D-Language Model, [[Paper]](https://arxiv.org/pdf/2509.07825.pdf), [[Code]](https://github.com/zhh6425/PLM)
+- (arXiv 2025.09) Point-RTD: Replaced Token Denoising for Pretraining Transformer Models on Point Clouds, [[Paper]](https://arxiv.org/pdf/2509.17207.pdf), [[Code]](https://github.com/GunnerStone/PointRTD)
