@@ -806,3 +806,4 @@
 - (arXiv 2025.09) Barlow-Swin: Toward a novel siamese-based segmentation architecture using Swin-Transformers, [[Paper]](https://arxiv.org/pdf/2509.06885)
 - (arXiv 2025.09) An Autoencoder and Vision Transformer-based Interpretability Analysis of the Differences in Automated Staging of Second and Third Molars, [[Paper]](https://arxiv.org/pdf/2509.09911)
 - (arXiv 2025.09) 3DViT-GAT: A Unified Atlas-Based 3D Vision Transformer and Graph Learning Framework for Major Depressive Disorder Detection Using Structural MRI Data, [[Paper]](https://arxiv.org/pdf/2509.12143)
+- (arXiv 2025.09) TractoTransformer: Diffusion MRI Streamline Tractography using CNN and Transformer Networks, [[Paper]](https://arxiv.org/pdf/2509.16429)
