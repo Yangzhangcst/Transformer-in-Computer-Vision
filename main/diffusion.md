@@ -225,3 +225,4 @@
 - (arXiv 2025.09) LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence, [[Paper]](https://arxiv.org/pdf/2509.12203)
 - (arXiv 2025.09) FG-Attn: Leveraging Fine-Grained Sparsity In Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2509.16518),[[Code]](https://github.com/sankeerth95/FG-Attn)
 - (arXiv 2025.09) Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2509.18096),[[Code]](https://github.com/cvlab-kaist/Seg4Diff)
+- (arXiv 2025.09) OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion Transformer Models, [[Paper]](https://arxiv.org/pdf/2509.17627),[[Code]](https://github.com/Phantom-video/OmniInsert)
