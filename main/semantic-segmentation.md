@@ -172,3 +172,4 @@
 - (arXiv 2025.07) HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2507.18575.pdf)
 - (arXiv 2025.07) trAIce3D: A Prompt-Driven Transformer Based U-Net for Semantic Segmentation of Microglial Cells from Large-Scale 3D Microscopy Images, [[Paper]](https://arxiv.org/pdf/2507.22635.pdf)
 - (arXiv 2025.09) I-Segmenter: Integer-Only Vision Transformer for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2509.10334.pdf)
+- (arXiv 2025.09) Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models, [[Paper]](https://arxiv.org/pdf/2509.20107.pdf),[[Code]](https://github.com/robot-learning-freiburg/hsi-adapter)
