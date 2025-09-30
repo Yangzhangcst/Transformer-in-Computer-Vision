@@ -63,3 +63,4 @@
 - (arXiv 2025.06) Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features, [[Paper]](https://arxiv.org/pdf/2506.21046.pdf), [[Code]](https://github.com/spencerwooo/dSVA)
 - (arXiv 2025.07) Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding,  [[Paper]](https://arxiv.org/pdf/2507.09513.pdf)
 - (arXiv 2025.09) Which Direction to Choose? An Analysis on the Representation Power of Self-Supervised ViTs in Downstream Tasks,  [[Paper]](https://arxiv.org/pdf/2509.15272.pdf)
+- (arXiv 2025.09) FHRFormer: A Self-supervised Transformer Approach for Fetal Heart Rate Inpainting and Forecasting,  [[Paper]](https://arxiv.org/pdf/2509.20852.pdf)
