@@ -807,3 +807,5 @@
 - (arXiv 2025.09) An Autoencoder and Vision Transformer-based Interpretability Analysis of the Differences in Automated Staging of Second and Third Molars, [[Paper]](https://arxiv.org/pdf/2509.09911)
 - (arXiv 2025.09) 3DViT-GAT: A Unified Atlas-Based 3D Vision Transformer and Graph Learning Framework for Major Depressive Disorder Detection Using Structural MRI Data, [[Paper]](https://arxiv.org/pdf/2509.12143)
 - (arXiv 2025.09) TractoTransformer: Diffusion MRI Streamline Tractography using CNN and Transformer Networks, [[Paper]](https://arxiv.org/pdf/2509.16429)
+- (arXiv 2025.09) PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction, [[Paper]](https://arxiv.org/pdf/2509.20022), [[Code]](https://github.com/manahilr/PS3)
+- (arXiv 2025.09) HiPerformer: A High-Performance Global-Local Segmentation Model with Modular Hierarchical Fusion Strategy, [[Paper]](https://arxiv.org/pdf/2509.20280), [[Code]](https://github.com/xzphappy/HiPerformer)
