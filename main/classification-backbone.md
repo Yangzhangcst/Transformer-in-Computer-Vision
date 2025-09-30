@@ -674,3 +674,4 @@
 - (arXiv 2025.08) Exploiting Layer Normalization Fine-tuning in Visual Transformer Foundation Models for Classification, [[Paper]](https://arxiv.org/pdf/2508.07577.pdf)
 - (arXiv 2025.08) Learning Spatial Decay for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2508.09525.pdf)
 - (arXiv 2025.09) Adaptive Token Merging for Efficient Transformer Semantic Communication at the Edge, [[Paper]](https://arxiv.org/pdf/2509.09955.pdf)
+- (arXiv 2025.09) Enhancing Transformer-Based Vision Models: Addressing Feature Map Anomalies Through Novel Optimization Strategies, [[Paper]](https://arxiv.org/pdf/2509.19687.pdf)
