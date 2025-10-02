@@ -229,3 +229,4 @@
 - (arXiv 2025.09) DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation, [[Paper]](https://arxiv.org/pdf/2509.23624)
 - (arXiv 2025.09) QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification, [[Paper]](https://arxiv.org/pdf/2509.23681),[[Code]](https://github.com/wlfeng0509/QuantSparse)
 - (arXiv 2025.09) Stitch: Training-Free Position Control in Multimodal Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2509.26644),[[Code]](https://github.com/ExplainableML/Stitch)
+- (arXiv 2025.09) LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing, [[Paper]](https://arxiv.org/pdf/2509.25731)
