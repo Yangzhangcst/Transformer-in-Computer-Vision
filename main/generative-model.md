@@ -50,3 +50,4 @@
 - (arXiv 2025.07) Sparse Fine-Tuning of Transformers for Generative Tasks, [[Paper]](https://arxiv.org/pdf/2507.10855.pdf)
 - (arXiv 2025.07) Appearance Harmonization via Bilateral Grid Prediction with Transformers for 3DGS, [[Paper]](https://arxiv.org/pdf/2507.15748.pdf)
 - (arXiv 2025.07) A Practical Investigation of Spatially-Controlled Image Generation with Transformers, [[Paper]](https://arxiv.org/pdf/2507.15724.pdf)
+- (arXiv 2025.09) Scalable GANs with Transformers, [[Paper]](https://arxiv.org/pdf/2509.24935.pdf)
