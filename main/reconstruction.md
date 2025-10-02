@@ -40,3 +40,4 @@
 - (arXiv 2025.07) Transformer Based Building Boundary Reconstruction using Attraction Field Maps, [[Paper]](https://arxiv.org/pdf/2507.17038.pdf)
 - (arXiv 2025.08) STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer, [[Paper]](https://arxiv.org/pdf/2508.10893.pdf), [[Code]](https://github.com/NIRVANALAN/STream3R)
 - (arXiv 2025.09) EfficienT-HDR: An Efficient Transformer-Based Framework via Multi-Exposure Fusion for HDR Reconstruction, [[Paper]](https://arxiv.org/pdf/2509.19779.pdf)
+- (arXiv 2025.09) LVT: Large-Scale Scene Reconstruction via Local View Transformers, [[Paper]](https://arxiv.org/pdf/2509.25001.pdf), [[Code]](https://toobaimt.github.io/lvt/)
