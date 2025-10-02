@@ -28,3 +28,4 @@
 - (arXiv 2024.08) An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding, [[Paper]](https://arxiv.org/pdf/2408.01120.pdf), [[Code]](https://github.com/chenwei746/EEVG)
 - (arXiv 2024.11) LidaRefer: Outdoor 3D Visual Grounding for Autonomous Driving with Transformers, [[Paper]](https://arxiv.org/pdf/2411.04351.pdf)
 - (arXiv 2025.09) Prototype-Aware Multimodal Alignment for Open-Vocabulary Visual Grounding, [[Paper]](https://arxiv.org/pdf/2509.06291.pdf), [[Code]](https://github.com/plankXie/PAML)
+- (arXiv 2025.09) Sim-DETR: Unlock DETR for Temporal Sentence Grounding, [[Paper]](https://arxiv.org/pdf/2509.23867.pdf), [[Code]](https://github.com/nagara214/Sim-DETR)
