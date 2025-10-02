@@ -127,3 +127,4 @@
 - (arXiv 2025.08) ViT-FIQA: Assessing Face Image Quality using Vision Transformers,  [[Paper]](https://arxiv.org/pdf/2508.13957.pdf),[[Code]](https://github.com/atzoriandrea/ViT-FIQA-Assessing-Face-Image-Quality-using-Vision-Transformers)
 - (arXiv 2025.09) Scale-interaction transformer: a hybrid cnn-transformer model for facial beauty prediction,  [[Paper]](https://arxiv.org/pdf/2509.05078.pdf)
 - (arXiv 2025.09) Mixture of Global and Local Experts with Diffusion Transformer for Controllable Face Generation,  [[Paper]](https://arxiv.org/pdf/2509.00428.pdf)
+- (arXiv 2025.09) FairViT-GAN: A Hybrid Vision Transformer with Adversarial Debiasing for Fair and Explainable Facial Beauty Prediction,  [[Paper]](https://arxiv.org/pdf/2509.23859.pdf)
