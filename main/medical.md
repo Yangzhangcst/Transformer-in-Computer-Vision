@@ -809,3 +809,4 @@
 - (arXiv 2025.09) TractoTransformer: Diffusion MRI Streamline Tractography using CNN and Transformer Networks, [[Paper]](https://arxiv.org/pdf/2509.16429)
 - (arXiv 2025.09) PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction, [[Paper]](https://arxiv.org/pdf/2509.20022), [[Code]](https://github.com/manahilr/PS3)
 - (arXiv 2025.09) HiPerformer: A High-Performance Global-Local Segmentation Model with Modular Hierarchical Fusion Strategy, [[Paper]](https://arxiv.org/pdf/2509.20280), [[Code]](https://github.com/xzphappy/HiPerformer)
+- (arXiv 2025.09) PVTAdpNet: Polyp Segmentation using Pyramid vision transformer with a novel Adapter block, [[Paper]](https://arxiv.org/pdf/2509.23751), [[Code]](https://github.com/ayousefinejad/PVTAdpNet)
