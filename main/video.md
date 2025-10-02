@@ -211,3 +211,4 @@
 - (arXiv 2025.08) MoCHA-former: Moiré-Conditioned Hybrid Adaptive Transformer for Video Demoiréing,  [[Paper]](https://arxiv.org/pdf/2508.14423)
 - (arXiv 2025.09) Sparse Transformer for Ultra-sparse Sampled Video Compressive Sensing,  [[Paper]](https://arxiv.org/pdf/2509.08228), [[Code]](https://github.com/mcao92/BSTFormer)
 - (arXiv 2025.09) ResidualViT for Efficient Temporally Dense Video Encoding,  [[Paper]](https://arxiv.org/pdf/2509.13255)
+- (arXiv 2025.09) VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing,  [[Paper]](https://arxiv.org/pdf/2509.25998)
