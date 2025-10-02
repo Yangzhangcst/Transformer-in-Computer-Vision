@@ -86,3 +86,4 @@
 - (arXiv 2025.07) Patch Pruning Strategy Based on Robust Statistical Measures of Attention Weight Diversity in Vision Transformers, [[Paper]](https://arxiv.org/pdf/2507.19175)
 - (arXiv 2025.08) LRQ-DiT: Log-Rotation Post-Training Quantization of Diffusion Transformers for Text-to-Image Generation, [[Paper]](https://arxiv.org/pdf/2508.03485)
 - (arXiv 2025.09) Quantized Visual Geometry Grounded Transformer, [[Paper]](https://arxiv.org/pdf/2509.21302), [[Code]](https://github.com/wlfeng0509/QuantVGGT)
+- (arXiv 2025.09) CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2509.24416),[[Code]](https://github.com/Kai-Liu001/CLQ)
