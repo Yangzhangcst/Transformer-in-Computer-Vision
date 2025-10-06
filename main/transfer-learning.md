@@ -45,3 +45,4 @@
 - (arXiv 2024.10) Advanced Arabic Alphabet Sign Language Recognition Using Transfer Learning and Transformer Models, [[Paper]](https://arxiv.org/pdf/2410.00681.pdf)
 - (arXiv 2024.11) Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2411.07794.pdf)
 - (arXiv 2025.06) Pruning by Block Benefit: Exploring the Properties of Vision Transformer Blocks during Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2506.23675.pdf)
+- (arXiv 2025.09) Consistent Assistant Domains Transformer for Source-free Domain Adaptation, [[Paper]](https://arxiv.org/pdf/2510.01559.pdf), [[Code]](https://github.com/RoryShao/CADTrans)
