@@ -155,3 +155,4 @@
 - (arXiv 2025.06) Pose Matters: Evaluating Vision Transformers and CNNs for Human Action Recognition on Small COCO Subsets,  [[Paper]](https://arxiv.org/pdf/2506.11678)
 - (arXiv 2025.08) UniSTFormer: Unified Spatio-Temporal Lightweight Transformer for Efficient Skeleton-Based Action Recognition,  [[Paper]](https://arxiv.org/pdf/2508.08944),[[Code]](https://github.com/wenhanwu95/FreqMixFormer/tree/main/UniSTFormer)
 - (arXiv 2025.09) CascadeFormer: A Family of Two-stage Cascading Transformers for Skeleton-based Human Action Recognition,  [[Paper]](https://arxiv.org/pdf/2509.00692)
+- (arXiv 2025.09) MMeViT: Multi-Modal ensemble ViT for Post-Stroke Rehabilitation Action Recognition,  [[Paper]](https://arxiv.org/pdf/2509.23044),[[Code]](https://github.com/ye-Kim/MMeViT)
