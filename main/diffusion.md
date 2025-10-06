@@ -232,3 +232,5 @@
 - (arXiv 2025.09) LaTo: Landmark-tokenized Diffusion Transformer for Fine-grained Human Face Editing, [[Paper]](https://arxiv.org/pdf/2509.25731)
 - (arXiv 2025.09) DiTraj: training-free trajectory control for video diffusion transformer, [[Paper]](https://arxiv.org/pdf/2509.21839),[[Code]](https://github.com/xduzhangjiayu/DiTraj)
 - (arXiv 2025.09) Syncphony: Synchronized Audio-to-Video Generation with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2509.21893),[[Code]](https://jibin86.github.io/syncphony_project_page/)
+- (arXiv 2025.09) RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2509.22323)
+- (arXiv 2025.09) DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing, [[Paper]](https://arxiv.org/pdf/2510.02253)
