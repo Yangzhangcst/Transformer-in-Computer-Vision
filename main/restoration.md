@@ -43,3 +43,4 @@
 - (arXiv 2025.04) Dual Prompting Image Restoration with Diffusion Transformers,  [[Paper]](https://arxiv.org/pdf/2504.17825.pdf)
 - (arXiv 2025.06) Enhancing Image Restoration Transformer via Adaptive Translation Equivariance,  [[Paper]](https://arxiv.org/pdf/2506.18520.pdf)
 - (arXiv 2025.08) DiTVR: Zero-Shot Diffusion Transformer for Video Restoration,  [[Paper]](https://arxiv.org/pdf/2508.07811.pdf)
+- (arXiv 2025.09) LucidFlux: Caption-Free Universal Image Restoration via a Large-Scale Diffusion Transformer,  [[Paper]](https://arxiv.org/pdf/2509.22414.pdf), [[Code]](https://github.com/W2GenAI-Lab/LucidFlux)
