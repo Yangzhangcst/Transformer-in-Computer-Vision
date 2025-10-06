@@ -233,4 +233,5 @@
 - (arXiv 2025.09) DiTraj: training-free trajectory control for video diffusion transformer, [[Paper]](https://arxiv.org/pdf/2509.21839),[[Code]](https://github.com/xduzhangjiayu/DiTraj)
 - (arXiv 2025.09) Syncphony: Synchronized Audio-to-Video Generation with Diffusion Transformers, [[Paper]](https://arxiv.org/pdf/2509.21893),[[Code]](https://jibin86.github.io/syncphony_project_page/)
 - (arXiv 2025.09) RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer, [[Paper]](https://arxiv.org/pdf/2509.22323)
-- (arXiv 2025.09) DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing, [[Paper]](https://arxiv.org/pdf/2510.02253)
+- (arXiv 2025.09) SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse-Linear Attention, [[Paper]](https://arxiv.org/pdf/2509.24006),[[Code]](https://github.com/thu-ml/SLA)
+- (arXiv 2025.10) DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing, [[Paper]](https://arxiv.org/pdf/2510.02253)
