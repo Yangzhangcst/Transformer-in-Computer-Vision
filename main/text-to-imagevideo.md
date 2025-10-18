@@ -22,3 +22,4 @@
 - (arXiv 2024.12) Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis, [[Paper]](https://arxiv.org/pdf/2412.01819.pdf),[[Code]](https://github.com/yandex-research/switti)
 - (arXiv 2024.12) DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation, [[Paper]](https://arxiv.org/pdf/2503.10618.pdf)
 - (arXiv 2025.08) Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration, [[Paper]](https://arxiv.org/pdf/2508.14483.pdf),[[Code]](https://github.com/csbhr/Vivid-VR)
+- (arXiv 2025.10) Erased, But Not Forgotten: Erased Rectified Flow Transformers Still Remain Unsafe Under Concept Attack, [[Paper]](https://arxiv.org/pdf/2510.00635.pdf)
