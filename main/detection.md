@@ -278,3 +278,4 @@
 - (arXiv 2025.08) Real-Time Beach Litter Detection and Counting: A Comparative Analysis of RT-DETR Model Variants, [[Paper]](https://arxiv.org/pdf/2508.13101)
 - (arXiv 2025.09) MRADNET: a Compact Radar Object Detector with MetaFormer, [[Paper]](https://arxiv.org/pdf/2509.16223)
 - (arXiv 2025.09) FMC-DETR: Frequency-Decoupled Multi-Domain Coordination for Aerial-View Object Detection, [[Paper]](https://arxiv.org/pdf/2509.23056), [[Code]](https://github.com/bloomingvision/FMC-DETR)
+- (arXiv 2025.09) FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers, [[Paper]](https://arxiv.org/pdf/2510.15385)
