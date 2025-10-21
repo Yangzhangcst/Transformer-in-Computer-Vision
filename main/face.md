@@ -128,3 +128,4 @@
 - (arXiv 2025.09) Scale-interaction transformer: a hybrid cnn-transformer model for facial beauty prediction,  [[Paper]](https://arxiv.org/pdf/2509.05078.pdf)
 - (arXiv 2025.09) Mixture of Global and Local Experts with Diffusion Transformer for Controllable Face Generation,  [[Paper]](https://arxiv.org/pdf/2509.00428.pdf)
 - (arXiv 2025.09) FairViT-GAN: A Hybrid Vision Transformer with Adversarial Debiasing for Fair and Explainable Facial Beauty Prediction,  [[Paper]](https://arxiv.org/pdf/2509.23859.pdf)
+- (arXiv 2025.10) Proto-Former: Unified Facial Landmark Detection by Prototype Transformer,  [[Paper]](https://arxiv.org/pdf/2510.15338.pdf),[[Code]](https://github.com/Husk021118/Proto-Former)
