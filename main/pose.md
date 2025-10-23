@@ -138,3 +138,4 @@
 - (arXiv 2025.08) PyCAT4: A Hierarchical Vision Transformer-based Framework for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2508.02806.pdf)
 - (arXiv 2025.09) Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers, [[Paper]](https://arxiv.org/pdf/2509.06956.pdf), [[Code]](https://github.com/NationalGAILab/HoT)
 - (arXiv 2025.09) Motion Aware ViT-based Framework for Monocular 6-DoF Spacecraft Pose Estimation, [[Paper]](https://arxiv.org/pdf/2509.06000.pdf)
+- (arXiv 2025.10) RayPose: Ray Bundling Diffusion for Template Views in Unseen 6D Object Pose Estimation, [[Paper]](https://arxiv.org/pdf/2510.18521.pdf), [[Code]](https://demianhj.github.io/projects/RayPose/)
