@@ -129,3 +129,4 @@
 - (arXiv 2025.09) Mixture of Global and Local Experts with Diffusion Transformer for Controllable Face Generation,  [[Paper]](https://arxiv.org/pdf/2509.00428.pdf)
 - (arXiv 2025.09) FairViT-GAN: A Hybrid Vision Transformer with Adversarial Debiasing for Fair and Explainable Facial Beauty Prediction,  [[Paper]](https://arxiv.org/pdf/2509.23859.pdf)
 - (arXiv 2025.10) Proto-Former: Unified Facial Landmark Detection by Prototype Transformer,  [[Paper]](https://arxiv.org/pdf/2510.15338.pdf),[[Code]](https://github.com/Husk021118/Proto-Former)
+- (arXiv 2025.10) GPTFace: Generative Pre-training of Facial-Linguistic Transformer by Span Masking and Weakly Correlated Text-image Data,  [[Paper]](https://arxiv.org/pdf/2510.18345.pdf)
