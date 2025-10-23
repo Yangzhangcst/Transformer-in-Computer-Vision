@@ -34,3 +34,4 @@
 - (arXiv 2025.04) Hypergraph Vision Transformers: Images are More than Nodes, More than Edges, [[Paper]](https://arxiv.org/pdf/2504.08710)
 - (arXiv 2025.06) GraphGSOcc: Semantic and Geometric Graph Transformer for 3D Gaussian Splating-based Occupancy Prediction, [[Paper]](https://arxiv.org/pdf/2506.14825)
 - (arXiv 2025.07) ST-GRIT: Spatio-Temporal Graph Transformer For Internal Ice Layer Thickness Prediction, [[Paper]](https://arxiv.org/pdf/2507.07389)
+- (arXiv 2025.10) Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework, [[Paper]](https://arxiv.org/pdf/2510.18825), [[Code]](https://github.com/null-xyj/M3Dphormer)
