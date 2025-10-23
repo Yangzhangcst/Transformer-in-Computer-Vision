@@ -675,4 +675,5 @@
 - (arXiv 2025.08) Learning Spatial Decay for Vision Transformers, [[Paper]](https://arxiv.org/pdf/2508.09525.pdf)
 - (arXiv 2025.09) Adaptive Token Merging for Efficient Transformer Semantic Communication at the Edge, [[Paper]](https://arxiv.org/pdf/2509.09955.pdf)
 - (arXiv 2025.09) Enhancing Transformer-Based Vision Models: Addressing Feature Map Anomalies Through Novel Optimization Strategies, [[Paper]](https://arxiv.org/pdf/2509.19687.pdf)
+- (arXiv 2025.10) Accelerating Vision Transformers with Adaptive Patch Sizes, [[Paper]](https://arxiv.org/pdf/2510.18091.pdf),[[Code]](https://rccchoudhury.github.io/apt/)
 
