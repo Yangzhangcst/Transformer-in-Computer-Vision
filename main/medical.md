@@ -811,3 +811,4 @@
 - (arXiv 2025.09) HiPerformer: A High-Performance Global-Local Segmentation Model with Modular Hierarchical Fusion Strategy, [[Paper]](https://arxiv.org/pdf/2509.20280), [[Code]](https://github.com/xzphappy/HiPerformer)
 - (arXiv 2025.09) PVTAdpNet: Polyp Segmentation using Pyramid vision transformer with a novel Adapter block, [[Paper]](https://arxiv.org/pdf/2509.23751), [[Code]](https://github.com/ayousefinejad/PVTAdpNet)
 - (arXiv 2025.09) Confidence-Weighted Semi-Supervised Learning for Skin Lesion Segmentation Using Hybrid CNN-Transformer Networks, [[Paper]](https://arxiv.org/pdf/2510.15354), [[Code]](https://github.com/sqbqamar/MIRA-U)
+- (arXiv 2025.10) ACS-SegNet: An Attention-Based CNN-SegFormer Segmentation Network for Tissue Segmentation in Histopathology, [[Paper]](https://arxiv.org/pdf/2510.20754), [[Code]](https://github.com/NimaTorbati/ACS-SegNet)
