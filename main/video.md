@@ -212,3 +212,4 @@
 - (arXiv 2025.09) Sparse Transformer for Ultra-sparse Sampled Video Compressive Sensing,  [[Paper]](https://arxiv.org/pdf/2509.08228), [[Code]](https://github.com/mcao92/BSTFormer)
 - (arXiv 2025.09) ResidualViT for Efficient Temporally Dense Video Encoding,  [[Paper]](https://arxiv.org/pdf/2509.13255)
 - (arXiv 2025.09) VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing,  [[Paper]](https://arxiv.org/pdf/2509.25998)
+- (arXiv 2025.10) Video Prediction of Dynamic Physical Simulations With Pixel-Space Spatiotemporal Transformers,  [[Paper]](https://arxiv.org/pdf/2510.20807)
