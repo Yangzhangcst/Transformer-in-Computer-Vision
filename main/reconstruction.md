@@ -42,3 +42,4 @@
 - (arXiv 2025.09) EfficienT-HDR: An Efficient Transformer-Based Framework via Multi-Exposure Fusion for HDR Reconstruction, [[Paper]](https://arxiv.org/pdf/2509.19779.pdf)
 - (arXiv 2025.09) LVT: Large-Scale Scene Reconstruction via Local View Transformers, [[Paper]](https://arxiv.org/pdf/2509.25001.pdf), [[Code]](https://toobaimt.github.io/lvt/)
 - (arXiv 2025.09) HART: Human Aligned Reconstruction Transformer, [[Paper]](https://arxiv.org/pdf/2509.26621.pdf), [[Code]](https://github.com/xiyichen/hart)
+- (arXiv 2025.10) OnlineSplatter: Pose-Free Online 3D Reconstruction for Free-Moving Objects, [[Paper]](https://arxiv.org/pdf/2510.20605.pdf), [[Code]](https://github.com/MarkHershey/OnlineSplatter)
