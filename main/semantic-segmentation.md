@@ -174,3 +174,4 @@
 - (arXiv 2025.09) I-Segmenter: Integer-Only Vision Transformer for Efficient Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2509.10334.pdf)
 - (arXiv 2025.09) Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models, [[Paper]](https://arxiv.org/pdf/2509.20107.pdf),[[Code]](https://github.com/robot-learning-freiburg/hsi-adapter)
 - (arXiv 2025.10) ClustViT: Clustering-based Token Merging for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2510.01948.pdf)
+- (arXiv 2025.11) UKANFormer: Noise-Robust Semantic Segmentation for Coral Reef Mapping via a Kolmogorov-Arnold Network-Transformer Hybrid, [[Paper]](https://arxiv.org/pdf/2510.16730.pdf)
