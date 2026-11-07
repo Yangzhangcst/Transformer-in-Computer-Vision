@@ -4,3 +4,4 @@
 - (arXiv 2022.06) SAViR-T: Spatially Attentive Visual Reasoning with Transformers, [[Paper]](https://arxiv.org/pdf/2204.11167.pdf)
 - (arXiv 2023.01) Pseudo 3D Perception Transformer with Multi-level Confidence Optimization for Visual Commonsense Reasoning, [[Paper]](https://arxiv.org/pdf/2301.13335.pdf)
 - (arXiv 2024.03) ViTCN: Vision Transformer Contrastive Network For Reasoning, [[Paper]](https://arxiv.org/pdf/2403.09962.pdf)
+- (ICML 2026) Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning, [[Paper]](https://proceedings.mlr.press/v306/zeng26y.html), [[Code]](https://github.com/MCG-NJU/Video-o3)
