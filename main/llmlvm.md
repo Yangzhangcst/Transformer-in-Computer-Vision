@@ -58,3 +58,4 @@
 - (arXiv 2025.06) ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads, [[Paper]](https://arxiv.org/pdf/2506.03433.pdf),[[Code]](https://jackyfl.github.io/vitsplit.github.io/)
 - (arXiv 2025.07) VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning, [[Paper]](https://arxiv.org/pdf/2507.13348.pdf),[[Code]](https://github.com/dvlab-research/VisionThink)
 - (arXiv 2025.08) GoViG: Goal-Conditioned Visual Navigation Instruction Generation, [[Paper]](https://arxiv.org/pdf/2508.09547.pdf),[[Code]](https://github.com/F1y1113/GoViG)
+- (arXiv 2026) VideoJev: System One Model for Video Understanding and Interaction, [[Paper]](https://arxiv.org/abs/2610.18615), [[Code]](https://github.com/MCG-NJU/VideoJev)

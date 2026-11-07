@@ -213,3 +213,4 @@
 - (arXiv 2025.09) ResidualViT for Efficient Temporally Dense Video Encoding,  [[Paper]](https://arxiv.org/pdf/2509.13255)
 - (arXiv 2025.09) VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing,  [[Paper]](https://arxiv.org/pdf/2509.25998)
 - (arXiv 2025.10) Video Prediction of Dynamic Physical Simulations With Pixel-Space Spatiotemporal Transformers,  [[Paper]](https://arxiv.org/pdf/2510.20807)
+- (arXiv 2026) VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding, [[Paper]](https://arxiv.org/abs/2607.14935), [[Code]](https://github.com/MCG-NJU/VideoChat3)
